@@ -1,0 +1,52 @@
+services:
+  # === PostgreSQL 16 ===
+  postgres:
+    image: postgres:16-alpine
+    container_name: vocabulary-postgres
+    environment:
+      POSTGRES_USER: vocabulary
+      POSTGRES_PASSWORD: vocabulary_secret
+      POSTGRES_DB: vocabulary
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vocabulary"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # === Redis 7 ===
+  redis:
+    image: redis:7-alpine
+    container_name: vocabulary-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # === Mailpit (email testing) ===
+  mailpit:
+    image: axllent/mailpit:latest
+    container_name: vocabulary-mailpit
+    ports:
+      - "1025:1025"
+      - "8025:8025"
+    restart: unless-stopped
+
+  # === Stripe CLI (webhook testing) ===
+  stripe:
+    image: stripe/stripe-cli
+    container_name: vocabulary-stripe
+    command: listen --api-key ${STRIPE_SECRET_KEY} --forward-to host.docker.internal:8000/api/stripe/webhook
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+  redis_data:

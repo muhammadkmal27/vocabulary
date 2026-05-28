@@ -1,0 +1,26 @@
+# Exclude vendor directory - Composer will install fresh in container
+vendor/
+
+# Exclude git directory
+.git/
+.github/
+
+# Exclude local environment files
+.env
+.env.*.bak
+
+# Exclude storage logs and cache (will be created by container)
+storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+
+# Exclude test files
+tests/
+.phpunit.result.cache
+phpunit.xml
+
+# Exclude development tools
+node_modules/
+npm-debug.log
+yarn-error.log

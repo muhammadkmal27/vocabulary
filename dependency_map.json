@@ -1,0 +1,333 @@
+{
+  "$schema": "Vocabulary Dependency Map",
+  "version": "1.0",
+  "projects": {
+    "laravel": {
+      "path": "laravel/",
+      "type": "backend",
+      "framework": "Laravel 12",
+      "dependencies": []
+    },
+    "frontend": {
+      "path": "frontend/",
+      "type": "frontend",
+      "framework": "Next.js 15",
+      "dependencies": ["laravel"]
+    }
+  },
+  "features": {
+    "auth": {
+      "id": "F1",
+      "name": "Auth System",
+      "backend_files": [
+        "app/Http/Controllers/Api/AuthController.php",
+        "app/Http/Requests/RegisterRequest.php",
+        "routes/api.php"
+      ],
+      "frontend_files": [
+        "src/app/login/page.tsx",
+        "src/app/register/page.tsx"
+      ],
+      "dependencies": ["migrations", "sanctum"]
+    },
+    "admin_crud_languages": {
+      "id": "F3.1",
+      "name": "Admin Languages CRUD",
+      "backend_files": [
+        "app/Http/Controllers/Api/Admin/LanguageController.php",
+        "app/Http/Requests/Admin/StoreLanguageRequest.php",
+        "app/Http/Requests/Admin/UpdateLanguageRequest.php"
+      ],
+      "dependencies": ["admin_middleware"]
+    },
+    "admin_crud_levels": {
+      "id": "F3.2",
+      "name": "Admin Levels CRUD",
+      "backend_files": [
+        "app/Http/Controllers/Api/Admin/LevelController.php"
+      ],
+      "dependencies": ["admin_middleware", "admin_crud_languages"]
+    },
+    "admin_crud_sentences": {
+      "id": "F3.3",
+      "name": "Admin Sentences CRUD",
+      "backend_files": [
+        "app/Http/Controllers/Api/Admin/SentenceController.php"
+      ],
+      "dependencies": ["admin_middleware", "admin_crud_levels"]
+    },
+    "admin_crud_plans": {
+      "id": "F3.4",
+      "name": "Admin Subscription Plans CRUD",
+      "backend_files": [
+        "app/Http/Controllers/Api/Admin/SubscriptionPlanController.php"
+      ],
+      "dependencies": ["admin_middleware"]
+    },
+    "admin_crud_coupons": {
+      "id": "F3.5",
+      "name": "Admin Coupons CRUD",
+      "backend_files": [
+        "app/Http/Controllers/Api/Admin/CouponController.php"
+      ],
+      "dependencies": ["admin_middleware"]
+    },
+    "quiz_engine": {
+      "id": "F2",
+      "name": "Quiz Engine",
+      "backend_files": [
+        "app/Services/QuizService.php",
+        "app/Http/Controllers/Api/QuizController.php"
+      ],
+      "dependencies": ["auth", "subscribed_middleware", "migrations"]
+    },
+    "stripe": {
+      "id": "F4",
+      "name": "Stripe Integration",
+      "backend_files": [
+        "app/Services/StripeService.php",
+        "app/Http/Controllers/Api/StripeController.php",
+        "app/Http/Controllers/Api/WebhookController.php"
+      ],
+      "dependencies": ["auth", "admin_crud_plans"]
+    },
+    "coupon": {
+      "id": "F4.5",
+      "name": "Coupon Redemption",
+      "backend_files": [
+        "app/Services/CouponService.php",
+        "app/Http/Controllers/Api/CouponController.php"
+      ],
+      "dependencies": ["auth"]
+    }
+  },
+  "middleware": {
+    "admin_middleware": {
+      "file": "app/Http/Middleware/AdminMiddleware.php",
+      "aliased_as": "admin"
+    },
+    "subscribed_middleware": {
+      "file": "app/Http/Middleware/SubscribedMiddleware.php",
+      "aliased_as": "subscribed"
+    }
+  },
+  "enums": {
+    "UserRole": "app/Enums/UserRole.php",
+    "QuizSessionStatus": "app/Enums/QuizSessionStatus.php",
+    "SubscriptionStatus": "app/Enums/SubscriptionStatus.php"
+  }
+          "status": "not_started",
+          "depends_on": ["0.4"]
+        },
+        "0.6": {
+          "label": "Setup Axios + API config",
+          "status": "not_started",
+          "depends_on": ["0.4"]
+        },
+        "0.7": {
+          "label": "Create .env.example files",
+          "status": "not_started",
+          "depends_on": ["0.1", "0.4"]
+        }
+      }
+    },
+    "1_database_auth": {
+      "label": "Database & Auth Foundation",
+      "depends_on": ["0_monorepo_setup"],
+      "tasks": {
+        "1.1": {
+          "label": "Migration: languages",
+          "status": "not_started",
+          "depends_on": ["0.2"]
+        },
+        "1.2": {
+          "label": "Migration: users",
+          "status": "not_started",
+          "depends_on": ["0.2"]
+        },
+        "1.3": {
+          "label": "Migration: levels",
+          "status": "not_started",
+          "depends_on": ["1.1"]
+        },
+        "1.4": {
+          "label": "Migration: sentences",
+          "status": "not_started",
+          "depends_on": ["1.3"]
+        },
+        "1.5": {
+          "label": "Migration: subscription_plans",
+          "status": "not_started",
+          "depends_on": ["0.2"]
+        },
+        "1.6": {
+          "label": "Migration: subscriptions",
+          "status": "not_started",
+          "depends_on": ["1.2", "1.5"]
+        },
+        "1.7": {
+          "label": "Migration: coupons",
+          "status": "not_started",
+          "depends_on": ["0.2"]
+        },
+        "1.8": {
+          "label": "Migration: coupon_redemptions",
+          "status": "not_started",
+          "depends_on": ["1.2", "1.7"]
+        },
+        "1.9": {
+          "label": "Migration: quiz_sessions",
+          "status": "not_started",
+          "depends_on": ["1.2", "1.1", "1.3"]
+        },
+        "1.10": {
+          "label": "Migration: quiz_answers",
+          "status": "not_started",
+          "depends_on": ["1.9", "1.4"]
+        },
+        "1.11": {
+          "label": "Migration: transactions",
+          "status": "not_started",
+          "depends_on": ["1.2", "1.6"]
+        },
+        "1.12": {
+          "label": "Eloquant Models + Relationships",
+          "status": "not_started",
+          "depends_on": ["1.1-1.11"]
+        },
+        "1.13": { "label": "Enums", "status": "not_started", "depends_on": [] },
+        "1.14": {
+          "label": "Register API",
+          "status": "not_started",
+          "depends_on": ["1.2"]
+        },
+        "1.15": {
+          "label": "Login API",
+          "status": "not_started",
+          "depends_on": ["1.2"]
+        },
+        "1.16": {
+          "label": "Logout API",
+          "status": "not_started",
+          "depends_on": ["1.15"]
+        },
+        "1.17": {
+          "label": "AdminMiddleware",
+          "status": "not_started",
+          "depends_on": ["1.12"]
+        },
+        "1.18": {
+          "label": "SubscribedMiddleware",
+          "status": "not_started",
+          "depends_on": ["1.12"]
+        },
+        "1.19": {
+          "label": "Seed: admin user",
+          "status": "not_started",
+          "depends_on": ["1.2"]
+        },
+        "1.20": {
+          "label": "Seed: English + samples",
+          "status": "not_started",
+          "depends_on": ["1.4"]
+        }
+      }
+    },
+    "2_admin_api": {
+      "label": "Admin Panel Backend API",
+      "depends_on": ["1_database_auth"],
+      "tasks": {
+        "2.1": {
+          "label": "CRUD Languages API",
+          "status": "not_started",
+          "depends_on": ["1.17"]
+        },
+        "2.2": {
+          "label": "CRUD Levels API",
+          "status": "not_started",
+          "depends_on": ["2.1"]
+        },
+        "2.3": {
+          "label": "CRUD Sentences API",
+          "status": "not_started",
+          "depends_on": ["2.2"]
+        },
+        "2.4": {
+          "label": "CRUD Plans API",
+          "status": "not_started",
+          "depends_on": ["1.5", "1.17"]
+        },
+        "2.5": {
+          "label": "CRUD Coupons + Generate API",
+          "status": "not_started",
+          "depends_on": ["1.7", "1.17"]
+        },
+        "2.6": {
+          "label": "List Users API",
+          "status": "not_started",
+          "depends_on": ["1.17"]
+        },
+        "2.7": {
+          "label": "List Transactions API",
+          "status": "not_started",
+          "depends_on": ["1.11", "1.17"]
+        },
+        "2.8": {
+          "label": "Dashboard Stats API",
+          "status": "not_started",
+          "depends_on": ["1.12"]
+        }
+      }
+    },
+    "3_stripe": {
+      "label": "Stripe Integration",
+      "depends_on": ["1_database_auth"],
+      "tasks": {}
+    },
+    "4_coupons": {
+      "label": "Coupon System",
+      "depends_on": ["1_database_auth", "3_stripe"],
+      "tasks": {}
+    },
+    "5_dashboard_api": {
+      "label": "User Dashboard API",
+      "depends_on": ["1_database_auth"],
+      "tasks": {}
+    },
+    "6_quiz_engine": {
+      "label": "Quiz Engine Core",
+      "depends_on": ["1_database_auth", "5_dashboard_api"],
+      "tasks": {}
+    },
+    "7_results": {
+      "label": "Results & Review",
+      "depends_on": ["6_quiz_engine"],
+      "tasks": {}
+    },
+    "8_frontend_foundation": {
+      "label": "Frontend Foundation",
+      "depends_on": ["0_monorepo_setup", "1_database_auth"],
+      "tasks": {}
+    },
+    "9_frontend_auth": {
+      "label": "Frontend Authenticated Pages",
+      "depends_on": ["8_frontend_foundation", "5_dashboard_api"],
+      "tasks": {}
+    },
+    "10_frontend_quiz": {
+      "label": "Frontend Quiz Experience",
+      "depends_on": ["9_frontend_auth", "6_quiz_engine", "7_results"],
+      "tasks": {}
+    },
+    "11_frontend_admin": {
+      "label": "Frontend Admin Panel",
+      "depends_on": ["8_frontend_foundation", "2_admin_api"],
+      "tasks": {}
+    },
+    "12_polish": {
+      "label": "Polish & Testing",
+      "depends_on": ["10_frontend_quiz", "11_frontend_admin"],
+      "tasks": {}
+    }
+  }
+}
