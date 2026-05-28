@@ -53,6 +53,8 @@ export default function DashboardPage() {
           setSelectedLanguage(data[0]);
           localStorage.setItem("selected_language_id", data[0].id);
         }
+      } else {
+        setLoading(false);
       }
     } catch (err: any) {
       setError(err.message || "Ralat berlaku.");
