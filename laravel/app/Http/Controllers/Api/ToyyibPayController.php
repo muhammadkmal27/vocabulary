@@ -85,6 +85,7 @@ class ToyyibPayController extends Controller
             'quota_used' => $count,
             'quota_remaining' => max(0, $limit - $count),
             'is_available' => $count < $limit && ($plan ? (bool) $plan->is_active : true),
+            'plan' => $plan,
         ]);
     }
 }

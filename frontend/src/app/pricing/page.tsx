@@ -269,34 +269,42 @@ export default function PricingPage() {
         ) : (
           <div className={`grid md:grid-cols-${isPromoAvailable ? "2" : "1"} gap-6 max-w-${isPromoAvailable ? "3xl" : "md"} mx-auto`}>
 
-            {/* ToyyibPay Lifetime Promo */}
-            {isPromoAvailable && (
+            {/* ToyyibPay Lifetime/Promo Plan */}
+            {isPromoAvailable && toyyibpayStatus?.plan && (
               <Card className="border-warning ring-1 ring-warning relative bg-gradient-to-br from-warning/5 to-background">
                 <CardHeader className="text-center pt-6">
                   <div className="flex justify-center mb-2">
                     <Badge className="bg-warning text-warning-foreground font-semibold flex items-center gap-1">
-                      <Sparkles className="w-3.5 h-3.5 fill-warning-foreground" /> PROMO LIFETIME (Terhad)
+                      <Sparkles className="w-3.5 h-3.5 fill-warning-foreground" /> {toyyibpayStatus.plan.duration_months ? "PROMO TERHAD" : "PROMO LIFETIME (Terhad)"}
                     </Badge>
                   </div>
-                  <CardTitle>Akses Seumur Hidup</CardTitle>
+                  <CardTitle>{toyyibpayStatus.plan.name}</CardTitle>
                   <div className="mt-2">
-                    <span className="text-4xl font-bold">RM100</span>
-                    <span className="text-muted-foreground text-sm"> /sekali bayar</span>
+                    <span className="text-4xl font-bold">RM{parseFloat(toyyibpayStatus.plan.price_myr).toFixed(0)}</span>
+                    <span className="text-muted-foreground text-sm">
+                      {toyyibpayStatus.plan.duration_months ? ` / ${toyyibpayStatus.plan.duration_months} bulan` : " /sekali bayar"}
+                    </span>
                   </div>
                   <p className="text-[11px] text-warning font-bold bg-warning/10 py-1 px-3 rounded-full mt-2 inline-block mx-auto">
-                    🔥 Tinggal {toyyibpayStatus.quota_remaining}/100 kuota sahaja!
+                    🔥 Tinggal {toyyibpayStatus.quota_remaining}/{toyyibpayStatus.plan.member_limit || 100} kuota sahaja!
                   </p>
                 </CardHeader>
                 <CardContent>
                   <ul className="space-y-3">
-                    {[
+                    {(toyyibpayStatus.plan.duration_months ? [
+                      `Akses selama ${toyyibpayStatus.plan.duration_months} bulan`,
+                      "Semua bahasa & semua level",
+                      "Akses penuh tanpa had",
+                      "Pembayaran ToyyibPay (FPX)",
+                      "Sokongan VIP priority",
+                    ] : [
                       "Guna seumur hidup tanpa bulanan",
                       "Semua bahasa & semua level",
                       "Akses penuh tanpa had",
                       "Pembayaran ToyyibPay (FPX)",
                       "Jimat RM240 setahun!",
                       "Sokongan VIP priority",
-                    ].map((f) => (
+                    ]).map((f) => (
                       <li key={f} className="flex items-start gap-2 text-sm">
                         <Check className="w-4 h-4 text-success shrink-0 mt-0.5" />
                         <span>{f}</span>
@@ -306,7 +314,7 @@ export default function PricingPage() {
                 </CardContent>
                 <CardFooter>
                   <Button className="w-full bg-warning text-black hover:bg-warning/80 font-bold shadow-sm" onClick={handleToyyibPaySubscribeClick}>
-                    Dapatkan Lifetime RM100
+                    Dapatkan {toyyibpayStatus.plan.name}
                   </Button>
                 </CardFooter>
               </Card>
