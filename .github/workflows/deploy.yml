@@ -78,6 +78,9 @@ jobs:
           docker compose pull
           docker compose up -d --remove-orphans
           
+          # Restart Nginx untuk elakkan ralat 502 DNS cache
+          docker compose restart nginx
+          
           # Jalankan optimasi Laravel
           docker exec vocabulary-laravel-prod php artisan config:cache
           docker exec vocabulary-laravel-prod php artisan route:cache
