@@ -60,6 +60,7 @@ export default function PricingPage() {
   const fetchPlans = async () => {
     try {
       const res = await fetch("/api/plans", {
+        cache: "no-store",
         headers: { Accept: "application/json" },
       });
       if (res.ok) {
@@ -75,7 +76,10 @@ export default function PricingPage() {
     try {
       const headers: Record<string, string> = { Accept: "application/json" };
       if (token) headers.Authorization = `Bearer ${token}`;
-      const res = await fetch("/api/subscription/toyyibpay/status", { headers });
+      const res = await fetch("/api/subscription/toyyibpay/status", {
+        cache: "no-store",
+        headers,
+      });
       if (res.ok) {
         const data = await res.json();
         setToyyibpayStatus(data);
