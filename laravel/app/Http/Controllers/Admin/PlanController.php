@@ -21,7 +21,9 @@ class PlanController extends Controller
             'member_limit' => 'nullable|integer|min:1',
         ]);
 
-        return SubscriptionPlan::create($validated);
+        $plan = SubscriptionPlan::create($validated);
+        \Illuminate\Support\Facades\Cache::forget('subscription_plans_active');
+        return $plan;
     }
 
     public function show(SubscriptionPlan $plan)
@@ -40,12 +42,14 @@ class PlanController extends Controller
         ]);
 
         $plan->update($validated);
+        \Illuminate\Support\Facades\Cache::forget('subscription_plans_active');
         return $plan;
     }
 
     public function destroy(SubscriptionPlan $plan)
     {
         $plan->delete();
+        \Illuminate\Support\Facades\Cache::forget('subscription_plans_active');
         return response()->json(['message' => 'Deleted']);
     }
 }
