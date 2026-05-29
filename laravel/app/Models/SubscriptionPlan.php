@@ -7,12 +7,13 @@ use Illuminate\Database\Eloquent\Model;
 
 class SubscriptionPlan extends Model {
     use HasUuids;
-    protected $fillable = ['name','slug','price_myr','stripe_price_id','is_active','member_limit'];
+    protected $fillable = ['name','slug','price_myr','stripe_price_id','is_active','member_limit','duration_months'];
     protected function casts(): array {
         return [
             'is_active'=>'boolean',
             'price_myr'=>'decimal:2',
-            'member_limit'=>'integer'
+            'member_limit'=>'integer',
+            'duration_months'=>'integer'
         ];
     }
     public function subscriptions() {

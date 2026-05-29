@@ -200,19 +200,23 @@ class ToyyibPayService
             // Deactivate other existing subscriptions
             $user->subscriptions()->update(['stripe_status' => 'canceled', 'auto_renew' => false]);
 
-            // Create active lifetime subscription
+            // Create active subscription based on duration_months
+            $durationMonths = $plan->duration_months;
+            $isLifetime = empty($durationMonths);
+            $endsAt = $isLifetime ? null : now()->addMonths($durationMonths);
+
             $subscription = Subscription::updateOrCreate(
                 [
                     'user_id' => $user->id,
                     'payment_gateway' => 'toyyibpay',
-                    'is_lifetime' => true,
                 ],
                 [
                     'plan_id' => $plan->id,
                     'stripe_subscription_id' => 'toyyibpay_' . $refno,
                     'stripe_status' => 'active',
                     'auto_renew' => false,
-                    'ends_at' => null,
+                    'is_lifetime' => $isLifetime,
+                    'ends_at' => $endsAt,
                 ]
             );
 

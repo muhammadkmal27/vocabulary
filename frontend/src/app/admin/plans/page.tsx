@@ -25,6 +25,7 @@ interface PlanRecord {
   stripe_price_id?: string | null;
   is_active: boolean;
   member_limit?: number | null;
+  duration_months?: number | null;
 }
 
 export default function AdminPlansPage() {
@@ -41,6 +42,7 @@ export default function AdminPlansPage() {
   const [priceMyr, setPriceMyr] = useState("");
   const [isActive, setIsActive] = useState(true);
   const [memberLimit, setMemberLimit] = useState("");
+  const [durationMonths, setDurationMonths] = useState("");
   const [submitting, setSubmitting] = useState(false);
 
   const fetchPlans = async () => {
@@ -96,6 +98,7 @@ export default function AdminPlansPage() {
     setPriceMyr(plan.price_myr.toString());
     setIsActive(plan.is_active);
     setMemberLimit(plan.member_limit ? plan.member_limit.toString() : "");
+    setDurationMonths(plan.duration_months ? plan.duration_months.toString() : "");
     setOpen(true);
   };
 
@@ -116,6 +119,7 @@ export default function AdminPlansPage() {
           price_myr: parseFloat(priceMyr),
           is_active: isActive,
           member_limit: memberLimit ? parseInt(memberLimit) : null,
+          duration_months: durationMonths ? parseInt(durationMonths) : null,
         }),
       });
 
@@ -211,13 +215,18 @@ export default function AdminPlansPage() {
                  <div className="text-2xl font-bold">
                   RM{typeof plan.price_myr === "number" ? plan.price_myr.toFixed(2) : plan.price_myr}
                   <span className="text-sm text-muted-foreground">
-                    {plan.slug === "lifetime" ? " /sekali bayar" : " /bulan"}
+                    {plan.duration_months ? ` / ${plan.duration_months} bulan` : (plan.slug === "lifetime" ? " /sekali bayar" : " /bulan")}
                   </span>
                 </div>
                 {plan.slug === "lifetime" && (
-                  <p className="text-xs text-muted-foreground">
-                    Had Pengguna: <strong className="text-foreground">{plan.member_limit ?? 100} orang</strong>
-                  </p>
+                  <div className="space-y-1 text-xs text-muted-foreground">
+                    <p>
+                      Had Pengguna: <strong className="text-foreground">{plan.member_limit ?? 100} orang</strong>
+                    </p>
+                    <p>
+                      Tempoh Aktif: <strong className="text-foreground">{plan.duration_months ? `${plan.duration_months} bulan` : "Seumur Hidup"}</strong>
+                    </p>
+                  </div>
                 )}
                 {plan.stripe_price_id && (
                   <p className="text-xs text-muted-foreground font-mono">
@@ -269,16 +278,29 @@ export default function AdminPlansPage() {
               />
             </div>
             {editingPlan?.slug === "lifetime" && (
-              <div className="space-y-1.5">
-                <Label htmlFor="plan_limit">Had Ahli / Quota Lifetime Promo</Label>
-                <Input
-                  id="plan_limit"
-                  type="number"
-                  placeholder="Tiada had (Lalai 100)"
-                  value={memberLimit}
-                  onChange={(e) => setMemberLimit(e.target.value)}
-                />
-              </div>
+              <>
+                <div className="space-y-1.5">
+                  <Label htmlFor="plan_limit">Had Ahli / Quota Promo</Label>
+                  <Input
+                    id="plan_limit"
+                    type="number"
+                    placeholder="Tiada had (Lalai 100)"
+                    value={memberLimit}
+                    onChange={(e) => setMemberLimit(e.target.value)}
+                  />
+                </div>
+                <div className="space-y-1.5">
+                  <Label htmlFor="plan_duration">Tempoh Aktif (Bulan)</Label>
+                  <Input
+                    id="plan_duration"
+                    type="number"
+                    min="1"
+                    placeholder="Seumur Hidup (Kosongkan)"
+                    value={durationMonths}
+                    onChange={(e) => setDurationMonths(e.target.value)}
+                  />
+                </div>
+              </>
             )}
             <div className="flex items-center gap-2">
               <input

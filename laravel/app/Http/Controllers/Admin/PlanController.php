@@ -19,6 +19,7 @@ class PlanController extends Controller
             'stripe_price_id' => 'nullable|string',
             'is_active' => 'boolean',
             'member_limit' => 'nullable|integer|min:1',
+            'duration_months' => 'nullable|integer|min:1',
         ]);
 
         $plan = SubscriptionPlan::create($validated);
@@ -39,6 +40,7 @@ class PlanController extends Controller
             'stripe_price_id' => 'nullable|string',
             'is_active' => 'boolean',
             'member_limit' => 'nullable|integer|min:1',
+            'duration_months' => 'nullable|integer|min:1',
         ]);
 
         $plan->update($validated);
