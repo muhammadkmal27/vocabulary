@@ -82,7 +82,7 @@ Route::middleware(['auth:sanctum', 'throttle:payment-manage'])->group(function (
 });
 
 // Public ToyyibPay Promo status
-Route::middleware('throttle:payment-manage')->get('/subscription/toyyibpay/status', [App\Http\Controllers\Api\ToyyibPayController::class, 'status']);
+Route::middleware('throttle:60,1')->get('/subscription/toyyibpay/status', [App\Http\Controllers\Api\ToyyibPayController::class, 'status']);
 
 Route::middleware('auth:sanctum')->group(function () {
     Route::post('/logout', [AuthController::class, 'logout']);
