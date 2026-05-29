@@ -14,27 +14,32 @@ class ToyyibPayService
     public function createBill(User $user, string $successUrl): string
     {
         $plan = SubscriptionPlan::where('slug', 'lifetime')->first();
-        $limit = $plan ? ($plan->member_limit ?? 100) : 100;
+        if (!$plan) {
+            throw new \Exception("Pelan promosi tidak dijumpai.");
+        }
 
+        $limit = $plan->member_limit ?? 100;
         $count = Subscription::where('payment_gateway', 'toyyibpay')
-            ->where('is_lifetime', true)
             ->where('stripe_status', 'active')
             ->count();
 
         if ($count >= $limit) {
-            throw new \Exception("Lifetime promo quota ({$limit} users) has been fully reached.");
+            throw new \Exception("Kuota promosi ({$limit} pengguna) telah dicapai sepenuhnya.");
         }
 
         $url = config('toyyibpay.url') . 'index.php/api/createBill';
         
+        // Tukar harga (RM) ke sen untuk ToyyibPay. Contoh: RM1.00 -> 100 sen
+        $billAmount = (int) round(floatval($plan->price_myr) * 100);
+
         $params = [
             'userSecretKey' => config('toyyibpay.secret_key'),
             'categoryCode' => config('toyyibpay.category_code'),
-            'billName' => 'Vocabulary Lifetime Promo',
-            'billDescription' => 'Vocabulary Lifetime Access Promo for First 100 Users',
+            'billName' => $plan->name,
+            'billDescription' => 'Vocabulary Premium Access - ' . $plan->name,
             'billPriceSetting' => 1,
             'billPayorInfo' => 1,
-            'billAmount' => 10000, // RM100.00 in cents
+            'billAmount' => $billAmount, 
             'billReturnUrl' => $successUrl,
             'billCallbackUrl' => url('/api/subscription/toyyibpay/webhook'),
             'billExternalReferenceNo' => $user->id,
@@ -64,7 +69,7 @@ class ToyyibPayService
     {
         $status = $data['status'] ?? null;
         $userId = $data['billExternalReferenceNo'] ?? null;
-        $amount = $data['amount'] ?? 100.00;
+        $amount = $data['amount'] ?? 1.00;
         $refno = $data['refno'] ?? '';
         $billcode = $data['billcode'] ?? null;
 
@@ -105,7 +110,7 @@ class ToyyibPayService
 
         // status = 1 is Success in ToyyibPay
         if ($status == 1 && $userId) {
-            $this->activateLifetimeSubscription($userId, $refno, $amount);
+            $this->activateSubscription($userId, $refno, $amount);
         }
     }
 
@@ -119,12 +124,11 @@ class ToyyibPayService
         // Check if already activated (idempotent)
         $existing = Subscription::where('user_id', $user->id)
             ->where('payment_gateway', 'toyyibpay')
-            ->where('is_lifetime', true)
             ->where('stripe_status', 'active')
             ->first();
 
         if ($existing) {
-            return ['activated' => true, 'message' => 'Langganan Lifetime anda sudah aktif.'];
+            return ['activated' => true, 'message' => 'Langganan anda sudah aktif.'];
         }
 
         // Verify with ToyyibPay API
@@ -167,17 +171,17 @@ class ToyyibPayService
         }
 
         $refno = $paidTx['billpaymentSettlementRefNo'] ?? $paidTx['billpaymentInvoiceNo'] ?? $billcode;
-        $amount = $paidTx['billpaymentAmount'] ?? 100.00;
+        $amount = (float) ($paidTx['billpaymentAmount'] ?? 1.00);
 
-        $this->activateLifetimeSubscription($user->id, $refno, $amount);
+        $this->activateSubscription($user->id, $refno, $amount);
 
-        return ['activated' => true, 'message' => 'Tahniah! Langganan Lifetime anda telah berjaya diaktifkan.'];
+        return ['activated' => true, 'message' => 'Tahniah! Langganan anda telah berjaya diaktifkan.'];
     }
 
     /**
-     * Shared logic to activate a lifetime subscription (used by both webhook and return verification).
+     * Shared logic to activate a subscription (used by both webhook and return verification).
      */
-    private function activateLifetimeSubscription(string $userId, string $refno, float $amount): void
+    private function activateSubscription(string $userId, string $refno, float $amount): void
     {
         $user = User::find($userId);
         if (!$user) {
@@ -186,16 +190,18 @@ class ToyyibPayService
         }
 
         \Illuminate\Support\Facades\DB::transaction(function () use ($user, $refno, $amount) {
-            // Find or create lifetime plan
-            $plan = SubscriptionPlan::firstOrCreate(
-                ['slug' => 'lifetime'],
-                [
-                    'name' => 'Lifetime Promo',
-                    'price_myr' => 100.00,
+            // Find or create promo plan (use fallback if not in DB)
+            $plan = SubscriptionPlan::where('slug', 'lifetime')->first();
+            if (!$plan) {
+                $plan = SubscriptionPlan::create([
+                    'slug' => 'lifetime',
+                    'name' => 'Promo 1 Tahun',
+                    'price_myr' => 1.00,
+                    'duration_months' => 12,
                     'stripe_price_id' => null,
                     'is_active' => true,
-                ]
-            );
+                ]);
+            }
 
             // Deactivate other existing subscriptions
             $user->subscriptions()->update(['stripe_status' => 'canceled', 'auto_renew' => false]);
@@ -235,6 +241,6 @@ class ToyyibPayService
             );
         });
 
-        Log::info("ToyyibPay Lifetime subscription activated", ['user_id' => $userId, 'refno' => $refno]);
+        Log::info("ToyyibPay subscription activated", ['user_id' => $userId, 'refno' => $refno]);
     }
 }
