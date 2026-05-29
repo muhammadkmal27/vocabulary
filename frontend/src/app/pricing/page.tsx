@@ -258,7 +258,7 @@ export default function PricingPage() {
           </Badge>
           <h1 className="text-3xl sm:text-4xl font-bold">Pilih Plan Anda</h1>
           <p className="text-muted-foreground max-w-lg mx-auto">
-            Naik taraf ke Lifetime atau langgan bulanan Stripe bila-bila masa.
+            Naik taraf ke premium atau langgan bulanan Stripe bila-bila masa.
           </p>
         </div>
 
@@ -371,7 +371,7 @@ export default function PricingPage() {
             <DialogHeader>
               <DialogTitle className="text-center">Sahkan Langganan</DialogTitle>
               <DialogDescription className="text-center">
-                Sila sahkan anda bukan bot untuk meneruskan dengan {isToyyibPayPromo ? "Promosi Lifetime ToyyibPay" : selectedPlan?.name}.
+                Sila sahkan anda bukan bot untuk meneruskan dengan {isToyyibPayPromo ? toyyibpayStatus?.plan?.name : selectedPlan?.name}.
               </DialogDescription>
             </DialogHeader>
             <div className="flex justify-center py-4">
