@@ -43,7 +43,7 @@ class DatabaseSeeder extends Seeder
             ['email' => 'admin@vocabulary.com'],
             [
                 'name' => 'Admin Vocabulary',
-                'password' => bcrypt('admin12345'),
+                'password' => bcrypt('Admin@Vocab2026!'),
                 'role' => 'admin',
             ]
         );
