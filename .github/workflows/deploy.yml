@@ -86,4 +86,9 @@ jobs:
           docker exec vocabulary-laravel-prod php artisan route:cache
           docker exec vocabulary-laravel-prod php artisan view:cache
           docker exec vocabulary-laravel-prod php artisan migrate --force
+          
+          # Bersihkan sisa imej dan build cache lama untuk elakkan disk penuh
+          docker system prune -f
+          docker builder prune -f
+
 
