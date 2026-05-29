@@ -11,6 +11,18 @@ interface TurnstileProps {
 export function Turnstile({ onVerify, onExpire, onError }: TurnstileProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const widgetIdRef = useRef<string | null>(null);
+  
+  // Use refs to avoid triggering useEffect when callbacks change
+  const onVerifyRef = useRef(onVerify);
+  const onExpireRef = useRef(onExpire);
+  const onErrorRef = useRef(onError);
+
+  // Keep refs up to date
+  useEffect(() => {
+    onVerifyRef.current = onVerify;
+    onExpireRef.current = onExpire;
+    onErrorRef.current = onError;
+  }, [onVerify, onExpire, onError]);
 
   useEffect(() => {
     // Check if script is already loaded
@@ -42,13 +54,13 @@ export function Turnstile({ onVerify, onExpire, onError }: TurnstileProps) {
         widgetIdRef.current = window.turnstile.render(containerRef.current, {
           sitekey: siteKey,
           callback: (token: string) => {
-            onVerify(token);
+            onVerifyRef.current(token);
           },
           'expired-callback': () => {
-            if (onExpire) onExpire();
+            if (onExpireRef.current) onExpireRef.current();
           },
           'error-callback': () => {
-            if (onError) onError();
+            if (onErrorRef.current) onErrorRef.current();
           },
         });
       }
@@ -79,7 +91,8 @@ export function Turnstile({ onVerify, onExpire, onError }: TurnstileProps) {
         }
       }
     };
-  }, [onVerify, onExpire, onError]);
+  }, []); // Only run once on mount
+
 
   return <div ref={containerRef} className="my-3 flex justify-center" />;
 }
