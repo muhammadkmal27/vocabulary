@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Lightbulb, Quote } from "lucide-react";
 
 const ADS = [
-  "Orang gagal kuasai English sebab hafal perkataan — bukan ayat.",
+  "Orang gagal kuasai English sebab hafal perkataan, sepatutnya hafal ayat!",
   "Fasih English bukan soal berapa banyak perkataan kau tahu, tapi berapa cepat kau boleh keluarkan ayat.",
 ];
 
