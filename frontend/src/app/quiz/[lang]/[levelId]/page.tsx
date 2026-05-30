@@ -32,6 +32,7 @@ export default function QuizPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [session, setSession] = useState<any>(null);
+  const [language, setLanguage] = useState<any>(null);
   
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answer, setAnswer] = useState("");
@@ -46,12 +47,26 @@ export default function QuizPage() {
   const [practiceCount, setPracticeCount] = useState(0);
   const [showPracticeHint, setShowPracticeHint] = useState(false);
   const [practiceFeedback, setPracticeFeedback] = useState<"correct" | "incorrect" | null>(null);
+  const [isTypingPractice, setIsTypingPractice] = useState(false);
 
   const startQuiz = async () => {
     if (!langCode || !levelId) return;
     try {
       setLoading(true);
       setError("");
+
+      // 1. Fetch languages dynamically to find the matching language config
+      const langResponse = await fetch("/api/languages", {
+        headers: {
+          Accept: "application/json",
+        },
+      });
+      if (!langResponse.ok) throw new Error("Gagal mengambil konfigurasi bahasa.");
+      const languages = await langResponse.json();
+      const matchedLang = languages.find((l: any) => l.code === langCode);
+      if (!matchedLang) throw new Error(`Bahasa "${langCode}" tidak dijumpai.`);
+      
+      setLanguage(matchedLang);
 
       if (!token) {
         // Guest mode: fetch sentences from public Level 1 endpoint
@@ -81,19 +96,7 @@ export default function QuizPage() {
         return;
       }
 
-      // 1. Fetch languages to find language_id matching the code
-      const langResponse = await fetch("/api/languages", {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          Accept: "application/json",
-        },
-      });
-      if (!langResponse.ok) throw new Error("Gagal mengambil konfigurasi bahasa.");
-      const languages = await langResponse.json();
-      const matchedLang = languages.find((l: any) => l.code === langCode);
-      if (!matchedLang) throw new Error(`Bahasa "${langCode}" tidak dijumpai.`);
-
-      // 2. Start quiz session
+      // 2. Start quiz session for authenticated user
       const startResponse = await fetch("/api/quiz/start", {
         method: "POST",
         headers: {
@@ -255,6 +258,7 @@ export default function QuizPage() {
       setPracticeCount(0);
       setShowPracticeHint(false);
       setPracticeFeedback(null);
+      setIsTypingPractice(false);
     } else {
       if (!token) {
         const correctCount = session.correct_count || 0;
@@ -355,28 +359,31 @@ export default function QuizPage() {
 
   return (
     <div className="min-h-screen flex flex-col bg-background">
-      {/* Top Bar */}
-      <div className="border-b border-border px-4 py-3 flex items-center justify-between">
-        <Link href="/">
-          <Button variant="ghost" size="sm">
-            <ChevronLeft className="w-4 h-4 mr-1" /> Keluar
-          </Button>
-        </Link>
-        <Badge variant="secondary">
-          {currentIndex + 1} / {total}
-        </Badge>
-        <div className="w-20" />
-      </div>
+      {/* Sticky Header Wrapper */}
+      <div className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b border-border">
+        {/* Top Bar */}
+        <div className="px-4 py-3 flex items-center justify-between">
+          <Link href="/">
+            <Button variant="ghost" size="sm">
+              <ChevronLeft className="w-4 h-4 mr-1" /> Keluar
+            </Button>
+          </Link>
+          <Badge variant="secondary">
+            {currentIndex + 1} / {total}
+          </Badge>
+          <div className="w-20" />
+        </div>
 
-      {/* Progress */}
-      <div className="px-4 pt-2">
-        <div className="w-full bg-muted rounded-full h-2">
-          <div
-            className="bg-primary h-2 rounded-full transition-all duration-500"
-            style={{
-              width: `${((currentIndex + (showResult ? 1 : 0)) / total) * 100}%`,
-            }}
-          />
+        {/* Progress */}
+        <div className="px-4 pb-2">
+          <div className="w-full bg-muted rounded-full h-1.5">
+            <div
+              className="bg-primary h-1.5 rounded-full transition-all duration-500"
+              style={{
+                width: `${((currentIndex + (showResult ? 1 : 0)) / total) * 100}%`,
+              }}
+            />
+          </div>
         </div>
       </div>
 
@@ -386,7 +393,7 @@ export default function QuizPage() {
           <CardContent className="p-8 space-y-6">
             <div className="text-center space-y-4">
               <p className="text-sm text-muted-foreground">
-                Terjemahkan ke English:
+                Terjemahkan ke {language ? language.name : "..."}:
               </p>
               <h2 className="text-2xl sm:text-3xl font-bold leading-relaxed">
                 &ldquo;{currentSentence?.source_text}&rdquo;
@@ -464,7 +471,9 @@ export default function QuizPage() {
                         <p className="text-xs text-muted-foreground mb-0.5">
                           Jawapan Betul:
                         </p>
-                        <p className="text-lg font-semibold">{currentSentence?.target_text}</p>
+                        <p className={`text-lg font-semibold transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
+                          {currentSentence?.target_text}
+                        </p>
                       </div>
                     </div>
                   )}
@@ -487,6 +496,12 @@ export default function QuizPage() {
                     <Input
                       placeholder="Taip semula jawapan betul di sini..."
                       value={practiceInput}
+                      onFocus={() => setIsTypingPractice(true)}
+                      onBlur={() => {
+                        if (!practiceInput.trim()) {
+                          setIsTypingPractice(false);
+                        }
+                      }}
                       onChange={(e) => {
                         setPracticeInput(e.target.value);
                         setPracticeFeedback(null);
@@ -513,13 +528,18 @@ export default function QuizPage() {
                       Semak
                     </Button>
                     <Button
-                      variant="ghost"
+                      variant="outline"
                       size="sm"
                       onClick={() => setShowPracticeHint(!showPracticeHint)}
-                      className="px-2"
-                      title="Tunjuk Klu"
+                      className={`gap-1 px-2.5 transition-all duration-300 ${
+                        showPracticeHint 
+                          ? "bg-warning/20 border-warning/40 hover:bg-warning/30 text-amber-800" 
+                          : "bg-warning/5 border-warning/20 hover:bg-warning/10 text-amber-700/80"
+                      }`}
+                      title="Tunjuk Klu Jawapan"
                     >
-                      <Lightbulb className={`w-4 h-4 ${showPracticeHint ? "text-warning fill-warning" : "text-muted-foreground"}`} />
+                      <Lightbulb className={`w-4 h-4 transition-all duration-300 ${showPracticeHint ? "text-warning fill-warning animate-pulse" : "text-warning/70"}`} />
+                      <span className="text-xs font-semibold">Bagi klu</span>
                     </Button>
                   </div>
 
