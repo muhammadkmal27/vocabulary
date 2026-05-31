@@ -416,24 +416,24 @@ export default function QuizPage() {
                   className="text-lg py-6 text-center"
                   autoFocus
                 />
-                <div className="flex gap-3">
-                  <Button
-                    onClick={handleSubmit}
-                    disabled={!answer.trim()}
-                    className="flex-1"
-                    size="lg"
-                  >
-                    <ArrowRight className="w-4 h-4 mr-2" /> Semak Jawapan
-                  </Button>
-                  <Button
-                    onClick={handleReveal}
-                    variant="secondary"
-                    size="lg"
-                    className="bg-warning text-black hover:bg-warning/80"
-                  >
-                    <Eye className="w-4 h-4 mr-2" /> Bagi Jawapan
-                  </Button>
-                </div>
+                 <div className="flex gap-3">
+                   <Button
+                     onClick={handleReveal}
+                     variant="secondary"
+                     size="lg"
+                     className="bg-warning text-black hover:bg-warning/80"
+                   >
+                     <Eye className="w-4 h-4 mr-2" /> Bagi Jawapan
+                   </Button>
+                   <Button
+                     onClick={handleSubmit}
+                     disabled={!answer.trim()}
+                     className="flex-1"
+                     size="lg"
+                   >
+                     <ArrowRight className="w-4 h-4 mr-2" /> Semak Jawapan
+                   </Button>
+                 </div>
               </div>
             ) : (
               <div className="space-y-4">
