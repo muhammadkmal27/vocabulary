@@ -57,9 +57,25 @@ class QuizService
     public function submitAnswer(string $sessionId, string $answerId, string $userAnswer): QuizAnswer
     {
         $answer = QuizAnswer::with('sentence')->findOrFail($answerId);
-        $normalizedUser = $this->cleanPunctuation($userAnswer);
-        $normalizedCorrect = $this->cleanPunctuation($answer->sentence->target_text);
-        $isCorrect = $normalizedUser === $normalizedCorrect;
+        
+        $quizEngineUrl = config('services.quiz_engine.url', 'http://127.0.0.1:8080');
+
+        try {
+            $response = \Illuminate\Support\Facades\Http::timeout(3)->post($quizEngineUrl . '/check-answer', [
+                'user_answer' => $userAnswer,
+                'correct_answer' => $answer->sentence->target_text,
+            ]);
+
+            $isCorrect = $response->successful() && $response->json('is_correct') === true;
+        } catch (\Exception $e) {
+            // Fallback sekiranya Rust service terputus/down (Fail-safe R7)
+            \Illuminate\Support\Facades\Log::warning("Quiz Engine Connection Failed: falling back to PHP normalizer", [
+                'error' => $e->getMessage()
+            ]);
+            $normalizedUser = $this->cleanPunctuation($userAnswer);
+            $normalizedCorrect = $this->cleanPunctuation($answer->sentence->target_text);
+            $isCorrect = $normalizedUser === $normalizedCorrect;
+        }
 
         $answer->update([
             'user_answer' => $userAnswer,

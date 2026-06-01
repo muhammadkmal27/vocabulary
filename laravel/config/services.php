@@ -46,4 +46,8 @@ return [
         'secret' => env('TURNSTILE_SECRET_KEY'),
     ],
 
+    'quiz_engine' => [
+        'url' => env('QUIZ_ENGINE_URL', 'http://127.0.0.1:8080'),
+    ],
+
 ];

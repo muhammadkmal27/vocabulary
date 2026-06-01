@@ -47,6 +47,16 @@ services:
     command: listen --api-key ${STRIPE_SECRET_KEY} --forward-to host.docker.internal:8000/api/stripe/webhook
     restart: unless-stopped
 
+  # === Rust Axum Quiz Engine ===
+  quiz-engine:
+    build:
+      context: ./quiz-engine
+      dockerfile: Dockerfile
+    container_name: vocabulary-quiz-engine
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+
 volumes:
   postgres_data:
   redis_data:
