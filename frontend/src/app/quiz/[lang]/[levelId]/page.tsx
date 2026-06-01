@@ -389,7 +389,7 @@ export default function QuizPage() {
       </div>
 
       {/* Main */}
-      <div className={`flex-1 flex justify-center p-4 ${showResult ? "items-start pt-8 sm:pt-16" : "items-center"}`}>
+      <div className={`flex-1 flex justify-center p-4 items-start transition-all duration-500 ease-in-out ${showResult ? "pt-4 sm:pt-8" : "pt-[15vh] sm:pt-[22vh]"}`}>
         <Card className="w-full max-w-lg border-border">
           <CardContent className="p-4 sm:p-8 space-y-6">
             <div className="text-center space-y-4">
@@ -437,7 +437,7 @@ export default function QuizPage() {
                 </div>
               </div>
             ) : (
-              <div className="space-y-4">
+              <div className="space-y-4 animate-fadeIn">
                 <div
                   className={`p-4 rounded-lg border ${isCorrect ? "border-green-500/30 bg-green-500/10" : "border-yellow-500/30 bg-yellow-500/10"}`}
                 >
