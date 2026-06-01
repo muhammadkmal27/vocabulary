@@ -389,14 +389,14 @@ export default function QuizPage() {
       </div>
 
       {/* Main */}
-      <div className={`flex-1 flex justify-center p-4 transition-all duration-500 ease-in-out ${showResult ? "items-start pt-4 sm:pt-[10vh]" : "items-center"}`}>
+      <div className={`flex-1 flex justify-center p-4 ${showResult ? "items-start pt-4 sm:pt-[12vh]" : "items-center"}`}>
         <Card className="w-full max-w-lg border-border">
-          <CardContent className="p-4 sm:p-8 space-y-6">
-            <div className="text-center space-y-4">
+          <CardContent className={`p-4 ${showResult ? "sm:p-6 space-y-4" : "sm:p-8 space-y-6"}`}>
+            <div className={`text-center ${showResult ? "space-y-3" : "space-y-4"}`}>
               <p className="text-sm text-muted-foreground">
                 Terjemahkan ke {language ? language.name : "..."}:
               </p>
-              <h2 className="text-2xl sm:text-3xl font-bold leading-relaxed">
+              <h2 className={`font-bold leading-relaxed ${showResult ? "text-xl sm:text-2xl" : "text-2xl sm:text-3xl"}`}>
                 &ldquo;{currentSentence?.source_text}&rdquo;
               </h2>
               <div className="flex items-start gap-2 text-[11px] text-muted-foreground bg-muted/40 p-2.5 rounded-lg border border-border/50 text-left max-w-md mx-auto">
@@ -439,7 +439,7 @@ export default function QuizPage() {
             ) : (
               <div className="space-y-4 animate-fadeIn">
                 <div
-                  className={`p-4 rounded-lg border ${isCorrect ? "border-green-500/30 bg-green-500/10" : "border-yellow-500/30 bg-yellow-500/10"}`}
+                  className={`p-3 sm:p-4 rounded-lg border ${isCorrect ? "border-green-500/30 bg-green-500/10" : "border-yellow-500/30 bg-yellow-500/10"}`}
                 >
                   <div className="flex items-center gap-2 mb-2">
                     {isCorrect ? (
@@ -481,7 +481,7 @@ export default function QuizPage() {
                 </div>
 
                 {/* Ruang Latihan Menulis untuk Menghafal */}
-                <div className="p-4 rounded-lg border border-dashed border-border bg-muted/25 space-y-3">
+                <div className="p-3 sm:p-4 rounded-lg border border-dashed border-border bg-muted/25 space-y-3">
                   <div className="flex items-center justify-between">
                     <p className="text-xs font-semibold text-muted-foreground flex items-center gap-1.5">
                       ✍️ Ruang Latihan Menulis (Ulang & Hafal)
