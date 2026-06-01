@@ -493,7 +493,6 @@ export default function QuizPage() {
                     )}
                   </div>
 
-                  <div className="flex gap-2">
                     <Input
                       placeholder="Taip semula jawapan betul di sini..."
                       value={practiceInput}
@@ -512,7 +511,7 @@ export default function QuizPage() {
                           handleCheckPractice();
                         }
                       }}
-                      className={`text-sm py-4 text-center border-dashed focus-visible:ring-primary ${
+                      className={`w-full text-sm py-4 text-center border-dashed focus-visible:ring-primary ${
                         practiceFeedback === "correct"
                           ? "border-green-500 bg-green-500/5 focus-visible:ring-green-500"
                           : practiceFeedback === "incorrect"
@@ -520,29 +519,31 @@ export default function QuizPage() {
                           : ""
                       }`}
                     />
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      onClick={handleCheckPractice}
-                      disabled={!practiceInput.trim()}
-                    >
-                      Semak
-                    </Button>
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      onClick={() => setShowPracticeHint(!showPracticeHint)}
-                      className={`gap-1 px-2.5 transition-all duration-300 ${
-                        showPracticeHint 
-                          ? "bg-warning/20 border-warning/40 hover:bg-warning/30 text-amber-800" 
-                          : "bg-warning/5 border-warning/20 hover:bg-warning/10 text-amber-700/80"
-                      }`}
-                      title="Tunjuk Klu Jawapan"
-                    >
-                      <Lightbulb className={`w-4 h-4 transition-all duration-300 ${showPracticeHint ? "text-warning fill-warning animate-pulse" : "text-warning/70"}`} />
-                      <span className="text-xs font-semibold">Bagi klu</span>
-                    </Button>
-                  </div>
+                    <div className="flex gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={handleCheckPractice}
+                        disabled={!practiceInput.trim()}
+                        className="flex-1"
+                      >
+                        Semak
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => setShowPracticeHint(!showPracticeHint)}
+                        className={`flex-1 gap-1 transition-all duration-300 ${
+                          showPracticeHint 
+                            ? "bg-warning/20 border-warning/40 hover:bg-warning/30 text-amber-800" 
+                            : "bg-warning/5 border-warning/20 hover:bg-warning/10 text-amber-700/80"
+                        }`}
+                        title="Tunjuk Klu Jawapan"
+                      >
+                        <Lightbulb className={`w-4 h-4 transition-all duration-300 ${showPracticeHint ? "text-warning fill-warning animate-pulse" : "text-warning/70"}`} />
+                        <span className="text-xs font-semibold">Bagi klu</span>
+                      </Button>
+                    </div>
 
                   {practiceFeedback === "incorrect" && (
                     <p className="text-[11px] text-red-500 font-medium text-center">
