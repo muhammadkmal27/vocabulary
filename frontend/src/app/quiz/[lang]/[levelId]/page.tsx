@@ -389,7 +389,7 @@ export default function QuizPage() {
       </div>
 
       {/* Main */}
-      <div className={`flex-1 flex justify-center p-4 items-start transition-all duration-500 ease-in-out ${showResult ? "pt-4 sm:pt-8" : "pt-[15vh] sm:pt-[22vh]"}`}>
+      <div className={`flex-1 flex justify-center p-4 items-start sm:items-center transition-all duration-500 ease-in-out ${showResult ? "pt-4 sm:pt-0" : "pt-[15vh] sm:pt-0"}`}>
         <Card className="w-full max-w-lg border-border">
           <CardContent className="p-4 sm:p-8 space-y-6">
             <div className="text-center space-y-4">
@@ -399,12 +399,10 @@ export default function QuizPage() {
               <h2 className="text-2xl sm:text-3xl font-bold leading-relaxed">
                 &ldquo;{currentSentence?.source_text}&rdquo;
               </h2>
-              {!showResult && (
-                <div className="flex items-start gap-2 text-[11px] text-muted-foreground bg-muted/40 p-2.5 rounded-lg border border-border/50 text-left max-w-md mx-auto animate-fadeIn">
-                  <Lightbulb className="w-3.5 h-3.5 text-warning shrink-0 mt-0.5" />
-                  <span>Tip: Jika awak susah mengingat, menulis di kertas adalah kaedah terbaik untuk menghafal.</span>
-                </div>
-              )}
+              <div className="flex items-start gap-2 text-[11px] text-muted-foreground bg-muted/40 p-2.5 rounded-lg border border-border/50 text-left max-w-md mx-auto">
+                <Lightbulb className="w-3.5 h-3.5 text-warning shrink-0 mt-0.5" />
+                <span>Tip: Jika awak susah mengingat, menulis di kertas adalah kaedah terbaik untuk menghafal.</span>
+              </div>
             </div>
 
             {!showResult ? (
@@ -610,7 +608,7 @@ export default function QuizPage() {
                   )}
 
                   {showPracticeHint && (
-                    <div className="p-2.5 rounded bg-warning/10 border border-warning/20 text-xs text-amber-800 dark:text-amber-300 text-center font-medium animate-fadeIn">
+                    <div className="p-2.5 rounded bg-warning/10 border border-warning/20 text-xs text-amber-800 dark:text-amber-300 text-center font-medium">
                       🔑 Klu Jawapan: <span className="font-bold select-all">&ldquo;{currentSentence?.target_text}&rdquo;</span>
                     </div>
                   )}
@@ -659,16 +657,14 @@ export default function QuizPage() {
         </Card>
       </div>
 
-      {!showResult && (
-        <div className="px-4 pb-4 animate-fadeIn">
-          <div className="max-w-lg mx-auto flex items-center gap-2 text-xs text-muted-foreground">
-            <Lightbulb className="w-3.5 h-3.5 text-warning" />
-            <span>
-              Tip: Taip jawapan penuh. Jangan risau tentang huruf besar/kecil atau tanda baca.
-            </span>
-          </div>
+      <div className="px-4 pb-4">
+        <div className="max-w-lg mx-auto flex items-center gap-2 text-xs text-muted-foreground">
+          <Lightbulb className="w-3.5 h-3.5 text-warning" />
+          <span>
+            Tip: Taip jawapan penuh. Jangan risau tentang huruf besar/kecil atau tanda baca.
+          </span>
         </div>
-      )}
+      </div>
     </div>
   );
 }
