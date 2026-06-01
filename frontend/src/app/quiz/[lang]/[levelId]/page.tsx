@@ -424,7 +424,11 @@ export default function QuizPage() {
                       size="lg"
                       className="flex-1 bg-warning text-black hover:bg-warning/80 text-xs sm:text-sm px-2 sm:px-4"
                     >
-                      <Eye className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2" /> Bagi Jawapan
+                      <Eye className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" />
+                      <span>
+                        <span className="hidden sm:inline">Bagi Jawapan</span>
+                        <span className="inline sm:hidden">Tunjuk</span>
+                      </span>
                     </Button>
                     <Button
                       onClick={handleSubmit}
@@ -432,7 +436,11 @@ export default function QuizPage() {
                       className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
                       size="lg"
                     >
-                      Semak Jawapan <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2" />
+                      <span>
+                        <span className="hidden sm:inline">Semak Jawapan</span>
+                        <span className="inline sm:hidden">Semak</span>
+                      </span>
+                      <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
                     </Button>
                   </div>
               </div>
