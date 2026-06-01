@@ -561,10 +561,38 @@ export default function QuizPage() {
                   )}
                 </div>
 
-                <Button onClick={handleNext} size="lg" className="w-full">
-                  {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}{" "}
-                  <ArrowRight className="w-4 h-4 ml-2" />
-                </Button>
+                <div className="flex gap-3">
+                  <Button
+                    onClick={() => {
+                      setCurrentIndex(0);
+                      setAnswer("");
+                      setShowResult(false);
+                      setRevealed(false);
+                      setIsCorrect(null);
+                      setAnswersState([]);
+                      setPracticeInput("");
+                      setPracticeCount(0);
+                      setShowPracticeHint(false);
+                      setPracticeFeedback(null);
+                      setIsTypingPractice(false);
+                      if (session) {
+                        setSession((prev: any) => ({
+                          ...prev,
+                          correct_count: 0,
+                        }));
+                      }
+                    }}
+                    variant="outline"
+                    size="lg"
+                    className="flex-1"
+                  >
+                    <RotateCcwIcon className="w-4 h-4 mr-2" /> Ulang Soalan 1
+                  </Button>
+                  <Button onClick={handleNext} size="lg" className="flex-1">
+                    {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}{" "}
+                    <ArrowRight className="w-4 h-4 ml-2" />
+                  </Button>
+                </div>
               </div>
             )}
           </CardContent>
