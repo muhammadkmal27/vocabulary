@@ -561,7 +561,7 @@ export default function QuizPage() {
                   )}
                 </div>
 
-                <div className="flex gap-3">
+                <div className="flex flex-col sm:flex-row gap-3">
                   <Button
                     onClick={() => {
                       setCurrentIndex(0);
@@ -584,11 +584,15 @@ export default function QuizPage() {
                     }}
                     variant="outline"
                     size="lg"
-                    className="flex-1"
+                    className="w-full sm:flex-1 order-2 sm:order-1"
                   >
                     <RotateCcwIcon className="w-4 h-4 mr-2" /> Ulang Soalan 1
                   </Button>
-                  <Button onClick={handleNext} size="lg" className="flex-1">
+                  <Button
+                    onClick={handleNext}
+                    size="lg"
+                    className="w-full sm:flex-1 order-1 sm:order-2"
+                  >
                     {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}{" "}
                     <ArrowRight className="w-4 h-4 ml-2" />
                   </Button>
