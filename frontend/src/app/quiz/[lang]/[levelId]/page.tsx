@@ -416,24 +416,24 @@ export default function QuizPage() {
                   className="text-lg py-6 text-center"
                   autoFocus
                 />
-                 <div className="flex gap-3">
-                   <Button
-                     onClick={handleReveal}
-                     variant="secondary"
-                     size="lg"
-                     className="bg-warning text-black hover:bg-warning/80"
-                   >
-                     <Eye className="w-4 h-4 mr-2" /> Bagi Jawapan
-                   </Button>
-                   <Button
-                     onClick={handleSubmit}
-                     disabled={!answer.trim()}
-                     className="flex-1"
-                     size="lg"
-                   >
-                     <ArrowRight className="w-4 h-4 mr-2" /> Semak Jawapan
-                   </Button>
-                 </div>
+                  <div className="flex gap-3">
+                    <Button
+                      onClick={handleReveal}
+                      variant="secondary"
+                      size="lg"
+                      className="flex-1 bg-warning text-black hover:bg-warning/80 text-xs sm:text-sm px-2 sm:px-4"
+                    >
+                      <Eye className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2" /> Bagi Jawapan
+                    </Button>
+                    <Button
+                      onClick={handleSubmit}
+                      disabled={!answer.trim()}
+                      className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
+                      size="lg"
+                    >
+                      Semak Jawapan <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2" />
+                    </Button>
+                  </div>
               </div>
             ) : (
               <div className="space-y-4">
@@ -561,7 +561,7 @@ export default function QuizPage() {
                   )}
                 </div>
 
-                <div className="flex flex-col sm:flex-row gap-3">
+                <div className="flex gap-3">
                   <Button
                     onClick={() => {
                       setCurrentIndex(0);
@@ -584,17 +584,17 @@ export default function QuizPage() {
                     }}
                     variant="outline"
                     size="lg"
-                    className="w-full sm:flex-1 order-2 sm:order-1"
+                    className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
                   >
-                    <RotateCcwIcon className="w-4 h-4 mr-2" /> Ulang Soalan 1
+                    <RotateCcwIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2" /> Ulang Soalan 1
                   </Button>
                   <Button
                     onClick={handleNext}
                     size="lg"
-                    className="w-full sm:flex-1 order-1 sm:order-2"
+                    className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
                   >
                     {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}{" "}
-                    <ArrowRight className="w-4 h-4 ml-2" />
+                    <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2" />
                   </Button>
                 </div>
               </div>
