@@ -166,7 +166,8 @@ export default function QuizPage() {
     if (!answer.trim() || !session) return;
     if (!token) {
       const normalize = (text: string) => {
-        return text.replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
+        let cleaned = text.replace(/[’‘ʼ`´՚＇]/g, "'");
+        return cleaned.replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
       };
       const isCorrectAns = normalize(answer) === normalize(currentSentence?.target_text || "");
       setIsCorrect(isCorrectAns);
@@ -234,8 +235,8 @@ export default function QuizPage() {
   };
 
   const handleCheckPractice = () => {
-    const cleanTarget = (currentSentence?.target_text || "").replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
-    const cleanVal = practiceInput.replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
+    const cleanTarget = (currentSentence?.target_text || "").replace(/[’‘ʼ`´՚＇]/g, "'").replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
+    const cleanVal = practiceInput.replace(/[’‘ʼ`´՚＇]/g, "'").replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
     if (cleanVal === cleanTarget) {
       setPracticeCount(prev => prev + 1);
       setPracticeFeedback("correct");

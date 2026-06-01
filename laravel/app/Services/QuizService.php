@@ -49,6 +49,7 @@ class QuizService
 
     private function cleanPunctuation(string $text): string
     {
+        $text = str_replace(['’', '‘', 'ʼ', '`', '´', '՚', '＇'], "'", $text);
         $cleaned = preg_replace('/[^\w\s]/u', '', $text);
         $cleaned = preg_replace('/\s+/', '', $cleaned);
         return trim(strtolower($cleaned));

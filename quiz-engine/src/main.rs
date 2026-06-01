@@ -20,9 +20,19 @@ struct AnswerResponse {
 
 // Fungsi normalisasi teks versi Rust (membuang semua tanda baca bukan alfanumerik & jarak)
 fn clean_punctuation(text: &str) -> String {
+    // Tukar semua variasi apostrof kepada apostrof standard
+    let cleaned_quotes = text
+        .replace('’', "'")
+        .replace('‘', "'")
+        .replace('ʼ', "'")
+        .replace('`', "'")
+        .replace('´', "'")
+        .replace('՚', "'")
+        .replace('＇', "'");
+
     // 1. Buang semua aksara bukan alfanumerik (bukan huruf/nombor)
     let re_punct = Regex::new(r"[^\w\s]").unwrap();
-    let no_punct = re_punct.replace_all(text, "");
+    let no_punct = re_punct.replace_all(&cleaned_quotes, "");
     
     // 2. Buang semua jenis jarak (spaces)
     let re_space = Regex::new(r"\s+").unwrap();
@@ -60,3 +70,18 @@ async fn main() {
     let listener = tokio::net::TcpListener::bind(addr).await.unwrap();
     axum::serve(listener, app).await.unwrap();
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_clean_punctuation() {
+        assert_eq!(clean_punctuation("I don't understand."), "idontunderstand");
+        assert_eq!(clean_punctuation("I don’t understand."), "idontunderstand");
+        assert_eq!(clean_punctuation("don't"), "dont");
+        assert_eq!(clean_punctuation("don’t"), "dont");
+        assert_eq!(clean_punctuation("donʼt"), "dont");
+    }
+}
+
