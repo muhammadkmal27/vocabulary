@@ -33,7 +33,7 @@ export default function QuizPage() {
   const [error, setError] = useState("");
   const [session, setSession] = useState<any>(null);
   const [language, setLanguage] = useState<any>(null);
-  
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answer, setAnswer] = useState("");
   const [showResult, setShowResult] = useState(false);
@@ -65,7 +65,7 @@ export default function QuizPage() {
       const languages = await langResponse.json();
       const matchedLang = languages.find((l: any) => l.code === langCode);
       if (!matchedLang) throw new Error(`Bahasa "${langCode}" tidak dijumpai.`);
-      
+
       setLanguage(matchedLang);
 
       if (!token) {
@@ -389,7 +389,7 @@ export default function QuizPage() {
       </div>
 
       {/* Main */}
-      <div className="flex-1 flex items-center justify-center p-4">
+      <div className={`flex-1 flex justify-center p-4 ${showResult ? "items-start pt-8 sm:pt-16" : "items-center"}`}>
         <Card className="w-full max-w-lg border-border">
           <CardContent className="p-4 sm:p-8 space-y-6">
             <div className="text-center space-y-4">
@@ -417,24 +417,24 @@ export default function QuizPage() {
                   className="text-lg py-6 text-center"
                   autoFocus
                 />
-                  <div className="flex gap-2 sm:gap-3">
-                    <Button
-                      onClick={handleReveal}
-                      variant="secondary"
-                      size="lg"
-                      className="flex-1 bg-warning text-black hover:bg-warning/80 text-[11px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
-                    >
-                      <Eye className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" /> Bagi Jawapan
-                    </Button>
-                    <Button
-                      onClick={handleSubmit}
-                      disabled={!answer.trim()}
-                      className="flex-1 text-[11px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
-                      size="lg"
-                    >
-                      Semak Jawapan <ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
-                    </Button>
-                  </div>
+                <div className="flex gap-2 sm:gap-3">
+                  <Button
+                    onClick={handleReveal}
+                    variant="secondary"
+                    size="lg"
+                    className="flex-1 bg-warning text-black hover:bg-warning/80 text-[11px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
+                  >
+                    <Eye className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" /> Bagi Jawapan
+                  </Button>
+                  <Button
+                    onClick={handleSubmit}
+                    disabled={!answer.trim()}
+                    className="flex-1 text-[11px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
+                    size="lg"
+                  >
+                    Semak Jawapan <ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
+                  </Button>
+                </div>
               </div>
             ) : (
               <div className="space-y-4">
@@ -493,6 +493,8 @@ export default function QuizPage() {
                     )}
                   </div>
 
+                  {/* Desktop Layout (Integriti Asal) */}
+                  <div className="hidden sm:flex gap-2">
                     <Input
                       placeholder="Taip semula jawapan betul di sini..."
                       value={practiceInput}
@@ -511,13 +513,62 @@ export default function QuizPage() {
                           handleCheckPractice();
                         }
                       }}
-                      className={`w-full text-sm py-4 text-center border-dashed focus-visible:ring-primary ${
-                        practiceFeedback === "correct"
-                          ? "border-green-500 bg-green-500/5 focus-visible:ring-green-500"
-                          : practiceFeedback === "incorrect"
+                      className={`text-sm py-4 text-center border-dashed focus-visible:ring-primary ${practiceFeedback === "correct"
+                        ? "border-green-500 bg-green-500/5 focus-visible:ring-green-500"
+                        : practiceFeedback === "incorrect"
                           ? "border-red-500 bg-red-500/5 focus-visible:ring-red-500"
                           : ""
-                      }`}
+                        }`}
+                    />
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={handleCheckPractice}
+                      disabled={!practiceInput.trim()}
+                    >
+                      Semak
+                    </Button>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => setShowPracticeHint(!showPracticeHint)}
+                      className={`gap-1 px-2.5 transition-all duration-300 ${showPracticeHint
+                        ? "bg-warning/20 border-warning/40 hover:bg-warning/30 text-amber-800"
+                        : "bg-warning/5 border-warning/20 hover:bg-warning/10 text-amber-700/80"
+                        }`}
+                      title="Tunjuk Klu Jawapan"
+                    >
+                      <Lightbulb className={`w-4 h-4 transition-all duration-300 ${showPracticeHint ? "text-warning fill-warning animate-pulse" : "text-warning/70"}`} />
+                      <span className="text-xs font-semibold">Bagi klu</span>
+                    </Button>
+                  </div>
+
+                  {/* Mobile Layout (Diasingkan secara Responsif) */}
+                  <div className="flex sm:hidden flex-col gap-2">
+                    <Input
+                      placeholder="Taip semula jawapan betul di sini..."
+                      value={practiceInput}
+                      onFocus={() => setIsTypingPractice(true)}
+                      onBlur={() => {
+                        if (!practiceInput.trim()) {
+                          setIsTypingPractice(false);
+                        }
+                      }}
+                      onChange={(e) => {
+                        setPracticeInput(e.target.value);
+                        setPracticeFeedback(null);
+                      }}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter" && practiceInput.trim()) {
+                          handleCheckPractice();
+                        }
+                      }}
+                      className={`w-full text-sm py-4 text-center border-dashed focus-visible:ring-primary ${practiceFeedback === "correct"
+                        ? "border-green-500 bg-green-500/5 focus-visible:ring-green-500"
+                        : practiceFeedback === "incorrect"
+                          ? "border-red-500 bg-red-500/5 focus-visible:ring-red-500"
+                          : ""
+                        }`}
                     />
                     <div className="flex gap-2">
                       <Button
@@ -533,17 +584,17 @@ export default function QuizPage() {
                         variant="outline"
                         size="sm"
                         onClick={() => setShowPracticeHint(!showPracticeHint)}
-                        className={`flex-1 gap-1 transition-all duration-300 ${
-                          showPracticeHint 
-                            ? "bg-warning/20 border-warning/40 hover:bg-warning/30 text-amber-800" 
-                            : "bg-warning/5 border-warning/20 hover:bg-warning/10 text-amber-700/80"
-                        }`}
+                        className={`flex-1 gap-1 transition-all duration-300 ${showPracticeHint
+                          ? "bg-warning/20 border-warning/40 hover:bg-warning/30 text-amber-800"
+                          : "bg-warning/5 border-warning/20 hover:bg-warning/10 text-amber-700/80"
+                          }`}
                         title="Tunjuk Klu Jawapan"
                       >
                         <Lightbulb className={`w-4 h-4 transition-all duration-300 ${showPracticeHint ? "text-warning fill-warning animate-pulse" : "text-warning/70"}`} />
                         <span className="text-xs font-semibold">Bagi klu</span>
                       </Button>
                     </div>
+                  </div>
 
                   {practiceFeedback === "incorrect" && (
                     <p className="text-[11px] text-red-500 font-medium text-center">
