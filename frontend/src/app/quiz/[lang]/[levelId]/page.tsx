@@ -391,7 +391,7 @@ export default function QuizPage() {
       {/* Main */}
       <div className="flex-1 flex items-center justify-center p-4">
         <Card className="w-full max-w-lg border-border">
-          <CardContent className="p-8 space-y-6">
+          <CardContent className="p-4 sm:p-8 space-y-6">
             <div className="text-center space-y-4">
               <p className="text-sm text-muted-foreground">
                 Terjemahkan ke {language ? language.name : "..."}:
@@ -417,30 +417,22 @@ export default function QuizPage() {
                   className="text-lg py-6 text-center"
                   autoFocus
                 />
-                  <div className="flex gap-3">
+                  <div className="flex gap-2 sm:gap-3">
                     <Button
                       onClick={handleReveal}
                       variant="secondary"
                       size="lg"
-                      className="flex-1 bg-warning text-black hover:bg-warning/80 text-xs sm:text-sm px-2 sm:px-4"
+                      className="flex-1 bg-warning text-black hover:bg-warning/80 text-[11px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
                     >
-                      <Eye className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" />
-                      <span>
-                        <span className="hidden sm:inline">Bagi Jawapan</span>
-                        <span className="inline sm:hidden">Tunjuk</span>
-                      </span>
+                      <Eye className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" /> Bagi Jawapan
                     </Button>
                     <Button
                       onClick={handleSubmit}
                       disabled={!answer.trim()}
-                      className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
+                      className="flex-1 text-[11px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
                       size="lg"
                     >
-                      <span>
-                        <span className="hidden sm:inline">Semak Jawapan</span>
-                        <span className="inline sm:hidden">Semak</span>
-                      </span>
-                      <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
+                      Semak Jawapan <ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
                     </Button>
                   </div>
               </div>
@@ -570,7 +562,7 @@ export default function QuizPage() {
                   )}
                 </div>
 
-                <div className="flex gap-3">
+                <div className="flex gap-2 sm:gap-3">
                   <Button
                     onClick={() => {
                       setCurrentIndex(0);
@@ -593,30 +585,18 @@ export default function QuizPage() {
                     }}
                     variant="outline"
                     size="lg"
-                    className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
+                    className="flex-1 text-[10px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
                   >
-                    <RotateCcwIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" />
-                    <span>
-                      <span className="hidden sm:inline">Ulang Soalan 1</span>
-                      <span className="inline sm:hidden">Ulang</span>
-                    </span>
+                    <RotateCcwIcon className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" />
+                    Ulang Soalan 1
                   </Button>
                   <Button
                     onClick={handleNext}
                     size="lg"
-                    className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
+                    className="flex-1 text-[10px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
                   >
-                    <span>
-                      {currentIndex === total - 1 ? (
-                        "Lihat Keputusan"
-                      ) : (
-                        <>
-                          <span className="hidden sm:inline">Soalan Seterusnya</span>
-                          <span className="inline sm:hidden">Seterusnya</span>
-                        </>
-                      )}
-                    </span>
-                    <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
+                    {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}
+                    <ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
                   </Button>
                 </div>
               </div>
