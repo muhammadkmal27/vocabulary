@@ -587,15 +587,28 @@ export default function QuizPage() {
                     size="lg"
                     className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
                   >
-                    <RotateCcwIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2" /> Ulang Soalan 1
+                    <RotateCcwIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" />
+                    <span>
+                      <span className="hidden sm:inline">Ulang Soalan 1</span>
+                      <span className="inline sm:hidden">Ulang</span>
+                    </span>
                   </Button>
                   <Button
                     onClick={handleNext}
                     size="lg"
                     className="flex-1 text-xs sm:text-sm px-2 sm:px-4"
                   >
-                    {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}{" "}
-                    <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2" />
+                    <span>
+                      {currentIndex === total - 1 ? (
+                        "Lihat Keputusan"
+                      ) : (
+                        <>
+                          <span className="hidden sm:inline">Soalan Seterusnya</span>
+                          <span className="inline sm:hidden">Seterusnya</span>
+                        </>
+                      )}
+                    </span>
+                    <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
                   </Button>
                 </div>
               </div>
