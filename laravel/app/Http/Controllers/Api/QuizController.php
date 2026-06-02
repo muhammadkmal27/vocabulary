@@ -57,23 +57,34 @@ class QuizController extends Controller
     public function submitAnswer(Request $request, string $sessionId)
     {
         $request->validate(['answer_id' => 'required', 'user_answer' => 'required']);
+        $userId = $request->user()->id;
         // OLAC check: session must belong to user
-        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $request->user()->id)->firstOrFail();
-        return response()->json($this->quizService->submitAnswer($sessionId, $request->answer_id, $request->user_answer));
+        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $userId)->firstOrFail();
+        return response()->json($this->quizService->submitAnswer($userId, $sessionId, $request->answer_id, $request->user_answer));
     }
 
     public function reveal(Request $request, string $sessionId, string $answerId)
     {
+        $userId = $request->user()->id;
         // OLAC check: session must belong to user
-        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $request->user()->id)->firstOrFail();
-        return response()->json($this->quizService->revealAnswer($answerId));
+        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $userId)->firstOrFail();
+        return response()->json($this->quizService->revealAnswer($userId, $answerId));
     }
 
     public function complete(Request $request, string $sessionId)
     {
+        $userId = $request->user()->id;
         // OLAC check: session must belong to user
-        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $request->user()->id)->firstOrFail();
-        return response()->json($this->quizService->completeSession($sessionId));
+        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $userId)->firstOrFail();
+        return response()->json($this->quizService->completeSession($userId, $sessionId));
+    }
+
+    public function reset(Request $request, string $sessionId)
+    {
+        $userId = $request->user()->id;
+        // OLAC check: session must belong to user
+        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $userId)->firstOrFail();
+        return response()->json($this->quizService->resetSession($userId, $sessionId));
     }
 
     public function show(Request $request, string $sessionId)

@@ -44,6 +44,7 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/quiz/{sessionId}/answer', [\App\Http\Controllers\Api\QuizController::class, 'submitAnswer']);
     Route::post('/quiz/{sessionId}/reveal/{answerId}', [\App\Http\Controllers\Api\QuizController::class, 'reveal']);
     Route::post('/quiz/{sessionId}/complete', [\App\Http\Controllers\Api\QuizController::class, 'complete']);
+    Route::post('/quiz/{sessionId}/reset', [\App\Http\Controllers\Api\QuizController::class, 'reset']);
     Route::get('/quiz/{sessionId}', [\App\Http\Controllers\Api\QuizController::class, 'show']);
     Route::get('/review/{languageId}/{levelId}', [\App\Http\Controllers\Api\QuizController::class, 'review']);
 });

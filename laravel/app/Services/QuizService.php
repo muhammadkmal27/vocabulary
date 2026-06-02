@@ -55,9 +55,13 @@ class QuizService
         return trim(strtolower($cleaned));
     }
 
-    public function submitAnswer(string $sessionId, string $answerId, string $userAnswer): QuizAnswer
+    public function submitAnswer(string $userId, string $sessionId, string $answerId, string $userAnswer): QuizAnswer
     {
-        $answer = QuizAnswer::with('sentence')->findOrFail($answerId);
+        $answer = QuizAnswer::where('id', $answerId)
+            ->where('session_id', $sessionId)
+            ->whereHas('session', fn($q) => $q->where('user_id', $userId))
+            ->with('sentence')
+            ->firstOrFail();
         
         $quizEngineUrl = config('services.quiz_engine.url', 'http://127.0.0.1:8080');
 
@@ -83,23 +87,37 @@ class QuizService
             'is_correct' => $isCorrect,
         ]);
 
-        if ($isCorrect) {
-            QuizSession::where('id', $sessionId)->increment('correct_count');
-        }
+        $correctCount = QuizAnswer::where('session_id', $sessionId)->where('is_correct', true)->count();
+        QuizSession::where('id', $sessionId)->update(['correct_count' => $correctCount]);
 
         return $answer->fresh();
     }
 
-    public function revealAnswer(string $answerId): QuizAnswer
+    public function revealAnswer(string $userId, string $answerId): QuizAnswer
     {
-        $answer = QuizAnswer::with('sentence')->findOrFail($answerId);
-        $answer->update(['revealed' => true]);
+        $answer = QuizAnswer::where('id', $answerId)
+            ->whereHas('session', fn($q) => $q->where('user_id', $userId))
+            ->with('sentence')
+            ->firstOrFail();
+
+        $answer->update([
+            'revealed' => true,
+            'is_correct' => false,
+        ]);
+
+        $correctCount = QuizAnswer::where('session_id', $answer->session_id)->where('is_correct', true)->count();
+        QuizSession::where('id', $answer->session_id)->update(['correct_count' => $correctCount]);
+
         return $answer->fresh();
     }
 
-    public function completeSession(string $sessionId): array
+    public function completeSession(string $userId, string $sessionId): array
     {
-        $session = QuizSession::with(['answers.sentence', 'level'])->findOrFail($sessionId);
+        $session = QuizSession::where('id', $sessionId)
+            ->where('user_id', $userId)
+            ->with(['answers.sentence', 'level'])
+            ->firstOrFail();
+
         $session->update(['status' => 'completed', 'completed_at' => now()]);
 
         // Check if this level was completed for the first time → unlock next level
@@ -114,6 +132,27 @@ class QuizService
             'next_level_unlocked' => (bool) $nextLevel,
             'next_level_id' => $nextLevel ? $nextLevel->id : null,
         ];
+    }
+
+    public function resetSession(string $userId, string $sessionId): QuizSession
+    {
+        $session = QuizSession::where('id', $sessionId)
+            ->where('user_id', $userId)
+            ->firstOrFail();
+
+        $session->update([
+            'status' => 'in_progress',
+            'correct_count' => 0,
+            'completed_at' => null,
+        ]);
+
+        QuizAnswer::where('session_id', $sessionId)->update([
+            'user_answer' => null,
+            'is_correct' => false,
+            'revealed' => false,
+        ]);
+
+        return $session->fresh()->load('answers.sentence');
     }
 
     public function getUnmemorizedSentences(string $userId, string $languageId, string $levelId)

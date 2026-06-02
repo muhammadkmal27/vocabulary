@@ -307,4 +307,42 @@ class QuizEngineTest extends TestCase
 
         $response->assertStatus(403);
     }
+
+    public function test_user_can_reset_quiz_session()
+    {
+        $session = QuizSession::create([
+            'user_id' => $this->user->id,
+            'language_id' => $this->language->id,
+            'level_id' => $this->level->id,
+            'status' => 'completed',
+            'total_questions' => 1,
+            'correct_count' => 1,
+            'started_at' => now(),
+            'completed_at' => now(),
+        ]);
+
+        $answer = QuizAnswer::create([
+            'session_id' => $session->id,
+            'sentence_id' => $this->sentence->id,
+            'user_answer' => 'Cat',
+            'is_correct' => true,
+            'revealed' => true,
+            'answered_at' => now(),
+        ]);
+
+        $response = $this->actingAs($this->user)
+            ->postJson("/api/quiz/{$session->id}/reset");
+
+        $response->assertStatus(200);
+
+        $session = $session->fresh();
+        $this->assertEquals('in_progress', $session->status);
+        $this->assertEquals(0, $session->correct_count);
+        $this->assertNull($session->completed_at);
+
+        $answer = $answer->fresh();
+        $this->assertNull($answer->user_answer);
+        $this->assertFalse($answer->is_correct);
+        $this->assertFalse($answer->revealed);
+    }
 }

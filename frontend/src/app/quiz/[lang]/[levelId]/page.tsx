@@ -616,7 +616,7 @@ export default function QuizPage() {
 
                 <div className="flex gap-2 sm:gap-3">
                   <Button
-                    onClick={() => {
+                    onClick={async () => {
                       setCurrentIndex(0);
                       setAnswer("");
                       setShowResult(false);
@@ -629,10 +629,28 @@ export default function QuizPage() {
                       setPracticeFeedback(null);
                       setIsTypingPractice(false);
                       if (session) {
-                        setSession((prev: any) => ({
-                          ...prev,
-                          correct_count: 0,
-                        }));
+                        if (token) {
+                          try {
+                            const res = await fetch(`/api/quiz/${session.id}/reset`, {
+                              method: "POST",
+                              headers: {
+                                Authorization: `Bearer ${token}`,
+                                Accept: "application/json",
+                              },
+                            });
+                            if (res.ok) {
+                              const resetData = await res.json();
+                              setSession(resetData);
+                            }
+                          } catch (err) {
+                            console.error("Gagal menetapkan semula sesi:", err);
+                          }
+                        } else {
+                          setSession((prev: any) => ({
+                            ...prev,
+                            correct_count: 0,
+                          }));
+                        }
                       }
                     }}
                     variant="outline"
