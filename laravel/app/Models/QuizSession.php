@@ -32,7 +32,7 @@ class QuizSession extends Model
 
     public function answers()
     {
-        return $this->hasMany(QuizAnswer::class, 'session_id');
+        return $this->hasMany(QuizAnswer::class, 'session_id')->orderBy('id');
     }
 
     public function level()
