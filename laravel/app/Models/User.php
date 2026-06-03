@@ -34,6 +34,7 @@ class User extends Authenticatable
     protected $appends = [
         'subscribed',
         'subscription_source',
+        'has_password',
     ];
 
     protected function casts(): array
@@ -106,5 +107,10 @@ class User extends Authenticatable
         }
 
         return 'Tiada';
+    }
+
+    public function getHasPasswordAttribute(): bool
+    {
+        return !empty($this->password);
     }
 }

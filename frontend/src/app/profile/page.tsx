@@ -130,8 +130,10 @@ export default function ProfilePage() {
   };
 
   const handleUpdatePassword = async () => {
-    if (!currentPw || !newPw || !newPwConfirm) {
-      toast("Sila isi semua ruangan kata laluan.", "error");
+    const hasPassword = user?.has_password !== false;
+    
+    if ((hasPassword && !currentPw) || !newPw || !newPwConfirm) {
+      toast(hasPassword ? "Sila isi semua ruangan kata laluan." : "Sila isi ruangan kata laluan baru.", "error");
       return;
     }
     if (newPw.length < 8) {
@@ -145,7 +147,7 @@ export default function ProfilePage() {
     setIsSavingPassword(true);
     try {
       const res = await api.put("/profile/password", {
-        current_password: currentPw,
+        current_password: hasPassword ? currentPw : undefined,
         new_password: newPw,
         new_password_confirmation: newPwConfirm,
       });
@@ -156,6 +158,9 @@ export default function ProfilePage() {
           setCurrentPw("");
           setNewPw("");
           setNewPwConfirm("");
+          if (user) {
+            updateUser({ ...user, has_password: true });
+          }
         }
       } else {
         toast("Gagal menukar kata laluan.", "error");
@@ -297,34 +302,36 @@ export default function ProfilePage() {
         <Card>
           <CardHeader>
             <CardTitle className="text-lg flex items-center gap-2">
-              <Lock className="w-5 h-5 text-primary" /> Tukar Kata Laluan
+              <Lock className="w-5 h-5 text-primary" /> {user?.has_password ? "Tukar Kata Laluan" : "Tetapkan Kata Laluan Baru"}
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
-            <div className="space-y-2">
-              <Label htmlFor="current-pw">Kata Laluan Semasa</Label>
-              <div className="relative">
-                <Input
-                  id="current-pw"
-                  type={showCurrentPw ? "text" : "password"}
-                  placeholder="••••••••"
-                  value={currentPw}
-                  onChange={(e) => setCurrentPw(e.target.value)}
-                  className="pr-10"
-                />
-                <button
-                  type="button"
-                  onClick={() => setShowCurrentPw(!showCurrentPw)}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground cursor-pointer focus:outline-none"
-                >
-                  {showCurrentPw ? (
-                    <EyeOff className="w-4 h-4" />
-                  ) : (
-                    <Eye className="w-4 h-4" />
-                  )}
-                </button>
+            {user?.has_password && (
+              <div className="space-y-2">
+                <Label htmlFor="current-pw">Kata Laluan Semasa</Label>
+                <div className="relative">
+                  <Input
+                    id="current-pw"
+                    type={showCurrentPw ? "text" : "password"}
+                    placeholder="••••••••"
+                    value={currentPw}
+                    onChange={(e) => setCurrentPw(e.target.value)}
+                    className="pr-10"
+                  />
+                  <button
+                    type="button"
+                    onClick={() => setShowCurrentPw(!showCurrentPw)}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground cursor-pointer focus:outline-none"
+                  >
+                    {showCurrentPw ? (
+                      <EyeOff className="w-4 h-4" />
+                    ) : (
+                      <Eye className="w-4 h-4" />
+                    )}
+                  </button>
+                </div>
               </div>
-            </div>
+            )}
             <div className="space-y-2">
               <Label htmlFor="new-pw">Kata Laluan Baru</Label>
               <div className="relative">
@@ -374,7 +381,7 @@ export default function ProfilePage() {
               </div>
             </div>
             <Button variant="outline" size="sm" onClick={handleUpdatePassword} disabled={isSavingPassword}>
-              {isSavingPassword ? "Memproses..." : "Tukar Kata Laluan"}
+              {isSavingPassword ? "Memproses..." : (user?.has_password ? "Tukar Kata Laluan" : "Tetapkan Kata Laluan")}
             </Button>
           </CardContent>
         </Card>
