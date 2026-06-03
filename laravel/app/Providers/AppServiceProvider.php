@@ -23,6 +23,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        \Illuminate\Auth\Notifications\ResetPassword::createUrlUsing(function ($user, string $token) {
+            return config('app.frontend_url', 'http://localhost:3000') . '/reset-password?token=' . $token . '&email=' . urlencode($user->email);
+        });
+
         // Payment creation — strict: 5 attempts per minute per user
         RateLimiter::for('payment-create', function (Request $request) {
             return Limit::perMinute(5)->by($request->user()?->id ?: $request->ip())
