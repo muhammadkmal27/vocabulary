@@ -15,7 +15,7 @@ import { Label } from "@/components/ui/label";
 import { Badge } from "@/components/ui/badge";
 import { useTheme } from "next-themes";
 import { Separator } from "@/components/ui/separator";
-import { User, Lock, Save, Globe, LogOut, ArrowLeft, Home, BookOpenCheck, Settings, Sun, Moon, Loader2 } from "lucide-react";
+import { User, Lock, Save, Globe, LogOut, ArrowLeft, Home, BookOpenCheck, Settings, Sun, Moon, Loader2, Eye, EyeOff } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import api from "@/lib/api";
@@ -38,6 +38,9 @@ export default function ProfilePage() {
   const [newPw, setNewPw] = useState("");
   const [newPwConfirm, setNewPwConfirm] = useState("");
   const [isSavingPassword, setIsSavingPassword] = useState(false);
+  const [showCurrentPw, setShowCurrentPw] = useState(false);
+  const [showNewPw, setShowNewPw] = useState(false);
+  const [showNewPwConfirm, setShowNewPwConfirm] = useState(false);
 
   useEffect(() => {
     if (user) {
@@ -300,33 +303,75 @@ export default function ProfilePage() {
           <CardContent className="space-y-4">
             <div className="space-y-2">
               <Label htmlFor="current-pw">Kata Laluan Semasa</Label>
-              <Input
-                id="current-pw"
-                type="password"
-                placeholder="••••••••"
-                value={currentPw}
-                onChange={(e) => setCurrentPw(e.target.value)}
-              />
+              <div className="relative">
+                <Input
+                  id="current-pw"
+                  type={showCurrentPw ? "text" : "password"}
+                  placeholder="••••••••"
+                  value={currentPw}
+                  onChange={(e) => setCurrentPw(e.target.value)}
+                  className="pr-10"
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowCurrentPw(!showCurrentPw)}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground cursor-pointer focus:outline-none"
+                >
+                  {showCurrentPw ? (
+                    <EyeOff className="w-4 h-4" />
+                  ) : (
+                    <Eye className="w-4 h-4" />
+                  )}
+                </button>
+              </div>
             </div>
             <div className="space-y-2">
               <Label htmlFor="new-pw">Kata Laluan Baru</Label>
-              <Input
-                id="new-pw"
-                type="password"
-                placeholder="Minimum 8 aksara"
-                value={newPw}
-                onChange={(e) => setNewPw(e.target.value)}
-              />
+              <div className="relative">
+                <Input
+                  id="new-pw"
+                  type={showNewPw ? "text" : "password"}
+                  placeholder="Minimum 8 aksara"
+                  value={newPw}
+                  onChange={(e) => setNewPw(e.target.value)}
+                  className="pr-10"
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowNewPw(!showNewPw)}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground cursor-pointer focus:outline-none"
+                >
+                  {showNewPw ? (
+                    <EyeOff className="w-4 h-4" />
+                  ) : (
+                    <Eye className="w-4 h-4" />
+                  )}
+                </button>
+              </div>
             </div>
             <div className="space-y-2">
               <Label htmlFor="new-pw-confirm">Sahkan Kata Laluan Baru</Label>
-              <Input
-                id="new-pw-confirm"
-                type="password"
-                placeholder="Sahkan kata laluan baru"
-                value={newPwConfirm}
-                onChange={(e) => setNewPwConfirm(e.target.value)}
-              />
+              <div className="relative">
+                <Input
+                  id="new-pw-confirm"
+                  type={showNewPwConfirm ? "text" : "password"}
+                  placeholder="Sahkan kata laluan baru"
+                  value={newPwConfirm}
+                  onChange={(e) => setNewPwConfirm(e.target.value)}
+                  className="pr-10"
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowNewPwConfirm(!showNewPwConfirm)}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground cursor-pointer focus:outline-none"
+                >
+                  {showNewPwConfirm ? (
+                    <EyeOff className="w-4 h-4" />
+                  ) : (
+                    <Eye className="w-4 h-4" />
+                  )}
+                </button>
+              </div>
             </div>
             <Button variant="outline" size="sm" onClick={handleUpdatePassword} disabled={isSavingPassword}>
               {isSavingPassword ? "Memproses..." : "Tukar Kata Laluan"}
