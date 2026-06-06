@@ -33,7 +33,7 @@ export function PromoHero({ onCTAClick }: PromoHeroProps) {
 
           {/* Headline */}
           <h1 className="text-4xl sm:text-5xl md:text-[56px] font-extrabold text-[#1A1A1A] leading-[1.1] tracking-tight max-w-3xl">
-            Kuasai Bahasa Asing Tanpa Perlu <span className="text-[#A83232]">Menghafal Kamus</span> Yang Membosankan
+            Kuasai Bahasa English Tanpa Perlu <span className="text-[#A83232]">Menghafal Kamus</span> Yang Membosankan
           </h1>
 
           {/* Subheadline */}
