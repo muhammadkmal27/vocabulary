@@ -29,6 +29,7 @@ import {
   CheckCircle2,
 } from "lucide-react";
 import { useAuth } from "@/lib/auth";
+import { trackFbEvent } from "@/components/FacebookPixel";
 
 interface SubscriptionDetails {
   id: string;
@@ -105,6 +106,7 @@ function SubscriptionContent() {
           const data = await res.json();
           if (data.activated) {
             toast(data.message || "Langganan Lifetime berjaya diaktifkan!", "success");
+            trackFbEvent("Purchase", { value: 100.0, currency: "MYR" });
           } else {
             toast(data.message || "Pembayaran belum dapat disahkan.", "error");
           }
@@ -137,6 +139,7 @@ function SubscriptionContent() {
           const data = await res.json();
           if (data.activated) {
             toast(data.message || "Langganan Premium Stripe berjaya diaktifkan!", "success");
+            trackFbEvent("Purchase", { value: 20.0, currency: "MYR" });
           } else {
             toast(data.message || "Pembayaran Stripe belum dapat disahkan.", "error");
           }

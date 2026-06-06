@@ -46,7 +46,9 @@ export default function RegisterPage() {
     try {
       // register takes: name, email, password, password_confirmation, turnstileToken
       await register(name, email, password, password, turnstileToken);
-      window.location.href = "/";
+      const searchParams = new URLSearchParams(window.location.search);
+      const redirect = searchParams.get("redirect") || "/";
+      window.location.href = redirect;
     } catch (err: any) {
       toast("Pendaftaran gagal. Sila cuba lagi atau gunakan email lain.", "error");
     } finally {

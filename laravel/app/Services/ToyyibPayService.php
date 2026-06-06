@@ -241,6 +241,17 @@ class ToyyibPayService
             );
         });
 
+        // Send Facebook CAPI Purchase event
+        try {
+            if ($user) {
+                app(FacebookCapiService::class)->sendPurchaseEvent($user, $amount);
+            }
+        } catch (\Exception $e) {
+            Log::error('Failed to trigger Facebook CAPI from ToyyibPay subscription activation', [
+                'error' => $e->getMessage()
+            ]);
+        }
+
         Log::info("ToyyibPay subscription activated", ['user_id' => $userId, 'refno' => $refno]);
     }
 }

@@ -51,7 +51,9 @@ export default function LoginPage() {
           return;
         }
       }
-      window.location.href = "/";
+      const searchParams = new URLSearchParams(window.location.search);
+      const redirect = searchParams.get("redirect") || "/";
+      window.location.href = redirect;
     } catch (err) {
       toast("Log masuk gagal. Sila periksa email dan kata laluan anda.", "error");
     } finally {

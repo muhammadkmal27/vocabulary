@@ -50,4 +50,9 @@ return [
         'url' => env('QUIZ_ENGINE_URL', 'http://127.0.0.1:8080'),
     ],
 
+    'facebook' => [
+        'pixel_id' => env('FACEBOOK_PIXEL_ID'),
+        'access_token' => env('FACEBOOK_ACCESS_TOKEN'),
+    ],
+
 ];

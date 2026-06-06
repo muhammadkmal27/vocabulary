@@ -207,6 +207,19 @@ class StripeService
             );
         });
 
+        // Send Facebook CAPI Purchase event
+        try {
+            $user = User::find($userId);
+            $plan = SubscriptionPlan::find($planId);
+            if ($user && $plan) {
+                app(FacebookCapiService::class)->sendPurchaseEvent($user, (float) $plan->price_myr);
+            }
+        } catch (\Exception $e) {
+            Log::error('Failed to trigger Facebook CAPI from Stripe subscription activation', [
+                'error' => $e->getMessage()
+            ]);
+        }
+
         // Fix #10: Security event logging
         Log::info('Stripe subscription activated', [
             'user_id' => $userId,
