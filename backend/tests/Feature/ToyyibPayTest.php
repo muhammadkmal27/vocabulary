@@ -36,6 +36,13 @@ class ToyyibPayTest extends TestCase
 
     public function test_create_toyyibpay_bill_success()
     {
+        SubscriptionPlan::create([
+            'name' => 'Lifetime Promo',
+            'slug' => 'lifetime',
+            'price_myr' => 100.00,
+            'is_active' => true,
+        ]);
+
         Http::fake([
             'dev.toyyibpay.com/index.php/api/createBill' => Http::response([
                 [
@@ -57,6 +64,14 @@ class ToyyibPayTest extends TestCase
 
     public function test_toyyibpay_webhook_activates_lifetime_subscription()
     {
+        SubscriptionPlan::create([
+            'name' => 'Lifetime Promo',
+            'slug' => 'lifetime',
+            'price_myr' => 100.00,
+            'is_active' => true,
+            'duration_months' => null,
+        ]);
+
         // Webhook payload sent by ToyyibPay
         $payload = [
             'refno' => 'TXY1029381',
@@ -141,7 +156,7 @@ class ToyyibPayTest extends TestCase
 
         $response->assertStatus(400)
             ->assertJsonFragment([
-                'message' => 'Lifetime promo quota (5 users) has been fully reached.',
+                'message' => 'Kuota promosi (5 pengguna) telah dicapai sepenuhnya.',
             ]);
     }
 }
