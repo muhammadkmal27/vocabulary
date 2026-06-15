@@ -1,49 +1,54 @@
 "use client";
 
 import React from "react";
-import { Check, Target } from "lucide-react";
 
 export function PromoSolution() {
   return (
-    <section className="w-full bg-[#FFF8F8] border-b border-[#F0DADA] pt-16 pb-16 px-4 md:pt-28 md:pb-24">
-      <div className="max-w-4xl mx-auto w-full">
-        
-        <h2 className="text-[30px] sm:text-[38px] md:text-[50px] font-extrabold text-[#1A1A1A] leading-[1.05] tracking-tight text-center mb-8 md:mb-12">
-          Tapi Terus Terang Saya Cakap !!!
-        </h2>
-
-        <div className="bg-white p-[22px] md:p-10 rounded-[18px] md:rounded-3xl border-t-8 border-[#A83232] shadow-sm flex flex-col">
-          
-          <h2 className="text-[20px] md:text-[24px] font-extrabold uppercase flex flex-col sm:flex-row items-center sm:items-start gap-3 sm:gap-4 mb-6 md:mb-8 text-[#1A1A1A] leading-[1.25] text-center sm:text-left">
-            <div className="w-[42px] h-[42px] md:w-12 md:h-12 bg-[#F8EAEA] rounded-lg flex items-center justify-center shrink-0">
-              <Target className="w-6 h-6 text-[#A83232]" />
+    <section className="py-16 md:py-20 px-4 md:px-6 bg-white rounded-t-[3rem] -mt-8 relative z-10">
+      <div className="max-w-5xl mx-auto">
+        <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-center mb-6 text-slate-800">Tapi Terus Terang Saya Cakap !!!</h2>
+        <h3 className="text-xl md:text-2xl font-bold text-center text-orange-500 mb-12 md:mb-16 bg-orange-100 px-4 py-2 md:px-6 md:py-2 rounded-full mx-auto block w-fit rotate-[-1deg]">Sistem Ini Hanya Sesuai Untuk...</h3>
+        <div className="grid md:grid-cols-2 gap-4 md:gap-6" data-purpose="audience-list">
+          <div className="flex items-center gap-4 p-4 md:p-5 bg-yellow-50 border-2 border-yellow-100 rounded-2xl md:rounded-3xl hover:scale-105 transition-transform">
+            <div className="bg-yellow-200 p-2 rounded-full">
+              <svg className="w-5 h-5 md:w-6 md:h-6 text-yellow-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path>
+              </svg>
             </div>
-            Sistem Ini Hanya Sesuai Untuk...
-          </h2>
-
-          <ul className="list-none grow mb-8 space-y-4">
-            {[
-              "Orang yang nak jimat masa (hanya perlu 10 minit sehari)",
-              "Mereka yang susah nak ingat perkataan lepas dah baca",
-              "Sesiapa yang nak melancong dan perlukan bahasa asas dengan cepat",
-              "Pelajar yang nak persediaan pantas untuk ujian bahasa",
-              "Pekerja profesional yang nak tambah nilai resume dengan bahasa asing",
-              "Beginner yang bermula dari zero dan perlukan susunan yang sistematik",
-              "Mereka yang dah penat hafal teori grammar yang memeningkan",
-              "Orang yang nak sistem ulangkaji secara automatik (AI uruskan bila anda patut ulang)"
-            ].map((item, i) => (
-              <li key={i} className="flex items-start gap-3 md:gap-4 font-medium text-[15px] md:text-[16px] text-[#555555] leading-[1.55]">
-                <Check className="w-[18px] h-[18px] text-[#A83232] shrink-0 mt-[3px] opacity-80" />
-                <span>{item}</span>
-              </li>
-            ))}
-          </ul>
-
-          <div className="bg-[#F8EAEA] p-4 md:p-6 rounded-[14px] md:rounded-2xl font-bold text-[#7F1D1D] border border-[#F0DADA] leading-[1.55] text-[15px] md:text-[16px]">
-            Kalau anda jenis orang yang suka belajar benda praktikal dan terus nak nampak hasil, sistem Spaced Repetition ini memang 'ngam'. Tak perlu tunggu jadi pakar teori, tak perlu buang masa hafal kamus.
+            <span className="font-bold text-slate-700 text-base md:text-lg">Orang yang nak jimat masa (hanya perlu 10 minit sehari)</span>
+          </div>
+          <div className="flex items-center gap-4 p-4 md:p-5 bg-orange-50 border-2 border-orange-100 rounded-2xl md:rounded-3xl hover:scale-105 transition-transform">
+            <div className="bg-orange-200 p-2 rounded-full">
+              <svg className="w-5 h-5 md:w-6 md:h-6 text-orange-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path>
+              </svg>
+            </div>
+            <span className="font-bold text-slate-700 text-base md:text-lg">Mereka yang susah nak ingat perkataan lepas dah baca</span>
+          </div>
+          <div className="flex items-center gap-4 p-4 md:p-5 bg-red-50 border-2 border-red-100 rounded-2xl md:rounded-3xl hover:scale-105 transition-transform">
+            <div className="bg-red-200 p-2 rounded-full">
+              <svg className="w-5 h-5 md:w-6 md:h-6 text-red-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path>
+              </svg>
+            </div>
+            <span className="font-bold text-slate-700 text-base md:text-lg">Sesiapa yang nak melancong &amp; perlukan bahasa asas cepat</span>
+          </div>
+          <div className="flex items-center gap-4 p-4 md:p-5 bg-yellow-50 border-2 border-yellow-100 rounded-2xl md:rounded-3xl hover:scale-105 transition-transform">
+            <div className="bg-yellow-200 p-2 rounded-full">
+              <svg className="w-5 h-5 md:w-6 md:h-6 text-yellow-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path>
+              </svg>
+            </div>
+            <span className="font-bold text-slate-700 text-base md:text-lg">Pelajar yang nak persediaan pantas untuk ujian bahasa</span>
           </div>
         </div>
-
+        <div className="mt-12 md:mt-20 bg-red-500 text-white p-6 md:p-10 rounded-[2rem] md:rounded-[3rem] text-center shadow-2xl rotate-1 relative overflow-hidden">
+          <div className="absolute -top-10 -left-10 w-24 h-24 md:w-32 md:h-32 bg-yellow-400 rounded-full mix-blend-screen opacity-50"></div>
+          <div className="absolute -bottom-10 -right-10 w-28 h-28 md:w-40 md:h-40 bg-orange-400 rounded-full mix-blend-screen opacity-50"></div>
+          <p className="text-lg md:text-2xl font-bold leading-relaxed relative z-10">
+            Kalau anda jenis orang yang suka belajar benda praktikal dan terus nak nampak hasil, sistem <span className="bg-yellow-300 text-red-900 px-3 py-1 rounded-xl mx-1 inline-block rotate-[-2deg]">Spaced Repetition</span> ini memang &#39;ngam&#39;. Tak perlu tunggu jadi pakar teori!
+          </p>
+        </div>
       </div>
     </section>
   );

@@ -1,89 +1,66 @@
 "use client";
 
 import React from "react";
-import { Terminal, XCircle } from "lucide-react";
 
 export function PromoProblems() {
   return (
-    <section className="w-full bg-white border-b border-[#F0DADA] pt-16 pb-16 px-4 md:pt-28 md:pb-20">
-      <div className="max-w-4xl mx-auto w-full">
-        
-        {/* Header Section */}
-        <h2 className="text-center text-[28px] sm:text-[34px] md:text-[42px] font-extrabold text-[#1A1A1A] uppercase tracking-[-0.04em] leading-[1.1] mb-6">
-          Ramai Dah Cuba Belajar Bahasa Sendiri… Tapi Akhirnya <span className="text-[#A83232]">"Bosan & Cepat Lupa"</span>
-        </h2>
-        
-        <p className="text-center text-base md:text-lg font-medium text-[#555555] mb-10 max-w-2xl mx-auto">
-          Saya tahu ramai yang dah muat turun macam-macam aplikasi percuma dan beli buku panduan tebal-tebal.
-        </p>
-        
-        {/* Terminal Box */}
-        <div className="bg-[#FFF8F8] border border-[#F0DADA] rounded-[18px] p-5 md:p-[30px] font-mono text-sm md:text-[15px] text-[#1A1A1A] max-w-[720px] mx-auto shadow-sm mb-12">
-          <div className="flex items-center gap-2 mb-4 pb-3 border-b border-dashed border-[#F0DADA]">
-            <Terminal className="w-4 h-4 text-[#A83232]" />
-            <span className="text-xs font-bold uppercase tracking-[0.1em] text-[#7F1D1D]">Ini Cara Belajar Yang Anda Biasa Buat</span>
+    <section className="bg-amber-100/50 py-16 md:py-20 px-4 md:px-6 rounded-t-[3rem] border-t-4 border-white">
+      <div className="max-w-5xl mx-auto">
+        <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-center mb-8 md:mb-12 text-slate-800">Ramai Dah Cuba Belajar Sendiri… <br /><span className="text-red-500">Tapi Akhirnya &quot;Bosan &amp; Cepat Lupa&quot;</span></h2>
+        <p className="text-center text-slate-600 mb-12 md:mb-16 text-lg md:text-xl font-bold max-w-3xl mx-auto">Saya tahu ramai yang dah muat turun macam-macam aplikasi percuma dan beli buku panduan tebal-tebal.</p>
+        <div className="grid md:grid-cols-2 gap-12 items-start">
+          
+          {/* Left: Current way */}
+          <div className="space-y-4 md:space-y-6 md:mt-8">
+            <h4 className="font-black text-slate-800 mb-4 md:mb-6 uppercase tracking-wider text-base md:text-lg bg-yellow-200 inline-block px-4 py-2 rounded-2xl rotate-[-2deg]">Ini Cara Biasa</h4>
+            <blockquote className="p-4 md:p-6 bg-white border-2 border-slate-100 rounded-3xl shadow-md text-slate-600 font-bold rotate-1 hover:rotate-0 transition-transform text-sm md:text-base">
+              &quot;Beli buku grammar yang tebal dan cuba hafal formula.&quot;
+            </blockquote>
+            <blockquote className="p-4 md:p-6 bg-white border-2 border-slate-100 rounded-3xl shadow-md text-slate-600 font-bold -rotate-1 hover:rotate-0 transition-transform text-sm md:text-base">
+              &quot;Guna aplikasi percuma tapi cuma main game teka gambar.&quot;
+            </blockquote>
+            <blockquote className="p-4 md:p-6 bg-white border-2 border-slate-100 rounded-3xl shadow-md text-slate-600 font-bold rotate-1 hover:rotate-0 transition-transform text-sm md:text-base">
+              &quot;Tulis perkataan baru berulang kali dalam buku nota.&quot;
+            </blockquote>
           </div>
-          <div className="flex flex-col gap-3 font-medium">
-            <div><span className="text-[#A83232] font-bold mr-2">&gt;</span> Beli buku grammar yang tebal dan cuba hafal formula.</div>
-            <div><span className="text-[#A83232] font-bold mr-2">&gt;</span> Guna aplikasi percuma tapi cuma main game teka gambar.</div>
-            <div><span className="text-[#A83232] font-bold mr-2">&gt;</span> Tulis perkataan baru berulang kali dalam buku nota.</div>
-            <div><span className="text-[#A83232] font-bold mr-2">&gt;</span> Tengok movie tanpa subtitle, tapi sepatah pun tak faham.</div>
-            <div><span className="text-[#A83232] font-bold mr-2">&gt;</span> Bila cuba bercakap, otak *blank* dan terus senyap.</div>
-          </div>
-        </div>
 
-        {/* Transition Text */}
-        <div className="text-center text-xl md:text-[22px] font-extrabold text-[#1A1A1A] mb-8">
-          Tapi bila tengok hasil dia selepas sebulan…
-        </div>
-
-        {/* Problem Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[860px] mx-auto mb-14">
-          {[
-            "Ingat sekejap, lusa dah lupa balik",
-            "Boleh faham sikit bila baca, tapi tak boleh sebut",
-            "Terlalu banyak rules grammar nak kena ingat",
-            "Takde motivasi sebab asyik ulang silap yang sama",
-            "Rasa buang masa main game tapi tak boleh bina ayat",
-            "Tak yakin nak praktis cakap dengan orang sebenar"
-          ].map((problem, i) => (
-            <div 
-              key={i} 
-              className="flex items-center gap-3 p-4 md:px-[22px] md:py-[16px] bg-white border border-[#A83232]/20 rounded-2xl shadow-[0_10px_24px_rgba(168,50,50,0.05)] hover:-translate-y-0.5 hover:shadow-[0_16px_30px_rgba(168,50,50,0.1)] hover:border-[#A83232]/40 transition-all duration-250 relative overflow-hidden"
-            >
-              <div className="absolute left-0 top-[18%] bottom-[18%] w-1 bg-[#A83232] rounded-full opacity-75"></div>
-              <div className="w-[28px] h-[28px] rounded-full bg-[#F8EAEA] text-[#A83232] flex items-center justify-center shrink-0">
-                <XCircle className="w-4 h-4" />
+          {/* Right: Results */}
+          <div className="space-y-4 md:space-y-6 mt-8 md:mt-0">
+            <h4 className="font-black text-red-500 mb-4 md:mb-6 uppercase tracking-wider text-base md:text-lg bg-red-100 inline-block px-4 py-2 rounded-2xl rotate-[2deg]">Hasilnya Selepas Sebulan…</h4>
+            <div className="p-4 md:p-6 bg-red-50 border-2 border-red-200 text-red-800 rounded-3xl flex items-center gap-4 font-bold shadow-sm -rotate-1 text-sm md:text-base">
+              <div className="bg-red-200 p-2 rounded-full">
+                <svg className="w-5 h-5 md:w-6 md:h-6 flex-shrink-0 text-red-600" fill="currentColor" viewBox="0 0 20 20">
+                  <path clipRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" fillRule="evenodd"></path>
+                </svg>
               </div>
-              <span className="text-[15px] md:text-[15.5px] font-bold leading-tight text-[#1A1A1A]">
-                {problem}
-              </span>
+              Ingat sekejap, lusa dah lupa balik
             </div>
-          ))}
-        </div>
-
-        {/* Realization Insight Box */}
-        <div className="text-center text-lg md:text-xl font-medium text-[#555555] mb-8 space-y-2">
-          <p>Benda ni memang boleh buat stres walaupun anda dah luang berjam-jam masa!!</p>
-          <p>Sebab dalam kepala kita, <span className="font-bold text-[#1A1A1A]">kita expect asalkan kita rajin membaca, kita akan pandai.</span></p>
-          <p className="font-extrabold text-2xl text-[#1A1A1A] pt-4">Tapi realitinya, otak kita tak direka untuk "menghafal" kamus.</p>
-        </div>
-
-        <div className="max-w-[860px] mx-auto bg-[#F8EAEA] border border-[#F0DADA] rounded-2xl overflow-hidden shadow-[0_8px_22px_rgba(168,50,50,0.06)] flex">
-          <div className="w-1.5 md:w-2 bg-[#A83232] shrink-0"></div>
-          <div className="p-5 md:px-[36px] md:py-[26px]">
-            <p className="text-[15.5px] md:text-[16.5px] leading-relaxed text-[#1A1A1A] mb-3">
-              <strong>Kalau teknik belajar salah</strong>, hasil dia pun lambat.
-            </p>
-            <p className="text-[15.5px] md:text-[16.5px] leading-relaxed text-[#1A1A1A] mb-3">
-              <strong>Kalau struktur pembelajaran berterabur</strong>, otak tak dapat tangkap '*pattern*' bahasa tu.
-            </p>
-            <p className="text-[15.5px] md:text-[16.5px] leading-relaxed text-[#1A1A1A]">
-              <strong>Kalau tak ulang kaji ikut *timing* yang tepat</strong>, segala yang dipelajari semalam akan hilang hari ini.
-            </p>
+            <div className="p-4 md:p-6 bg-red-50 border-2 border-red-200 text-red-800 rounded-3xl flex items-center gap-4 font-bold shadow-sm rotate-1 text-sm md:text-base">
+              <div className="bg-red-200 p-2 rounded-full">
+                <svg className="w-5 h-5 md:w-6 md:h-6 flex-shrink-0 text-red-600" fill="currentColor" viewBox="0 0 20 20">
+                  <path clipRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" fillRule="evenodd"></path>
+                </svg>
+              </div>
+              Boleh faham sikit bila baca, tapi tak boleh sebut
+            </div>
+            <div className="p-4 md:p-6 bg-red-50 border-2 border-red-200 text-red-800 rounded-3xl flex items-center gap-4 font-bold shadow-sm -rotate-1 text-sm md:text-base">
+              <div className="bg-red-200 p-2 rounded-full">
+                <svg className="w-5 h-5 md:w-6 md:h-6 flex-shrink-0 text-red-600" fill="currentColor" viewBox="0 0 20 20">
+                  <path clipRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" fillRule="evenodd"></path>
+                </svg>
+              </div>
+              Terlalu banyak rules grammar nak kena ingat
+            </div>
           </div>
         </div>
 
+        <div className="mt-12 md:mt-16 text-center space-y-4 md:space-y-6">
+          <p className="text-xl md:text-2xl font-black text-red-500 uppercase bg-white inline-block px-6 py-3 md:px-8 md:py-4 rounded-[2rem] shadow-lg rotate-1">Benda ni memang boleh buat stres!! 😫</p>
+          <p className="text-slate-700 text-lg md:text-xl font-bold leading-relaxed max-w-2xl mx-auto mt-6 md:mt-8">
+            Sebab dalam kepala kita, kita expect asalkan kita rajin membaca, kita akan pandai. 
+            Tapi realitinya, otak kita tak direka untuk &quot;menghafal&quot; kamus.
+          </p>
+        </div>
       </div>
     </section>
   );

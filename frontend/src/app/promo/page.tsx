@@ -134,18 +134,18 @@ export default function PromoLandingPage() {
   const isPromoAvailable = toyyibpayStatus?.is_available;
 
   return (
-    <div className="min-h-screen bg-background text-foreground selection:bg-primary/30">
+    <div className="min-h-screen bg-amber-50/30 text-slate-800 selection:bg-red-500/30 font-['Nunito',sans-serif]" style={{ fontFamily: "'Nunito', sans-serif" }}>
       {/* Header */}
-      <header className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
-        <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+      <header className="w-full bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-amber-100/50">
+        <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <Link href="/" className="flex items-center gap-2">
-            <Brain className="w-6 h-6 text-primary" />
-            <span className="text-lg font-bold tracking-tight">Vocabulary</span>
+            <div className="bg-red-500 text-white p-2 rounded-xl rotate-[-5deg]">
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5"></path></svg>
+            </div>
+            <span className="text-2xl font-black tracking-tight text-slate-800">Vocabulary</span>
           </Link>
-          <Link href={token ? "/" : "/login?redirect=/promo"}>
-            <Button variant="outline" size="sm">
-              {token ? "Dashboard" : "Log Masuk"}
-            </Button>
+          <Link href={token ? "/" : "/login?redirect=/promo"} className="px-6 py-2.5 rounded-full border-2 border-slate-200 text-sm font-bold hover:border-red-500 hover:text-red-500 transition-all bg-white">
+            {token ? "Dashboard" : "Log Masuk"}
           </Link>
         </div>
       </header>
@@ -160,110 +160,103 @@ export default function PromoLandingPage() {
       <PromoSolution />
 
       {/* Interactive Quiz Simulator Section */}
-      <section className="w-full bg-white border-b border-[#F0DADA] pt-16 pb-16 px-4 md:pt-28 md:pb-24">
-        <div className="max-w-3xl mx-auto text-center space-y-4 mb-10">
-          <h2 className="text-[28px] sm:text-[34px] font-extrabold text-[#1A1A1A] uppercase tracking-[-0.04em] leading-[1.1]">Cuba Demo 15 Saat Kami</h2>
-          <p className="text-base md:text-lg font-medium text-[#555555] max-w-lg mx-auto">
-            Gunakan simulator di bawah untuk menguji keupayaan ingatan visual dan interaktif anda serta-merta.
-          </p>
+      <section className="py-16 md:py-20 px-4 md:px-6 bg-slate-800 text-white rounded-t-[3rem] -mt-8 relative z-20 overflow-hidden">
+        <div className="absolute top-0 right-0 w-full h-full opacity-10" style={{ backgroundImage: "radial-gradient(circle at 50% 50%, #fef08a 0%, transparent 60%)" }}></div>
+        <div className="max-w-4xl mx-auto text-center relative z-10">
+          <h2 className="text-3xl md:text-4xl font-black mb-6">Cuba Demo 15 Saat Kami ⏱️</h2>
+          <p className="text-slate-300 mb-10 md:mb-12 text-lg md:text-xl font-bold">Uji keupayaan ingatan visual dan interaktif anda serta-merta!</p>
+          <div className="rotate-[-1deg]">
+            <PromoQuizSimulator onUnlockClick={() => handlePlanClick(null, true)} />
+          </div>
         </div>
-        <PromoQuizSimulator onUnlockClick={() => handlePlanClick(null, true)} />
       </section>
 
       {/* Pricing / Plan Section */}
-      <section className="w-full bg-[#FFF8F8] border-b border-[#F0DADA] pt-16 pb-16 px-4 md:pt-28 md:pb-24" id="pricing">
-        <div className="max-w-3xl mx-auto text-center space-y-4 mb-12">
-          <h2 className="text-[30px] sm:text-[38px] md:text-[50px] font-extrabold text-[#1A1A1A] leading-[1.05] tracking-tight text-center">Pilihan Pakej Promo 1 Tahun</h2>
-          <p className="text-base md:text-lg font-medium text-[#555555] max-w-lg mx-auto">
-            Terhad untuk 100 orang terawal sahaja! Sertai ribuan ahli premium kami hari ini.
-          </p>
-        </div>
+      <section className="py-16 md:py-20 px-4 md:px-6 bg-amber-50 rounded-t-[3rem] -mt-8 relative z-30" id="pricing">
+        <div className="max-w-4xl mx-auto text-center">
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-black mb-6 text-slate-800">Pilihan Pakej Promo 1 Tahun 🎁</h2>
+          <p className="text-red-500 font-black mb-10 md:mb-12 text-lg md:text-xl bg-red-100 inline-block px-4 py-2 md:px-6 md:py-2 rounded-full rotate-2">Terhad untuk 100 orang terawal sahaja!</p>
 
-        {loading ? (
-          <div className="flex justify-center py-12">
-            <Loader2 className="w-8 h-8 animate-spin text-primary" />
-          </div>
-        ) : (
-          <div className="flex flex-col md:flex-row justify-center items-stretch gap-8 max-w-4xl mx-auto">
-            {/* ToyyibPay Lifetime Plan */}
-            {isPromoAvailable && toyyibpayStatus?.plan && (
-              <Card className="w-full max-w-md mx-auto md:mx-0 border-warning ring-2 ring-warning bg-gradient-to-b from-warning/5 to-background relative overflow-hidden flex flex-col justify-between">
-                <div className="absolute top-0 right-0 bg-warning text-black text-[10px] font-bold px-3 py-1 uppercase rounded-bl-lg">
-                  Terhad
+          {loading ? (
+            <div className="flex justify-center py-12">
+              <Loader2 className="w-8 h-8 animate-spin text-red-500" />
+            </div>
+          ) : (
+            <div className="flex flex-col md:flex-row justify-center items-stretch gap-8 max-w-4xl mx-auto">
+              {/* ToyyibPay Lifetime Plan */}
+              {isPromoAvailable && toyyibpayStatus?.plan && (
+                <div className="max-w-md mx-auto border-8 border-red-500 rounded-[2rem] md:rounded-[3rem] p-6 md:p-10 bg-white shadow-2xl relative overflow-hidden transform hover:-translate-y-2 transition-transform duration-300 w-full" data-purpose="pricing-card">
+                  <div className="absolute top-0 right-0 bg-yellow-400 text-slate-900 text-xs md:text-sm font-black px-4 py-1.5 md:px-6 md:py-2 uppercase tracking-widest rounded-bl-2xl md:rounded-bl-3xl">
+                    BEST VALUE 🔥
+                  </div>
+                  <h4 className="text-xl md:text-2xl font-black text-slate-400 mb-4 mt-6 md:mt-4">{toyyibpayStatus.plan.name}</h4>
+                  <div className="flex justify-center items-baseline gap-1.5 md:gap-2 mb-8 md:mb-10">
+                    <span className="text-5xl md:text-6xl font-black text-slate-800">RM{parseFloat(toyyibpayStatus.plan.price_myr).toFixed(0)}</span>
+                    <span className="text-slate-400 font-bold text-base md:text-lg">/ Sekali bayar</span>
+                  </div>
+                  <ul className="text-left space-y-4 md:space-y-5 mb-10 text-slate-700 font-bold text-base md:text-lg bg-slate-50 p-5 md:p-6 rounded-2xl md:rounded-3xl">
+                    {["Akses penuh untuk 1 tahun", "Semua bahasa & semua level", "Algoritma Spaced Repetition", "Jimat RM140 setahun"].map((f) => (
+                      <li key={f} className="flex items-center gap-3 md:gap-4 leading-tight">
+                        <div className="bg-green-100 p-1 md:p-1.5 rounded-full shrink-0"><svg className="w-4 h-4 md:w-5 md:h-5 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path></svg></div>
+                        {f}
+                      </li>
+                    ))}
+                  </ul>
+                  <button 
+                    onClick={() => handlePlanClick(null, true)}
+                    className="w-full bg-red-500 hover:bg-red-600 text-white font-black py-4 md:py-6 rounded-full text-lg md:text-xl shadow-xl shadow-red-500/30 transition-all border-b-4 border-red-700 transform hover:scale-105"
+                  >
+                    MULA BELAJAR SEKARANG
+                  </button>
+                  <p className="mt-6 text-sm text-slate-400 font-bold bg-slate-100 py-2 rounded-full">Tinggal {toyyibpayStatus.quota_remaining} quota sahaja!</p>
                 </div>
-                <CardHeader className="text-center pt-8">
-                  <Badge variant="outline" className="text-warning border-warning bg-warning/10 font-bold mx-auto mb-2 flex items-center gap-1.5 w-fit">
-                    <Star className="w-3.5 h-3.5 fill-warning" /> PROMO 1 TAHUN
-                  </Badge>
-                  <CardTitle className="text-2xl">{toyyibpayStatus.plan.name}</CardTitle>
-                  <div className="mt-3">
-                    <span className="text-5xl font-extrabold text-foreground">RM{parseFloat(toyyibpayStatus.plan.price_myr).toFixed(0)}</span>
-                    <span className="text-muted-foreground text-xs block mt-1">Sekali bayar sahaja untuk 1 tahun</span>
-                  </div>
-                  <p className="text-[11px] text-warning font-semibold bg-warning/10 py-1 px-3 rounded-full mt-3 inline-block">
-                    🔥 Terhad untuk 100 orang terawal sahaja! (Tinggal {toyyibpayStatus.quota_remaining})
-                  </p>
-                </CardHeader>
-                <CardContent className="space-y-4 py-4">
-                  <ul className="space-y-2.5 text-sm">
-                    {["Akses penuh untuk 1 tahun", "Semua bahasa & semua level", "20+ ayat sehari secara tanpa had", "Pembayaran mudah melalui FPX (ToyyibPay)", "Jimat RM140 setahun"].map((f) => (
-                      <li key={f} className="flex items-start gap-2">
-                        <Check className="w-4 h-4 text-success shrink-0 mt-0.5" />
-                        <span>{f}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </CardContent>
-                <CardFooter className="pb-8">
-                  <Button onClick={() => handlePlanClick(null, true)} className="w-full bg-warning text-black hover:bg-warning/80 font-bold shadow-md">
-                    Dapatkan Akses 1 Tahun
-                  </Button>
-                </CardFooter>
-              </Card>
-            )}
+              )}
 
-            {/* Stripe Plans */}
-            {plans.map((plan) => (
-              <Card key={plan.id} className="w-full max-w-md mx-auto md:mx-0 border-primary ring-1 ring-primary flex flex-col justify-between relative">
-                <CardHeader className="text-center pt-8">
-                  <Badge className="bg-primary text-primary-foreground font-semibold mx-auto mb-2 w-fit">
-                    Paling Fleksibel
-                  </Badge>
-                  <CardTitle className="text-2xl">{plan.name}</CardTitle>
-                  <div className="mt-3">
-                    <span className="text-5xl font-extrabold text-foreground">RM{plan.price_myr.toFixed(0)}</span>
-                    <span className="text-muted-foreground text-xs block mt-1">Bilik automatik setiap bulan</span>
+              {/* Stripe Plans */}
+              {plans.map((plan) => (
+                <div key={plan.id} className="max-w-md mx-auto border-8 border-slate-200 rounded-[2rem] md:rounded-[3rem] p-6 md:p-10 bg-white shadow-xl relative overflow-hidden transform hover:-translate-y-2 transition-transform duration-300 w-full" data-purpose="pricing-card">
+                  <h4 className="text-xl md:text-2xl font-black text-slate-400 mb-4 mt-4">{plan.name}</h4>
+                  <div className="flex justify-center items-baseline gap-1.5 md:gap-2 mb-8 md:mb-10">
+                    <span className="text-5xl md:text-6xl font-black text-slate-800">RM{plan.price_myr.toFixed(0)}</span>
+                    <span className="text-slate-400 font-bold text-base md:text-lg">/ Bulan</span>
                   </div>
-                </CardHeader>
-                <CardContent className="space-y-4 py-4">
-                  <ul className="space-y-2.5 text-sm">
-                    {["Akses ke semua bahasa aktif", "Akses ke semua aras penguasaan", "20+ ayat sehari", "Auto-billing (boleh dibatalkan bila-bila)", "Sokongan komuniti"].map((f) => (
-                      <li key={f} className="flex items-start gap-2">
-                        <Check className="w-4 h-4 text-success shrink-0 mt-0.5" />
-                        <span>{f}</span>
+                  <ul className="text-left space-y-4 md:space-y-5 mb-10 text-slate-700 font-bold text-base md:text-lg bg-slate-50 p-5 md:p-6 rounded-2xl md:rounded-3xl">
+                    {["Akses ke semua bahasa aktif", "Auto-billing bulanan", "Boleh dibatalkan bila-bila masa"].map((f) => (
+                      <li key={f} className="flex items-center gap-3 md:gap-4 leading-tight">
+                        <div className="bg-blue-100 p-1 md:p-1.5 rounded-full shrink-0"><svg className="w-4 h-4 md:w-5 md:h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path></svg></div>
+                        {f}
                       </li>
                     ))}
                   </ul>
-                </CardContent>
-                <CardFooter className="pb-8">
-                  <Button onClick={() => handlePlanClick(plan, false)} className="w-full font-bold">
+                  <button 
+                    onClick={() => handlePlanClick(plan, false)}
+                    className="w-full bg-slate-800 hover:bg-slate-900 text-white font-black py-4 md:py-6 rounded-full text-lg md:text-xl shadow-xl shadow-slate-500/30 transition-all border-b-4 border-slate-950 transform hover:scale-105"
+                  >
                     Langgan Bulanan
-                  </Button>
-                </CardFooter>
-              </Card>
-            ))}
-          </div>
-        )}
+                  </button>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
       </section>
 
       {/* Collapsible FAQ Section */}
-      <section className="py-20 border-t border-border/50 px-4">
-        <PromoFAQ />
-      </section>
+      <PromoFAQ />
 
       {/* Footer */}
-      <footer className="border-t border-border/50 py-10 bg-muted/20 text-center text-xs text-muted-foreground">
-        <p>&copy; {new Date().getFullYear()} Vocabulary. Hak Cipta Terpelihara.</p>
+      <footer className="py-8 md:py-12 border-t-4 border-amber-100 bg-amber-50">
+        <div className="max-w-7xl mx-auto px-4 md:px-6 text-center">
+          <div className="flex flex-col items-center gap-4 md:gap-6">
+            <div className="flex items-center gap-2 opacity-50 hover:opacity-100 transition-opacity">
+              <div className="bg-slate-400 text-white p-1 md:p-1.5 rounded-lg rotate-[-5deg]">
+                <svg className="w-4 h-4 md:w-5 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"></path></svg>
+              </div>
+              <span className="font-black text-slate-500 text-base md:text-lg">Vocabulary</span>
+            </div>
+            <p className="text-xs md:text-sm font-bold text-slate-400 bg-white px-3 py-1.5 md:px-4 md:py-2 rounded-full inline-block shadow-sm">© {new Date().getFullYear()} Vocabulary. Hak Cipta Terpelihara.</p>
+          </div>
+        </div>
       </footer>
 
       {/* Bot Verification Turnstile Dialog */}

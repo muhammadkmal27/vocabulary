@@ -1,7 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
-import { HelpCircle, ChevronDown, ChevronUp } from "lucide-react";
+import React from "react";
 
 interface FAQItem {
   question: string;
@@ -32,52 +31,28 @@ const FAQS: FAQItem[] = [
 ];
 
 export function PromoFAQ() {
-  const [openIdx, setOpenIdx] = useState<number | null>(null);
-
-  const toggle = (idx: number) => {
-    setOpenIdx(openIdx === idx ? null : idx);
-  };
-
   return (
-    <div className="w-full max-w-2xl mx-auto space-y-4">
-      <div className="flex items-center gap-2 mb-6 justify-center">
-        <HelpCircle className="w-5 h-5 text-primary" />
-        <h3 className="text-xl sm:text-2xl font-bold">Soalan Lazim (FAQ)</h3>
+    <section className="py-16 md:py-20 px-4 md:px-6 bg-white rounded-t-[3rem] -mt-8 relative z-40">
+      <div className="max-w-3xl mx-auto">
+        <h2 className="text-3xl md:text-4xl font-black text-center mb-10 md:mb-16 text-slate-800">Soalan Lazim (FAQ) 🤔</h2>
+        <div className="space-y-4 md:space-y-6" data-purpose="faq-accordion">
+          {FAQS.map((faq, idx) => (
+            <details key={idx} className="group bg-amber-50 rounded-[1.5rem] md:rounded-[2rem] border-4 border-amber-100 p-4 md:p-6 shadow-sm cursor-pointer hover:border-yellow-300 transition-colors" open={idx === 0}>
+              <summary className="flex justify-between items-center font-black text-lg md:text-xl list-none text-slate-800">
+                {faq.question}
+                <span className="bg-yellow-200 text-yellow-800 p-1.5 md:p-2 rounded-full transition-transform group-open:rotate-180 flex-shrink-0 ml-4">
+                  <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path d="M19 9l-7 7-7-7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3"></path>
+                  </svg>
+                </span>
+              </summary>
+              <p className="mt-4 md:mt-6 text-slate-600 font-medium leading-relaxed bg-white p-4 md:p-6 rounded-xl md:rounded-2xl text-sm md:text-base">
+                {faq.answer}
+              </p>
+            </details>
+          ))}
+        </div>
       </div>
-
-      <div className="space-y-3">
-        {FAQS.map((faq, idx) => {
-          const isOpen = openIdx === idx;
-          return (
-            <div
-              key={idx}
-              className="border border-border rounded-xl bg-card overflow-hidden transition-all duration-200"
-            >
-              <button
-                onClick={() => toggle(idx)}
-                className="w-full px-5 py-4 flex items-center justify-between text-left font-semibold text-sm sm:text-base hover:bg-muted/30 transition-colors"
-              >
-                <span>{faq.question}</span>
-                {isOpen ? (
-                  <ChevronUp className="w-4 h-4 text-primary shrink-0 ml-3" />
-                ) : (
-                  <ChevronDown className="w-4 h-4 text-muted-foreground shrink-0 ml-3" />
-                )}
-              </button>
-              
-              <div
-                className={`transition-all duration-300 overflow-hidden ${
-                  isOpen ? "max-h-[500px] border-t border-border/50" : "max-h-0"
-                }`}
-              >
-                <div className="p-5 text-sm text-muted-foreground leading-relaxed">
-                  {faq.answer}
-                </div>
-              </div>
-            </div>
-          );
-        })}
-      </div>
-    </div>
+    </section>
   );
 }

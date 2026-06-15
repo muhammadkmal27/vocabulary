@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { CheckCircle2, MonitorSmartphone, TrendingUp, ArrowRight, ShieldCheck } from "lucide-react";
 
 interface PromoHeroProps {
   onCTAClick: () => void;
@@ -9,76 +8,89 @@ interface PromoHeroProps {
 
 export function PromoHero({ onCTAClick }: PromoHeroProps) {
   return (
-    <section className="w-full bg-[#FFF8F8] border-b border-[#F0DADA] pt-12 pb-16 px-4 md:pt-24 md:pb-28">
-      <div className="max-w-4xl mx-auto w-full flex flex-col items-center justify-center gap-10">
+    <section className="pt-12 pb-16 md:py-20 px-6 relative overflow-hidden">
+      <div className="absolute top-20 left-10 w-48 h-48 md:w-64 md:h-64 bg-yellow-300 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
+      <div className="absolute top-40 right-10 w-48 h-48 md:w-72 md:h-72 bg-red-400 rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
+      <div className="max-w-4xl mx-auto text-center relative z-10">
         
-        {/* Content */}
-        <div className="w-full flex flex-col items-center gap-8 text-center">
-          
-          {/* Badges */}
-          <div className="flex flex-wrap justify-center gap-2.5">
-            <span className="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-[13px] font-bold bg-white text-[#7F1D1D] border border-[#F0DADA] rounded-full shadow-sm">
-              <MonitorSmartphone className="w-4 h-4" />
-              100% Online
-            </span>
-            <span className="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-[13px] font-bold bg-white text-[#7F1D1D] border border-[#F0DADA] rounded-full shadow-sm">
-              <TrendingUp className="w-4 h-4" />
-              Ingatan Kekal
-            </span>
-            <span className="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-[13px] font-bold bg-white text-[#7F1D1D] border border-[#F0DADA] rounded-full shadow-sm">
-              <ShieldCheck className="w-4 h-4" />
-              Spaced Repetition
-            </span>
+        {/* Feature Badges */}
+        <div className="flex flex-wrap justify-center gap-3 mb-10" data-purpose="hero-badges">
+          <div className="flex items-center gap-2 px-5 py-2.5 bg-yellow-100 border-2 border-yellow-200 rounded-full shadow-sm rotate-[-2deg]">
+            <svg className="w-5 h-5 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path d="M9.75 17L9 21l-1-1m5.25-1l1 1-1-1zM3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5"></path>
+            </svg>
+            <span className="text-sm font-bold text-yellow-800">100% Online</span>
           </div>
-
-          {/* Headline */}
-          <h1 className="text-4xl sm:text-5xl md:text-[56px] font-extrabold text-[#1A1A1A] leading-[1.1] tracking-tight max-w-3xl">
-            Kuasai Bahasa English Tanpa Perlu <span className="text-[#A83232]">Menghafal Kamus</span> Yang Membosankan
-          </h1>
-
-          {/* Subheadline */}
-          <p className="text-lg md:text-xl font-medium text-[#555555] leading-relaxed max-w-2xl mx-auto">
-            Belajar cara ingat ayat lengkap secara automatik menggunakan sistem algoritma saintifik — supaya anda ingat sampai bila-bila, bukan sekadar hafal untuk lulus periksa.
-          </p>
-
-          {/* Supporting Box */}
-          <div className="bg-white p-6 md:p-8 rounded-2xl border border-[#F0DADA] shadow-sm text-left max-w-2xl w-full mx-auto mt-2">
-            <p className="font-bold text-[#1A1A1A] mb-4 text-[17px]">
-              Anda tak akan belajar teori grammar yang memeningkan. Anda akan dapat:
-            </p>
-            <ul className="space-y-4">
-              <li className="flex items-start gap-3 font-semibold text-[#333]">
-                <CheckCircle2 className="w-5 h-5 text-[#A83232] shrink-0 mt-0.5" />
-                <span>1. Latihan interaktif yang direka khas untuk otak anda</span>
-              </li>
-              <li className="flex items-start gap-3 font-semibold text-[#333]">
-                <CheckCircle2 className="w-5 h-5 text-[#A83232] shrink-0 mt-0.5" />
-                <span>2. Akses penuh ke semua bahasa antarabangsa serentak</span>
-              </li>
-              <li className="flex items-start gap-3 font-semibold text-[#333]">
-                <CheckCircle2 className="w-5 h-5 text-[#A83232] shrink-0 mt-0.5" />
-                <span>3. Ulang kaji automatik yang mengesan kelemahan anda</span>
-              </li>
-            </ul>
-            <p className="text-[15px] text-[#555555] mt-6 pt-5 border-t border-[#F8EAEA] font-medium leading-relaxed">
-              Sebab cara belajar yang betul bukan suruh anda hafal buku teks, tapi buat otak anda terbiasa dengan ayat perbualan sebenar.
-            </p>
+          <div className="flex items-center gap-2 px-5 py-2.5 bg-orange-100 border-2 border-orange-200 rounded-full shadow-sm rotate-[1deg]">
+            <svg className="w-5 h-5 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5"></path>
+            </svg>
+            <span className="text-sm font-bold text-orange-800">Ingatan Kekal</span>
           </div>
-
-          {/* CTA & Microcopy */}
-          <div className="mt-6 w-full max-w-[380px] mx-auto">
-            <button 
-              onClick={onCTAClick}
-              className="w-full inline-flex items-center justify-center gap-2 bg-[#A83232] hover:bg-[#7F1D1D] hover:-translate-y-0.5 transition-all duration-300 text-white px-8 py-5 rounded-full font-bold text-[19px] shadow-[0_10px_20px_-10px_rgba(168,50,50,0.5)] border-none cursor-pointer"
-            >
-              Dapatkan Promo 1 Tahun <ArrowRight className="w-5 h-5" />
-            </button>
-            <p className="text-sm font-bold text-[#7F1D1D] mt-4 flex items-center justify-center gap-1.5">
-              <ShieldCheck className="w-4 h-4" /> Pembayaran Terjamin Selamat
-            </p>
+          <div className="flex items-center gap-2 px-5 py-2.5 bg-red-100 border-2 border-red-200 rounded-full shadow-sm rotate-[-1deg]">
+            <svg className="w-5 h-5 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5"></path>
+            </svg>
+            <span className="text-sm font-bold text-red-800">Spaced Repetition</span>
           </div>
-
         </div>
+
+        {/* Main Headline */}
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-black leading-tight tracking-tight mb-6 md:mb-8 text-slate-800">
+          Kuasai Bahasa English <br /> Tanpa Perlu <span className="text-red-500 inline-block rotate-2 bg-yellow-200 px-3 py-1 rounded-xl">Menghafal</span> <br /> <span className="text-red-500">Kamus</span> Yang Membosankan
+        </h1>
+        <p className="text-base md:text-xl text-slate-600 max-w-[800px] mx-auto leading-relaxed mb-10 font-medium">
+          Belajar cara ingat ayat lengkap secara automatik menggunakan sistem algoritma saintifik — supaya anda ingat sampai bila-bila!
+        </p>
+
+        {/* Benefits White Card */}
+        <div className="max-w-2xl mx-auto bg-white border-4 border-amber-100 rounded-3xl p-6 md:p-10 text-left shadow-2xl shadow-amber-200/40 relative" data-purpose="benefits-card">
+          <div className="absolute -top-4 -right-4 md:-top-6 md:-right-6 bg-yellow-300 text-yellow-900 font-black px-4 py-1.5 md:px-6 md:py-2 rounded-full rotate-12 shadow-lg text-sm md:text-base">Seronok Gila! 🚀</div>
+          <h3 className="text-lg md:text-xl font-black mb-6 text-slate-800">Anda tak akan belajar teori grammar yang memeningkan. Anda akan dapat:</h3>
+          <ul className="space-y-5">
+            <li className="flex items-start gap-4">
+              <span className="flex-shrink-0 mt-1 flex items-center justify-center w-8 h-8 rounded-full bg-red-100 text-red-500">
+                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                  <path clipRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" fillRule="evenodd"></path>
+                </svg>
+              </span>
+              <p className="font-bold text-base md:text-lg text-slate-700">Latihan interaktif yang direka khas untuk otak anda</p>
+            </li>
+            <li className="flex items-start gap-4">
+              <span className="flex-shrink-0 mt-1 flex items-center justify-center w-8 h-8 rounded-full bg-orange-100 text-orange-500">
+                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                  <path clipRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" fillRule="evenodd"></path>
+                </svg>
+              </span>
+              <p className="font-bold text-base md:text-lg text-slate-700">Akses penuh ke semua bahasa antarabangsa serentak</p>
+            </li>
+            <li className="flex items-start gap-4">
+              <span className="flex-shrink-0 mt-1 flex items-center justify-center w-8 h-8 rounded-full bg-yellow-100 text-yellow-600">
+                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                  <path clipRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" fillRule="evenodd"></path>
+                </svg>
+              </span>
+              <p className="font-bold text-base md:text-lg text-slate-700">Ulang kaji automatik yang mengesan kelemahan anda</p>
+            </li>
+          </ul>
+        </div>
+
+        <div className="mt-12 md:mt-16">
+          <p className="text-slate-600 font-bold mb-6 md:mb-8 text-base md:text-lg">Sebab cara belajar yang betul bukan suruh anda hafal buku teks, tapi buat otak anda terbiasa dengan ayat perbualan sebenar.</p>
+          <button 
+            onClick={onCTAClick}
+            className="bg-red-500 hover:bg-red-600 text-white font-black py-4 px-8 md:py-5 md:px-12 rounded-full shadow-xl shadow-red-500/30 transition-all transform hover:scale-105 hover:-rotate-1 text-lg md:text-xl border-b-4 border-red-700 w-full sm:w-auto"
+          >
+            Dapatkan Promo 1 Tahun
+          </button>
+          <p className="mt-6 text-sm text-slate-500 flex justify-center items-center gap-2 font-bold">
+            <svg className="w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+              <path clipRule="evenodd" d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z" fillRule="evenodd"></path>
+            </svg>
+            Pembayaran Terjamin Selamat
+          </p>
+        </div>
+
       </div>
     </section>
   );
