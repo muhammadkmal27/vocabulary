@@ -261,7 +261,7 @@ export default function PromoLandingPage() {
 
       {/* Bot Verification Turnstile Dialog */}
       <Dialog open={showSubscriptionDialog} onOpenChange={setShowSubscriptionDialog}>
-        <DialogContent className="sm:max-w-md text-center">
+        <DialogContent className="sm:max-w-md text-center bg-white border-2 border-slate-200 shadow-2xl">
           <DialogHeader>
             <DialogTitle className="text-center">Sahkan Anda Bukan Bot</DialogTitle>
             <DialogDescription className="text-center">
