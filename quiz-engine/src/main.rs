@@ -41,11 +41,55 @@ fn clean_punctuation(text: &str) -> String {
     cleaned.trim().to_lowercase()
 }
 
+// Menjana semua kemungkinan variasi ayat berdasarkan sintaks [opsi1/opsi2]
+fn generate_permutations(text: &str) -> Vec<String> {
+    let re = Regex::new(r"\[([^\]]+)\]").unwrap();
+    let mut parts: Vec<Vec<String>> = Vec::new();
+    let mut last_end = 0;
+
+    for cap in re.captures_iter(text) {
+        let m = cap.get(0).unwrap();
+        if m.start() > last_end {
+            parts.push(vec![text[last_end..m.start()].to_string()]);
+        }
+        let inner = cap.get(1).unwrap().as_str();
+        parts.push(inner.split('/').map(|s| s.trim().to_string()).collect());
+        last_end = m.end();
+    }
+    if last_end < text.len() {
+        parts.push(vec![text[last_end..].to_string()]);
+    }
+
+    if parts.is_empty() {
+        return vec![text.to_string()];
+    }
+
+    let mut results = vec![String::new()];
+    for part_options in parts {
+        let mut new_results = Vec::new();
+        for res in &results {
+            for opt in &part_options {
+                new_results.push(format!("{}{}", res, opt));
+            }
+        }
+        results = new_results;
+    }
+
+    results
+}
+
 async fn check_answer(Json(payload): Json<AnswerPayload>) -> Json<AnswerResponse> {
     let normalized_user = clean_punctuation(&payload.user_answer);
-    let normalized_correct = clean_punctuation(&payload.correct_answer);
     
-    let is_correct = normalized_user == normalized_correct;
+    let permutations = generate_permutations(&payload.correct_answer);
+    let mut is_correct = false;
+    
+    for perm in permutations {
+        if normalized_user == clean_punctuation(&perm) {
+            is_correct = true;
+            break;
+        }
+    }
     
     Json(AnswerResponse { is_correct })
 }
@@ -82,6 +126,19 @@ mod tests {
         assert_eq!(clean_punctuation("don't"), "dont");
         assert_eq!(clean_punctuation("don’t"), "dont");
         assert_eq!(clean_punctuation("donʼt"), "dont");
+    }
+
+    #[test]
+    fn test_generate_permutations() {
+        let text = "Excuse me, I [want to/wanna] buy this.";
+        let perms = generate_permutations(text);
+        assert_eq!(perms.len(), 2);
+        assert!(perms.contains(&"Excuse me, I want to buy this.".to_string()));
+        assert!(perms.contains(&"Excuse me, I wanna buy this.".to_string()));
+
+        let text2 = "I [am going to/gonna] [buy/get] it.";
+        let perms2 = generate_permutations(text2);
+        assert_eq!(perms2.len(), 4);
     }
 }
 

@@ -348,7 +348,7 @@ function SentencesContent() {
             <DialogTrigger render={<Button onClick={handleOpenCreate} />}>
               <Plus className="w-4 h-4 mr-2" /> Tambah Ayat Baru
             </DialogTrigger>
-            <DialogContent className="sm:max-w-lg">
+            <DialogContent className="sm:max-w-lg bg-background shadow-xl border-border">
               <DialogHeader>
                 <DialogTitle>{editingSentence ? "Edit Ayat" : "Tambah Ayat Baru"}</DialogTitle>
               </DialogHeader>
@@ -374,6 +374,9 @@ function SentencesContent() {
                     onChange={(e) => setTargetText(e.target.value)}
                     required
                   />
+                  <p className="text-[11px] text-slate-500 mt-1.5 leading-tight">
+                    Tip: Guna format <code className="bg-slate-100 text-slate-700 px-1 py-0.5 rounded font-mono font-semibold">[skema/pasaran]</code> untuk benarkan variasi jawapan. Contoh: <code className="bg-slate-100 text-slate-700 px-1 py-0.5 rounded font-mono font-semibold">I [want to/wanna] buy this.</code>
+                  </p>
                 </div>
                 <div className="space-y-2">
                   <Label>Tahap Kesukaran</Label>
@@ -429,6 +432,11 @@ function SentencesContent() {
                     placeholder={`Terjemahan ${activeLanguage ? activeLanguage.name : "English"}`}
                     className="text-sm"
                   />
+                  {i === 0 && (
+                    <p className="text-[10px] text-slate-500 leading-tight mt-1.5">
+                      Boleh guna: <code className="bg-slate-100 text-slate-700 px-1 py-0.5 rounded font-mono font-semibold">I [want to/wanna] buy this.</code>
+                    </p>
+                  )}
                 </div>
               </div>
             ))}

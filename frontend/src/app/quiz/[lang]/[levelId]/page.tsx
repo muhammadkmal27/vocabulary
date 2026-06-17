@@ -49,6 +49,46 @@ export default function QuizPage() {
   const [practiceFeedback, setPracticeFeedback] = useState<"correct" | "incorrect" | null>(null);
   const [isTypingPractice, setIsTypingPractice] = useState(false);
 
+  // Helper to format [skema/pasaran] to skema (pasaran) for display
+  const formatTargetText = (text: string) => {
+    if (!text) return "";
+    return text.replace(/\[([^/]+)\/([^\]]+)\]/g, "$1 ($2)");
+  };
+
+  // Helper to generate all valid permutations for frontend checking
+  const generatePermutations = (text: string): string[] => {
+    if (!text) return [""];
+    const re = /\[([^\]]+)\]/g;
+    let parts: string[][] = [];
+    let lastIndex = 0;
+    let match;
+
+    while ((match = re.exec(text)) !== null) {
+      if (match.index > lastIndex) {
+        parts.push([text.substring(lastIndex, match.index)]);
+      }
+      parts.push(match[1].split("/").map((s) => s.trim()));
+      lastIndex = re.lastIndex;
+    }
+    if (lastIndex < text.length) {
+      parts.push([text.substring(lastIndex)]);
+    }
+
+    if (parts.length === 0) return [text];
+
+    let results: string[] = [""];
+    for (const partOptions of parts) {
+      const newResults: string[] = [];
+      for (const res of results) {
+        for (const opt of partOptions) {
+          newResults.push(res + opt);
+        }
+      }
+      results = newResults;
+    }
+    return results;
+  };
+
   const startQuiz = async () => {
     if (!langCode || !levelId) return;
     try {
@@ -169,7 +209,8 @@ export default function QuizPage() {
         let cleaned = text.replace(/[’‘ʼ`´՚＇]/g, "'");
         return cleaned.replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
       };
-      const isCorrectAns = normalize(answer) === normalize(currentSentence?.target_text || "");
+      const perms = generatePermutations(currentSentence?.target_text || "");
+      const isCorrectAns = perms.some(p => normalize(p) === normalize(answer));
       setIsCorrect(isCorrectAns);
       setShowResult(true);
       setAnswersState([...answersState, { id: currentAnswerObj.id, correct: isCorrectAns }]);
@@ -235,9 +276,13 @@ export default function QuizPage() {
   };
 
   const handleCheckPractice = () => {
-    const cleanTarget = (currentSentence?.target_text || "").replace(/[’‘ʼ`´՚＇]/g, "'").replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
-    const cleanVal = practiceInput.replace(/[’‘ʼ`´՚＇]/g, "'").replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
-    if (cleanVal === cleanTarget) {
+    const normalize = (text: string) => {
+      let cleaned = text.replace(/[’‘ʼ`´՚＇]/g, "'");
+      return cleaned.replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
+    };
+    const perms = generatePermutations(currentSentence?.target_text || "");
+    const cleanVal = normalize(practiceInput);
+    if (perms.some(p => normalize(p) === cleanVal)) {
       setPracticeCount(prev => prev + 1);
       setPracticeFeedback("correct");
       setPracticeInput("");
@@ -473,7 +518,7 @@ export default function QuizPage() {
                           Jawapan Betul:
                         </p>
                         <p className={`text-lg font-semibold transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
-                          {currentSentence?.target_text}
+                          {formatTargetText(currentSentence?.target_text || "")}
                         </p>
                       </div>
                     </div>
@@ -609,7 +654,7 @@ export default function QuizPage() {
 
                   {showPracticeHint && (
                     <div className="p-2.5 rounded bg-warning/10 border border-warning/20 text-xs text-amber-800 dark:text-amber-300 text-center font-medium">
-                      🔑 Klu Jawapan: <span className="font-bold select-all">&ldquo;{currentSentence?.target_text}&rdquo;</span>
+                      🔑 Klu Jawapan: <span className="font-bold select-all">&ldquo;{formatTargetText(currentSentence?.target_text || "")}&rdquo;</span>
                     </div>
                   )}
                 </div>
