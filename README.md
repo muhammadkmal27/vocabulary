@@ -27,7 +27,8 @@ _The primary Source of Truth for the entire project lifecycle. Structured accord
 | **Quiz Engine** | Rust (Axum) | High-speed answer-checking microservice (Docker container) |
 | **Database** | PostgreSQL 16 | UUID v4 as Primary Keys, citext extension |
 | **Cache & Queue** | Redis | Rate Limiting, Laravel Queue driver, session cache |
-| **Payment** | Stripe API (Recurring Subscription) | Webhook handler for checkout, invoice, subscription events |
+| **Payment** | Stripe API & ToyyibPay | Webhook handler for checkout, invoice, subscription events & FPX |
+| **Waiting Room** | Cloudflare Worker + Upstash Redis | Count active visitors using Sliding Window (ZSET) |
 | **Security** | Cloudflare Turnstile, Bcrypt Hashing, Laravel CSRF | Sanctum SPA cookies for auth |
 | **Infrastructure** | Docker Compose, Nginx (Reverse Proxy) | PostgreSQL, Redis, Quiz Engine, Mailpit (dev) |
 | **CI/CD** | GitHub Actions → GHCR | Auto deploy with Docker Compose pull |
@@ -165,7 +166,8 @@ flowchart TD
 
 | Service | Purpose | Backend Endpoint |
 | :--- | :--- | :--- |
-| **Stripe** | Automatic subscription payments (Checkout + Webhook) | `POST /stripe/webhook` |
+| **Stripe & ToyyibPay** | Automatic subscription payments & FPX (Checkout + Webhook) | `POST /stripe/webhook`, `POST /toyyibpay/webhook` |
+| **Upstash Redis** | Manage Waiting Room session (Sliding Window ZSET) | Handled at Cloudflare Edge |
 | **Cloudflare Turnstile** | Bot verification on Login, Register, Promo forms | `verify_turnstile()` middleware |
 | **Quiz Engine (Rust)** | High-speed answer checker + `[formal/colloquial]` variation support | `POST :8080/check-answer` |
 | **SMTP (Mailpit dev)** | Email delivery (verification, notifications) | Laravel Queue |
@@ -185,7 +187,8 @@ This project adheres to all 32 Global Security Rules (`RULE[user_global]`). Key 
 - [x] **Sanctum SPA Auth**: Cookie-based auth (SameSite=Lax, HttpOnly).
 - [x] **CSRF Protection**: Laravel CSRF token on every POST/PUT/DELETE.
 - [x] **Rate Limiting**: Global + strict on auth endpoints.
-- [x] **Cloudflare Turnstile**: Login, Register, Promo forms.
+- [x] **Cloudflare Turnstile**: Login, Register, Promo forms (UI & API `verify_turnstile`).
+- [x] **Waiting Room Strategy**: Sliding Window (ZSET) Upstash & Admin Secret Bypass.
 - [x] **Atomic Transactions**: `DB::transaction` for multi-table operations.
 - [x] **Modular Code**: Files < 250 lines, SRP, Service classes.
 - [x] **Security Event Logging**: Important activities logged to database.

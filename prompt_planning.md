@@ -27,7 +27,8 @@ _Source of Truth utama sepanjang hayat projek. Disusun mengikut piawaian Fasa 1 
 | **Quiz Engine** | Rust (Axum) | Microservice pemeriksa jawapan berkelajuan tinggi (Docker container) |
 | **Database** | PostgreSQL 16 | UUID v4 sebagai Primary Key, citext extension |
 | **Cache & Queue** | Redis | Rate Limiting, Laravel Queue driver, session cache |
-| **Pembayaran** | Stripe API (Recurring Subscription) | Webhook handler untuk checkout, invoice, subscription events |
+| **Pembayaran** | Stripe API & ToyyibPay | Webhook handler untuk checkout, invoice, subscription events & FPX |
+| **Waiting Room** | Cloudflare Worker + Upstash Redis | Mengira pelawat aktif menggunakan Sliding Window (ZSET) |
 | **Keselamatan** | Cloudflare Turnstile, Bcrypt Hashing, Laravel CSRF | Sanctum SPA cookies untuk auth |
 | **Infrastruktur** | Docker Compose, Nginx (Reverse Proxy) | PostgreSQL, Redis, Quiz Engine, Mailpit (dev) |
 | **CI/CD** | GitHub Actions → GHCR | Auto deploy dengan Docker Compose pull |
@@ -165,7 +166,8 @@ flowchart TD
 
 | Servis | Kegunaan | Endpoint Backend |
 | :--- | :--- | :--- |
-| **Stripe** | Pembayaran langganan automatik (Checkout + Webhook) | `POST /stripe/webhook` |
+| **Stripe & ToyyibPay** | Pembayaran langganan & FPX automatik (Checkout + Webhook) | `POST /stripe/webhook`, `POST /toyyibpay/webhook` |
+| **Upstash Redis** | Menguruskan sesi Waiting Room (Sliding Window ZSET) | Dijalankan di Cloudflare Edge |
 | **Cloudflare Turnstile** | Pengesahan bot pada borang Login, Register, Promo | `verify_turnstile()` middleware |
 | **Quiz Engine (Rust)** | Pemeriksa jawapan berkelajuan tinggi + variasi `[skema/pasaran]` | `POST :8080/check-answer` |
 | **SMTP (Mailpit dev)** | Penghantaran e-mel (pengesahan, notifikasi) | Laravel Queue |
@@ -185,7 +187,8 @@ Projek ini mematuhi kesemua 32 Peraturan Keselamatan Global (`RULE[user_global]`
 - [x] **Sanctum SPA Auth**: Cookie-based auth (SameSite=Lax, HttpOnly).
 - [x] **CSRF Protection**: Laravel CSRF token pada setiap POST/PUT/DELETE.
 - [x] **Rate Limiting**: Global + ketat pada auth endpoints.
-- [x] **Cloudflare Turnstile**: Login, Register, Promo forms.
+- [x] **Cloudflare Turnstile**: Login, Register, Promo forms (UI & API `verify_turnstile`).
+- [x] **Waiting Room Strategy**: Sliding Window (ZSET) Upstash & Admin Secret Bypass.
 - [x] **Atomic Transactions**: DB::transaction untuk operasi multi-jadual.
 - [x] **Modular Code**: Fail < 250 baris, SRP, Service classes.
 - [x] **Security Event Logging**: Log aktiviti penting ke database.
