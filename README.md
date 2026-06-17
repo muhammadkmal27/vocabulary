@@ -89,7 +89,35 @@ Summary of core tables based on existing Laravel migrations:
 
 ---
 
-## 5. Core Flow (Mermaid Diagrams)
+## 5. System Architecture (Core Loop)
+
+```mermaid
+graph TD
+    Client[User / Browser] -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
+    CF -->|2. Proxy Pass| Nginx[Nginx Reverse Proxy]
+
+    subgraph Docker Network
+        Nginx -->|Frontend /| NextJS[Next.js 15 App Router]
+        Nginx -->|Backend /api| Laravel[Laravel 12 - PHP]
+        Nginx -->|Quiz Engine :8080| Rust[Axum Quiz Engine - Rust]
+    end
+
+    subgraph Storage & Caching
+        Laravel -->|Auth / Rate Limit / Queue| Redis[(Redis)]
+        Laravel -->|Eloquent ORM + Transaction| Postgres[(PostgreSQL 16)]
+    end
+
+    subgraph Answer Checking
+        Laravel -->|POST /check-answer| Rust
+        Rust -->|generate_permutations + clean_punctuation| Result[Correct / Incorrect]
+    end
+
+    subgraph Background Workers
+        Redis -->|Laravel Queue| Worker[Queue Worker]
+        Worker --> Stripe[Stripe Webhook Processing]
+        Worker --> SMTP[Email Notification]
+    end
+```
 
 ### 5.1 Quiz Flow
 
