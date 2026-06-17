@@ -93,33 +93,29 @@ Summary of core tables based on existing Laravel migrations:
 
 ```mermaid
 graph TD
-    Client[Client / Browser]
-    
-    Client -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
-    
-    CF -->|2. Waiting Room Check| WorkerNode[Cloudflare Worker + Upstash]
-    
-    WorkerNode -->|3. Proxy Pass| Nginx[Nginx Reverse Proxy]
+    Client[User / Browser] -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
+    CF -->|2. Proxy Pass| Nginx[Nginx Reverse Proxy]
 
     subgraph Docker Network
         Nginx -->|Frontend /| NextJS[Next.js 15 App Router]
-        Nginx -->|Backend /api| Laravel[Laravel 12 Backend - PHP]
+        Nginx -->|Backend /api| Laravel[Laravel 12 - PHP]
         Nginx -->|Quiz Engine :8080| Rust[Axum Quiz Engine - Rust]
     end
 
     subgraph Storage & Caching
-        Laravel -->|Auth / Rate Limit| RedisKV[(Redis ZSET + KV)]
+        Laravel -->|Auth / Rate Limit / Queue| Redis[(Redis)]
         Laravel -->|Eloquent ORM + Transaction| Postgres[(PostgreSQL 16)]
-        Laravel -->|Push Job| RedisQueue[(Redis Job Queue)]
     end
-    
-    Laravel -->|POST /check-answer| Rust
 
-    RedisQueue -->|Pop Job| BackgroundWorker
+    subgraph Answer Checking
+        Laravel -->|POST /check-answer| Rust
+        Rust -->|generate_permutations + clean_punctuation| Result[Correct / Incorrect]
+    end
 
     subgraph Background Workers
-        BackgroundWorker[Laravel Queue Worker] --> Stripe[Stripe Webhook Processing]
-        BackgroundWorker --> Email[Email Notification]
+        Redis -->|Laravel Queue| Worker[Queue Worker]
+        Worker --> Stripe[Stripe Webhook Processing]
+        Worker --> SMTP[Email Notification]
     end
 ```
 
@@ -265,18 +261,7 @@ vocabulary/
 
 ---
 
-## 9. Communication Language
-
-| Context | Language |
-| :--- | :--- |
-| Conversations with AI (Abu Hanifah) | Bahasa Malaysia (BM) |
-| Source code & technical logic | English (EN) |
-| Implementation Plans & Roadmap | Bahasa Malaysia (BM) |
-| Application UI | English (EN) primary |
-
----
-
-## 10. UI/UX Guidelines
+## 9. UI/UX Guidelines
 
 - **Design System**: Light mode primary, amber/yellow as the main accent color.
 - **Primary Colors**: Amber (`#f59e0b`), Orange (`#f97316`), Green success (`#22c55e`).
@@ -290,7 +275,7 @@ vocabulary/
 
 ---
 
-## 11. Roadmap MVP
+## 10. Roadmap MVP
 
 This project has passed the MVP phase and is now in active maintenance mode. Current status:
 
