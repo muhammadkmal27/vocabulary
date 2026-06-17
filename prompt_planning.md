@@ -93,33 +93,29 @@ Jadual-jadual utama berdasarkan migrasi Laravel sedia ada:
 
 ```mermaid
 graph TD
-    Client[Client / Browser]
-    
-    Client -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
-    
-    CF -->|2. Waiting Room Check| WorkerNode[Cloudflare Worker + Upstash]
-    
-    WorkerNode -->|3. Proxy Pass| Nginx[Nginx Reverse Proxy]
+    Client[Pengguna / Browser] -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
+    CF -->|2. Proxy Pass| Nginx[Nginx Reverse Proxy]
 
     subgraph Docker Network
         Nginx -->|Frontend /| NextJS[Next.js 15 App Router]
-        Nginx -->|Backend /api| Laravel[Laravel 12 Backend - PHP]
+        Nginx -->|Backend /api| Laravel[Laravel 12 - PHP]
         Nginx -->|Quiz Engine :8080| Rust[Axum Quiz Engine - Rust]
     end
 
     subgraph Storage & Caching
-        Laravel -->|Auth / Rate Limit| RedisKV[(Redis ZSET + KV)]
+        Laravel -->|Auth / Rate Limit / Queue| Redis[(Redis)]
         Laravel -->|Eloquent ORM + Transaction| Postgres[(PostgreSQL 16)]
-        Laravel -->|Push Job| RedisQueue[(Redis Job Queue)]
     end
-    
-    Laravel -->|POST /check-answer| Rust
 
-    RedisQueue -->|Pop Job| BackgroundWorker
+    subgraph Answer Checking
+        Laravel -->|POST /check-answer| Rust
+        Rust -->|generate_permutations + clean_punctuation| Result[Betul / Salah]
+    end
 
     subgraph Background Workers
-        BackgroundWorker[Laravel Queue Worker] --> Stripe[Stripe Webhook Processing]
-        BackgroundWorker --> Email[Email Notification]
+        Redis -->|Laravel Queue| Worker[Queue Worker]
+        Worker --> Stripe[Stripe Webhook Processing]
+        Worker --> SMTP[Email Notification]
     end
 ```
 
@@ -130,7 +126,7 @@ flowchart TD
     A[Mula Quiz Level N] --> B[Paparkan Ayat BM]
     B --> C{User taip jawapan}
     C -->|"Betul ✓"| D[Tandakan correct]
-    C -->|"Salah / Tak Tahu"| E[Tekan "Bagi Jawapan"]
+    C -->|"Salah / Tak Tahu"| E[Tekan Bagi Jawapan]
     E --> F[Paparkan jawapan betul & bandingkan]
     F --> G[Tandakan revealed + incorrect]
     D --> H{Semua 20 soalan?}
