@@ -89,7 +89,39 @@ Jadual-jadual utama berdasarkan migrasi Laravel sedia ada:
 
 ---
 
-## 5. Carta Alir Teras (Core Loop — Mermaid)
+## 5. System Architecture (Core Loop)
+
+```mermaid
+graph TD
+    Client[Client / Browser]
+    
+    Client -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
+    
+    CF -->|2. Waiting Room Check| WorkerNode[Cloudflare Worker + Upstash]
+    
+    WorkerNode -->|3. Proxy Pass| Nginx[Nginx Reverse Proxy]
+
+    subgraph Docker Network
+        Nginx -->|Frontend /| NextJS[Next.js 15 App Router]
+        Nginx -->|Backend /api| Laravel[Laravel 12 Backend - PHP]
+        Nginx -->|Quiz Engine :8080| Rust[Axum Quiz Engine - Rust]
+    end
+
+    subgraph Storage & Caching
+        Laravel -->|Auth / Rate Limit| RedisKV[(Redis ZSET + KV)]
+        Laravel -->|Eloquent ORM + Transaction| Postgres[(PostgreSQL 16)]
+        Laravel -->|Push Job| RedisQueue[(Redis Job Queue)]
+    end
+    
+    Laravel -->|POST /check-answer| Rust
+
+    RedisQueue -->|Pop Job| BackgroundWorker
+
+    subgraph Background Workers
+        BackgroundWorker[Laravel Queue Worker] --> Stripe[Stripe Webhook Processing]
+        BackgroundWorker --> Email[Email Notification]
+    end
+```
 
 ### 5.1 Aliran Kuiz
 
@@ -233,18 +265,7 @@ vocabulary/
 
 ---
 
-## 9. Bahasa Komunikasi
-
-| Konteks | Bahasa |
-| :--- | :--- |
-| Komunikasi dengan pengguna (Abu Hanifah) | Bahasa Malaysia (BM) |
-| Penulisan kod & logik teknikal | English (EN) |
-| Implementation Plan & Roadmap | Bahasa Malaysia (BM) |
-| UI Aplikasi | English (EN) utama |
-
----
-
-## 10. UI/UX Guidelines
+## 9. UI/UX Guidelines
 
 - **Design System**: Light mode utama, kuning/amber sebagai warna aksen utama.
 - **Warna Utama**: Amber (`#f59e0b`), Orange (`#f97316`), Hijau success (`#22c55e`).
@@ -258,7 +279,7 @@ vocabulary/
 
 ---
 
-## 11. Roadmap MVP
+## 10. Roadmap MVP
 
 Projek ini telah melepasi Fasa MVP dan kini dalam mod penyelenggaraan aktif. Status terkini:
 

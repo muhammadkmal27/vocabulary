@@ -93,29 +93,33 @@ Summary of core tables based on existing Laravel migrations:
 
 ```mermaid
 graph TD
-    Client[User / Browser] -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
-    CF -->|2. Proxy Pass| Nginx[Nginx Reverse Proxy]
+    Client[Client / Browser]
+    
+    Client -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
+    
+    CF -->|2. Waiting Room Check| WorkerNode[Cloudflare Worker + Upstash]
+    
+    WorkerNode -->|3. Proxy Pass| Nginx[Nginx Reverse Proxy]
 
     subgraph Docker Network
         Nginx -->|Frontend /| NextJS[Next.js 15 App Router]
-        Nginx -->|Backend /api| Laravel[Laravel 12 - PHP]
+        Nginx -->|Backend /api| Laravel[Laravel 12 Backend - PHP]
         Nginx -->|Quiz Engine :8080| Rust[Axum Quiz Engine - Rust]
     end
 
     subgraph Storage & Caching
-        Laravel -->|Auth / Rate Limit / Queue| Redis[(Redis)]
+        Laravel -->|Auth / Rate Limit| RedisKV[(Redis ZSET + KV)]
         Laravel -->|Eloquent ORM + Transaction| Postgres[(PostgreSQL 16)]
+        Laravel -->|Push Job| RedisQueue[(Redis Job Queue)]
     end
+    
+    Laravel -->|POST /check-answer| Rust
 
-    subgraph Answer Checking
-        Laravel -->|POST /check-answer| Rust
-        Rust -->|generate_permutations + clean_punctuation| Result[Correct / Incorrect]
-    end
+    RedisQueue -->|Pop Job| BackgroundWorker
 
     subgraph Background Workers
-        Redis -->|Laravel Queue| Worker[Queue Worker]
-        Worker --> Stripe[Stripe Webhook Processing]
-        Worker --> SMTP[Email Notification]
+        BackgroundWorker[Laravel Queue Worker] --> Stripe[Stripe Webhook Processing]
+        BackgroundWorker --> Email[Email Notification]
     end
 ```
 
