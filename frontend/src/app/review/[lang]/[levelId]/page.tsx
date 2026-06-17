@@ -73,6 +73,12 @@ export default function ReviewPage() {
     );
   }
 
+  // Helper to format [skema/pasaran] to skema (pasaran) for display
+  const formatTargetText = (text: string) => {
+    if (!text) return "";
+    return text.replace(/\[([^/]+)\/([^\]]+)\]/g, "$1 ($2)");
+  };
+
   return (
     <div className="min-h-screen bg-background">
       <header className="border-b border-border px-4 py-3 flex items-center gap-3">
@@ -110,7 +116,7 @@ export default function ReviewPage() {
                   <Separator />
                   <div className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-success shrink-0 mt-0.5" />
-                    <p className="text-success font-medium">{s?.target_text}</p>
+                    <p className="text-success font-medium">{formatTargetText(s?.target_text || "")}</p>
                   </div>
                 </CardContent>
               </Card>
