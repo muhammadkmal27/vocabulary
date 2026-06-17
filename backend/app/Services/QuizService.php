@@ -55,6 +55,49 @@ class QuizService
         return trim(strtolower($cleaned));
     }
 
+    private function generatePermutations(string $text): array
+    {
+        if (empty($text)) return [''];
+        
+        $parts = [];
+        $lastIndex = 0;
+        
+        if (preg_match_all('/\[([^\]]+)\]/', $text, $matches, PREG_OFFSET_CAPTURE)) {
+            foreach ($matches[0] as $i => $match) {
+                $start = $match[1];
+                $length = strlen($match[0]);
+                
+                if ($start > $lastIndex) {
+                    $parts[] = [substr($text, $lastIndex, $start - $lastIndex)];
+                }
+                
+                $options = array_map('trim', explode('/', $matches[1][$i][0]));
+                $parts[] = $options;
+                
+                $lastIndex = $start + $length;
+            }
+        }
+        
+        if ($lastIndex < strlen($text)) {
+            $parts[] = [substr($text, $lastIndex)];
+        }
+        
+        if (empty($parts)) return [$text];
+        
+        $results = [''];
+        foreach ($parts as $partOptions) {
+            $newResults = [];
+            foreach ($results as $res) {
+                foreach ($partOptions as $opt) {
+                    $newResults[] = $res . $opt;
+                }
+            }
+            $results = $newResults;
+        }
+        
+        return $results;
+    }
+
     public function submitAnswer(string $userId, string $sessionId, string $answerId, string $userAnswer): QuizAnswer
     {
         $answer = QuizAnswer::where('id', $answerId)
@@ -78,8 +121,14 @@ class QuizService
                 'error' => $e->getMessage()
             ]);
             $normalizedUser = $this->cleanPunctuation($userAnswer);
-            $normalizedCorrect = $this->cleanPunctuation($answer->sentence->target_text);
-            $isCorrect = $normalizedUser === $normalizedCorrect;
+            $permutations = $this->generatePermutations($answer->sentence->target_text);
+            $isCorrect = false;
+            foreach ($permutations as $perm) {
+                if ($normalizedUser === $this->cleanPunctuation($perm)) {
+                    $isCorrect = true;
+                    break;
+                }
+            }
         }
 
         $answer->update([
