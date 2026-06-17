@@ -126,7 +126,7 @@ flowchart TD
     A[Start Quiz Level N] --> B[Display Malay Sentence]
     B --> C{User types answer}
     C -->|"Correct ✓"| D[Mark as correct]
-    C -->|"Wrong / Don't Know"| E[Click "Show Answer"]
+    C -->|"Wrong / Dont Know"| E[Click "Show Answer"]
     E --> F[Display correct answer & compare]
     F --> G[Mark as revealed + incorrect]
     D --> H{All 20 questions done?}
