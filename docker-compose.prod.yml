@@ -61,6 +61,12 @@ services:
       NODE_ENV: production
     restart: unless-stopped
 
+  # === Rust Axum Quiz Engine ===
+  quiz-engine:
+    image: ghcr.io/muhammadkmal27/vocabulary-quiz-engine:latest
+    container_name: vocabulary-quiz-engine-prod
+    restart: unless-stopped
+
   # === Nginx Gateway ===
   nginx:
     image: nginx:alpine

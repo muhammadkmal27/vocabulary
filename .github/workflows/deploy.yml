@@ -8,6 +8,7 @@ env:
   REGISTRY: ghcr.io
   LARAVEL_IMAGE_NAME: muhammadkmal27/vocabulary-laravel-app
   FRONTEND_IMAGE_NAME: muhammadkmal27/vocabulary-frontend-app
+  QUIZ_ENGINE_IMAGE_NAME: muhammadkmal27/vocabulary-quiz-engine
 
 jobs:
   build-and-push:
@@ -49,6 +50,16 @@ jobs:
           tags: ${{ env.REGISTRY }}/${{ env.FRONTEND_IMAGE_NAME }}:latest
           build-args: |
             NEXT_PUBLIC_TURNSTILE_SITE_KEY=${{ secrets.TURNSTILE_SITE_KEY }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      # === Build & Push Rust Quiz Engine ===
+      - name: Build and push Rust Quiz Engine
+        uses: docker/build-push-action@v5
+        with:
+          context: ./quiz-engine
+          push: true
+          tags: ${{ env.REGISTRY }}/${{ env.QUIZ_ENGINE_IMAGE_NAME }}:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
