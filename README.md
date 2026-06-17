@@ -301,4 +301,3 @@ This project has passed the MVP phase and is now in active maintenance mode. Cur
 ---
 
 _Last updated: 17 June 2026_
-_Maintained by: Abu Hanifah (AI Senior Engineer)_

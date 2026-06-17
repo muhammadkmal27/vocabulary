@@ -301,4 +301,3 @@ Projek ini telah melepasi Fasa MVP dan kini dalam mod penyelenggaraan aktif. Sta
 ---
 
 _Dikemas kini terakhir: 17 Jun 2026_
-_Diurus oleh: Abu Hanifah (AI Jurutera Kanan)_
