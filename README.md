@@ -94,7 +94,8 @@ Summary of core tables based on existing Laravel migrations:
 ```mermaid
 graph TD
     Client[User / Browser] -->|1. Turnstile + Sanctum Cookie| CF[Cloudflare Edge]
-    CF -->|2. Proxy Pass| Nginx[Nginx Reverse Proxy]
+    CF -->|2. Waiting Room Check| CFWorker[Cloudflare Worker + Upstash Redis]
+    CFWorker -->|3. Proxy Pass| Nginx[Nginx Reverse Proxy]
 
     subgraph Docker Network
         Nginx -->|Frontend /| NextJS[Next.js 15 App Router]
@@ -114,7 +115,7 @@ graph TD
 
     subgraph Background Workers
         Redis -->|Laravel Queue| Worker[Queue Worker]
-        Worker --> Stripe[Stripe Webhook Processing]
+        Worker --> Payment[Stripe / ToyyibPay Processing]
         Worker --> SMTP[Email Notification]
     end
 ```
