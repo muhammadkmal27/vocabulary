@@ -53,7 +53,7 @@ fn generate_permutations(text: &str) -> Vec<String> {
             parts.push(vec![text[last_end..m.start()].to_string()]);
         }
         let inner = cap.get(1).unwrap().as_str();
-        parts.push(inner.split('/').map(|s| s.trim().to_string()).collect());
+        parts.push(inner.split('/').map(|s| s.to_string()).collect());
         last_end = m.end();
     }
     if last_end < text.len() {

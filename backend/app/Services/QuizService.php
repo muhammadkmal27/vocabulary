@@ -71,7 +71,7 @@ class QuizService
                     $parts[] = [substr($text, $lastIndex, $start - $lastIndex)];
                 }
                 
-                $options = array_map('trim', explode('/', $matches[1][$i][0]));
+                $options = explode('/', $matches[1][$i][0]);
                 $parts[] = $options;
                 
                 $lastIndex = $start + $length;

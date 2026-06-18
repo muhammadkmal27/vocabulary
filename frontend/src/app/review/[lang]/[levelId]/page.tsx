@@ -73,10 +73,44 @@ export default function ReviewPage() {
     );
   }
 
-  // Helper to format [skema/pasaran] to skema (pasaran) for display
+  // Helper to generate all valid permutations for frontend checking
+  const generatePermutations = (text: string): string[] => {
+    if (!text) return [""];
+    const re = /\[([^\]]+)\]/g;
+    let parts: string[][] = [];
+    let lastIndex = 0;
+    let match;
+
+    while ((match = re.exec(text)) !== null) {
+      if (match.index > lastIndex) {
+        parts.push([text.substring(lastIndex, match.index)]);
+      }
+      parts.push(match[1].split("/"));
+      lastIndex = re.lastIndex;
+    }
+    if (lastIndex < text.length) {
+      parts.push([text.substring(lastIndex)]);
+    }
+
+    if (parts.length === 0) return [text];
+
+    let results: string[] = [""];
+    for (const partOptions of parts) {
+      const newResults: string[] = [];
+      for (const res of results) {
+        for (const opt of partOptions) {
+          newResults.push(res + opt);
+        }
+      }
+      results = newResults;
+    }
+    return results;
+  };
+
+  // Helper to format text with permutations
   const formatTargetText = (text: string) => {
     if (!text) return "";
-    return text.replace(/\[([^/]+)\/([^\]]+)\]/g, "$1 ($2)");
+    return generatePermutations(text).join(" atau ");
   };
 
   return (
@@ -116,7 +150,14 @@ export default function ReviewPage() {
                   <Separator />
                   <div className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-success shrink-0 mt-0.5" />
-                    <p className="text-success font-medium">{formatTargetText(s?.target_text || "")}</p>
+                    <div className="flex flex-col gap-1.5 w-full">
+                      {generatePermutations(s?.target_text || "").map((perm, pIdx) => (
+                        <div key={pIdx} className="flex items-start gap-2">
+                          {pIdx > 0 && <Badge variant="outline" className="text-[10px] font-bold uppercase px-1.5 py-0 h-5 border-success/30 text-success shrink-0 mt-0.5">Atau</Badge>}
+                          <span className={pIdx === 0 ? "text-success font-medium leading-tight text-base" : "text-success/80 text-sm font-medium leading-tight"}>{perm}</span>
+                        </div>
+                      ))}
+                    </div>
                   </div>
                 </CardContent>
               </Card>

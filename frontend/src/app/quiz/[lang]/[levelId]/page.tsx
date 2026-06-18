@@ -49,12 +49,6 @@ export default function QuizPage() {
   const [practiceFeedback, setPracticeFeedback] = useState<"correct" | "incorrect" | null>(null);
   const [isTypingPractice, setIsTypingPractice] = useState(false);
 
-  // Helper to format [skema/pasaran] to skema (pasaran) for display
-  const formatTargetText = (text: string) => {
-    if (!text) return "";
-    return text.replace(/\[([^/]+)\/([^\]]+)\]/g, "$1 ($2)");
-  };
-
   // Helper to generate all valid permutations for frontend checking
   const generatePermutations = (text: string): string[] => {
     if (!text) return [""];
@@ -67,7 +61,7 @@ export default function QuizPage() {
       if (match.index > lastIndex) {
         parts.push([text.substring(lastIndex, match.index)]);
       }
-      parts.push(match[1].split("/").map((s) => s.trim()));
+      parts.push(match[1].split("/"));
       lastIndex = re.lastIndex;
     }
     if (lastIndex < text.length) {
@@ -87,6 +81,12 @@ export default function QuizPage() {
       results = newResults;
     }
     return results;
+  };
+
+  // Helper to format text with permutations
+  const formatTargetText = (text: string) => {
+    if (!text) return "";
+    return generatePermutations(text).join(" atau ");
   };
 
   const startQuiz = async () => {
@@ -517,9 +517,14 @@ export default function QuizPage() {
                         <p className="text-xs text-muted-foreground mb-0.5">
                           Jawapan Betul:
                         </p>
-                        <p className={`text-lg font-semibold transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
-                          {formatTargetText(currentSentence?.target_text || "")}
-                        </p>
+                        <div className={`flex flex-col gap-2 transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
+                          {generatePermutations(currentSentence?.target_text || "").map((perm, idx) => (
+                            <div key={idx} className="flex items-start gap-2">
+                              {idx > 0 && <Badge variant="outline" className="text-[10px] font-bold uppercase px-1.5 py-0 h-5 border-muted-foreground/30 text-muted-foreground shrink-0 mt-0.5">Atau</Badge>}
+                              <span className={idx === 0 ? "text-lg font-bold text-foreground leading-tight" : "text-base font-medium text-muted-foreground leading-tight"}>{perm}</span>
+                            </div>
+                          ))}
+                        </div>
                       </div>
                     </div>
                   )}
