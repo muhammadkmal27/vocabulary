@@ -73,6 +73,10 @@ jobs:
       # === Copy config files and Deploy ===
       - name: Deploy to Server
         run: |
+          # Bersihkan sisa imej dan build cache lama SEBELUM pull untuk elakkan disk penuh (PENTING!)
+          docker system prune -af --volumes
+          docker builder prune -af
+          
           # Cipta direktori jika belum ada
           mkdir -p /root/vocabulary/nginx
           
@@ -97,9 +101,5 @@ jobs:
           docker exec vocabulary-laravel-prod php artisan route:cache
           docker exec vocabulary-laravel-prod php artisan view:cache
           docker exec vocabulary-laravel-prod php artisan migrate --force
-          
-          # Bersihkan sisa imej dan build cache lama untuk elakkan disk penuh
-          docker system prune -f
-          docker builder prune -f
 
 
