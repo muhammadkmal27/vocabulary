@@ -73,38 +73,44 @@ export default function ReviewPage() {
     );
   }
 
-  // Helper to generate all valid permutations for frontend checking
+  // Helper to generate parallel valid permutations for frontend checking
   const generatePermutations = (text: string): string[] => {
     if (!text) return [""];
     const re = /\[([^\]]+)\]/g;
-    let parts: string[][] = [];
+    
+    const staticParts: string[] = [];
+    const optionBlocks: string[][] = [];
     let lastIndex = 0;
     let match;
+    let maxOptions = 1;
 
     while ((match = re.exec(text)) !== null) {
-      if (match.index > lastIndex) {
-        parts.push([text.substring(lastIndex, match.index)]);
+      staticParts.push(text.substring(lastIndex, match.index));
+      const options = match[1].split("/");
+      optionBlocks.push(options);
+      if (options.length > maxOptions) {
+        maxOptions = options.length;
       }
-      parts.push(match[1].split("/"));
       lastIndex = re.lastIndex;
     }
-    if (lastIndex < text.length) {
-      parts.push([text.substring(lastIndex)]);
-    }
+    staticParts.push(text.substring(lastIndex));
 
-    if (parts.length === 0) return [text];
+    if (optionBlocks.length === 0) return [text];
 
-    let results: string[] = [""];
-    for (const partOptions of parts) {
-      const newResults: string[] = [];
-      for (const res of results) {
-        for (const opt of partOptions) {
-          newResults.push(res + opt);
+    const results: string[] = [];
+    for (let i = 0; i < maxOptions; i++) {
+      let currentResult = "";
+      for (let j = 0; j < staticParts.length; j++) {
+        currentResult += staticParts[j];
+        if (j < optionBlocks.length) {
+          const opts = optionBlocks[j];
+          currentResult += opts[Math.min(i, opts.length - 1)];
         }
       }
-      results = newResults;
+      results.push(currentResult);
     }
-    return results;
+    
+    return Array.from(new Set(results));
   };
 
   // Helper to format text with permutations

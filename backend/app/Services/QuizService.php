@@ -63,36 +63,43 @@ class QuizService
         $lastIndex = 0;
         
         if (preg_match_all('/\[([^\]]+)\]/', $text, $matches, PREG_OFFSET_CAPTURE)) {
+            $staticParts = [];
+            $optionBlocks = [];
+            $lastIndex = 0;
+            $maxOptions = 1;
+            
             foreach ($matches[0] as $i => $match) {
                 $start = $match[1];
                 $length = strlen($match[0]);
                 
-                if ($start > $lastIndex) {
-                    $parts[] = [substr($text, $lastIndex, $start - $lastIndex)];
-                }
+                $staticParts[] = substr($text, $lastIndex, $start - $lastIndex);
                 
                 $options = explode('/', $matches[1][$i][0]);
-                $parts[] = $options;
+                $optionBlocks[] = $options;
+                
+                if (count($options) > $maxOptions) {
+                    $maxOptions = count($options);
+                }
                 
                 $lastIndex = $start + $length;
             }
-        }
-        
-        if ($lastIndex < strlen($text)) {
-            $parts[] = [substr($text, $lastIndex)];
-        }
-        
-        if (empty($parts)) return [$text];
-        
-        $results = [''];
-        foreach ($parts as $partOptions) {
-            $newResults = [];
-            foreach ($results as $res) {
-                foreach ($partOptions as $opt) {
-                    $newResults[] = $res . $opt;
+            $staticParts[] = substr($text, $lastIndex);
+            
+            $results = [];
+            for ($i = 0; $i < $maxOptions; $i++) {
+                $currentResult = "";
+                for ($j = 0; $j < count($staticParts); $j++) {
+                    $currentResult .= $staticParts[$j];
+                    if ($j < count($optionBlocks)) {
+                        $opts = $optionBlocks[$j];
+                        $optIndex = min($i, count($opts) - 1);
+                        $currentResult .= $opts[$optIndex];
+                    }
                 }
+                $results[] = $currentResult;
             }
-            $results = $newResults;
+            
+            return array_values(array_unique($results));
         }
         
         return $results;

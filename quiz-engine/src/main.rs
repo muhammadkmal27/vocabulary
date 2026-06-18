@@ -44,35 +44,44 @@ fn clean_punctuation(text: &str) -> String {
 // Menjana semua kemungkinan variasi ayat berdasarkan sintaks [opsi1/opsi2]
 fn generate_permutations(text: &str) -> Vec<String> {
     let re = Regex::new(r"\[([^\]]+)\]").unwrap();
-    let mut parts: Vec<Vec<String>> = Vec::new();
+    let mut static_parts: Vec<String> = Vec::new();
+    let mut option_blocks: Vec<Vec<String>> = Vec::new();
     let mut last_end = 0;
+    let mut max_options = 1;
 
     for cap in re.captures_iter(text) {
         let m = cap.get(0).unwrap();
-        if m.start() > last_end {
-            parts.push(vec![text[last_end..m.start()].to_string()]);
-        }
+        static_parts.push(text[last_end..m.start()].to_string());
+        
         let inner = cap.get(1).unwrap().as_str();
-        parts.push(inner.split('/').map(|s| s.to_string()).collect());
+        let options: Vec<String> = inner.split('/').map(|s| s.to_string()).collect();
+        if options.len() > max_options {
+            max_options = options.len();
+        }
+        option_blocks.push(options);
+        
         last_end = m.end();
     }
-    if last_end < text.len() {
-        parts.push(vec![text[last_end..].to_string()]);
-    }
+    static_parts.push(text[last_end..].to_string());
 
-    if parts.is_empty() {
+    if option_blocks.is_empty() {
         return vec![text.to_string()];
     }
 
-    let mut results = vec![String::new()];
-    for part_options in parts {
-        let mut new_results = Vec::new();
-        for res in &results {
-            for opt in &part_options {
-                new_results.push(format!("{}{}", res, opt));
+    let mut results = Vec::new();
+    for i in 0..max_options {
+        let mut current_result = String::new();
+        for j in 0..static_parts.len() {
+            current_result.push_str(&static_parts[j]);
+            if j < option_blocks.len() {
+                let opts = &option_blocks[j];
+                let opt_idx = std::cmp::min(i, opts.len() - 1);
+                current_result.push_str(&opts[opt_idx]);
             }
         }
-        results = new_results;
+        if !results.contains(&current_result) {
+            results.push(current_result);
+        }
     }
 
     results
