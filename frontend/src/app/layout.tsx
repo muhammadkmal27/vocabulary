@@ -17,9 +17,37 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vocabulary — Hafal Ayat, Bukan Perkataan",
+  metadataBase: new URL("https://bijakenglish.imat.my"),
+  title: {
+    default: "Vocabulary — Hafal Ayat, Bukan Perkataan",
+    template: "%s | Vocabulary",
+  },
   description:
-    "Belajar bahasa dengan menghafal 20 ayat setiap hari. Kuasai English, German, dan banyak lagi.",
+    "Belajar bahasa Inggeris dengan pantas melalui kaedah menghafal 20 ayat lengkap setiap hari. Platform pintar dengan pengesanan variasi ayat.",
+  keywords: [
+    "belajar bahasa inggeris",
+    "hafal vocabulary",
+    "kelas bahasa inggeris percuma",
+    "muet",
+    "ielts",
+    "aplikasi belajar bahasa",
+    "bijak english",
+  ],
+  openGraph: {
+    type: "website",
+    locale: "ms_MY",
+    url: "https://bijakenglish.imat.my",
+    title: "Vocabulary — Hafal Ayat, Bukan Perkataan",
+    description:
+      "Belajar bahasa Inggeris dengan pantas melalui kaedah menghafal 20 ayat lengkap setiap hari.",
+    siteName: "Vocabulary by Bijak English",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vocabulary — Hafal Ayat, Bukan Perkataan",
+    description:
+      "Belajar bahasa Inggeris dengan pantas melalui kaedah menghafal 20 ayat lengkap setiap hari.",
+  },
 };
 
 export default function RootLayout({
