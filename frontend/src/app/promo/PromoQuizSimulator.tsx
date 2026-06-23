@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -13,6 +13,7 @@ import {
   ChevronLeft,
   Lightbulb,
   Volume2,
+  Loader2,
 } from "lucide-react";
 
 interface PromoQuizSimulatorProps {
@@ -49,6 +50,36 @@ const STATIC_SESSION = {
 
 export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
   const [session, setSession] = useState<any>(STATIC_SESSION);
+  const [loadingSentences, setLoadingSentences] = useState(true);
+
+  useEffect(() => {
+    const fetchPromoSentences = async () => {
+      try {
+        const res = await fetch("/api/public/promo/sentences", {
+          headers: { Accept: "application/json" }
+        });
+        if (res.ok) {
+          const sentences = await res.json();
+          if (sentences && sentences.length > 0) {
+            const answers = sentences.map((s: any, idx: number) => ({
+              id: `promo_q${idx}`,
+              sentence: s
+            }));
+            setSession({
+              id: "promo_session",
+              answers,
+              correct_count: 0
+            });
+          }
+        }
+      } catch (e) {
+        console.error("Failed to fetch promo sentences", e);
+      } finally {
+        setLoadingSentences(false);
+      }
+    };
+    fetchPromoSentences();
+  }, []);
   
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answer, setAnswer] = useState("");
@@ -129,6 +160,15 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
       window.speechSynthesis.speak(utterance);
     }
   };
+
+  if (loadingSentences) {
+    return (
+      <div className="flex flex-col items-center justify-center h-[600px] bg-white rounded-[2rem] shadow-2xl relative overflow-hidden border-4 border-slate-200 w-full max-w-sm mx-auto p-4">
+        <Loader2 className="w-10 h-10 animate-spin text-slate-400 mb-4" />
+        <p className="font-bold text-slate-500 animate-pulse text-sm">Menyediakan soalan sebenar...</p>
+      </div>
+    );
+  }
 
   const handleSubmit = () => {
     if (!answer.trim() || !session) return;

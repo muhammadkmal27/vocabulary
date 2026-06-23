@@ -44,6 +44,27 @@ class QuizController extends Controller
         return response()->json($this->quizService->startSession($user->id, $request->language_id, $level->id));
     }
 
+    public function promoSentences()
+    {
+        // Cari bahasa Inggeris (contoh: id = 1 atau code = 'en')
+        $language = \App\Models\Language::where('code', 'en')->first();
+        if (!$language) {
+            $language = \App\Models\Language::first();
+        }
+        
+        if (!$language) {
+             return response()->json([]);
+        }
+
+        $level = \App\Models\Level::where('language_id', $language->id)->where('order', 1)->first();
+        if (!$level) {
+             return response()->json([]);
+        }
+
+        $sentences = \App\Models\Sentence::where('level_id', $level->id)->inRandomOrder()->limit(20)->get();
+        return response()->json($sentences);
+    }
+
     public function publicSentences(string $levelId)
     {
         $level = \App\Models\Level::findOrFail($levelId);

@@ -30,6 +30,7 @@ Route::get('/languages', [\App\Http\Controllers\Api\LanguageController::class, '
 Route::get('/levels', [\App\Http\Controllers\Api\LevelController::class, 'index']);
 Route::get('/dashboard', [\App\Http\Controllers\Api\DashboardController::class, 'index']);
 Route::get('/public/levels/{levelId}/sentences', [\App\Http\Controllers\Api\QuizController::class, 'publicSentences']);
+Route::get('/public/promo/sentences', [\App\Http\Controllers\Api\QuizController::class, 'promoSentences']);
 Route::get('/plans', function () {
     return \Illuminate\Support\Facades\Cache::remember('subscription_plans_active', 3600, function () {
         return \App\Models\SubscriptionPlan::where('is_active', true)->where('slug', '!=', 'lifetime')->get();
