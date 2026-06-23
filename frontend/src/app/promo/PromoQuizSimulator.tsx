@@ -528,7 +528,7 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
                         setShowPracticeHint(false);
                         setPracticeFeedback(null);
                         setIsTypingPractice(false);
-                        setSession({ ...STATIC_SESSION, correct_count: 0 });
+                        setSession((prev: any) => ({ ...prev, correct_count: 0 }));
                       }}
                       variant="outline"
                       size="lg"
