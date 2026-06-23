@@ -388,9 +388,8 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
                         </div>
                       </div>
                     </div>
-                  </div>
 
-                  {/* Ruang Latihan Menulis untuk Menghafal */}
+                    {/* Ruang Latihan Menulis untuk Menghafal */}
                   <div className="p-3 sm:p-4 rounded-lg border border-dashed border-border bg-muted/25 space-y-3">
                     <div className="flex items-center justify-between">
                       <p className="text-[11px] sm:text-xs font-semibold text-muted-foreground flex items-center gap-1.5">
