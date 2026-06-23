@@ -32,6 +32,12 @@ class ToyyibPayService
         // Tukar harga (RM) ke sen untuk ToyyibPay. Contoh: RM1.00 -> 100 sen
         $billAmount = (int) round(floatval($plan->price_myr) * 100);
 
+        // Pertahanan Berlapis (Sesuai dengan Rule 33)
+        // Halang pendaftaran jika Admin tersilap letak RM0 di database
+        if ($billAmount <= 0) {
+            throw new \Exception("Ralat Keselamatan: Nilai bil tidak sah. Sila hubungi sokongan pelanggan.");
+        }
+
         $params = [
             'userSecretKey' => config('toyyibpay.secret_key'),
             'categoryCode' => config('toyyibpay.category_code'),
