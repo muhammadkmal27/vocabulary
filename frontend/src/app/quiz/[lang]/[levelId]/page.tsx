@@ -461,6 +461,10 @@ export default function QuizPage() {
                 <Input
                   placeholder="Taip jawapan anda di sini..."
                   value={answer}
+                  autoComplete="off"
+                  autoCorrect="off"
+                  autoCapitalize="off"
+                  spellCheck="false"
                   onChange={(e) => setAnswer(e.target.value)}
                   onKeyDown={(e) =>
                     e.key === "Enter" && answer.trim() && handleSubmit()
@@ -554,6 +558,10 @@ export default function QuizPage() {
                     <Input
                       placeholder="Taip semula jawapan betul di sini..."
                       value={practiceInput}
+                      autoComplete="off"
+                      autoCorrect="off"
+                      autoCapitalize="off"
+                      spellCheck="false"
                       onFocus={() => setIsTypingPractice(true)}
                       onBlur={() => {
                         if (!practiceInput.trim()) {
@@ -604,6 +612,10 @@ export default function QuizPage() {
                     <Input
                       placeholder="Taip semula jawapan betul di sini..."
                       value={practiceInput}
+                      autoComplete="off"
+                      autoCorrect="off"
+                      autoCapitalize="off"
+                      spellCheck="false"
                       onFocus={() => setIsTypingPractice(true)}
                       onBlur={() => {
                         if (!practiceInput.trim()) {
