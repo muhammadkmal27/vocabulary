@@ -18,6 +18,7 @@ import {
   Lightbulb,
   Loader2,
   AlertCircle,
+  Volume2,
 } from "lucide-react";
 
 export default function QuizPage() {
@@ -93,6 +94,23 @@ export default function QuizPage() {
   const formatTargetText = (text: string) => {
     if (!text) return "";
     return generatePermutations(text).join(" atau ");
+  };
+
+  // Helper for Text-to-Speech
+  const playAudio = (text: string, forceLang?: string) => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      
+      // Gunakan generatePermutations supaya kita dapat sebutan yang 100% sama
+      // dengan baris pertama (jawapan utama) yang dipaparkan di skrin
+      const perms = generatePermutations(text);
+      const cleanText = perms[0] || text;
+      
+      const utterance = new SpeechSynthesisUtterance(cleanText);
+      utterance.lang = forceLang || langCode || 'en';
+      utterance.rate = 0.9;
+      window.speechSynthesis.speak(utterance);
+    }
   };
 
   const startQuiz = async () => {
@@ -247,6 +265,11 @@ export default function QuizPage() {
       setIsCorrect(resultData.is_correct);
       setShowResult(true);
       setAnswersState([...answersState, { id: currentAnswerObj.id, correct: resultData.is_correct }]);
+      
+      // Autoplay pronunciation when correct answer is shown
+      if (currentSentence?.target_text) {
+        playAudio(currentSentence.target_text);
+      }
     } catch (err: any) {
       toast(err.message, "error");
     }
@@ -276,6 +299,11 @@ export default function QuizPage() {
       setIsCorrect(false);
       setShowResult(true);
       setAnswersState([...answersState, { id: currentAnswerObj.id, correct: false }]);
+      
+      // Autoplay pronunciation when answer is revealed
+      if (currentSentence?.target_text) {
+        playAudio(currentSentence.target_text);
+      }
     } catch (err: any) {
       toast(err.message, "error");
     }
@@ -498,12 +526,12 @@ export default function QuizPage() {
                 >
                   <div className="flex items-center gap-2 mb-2">
                     {isCorrect ? (
-                      <>
+                      <div className="flex items-center gap-2">
                         <Check className="w-5 h-5 text-green-500" />
                         <span className="font-semibold text-green-500">
                           Betul!
                         </span>
-                      </>
+                      </div>
                     ) : (
                       <>
                         <X className="w-5 h-5 text-yellow-600" />
@@ -513,8 +541,8 @@ export default function QuizPage() {
                       </>
                     )}
                   </div>
-                  {!isCorrect && (
-                    <div className="space-y-2">
+                  <div className="space-y-2">
+                    {!isCorrect && (
                       <div>
                         <p className="text-xs text-muted-foreground mb-0.5">
                           Jawapan Anda:
@@ -523,21 +551,28 @@ export default function QuizPage() {
                           {answer || "(tiada jawapan)"}
                         </p>
                       </div>
-                      <div>
-                        <p className="text-xs text-muted-foreground mb-0.5">
-                          Jawapan Betul:
-                        </p>
-                        <div className={`flex flex-col gap-2 transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
-                          {generatePermutations(currentSentence?.target_text || "").map((perm, idx) => (
-                            <div key={idx} className="flex items-start gap-2">
-                              {idx > 0 && <Badge variant="outline" className="text-[10px] font-bold uppercase px-1.5 py-0 h-5 border-muted-foreground/30 text-muted-foreground shrink-0 mt-0.5">Atau</Badge>}
-                              <span className={idx === 0 ? "text-lg font-bold text-foreground leading-tight" : "text-base font-medium text-muted-foreground leading-tight"}>{perm}</span>
-                            </div>
-                          ))}
-                        </div>
+                    )}
+                    <div>
+                      <p className="text-xs text-muted-foreground mb-0.5 flex items-center gap-2">
+                        Jawapan Betul:
+                        <button 
+                          onClick={() => playAudio(currentSentence?.target_text)}
+                          className="p-1 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
+                          title="Dengar sebutan"
+                        >
+                          <Volume2 className="w-3.5 h-3.5" />
+                        </button>
+                      </p>
+                      <div className={`flex flex-col gap-2 transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
+                        {generatePermutations(currentSentence?.target_text || "").map((perm, idx) => (
+                          <div key={idx} className="flex items-start gap-2">
+                            {idx > 0 && <Badge variant="outline" className="text-[10px] font-bold uppercase px-1.5 py-0 h-5 border-muted-foreground/30 text-muted-foreground shrink-0 mt-0.5">Atau</Badge>}
+                            <span className={idx === 0 ? "text-lg font-bold text-foreground leading-tight" : "text-base font-medium text-muted-foreground leading-tight"}>{perm}</span>
+                          </div>
+                        ))}
                       </div>
                     </div>
-                  )}
+                  </div>
                 </div>
 
                 {/* Ruang Latihan Menulis untuk Menghafal */}

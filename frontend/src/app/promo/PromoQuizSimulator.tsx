@@ -12,6 +12,7 @@ import {
   X,
   ChevronLeft,
   Lightbulb,
+  Volume2,
 } from "lucide-react";
 
 interface PromoQuizSimulatorProps {
@@ -73,6 +74,62 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
     return cleaned.replace(/[^\w\s]/g, "").replace(/\s+/g, "").trim().toLowerCase();
   };
 
+  const generatePermutations = (text: string): string[] => {
+    if (!text) return [""];
+    const re = /\[([^\]]+)\]/g;
+    
+    const staticParts: string[] = [];
+    const optionBlocks: string[][] = [];
+    let lastIndex = 0;
+    let match;
+    let maxOptions = 1;
+
+    while ((match = re.exec(text)) !== null) {
+      staticParts.push(text.substring(lastIndex, match.index));
+      const options = match[1].split("/");
+      optionBlocks.push(options);
+      if (options.length > maxOptions) {
+        maxOptions = options.length;
+      }
+      lastIndex = re.lastIndex;
+    }
+    staticParts.push(text.substring(lastIndex));
+
+    if (optionBlocks.length === 0) {
+      return [text];
+    }
+
+    const permutations: string[] = [];
+    for (let i = 0; i < maxOptions; i++) {
+      let perm = "";
+      for (let j = 0; j < staticParts.length; j++) {
+        perm += staticParts[j];
+        if (j < optionBlocks.length) {
+          const opts = optionBlocks[j];
+          perm += opts[i] !== undefined ? opts[i] : opts[opts.length - 1];
+        }
+      }
+      permutations.push(perm.replace(/\s+/g, ' ').trim());
+    }
+
+    // Remove duplicates
+    return Array.from(new Set(permutations));
+  };
+
+  // Helper for Text-to-Speech
+  const playAudio = (text: string, forceLang?: string) => {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      const perms = generatePermutations(text);
+      const cleanText = perms[0] || text;
+      const utterance = new SpeechSynthesisUtterance(cleanText);
+      // Hardcode en untuk Promo Simulator sebab ia sentiasa English
+      utterance.lang = forceLang || 'en';
+      utterance.rate = 0.9;
+      window.speechSynthesis.speak(utterance);
+    }
+  };
+
   const handleSubmit = () => {
     if (!answer.trim() || !session) return;
     const isCorrectAns = normalize(answer) === normalize(currentSentence?.target_text || "");
@@ -84,12 +141,20 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
         correct_count: (prev.correct_count || 0) + 1,
       }));
     }
+    // Autoplay pronunciation
+    if (currentSentence?.target_text) {
+      playAudio(currentSentence.target_text);
+    }
   };
 
   const handleReveal = () => {
     setRevealed(true);
     setIsCorrect(false);
     setShowResult(true);
+    // Autoplay pronunciation
+    if (currentSentence?.target_text) {
+      playAudio(currentSentence.target_text);
+    }
   };
 
   const handleCheckPractice = () => {
@@ -275,12 +340,12 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
                   >
                     <div className="flex items-center gap-2 mb-2">
                       {isCorrect ? (
-                        <>
+                        <div className="flex items-center gap-2">
                           <Check className="w-5 h-5 text-green-500" />
                           <span className="font-semibold text-green-500">
                             Betul!
                           </span>
-                        </>
+                        </div>
                       ) : (
                         <>
                           <X className="w-5 h-5 text-yellow-600" />
@@ -290,8 +355,8 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
                         </>
                       )}
                     </div>
-                    {!isCorrect && (
-                      <div className="space-y-2">
+                    <div className="space-y-2">
+                      {!isCorrect && (
                         <div>
                           <p className="text-xs text-muted-foreground mb-0.5">
                             Jawapan Anda:
@@ -300,16 +365,29 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
                             {answer || "(tiada jawapan)"}
                           </p>
                         </div>
-                        <div>
-                          <p className="text-xs text-muted-foreground mb-0.5">
+                      )}
+                      <div>
+                          <p className="text-xs text-muted-foreground mb-0.5 flex items-center gap-2">
                             Jawapan Betul:
+                            <button 
+                              onClick={() => playAudio(currentSentence?.target_text)}
+                              className="p-1 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
+                              title="Dengar sebutan"
+                            >
+                              <Volume2 className="w-3.5 h-3.5" />
+                            </button>
                           </p>
-                          <p className={`text-lg font-semibold transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
-                            {currentSentence?.target_text}
-                          </p>
+                          <div className={`flex flex-col gap-2 transition-all duration-300 ${isTypingPractice && !showPracticeHint ? "blur-md select-none opacity-40" : ""}`}>
+                            {generatePermutations(currentSentence?.target_text || "").map((perm, idx) => (
+                              <div key={idx} className="flex items-start gap-2">
+                                {idx > 0 && <span className="text-[10px] font-bold uppercase px-1.5 py-0 h-5 border rounded border-muted-foreground/30 text-muted-foreground shrink-0 mt-0.5">Atau</span>}
+                                <span className={idx === 0 ? "text-lg font-bold text-foreground leading-tight" : "text-base font-medium text-muted-foreground leading-tight"}>{perm}</span>
+                              </div>
+                            ))}
+                          </div>
                         </div>
                       </div>
-                    )}
+                    </div>
                   </div>
 
                   {/* Ruang Latihan Menulis untuk Menghafal */}

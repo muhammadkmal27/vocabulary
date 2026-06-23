@@ -182,6 +182,9 @@ export default function AdminLanguagesPage() {
                   onChange={(e) => setCode(e.target.value)}
                   required
                 />
+                <p className="text-[11px] text-muted-foreground">
+                  Rujukan: <strong>en</strong> (English), <strong>de</strong> (German), <strong>es</strong> (Spanish), <strong>fr</strong> (French), <strong>ja</strong> (Japanese), <strong>ko</strong> (Korean), <strong>ar</strong> (Arabic)
+                </p>
               </div>
               <div className="space-y-2">
                 <Label htmlFor="lang-flag">Emoji Bendera</Label>
