@@ -172,7 +172,8 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
 
   const handleSubmit = () => {
     if (!answer.trim() || !session) return;
-    const isCorrectAns = normalize(answer) === normalize(currentSentence?.target_text || "");
+    const perms = generatePermutations(currentSentence?.target_text || "");
+    const isCorrectAns = perms.some(p => normalize(p) === normalize(answer));
     setIsCorrect(isCorrectAns);
     setShowResult(true);
     if (isCorrectAns) {
@@ -198,9 +199,11 @@ export function PromoQuizSimulator({ onUnlockClick }: PromoQuizSimulatorProps) {
   };
 
   const handleCheckPractice = () => {
-    const cleanTarget = normalize(currentSentence?.target_text || "");
+    const perms = generatePermutations(currentSentence?.target_text || "");
     const cleanVal = normalize(practiceInput);
-    if (cleanVal === cleanTarget) {
+    const isPracticeCorrect = perms.some(p => normalize(p) === cleanVal);
+    
+    if (isPracticeCorrect) {
       setPracticeCount(prev => prev + 1);
       setPracticeFeedback("correct");
       setPracticeInput("");
