@@ -244,6 +244,10 @@ export default function QuizPage() {
           correct_count: (prev.correct_count || 0) + 1,
         }));
       }
+      // Autoplay pronunciation for guest
+      if (currentSentence?.target_text) {
+        playAudio(currentSentence.target_text);
+      }
       return;
     }
     try {
@@ -282,6 +286,10 @@ export default function QuizPage() {
       setIsCorrect(false);
       setShowResult(true);
       setAnswersState([...answersState, { id: currentAnswerObj.id, correct: false }]);
+      // Autoplay pronunciation for guest
+      if (currentSentence?.target_text) {
+        playAudio(currentSentence.target_text);
+      }
       return;
     }
     try {
