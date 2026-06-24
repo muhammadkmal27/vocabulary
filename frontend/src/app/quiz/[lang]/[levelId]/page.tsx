@@ -25,7 +25,7 @@ export default function QuizPage() {
   const { toast } = useAlert();
   const params = useParams();
   const router = useRouter();
-  const { token } = useAuth();
+  const { token, isLoading: authLoading } = useAuth();
 
   const langCode = params?.lang as string;
   const levelId = params?.levelId as string;
@@ -192,8 +192,9 @@ export default function QuizPage() {
   };
 
   useEffect(() => {
+    if (authLoading) return;
     startQuiz();
-  }, [token, langCode, levelId]);
+  }, [token, langCode, levelId, authLoading]);
 
   if (loading) {
     return (
