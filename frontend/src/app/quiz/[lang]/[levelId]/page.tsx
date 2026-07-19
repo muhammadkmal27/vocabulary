@@ -42,6 +42,13 @@ export default function QuizPage() {
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [answersState, setAnswersState] = useState<any[]>([]);
   const [completedResults, setCompletedResults] = useState<any>(null);
+  const [isListeningMode, setIsListeningMode] = useState(false);
+  const [listeningRevealed, setListeningRevealed] = useState(false);
+
+  const questions = session?.answers || [];
+  const total = questions.length;
+  const currentAnswerObj = questions[currentIndex];
+  const currentSentence = currentAnswerObj?.sentence;
 
   // Practice States
   const [practiceInput, setPracticeInput] = useState("");
@@ -222,10 +229,7 @@ export default function QuizPage() {
     );
   }
 
-  const questions = session?.answers || [];
-  const total = questions.length;
-  const currentAnswerObj = questions[currentIndex];
-  const currentSentence = currentAnswerObj?.sentence;
+
 
   const handleSubmit = async () => {
     if (!answer.trim() || !session) return;
@@ -350,8 +354,8 @@ export default function QuizPage() {
       setIsTypingPractice(false);
     } else {
       if (!token) {
-        const correctCount = session.correct_count || 0;
-        const percentage = Math.round((correctCount / total) * 100);
+        const correctCount = isListeningMode ? total : (session.correct_count || 0);
+        const percentage = isListeningMode ? 100 : Math.round((correctCount / total) * 100);
         setCompletedResults({
           score: `${correctCount}/${total}`,
           percentage: percentage,
@@ -365,9 +369,13 @@ export default function QuizPage() {
         const response = await fetch(`/api/quiz/${session.id}/complete`, {
           method: "POST",
           headers: {
+            "Content-Type": "application/json",
             Authorization: `Bearer ${token}`,
             Accept: "application/json",
           },
+          body: JSON.stringify({
+            listening_mode: isListeningMode,
+          }),
         });
         if (!response.ok) throw new Error("Gagal melengkapkan sesi.");
         const results = await response.json();
@@ -460,7 +468,21 @@ export default function QuizPage() {
           <Badge variant="secondary">
             {currentIndex + 1} / {total}
           </Badge>
-          <div className="w-20" />
+          
+          {/* Listening Mode Button with Hover Tooltip */}
+          <div className="relative group">
+            <Button
+              variant={isListeningMode ? "default" : "outline"}
+              size="sm"
+              onClick={() => setIsListeningMode(!isListeningMode)}
+              className={isListeningMode ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold flex items-center gap-1.5" : "font-semibold flex items-center gap-1.5"}
+            >
+              <Volume2 className="w-3.5 h-3.5" /> Listening Mode
+            </Button>
+            <div className="absolute right-0 top-full mt-2 hidden group-hover:block w-64 bg-popover text-popover-foreground border border-border p-3 rounded-lg shadow-lg text-xs z-50 animate-fadeIn font-medium">
+              Dengan mode ni anda mampu ke Level seterusnya tanpa perlu mendapatkan jawapan 100%
+            </div>
+          </div>
         </div>
 
         {/* Progress */}
@@ -469,7 +491,7 @@ export default function QuizPage() {
             <div
               className="bg-primary h-1.5 rounded-full transition-all duration-500"
               style={{
-                width: `${((currentIndex + (showResult ? 1 : 0)) / total) * 100}%`,
+                width: `${((currentIndex + ((showResult || isListeningMode) ? 1 : 0)) / total) * 100}%`,
               }}
             />
           </div>
@@ -477,9 +499,9 @@ export default function QuizPage() {
       </div>
 
       {/* Main */}
-      <div className={`flex-1 flex justify-center p-4 ${showResult ? "items-start pt-4 sm:pt-[12vh]" : "items-center"}`}>
+      <div className={`flex-1 flex justify-center p-4 ${(showResult && !isListeningMode) ? "items-start pt-4 sm:pt-[12vh]" : "items-center"}`}>
         <Card className="w-full max-w-lg border-border">
-          <CardContent className={`p-4 ${showResult ? "sm:p-6 space-y-4" : "sm:p-8 space-y-6"}`}>
+          <CardContent className={`p-4 ${(showResult && !isListeningMode) ? "sm:p-6 space-y-4" : "sm:p-8 space-y-6"}`}>
             <div className={`text-center ${showResult ? "space-y-3" : "space-y-4"}`}>
               <p className="text-sm text-muted-foreground">
                 Terjemahkan ke {language ? language.name : "..."}:
@@ -493,7 +515,109 @@ export default function QuizPage() {
               </div>
             </div>
 
-            {!showResult ? (
+            {isListeningMode ? (
+              !listeningRevealed ? (
+                <div className="p-8 text-center space-y-4 border border-dashed rounded-lg bg-muted/20">
+                  <span className="text-4xl animate-bounce inline-block">🤔</span>
+                  <p className="text-sm font-medium text-muted-foreground">
+                    Sila teka sebutan & terjemahan dalam hati dahulu...
+                  </p>
+                  <Button
+                    onClick={() => {
+                      setListeningRevealed(true);
+                      playAudio(currentSentence?.target_text);
+                    }}
+                    className="w-full bg-amber-600 hover:bg-amber-700 text-white font-semibold flex items-center justify-center gap-2"
+                    size="lg"
+                  >
+                    <Volume2 className="w-5 h-5" /> Tunjuk Jawapan & Dengar Sebutan
+                  </Button>
+                </div>
+              ) : (
+                <div className="space-y-4 animate-fadeIn">
+                  <div className="p-4 rounded-lg border border-border bg-muted/40">
+                    <p className="text-xs text-muted-foreground mb-1.5 flex items-center gap-2">
+                      Sebutan / Jawapan Betul:
+                      <button 
+                        onClick={() => playAudio(currentSentence?.target_text)}
+                        className="p-1 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
+                        title="Dengar sebutan"
+                      >
+                        <Volume2 className="w-3.5 h-3.5" />
+                      </button>
+                    </p>
+                    <div className="flex flex-col gap-2">
+                      {generatePermutations(currentSentence?.target_text || "").map((perm, idx) => (
+                        <div key={idx} className="flex items-start gap-2">
+                          {idx > 0 && <Badge variant="outline" className="text-[10px] font-bold uppercase px-1.5 py-0 h-5 border-muted-foreground/30 text-muted-foreground shrink-0 mt-0.5">Atau</Badge>}
+                          <span className={idx === 0 ? "text-lg font-bold text-foreground leading-tight" : "text-base font-medium text-muted-foreground leading-tight"}>{perm}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  <div className="flex gap-2 sm:gap-3">
+                    <Button
+                      onClick={async () => {
+                        setCurrentIndex(0);
+                        setAnswer("");
+                        setShowResult(false);
+                        setRevealed(false);
+                        setIsCorrect(null);
+                        setAnswersState([]);
+                        setPracticeInput("");
+                        setPracticeCount(0);
+                        setShowPracticeHint(false);
+                        setPracticeFeedback(null);
+                        setIsTypingPractice(false);
+                        setListeningRevealed(false);
+                        if (session) {
+                          if (token) {
+                            try {
+                              const res = await fetch(`/api/quiz/${session.id}/reset`, {
+                                method: "POST",
+                                headers: {
+                                  Authorization: `Bearer ${token}`,
+                                  Accept: "application/json",
+                                },
+                              });
+                              if (res.ok) {
+                                const resetData = await res.json();
+                                setSession(resetData);
+                              }
+                            } catch (err) {
+                              console.error("Gagal menetapkan semula sesi:", err);
+                            }
+                          } else {
+                            setSession((prev: any) => ({
+                              ...prev,
+                              correct_count: 0,
+                            }));
+                          }
+                        }
+                      }}
+                      variant="outline"
+                      size="lg"
+                      className="flex-1 text-[10px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
+                    >
+                      <RotateCcwIcon className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 shrink-0" />
+                      Ulang Soalan 1
+                    </Button>
+                    <Button
+                      onClick={() => {
+                        setListeningRevealed(false);
+                        handleNext();
+                      }}
+                      size="lg"
+                      className="flex-1 text-[10px] xs:text-xs sm:text-sm px-1.5 sm:px-4"
+                    >
+                      {currentIndex === total - 1 ? "Lihat Keputusan" : "Soalan Seterusnya"}
+                      <ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 ml-1 sm:ml-2 shrink-0" />
+                    </Button>
+                  </div>
+                </div>
+              )
+            ) : !showResult ? (
               <div className="space-y-3">
                 <Input
                   placeholder="Taip jawapan anda di sini..."
@@ -740,6 +864,7 @@ export default function QuizPage() {
                       setShowPracticeHint(false);
                       setPracticeFeedback(null);
                       setIsTypingPractice(false);
+                      setListeningRevealed(false);
                       if (session) {
                         if (token) {
                           try {
@@ -787,14 +912,16 @@ export default function QuizPage() {
         </Card>
       </div>
 
-      <div className="px-4 pb-4">
-        <div className="max-w-lg mx-auto flex items-center gap-2 text-xs text-muted-foreground">
-          <Lightbulb className="w-3.5 h-3.5 text-warning" />
-          <span>
-            Tip: Taip jawapan penuh. Jangan risau tentang huruf besar/kecil atau tanda baca.
-          </span>
+      {!isListeningMode && (
+        <div className="px-4 pb-4">
+          <div className="max-w-lg mx-auto flex items-center gap-2 text-xs text-muted-foreground">
+            <Lightbulb className="w-3.5 h-3.5 text-warning" />
+            <span>
+              Tip: Taip jawapan penuh. Jangan risau tentang huruf besar/kecil atau tanda baca.
+            </span>
+          </div>
         </div>
-      </div>
+      )}
     </div>
   );
 }

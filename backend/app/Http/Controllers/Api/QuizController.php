@@ -96,7 +96,17 @@ class QuizController extends Controller
     {
         $userId = $request->user()->id;
         // OLAC check: session must belong to user
-        \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $userId)->firstOrFail();
+        $session = \App\Models\QuizSession::where('id', $sessionId)->where('user_id', $userId)->firstOrFail();
+        
+        if ($request->input('listening_mode')) {
+            $session->update([
+                'correct_count' => $session->total_questions,
+            ]);
+            \App\Models\QuizAnswer::where('session_id', $sessionId)->update([
+                'is_correct' => true,
+            ]);
+        }
+        
         return response()->json($this->quizService->completeSession($userId, $sessionId));
     }
 
