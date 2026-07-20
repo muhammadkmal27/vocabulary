@@ -170,7 +170,7 @@ export default function ReviewPage() {
             ))}
 
             <div className="flex flex-col gap-3 pt-4">
-              <Link href="/quiz">
+              <Link href={`/quiz/${langId}/${levelId}`}>
                 <Button size="lg" className="w-full">
                   <RotateCcw className="w-4 h-4 mr-2" /> Mula Ulangan Quiz
                 </Button>
