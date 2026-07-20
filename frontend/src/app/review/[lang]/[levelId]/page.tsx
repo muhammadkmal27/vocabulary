@@ -22,6 +22,7 @@ export default function ReviewPage() {
   const levelId = params?.levelId as string;
   const { token } = useAuth();
   const [sentences, setSentences] = useState<ReviewSentence[]>([]);
+  const [langCode, setLangCode] = useState<string>("");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
@@ -30,6 +31,17 @@ export default function ReviewPage() {
     const fetchReview = async () => {
       try {
         setLoading(true);
+
+        // Fetch language code from language ID
+        const langRes = await fetch("/api/languages", {
+          headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
+        });
+        if (langRes.ok) {
+          const langs = await langRes.json();
+          const matched = langs.find((l: any) => l.id === langId);
+          if (matched) setLangCode(matched.code);
+        }
+
         const res = await fetch(`/api/review/${langId}/${levelId}`, {
           headers: {
             Authorization: `Bearer ${token}`,
@@ -170,7 +182,7 @@ export default function ReviewPage() {
             ))}
 
             <div className="flex flex-col gap-3 pt-4">
-              <Link href={`/quiz/${langId}/${levelId}`}>
+              <Link href={`/quiz/${langCode || langId}/${levelId}`}>
                 <Button size="lg" className="w-full">
                   <RotateCcw className="w-4 h-4 mr-2" /> Mula Ulangan Quiz
                 </Button>
