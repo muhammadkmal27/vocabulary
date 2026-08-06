@@ -222,6 +222,11 @@ class QuizService
             ->pluck('sentence_id')
             ->toArray();
 
+        if (empty($incorrectSentenceIds)) {
+            // Fallback: If no incorrect sentences, return all sentences of the level
+            return \App\Models\Sentence::where('level_id', $levelId)->get();
+        }
+
         return \App\Models\Sentence::whereIn('id', $incorrectSentenceIds)->get();
     }
 }
