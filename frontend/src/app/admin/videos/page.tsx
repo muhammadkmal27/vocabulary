@@ -188,28 +188,26 @@ export default function AdminVideosPage() {
     }
   };
 
-  const handleDelete = (video: VideoRecord) => {
-    showConfirm(
-      "Padam Video",
+  const handleDelete = async (video: VideoRecord) => {
+    const confirmed = await showConfirm(
       `Adakah anda pasti mahu memadam video "${video.title}"? Semua sari kata berkaitan juga akan didelete.`,
-      async () => {
-        if (!token) return;
-        try {
-          const res = await fetch(`/api/admin/videos/${video.id}`, {
-            method: "DELETE",
-            headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
-          });
-          if (res.ok) {
-            toast("Video berjaya dipadam.", "success");
-            fetchVideos();
-          } else {
-            toast("Gagal memadam video.", "error");
-          }
-        } catch {
-          toast("Ralat menyambung ke pelayan.", "error");
-        }
-      }
+      "Padam Video"
     );
+    if (!confirmed || !token) return;
+    try {
+      const res = await fetch(`/api/admin/videos/${video.id}`, {
+        method: "DELETE",
+        headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
+      });
+      if (res.ok) {
+        toast("Video berjaya dipadam.", "success");
+        fetchVideos();
+      } else {
+        toast("Gagal memadam video.", "error");
+      }
+    } catch {
+      toast("Ralat menyambung ke pelayan.", "error");
+    }
   };
 
   // Scan and Auto-Import Subtitles Action
