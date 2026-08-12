@@ -101,5 +101,7 @@ jobs:
           docker exec vocabulary-laravel-prod php artisan route:cache
           docker exec vocabulary-laravel-prod php artisan view:cache
           docker exec vocabulary-laravel-prod php artisan migrate --force
-
+          
+          # Jalankan seeder untuk data video (updateOrCreate - selamat dijalankan berulang kali)
+          docker exec vocabulary-laravel-prod php artisan db:seed --class=YoutubeVideoSeeder --force
 
