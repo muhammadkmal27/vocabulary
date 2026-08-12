@@ -200,15 +200,13 @@ export default function InteractivePlayerPage() {
     const element = transcriptRefs.current[activeSubtitle.id];
     if (!container || !element) return;
 
-    // Calculate relative offset of element inside the scrollable container
+    // Correct offset calculation when container has styles
     const elTop = element.offsetTop - container.offsetTop;
     const elHeight = element.offsetHeight;
     const cHeight = container.clientHeight;
-    const cScroll = container.scrollTop;
 
-    // Scroll active item to the center of container viewport
     container.scrollTo({
-      top: elTop - cHeight / 2 + elHeight / 2,
+      top: elTop - (cHeight / 2) + (elHeight / 2),
       behavior: "smooth",
     });
   }, [activeSubtitle]);
@@ -347,22 +345,22 @@ export default function InteractivePlayerPage() {
                     transcriptRefs.current[sub.id] = el;
                   }}
                   onClick={() => player?.seekTo(sub.start_time, true)}
-                  className={`p-3 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative ${
+                  className={`p-4 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative overflow-hidden ${
                     isActive
-                      ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02]"
+                      ? "border-primary bg-primary/15 ring-2 ring-primary shadow-lg scale-[1.03] border-l-4 border-l-amber-500"
                       : "border-border hover:border-muted-foreground/30 hover:bg-muted/50"
                   }`}
                 >
                   <div className="flex justify-between items-start gap-2">
-                    <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
+                    <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-extrabold text-base" : ""}`}>
                       {sub.target_text}
                     </p>
-                    <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
+                    <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1.5 py-0.5 h-5 font-mono shrink-0">
                       {Math.floor(sub.start_time / 60)}:
                       {String(Math.floor(sub.start_time % 60)).padStart(2, "0")}
                     </Badge>
                   </div>
-                  <p className="text-xs text-muted-foreground leading-normal">
+                  <p className={`text-xs leading-normal ${isActive ? "text-foreground font-medium" : "text-muted-foreground"}`}>
                     {sub.source_text}
                   </p>
 
