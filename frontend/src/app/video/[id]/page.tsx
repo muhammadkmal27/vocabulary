@@ -290,9 +290,9 @@ export default function InteractivePlayerPage() {
   }
 
   return (
-    <div className="min-h-screen bg-background flex flex-col lg:h-screen lg:overflow-hidden pb-4">
+    <div className="min-h-screen bg-background flex flex-col lg:h-screen lg:overflow-hidden pb-16 lg:pb-4">
       {/* HEADER */}
-      <header className="border-b border-border bg-card px-4 py-3 flex items-center gap-3">
+      <header className="border-b border-border bg-card px-4 py-3 flex items-center gap-3 shrink-0">
         <Button variant="ghost" size="icon" onClick={() => router.push("/video")}>
           <ArrowLeft className="w-5 h-5" />
         </Button>
@@ -306,41 +306,42 @@ export default function InteractivePlayerPage() {
       </header>
 
       {/* CORE WORKSPACE */}
-      <div className="flex-1 flex flex-col lg:flex-row lg:overflow-hidden">
-        {/* LEFT COLUMN: PLAYER & SUBTITLE SCREEN */}
-        <div className="flex-1 flex flex-col p-4 gap-4 lg:overflow-y-auto lg:max-h-full">
+      <div className="flex-1 flex flex-col lg:flex-row lg:overflow-hidden min-h-0">
+        {/* LEFT COLUMN: PLAYER + SUBTITLE CARD */}
+        <div className="flex flex-col p-3 gap-3 shrink-0 lg:flex-1 lg:overflow-y-auto">
           {/* VIDEO FRAME */}
           <div ref={playerRef} className="relative aspect-video w-full rounded-xl overflow-hidden bg-black border border-border">
             <div id="youtube-player-iframe" className="w-full h-full" />
           </div>
 
-          {/* DUAL SUBTITLE DISPLAY — fixed height so the video never jumps */}
-          <div className="h-[130px] shrink-0 rounded-xl border border-amber-500/20 bg-amber-500/5 flex items-center justify-center px-5 py-3 text-center overflow-hidden">
+          {/* DUAL SUBTITLE DISPLAY — auto height, no clamp */}
+          <div className="rounded-xl border border-amber-500/20 bg-amber-500/5 px-4 py-3 text-center min-h-[80px]">
             {activeSubtitle ? (
-              <div className="space-y-1 w-full">
-                <p className="text-lg sm:text-xl font-extrabold text-primary leading-snug line-clamp-2">
+              <div className="space-y-1.5 w-full">
+                <p className="text-base sm:text-lg font-extrabold text-primary leading-snug">
                   {activeSubtitle.target_text}
                 </p>
-                <p className="text-xs sm:text-sm text-muted-foreground font-medium line-clamp-2">
+                <p className="text-xs sm:text-sm text-muted-foreground font-medium leading-snug">
                   {activeSubtitle.source_text}
                 </p>
               </div>
             ) : (
-              <p className="text-muted-foreground/60 text-sm italic">
+              <p className="text-muted-foreground/60 text-sm italic py-3">
                 Mainkan video untuk melihat sari kata dwi-bahasa
               </p>
             )}
           </div>
         </div>
 
-        {/* RIGHT COLUMN: INTERACTIVE TRANSCRIPT SIDEBAR */}
-        <div className="w-full lg:w-96 border-t lg:border-t-0 lg:border-l border-border bg-card flex flex-col h-[400px] lg:h-full">
-          <div className="p-4 border-b border-border">
+        {/* RIGHT COLUMN: INTERACTIVE TRANSCRIPT */}
+        {/* On mobile: takes all remaining vertical space. On desktop: fixed sidebar */}
+        <div className="flex-1 flex flex-col border-t lg:border-t-0 lg:border-l border-border bg-card lg:w-96 lg:flex-none min-h-[300px] lg:h-full overflow-hidden">
+          <div className="p-4 border-b border-border shrink-0">
             <h3 className="font-bold text-sm">Transkrip Interaktif</h3>
             <p className="text-xs text-muted-foreground">Klik pada baris untuk melompat ke babak tersebut</p>
           </div>
 
-          <div ref={transcriptContainerRef} className="flex-1 overflow-y-auto p-4 space-y-3">
+          <div ref={transcriptContainerRef} className="flex-1 overflow-y-auto p-3 space-y-2">
             {videoData?.subtitles.map((sub) => {
               const isActive = activeSubtitle?.id === sub.id;
               return (
@@ -357,10 +358,10 @@ export default function InteractivePlayerPage() {
                   }`}
                 >
                   <div className="flex justify-between items-start gap-2">
-                    <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary" : ""}`}>
+                    <p className={`text-sm font-semibold leading-snug ${isActive ? "text-primary" : ""}`}>
                       {sub.target_text}
                     </p>
-                    <Badge variant="secondary" className="text-[9px] px-1 py-0 h-4 font-mono">
+                    <Badge variant="secondary" className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
                       {Math.floor(sub.start_time / 60)}:
                       {String(Math.floor(sub.start_time % 60)).padStart(2, "0")}
                     </Badge>
@@ -369,7 +370,7 @@ export default function InteractivePlayerPage() {
                     {sub.source_text}
                   </p>
 
-                  <div className="pt-1.5 flex justify-end opacity-0 group-hover:opacity-100 transition-opacity">
+                  <div className="pt-1 flex justify-end opacity-0 group-hover:opacity-100 transition-opacity">
                     <Button
                       size="sm"
                       variant="ghost"
