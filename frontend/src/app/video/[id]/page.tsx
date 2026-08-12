@@ -200,63 +200,22 @@ export default function InteractivePlayerPage() {
     const element = transcriptRefs.current[activeSubtitle.id];
     if (!container || !element) return;
 
-    // Correct offset calculation when container has styles
+    // Calculate relative offset of element inside the scrollable container
     const elTop = element.offsetTop - container.offsetTop;
     const elHeight = element.offsetHeight;
     const cHeight = container.clientHeight;
+    const cScroll = container.scrollTop;
 
+    // Scroll active item to the center of container viewport
     container.scrollTo({
-      top: elTop - (cHeight / 2) + (elHeight / 2),
+      top: elTop - cHeight / 2 + elHeight / 2,
       behavior: "smooth",
     });
   }, [activeSubtitle]);
 
   // 3. Add sentence to custom level / vocabulary list
   const handleAddSentence = async (subtitle: Subtitle) => {
-    setAddingSentenceId(subtitle.id);
-    try {
-      // Find the first level of active language to add custom sentences to
-      // or post to the backend custom endpoint
-      const langId = localStorage.getItem("selected_language_id");
-      
-      const res = await fetch(`/api/admin/languages/${langId}/levels`, {
-        headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
-      });
-      const levels = await res.json();
-      const firstLevel = levels?.[0];
-
-      if (!firstLevel) {
-        toast("Gagal mencari tahap pembelajaran.", "error");
-        return;
-      }
-
-      // Add as custom sentence
-      const addRes = await fetch(`/api/admin/languages/${langId}/levels/${firstLevel.id}/sentences`, {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json",
-          Accept: "application/json",
-        },
-        body: JSON.stringify({
-          source_text: subtitle.source_text,
-          target_text: subtitle.target_text,
-          difficulty: 1,
-          order: 999, // default last
-          tags: ["video-imported"],
-        }),
-      });
-
-      if (addRes.ok) {
-        toast("Ayat berjaya disimpan ke dalam latihan kuiz anda!", "success");
-      } else {
-        toast("Gagal menyimpan ayat.", "error");
-      }
-    } catch (e) {
-      toast("Ralat menyambung ke pelayan.", "error");
-    } finally {
-      setAddingSentenceId(null);
-    }
+    toast("Ciri Hafal Ayat dari video ini akan datang tidak lama lagi!", "info");
   };
 
   if (loading) {
@@ -345,22 +304,22 @@ export default function InteractivePlayerPage() {
                     transcriptRefs.current[sub.id] = el;
                   }}
                   onClick={() => player?.seekTo(sub.start_time, true)}
-                  className={`p-4 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative overflow-hidden ${
+                  className={`p-3 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative ${
                     isActive
-                      ? "border-primary bg-primary/15 ring-2 ring-primary shadow-lg scale-[1.03] border-l-4 border-l-amber-500"
+                      ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02]"
                       : "border-border hover:border-muted-foreground/30 hover:bg-muted/50"
                   }`}
                 >
                   <div className="flex justify-between items-start gap-2">
-                    <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-extrabold text-base" : ""}`}>
+                    <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
                       {sub.target_text}
                     </p>
-                    <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1.5 py-0.5 h-5 font-mono shrink-0">
+                    <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
                       {Math.floor(sub.start_time / 60)}:
                       {String(Math.floor(sub.start_time % 60)).padStart(2, "0")}
                     </Badge>
                   </div>
-                  <p className={`text-xs leading-normal ${isActive ? "text-foreground font-medium" : "text-muted-foreground"}`}>
+                  <p className="text-xs text-muted-foreground leading-normal">
                     {sub.source_text}
                   </p>
 
