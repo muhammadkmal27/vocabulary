@@ -21,6 +21,7 @@ import {
   Loader2,
 } from "lucide-react";
 import { TheoryBanner } from "@/components/TheoryBanner";
+import BottomNav from "@/components/BottomNav";
 
 export default function DashboardPage() {
   const { token, user } = useAuth();
@@ -131,6 +132,9 @@ export default function DashboardPage() {
                 <Button variant="ghost" size="sm">Quiz</Button>
               </Link>
             )}
+            <Link href="/video">
+              <Button variant="ghost" size="sm">Video</Button>
+            </Link>
             {token ? (
               <>
                 <Link href="/subscription">
@@ -329,28 +333,7 @@ export default function DashboardPage() {
       )}
 
       {/* MOBILE BOTTOM NAV */}
-      <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background/95 backdrop-blur-sm lg:hidden">
-        <div className="flex items-center justify-around h-16 px-2">
-          <Link href="/" className="flex flex-col items-center gap-0.5 text-primary">
-            <Home className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Rumah</span>
-          </Link>
-          {currentLevel && (
-            <Link href={`/quiz/${selectedLanguage?.code}/${currentLevel.id}`} className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground transition-colors">
-              <BookOpenCheck className="w-5 h-5" />
-              <span className="text-[10px] font-medium">Quiz</span>
-            </Link>
-          )}
-          <Link href="/subscription" className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground transition-colors">
-            <Settings className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Langganan</span>
-          </Link>
-          <Link href="/profile" className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground transition-colors">
-            <User className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Profil</span>
-          </Link>
-        </div>
-      </nav>
+      <BottomNav />
     </div>
   );
 }

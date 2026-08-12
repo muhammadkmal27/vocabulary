@@ -28,6 +28,7 @@ import {
   ArrowRight,
   CheckCircle2,
 } from "lucide-react";
+import BottomNav from "@/components/BottomNav";
 import { useAuth } from "@/lib/auth";
 import { trackFbEvent } from "@/components/FacebookPixel";
 
@@ -366,35 +367,7 @@ function SubscriptionContent() {
       </main>
 
       {/* Mobile Bottom Nav */}
-      <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background/95 backdrop-blur-sm lg:hidden">
-        <div className="flex items-center justify-around h-16 px-2">
-          <Link
-            href="/"
-            className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground transition-colors"
-          >
-            <Home className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Rumah</span>
-          </Link>
-          <Link
-            href="/quiz"
-            className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground transition-colors"
-          >
-            <BookOpenCheck className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Quiz</span>
-          </Link>
-          <Link href="/subscription" className="flex flex-col items-center gap-0.5 text-primary">
-            <CreditCard className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Langganan</span>
-          </Link>
-          <Link
-            href="/profile"
-            className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground transition-colors"
-          >
-            <User className="w-5 h-5" />
-            <span className="text-[10px] font-medium">Profil</span>
-          </Link>
-        </div>
-      </nav>
+      <BottomNav />
     </div>
   );
 }

@@ -50,6 +50,8 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/quiz/{sessionId}/reset', [\App\Http\Controllers\Api\QuizController::class, 'reset']);
     Route::get('/quiz/{sessionId}', [\App\Http\Controllers\Api\QuizController::class, 'show']);
     Route::get('/review/{languageId}/{levelId}', [\App\Http\Controllers\Api\QuizController::class, 'review']);
+    Route::get('/videos', [\App\Http\Controllers\Api\VideoController::class, 'index']);
+    Route::get('/videos/{id}', [\App\Http\Controllers\Api\VideoController::class, 'show']);
 });
 
 // Coupon — Rate limited (Rule #21)
@@ -103,6 +105,9 @@ Route::middleware(['auth:sanctum', 'admin'])->prefix('admin')->group(function ()
     Route::apiResource('languages.levels.sentences', SentenceController::class)->shallow();
     
     Route::apiResource('plans', PlanController::class);
+    Route::apiResource('videos', \App\Http\Controllers\Admin\VideoController::class);
+    Route::post('videos/{video}/import-subtitles', [\App\Http\Controllers\Admin\VideoController::class, 'importSubtitles']);
+    Route::put('videos/{video}/subtitles', [\App\Http\Controllers\Admin\VideoController::class, 'updateSubtitles']);
     
     Route::get('coupons', [CouponController::class, 'index']);
     Route::post('coupons', [CouponController::class, 'store']);

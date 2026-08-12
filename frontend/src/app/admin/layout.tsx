@@ -16,6 +16,7 @@ import {
   Receipt,
   LogOut,
   ChevronLeft,
+  Video,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
@@ -24,6 +25,7 @@ const NAV_ITEMS = [
   { href: "/admin/languages", label: "Bahasa", icon: Languages },
   { href: "/admin/levels", label: "Level", icon: Layers },
   { href: "/admin/sentences", label: "Ayat", icon: BookOpen },
+  { href: "/admin/videos", label: "Video YouTube", icon: Video },
   { href: "/admin/plans", label: "Plan Harga", icon: CreditCard },
   { href: "/admin/coupons", label: "Kupon", icon: Ticket },
   { href: "/admin/users", label: "Pengguna", icon: Users },

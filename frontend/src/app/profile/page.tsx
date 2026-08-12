@@ -19,6 +19,7 @@ import { User, Lock, Save, Globe, LogOut, ArrowLeft, Home, BookOpenCheck, Settin
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import api from "@/lib/api";
+import BottomNav from "@/components/BottomNav";
 
 export default function ProfilePage() {
   const { toast } = useAlert();
@@ -477,38 +478,7 @@ export default function ProfilePage() {
       </main>
 
       {/* Mobile Bottom Nav */}
-      <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background/95 backdrop-blur-sm lg:hidden">
-        <div className="flex items-center justify-around h-16 px-2">
-          <Link
-            href="/"
-            className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground"
-          >
-            <Home className="w-5 h-5" />
-            <span className="text-[10px]">Rumah</span>
-          </Link>
-          <Link
-            href="/quiz"
-            className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground"
-          >
-            <BookOpenCheck className="w-5 h-5" />
-            <span className="text-[10px]">Quiz</span>
-          </Link>
-          <Link
-            href="/subscription"
-            className="flex flex-col items-center gap-0.5 text-muted-foreground hover:text-foreground"
-          >
-            <Settings className="w-5 h-5" />
-            <span className="text-[10px]">Langganan</span>
-          </Link>
-          <Link
-            href="/profile"
-            className="flex flex-col items-center gap-0.5 text-primary"
-          >
-            <User className="w-5 h-5" />
-            <span className="text-[10px]">Profil</span>
-          </Link>
-        </div>
-      </nav>
+      <BottomNav />
     </div>
   );
 }
