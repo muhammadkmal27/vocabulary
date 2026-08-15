@@ -193,15 +193,9 @@ export default function InteractivePlayerPage() {
   };
 
   // Scroll active transcript line into view — within sidebar container ONLY
-  // (Disabled on mobile to prevent layout shifts and hidden subtitles; only active on desktop/laptop lg screens)
+  // (never scrolls the page, so the video stays visible on mobile)
   useEffect(() => {
     if (!activeSubtitle) return;
-    
-    // Check if the current screen width is desktop (lg breakpoint is 1024px)
-    if (typeof window !== "undefined" && window.innerWidth < 1024) {
-      return;
-    }
-
     const container = transcriptContainerRef.current;
     const element = transcriptRefs.current[activeSubtitle.id];
     if (!container || !element) return;
@@ -210,12 +204,27 @@ export default function InteractivePlayerPage() {
     const elTop = element.offsetTop - container.offsetTop;
     const elHeight = element.offsetHeight;
     const cHeight = container.clientHeight;
+    const cScroll = container.scrollTop;
 
-    // Scroll active item to the center of container viewport
-    container.scrollTo({
-      top: elTop - cHeight / 2 + elHeight / 2,
-      behavior: "smooth",
-    });
+    // Detect if mobile layout (<1024px)
+    const isMobile = window.innerWidth < 1024;
+
+    if (isMobile) {
+      // On mobile: immediately center the active item so the active purple highlight is locked in view
+      container.scrollTo({
+        top: elTop - cHeight / 2 + elHeight / 2,
+        behavior: "smooth",
+      });
+    } else {
+      // On laptop/desktop: only scroll if the active item is near/outside container boundary
+      const isVisible = elTop >= cScroll + 50 && elTop + elHeight <= cScroll + cHeight - 50;
+      if (!isVisible) {
+        container.scrollTo({
+          top: elTop - cHeight / 2 + elHeight / 2,
+          behavior: "smooth",
+        });
+      }
+    }
   }, [activeSubtitle]);
 
   // 3. Add sentence to custom level / vocabulary list
