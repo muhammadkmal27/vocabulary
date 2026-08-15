@@ -193,9 +193,15 @@ export default function InteractivePlayerPage() {
   };
 
   // Scroll active transcript line into view — within sidebar container ONLY
-  // (never scrolls the page, so the video stays visible on mobile)
+  // (Disabled on mobile to prevent layout shifts and hidden subtitles; only active on desktop/laptop lg screens)
   useEffect(() => {
     if (!activeSubtitle) return;
+    
+    // Check if the current screen width is desktop (lg breakpoint is 1024px)
+    if (typeof window !== "undefined" && window.innerWidth < 1024) {
+      return;
+    }
+
     const container = transcriptContainerRef.current;
     const element = transcriptRefs.current[activeSubtitle.id];
     if (!container || !element) return;
@@ -204,7 +210,6 @@ export default function InteractivePlayerPage() {
     const elTop = element.offsetTop - container.offsetTop;
     const elHeight = element.offsetHeight;
     const cHeight = container.clientHeight;
-    const cScroll = container.scrollTop;
 
     // Scroll active item to the center of container viewport
     container.scrollTo({

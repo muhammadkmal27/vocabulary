@@ -51,7 +51,7 @@ export default function VideoPage() {
   }, [token]);
 
   return (
-    <div className="min-h-screen bg-background pb-28 lg:pb-20">
+    <div className="min-h-screen bg-background pb-20">
       {/* HEADER */}
       <header className="border-b border-border bg-card px-4 py-4 sticky top-0 z-40">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
