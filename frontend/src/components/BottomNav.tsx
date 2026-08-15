@@ -85,21 +85,21 @@ export default function BottomNav() {
 
   return (
     <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background/95 backdrop-blur-sm lg:hidden">
-      <div className="flex items-center justify-around h-16 px-2">
+      <div className="flex items-center justify-between h-16 w-full px-2">
         {navItems.map((item, index) => {
           const Icon = item.icon;
           return (
             <Link
               key={index}
               href={item.href}
-              className={`flex flex-col items-center gap-0.5 transition-colors ${
+              className={`flex-1 flex flex-col items-center justify-center gap-1 transition-colors text-center min-w-0 ${
                 item.active
                   ? "text-primary"
                   : "text-muted-foreground hover:text-foreground"
               }`}
             >
-              <Icon className="w-5 h-5" />
-              <span className="text-[10px] font-medium">{item.label}</span>
+              <Icon className="w-5 h-5 shrink-0" />
+              <span className="text-[10px] font-medium truncate w-full px-1">{item.label}</span>
             </Link>
           );
         })}
