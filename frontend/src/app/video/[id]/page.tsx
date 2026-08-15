@@ -200,30 +200,28 @@ export default function InteractivePlayerPage() {
     const element = transcriptRefs.current[activeSubtitle.id];
     if (!container || !element) return;
 
-    // Calculate relative offset of element inside the scrollable container
-    const elTop = element.offsetTop - container.offsetTop;
-    const elHeight = element.offsetHeight;
-    const cHeight = container.clientHeight;
-    const cScroll = container.scrollTop;
-
-    // Detect if mobile layout (<1024px)
+    // Detect if we are on mobile (less than 1024px width for Tailwind lg breakpoint)
     const isMobile = window.innerWidth < 1024;
 
     if (isMobile) {
-      // On mobile: immediately center the active item so the active purple highlight is locked in view
+      // Calculate strict top offset relative to the scroll container's current viewport
+      const containerRect = container.getBoundingClientRect();
+      const elementRect = element.getBoundingClientRect();
+      const relativeTop = elementRect.top - containerRect.top + container.scrollTop;
+
+      container.scrollTo({
+        top: relativeTop - 8,
+        behavior: "smooth",
+      });
+    } else {
+      // For desktop: Center the active item in container viewport
+      const elTop = element.offsetTop - container.offsetTop;
+      const elHeight = element.offsetHeight;
+      const cHeight = container.clientHeight;
       container.scrollTo({
         top: elTop - cHeight / 2 + elHeight / 2,
         behavior: "smooth",
       });
-    } else {
-      // On laptop/desktop: only scroll if the active item is near/outside container boundary
-      const isVisible = elTop >= cScroll + 50 && elTop + elHeight <= cScroll + cHeight - 50;
-      if (!isVisible) {
-        container.scrollTo({
-          top: elTop - cHeight / 2 + elHeight / 2,
-          behavior: "smooth",
-        });
-      }
     }
   }, [activeSubtitle]);
 
