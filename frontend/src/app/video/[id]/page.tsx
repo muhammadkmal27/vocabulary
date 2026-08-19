@@ -49,7 +49,7 @@ export default function InteractivePlayerPage() {
   const [currentTime, setCurrentTime] = useState(0);
   const [activeSubtitle, setActiveSubtitle] = useState<Subtitle | null>(null);
   const [addingSentenceId, setAddingSentenceId] = useState<string | null>(null);
-  const [subtitlesLoaded, setSubtitlesLoaded] = useState(false); // true once subtitle data arrives
+  const [playerReady, setPlayerReady] = useState(false);
 
   const playerRef = useRef<HTMLDivElement>(null);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -220,7 +220,6 @@ export default function InteractivePlayerPage() {
           data.subtitles.sort((a: Subtitle, b: Subtitle) => a.start_time - b.start_time);
           // Update ref immediately so the interval closure always has current data
           subtitlesRef.current = data.subtitles;
-          setSubtitlesLoaded(true); // unlock player overlay
         }
         setVideoData(data);
       } catch (err) {
@@ -278,21 +277,14 @@ export default function InteractivePlayerPage() {
         onReady: (event: any) => {
           setPlayer(event.target);
           playerObjRef.current = event.target;
+          setPlayerReady(true); // hide skeleton overlay
           // Start always-on tracking immediately on player ready
           startTrackingTime(event.target);
         },
         onStateChange: (event: any) => {
           playerObjRef.current = event.target;
-          const state = event.data;
-          // When playback resumes after buffering, reset wall-clock anchors
-          // so estimation starts fresh from the real current position
-          if (state === window.YT?.PlayerState?.PLAYING) {
-            const freshTime = event.target.getCurrentTime?.() ?? 0;
-            lastKnownTimeRef.current = freshTime;
-            lastKnownWallRef.current = Date.now();
-            lastSubtitleRef.current = null; // clear sticky to force fresh match
-          }
-          // Keep tracking alive regardless of state
+          // Keep tracking alive regardless of state (buffering, paused, playing)
+          // Restart interval if not already running
           if (!intervalRef.current) {
             startTrackingTime(event.target);
           }
@@ -377,14 +369,11 @@ export default function InteractivePlayerPage() {
         const subs = subtitlesRef.current;
         const matched = findSubtitle(effectiveTime, subs);
 
-        // If nothing found, check if we're far ahead of lastSubtitleRef
-        // (prevents sticky subtitle showing wrong entry across large gaps)
-        const lastEnd = lastSubtitleRef.current?.end_time ?? 0;
-        const tooFarAhead = effectiveTime > lastEnd + 8; // 8-second tolerance
-        const toShow = matched ?? (tooFarAhead ? null : lastSubtitleRef.current);
+        // If nothing found, keep showing last known subtitle (resilient to gaps)
+        const toShow = matched ?? lastSubtitleRef.current;
         setActiveSubtitle((prev) => {
           if (prev?.id === toShow?.id) return prev;
-          return toShow ?? null;
+          return toShow;
         });
 
         if (matched) lastSubtitleRef.current = matched;
@@ -488,12 +477,32 @@ export default function InteractivePlayerPage() {
           {/* VIDEO FRAME */}
           <div ref={playerRef} className="relative aspect-video w-full rounded-xl overflow-hidden bg-black border border-border">
             <div id="youtube-player-iframe" className="w-full h-full" />
-            {/* Loading overlay — prevents playback confusion before subtitle data is ready */}
-            {!subtitlesLoaded && (
-              <div className="absolute inset-0 bg-black/80 flex flex-col items-center justify-center gap-3 z-20 rounded-xl">
-                <Loader2 className="w-10 h-10 animate-spin text-primary" />
-                <p className="text-white text-sm font-semibold">Memuatkan sari kata...</p>
-                <p className="text-white/50 text-xs">Sila tunggu sebentar</p>
+
+            {/* SKELETON LOADING OVERLAY — visible until YT player fires onReady */}
+            {!playerReady && (
+              <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/95 z-10 gap-4">
+                {/* Shimmer video placeholder */}
+                <div className="w-full h-full absolute inset-0 overflow-hidden">
+                  <div
+                    className="absolute inset-0 opacity-10"
+                    style={{
+                      background: "linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.15) 50%, transparent 100%)",
+                      backgroundSize: "200% 100%",
+                      animation: "shimmer 1.8s infinite",
+                    }}
+                  />
+                </div>
+                {/* Center loading indicator */}
+                <div className="relative z-10 flex flex-col items-center gap-3">
+                  <div className="relative">
+                    <div className="w-14 h-14 rounded-full border-4 border-primary/20 border-t-primary animate-spin" />
+                    <div className="absolute inset-0 flex items-center justify-center">
+                      <div className="w-5 h-5 rounded-full bg-primary/60 animate-pulse" />
+                    </div>
+                  </div>
+                  <p className="text-white/70 text-sm font-medium animate-pulse">Memuatkan video...</p>
+                  <p className="text-white/40 text-xs">Sila tunggu sebentar</p>
+                </div>
               </div>
             )}
           </div>
