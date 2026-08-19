@@ -38,7 +38,7 @@ export default function InteractivePlayerPage() {
   const params = useParams();
   const router = useRouter();
   const videoId = params?.id as string;
-  const { token } = useAuth();
+  const { token, isLoading: authLoading } = useAuth();
   const { toast } = useAlert();
 
   const [videoData, setVideoData] = useState<YoutubeVideoData | null>(null);
@@ -193,6 +193,9 @@ export default function InteractivePlayerPage() {
   // 1. Fetch Video & Subtitle Data
   useEffect(() => {
     if (!videoId) return;
+    // Wait until auth is fully hydrated from localStorage before fetching.
+    // On page refresh, token starts as null — skip until authLoading=false.
+    if (authLoading) return;
 
     const fetchVideo = async () => {
       try {
@@ -230,7 +233,7 @@ export default function InteractivePlayerPage() {
     };
 
     fetchVideo();
-  }, [token, videoId]);
+  }, [token, videoId, authLoading]);
 
   // 2. Load YouTube IFrame API
   useEffect(() => {
