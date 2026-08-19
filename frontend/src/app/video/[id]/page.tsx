@@ -56,18 +56,152 @@ export default function InteractivePlayerPage() {
   const transcriptContainerRef = useRef<HTMLDivElement>(null); // scroll ONLY within this
   const playerObjRef = useRef<any>(null); // stable ref to YT player
 
+  // Dictionary Hover & Click features
+  const [hoveredWord, setHoveredWord] = useState<string | null>(null);
+  const [wordTranslation, setWordTranslation] = useState<string>("");
+  const [loadingWord, setLoadingWord] = useState(false);
+  const [popupPos, setPopupPos] = useState<{ x: number; y: number } | null>(null);
+  const [translationCache, setTranslationCache] = useState<{ [key: string]: string }>({});
+
+  const handleWordHoverOrClick = async (word: string, e: React.MouseEvent) => {
+    // 1. Pause video automatically
+    if (playerObjRef.current && typeof playerObjRef.current.pauseVideo === "function") {
+      playerObjRef.current.pauseVideo();
+    } else if (player && typeof player.pauseVideo === "function") {
+      player.pauseVideo();
+    }
+
+    const cleanWord = word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, "").trim().toLowerCase();
+    if (!cleanWord) return;
+
+    setHoveredWord(cleanWord);
+    setLoadingWord(true);
+
+    const rect = (e.target as HTMLElement).getBoundingClientRect();
+    setPopupPos({
+      x: rect.left + window.scrollX + rect.width / 2,
+      y: rect.top + window.scrollY - 10,
+    });
+
+    if (translationCache[cleanWord]) {
+      setWordTranslation(translationCache[cleanWord]);
+      setLoadingWord(false);
+      return;
+    }
+
+    // 1. Semak Kamus Tempatan Dahulu (100% Tepat untuk perkataan lazim)
+    const localDictionary: { [key: string]: string } = {
+      "practice": "berlatih / latihan",
+      "every": "setiap / tiap-tiap",
+      "each": "setiap / masing-masing",
+      "bedroom": "bilik tidur",
+      "balcony": "balkoni",
+      "washroom": "bilik air / tandas",
+      "living": "hidup / ruang tamu",
+      "kitchen": "dapur",
+      "dining": "makan / ruang makan",
+      "laundry": "dobi / tempat basuh baju",
+      "shadowing": "teknik meniru sebutan (shadowing)",
+      "pronunciation": "sebutan",
+      "accent": "loghat / pelat",
+      "vocabulary": "kosa kata / perbendaharaan kata",
+      "phrases": "frasa / ungkapan",
+      "segments": "segmen / bahagian",
+      "beginning": "permulaan / awal",
+      "understand": "faham",
+      "feelings": "perasaan",
+      "fine": "khabar baik / sihat / ok",
+      "welcome": "selamat datang",
+      "slow": "perlahan",
+      "comprehensible": "mudah difahami",
+      "input": "input / kemasukan",
+      "vlog": "vlog (video log)",
+      "home": "rumah",
+      "house": "rumah",
+      "today": "hari ini",
+      "room": "bilik",
+      "rooms": "bilik-bilik",
+    };
+
+    if (localDictionary[cleanWord]) {
+      const translation = localDictionary[cleanWord];
+      setWordTranslation(translation);
+      setTranslationCache(prev => ({ ...prev, [cleanWord]: translation }));
+      setLoadingWord(false);
+      return;
+    }
+
+    // 2. Jika tiada, gunakan Google Translate API (Lebih tepat untuk perkataan tunggal berbanding MyMemory)
+    try {
+      const res = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ms&dt=t&q=${encodeURIComponent(cleanWord)}`);
+      if (res.ok) {
+        const json = await res.json();
+        const translatedText = json?.[0]?.[0]?.[0] || "Terjemahan tidak dijumpai";
+        const cleanTranslation = translatedText.toLowerCase();
+        setWordTranslation(cleanTranslation);
+        setTranslationCache(prev => ({ ...prev, [cleanWord]: cleanTranslation }));
+      } else {
+        setWordTranslation("Ralat memuatkan makna");
+      }
+    } catch (err) {
+      setWordTranslation("Gagal menyambung kamus");
+    } finally {
+      setLoadingWord(false);
+    }
+  };
+
+  const handleWordLeave = () => {
+    setHoveredWord(null);
+    if (playerObjRef.current && typeof playerObjRef.current.playVideo === "function") {
+      playerObjRef.current.playVideo();
+    } else if (player && typeof player.playVideo === "function") {
+      player.playVideo();
+    }
+  };
+
+  const renderInteractiveText = (text: string) => {
+    const tokens = text.split(/(\s+)/);
+    return tokens.map((token, i) => {
+      const isWord = /[a-zA-Z]+/.test(token);
+      if (isWord) {
+        const wordClean = token.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, "");
+        const punctuation = token.slice(wordClean.length);
+        
+        return (
+          <span key={i} className="inline-block">
+            <span
+              className="cursor-pointer hover:text-amber-400 hover:underline transition-all duration-150 decoration-amber-400 decoration-2 underline-offset-4"
+              onMouseEnter={(e) => handleWordHoverOrClick(wordClean, e)}
+              onMouseLeave={handleWordLeave}
+              onClick={(e) => handleWordHoverOrClick(wordClean, e)}
+            >
+              {wordClean}
+            </span>
+            {punctuation}
+          </span>
+        );
+      }
+      return <span key={i}>{token}</span>;
+    });
+  };
+
   // 1. Fetch Video & Subtitle Data
   useEffect(() => {
-    if (!token || !videoId) return;
+    if (!videoId) return;
 
     const fetchVideo = async () => {
       try {
-        const res = await fetch(`/api/videos/${videoId}`, {
-          headers: {
-            Authorization: `Bearer ${token}`,
-            Accept: "application/json",
-          },
-        });
+        const headers: Record<string, string> = {
+          Accept: "application/json",
+        };
+        if (token) {
+          headers["Authorization"] = `Bearer ${token}`;
+        }
+        const res = await fetch(`/api/videos/${videoId}`, { headers });
+        if (res.status === 401) {
+          setError("Sila log masuk untuk menonton video premium.");
+          return;
+        }
         if (res.status === 403) {
           setError("Akses terhad. Sila langgan untuk menonton video premium ini.");
           return;
@@ -286,7 +420,7 @@ export default function InteractivePlayerPage() {
             {activeSubtitle ? (
               <div className="space-y-1.5 w-full">
                 <p className="text-base sm:text-lg lg:text-xl font-extrabold text-primary leading-snug break-words">
-                  {activeSubtitle.target_text}
+                  {renderInteractiveText(activeSubtitle.target_text)}
                 </p>
                 <p className="text-xs sm:text-sm text-muted-foreground font-medium break-words">
                   {activeSubtitle.source_text}
@@ -324,7 +458,7 @@ export default function InteractivePlayerPage() {
                 >
                   <div className="flex justify-between items-start gap-2">
                     <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
-                      {sub.target_text}
+                      {renderInteractiveText(sub.target_text)}
                     </p>
                     <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
                       {Math.floor(sub.start_time / 60)}:
@@ -360,6 +494,32 @@ export default function InteractivePlayerPage() {
           </div>
         </div>
       </div>
+
+      {hoveredWord && popupPos && (
+        <div
+          className="absolute z-50 transform -translate-x-1/2 -translate-y-full bg-slate-950/95 border border-amber-500/30 text-white p-3 rounded-lg shadow-xl max-w-[220px] text-center backdrop-blur-sm pointer-events-auto"
+          style={{
+            left: `${popupPos.x}px`,
+            top: `${popupPos.y}px`,
+          }}
+          onMouseLeave={handleWordLeave}
+        >
+          <div className="text-[10px] text-amber-400/80 font-bold uppercase tracking-wider mb-1">
+            Maksud: {hoveredWord}
+          </div>
+          {loadingWord ? (
+            <div className="flex justify-center py-1">
+              <Loader2 className="w-4 h-4 animate-spin text-amber-500" />
+            </div>
+          ) : (
+            <div className="text-xs font-semibold leading-relaxed text-slate-100">
+              {wordTranslation}
+            </div>
+          )}
+          {/* Arrow */}
+          <div className="absolute top-full left-1/2 transform -translate-x-1/2 -translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-slate-950" />
+        </div>
+      )}
     </div>
   );
 }

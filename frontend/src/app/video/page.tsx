@@ -26,16 +26,15 @@ export default function VideoPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    if (!token) return;
-
     const fetchVideos = async () => {
       try {
-        const res = await fetch("/api/videos", {
-          headers: {
-            Authorization: `Bearer ${token}`,
-            Accept: "application/json",
-          },
-        });
+        const headers: Record<string, string> = {
+          Accept: "application/json",
+        };
+        if (token) {
+          headers["Authorization"] = `Bearer ${token}`;
+        }
+        const res = await fetch("/api/videos", { headers });
         if (res.ok) {
           const data = await res.json();
           setVideos(data);

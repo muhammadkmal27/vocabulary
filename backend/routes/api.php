@@ -38,6 +38,9 @@ Route::get('/plans', function () {
 });
 
 
+Route::get('/videos', [\App\Http\Controllers\Api\VideoController::class, 'index']);
+Route::get('/videos/{id}', [\App\Http\Controllers\Api\VideoController::class, 'show']);
+
 // Dashboard & Profile (authenticated)
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('/profile', [\App\Http\Controllers\Api\ProfileController::class, 'show']);
@@ -50,8 +53,6 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/quiz/{sessionId}/reset', [\App\Http\Controllers\Api\QuizController::class, 'reset']);
     Route::get('/quiz/{sessionId}', [\App\Http\Controllers\Api\QuizController::class, 'show']);
     Route::get('/review/{languageId}/{levelId}', [\App\Http\Controllers\Api\QuizController::class, 'review']);
-    Route::get('/videos', [\App\Http\Controllers\Api\VideoController::class, 'index']);
-    Route::get('/videos/{id}', [\App\Http\Controllers\Api\VideoController::class, 'show']);
 });
 
 // Coupon — Rate limited (Rule #21)

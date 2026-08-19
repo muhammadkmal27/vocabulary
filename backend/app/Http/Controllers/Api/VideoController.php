@@ -11,7 +11,7 @@ class VideoController extends Controller
 {
     public function index(Request $request)
     {
-        $user = $request->user();
+        $user = auth('sanctum')->user();
 
         // Check if user is premium
         $hasActiveSubscription = false;
@@ -43,11 +43,17 @@ class VideoController extends Controller
 
     public function show(Request $request, string $id)
     {
-        $user = $request->user();
+        $user = auth('sanctum')->user();
         $video = YoutubeVideo::with('subtitles')->findOrFail($id);
 
         // Check subscription for premium videos
         if ($video->is_premium && !$video->is_free) {
+            if (!$user) {
+                return response()->json([
+                    'message' => 'Sila log masuk untuk menonton video premium.'
+                ], 401);
+            }
+
             $hasActiveSubscription = $user->subscriptions()
                 ->where('stripe_status', 'active')
                 ->where(function ($q) { $q->whereNull('ends_at')->orWhere('ends_at', '>', now()); })
