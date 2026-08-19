@@ -549,7 +549,7 @@ export default function InteractivePlayerPage() {
                 >
                   <div className="flex justify-between items-start gap-2">
                     <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
-                      {renderInteractiveText(sub.target_text)}
+                      {sub.target_text}
                     </p>
                     <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
                       {Math.floor(sub.start_time / 60)}:
