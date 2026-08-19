@@ -469,7 +469,7 @@ export default function InteractivePlayerPage() {
                     {sub.source_text}
                   </p>
 
-                  <div className="pt-1.5 flex justify-end opacity-0 group-hover:opacity-100 transition-opacity">
+                  <div className="pt-1.5 flex justify-end lg:opacity-0 lg:group-hover:opacity-100 transition-opacity">
                     <Button
                       size="sm"
                       variant="ghost"
