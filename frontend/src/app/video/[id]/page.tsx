@@ -55,8 +55,10 @@ export default function InteractivePlayerPage() {
   const transcriptRefs = useRef<{ [key: string]: HTMLDivElement | null }>({});
   const transcriptContainerRef = useRef<HTMLDivElement>(null); // scroll ONLY within this
   const playerObjRef = useRef<any>(null); // stable ref to YT player
-  const lastSubtitleRef = useRef<Subtitle | null>(null); // persist last matched subtitle
-  const subtitlesRef = useRef<Subtitle[]>([]); // always-current copy of subtitles for use in closures
+  const lastSubtitleRef = useRef<Subtitle | null>(null);   // persist last matched subtitle
+  const subtitlesRef = useRef<Subtitle[]>([]);              // always-current subtitles for closures
+  const lastKnownTimeRef = useRef<number>(0);               // last good time from getCurrentTime()
+  const lastKnownWallRef = useRef<number>(Date.now());      // wall-clock when time last changed
 
   // Dictionary Hover & Click features
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
@@ -334,19 +336,38 @@ export default function InteractivePlayerPage() {
     // Clear any existing interval first
     if (intervalRef.current) clearInterval(intervalRef.current);
 
-    // Use setInterval 100ms — runs even during buffering/pausing, unlike RAF which stops
+    // Use setInterval 100ms — runs during buffering/pausing, unlike RAF which stops
     intervalRef.current = setInterval(() => {
       const p = playerObjRef.current;
       if (!p?.getCurrentTime) return;
       try {
-        const time: number = p.getCurrentTime();
-        setCurrentTime(time);
+        const rawTime: number = p.getCurrentTime();
+        const nowWall = Date.now();
+
+        // Detect if getCurrentTime() is frozen (unchanged for >3s)
+        // This happens when YouTube buffers on slow internet
+        if (Math.abs(rawTime - lastKnownTimeRef.current) > 0.05) {
+          // Time is moving — update anchors
+          lastKnownTimeRef.current = rawTime;
+          lastKnownWallRef.current = nowWall;
+        }
+
+        // If time frozen but player says PLAYING (state=1), use wall-clock estimate
+        const frozenMs = nowWall - lastKnownWallRef.current;
+        const playerState = p.getPlayerState?.() ?? -1;
+        const isPlaying = playerState === 1;
+        const effectiveTime =
+          frozenMs > 3000 && isPlaying
+            ? lastKnownTimeRef.current + frozenMs / 1000  // wall-clock estimate
+            : rawTime;                                     // use real time
+
+        setCurrentTime(effectiveTime);
 
         // Use subtitlesRef (not videoData state) to avoid stale closure bug
         const subs = subtitlesRef.current;
-        const matched = findSubtitle(time, subs);
+        const matched = findSubtitle(effectiveTime, subs);
 
-        // If nothing found at exact time, keep showing last known subtitle (resilient to gaps)
+        // If nothing found, keep showing last known subtitle (resilient to gaps)
         const toShow = matched ?? lastSubtitleRef.current;
         setActiveSubtitle((prev) => {
           if (prev?.id === toShow?.id) return prev;
