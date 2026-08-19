@@ -56,6 +56,7 @@ export default function InteractivePlayerPage() {
   const transcriptContainerRef = useRef<HTMLDivElement>(null); // scroll ONLY within this
   const playerObjRef = useRef<any>(null); // stable ref to YT player
   const lastSubtitleRef = useRef<Subtitle | null>(null); // persist last matched subtitle
+  const subtitlesRef = useRef<Subtitle[]>([]); // always-current copy of subtitles for use in closures
 
   // Dictionary Hover & Click features
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
@@ -214,6 +215,8 @@ export default function InteractivePlayerPage() {
         const data = await res.json();
         if (data.subtitles && Array.isArray(data.subtitles)) {
           data.subtitles.sort((a: Subtitle, b: Subtitle) => a.start_time - b.start_time);
+          // Update ref immediately so the interval closure always has current data
+          subtitlesRef.current = data.subtitles;
         }
         setVideoData(data);
       } catch (err) {
@@ -339,7 +342,8 @@ export default function InteractivePlayerPage() {
         const time: number = p.getCurrentTime();
         setCurrentTime(time);
 
-        const subs = videoData?.subtitles ?? [];
+        // Use subtitlesRef (not videoData state) to avoid stale closure bug
+        const subs = subtitlesRef.current;
         const matched = findSubtitle(time, subs);
 
         // If nothing found at exact time, keep showing last known subtitle (resilient to gaps)
