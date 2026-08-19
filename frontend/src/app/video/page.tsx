@@ -50,7 +50,7 @@ export default function VideoPage() {
   }, [token]);
 
   return (
-    <div className="min-h-screen bg-background pb-20">
+    <div className="min-h-screen bg-background">
       {/* HEADER */}
       <header className="border-b border-border bg-card px-4 py-4 sticky top-0 z-40">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
@@ -78,7 +78,7 @@ export default function VideoPage() {
         </div>
       </header>
 
-      <main className="max-w-5xl mx-auto px-4 py-6 space-y-8">
+      <main className="max-w-5xl mx-auto px-4 py-6 space-y-8 pb-24 lg:pb-8">
         {/* HERO BANNER - HIGHLIGHT DUAL SUBTITLES */}
         <section className="relative overflow-hidden rounded-2xl bg-gradient-to-r from-amber-500/10 via-orange-500/10 to-transparent border border-amber-500/20 p-6 sm:p-8">
           <div className="absolute right-0 top-0 translate-x-10 -translate-y-10 w-40 h-40 bg-primary/20 blur-3xl rounded-full" />
