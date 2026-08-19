@@ -49,6 +49,7 @@ export default function InteractivePlayerPage() {
   const [currentTime, setCurrentTime] = useState(0);
   const [activeSubtitle, setActiveSubtitle] = useState<Subtitle | null>(null);
   const [addingSentenceId, setAddingSentenceId] = useState<string | null>(null);
+  const [subtitlesLoaded, setSubtitlesLoaded] = useState(false); // true once subtitle data arrives
 
   const playerRef = useRef<HTMLDivElement>(null);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -219,6 +220,7 @@ export default function InteractivePlayerPage() {
           data.subtitles.sort((a: Subtitle, b: Subtitle) => a.start_time - b.start_time);
           // Update ref immediately so the interval closure always has current data
           subtitlesRef.current = data.subtitles;
+          setSubtitlesLoaded(true); // unlock player overlay
         }
         setVideoData(data);
       } catch (err) {
@@ -281,8 +283,16 @@ export default function InteractivePlayerPage() {
         },
         onStateChange: (event: any) => {
           playerObjRef.current = event.target;
-          // Keep tracking alive regardless of state (buffering, paused, playing)
-          // Restart interval if not already running
+          const state = event.data;
+          // When playback resumes after buffering, reset wall-clock anchors
+          // so estimation starts fresh from the real current position
+          if (state === window.YT?.PlayerState?.PLAYING) {
+            const freshTime = event.target.getCurrentTime?.() ?? 0;
+            lastKnownTimeRef.current = freshTime;
+            lastKnownWallRef.current = Date.now();
+            lastSubtitleRef.current = null; // clear sticky to force fresh match
+          }
+          // Keep tracking alive regardless of state
           if (!intervalRef.current) {
             startTrackingTime(event.target);
           }
@@ -367,11 +377,14 @@ export default function InteractivePlayerPage() {
         const subs = subtitlesRef.current;
         const matched = findSubtitle(effectiveTime, subs);
 
-        // If nothing found, keep showing last known subtitle (resilient to gaps)
-        const toShow = matched ?? lastSubtitleRef.current;
+        // If nothing found, check if we're far ahead of lastSubtitleRef
+        // (prevents sticky subtitle showing wrong entry across large gaps)
+        const lastEnd = lastSubtitleRef.current?.end_time ?? 0;
+        const tooFarAhead = effectiveTime > lastEnd + 8; // 8-second tolerance
+        const toShow = matched ?? (tooFarAhead ? null : lastSubtitleRef.current);
         setActiveSubtitle((prev) => {
           if (prev?.id === toShow?.id) return prev;
-          return toShow;
+          return toShow ?? null;
         });
 
         if (matched) lastSubtitleRef.current = matched;
@@ -475,6 +488,14 @@ export default function InteractivePlayerPage() {
           {/* VIDEO FRAME */}
           <div ref={playerRef} className="relative aspect-video w-full rounded-xl overflow-hidden bg-black border border-border">
             <div id="youtube-player-iframe" className="w-full h-full" />
+            {/* Loading overlay — prevents playback confusion before subtitle data is ready */}
+            {!subtitlesLoaded && (
+              <div className="absolute inset-0 bg-black/80 flex flex-col items-center justify-center gap-3 z-20 rounded-xl">
+                <Loader2 className="w-10 h-10 animate-spin text-primary" />
+                <p className="text-white text-sm font-semibold">Memuatkan sari kata...</p>
+                <p className="text-white/50 text-xs">Sila tunggu sebentar</p>
+              </div>
+            )}
           </div>
 
           {/* DUAL SUBTITLE DISPLAY — fixed height so the video never jumps. Multi-line is fully supported on mobile and will fit within 150px without shifting layout. */}
