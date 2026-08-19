@@ -51,10 +51,11 @@ export default function InteractivePlayerPage() {
   const [addingSentenceId, setAddingSentenceId] = useState<string | null>(null);
 
   const playerRef = useRef<HTMLDivElement>(null);
-  const rafRef = useRef<number | null>(null);
+  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const transcriptRefs = useRef<{ [key: string]: HTMLDivElement | null }>({});
   const transcriptContainerRef = useRef<HTMLDivElement>(null); // scroll ONLY within this
   const playerObjRef = useRef<any>(null); // stable ref to YT player
+  const lastSubtitleRef = useRef<Subtitle | null>(null); // persist last matched subtitle
 
   // Dictionary Hover & Click features
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
@@ -166,7 +167,7 @@ export default function InteractivePlayerPage() {
       if (isWord) {
         const wordClean = token.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, "");
         const punctuation = token.slice(wordClean.length);
-        
+
         return (
           <span key={i} className="inline-block">
             <span
@@ -211,6 +212,9 @@ export default function InteractivePlayerPage() {
           return;
         }
         const data = await res.json();
+        if (data.subtitles && Array.isArray(data.subtitles)) {
+          data.subtitles.sort((a: Subtitle, b: Subtitle) => a.start_time - b.start_time);
+        }
         setVideoData(data);
       } catch (err) {
         setError("Ralat menyambung ke pelayan.");
@@ -245,7 +249,7 @@ export default function InteractivePlayerPage() {
     }
 
     return () => {
-      if (rafRef.current) cancelAnimationFrame(rafRef.current);
+      if (intervalRef.current) clearInterval(intervalRef.current);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [videoData]);
@@ -266,31 +270,57 @@ export default function InteractivePlayerPage() {
       events: {
         onReady: (event: any) => {
           setPlayer(event.target);
+          playerObjRef.current = event.target;
+          // Start always-on tracking immediately on player ready
+          startTrackingTime(event.target);
         },
         onStateChange: (event: any) => {
-          // Play state is 1
-          if (event.data === window.YT.PlayerState.PLAYING) {
+          playerObjRef.current = event.target;
+          // Keep tracking alive regardless of state (buffering, paused, playing)
+          // Restart interval if not already running
+          if (!intervalRef.current) {
             startTrackingTime(event.target);
-          } else {
-            stopTrackingTime();
           }
         },
       },
     });
   };
 
-  // Binary search: find subtitle active at given time (O log n)
+  const syncSubtitleAtCurrentTime = (activePlayer: any) => {
+    if (!activePlayer?.getCurrentTime) return;
+    try {
+      const time: number = activePlayer.getCurrentTime();
+      setCurrentTime(time);
+      const subs = videoData?.subtitles ?? [];
+      const matched = findSubtitle(time, subs);
+      setActiveSubtitle((prev) => {
+        if (prev?.id === matched?.id) return prev;
+        return matched;
+      });
+    } catch (e) {
+      // ignore
+    }
+  };
+
+  // Resilient subtitle matching with gap-bridging (eliminates flickering between speech pauses)
   const findSubtitle = (time: number, subs: Subtitle[]): Subtitle | null => {
-    let lo = 0, hi = subs.length - 1;
-    while (lo <= hi) {
-      const mid = (lo + hi) >> 1;
-      const s = subs[mid];
-      if (time < s.start_time) {
-        hi = mid - 1;
-      } else if (time > s.end_time) {
-        lo = mid + 1;
-      } else {
-        return s; // time is within [start_time, end_time]
+    if (!subs || !subs.length) return null;
+
+    for (let i = 0; i < subs.length; i++) {
+      const s = subs[i];
+      const next = subs[i + 1];
+
+      // Exact match within subtitle active window
+      if (time >= s.start_time && time <= s.end_time) {
+        return s;
+      }
+
+      // Smooth gap bridging: If between current end and next start, keep subtitle for short pauses (< 1.5s)
+      if (next && time > s.end_time && time < next.start_time) {
+        const gap = next.start_time - s.end_time;
+        if (gap <= 1.5 || time <= s.end_time + 1.2) {
+          return s;
+        }
       }
     }
     return null;
@@ -298,31 +328,38 @@ export default function InteractivePlayerPage() {
 
   const startTrackingTime = (activePlayer: any) => {
     playerObjRef.current = activePlayer;
-    if (rafRef.current) cancelAnimationFrame(rafRef.current);
+    // Clear any existing interval first
+    if (intervalRef.current) clearInterval(intervalRef.current);
 
-    const tick = () => {
-      if (playerObjRef.current?.getCurrentTime) {
-        const time: number = playerObjRef.current.getCurrentTime();
+    // Use setInterval 100ms — runs even during buffering/pausing, unlike RAF which stops
+    intervalRef.current = setInterval(() => {
+      const p = playerObjRef.current;
+      if (!p?.getCurrentTime) return;
+      try {
+        const time: number = p.getCurrentTime();
         setCurrentTime(time);
 
         const subs = videoData?.subtitles ?? [];
         const matched = findSubtitle(time, subs);
-        setActiveSubtitle((prev) => {
-          // Only trigger re-render when subtitle actually changes
-          if (prev?.id === matched?.id) return prev;
-          return matched;
-        });
-      }
-      rafRef.current = requestAnimationFrame(tick);
-    };
 
-    rafRef.current = requestAnimationFrame(tick);
+        // If nothing found at exact time, keep showing last known subtitle (resilient to gaps)
+        const toShow = matched ?? lastSubtitleRef.current;
+        setActiveSubtitle((prev) => {
+          if (prev?.id === toShow?.id) return prev;
+          return toShow;
+        });
+
+        if (matched) lastSubtitleRef.current = matched;
+      } catch (e) {
+        // swallow errors from YT player during buffering
+      }
+    }, 100);
   };
 
   const stopTrackingTime = () => {
-    if (rafRef.current) {
-      cancelAnimationFrame(rafRef.current);
-      rafRef.current = null;
+    if (intervalRef.current) {
+      clearInterval(intervalRef.current);
+      intervalRef.current = null;
     }
   };
 
@@ -450,11 +487,10 @@ export default function InteractivePlayerPage() {
                     transcriptRefs.current[sub.id] = el;
                   }}
                   onClick={() => player?.seekTo(sub.start_time, true)}
-                  className={`p-3 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative ${
-                    isActive
+                  className={`p-3 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative ${isActive
                       ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02]"
                       : "border-border hover:border-muted-foreground/30 hover:bg-muted/50"
-                  }`}
+                    }`}
                 >
                   <div className="flex justify-between items-start gap-2">
                     <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
