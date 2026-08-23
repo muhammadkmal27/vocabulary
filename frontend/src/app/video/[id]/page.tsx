@@ -141,16 +141,14 @@ export default function InteractivePlayerPage() {
     // 2. Fetch Kamus Pantas
     try {
       const res = await fetch(
-        `https://api.mymemory.translated.net/get?q=${encodeURIComponent(cleanWord)}&langpair=en|ms`
+        `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ms&dt=t&q=${encodeURIComponent(cleanWord)}`
       );
-      const data = await res.json();
-      if (data?.responseData?.translatedText) {
-        let trans = data.responseData.translatedText.toLowerCase();
-        if (trans.includes("mymemory") || trans.length > 50) {
-          trans = "makna perkataan";
-        }
-        setTranslationCache((prev) => ({ ...prev, [cleanWord]: trans }));
-        setWordTranslation(trans);
+      if (res.ok) {
+        const json = await res.json();
+        const translatedText = json?.[0]?.[0]?.[0] || "Terjemahan tidak dijumpai";
+        const cleanTranslation = translatedText.toLowerCase();
+        setTranslationCache((prev) => ({ ...prev, [cleanWord]: cleanTranslation }));
+        setWordTranslation(cleanTranslation);
       } else {
         setWordTranslation("Tiada terjemahan");
       }
@@ -165,6 +163,13 @@ export default function InteractivePlayerPage() {
     setHoveredWord(null);
     setWordTranslation("");
     setPopupPos(null);
+
+    // Resume video playback when user leaves word / unhover
+    if (playerObjRef.current && typeof playerObjRef.current.playVideo === "function") {
+      playerObjRef.current.playVideo();
+    } else if (player && typeof player.playVideo === "function") {
+      player.playVideo();
+    }
   };
 
   // Helper to render interactive words (hover & click)
@@ -180,6 +185,7 @@ export default function InteractivePlayerPage() {
           className="cursor-pointer hover:bg-amber-500/20 hover:text-amber-300 rounded px-0.5 transition-colors border-b border-dashed border-amber-500/40"
           onClick={(e) => handleWordHoverOrClick(chunk, e)}
           onMouseEnter={(e) => handleWordHoverOrClick(chunk, e)}
+          onMouseLeave={handleWordLeave}
           title="Klik atau layang untuk lihat terjemahan"
         >
           {chunk}
