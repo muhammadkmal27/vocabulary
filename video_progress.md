@@ -22,7 +22,7 @@
 | 2 | ✅ SIAP | qNsq7k8qJPQ | I'm Not Fine… Let's Talk About Feelings in English |
 | 3 | ✅ SIAP | FegqTguAP4k | Easy English in Beijing \| Real-Life Listening Practice |
 | 4 | ✅ SIAP | mZ4W5zrMEzQ | Follow Along While I Talk to You Like My Best Friend in Clear Natural English |
-| 5 | ⬜ BELUM | E0bdcoSj9Q8 | LEARN ENGLISH While Grocery Shopping \| Real-Life Vocabulary Practice |
+| 5 | ✅ SIAP | E0bdcoSj9Q8 | LEARN ENGLISH While Grocery Shopping \| Real-Life Vocabulary Practice |
 | 6 | ⬜ BELUM | OpJp5P4J9ts | LEARN ENGLISH While You Sleep \| 10+ Hours of Slow English Listening |
 | 7 | ⬜ BELUM | Iu1xIUCKV9M | What's Your Real ENGLISH Level? Take This A1–C2 Test |
 | 8 | ⬜ BELUM | szlo5QxdNZE | LEARN ENGLISH Like You're Talking to Your Native Speaker Best Friend |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 4/111 selesai** — Last updated: Video #3 (FegqTguAP4k, 499 BM subtitles scanned via Admin) & Video #4 (mZ4W5zrMEzQ, 597 BM subtitles) ✅
+**Progress: 5/111 selesai** — Last updated: Video #5 (E0bdcoSj9Q8, 480 BM subtitles) ✅
