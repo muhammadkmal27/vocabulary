@@ -40,4 +40,9 @@ class YoutubeVideo extends Model
     {
         return $this->hasMany(VideoSubtitle::class, 'video_id')->orderBy('order');
     }
+
+    public function progress()
+    {
+        return $this->hasMany(UserVideoProgress::class, 'video_id');
+    }
 }

@@ -53,6 +53,8 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/quiz/{sessionId}/reset', [\App\Http\Controllers\Api\QuizController::class, 'reset']);
     Route::get('/quiz/{sessionId}', [\App\Http\Controllers\Api\QuizController::class, 'show']);
     Route::get('/review/{languageId}/{levelId}', [\App\Http\Controllers\Api\QuizController::class, 'review']);
+    Route::post('/videos/{id}/progress', [\App\Http\Controllers\Api\VideoController::class, 'updateProgress']);
+    Route::post('/videos/{id}/toggle-complete', [\App\Http\Controllers\Api\VideoController::class, 'toggleComplete']);
 });
 
 // Coupon — Rate limited (Rule #21)

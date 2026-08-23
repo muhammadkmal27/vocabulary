@@ -56,6 +56,11 @@ class User extends Authenticatable
         return $this->hasMany(QuizSession::class);
     }
 
+    public function videoProgress()
+    {
+        return $this->hasMany(UserVideoProgress::class);
+    }
+
     public function isAdmin(): bool
     {
         return $this->role === UserRole::Admin;
