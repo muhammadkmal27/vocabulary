@@ -26,7 +26,7 @@
 | 6 | ⏳ TANGGUH (10 Jam) | OpJp5P4J9ts | LEARN ENGLISH While You Sleep \| 10+ Hours of Slow English Listening |
 | 7 | ✅ SIAP | Iu1xIUCKV9M | What's Your Real ENGLISH Level? Take This A1–C2 Test |
 | 8 | ✅ SIAP | szlo5QxdNZE | LEARN ENGLISH Like You're Talking to Your Native Speaker Best Friend |
-| 9 | ⬜ BELUM | mworzi0jO_Y | Listen and Speak With a Natural Street Conversation |
+| 9 | ✅ SIAP | mworzi0jO_Y | Listen and Speak With a Natural Street Conversation |
 | 10 | ⬜ BELUM | Z2CZ8mkECpU | Slow English Podcast #2 \| Eating, Talking, and Learning Natural English |
 | 11 | ⬜ BELUM | 1hBMy6NRd98 | LEARN 50 English Action Verbs Through Real Actions |
 | 12 | ⬜ BELUM | zx6lF1TL_xI | Real English Listening Practice in Vietnam \| HCMC City Vlog |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 7/111 selesai** — Last updated: Video #8 (szlo5QxdNZE, 479 BM subtitles) ✅
+**Progress: 8/111 selesai** — Last updated: Video #9 (mworzi0jO_Y, 573 BM subtitles) ✅
