@@ -23,8 +23,8 @@
 | 3 | ✅ SIAP | FegqTguAP4k | Easy English in Beijing \| Real-Life Listening Practice |
 | 4 | ✅ SIAP | mZ4W5zrMEzQ | Follow Along While I Talk to You Like My Best Friend in Clear Natural English |
 | 5 | ✅ SIAP | E0bdcoSj9Q8 | LEARN ENGLISH While Grocery Shopping \| Real-Life Vocabulary Practice |
-| 6 | ⬜ BELUM | OpJp5P4J9ts | LEARN ENGLISH While You Sleep \| 10+ Hours of Slow English Listening |
-| 7 | ⬜ BELUM | Iu1xIUCKV9M | What's Your Real ENGLISH Level? Take This A1–C2 Test |
+| 6 | ⏳ TANGGUH (10 Jam) | OpJp5P4J9ts | LEARN ENGLISH While You Sleep \| 10+ Hours of Slow English Listening |
+| 7 | ✅ SIAP | Iu1xIUCKV9M | What's Your Real ENGLISH Level? Take This A1–C2 Test |
 | 8 | ⬜ BELUM | szlo5QxdNZE | LEARN ENGLISH Like You're Talking to Your Native Speaker Best Friend |
 | 9 | ⬜ BELUM | mworzi0jO_Y | Listen and Speak With a Natural Street Conversation |
 | 10 | ⬜ BELUM | Z2CZ8mkECpU | Slow English Podcast #2 \| Eating, Talking, and Learning Natural English |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 5/111 selesai** — Last updated: Video #5 (E0bdcoSj9Q8, 480 BM subtitles) ✅
+**Progress: 6/111 selesai** — Last updated: Video #7 (Iu1xIUCKV9M, 225 BM subtitles) ✅
