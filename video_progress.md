@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 4/111 selesai** — Last updated: Video #4 (mZ4W5zrMEzQ, 597 BM subtitles) ✅
+**Progress: 4/111 selesai** — Last updated: Video #3 (FegqTguAP4k, 499 BM subtitles scanned via Admin) & Video #4 (mZ4W5zrMEzQ, 597 BM subtitles) ✅
