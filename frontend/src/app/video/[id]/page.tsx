@@ -260,39 +260,95 @@ export default function InteractivePlayerPage() {
 
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
+      if (playerObjRef.current?.getCurrentTime && token && videoId) {
+        try {
+          const curTime = playerObjRef.current.getCurrentTime();
+          const duration = playerObjRef.current.getDuration ? playerObjRef.current.getDuration() : 0;
+          if (curTime > 0 && duration > 0) {
+            fetch(`/api/videos/${videoId}/progress`, {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+                Accept: "application/json",
+                Authorization: `Bearer ${token}`,
+              },
+              body: JSON.stringify({
+                last_watched_seconds: Math.round(curTime * 100) / 100,
+                duration_seconds: Math.round(duration * 100) / 100,
+              }),
+              keepalive: true,
+            }).catch(() => {});
+          }
+        } catch {}
+      }
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [videoData]);
+  }, [videoData, token, videoId]);
+
+  const hasInitialSeekDoneRef = useRef<boolean>(false);     // guarantee seek once
 
   const initPlayer = () => {
     if (!videoData) return;
+
+    const lastWatched = Math.floor(videoData.user_progress?.last_watched_seconds || 0);
+    const shouldResume = lastWatched > 5 && !videoData.user_progress?.is_completed;
+    const startSeconds = shouldResume ? lastWatched : 0;
+
+    const playerVarsObj: any = {
+      playsinline: 1,
+      rel: 0,
+      modestbranding: 1,
+      controls: 1,
+    };
+    if (startSeconds > 0) {
+      playerVarsObj.start = startSeconds;
+    }
 
     const ytPlayer = new window.YT.Player("youtube-player-iframe", {
       height: "100%",
       width: "100%",
       videoId: videoData.youtube_video_id,
-      playerVars: {
-        playsinline: 1,
-        rel: 0,
-        modestbranding: 1,
-        controls: 1,
-      },
+      playerVars: playerVarsObj,
       events: {
         onReady: (event: any) => {
           setPlayer(event.target);
           playerObjRef.current = event.target;
           setPlayerReady(true);
 
-          // Resume watching from last position if user previously watched >5s and not completed
-          const lastWatched = videoData.user_progress?.last_watched_seconds || 0;
-          if (lastWatched > 5 && !videoData.user_progress?.is_completed) {
-            event.target.seekTo(lastWatched, true);
+          if (shouldResume) {
+            try {
+              event.target.seekTo(startSeconds, true);
+              const mins = Math.floor(startSeconds / 60);
+              const secs = String(startSeconds % 60).padStart(2, "0");
+              toast(`Menyambung tontonan dari minit ${mins}:${secs}`, "info");
+            } catch {}
           }
 
           startTrackingTime(event.target);
         },
         onStateChange: (event: any) => {
           playerObjRef.current = event.target;
+
+          // Double check seek on first PLAYING (1) or BUFFERING (3)
+          if (shouldResume && !hasInitialSeekDoneRef.current && (event.data === 1 || event.data === 3)) {
+            hasInitialSeekDoneRef.current = true;
+            try {
+              const cur = event.target.getCurrentTime();
+              if (cur < 3 && startSeconds > 5) {
+                event.target.seekTo(startSeconds, true);
+              }
+            } catch {}
+          }
+
+          // Save progress immediately on PAUSED (2)
+          if (event.data === 2 && event.target?.getCurrentTime) {
+            try {
+              const curTime = event.target.getCurrentTime();
+              const duration = event.target.getDuration ? event.target.getDuration() : 0;
+              syncProgressToBackend(curTime, duration);
+            } catch {}
+          }
+
           if (!intervalRef.current) {
             startTrackingTime(event.target);
           }
