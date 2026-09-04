@@ -501,7 +501,11 @@ export default function InteractivePlayerPage() {
       const containerRect = container.getBoundingClientRect();
       const elRect = el.getBoundingClientRect();
       const relativeTop = elRect.top - containerRect.top + container.scrollTop;
-      const targetScroll = relativeTop - container.clientHeight / 2 + elRect.height / 2;
+      const isMobile = typeof window !== "undefined" && window.innerWidth < 1024;
+      const targetScroll = isMobile
+        ? relativeTop - 16
+        : relativeTop - container.clientHeight / 2 + elRect.height / 2;
+
       container.scrollTo({
         top: Math.max(0, targetScroll),
         behavior: "smooth",
@@ -510,38 +514,8 @@ export default function InteractivePlayerPage() {
   }, [activeSubtitle]);
 
   // Hafal Ayat Action
-  const handleAddSentence = async (sub: Subtitle) => {
-    if (!token) {
-      toast("Sila log masuk untuk menghafal ayat.", "error");
-      return;
-    }
-
-    setAddingSentenceId(sub.id);
-    try {
-      const res = await fetch("/api/admin/sentences", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json",
-          Authorization: `Bearer ${token}`,
-        },
-        body: JSON.stringify({
-          source_text: sub.target_text,
-          target_text: sub.source_text,
-          level_id: "019e73b2-658d-72aa-9ff7-3bc556487e45",
-        }),
-      });
-
-      if (res.ok) {
-        toast("Ayat berjaya disimpan ke senarai hafalan!", "success");
-      } else {
-        toast("Ayat ini sudah ada atau ralat berlaku.", "error");
-      }
-    } catch {
-      toast("Ralat menyambung ke pelayan.", "error");
-    } finally {
-      setAddingSentenceId(null);
-    }
+  const handleAddSentence = (sub: Subtitle) => {
+    toast("Ciri Hafal Ayat dari video ini akan datang tidak lama lagi!", "info");
   };
 
   if (loading || authLoading) {
@@ -724,13 +698,8 @@ export default function InteractivePlayerPage() {
                         e.stopPropagation();
                         handleAddSentence(sub);
                       }}
-                      disabled={addingSentenceId === sub.id}
                     >
-                      {addingSentenceId === sub.id ? (
-                        <Loader2 className="w-3 h-3 animate-spin" />
-                      ) : (
-                        <Plus className="w-3 h-3" />
-                      )}
+                      <Plus className="w-3 h-3" />
                       Hafal Ayat
                     </Button>
                   </div>
