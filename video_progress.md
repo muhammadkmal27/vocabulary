@@ -29,7 +29,7 @@
 | 9 | ✅ SIAP | mworzi0jO_Y | Listen and Speak With a Natural Street Conversation |
 | 10 | ✅ SIAP | Z2CZ8mkECpU | Slow English Podcast #2 \| Eating, Talking, and Learning Natural English |
 | 11 | ✅ SIAP | 1hBMy6NRd98 | LEARN 50 English Action Verbs Through Real Actions |
-| 12 | ⬜ BELUM | zx6lF1TL_xI | Real English Listening Practice in Vietnam \| HCMC City Vlog |
+| 12 | ✅ SIAP | zx6lF1TL_xI | Real English Listening Practice in Vietnam \| HCMC City Vlog |
 | 13 | ⬜ BELUM | Zwo8vnqkQeE | LEARN ENGLISH While Walking Outside \| Comprehensible Input |
 | 14 | ⬜ BELUM | _ncGyUSRtWo | Learn English Naturally With This Easy Vlog \| Comprehensible Input |
 | 15 | ⬜ BELUM | vVFL3k361A0 | Learn English Naturally with Me! \| Comprehensible Input |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 10/111 selesai** — Last updated: Video #11 (1hBMy6NRd98, 623 BM subtitles) ✅
+**Progress: 11/111 selesai** — Last updated: Video #12 (zx6lF1TL_xI, 304 BM subtitles) ✅
