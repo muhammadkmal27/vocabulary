@@ -37,7 +37,7 @@
 | 17 | ✅ SIAP | ryHUL_7aAew | Improve Your English Listening With Real Life Comprehensible Input |
 | 18 | ✅ SIAP | X3DKySerzZQ | A Day Shopping in English \| Comprehensible Input Vlog |
 | 19 | ✅ SIAP | rzFS6eqyepw | LEARN ENGLISH the Easy Way (Comprehensible input) |
-| 20 | ⬜ BELUM | uUz_giBtLYA | LEARN ENGLISH Comprehensible Input Vlog in Vietnam |
+| 20 | ✅ SIAP | uUz_giBtLYA | LEARN ENGLISH Comprehensible Input Vlog in Vietnam |
 | 21 | ⬜ BELUM | md8u7i__omo | Learn English NATURALLY With My Daily Routine |
 | 22 | ⬜ BELUM | tvJEkq8IORg | LEARN ENGLISH \| Think in English With This Easy Vlog |
 | 23 | ⬜ BELUM | EoOkWxc0-j0 | Learn English Naturally With This Easy Vlog |
