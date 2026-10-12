@@ -42,8 +42,8 @@
 | 22 | ✅ SIAP | tvJEkq8IORg | LEARN ENGLISH \| Think in English With This Easy Vlog |
 | 23 | ✅ SIAP | EoOkWxc0-j0 | Learn English Naturally With This Easy Vlog |
 | 24 | ✅ SIAP | 9A5220m-u2c | A Day in Indonesia \| Comprehensible Input Vlog #73 |
-| 25 | ⬜ BELUM | t6_YtVxvlZs | 7 Hours of Easy English Listening Practice |
-| 26 | ⬜ BELUM | Ia7BLZgz9ho | Start Thinking in English With This Vlog \| Vlog #72 |
+| 25 | ⏭️ DILANGKAU | t6_YtVxvlZs | 7 Hours of Easy English Listening Practice (Kompilasi 7 Jam) |
+| 26 | ✅ SIAP | Ia7BLZgz9ho | Start Thinking in English With This Vlog \| Vlog #72 |
 | 27 | ⬜ BELUM | H6qiRTJZSu0 | Learn English in Nature \| Think in English |
 | 28 | ⬜ BELUM | dgQZx_ctsYc | Learn 21 English Slang Words Native Speakers ACTUALLY Use |
 | 29 | ⬜ BELUM | 9ledjiOXnvo | Learn English in Nature With My Mom |
