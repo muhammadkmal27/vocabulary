@@ -51,7 +51,7 @@
 | 31 | ✅ SIAP | RRf3zJR872g | City Streets English Practice \| Pronunciation & Vocabulary Vlog |
 | 32 | ✅ SIAP | 8wCOUqByLm0 | Slow English Podcast \| Natural English Listening Practice |
 | 33 | ✅ SIAP | wtPMWMB1F20 | Learn English Naturally with this Comprehensible Input Vlog |
-| 34 | ⬜ BELUM | IbNNQF-BsJg | ENGLISH Podcast for Thinking in English \| Listen and Practice |
+| 34 | ✅ SIAP | IbNNQF-BsJg | ENGLISH Podcast for Thinking in English \| Listen and Practice |
 | 35 | ⬜ BELUM | DZP5ZL-JxSQ | Speak English Naturally With Me \| Easy Comprehensible Input Vlog |
 | 36 | ⬜ BELUM | X5pi6OSwsEM | Slow English Podcast \| Speak English With Us While Trying Indonesian Food |
 | 37 | ⬜ BELUM | 8BZG12uRcMc | How to Start Thinking in English \| A1-B2 Beginner Practice |
