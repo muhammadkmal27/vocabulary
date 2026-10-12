@@ -46,7 +46,7 @@
 | 26 | ✅ SIAP | Ia7BLZgz9ho | Start Thinking in English With This Vlog \| Vlog #72 |
 | 27 | ✅ SIAP | H6qiRTJZSu0 | Learn English in Nature \| Think in English |
 | 28 | ✅ SIAP | dgQZx_ctsYc | Learn 21 English Slang Words Native Speakers ACTUALLY Use |
-| 29 | ⬜ BELUM | 9ledjiOXnvo | Learn English in Nature With My Mom |
+| 29 | ✅ SIAP | 9ledjiOXnvo | Learn English in Nature With My Mom |
 | 30 | ⬜ BELUM | -a0wUa0sF3w | English Speaking Practice - Speak with me! (Shadowing Method) |
 | 31 | ⬜ BELUM | RRf3zJR872g | City Streets English Practice \| Pronunciation & Vocabulary Vlog |
 | 32 | ⬜ BELUM | 8wCOUqByLm0 | Slow English Podcast \| Natural English Listening Practice |
