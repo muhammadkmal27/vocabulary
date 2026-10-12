@@ -36,7 +36,7 @@
 | 16 | ✅ SIAP | dcgI8GM-XFc | Practice your English pronunciation with me! |
 | 17 | ✅ SIAP | ryHUL_7aAew | Improve Your English Listening With Real Life Comprehensible Input |
 | 18 | ✅ SIAP | X3DKySerzZQ | A Day Shopping in English \| Comprehensible Input Vlog |
-| 19 | ⬜ BELUM | rzFS6eqyepw | LEARN ENGLISH the Easy Way (Comprehensible input) |
+| 19 | ✅ SIAP | rzFS6eqyepw | LEARN ENGLISH the Easy Way (Comprehensible input) |
 | 20 | ⬜ BELUM | uUz_giBtLYA | LEARN ENGLISH Comprehensible Input Vlog in Vietnam |
 | 21 | ⬜ BELUM | md8u7i__omo | Learn English NATURALLY With My Daily Routine |
 | 22 | ⬜ BELUM | tvJEkq8IORg | LEARN ENGLISH \| Think in English With This Easy Vlog |
