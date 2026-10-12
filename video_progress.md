@@ -56,7 +56,7 @@
 | 36 | ✅ SIAP | X5pi6OSwsEM | Slow English Podcast \| Speak English With Us While Trying Indonesian Food |
 | 37 | ✅ SIAP | 8BZG12uRcMc | How to Start Thinking in English \| A1-B2 Beginner Practice |
 | 38 | ✅ SIAP | svquts376lo | How to ACTUALLY Start Speaking English and Sound like a Native |
-| 39 | ⬜ BELUM | xmsXFQxWcG8 | A Day in Indonesia \| Comprehensible Input Vlog |
+| 39 | ✅ SIAP | xmsXFQxWcG8 | A Day in Indonesia \| Comprehensible Input Vlog |
 | 40 | ⬜ BELUM | e0H-nCR3ypo | Real-Life English Stories From Native Speakers \| A1–B2 Listening Practice |
 | 41 | ⬜ BELUM | YKdnI4KjsCY | 25 Most Useful English Questions & Answers for Beginners |
 | 42 | ⬜ BELUM | ayPVR7lnIP0 | 6 Hours of Easy English Comprehensible Input \| Think in English |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 36/111 selesai** — Last updated: Video #38 (svquts376lo, 429 BM subtitles) ✅
+**Progress: 37/111 selesai** — Last updated: Video #39 (xmsXFQxWcG8, 464 BM subtitles) ✅
