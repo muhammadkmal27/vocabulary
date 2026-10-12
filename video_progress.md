@@ -58,7 +58,7 @@
 | 38 | ✅ SIAP | svquts376lo | How to ACTUALLY Start Speaking English and Sound like a Native |
 | 39 | ✅ SIAP | xmsXFQxWcG8 | A Day in Indonesia \| Comprehensible Input Vlog |
 | 40 | ✅ SIAP | e0H-nCR3ypo | Real-Life English Stories From Native Speakers \| A1–B2 Listening Practice |
-| 41 | ⬜ BELUM | YKdnI4KjsCY | 25 Most Useful English Questions & Answers for Beginners |
+| 41 | ✅ SIAP | YKdnI4KjsCY | 25 Most Useful English Questions & Answers for Beginners |
 | 42 | ⬜ BELUM | ayPVR7lnIP0 | 6 Hours of Easy English Comprehensible Input \| Think in English |
 | 43 | ⬜ BELUM | MVw7tKj-keg | Shadow Real English With Me \| Easy Speaking Practice about my Daily Life |
 | 44 | ⬜ BELUM | p8MgSH-0G8c | Stop Saying This When You Introduce Yourself (A1-B2) |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 38/111 selesai** — Last updated: Video #40 (e0H-nCR3ypo, 243 BM subtitles) ✅
+**Progress: 39/111 selesai** — Last updated: Video #41 (YKdnI4KjsCY, 161 BM subtitles) ✅
