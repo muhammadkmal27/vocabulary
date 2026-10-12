@@ -53,7 +53,7 @@
 | 33 | ✅ SIAP | wtPMWMB1F20 | Learn English Naturally with this Comprehensible Input Vlog |
 | 34 | ✅ SIAP | IbNNQF-BsJg | ENGLISH Podcast for Thinking in English \| Listen and Practice |
 | 35 | ✅ SIAP | DZP5ZL-JxSQ | Speak English Naturally With Me \| Easy Comprehensible Input Vlog |
-| 36 | ⬜ BELUM | X5pi6OSwsEM | Slow English Podcast \| Speak English With Us While Trying Indonesian Food |
+| 36 | ✅ SIAP | X5pi6OSwsEM | Slow English Podcast \| Speak English With Us While Trying Indonesian Food |
 | 37 | ⬜ BELUM | 8BZG12uRcMc | How to Start Thinking in English \| A1-B2 Beginner Practice |
 | 38 | ⬜ BELUM | svquts376lo | How to ACTUALLY Start Speaking English and Sound like a Native |
 | 39 | ⬜ BELUM | xmsXFQxWcG8 | A Day in Indonesia \| Comprehensible Input Vlog |
