@@ -49,7 +49,7 @@
 | 29 | ✅ SIAP | 9ledjiOXnvo | Learn English in Nature With My Mom |
 | 30 | ✅ SIAP | -a0wUa0sF3w | English Speaking Practice - Speak with me! (Shadowing Method) |
 | 31 | ✅ SIAP | RRf3zJR872g | City Streets English Practice \| Pronunciation & Vocabulary Vlog |
-| 32 | ⬜ BELUM | 8wCOUqByLm0 | Slow English Podcast \| Natural English Listening Practice |
+| 32 | ✅ SIAP | 8wCOUqByLm0 | Slow English Podcast \| Natural English Listening Practice |
 | 33 | ⬜ BELUM | wtPMWMB1F20 | Learn English Naturally with this Comprehensible Input Vlog |
 | 34 | ⬜ BELUM | IbNNQF-BsJg | ENGLISH Podcast for Thinking in English \| Listen and Practice |
 | 35 | ⬜ BELUM | DZP5ZL-JxSQ | Speak English Naturally With Me \| Easy Comprehensible Input Vlog |
