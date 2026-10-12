@@ -61,7 +61,7 @@
 | 41 | ✅ SIAP | YKdnI4KjsCY | 25 Most Useful English Questions & Answers for Beginners |
 | 42 | ⏭️ DILANGKAU | ayPVR7lnIP0 | 6 Hours of Easy English Comprehensible Input \| Think in English (Kompilasi 6 Jam - Tiada Subtitle) |
 | 43 | ✅ SIAP | MVw7tKj-keg | Shadow Real English With Me \| Easy Speaking Practice about my Daily Life |
-| 44 | ⬜ BELUM | p8MgSH-0G8c | Stop Saying This When You Introduce Yourself (A1-B2) |
+| 44 | ✅ SIAP | p8MgSH-0G8c | Stop Saying This When You Introduce Yourself (A1-B2) |
 | 45 | ⬜ BELUM | JcqSO5Ofnsc | Start Thinking in English (practice) \| Easy Listening |
 | 46 | ⬜ BELUM | u3883nez48w | LEARN ENGLISH Practice Thinking in English While Shopping |
 | 47 | ⬜ BELUM | olIjQhtDKLY | Think in English for Beginners \| Easy Listening Practice |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 40/111 selesai** — Last updated: Video #43 (MVw7tKj-keg, 325 BM subtitles) ✅
+**Progress: 41/111 selesai** — Last updated: Video #44 (p8MgSH-0G8c, 311 BM subtitles) ✅
