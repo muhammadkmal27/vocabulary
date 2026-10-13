@@ -67,7 +67,7 @@
 | 47 | ✅ SIAP | olIjQhtDKLY | Think in English for Beginners \| Easy Listening Practice |
 | 48 | ✅ SIAP | VtWeP6InJGk | Think in English Faster \| Intermediate/Advanced |
 | 49 | ✅ SIAP | cqSSuYojAfY | Speak With Me and Shadow to Improve Your English |
-| 50 | ⬜ BELUM | u3K80xEDj68 | English Shadowing \| Copy Me and Improve Your Speaking |
+| 50 | ✅ SIAP | u3K80xEDj68 | English Shadowing \| Copy Me and Improve Your Speaking |
 | 51 | ⬜ BELUM | LnWGGJH7Qf0 | Easy English Shadowing \| Copy Me, Speak More Clearly |
 | 52 | ⬜ BELUM | hsUkTQ1YTOQ | 4+ Hours of English Comprehensible Input |
 | 53 | ⬜ BELUM | SK0bkQXyTj8 | Easy English Shadowing Copy Me and Speak Better |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 46/111 selesai** — Last updated: Video #49 (cqSSuYojAfY, 507 BM subtitles) ✅
+**Progress: 47/111 selesai** — Last updated: Video #50 (u3K80xEDj68, 463 BM subtitles) ✅
