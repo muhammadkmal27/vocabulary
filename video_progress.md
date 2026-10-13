@@ -65,7 +65,7 @@
 | 45 | ✅ SIAP | JcqSO5Ofnsc | Start Thinking in English (practice) \| Easy Listening |
 | 46 | ✅ SIAP | u3883nez48w | LEARN ENGLISH Practice Thinking in English While Shopping |
 | 47 | ✅ SIAP | olIjQhtDKLY | Think in English for Beginners \| Easy Listening Practice |
-| 48 | ⬜ BELUM | VtWeP6InJGk | Think in English Faster \| Intermediate/Advanced |
+| 48 | ✅ SIAP | VtWeP6InJGk | Think in English Faster \| Intermediate/Advanced |
 | 49 | ⬜ BELUM | cqSSuYojAfY | Speak With Me and Shadow to Improve Your English |
 | 50 | ⬜ BELUM | u3K80xEDj68 | English Shadowing \| Copy Me and Improve Your Speaking |
 | 51 | ⬜ BELUM | LnWGGJH7Qf0 | Easy English Shadowing \| Copy Me, Speak More Clearly |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 44/111 selesai** — Last updated: Video #47 (olIjQhtDKLY, 253 BM subtitles) ✅
+**Progress: 45/111 selesai** — Last updated: Video #48 (VtWeP6InJGk, 395 BM subtitles) ✅
