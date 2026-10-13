@@ -74,7 +74,7 @@
 | 54 | ✅ SIAP | oD1smJjawsA | If You Understand This Conversation, Your English Is Great |
 | 55 | ✅ SIAP | 8qrO6Izwtes | Real English Listening Practice Comprehensible Input |
 | 56 | ✅ SIAP | 9Ca1P0xuytw | Slow English Podcast #3 \| My trip to Thailand |
-| 57 | ⬜ BELUM | FO-4eJwv1iE | Learn Real English Naturally the Easy Way |
+| 57 | ✅ SIAP | FO-4eJwv1iE | Learn Real English Naturally the Easy Way |
 | 58 | ⬜ BELUM | HQTRtjyWyPY | Slow English Podcast #2 \| Clear, slow, natural English (Shadowing) |
 | 59 | ⬜ BELUM | NW-n7gNBBEk | Speak Along Real Life English Comprehensible Input |
 | 60 | ⬜ BELUM | R0BaGXVG29o | Speak English With Me Real-Life Comprehensible Input |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 52/111 selesai** — Last updated: Video #56 (9Ca1P0xuytw, 443 BM subtitles) ✅
+**Progress: 53/111 selesai** — Last updated: Video #57 (FO-4eJwv1iE, 830 BM subtitles) ✅
