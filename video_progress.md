@@ -78,7 +78,7 @@
 | 58 | ✅ SIAP | HQTRtjyWyPY | Slow English Podcast #2 \| Clear, slow, natural English (Shadowing) |
 | 59 | ✅ SIAP | NW-n7gNBBEk | Speak Along Real Life English Comprehensible Input |
 | 60 | ✅ SIAP | R0BaGXVG29o | Speak English With Me Real-Life Comprehensible Input |
-| 61 | ⬜ BELUM | b9OVPcW1gfY | Slow English Podcast #1 \| Listen and learn clear, slow, natural English |
+| 61 | ✅ SIAP | b9OVPcW1gfY | Slow English Podcast #1 \| Listen and learn clear, slow, natural English |
 | 62 | ⬜ BELUM | pStPM6rMj10 | The Easiest Way to Learn Real English Naturally |
 | 63 | ⬜ BELUM | uHbYwDXIl04 | Speak English With Me This Christmas |
 | 64 | ⬜ BELUM | hsL5BTWD_wg | Speak English With Me around the City |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 56/111 selesai** — Last updated: Video #60 (R0BaGXVG29o, 435 BM subtitles) ✅
+**Progress: 57/111 selesai** — Last updated: Video #61 (b9OVPcW1gfY, 158 BM subtitles) ✅
