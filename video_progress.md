@@ -82,7 +82,7 @@
 | 62 | ✅ SIAP | pStPM6rMj10 | The Easiest Way to Learn Real English Naturally |
 | 63 | ✅ SIAP | uHbYwDXIl04 | Speak English With Me This Christmas |
 | 64 | ✅ SIAP | hsL5BTWD_wg | Speak English With Me around the City |
-| 65 | ⬜ BELUM | N3UPBztxcUo | Speak English With Me While I Pack |
+| 65 | ✅ SIAP | N3UPBztxcUo | Speak English With Me While I Pack |
 | 66 | ⬜ BELUM | CKfziSGU2-E | Learn English Naturally Around The House With Comprehensible Input |
 | 67 | ⬜ BELUM | gLdgEYAxJ8A | Learn English Naturally at the Grocery Store (Real-Life English) |
 | 68 | ⬜ BELUM | Hsr6p18pyW8 | EASY English Listening Practice for Beginners |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 60/111 selesai** — Last updated: Video #64 (hsL5BTWD_wg, 564 BM subtitles) ✅
+**Progress: 61/111 selesai** — Last updated: Video #65 (N3UPBztxcUo, 306 BM subtitles) ✅
