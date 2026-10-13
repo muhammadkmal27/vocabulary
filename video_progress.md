@@ -71,7 +71,7 @@
 | 51 | ✅ SIAP | LnWGGJH7Qf0 | Easy English Shadowing \| Copy Me, Speak More Clearly |
 | 52 | ⏭️ DILANGKAU | hsUkTQ1YTOQ | 4+ Hours of English Comprehensible Input (Kompilasi 4+ Jam) |
 | 53 | ✅ SIAP | SK0bkQXyTj8 | Easy English Shadowing Copy Me and Speak Better |
-| 54 | ⬜ BELUM | oD1smJjawsA | If You Understand This Conversation, Your English Is Great |
+| 54 | ✅ SIAP | oD1smJjawsA | If You Understand This Conversation, Your English Is Great |
 | 55 | ⬜ BELUM | 8qrO6Izwtes | Real English Listening Practice Comprehensible Input |
 | 56 | ⬜ BELUM | 9Ca1P0xuytw | Slow English Podcast #3 \| My trip to Thailand |
 | 57 | ⬜ BELUM | FO-4eJwv1iE | Learn Real English Naturally the Easy Way |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 49/111 selesai** — Last updated: Video #53 (SK0bkQXyTj8, 546 BM subtitles) ✅
+**Progress: 50/111 selesai** — Last updated: Video #54 (oD1smJjawsA, 732 BM subtitles) ✅
