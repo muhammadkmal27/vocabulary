@@ -64,7 +64,7 @@
 | 44 | ✅ SIAP | p8MgSH-0G8c | Stop Saying This When You Introduce Yourself (A1-B2) |
 | 45 | ✅ SIAP | JcqSO5Ofnsc | Start Thinking in English (practice) \| Easy Listening |
 | 46 | ✅ SIAP | u3883nez48w | LEARN ENGLISH Practice Thinking in English While Shopping |
-| 47 | ⬜ BELUM | olIjQhtDKLY | Think in English for Beginners \| Easy Listening Practice |
+| 47 | ✅ SIAP | olIjQhtDKLY | Think in English for Beginners \| Easy Listening Practice |
 | 48 | ⬜ BELUM | VtWeP6InJGk | Think in English Faster \| Intermediate/Advanced |
 | 49 | ⬜ BELUM | cqSSuYojAfY | Speak With Me and Shadow to Improve Your English |
 | 50 | ⬜ BELUM | u3K80xEDj68 | English Shadowing \| Copy Me and Improve Your Speaking |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 43/111 selesai** — Last updated: Video #46 (u3883nez48w, 470 BM subtitles) ✅
+**Progress: 44/111 selesai** — Last updated: Video #47 (olIjQhtDKLY, 253 BM subtitles) ✅
