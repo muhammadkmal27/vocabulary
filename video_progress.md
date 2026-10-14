@@ -85,7 +85,7 @@
 | 65 | ✅ SIAP | N3UPBztxcUo | Speak English With Me While I Pack |
 | 66 | ✅ SIAP | CKfziSGU2-E | Learn English Naturally Around The House With Comprehensible Input |
 | 67 | ✅ SIAP | gLdgEYAxJ8A | Learn English Naturally at the Grocery Store (Real-Life English) |
-| 68 | ⬜ BELUM | Hsr6p18pyW8 | EASY English Listening Practice for Beginners |
+| 68 | ✅ SIAP | Hsr6p18pyW8 | EASY English Listening Practice for Beginners |
 | 69 | ⬜ BELUM | K7ek9sYHV8U | Learn English Naturally with Real-Life Comprehensible Input |
 | 70 | ⬜ BELUM | jpq3TiejmU8 | Learn Real Life English in Daily Life with Comprehensible Input |
 | 71 | ⬜ BELUM | GnjL3s7p3Yw | Learn Real English Naturally \| Comprehensible Input Method |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 63/111 selesai** — Last updated: Video #67 (gLdgEYAxJ8A, 273 BM subtitles) ✅
+**Progress: 64/111 selesai** — Last updated: Video #68 (Hsr6p18pyW8, 551 BM subtitles) ✅
