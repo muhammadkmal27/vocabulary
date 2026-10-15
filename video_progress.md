@@ -97,7 +97,7 @@
 | 77 | ✅ SIAP | FzjKocVsAqU | 50 Action Verbs You NEED to Know in English \| Beginner English |
 | 78 | ✅ SIAP | ofPPsEXbEKM | Beginner English \| Daily Words You'll Use at Home |
 | 79 | ✅ SIAP | 0y4-1WIvDrI | Intermediate English \| Live a Week in Canada & Learn English |
-| 80 | ⬜ BELUM | 1Ajrg8rfUB0 | Learn English Naturally with This Vlog \| Canada, Nature & Cooking |
+| 80 | ✅ SIAP | 1Ajrg8rfUB0 | Learn English Naturally with This Vlog \| Canada, Nature & Cooking |
 | 81 | ⬜ BELUM | Zgm7z5k77gA | Everyday Chores & Camping Prep \| Learn Real English in Action |
 | 82 | ⬜ BELUM | yViqQ7LpaRc | Daily Life in Canada \| Learn English Naturally |
 | 83 | ⬜ BELUM | sFifU1Kfru0 | Learn Real English With Me in Mexico |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 75/111 selesai** — Last updated: Video #79 (0y4-1WIvDrI, 263 BM subtitles) ✅
+**Progress: 76/111 selesai** — Last updated: Video #80 (1Ajrg8rfUB0, 248 BM subtitles) ✅
