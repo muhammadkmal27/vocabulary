@@ -101,7 +101,7 @@
 | 81 | ✅ SIAP | Zgm7z5k77gA | Everyday Chores & Camping Prep \| Learn Real English in Action |
 | 82 | ✅ SIAP | yViqQ7LpaRc | Daily Life in Canada \| Learn English Naturally |
 | 83 | ✅ SIAP | sFifU1Kfru0 | Learn Real English With Me in Mexico |
-| 84 | ⬜ BELUM | zcwbmpmvYVk | Learn Airport English on the Way to Mexico |
+| 84 | ✅ SIAP | zcwbmpmvYVk | Learn Airport English on the Way to Mexico |
 | 85 | ⬜ BELUM | pYmTRooZcl8 | A Tour of My House & Chore Day \| Comprehensible Input English |
 | 86 | ⬜ BELUM | fEkavdQRdK8 | LEARN 15 English Idioms (and Sound Fluent) |
 | 87 | ⬜ BELUM | n2JP3mc1j2s | Come With Me on Vacation & Learn English Naturally |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 79/111 selesai** — Last updated: Video #83 (sFifU1Kfru0, 204 BM subtitles) ✅
+**Progress: 80/111 selesai** — Last updated: Video #84 (zcwbmpmvYVk, 174 BM subtitles) ✅
