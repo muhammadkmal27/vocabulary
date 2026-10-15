@@ -79,7 +79,7 @@ class VideoController extends Controller
         try {
             // yt-dlp: download auto-subtitles in json3 format
             $cmd = sprintf(
-                'python -m yt_dlp --skip-download --write-auto-sub --sub-langs en --sub-format json3 --output %s %s 2>&1',
+                'python -m yt_dlp --skip-download --write-auto-sub --sub-langs en --sub-format json3 --extractor-args "youtube:player_client=android" --output %s %s 2>&1',
                 escapeshellarg($outFile),
                 escapeshellarg('https://www.youtube.com/watch?v=' . $youtubeVideoId)
             );
