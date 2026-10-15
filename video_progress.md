@@ -88,7 +88,7 @@
 | 68 | ✅ SIAP | Hsr6p18pyW8 | EASY English Listening Practice for Beginners |
 | 69 | ✅ SIAP | K7ek9sYHV8U | Learn English Naturally with Real-Life Comprehensible Input |
 | 70 | ✅ SIAP | jpq3TiejmU8 | Learn Real Life English in Daily Life with Comprehensible Input |
-| 71 | ⬜ BELUM | GnjL3s7p3Yw | Learn Real English Naturally \| Comprehensible Input Method |
+| 71 | ✅ SIAP | GnjL3s7p3Yw | Learn Real English Naturally \| Comprehensible Input Method |
 | 72 | ⬜ BELUM | SRCmJfteNPw | Learn English Naturally While Cooking \| Comprehensible Input |
 | 73 | ⬜ BELUM | vBKBcenlI-s | Beginner English Listening Practice (Comprehensible input) |
 | 74 | ⬜ BELUM | q29Gn4gQfxE | Intermediate English Listening Practice (Comprehensible Input) |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 66/111 selesai** — Last updated: Video #70 (jpq3TiejmU8, 289 BM subtitles) ✅
+**Progress: 67/111 selesai** — Last updated: Video #71 (GnjL3s7p3Yw, 234 BM subtitles) ✅
