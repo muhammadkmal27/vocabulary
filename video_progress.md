@@ -93,7 +93,7 @@
 | 73 | ✅ SIAP | vBKBcenlI-s | Beginner English Listening Practice (Comprehensible input) |
 | 74 | ✅ SIAP | q29Gn4gQfxE | Intermediate English Listening Practice (Comprehensible Input) |
 | 75 | ✅ SIAP | bDoE4JI0DBg | Learn English the EASY way (comprehensible input) |
-| 76 | ⬜ BELUM | e-u86nHJAb0 | Intermediate English \| Car Vocabulary You'll Actually Use |
+| 76 | ✅ SIAP | e-u86nHJAb0 | Intermediate English \| Car Vocabulary You'll Actually Use |
 | 77 | ⬜ BELUM | FzjKocVsAqU | 50 Action Verbs You NEED to Know in English \| Beginner English |
 | 78 | ⬜ BELUM | ofPPsEXbEKM | Beginner English \| Daily Words You'll Use at Home |
 | 79 | ⬜ BELUM | 0y4-1WIvDrI | Intermediate English \| Live a Week in Canada & Learn English |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 71/111 selesai** — Last updated: Video #75 (bDoE4JI0DBg, 310 BM subtitles) ✅
+**Progress: 72/111 selesai** — Last updated: Video #76 (e-u86nHJAb0, 234 BM subtitles) ✅
