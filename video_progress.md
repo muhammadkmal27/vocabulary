@@ -90,7 +90,7 @@
 | 70 | ✅ SIAP | jpq3TiejmU8 | Learn Real Life English in Daily Life with Comprehensible Input |
 | 71 | ✅ SIAP | GnjL3s7p3Yw | Learn Real English Naturally \| Comprehensible Input Method |
 | 72 | ✅ SIAP | SRCmJfteNPw | Learn English Naturally While Cooking \| Comprehensible Input |
-| 73 | ⬜ BELUM | vBKBcenlI-s | Beginner English Listening Practice (Comprehensible input) |
+| 73 | ✅ SIAP | vBKBcenlI-s | Beginner English Listening Practice (Comprehensible input) |
 | 74 | ⬜ BELUM | q29Gn4gQfxE | Intermediate English Listening Practice (Comprehensible Input) |
 | 75 | ⬜ BELUM | bDoE4JI0DBg | Learn English the EASY way (comprehensible input) |
 | 76 | ⬜ BELUM | e-u86nHJAb0 | Intermediate English \| Car Vocabulary You'll Actually Use |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 68/111 selesai** — Last updated: Video #72 (SRCmJfteNPw, 479 BM subtitles) ✅
+**Progress: 69/111 selesai** — Last updated: Video #73 (vBKBcenlI-s, 289 BM subtitles) ✅
