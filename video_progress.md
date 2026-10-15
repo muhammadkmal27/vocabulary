@@ -92,7 +92,7 @@
 | 72 | ✅ SIAP | SRCmJfteNPw | Learn English Naturally While Cooking \| Comprehensible Input |
 | 73 | ✅ SIAP | vBKBcenlI-s | Beginner English Listening Practice (Comprehensible input) |
 | 74 | ✅ SIAP | q29Gn4gQfxE | Intermediate English Listening Practice (Comprehensible Input) |
-| 75 | ⬜ BELUM | bDoE4JI0DBg | Learn English the EASY way (comprehensible input) |
+| 75 | ✅ SIAP | bDoE4JI0DBg | Learn English the EASY way (comprehensible input) |
 | 76 | ⬜ BELUM | e-u86nHJAb0 | Intermediate English \| Car Vocabulary You'll Actually Use |
 | 77 | ⬜ BELUM | FzjKocVsAqU | 50 Action Verbs You NEED to Know in English \| Beginner English |
 | 78 | ⬜ BELUM | ofPPsEXbEKM | Beginner English \| Daily Words You'll Use at Home |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 70/111 selesai** — Last updated: Video #74 (q29Gn4gQfxE, 169 BM subtitles) ✅
+**Progress: 71/111 selesai** — Last updated: Video #75 (bDoE4JI0DBg, 310 BM subtitles) ✅
