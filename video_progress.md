@@ -96,7 +96,7 @@
 | 76 | ✅ SIAP | e-u86nHJAb0 | Intermediate English \| Car Vocabulary You'll Actually Use |
 | 77 | ✅ SIAP | FzjKocVsAqU | 50 Action Verbs You NEED to Know in English \| Beginner English |
 | 78 | ✅ SIAP | ofPPsEXbEKM | Beginner English \| Daily Words You'll Use at Home |
-| 79 | ⬜ BELUM | 0y4-1WIvDrI | Intermediate English \| Live a Week in Canada & Learn English |
+| 79 | ✅ SIAP | 0y4-1WIvDrI | Intermediate English \| Live a Week in Canada & Learn English |
 | 80 | ⬜ BELUM | 1Ajrg8rfUB0 | Learn English Naturally with This Vlog \| Canada, Nature & Cooking |
 | 81 | ⬜ BELUM | Zgm7z5k77gA | Everyday Chores & Camping Prep \| Learn Real English in Action |
 | 82 | ⬜ BELUM | yViqQ7LpaRc | Daily Life in Canada \| Learn English Naturally |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 74/111 selesai** — Last updated: Video #78 (ofPPsEXbEKM, 290 BM subtitles) ✅
+**Progress: 75/111 selesai** — Last updated: Video #79 (0y4-1WIvDrI, 263 BM subtitles) ✅
