@@ -114,7 +114,7 @@
 | 94 | ✅ SIAP | rcESd52sp9g | Learn English While Shopping (Super Easy!) |
 | 95 | ✅ SIAP | YCT3FcRnmSA | Learn English in Nature w/ comprehensible input |
 | 96 | ✅ SIAP | m2uOnNe8K3g | Learn English at Home (Cooking, Daily life) w/ Comprehensible Input |
-| 97 | ⬜ BELUM | rQreJ6uvy8k | LEARN ENGLISH Exploring the Middle of the EARTH |
+| 97 | ✅ SIAP | rQreJ6uvy8k | LEARN ENGLISH Exploring the Middle of the EARTH |
 | 98 | ⬜ BELUM | TgptXAAmKX8 | You'll NEVER Forget These English Words After This Vlog |
 | 99 | ⬜ BELUM | GxJXBRwm7Is | LEARN ENGLISH Naturally while Exploring Ecuador |
 | 100 | ⬜ BELUM | bcuJw0fgNxo | LEARN ENGLISH naturally while exploring the city |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 92/111 selesai** — Last updated: Video #96 (m2uOnNe8K3g, 198 BM subtitles) ✅
+**Progress: 93/111 selesai** — Last updated: Video #97 (rQreJ6uvy8k, 243 BM subtitles) ✅
