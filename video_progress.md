@@ -126,10 +126,10 @@
 | 106 | ✅ SIAP | mrQ8Aet8Ids | LEARN ENGLISH naturally with this VLOG (road trip and daily life) |
 | 107 | ✅ SIAP | RlMR2BfljM0 | 50 Action Verbs You ACTUALLY Use Every Day |
 | 108 | ✅ SIAP | I03-zigVvHs | LEARN ENGLISH naturally while travelling |
-| 109 | ⬜ BELUM | eX_M_zjze8I | LEARN ENGLISH naturally with this Vlog |
+| 109 | ✅ SIAP | eX_M_zjze8I | LEARN ENGLISH naturally with this Vlog |
 | 110 | ⬜ BELUM | NLEsrMms6mw | Learn English at Home: Everyday Vocabulary & Phrases |
 | 111 | ⬜ BELUM | dwEpmwk6YF8 | Learn english the EASY way (Comprehensible input) |
 
 ---
 
-**Progress: 104/111 selesai** — Last updated: Video #108 (I03-zigVvHs, 102 BM subtitles) ✅
+**Progress: 105/111 selesai** — Last updated: Video #109 (eX_M_zjze8I, 123 BM subtitles) ✅
