@@ -108,7 +108,7 @@
 | 88 | ✅ SIAP | 1YPte6apdvw | The BEST way to learn ENGLISH Naturally at the GYM |
 | 89 | ✅ SIAP | KaU7T1wOHdc | Learn Real-life English \|\| Daily life, Cooking, Nature |
 | 90 | ✅ SIAP | u3Bh78fKu0Q | Learn English naturally while Cooking (Comprehensible Input) |
-| 91 | ⬜ BELUM | rQ7euQSWKGM | Speak Like a Native NOW \| 25 Phrasal Verbs in Action |
+| 91 | ✅ SIAP | rQ7euQSWKGM | Speak Like a Native NOW \| 25 Phrasal Verbs in Action |
 | 92 | ⬜ BELUM | FUyZeN2FKik | Learn English at the Beach \| Real Phrases & Vocabulary |
 | 93 | ⬜ BELUM | z7PH_S4x-_k | Learn the 3000 Most Common English Words (Vlog 16) |
 | 94 | ⬜ BELUM | rcESd52sp9g | Learn English While Shopping (Super Easy!) |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 86/111 selesai** — Last updated: Video #90 (u3Bh78fKu0Q, 272 BM subtitles) ✅
+**Progress: 87/111 selesai** — Last updated: Video #91 (rQ7euQSWKGM, 205 BM subtitles) ✅
