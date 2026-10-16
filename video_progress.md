@@ -112,7 +112,7 @@
 | 92 | ✅ SIAP | FUyZeN2FKik | Learn English at the Beach \| Real Phrases & Vocabulary |
 | 93 | ✅ SIAP | z7PH_S4x-_k | Learn the 3000 Most Common English Words (Vlog 16) |
 | 94 | ✅ SIAP | rcESd52sp9g | Learn English While Shopping (Super Easy!) |
-| 95 | ⬜ BELUM | YCT3FcRnmSA | Learn English in Nature w/ comprehensible input |
+| 95 | ✅ SIAP | YCT3FcRnmSA | Learn English in Nature w/ comprehensible input |
 | 96 | ⬜ BELUM | m2uOnNe8K3g | Learn English at Home (Cooking, Daily life) w/ Comprehensible Input |
 | 97 | ⬜ BELUM | rQreJ6uvy8k | LEARN ENGLISH Exploring the Middle of the EARTH |
 | 98 | ⬜ BELUM | TgptXAAmKX8 | You'll NEVER Forget These English Words After This Vlog |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 90/111 selesai** — Last updated: Video #94 (rcESd52sp9g, 133 BM subtitles) ✅
+**Progress: 91/111 selesai** — Last updated: Video #95 (YCT3FcRnmSA, 204 BM subtitles) ✅
