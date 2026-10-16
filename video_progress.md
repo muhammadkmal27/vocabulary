@@ -111,7 +111,7 @@
 | 91 | ✅ SIAP | rQ7euQSWKGM | Speak Like a Native NOW \| 25 Phrasal Verbs in Action |
 | 92 | ✅ SIAP | FUyZeN2FKik | Learn English at the Beach \| Real Phrases & Vocabulary |
 | 93 | ✅ SIAP | z7PH_S4x-_k | Learn the 3000 Most Common English Words (Vlog 16) |
-| 94 | ⬜ BELUM | rcESd52sp9g | Learn English While Shopping (Super Easy!) |
+| 94 | ✅ SIAP | rcESd52sp9g | Learn English While Shopping (Super Easy!) |
 | 95 | ⬜ BELUM | YCT3FcRnmSA | Learn English in Nature w/ comprehensible input |
 | 96 | ⬜ BELUM | m2uOnNe8K3g | Learn English at Home (Cooking, Daily life) w/ Comprehensible Input |
 | 97 | ⬜ BELUM | rQreJ6uvy8k | LEARN ENGLISH Exploring the Middle of the EARTH |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 89/111 selesai** — Last updated: Video #93 (z7PH_S4x-_k, 129 BM subtitles) ✅
+**Progress: 90/111 selesai** — Last updated: Video #94 (rcESd52sp9g, 133 BM subtitles) ✅
