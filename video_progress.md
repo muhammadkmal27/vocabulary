@@ -106,7 +106,7 @@
 | 86 | ✅ SIAP | fEkavdQRdK8 | LEARN 15 English Idioms (and Sound Fluent) |
 | 87 | ✅ SIAP | n2JP3mc1j2s | Come With Me on Vacation & Learn English Naturally |
 | 88 | ✅ SIAP | 1YPte6apdvw | The BEST way to learn ENGLISH Naturally at the GYM |
-| 89 | ⬜ BELUM | KaU7T1wOHdc | Learn Real-life English \|\| Daily life, Cooking, Nature |
+| 89 | ✅ SIAP | KaU7T1wOHdc | Learn Real-life English \|\| Daily life, Cooking, Nature |
 | 90 | ⬜ BELUM | u3Bh78fKu0Q | Learn English naturally while Cooking (Comprehensible Input) |
 | 91 | ⬜ BELUM | rQ7euQSWKGM | Speak Like a Native NOW \| 25 Phrasal Verbs in Action |
 | 92 | ⬜ BELUM | FUyZeN2FKik | Learn English at the Beach \| Real Phrases & Vocabulary |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 84/111 selesai** — Last updated: Video #88 (1YPte6apdvw, 335 BM subtitles) ✅
+**Progress: 85/111 selesai** — Last updated: Video #89 (KaU7T1wOHdc, 172 BM subtitles) ✅
