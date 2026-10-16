@@ -120,7 +120,7 @@
 | 100 | ✅ SIAP | bcuJw0fgNxo | LEARN ENGLISH naturally while exploring the city |
 | 101 | ✅ SIAP | FpntqqyI-R0 | Learn English (EASY) with My Morning Routine |
 | 102 | ✅ SIAP | adyiqxAdGpY | LEARN ENGLISH at the mall with this Vlog |
-| 103 | ⬜ BELUM | Dkg-9bQm7k8 | Learn English (EASY) naturally with this VLOG |
+| 103 | ✅ SIAP | Dkg-9bQm7k8 | Learn English (EASY) naturally with this VLOG |
 | 104 | ⬜ BELUM | VespH2F_Jyc | LEARN ENGLISH naturally with this VLOG #5 |
 | 105 | ⬜ BELUM | bo47JoSxl1s | The ONLY way to become fluent in ENGLISH |
 | 106 | ⬜ BELUM | mrQ8Aet8Ids | LEARN ENGLISH naturally with this VLOG (road trip and daily life) |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 98/111 selesai** — Last updated: Video #102 (adyiqxAdGpY, 148 BM subtitles) ✅
+**Progress: 99/111 selesai** — Last updated: Video #103 (Dkg-9bQm7k8, 108 BM subtitles) ✅
