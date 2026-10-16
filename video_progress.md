@@ -116,7 +116,7 @@
 | 96 | ✅ SIAP | m2uOnNe8K3g | Learn English at Home (Cooking, Daily life) w/ Comprehensible Input |
 | 97 | ✅ SIAP | rQreJ6uvy8k | LEARN ENGLISH Exploring the Middle of the EARTH |
 | 98 | ✅ SIAP | TgptXAAmKX8 | You'll NEVER Forget These English Words After This Vlog |
-| 99 | ⬜ BELUM | GxJXBRwm7Is | LEARN ENGLISH Naturally while Exploring Ecuador |
+| 99 | ✅ SIAP | GxJXBRwm7Is | LEARN ENGLISH Naturally while Exploring Ecuador |
 | 100 | ⬜ BELUM | bcuJw0fgNxo | LEARN ENGLISH naturally while exploring the city |
 | 101 | ⬜ BELUM | FpntqqyI-R0 | Learn English (EASY) with My Morning Routine |
 | 102 | ⬜ BELUM | adyiqxAdGpY | LEARN ENGLISH at the mall with this Vlog |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 94/111 selesai** — Last updated: Video #98 (TgptXAAmKX8, 248 BM subtitles) ✅
+**Progress: 95/111 selesai** — Last updated: Video #99 (GxJXBRwm7Is, 151 BM subtitles) ✅
