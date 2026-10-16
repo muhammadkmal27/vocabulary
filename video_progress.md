@@ -119,7 +119,7 @@
 | 99 | ✅ SIAP | GxJXBRwm7Is | LEARN ENGLISH Naturally while Exploring Ecuador |
 | 100 | ✅ SIAP | bcuJw0fgNxo | LEARN ENGLISH naturally while exploring the city |
 | 101 | ✅ SIAP | FpntqqyI-R0 | Learn English (EASY) with My Morning Routine |
-| 102 | ⬜ BELUM | adyiqxAdGpY | LEARN ENGLISH at the mall with this Vlog |
+| 102 | ✅ SIAP | adyiqxAdGpY | LEARN ENGLISH at the mall with this Vlog |
 | 103 | ⬜ BELUM | Dkg-9bQm7k8 | Learn English (EASY) naturally with this VLOG |
 | 104 | ⬜ BELUM | VespH2F_Jyc | LEARN ENGLISH naturally with this VLOG #5 |
 | 105 | ⬜ BELUM | bo47JoSxl1s | The ONLY way to become fluent in ENGLISH |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 97/111 selesai** — Last updated: Video #101 (FpntqqyI-R0, 102 BM subtitles) ✅
+**Progress: 98/111 selesai** — Last updated: Video #102 (adyiqxAdGpY, 148 BM subtitles) ✅
