@@ -103,7 +103,7 @@
 | 83 | ✅ SIAP | sFifU1Kfru0 | Learn Real English With Me in Mexico |
 | 84 | ✅ SIAP | zcwbmpmvYVk | Learn Airport English on the Way to Mexico |
 | 85 | ✅ SIAP | pYmTRooZcl8 | A Tour of My House & Chore Day \| Comprehensible Input English |
-| 86 | ⬜ BELUM | fEkavdQRdK8 | LEARN 15 English Idioms (and Sound Fluent) |
+| 86 | ✅ SIAP | fEkavdQRdK8 | LEARN 15 English Idioms (and Sound Fluent) |
 | 87 | ⬜ BELUM | n2JP3mc1j2s | Come With Me on Vacation & Learn English Naturally |
 | 88 | ⬜ BELUM | 1YPte6apdvw | The BEST way to learn ENGLISH Naturally at the GYM |
 | 89 | ⬜ BELUM | KaU7T1wOHdc | Learn Real-life English \|\| Daily life, Cooking, Nature |
@@ -132,4 +132,4 @@
 
 ---
 
-**Progress: 81/111 selesai** — Last updated: Video #85 (pYmTRooZcl8, 207 BM subtitles) ✅
+**Progress: 82/111 selesai** — Last updated: Video #86 (fEkavdQRdK8, 279 BM subtitles) ✅
