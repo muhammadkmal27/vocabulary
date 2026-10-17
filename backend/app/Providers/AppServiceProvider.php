@@ -37,9 +37,9 @@ class AppServiceProvider extends ServiceProvider
                 });
         });
 
-        // Payment management (toggle, status) — moderate: 10 per minute
+        // Payment management (toggle, status) — moderate: 30 per minute
         RateLimiter::for('payment-manage', function (Request $request) {
-            return Limit::perMinute(10)->by($request->user()?->id ?: $request->ip())
+            return Limit::perMinute(30)->by($request->user()?->id ?: $request->ip())
                 ->response(function () {
                     return response()->json([
                         'message' => 'Terlalu banyak permintaan. Sila tunggu sebentar.',

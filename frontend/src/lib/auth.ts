@@ -16,6 +16,33 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       if (t && u) {
         setToken(t);
         setUser(JSON.parse(u));
+
+        // Background verification to check if token is still valid on server
+        fetch("/api/user", {
+          headers: {
+            Authorization: `Bearer ${t}`,
+            Accept: "application/json",
+          },
+        })
+          .then((res) => {
+            if (res.status === 401) {
+              // Token has been revoked or expired on server
+              localStorage.removeItem("auth-token");
+              localStorage.removeItem("auth-user");
+              setToken(null);
+              setUser(null);
+            } else if (res.ok) {
+              res.json().then((freshUser) => {
+                if (freshUser && freshUser.id) {
+                  setUser(freshUser);
+                  localStorage.setItem("auth-user", JSON.stringify(freshUser));
+                }
+              }).catch(() => {});
+            }
+          })
+          .catch(() => {
+            // Retain local state during temporary offline or connection failure
+          });
       }
     } catch {}
     setIsLoading(false);
@@ -59,7 +86,16 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   );
 
   const logout = useCallback(() => {
-    fetch("/api/logout", { method: "POST" }).catch(() => {});
+    const currentToken = localStorage.getItem("auth-token");
+    if (currentToken) {
+      fetch("/api/logout", {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${currentToken}`,
+          Accept: "application/json",
+        },
+      }).catch(() => {});
+    }
     localStorage.removeItem("auth-token");
     localStorage.removeItem("auth-user");
     setUser(null);

@@ -48,7 +48,7 @@ interface SubscriptionDetails {
 }
 
 function SubscriptionContent() {
-  const { token } = useAuth();
+  const { token, isLoading: authLoading, logout } = useAuth();
   const { toast } = useAlert();
   const searchParams = useSearchParams();
   const router = useRouter();
@@ -70,6 +70,15 @@ function SubscriptionContent() {
           Accept: "application/json",
         },
       });
+      if (res.status === 401) {
+        logout();
+        toast("Sesi anda telah tamat. Sila log masuk semula.", "info");
+        router.push("/login?redirect=/subscription");
+        return;
+      }
+      if (res.status === 429) {
+        throw new Error("Terlalu banyak permintaan. Sila tunggu sebentar sebelum cuba lagi.");
+      }
       if (!res.ok) throw new Error("Gagal memuatkan status langganan.");
       const data = await res.json();
       setSubData(data);
@@ -82,7 +91,12 @@ function SubscriptionContent() {
 
   // Verify payment when returning from payment page
   useEffect(() => {
-    if (!token || hasVerifiedRef.current) return;
+    if (authLoading) return;
+    if (!token) {
+      router.push("/login?redirect=/subscription");
+      return;
+    }
+    if (hasVerifiedRef.current) return;
 
     const success = searchParams.get("success");
     const statusId = searchParams.get("status_id");
@@ -104,6 +118,11 @@ function SubscriptionContent() {
             },
             body: JSON.stringify({ billcode }),
           });
+          if (res.status === 401) {
+            logout();
+            router.push("/login?redirect=/subscription");
+            return;
+          }
           const data = await res.json();
           if (data.activated) {
             toast(data.message || "Langganan Lifetime berjaya diaktifkan!", "success");
@@ -137,6 +156,11 @@ function SubscriptionContent() {
             },
             body: JSON.stringify({ session_id: sessionId }),
           });
+          if (res.status === 401) {
+            logout();
+            router.push("/login?redirect=/subscription");
+            return;
+          }
           const data = await res.json();
           if (data.activated) {
             toast(data.message || "Langganan Premium Stripe berjaya diaktifkan!", "success");
@@ -156,7 +180,7 @@ function SubscriptionContent() {
     } else {
       fetchSubscriptionStatus();
     }
-  }, [token, searchParams]);
+  }, [token, authLoading, searchParams]);
 
   const handleToggleAutoRenew = async () => {
     if (!token || !subData?.subscription || toggling || subData?.subscription?.is_lifetime) return;
@@ -173,6 +197,12 @@ function SubscriptionContent() {
           subscription_id: subData.subscription.id,
         }),
       });
+      if (res.status === 401) {
+        logout();
+        toast("Sesi anda telah tamat. Sila log masuk semula.", "info");
+        router.push("/login?redirect=/subscription");
+        return;
+      }
       if (!res.ok) throw new Error("Gagal mengemaskini auto-billing.");
       const updatedSub = await res.json();
       setSubData({
@@ -210,7 +240,10 @@ function SubscriptionContent() {
             <CardTitle>Ralat Berlaku</CardTitle>
             <CardDescription>{error}</CardDescription>
           </CardHeader>
-          <CardFooter className="justify-center">
+          <CardFooter className="justify-center gap-3">
+            <Button variant="outline" onClick={() => router.push("/")}>
+              Kembali ke Laman Utama
+            </Button>
             <Button onClick={fetchSubscriptionStatus}>Cuba Semula</Button>
           </CardFooter>
         </Card>
