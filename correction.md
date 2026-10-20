@@ -169,7 +169,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 14 | Saya akan buat benda tu nanti. | `I'll [do it later/handle it later].` | I['ll/ will] do it later. |
 | 15 | Jangan lupa tau. | `Don't [forget/let it slip].` | Don't forget. |
 | 16 | Saya akan ingat. | `I'll [remember/keep it in mind].` | I['ll/ will] remember. |
-| 17 | Ini awak punya ke? | `Is this [yours/belong to you]?` | Is this yours? |
+| 17 | Ini awak punya ke? | `[Is this yours/Does this belong to you]?` | Is this yours? |
 | 18 | Bukan saya punya. | `It's [not mine/not mine at all].` | It['s/ is] not mine. |
 | 19 | Awak bergurau eh? | `[Are you kidding/You kidding]?` | [You kidding/Are you kidding]? |
 | 20 | Saya serius ni. | `I'm [serious/not joking].` | I['m/ am] serious. |
@@ -555,7 +555,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 16 | Jangan cari pasal bila keadaan dah tenang. | `Don't [rock the boat/stir up trouble].` | [Don't rock the boat/Do not rock the boat]. |
 | 17 | Nanti saya beritahu awak awal-awal. | `I'll [give you a heads up/let you know in advance].` | I['ll give you a heads up/ will give you a heads up]. |
 | 18 | Jom kita gerak sekarang. | `Let's [hit the road/get going].` | Let's hit the road. |
-| 19 | Kalau bukan sekarang, bila lagi? | `It's [now or never/our only shot].` | It['s now or never/ is now or never]. |
+| 19 | Kalau bukan sekarang, bila lagi? | `[If not now, when/When else]?` | It['s now or never/ is now or never]. |
 | 20 | Jom kita terus mara ke depan. | `Let's [keep pushing forward/keep moving ahead].` | Let's keep pushing forward. |
 
 ### 🎯 Level 23
@@ -1060,7 +1060,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 17 | Kos nak menginap kat sana mahal gila. | `It costs [a fortune to stay there/an insane amount to stay there].` | It costs a fortune to stay there. |
 | 18 | Lagipun, siapa yang cadangkan tempat ni sebenarnya? | `Who [suggested this place anyway/picked this place in the first place]?` | Who suggested this place anyway? |
 | 19 | Saya terus hilang selera makan langsung. | `I completely [lost my appetite/can't eat a bite now].` | I completely lost my appetite. |
-| 20 | Awak ni dah hilang akal ke? | `Are you [out of your mind/going crazy]?!` | Are you out of your mind? |
+| 20 | Awak ni dah hilang akal ke? | `Are you [out of your mind/going crazy]?` | Are you out of your mind? |
 
 ### 🎯 Level 44
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
