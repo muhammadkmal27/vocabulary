@@ -1,20 +1,15 @@
 FROM php:8.3-fpm-alpine
 
-# Install system dependencies & PHP extensions
+# Install system dependencies
 RUN apk add --no-cache \
-    postgresql-dev \
-    libpng-dev \
-    libxml2-dev \
     zip \
     unzip \
     git \
-    curl \
-    oniguruma-dev \
-    $PHPIZE_DEPS
+    curl
 
-RUN pecl install redis && docker-php-ext-enable redis
-
-RUN docker-php-ext-install pdo pdo_pgsql mbstring opcache
+# Install PHP extensions using official extension installer
+COPY --from=mlocati/php-extension-installer /usr/bin/install-php-extensions /usr/local/bin/
+RUN install-php-extensions pdo_pgsql redis mbstring opcache bcmath zip
 
 # Install Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
