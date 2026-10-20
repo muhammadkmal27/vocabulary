@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle } from "lucide-react";
+import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle, ChevronRight } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 
@@ -41,6 +41,8 @@ interface YoutubeVideoData {
   category: string;
   subtitles: Subtitle[];
   user_progress?: UserVideoProgress;
+  next_video_id?: string | null;
+  next_video_title?: string | null;
 }
 
 export default function InteractivePlayerPage() {
@@ -61,6 +63,8 @@ export default function InteractivePlayerPage() {
   const [playerReady, setPlayerReady] = useState(false);
   const [isCompleted, setIsCompleted] = useState(false);
   const [isTogglingComplete, setIsTogglingComplete] = useState(false);
+  const [nextVideoId, setNextVideoId] = useState<string | null>(null);
+  const [nextVideoTitle, setNextVideoTitle] = useState<string | null>(null);
 
   const playerRef = useRef<HTMLDivElement>(null);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -227,6 +231,28 @@ export default function InteractivePlayerPage() {
         if (data.user_progress?.is_completed) {
           setIsCompleted(true);
           hasAutoCompletedRef.current = true;
+        }
+        if (data.next_video_id) {
+          setNextVideoId(data.next_video_id);
+          setNextVideoTitle(data.next_video_title || null);
+        } else {
+          // Fallback: fetch /api/videos to locate next video in sequence
+          try {
+            const listRes = await fetch("/api/videos", { headers });
+            if (listRes.ok) {
+              const listData = await listRes.json();
+              if (Array.isArray(listData) && listData.length > 0) {
+                const currentIndex = listData.findIndex((v: any) => v.id === videoId);
+                if (currentIndex !== -1) {
+                  const next = listData[currentIndex + 1] || (listData.length > 1 ? listData[0] : null);
+                  if (next) {
+                    setNextVideoId(next.id);
+                    setNextVideoTitle(next.title);
+                  }
+                }
+              }
+            }
+          } catch {}
         }
         setVideoData(data);
       } catch (err) {
@@ -422,6 +448,24 @@ export default function InteractivePlayerPage() {
     }
   };
 
+  const handleNextVideo = () => {
+    if (playerObjRef.current?.getCurrentTime && token && videoId) {
+      try {
+        const curTime = playerObjRef.current.getCurrentTime();
+        const duration = playerObjRef.current.getDuration ? playerObjRef.current.getDuration() : 0;
+        if (curTime > 0 && duration > 0) {
+          syncProgressToBackend(curTime, duration);
+        }
+      } catch {}
+    }
+
+    if (nextVideoId) {
+      router.push(`/video/${nextVideoId}`);
+    } else {
+      router.push("/video");
+    }
+  };
+
   const findSubtitle = (time: number, subs: Subtitle[]): Subtitle | null => {
     if (!subs || !subs.length) return null;
 
@@ -561,34 +605,51 @@ export default function InteractivePlayerPage() {
           <p className="text-xs text-muted-foreground truncate">{videoData?.category || "General Video"}</p>
         </div>
 
-        {/* TICK BOX TOGGLE BUTTON */}
-        <Button
-          variant="outline"
-          size="sm"
-          onClick={handleToggleManualComplete}
-          disabled={isTogglingComplete}
-          className={`gap-1.5 shrink-0 transition-all ${
-            isCompleted
-              ? "bg-emerald-500/10 border-emerald-500/40 text-emerald-400 hover:bg-emerald-500/20"
-              : "hover:border-primary/50 text-muted-foreground hover:text-foreground"
-          }`}
-          title={isCompleted ? "Klik untuk tandakan belum selesai" : "Klik untuk tandakan selesai"}
-        >
-          {isTogglingComplete ? (
-            <Loader2 className="w-3.5 h-3.5 animate-spin" />
-          ) : isCompleted ? (
-            <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
-          ) : (
-            <Circle className="w-3.5 h-3.5" />
-          )}
-          <span className="hidden sm:inline text-xs font-semibold">
-            {isCompleted ? "Selesai" : "Tanda Selesai"}
-          </span>
-        </Button>
+        {/* ACTIONS CONTAINER */}
+        <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+          {/* TICK BOX TOGGLE BUTTON */}
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={handleToggleManualComplete}
+            disabled={isTogglingComplete}
+            className={`h-8 sm:h-9 px-2 sm:px-3 gap-1.5 shrink-0 transition-all ${
+              isCompleted
+                ? "bg-emerald-500/10 border-emerald-500/40 text-emerald-400 hover:bg-emerald-500/20"
+                : "hover:border-primary/50 text-muted-foreground hover:text-foreground"
+            }`}
+            title={isCompleted ? "Klik untuk tandakan belum selesai" : "Klik untuk tandakan selesai"}
+          >
+            {isTogglingComplete ? (
+              <Loader2 className="w-3.5 h-3.5 animate-spin" />
+            ) : isCompleted ? (
+              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
+            ) : (
+              <Circle className="w-3.5 h-3.5" />
+            )}
+            <span className="hidden sm:inline text-xs font-semibold">
+              {isCompleted ? "Selesai" : "Tanda Selesai"}
+            </span>
+          </Button>
 
-        <Badge variant="outline" className="border-primary/30 text-primary shrink-0 gap-1 hidden md:flex">
-          <Sparkles className="w-3.5 h-3.5 fill-current" /> Dual Subtitles
-        </Badge>
+          {/* NEXT VIDEO BUTTON (DESKTOP & MOBILE) */}
+          <Button
+            variant={isCompleted ? "default" : "outline"}
+            size="sm"
+            onClick={handleNextVideo}
+            disabled={!nextVideoId}
+            className={`h-8 sm:h-9 px-2.5 sm:px-3.5 text-xs font-semibold gap-1 sm:gap-1.5 shrink-0 transition-all shadow-sm ${
+              isCompleted
+                ? "bg-primary text-primary-foreground hover:bg-primary/90 shadow-primary/25 ring-1 ring-primary/40"
+                : "hover:border-primary/50 text-foreground hover:text-primary"
+            }`}
+            title={nextVideoTitle ? `Seterusnya: ${nextVideoTitle}` : "Ke video seterusnya"}
+          >
+            <span className="sm:hidden text-[11px] font-semibold">Next</span>
+            <span className="hidden sm:inline text-xs font-semibold">Seterusnya</span>
+            <ChevronRight className="w-3.5 h-3.5 -mr-0.5 sm:w-4 sm:h-4" />
+          </Button>
+        </div>
       </header>
 
       {/* CORE WORKSPACE */}

@@ -135,6 +135,25 @@ class VideoController extends Controller
             ];
         }
 
+        // Attach next video in sequence
+        $nextVideo = YoutubeVideo::where('is_active', true)
+            ->where('language_id', $video->language_id)
+            ->where('order', '>', $video->order)
+            ->orderBy('order', 'asc')
+            ->first(['id', 'title']);
+
+        if (!$nextVideo) {
+            // Loop back to first video if reached end of list
+            $nextVideo = YoutubeVideo::where('is_active', true)
+                ->where('language_id', $video->language_id)
+                ->where('id', '!=', $video->id)
+                ->orderBy('order', 'asc')
+                ->first(['id', 'title']);
+        }
+
+        $video->setAttribute('next_video_id', $nextVideo ? $nextVideo->id : null);
+        $video->setAttribute('next_video_title', $nextVideo ? $nextVideo->title : null);
+
         return response()->json($video);
     }
 
