@@ -12,8 +12,8 @@ Pemeriksaan rapi ke atas kesemua **1,000 ayat kuiz** merangkumi pelbagai aspek l
 
 Secara keseluruhan, kandungan kuiz berada pada tahap asas yang sangat baik, namun terdapat beberapa kelemahan kritikal dan sederhana yang wajar dibaiki segera:
 1. **1 Kes Kritikal Teks Sumber Tidak Diterjemah:** Teks soalan BM ditulis dalam bahasa Inggeris (Level 29, No. 9).
-2. **10+ Kes Tatabahasa Inggeris Rosak / Janggal:** Penggunaan kata tanpa kata kerja (cth: *"What if we gonna the beach"*), *uncountable nouns* diletakkan artikel (*"take a leave"*, *"a tissue paper"*), serta terjemahan harfiah bahasa pasar (*"sleeping wrongly"*).
-3. **9 Kes Pilihan Jawapan Menggugurkan Kata Bantu (Missing Auxiliaries):** Pilihan dalam kurungan yang mengajar struktur salah seperti *"Where you live?"* atau *"What you mean?"* tanpa kata bantu `do/are`.
+2. **10 Kes Tatabahasa Inggeris Rosak / Janggal:** Penggunaan kata tanpa kata kerja (cth: *"What if we gonna the beach"*), *uncountable nouns* diletakkan artikel (*"take a leave"*, *"a tissue paper"*), serta terjemahan harfiah bahasa pasar (*"sleeping wrongly"*).
+3. **9 Kes Dwi-Pilihan Disengajakan (Ayat Pasar vs Tatabahasa Baku):** Soalan seperti *"Where [you/do you] live?"* adalah rekaan sengaja oleh pengasas untuk mendedahkan pengguna kepada *casual street talk* dan *formal grammar* serentak (dicadangkan ditambah nota konteks/tooltip pada UI).
 4. **12 Kes Kesilapan Bahasa Melayu (Ejaan, Pengulangan, Lewah & Kata Indonesia):** Kesilapan ejaan perkataan seperti *"pinggang-mangkuk"*, pengulangan kata *"bayar asing-asing bayar"*, lewah *"paling terbaru"*, dan kata Indonesia *"insting"*.
 5. **11 Pasangan Ayat Berulang (Duplicates):** Ayat yang sama persis diajar semula pada tahap berbeza (contohnya *"Don't count your chickens before they hatch"* dan *"I need to clear my head"*).
 
@@ -220,27 +220,31 @@ Secara keseluruhan, kandungan kuiz berada pada tahap asas yang sangat baik, namu
 
 ---
 
-## 📑 Bahagian 2: Pilihan Jawapan Yang Menggugurkan Kata Bantu (Auxiliary Verbs)
+## 📑 Bahagian 2: Nota Rekaan Pembelajaran — Dwi-Pilihan: Ayat Pasar (Casual Spoken) vs Tatabahasa Baku (Formal Grammar)
 
-Dalam peringkat permulaan (Level 3 hingga 16), terdapat **9 soalan** yang memberikan pilihan jawapan tanpa kata bantu (`do` / `are`). 
-> **Penting untuk Pendidikan:** Walaupun dalam percakapan pasar jalanan (*slang/street talk*), orang kadangkala menggugurkan kata bantu (cth: *"Where you live?"*), meletakkan bentuk ini sebagai salah satu pilihan jawapan yang sah dalam kuiz pembelajaran akan mendidik pelajar bahasa dengan tatabahasa yang salah (*broken grammar*). Penutur bukan jati wajib menguasai struktur ayat tanya yang lengkap terlebih dahulu.
+Berdasarkan objektif rekaan kuiz, kurungan `[...]` pada 9 soalan di bawah ini **memang disengajakan secara kreatif** oleh pengasas untuk mendedahkan pengguna kepada 2 gaya pertuturan sebenar:
+1. **Pilihan A (Ayat Pasar / Spoken Street English):** Bagaimana penutur jati bercakap secara pantas dan santai (contohnya dalam filem, muzik, perbualan kawan-kawan di mana kata bantu seperti *do* atau *are* digugurkan).
+2. **Pilihan B (Tatabahasa Baku / Standard Grammar):** Struktur lengkap dan tepat mengikut hukum tatabahasa bahasa Inggeris rasmi.
 
-| Tahap & No | ID Database | Ayat Asal Kuiz | Pilihan Yang Salah | Cadangan Pembetulan Penuh |
+> **💡 Nilai Tambah Pedagogi:** Ramai pelajar Malaysia menguasai tatabahasa buku teks selama 11 tahun di sekolah, tetapi gagap atau terkejut apabila mendengar penutur jati bertutur secara pasar (*informal spoken*). Pendekatan dwi-pilihan ini adalah satu kelebihan unik platform Bijak English kerana ia mempersiapkan pengguna dengan bahasa realiti dunia sebenar.
+
+| Tahap & No | ID Database | Ayat BM | Pilihan Ayat Pasar (Casual Spoken) | Pilihan Tatabahasa Baku (Formal) |
 | :--- | :--- | :--- | :--- | :--- |
-| **L3, #3** | `019e7ba7-8685-7033-9189-e13fe8fb34d0` | `Where [you/do you] live?` | *Where you live?* ❌ | `Where do you live?` ✅ |
-| **L3, #4** | `019e7ba7-8687-70c9-98e4-c7fb328bff8b` | `What [you/do you] do?` | *What you do?* ❌ | `What do you do?` ✅ |
-| **L3, #13** | `019e7ba7-8692-72bf-826d-fbcf0dd2c41c` | `Where [you/are you] going?` | *Where you going?* ❌ | `Where are you going?` ✅ |
-| **L5, #8** | `019e7ba7-86e0-7164-9a2e-4b95fae223c8` | `What [you/do you] mean?` | *What you mean?* ❌ | `What do you mean?` ✅ |
-| **L8, #1** | `019e7ba7-8761-72f1-93c6-99059f1ca9ec` | `What [you want/do you want]?` | *What you want?* ❌ | `What do you want?` ✅ |
-| **L8, #4** | `019e7ba7-8766-70e1-bbcb-f0a9962e08a6` | `Which one [you prefer/do you prefer]?` | *Which one you prefer?* ❌ | `Which one do you prefer?` ✅ |
-| **L11, #5** | `019e7ba7-87fd-73ad-932f-a6ddf6b47d34` | `What [you looking for/are you looking for]?` | *What you looking for?* ❌ | `What are you looking for?` ✅ |
-| **L15, #1** | `019e7ba7-8854-7221-a3f2-17983ea1c2c3` | `What [you up to/are you up to]?` | *What you up to?* ❌ | `What are you up to?` ✅ |
-| **L16, #12** | `019e7ba7-8877-7086-a70e-f0b4d455d3e0` | `What [you need/do you need]?` | *What you need?* ❌ | `What do you need?` ✅ |
+| **L3, #3** | `019e7ba7-8685-7033-9189-e13fe8fb34d0` | `Awak tinggal di mana?` | `Where you live?` *(Santai/Pasar)* | `Where do you live?` *(Baku)* |
+| **L3, #4** | `019e7ba7-8687-70c9-98e4-c7fb328bff8b` | `Awak kerja apa?` | `What you do?` *(Santai/Pasar)* | `What do you do?` *(Baku)* |
+| **L3, #13** | `019e7ba7-8692-72bf-826d-fbcf0dd2c41c` | `Awak nak pergi mana tu?` | `Where you going?` *(Santai/Pasar)* | `Where are you going?` *(Baku)* |
+| **L5, #8** | `019e7ba7-86e0-7164-9a2e-4b95fae223c8` | `Apa maksud awak?` | `What you mean?` *(Santai/Pasar)* | `What do you mean?` *(Baku)* |
+| **L8, #1** | `019e7ba7-8761-72f1-93c6-99059f1ca9ec` | `Awak nak apa?` | `What you want?` *(Santai/Pasar)* | `What do you want?` *(Baku)* |
+| **L8, #4** | `019e7ba7-8766-70e1-bbcb-f0a9962e08a6` | `Awak lebih suka yang mana satu?` | `Which one you prefer?` *(Santai/Pasar)* | `Which one do you prefer?` *(Baku)* |
+| **L11, #5** | `019e7ba7-87fd-73ad-932f-a6ddf6b47d34` | `Awak tengah cari apa tu?` | `What you looking for?` *(Santai/Pasar)* | `What are you looking for?` *(Baku)* |
+| **L15, #1** | `019e7ba7-8854-7221-a3f2-17983ea1c2c3` | `Awak tengah buat apa tu?` | `What you up to?` *(Santai/Pasar)* | `What are you up to?` *(Baku)* |
+| **L16, #12** | `019e7ba7-8877-7086-a70e-f0b4d455d3e0` | `Apa yang awak perlukan?` | `What you need?` *(Santai/Pasar)* | `What do you need?` *(Baku)* |
 
-- **Contoh Penjelasan Pedagogi:**
-  - Dalam ayat tanya bahasa Inggeris jenis *Wh-Questions* (What, Where, Which, Why, How), struktur standard tatabahasa adalah:  
-    $$\text{Wh-Word} + \textbf{Auxiliary Verb (do/does/is/are/did)} + \text{Subject} + \text{Main Verb}$$
-  - Menggugurkan kata bantu menjadikan ayat kedengaran tidak terpelajar (*ungrammatical pidgin English*). Pembetulan ini menjamin pelajar Bijak English membina asas tatabahasa yang mantap.
+### 🌟 Cadangan Penambahbaikan (UI / User Experience):
+Memandangkan niat asal tuan adalah untuk mendidik kedua-dua bentuk ini, ayat-ayat di atas **tidak perlu dibuang atau ditukar**. Sebaliknya, satu sentuhan kecil pada UI akan menjadikan ciri ini sangat berkuasa dan kelihatan profesional:
+1. **Nota Konteks / Tooltip:** Apabila pengguna menjawab soalan ini, boleh dipaparkan info ringkas:
+   - *💡 Info Bijak:* *"Where you live?" digunakan semasa sembang santai dengan kawan-kawan rapat. Dalam urusan rasmi atau temuduga kerja, gunakan "Where do you live?".*
+2. **Hasil Pembelajaran:** Pengguna tidak akan keliru dan mereka akan berterima kasih kerana Bijak English mengajar mereka bahasa Inggeris yang benar-benar hidup (*street-smart*) dan pada masa yang sama tahu batas etika tatabahasa rasmi!
 
 ---
 
