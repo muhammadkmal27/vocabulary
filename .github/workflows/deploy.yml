@@ -105,3 +105,6 @@ jobs:
           # Jalankan seeder untuk data video (updateOrCreate - selamat dijalankan berulang kali)
           docker exec vocabulary-laravel-prod php artisan db:seed --class=YoutubeVideoSeeder --force
 
+          # Kemas kini ayat kuiz Level 1-50 [Standard / Casual]
+          docker exec vocabulary-laravel-prod php artisan db:seed --class=QuizSentencesUpdateSeeder --force
+

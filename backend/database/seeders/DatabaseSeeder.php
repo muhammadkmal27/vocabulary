@@ -49,5 +49,6 @@ class DatabaseSeeder extends Seeder
         );
 
         $this->call(YoutubeVideoSeeder::class);
+        $this->call(QuizSentencesUpdateSeeder::class);
     }
 }
