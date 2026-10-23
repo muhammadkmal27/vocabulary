@@ -107,4 +107,5 @@ jobs:
 
           # Kemas kini ayat kuiz Level 1-50 [Standard / Casual]
           docker exec vocabulary-laravel-prod php artisan db:seed --class=QuizSentencesUpdateSeeder --force
+          docker exec vocabulary-laravel-prod php artisan db:seed --class=QuizSentencesGermanUpdateSeeder --force
 

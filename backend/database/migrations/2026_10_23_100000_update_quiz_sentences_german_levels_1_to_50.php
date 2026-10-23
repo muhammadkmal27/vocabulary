@@ -1,0 +1,79 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     * Updates all 1,000 German quiz sentences for Level 1 to Level 50
+     * using the verified [Standard / Casual] format from correction-german.md.
+     */
+    public function up(): void
+    {
+        $jsonPath = database_path('quiz_sentences_l1_l50_german_updates.json');
+        if (!file_exists($jsonPath)) {
+            Log::warning("[Migration] quiz_sentences_l1_l50_german_updates.json not found at: {$jsonPath}");
+            return;
+        }
+
+        $items = json_decode(file_get_contents($jsonPath), true);
+        if (empty($items)) {
+            Log::warning("[Migration] No items found in quiz_sentences_l1_l50_german_updates.json");
+            return;
+        }
+
+        // Cache German level IDs by order
+        $germanLevels = DB::table('levels')
+            ->whereIn('language_id', function ($query) {
+                $query->select('id')->from('languages')->where('code', 'de')->orWhere('name', 'German');
+            })
+            ->pluck('id', 'order')
+            ->toArray();
+
+        DB::transaction(function () use ($items, $germanLevels) {
+            $updatedCount = 0;
+            $now = now();
+
+            foreach ($items as $item) {
+                // 1. Primary match: exact sentence UUID
+                $affected = DB::table('sentences')
+                    ->where('id', $item['id'])
+                    ->update([
+                        'source_text' => $item['source_text'],
+                        'target_text' => $item['target_text'],
+                        'updated_at' => $now,
+                    ]);
+
+                // 2. Fallback match: German level order and sentence order
+                if ($affected === 0 && isset($germanLevels[$item['level_order']])) {
+                    $levelId = $germanLevels[$item['level_order']];
+                    $affected = DB::table('sentences')
+                        ->where('level_id', $levelId)
+                        ->where('order', $item['order'])
+                        ->update([
+                            'source_text' => $item['source_text'],
+                            'target_text' => $item['target_text'],
+                            'updated_at' => $now,
+                        ]);
+                }
+
+                if ($affected > 0) {
+                    $updatedCount++;
+                }
+            }
+
+            Log::info("[Migration] Successfully updated {$updatedCount}/" . count($items) . " German quiz sentences (Levels 1-50).");
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        // Reversible not required as this applies verified linguistic and grammatical improvements
+    }
+};
