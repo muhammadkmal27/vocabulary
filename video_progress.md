@@ -4,13 +4,15 @@
 
 ---
 
-## 🔒 Member-Only (SKIP)
+## 🔒 Member-Only & Private (SKIP)
 | # | Video ID | Tajuk |
 |---|---|---|
 | - | QQjZDF-ll7s | Listen and Speak English with a Simple Story |
 | - | OOXROcnJLbo | First time in Lima Peru \|\| VIP member video #3 |
 | - | 8lzvrFn6w-8 | Vacation, Beach, surfing \|\| VIP member-only Video |
 | - | aYMH10ZfAQI | Learn English \| (All Channel Members) Vlog #1 |
+| - | 2zD1C0Uamkw | [Video Private / Dibuang] |
+| - | Sf2JLXRg7wM | [Video Private / Dibuang] |
 
 ---
 
@@ -129,7 +131,29 @@
 | 109 | ✅ SIAP | eX_M_zjze8I | LEARN ENGLISH naturally with this Vlog |
 | 110 | ✅ SIAP | NLEsrMms6mw | Learn English at Home: Everyday Vocabulary & Phrases |
 | 111 | ⬜ BELUM | dwEpmwk6YF8 | Learn english the EASY way (Comprehensible input) |
+| 112 | ⬜ BELUM | lxoMNDsktlY | LEARN ENGLISH While Exploring an Ancient Temple \| Easy English Vlog |
+| 113 | ⬜ BELUM | mgfBmnD04Q8 | LEARN ENGLISH by Listening to Slow, Natural Conversations |
+| 114 | ⬜ BELUM | LTVk3yUb5Mg | The Easiest Way to Learn English? My Real Daily Routine \| POV Vlog |
+| 115 | ⬜ BELUM | ErP_AKE3riY | English Speech \| Learn How to Talk About Yourself in English (EASY) |
+| 116 | ⬜ BELUM | 8fFqTwJq3f4 | Slow English Podcast #3 \| Listen and Learn Clear, Natural English |
+| 117 | ⬜ BELUM | 3ZFzbhjvmwA | Learn English Without Feeling Like You're Studying (Think in English) |
+| 118 | ⬜ BELUM | 0mvcPhHRzU4 | Can You Keep Up?? A Natural English Listening Challenge |
+| 119 | ⬜ BELUM | 3vyg5nS15D0 | LEARN ENGLISH Through a Real Day in My Life \| Easy Vlog |
+| 120 | ⬜ BELUM | GedeppCSt70 | Can You Follow My English Without Translating? |
+| 121 | ⬜ BELUM | 7WZSBB2VGK0 | LEARN ENGLISH While Exploring Nature \| Comprehensible Input |
+| 122 | ⬜ BELUM | Yxxom8-T9LM | Can You Understand Everything I Describe in This Museum? |
+| 123 | ⬜ BELUM | 78h7BYrcTZw | What Would You Say at a Hotel? \| English Speaking Challenge |
+| 124 | ⬜ BELUM | p7Sx9SR9NhY | The Easiest Way to Learn English? Come Along for the Day |
+| 125 | ⬜ BELUM | dBci_7XstFA | I’ll Show You My Day. You Practice Your English |
+| 126 | ⬜ BELUM | UXwhnaavwJ8 | Can You Understand a Native Speaker for a Full Day? |
+| 127 | ⬜ BELUM | 64B9rgGBEq4 | LEARN ENGLISH With a Real Life Update \| Slow English Podcast |
+| 128 | ⬜ BELUM | yikwWJI7quA | Don't Get Confused: Shopping in English Made Easy |
+| 129 | ⬜ BELUM | qZhiQA8vkDA | A Day on the Great Wall of China \| Comprehensible Input Vlog |
+| 130 | ⬜ BELUM | YLqSp_nG0qs | Walk With Me and Practice Natural English |
+| 131 | ⬜ BELUM | kOMoNfxLjQU | Speak With Me and Shadow to Improve Your English Naturally (Think in English) |
+| 132 | ⬜ BELUM | GvbnYa4uvSQ | A Simple English Vlog for Travel and Daily Life |
+| 133 | ⬜ BELUM | bmztQoZA7IM | How to Train Your Brain to Think and Speak in English Naturally \| Vlog |
 
 ---
 
-**Progress: 106/111 selesai** — Last updated: Video #110 (NLEsrMms6mw, 79 BM subtitles) ✅
+**Progress: 106/133 selesai** — Last updated: Video #110 (NLEsrMms6mw, 79 BM subtitles) ✅

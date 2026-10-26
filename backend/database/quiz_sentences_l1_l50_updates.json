@@ -109,7 +109,7 @@
     "level_order": 1,
     "order": 16,
     "source_text": "Di mana kunci saya?",
-    "target_text": "Where's [my key/are my keys]?"
+    "target_text": "[Where's my key/Where are my keys]?"
   },
   {
     "id": "019e71e1-327c-71e1-9d58-b2fe6426441a",
@@ -193,7 +193,7 @@
     "level_order": 2,
     "order": 8,
     "source_text": "Boleh bagi bil?",
-    "target_text": "[Could we have the bill/Bill, please]?"
+    "target_text": "[Could we have the check/Check, please]?"
   },
   {
     "id": "019e7b93-72a5-7173-8f22-a29d484b8e37",
@@ -620,7 +620,7 @@
     "level_order": 5,
     "order": 9,
     "source_text": "Saya sesat.",
-    "target_text": "I'm [lost/lost my way]."
+    "target_text": "[I'm lost/I lost my way]."
   },
   {
     "id": "019e7bd3-e09b-716d-804b-5c8c93e90c92",
@@ -732,7 +732,7 @@
     "level_order": 6,
     "order": 5,
     "source_text": "Kat mana kita patut jumpa?",
-    "target_text": "Where [should we meet/shall we hook up]?"
+    "target_text": "Where [should we meet/do you wanna meet up]?"
   },
   {
     "id": "019e7cfc-dc4c-7152-9cad-6a32ea60ccc4",
@@ -991,7 +991,7 @@
     "level_order": 8,
     "order": 2,
     "source_text": "Saya nak yang ini.",
-    "target_text": "I [want this one/would like this one]."
+    "target_text": "[I would like this one/I'll take this one]."
   },
   {
     "id": "019e7d1d-3410-73f3-ab88-d5cc98e8bc2a",
@@ -1649,7 +1649,7 @@
     "level_order": 12,
     "order": 16,
     "source_text": "Semuanya dah siap sedia ke?",
-    "target_text": "Is [everything ready/all set]?"
+    "target_text": "[Is everything ready/Are we all set]?"
   },
   {
     "id": "019e8687-1251-7072-9f33-b86c053afa88",
@@ -2762,7 +2762,7 @@
     "level_order": 20,
     "order": 15,
     "source_text": "Jom kita bayar asing-asing untuk makanan ni.",
-    "target_text": "Let's [split the bill/go Dutch]."
+    "target_text": "Let's [split the check/go Dutch]."
   },
   {
     "id": "019e879d-88a1-70a0-9835-fb4b740f796d",
@@ -4239,7 +4239,7 @@
     "level_order": 31,
     "order": 6,
     "source_text": "Jom kita tong-tong (kongsi) duit minyak.",
-    "target_text": "Let's [split the petrol money/chip in for gas]."
+    "target_text": "Let's [split the gas money/chip in for gas]."
   },
   {
     "id": "019ec618-91f2-72cc-8d5d-07866f97c292",
@@ -4365,7 +4365,7 @@
     "level_order": 32,
     "order": 4,
     "source_text": "Jangan biarkan air paip ni terbiar terbuka.",
-    "target_text": "Don't [leave the tap running/let the water run]."
+    "target_text": "Don't [leave the faucet running/let the water run]."
   },
   {
     "id": "019ec621-f28c-737d-8576-4c9980c24a95",
@@ -4631,7 +4631,7 @@
     "level_order": 34,
     "order": 2,
     "source_text": "Jom kita pergi buang sampah tu.",
-    "target_text": "Let's [throw away the rubbish/take out the trash]."
+    "target_text": "Let's [throw away the trash/take out the trash]."
   },
   {
     "id": "019ec64a-08ce-72d8-b829-6b8d75a6c85d",
@@ -4645,7 +4645,7 @@
     "level_order": 34,
     "order": 4,
     "source_text": "Jangan biarkan paip air tu menitik.",
-    "target_text": "Don't [leave the tap leaking/let the faucet drip]."
+    "target_text": "Don't [leave the faucet leaking/let the faucet drip]."
   },
   {
     "id": "019ec64a-08d0-732e-aa30-eeb0673475bf",
@@ -4743,7 +4743,7 @@
     "level_order": 34,
     "order": 18,
     "source_text": "Jom kita semak balik resit tu.",
-    "target_text": "Let's [check the receipt again/take another look at the bill]."
+    "target_text": "Let's [check the receipt again/take another look at the receipt]."
   },
   {
     "id": "019ec654-ac5a-7026-ab25-d20963eefc6d",
@@ -5548,7 +5548,7 @@
     "level_order": 40,
     "order": 13,
     "source_text": "Saya tengah cari lampu suluh ni.",
-    "target_text": "I'm [looking for the flashlight/hunting for the torch]."
+    "target_text": "I'm [looking for the flashlight/trying to find the flashlight]."
   },
   {
     "id": "019ecb2d-17cf-73bd-9dac-6b2bd69d2bd0",
@@ -5856,7 +5856,7 @@
     "level_order": 42,
     "order": 17,
     "source_text": "Harga benda ni mahal gila.",
-    "target_text": "It's [very expensive/costs an arm and a leg]."
+    "target_text": "[It's very expensive/It costs an arm and a leg]."
   },
   {
     "id": "019ece87-3006-721a-bcd9-61d09288a6cf",
@@ -5912,7 +5912,7 @@
     "level_order": 43,
     "order": 5,
     "source_text": "Tren (LRT/MRT) lambat sampai tak hari ini?",
-    "target_text": "Is there [any delay on the train/the train running late today]?"
+    "target_text": "[Is the train delayed/Is the train running late today]?"
   },
   {
     "id": "019ece97-7886-70b1-9cac-c3143e777244",
@@ -5926,7 +5926,7 @@
     "level_order": 43,
     "order": 7,
     "source_text": "Saya hampir tak dengar apa-apa langsung.",
-    "target_text": "I can't [hear anything at all/barely hear a thing]."
+    "target_text": "[I can't hear anything at all/I can barely hear a thing]."
   },
   {
     "id": "019ece97-7889-736a-8d03-ba32d5279943",
@@ -6024,7 +6024,7 @@
     "level_order": 44,
     "order": 1,
     "source_text": "Berapa jauh stesen minyak yang paling dekat?",
-    "target_text": "How far is [the nearest gas station/the closest petrol pump]?"
+    "target_text": "[How far is the nearest gas station/Where's the closest gas station]?"
   },
   {
     "id": "019eceb3-710b-7077-b422-409619c6dabd",
@@ -6038,7 +6038,7 @@
     "level_order": 44,
     "order": 3,
     "source_text": "Saya berbelah bahagi tentang perkara ni.",
-    "target_text": "I'm [torn about this/on two minds about this]."
+    "target_text": "I'm [torn about this/on the fence about this]."
   },
   {
     "id": "019eceb3-710e-70f9-be5a-6573a26b8a6e",
@@ -6192,7 +6192,7 @@
     "level_order": 45,
     "order": 5,
     "source_text": "Ada farmasi yang buka lagi ke jam macam ni?",
-    "target_text": "Is there [any pharmacy open at this hour/any chemist open right now]?"
+    "target_text": "Is there [any pharmacy open at this hour/a drugstore open right now]?"
   },
   {
     "id": "019ecf46-c22f-72c0-8927-167c1ab76ba3",
@@ -6283,7 +6283,7 @@
     "level_order": 45,
     "order": 18,
     "source_text": "Siapa yang biarkan paip air terbuka dekat dalam bilik air?",
-    "target_text": "Who left the [tap running in the bathroom/faucet on in the bathroom]?"
+    "target_text": "Who left the [faucet running in the bathroom/faucet on in the bathroom]?"
   },
   {
     "id": "019ecf50-cc78-71cc-a7c8-927249c54cc1",
@@ -6409,7 +6409,7 @@
     "level_order": 46,
     "order": 16,
     "source_text": "Sejak menjak dua tiga hari ni saya kerap tidur lewat sangat.",
-    "target_text": "I've [been staying up late these past few days/burning the midnight oil lately]."
+    "target_text": "I've been [staying up late these past few days/burning the midnight oil lately]."
   },
   {
     "id": "019ecf6d-13c9-71f8-abd1-2a00ab118d93",
@@ -6549,7 +6549,7 @@
     "level_order": 47,
     "order": 16,
     "source_text": "Sejak menjak ni saya tengah kurangkan minum air manis.",
-    "target_text": "I've [been cutting down on sweet drinks lately/trying to cut out sugary drinks]."
+    "target_text": "I've been [cutting down on sweet drinks lately/trying to cut out sugary drinks]."
   },
   {
     "id": "019ecfda-5d20-70c9-b85c-5e521b2c7314",
@@ -6647,7 +6647,7 @@
     "level_order": 48,
     "order": 10,
     "source_text": "Saya kena pergi tunaikan cek ni dekat bank.",
-    "target_text": "I need to [cash this cheque at the bank/deposit this cheque]."
+    "target_text": "I need to [cash this check at the bank/deposit this check]."
   },
   {
     "id": "019ecff2-3848-7189-973c-f86a9ec59c00",
@@ -6689,7 +6689,7 @@
     "level_order": 48,
     "order": 16,
     "source_text": "Sejak menjak ni saya rasa badan macam kurang sihat sikit.",
-    "target_text": "I've [been feeling a bit under the weather lately/feeling somewhat run down lately]."
+    "target_text": "I've been [feeling a bit under the weather lately/feeling somewhat run down lately]."
   },
   {
     "id": "019ecff6-2800-73c4-9b45-c9f94ddb6fb9",
@@ -6829,7 +6829,7 @@
     "level_order": 49,
     "order": 16,
     "source_text": "Sejak menjak minggu ni saya rasa macam agak serabut.",
-    "target_text": "I've [been feeling a bit overwhelmed this week/feeling super swamped all week]."
+    "target_text": "I've been [feeling a bit overwhelmed this week/feeling super swamped all week]."
   },
   {
     "id": "019ed008-4531-7362-9d18-5d20c935d1b3",
@@ -6913,7 +6913,7 @@
     "level_order": 50,
     "order": 8,
     "source_text": "Pastikan awak periksa resit tu dua kali sebelum keluar.",
-    "target_text": "Make sure you [double-check the receipt before leaving/check the bill before walking out]."
+    "target_text": "Make sure you [double-check the receipt before leaving/check the receipt before walking out]."
   },
   {
     "id": "019ed010-e70e-7010-815e-543f016e382f",

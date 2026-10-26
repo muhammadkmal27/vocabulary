@@ -48,7 +48,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 13 | Jumpa lagi. | `[See you later/Catch you later].` | See you later. |
 | 14 | Apa pendapat awak pasal idea ni? | `What do you think [about this idea/of this idea]?` | What do you think about this idea? |
 | 15 | Saya setuju. | `[I agree/Same here].` | I agree. |
-| 16 | Di mana kunci saya? | `Where's [my key/are my keys]?` | Where['s/ is] my key? |
+| 16 | Di mana kunci saya? | `[Where's my key/Where are my keys]?` | Where['s/ is] my key? |
 | 17 | Dah pukul 11:30 malam sekarang. | `It's [already 11:30 PM/past 11:30 PM].` | It['s/ is] already 11:30 PM. |
 | 18 | Saya nak pergi tidur. | `I'm [going to bed/hitting the sack].` | I['m/ am] going to bed. |
 | 19 | Hai! Sampai pun awak. | `Hi! You're [finally here/here at last].` | Hi! You['re/ are] finally here. |
@@ -64,7 +64,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 5 | Boleh saya bantu? | `[Can I help you/Need any help]?` | Can I help you? |
 | 6 | Tolong senyap. | `[Please be quiet/Keep it down, please].` | Please be quiet. |
 | 7 | Kami dah selesai makan. | `We're [done eating/finished eating].` | We['re/ are] done eating. |
-| 8 | Boleh bagi bil? | `[Could we have the bill/Bill, please]?` | Bill, please. |
+| 8 | Boleh bagi bil? | `[Could we have the check/Check, please]?` | Bill, please. |
 | 9 | Maafkan saya, di mana tandas? | `Excuse me, where's the [restroom/toilet]?` | Excuse me, where['s/ is] the toilet? |
 | 10 | Di sebelah sana. | `[Over there/Right over there].` | Over there. |
 | 11 | Projek ni susah sangat, saya rasa nak putus asa. | `This project's so hard, I [want to/wanna] give up.` | This project's so hard, I [wanna/want to] give up. |
@@ -137,7 +137,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 6 | Saya rasa begitulah. | `I [think so/reckon so].` | I think so. |
 | 7 | Saya rasa bukan macam tu. | `I don't [think so/reckon].` | I don't think so. |
 | 8 | Apa maksud awak? | `What [do you mean/you mean]?` | What [you/do you] mean? |
-| 9 | Saya sesat. | `I'm [lost/lost my way].` | I['m/ am] lost. |
+| 9 | Saya sesat. | `[I'm lost/I lost my way].` | I['m/ am] lost. |
 | 10 | Boleh awak tolong saya cari benda ni? | `Can you help me [find this/look for this]?` | Can you help me find this? |
 | 11 | Benda ni mahal sangat. | `It's [too expensive/pricey].` | It['s/ is] too expensive. |
 | 12 | Benda ni agak murah. | `It's [quite cheap/pretty cheap].` | It['s/ is] quite cheap. |
@@ -157,7 +157,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Saya ada masa sekarang. | `I'm [free now/available right now].` | I['m/ am] free now. |
 | 3 | Saya sibuk sikit. | `I'm [a bit busy/kind of tied up].` | I['m/ am] a bit busy. |
 | 4 | Jom kita jumpa. | `Let's [meet up/catch up].` | Let's meet up. |
-| 5 | Kat mana kita patut jumpa? | `Where [should we meet/shall we hook up]?` | Where should we meet? |
+| 5 | Kat mana kita patut jumpa? | `Where [should we meet/do you wanna meet up]?` | Where should we meet? |
 | 6 | Mana-mana pun okay. | `Anywhere's [fine/good with me].` | Anywhere['s/ is] fine. |
 | 7 | Saya dah lambat ni. | `I'm [running late/behind schedule].` | I['m/ am] running late. |
 | 8 | Maaf sebab lambat. | `Sorry [for the delay/I'm late].` | Sorry [I'm late/for the delay]. |
@@ -202,7 +202,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
 | 1 | Awak nak apa? | `What [do you want/you want]?` | What [you want/do you want]? |
-| 2 | Saya nak yang ini. | `I [want this one/would like this one].` | I want this one. |
+| 2 | Saya nak yang ini. | `[I would like this one/I'll take this one].` | I want this one. |
 | 3 | Saya tak nak benda tu. | `I don't [want it/need it].` | I don't want it. |
 | 4 | Awak lebih suka yang mana satu? | `Which one [do you prefer/you prefer]?` | Which one [you prefer/do you prefer]? |
 | 5 | Mana-mana satu pun okay. | `Either one's [fine/good with me].` | Either one['s/ is] fine. |
@@ -312,7 +312,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 13 | Saya akan sampai sana sekejap lagi. | `I'll [be there soon/be right there].` | I['ll be there soon/ will be there soon]. |
 | 14 | Ambil masa awak, tak perlu terburu-buru. | `Take your time, [don't rush/no rush].` | Take your time, [don't rush/do not rush]. |
 | 15 | Saya kena semak semula untuk kepastian. | `I need to [double-check/make sure].` | I need to double-check. |
-| 16 | Semuanya dah siap sedia ke? | `Is [everything ready/all set]?` | Is everything ready? |
+| 16 | Semuanya dah siap sedia ke? | `[Is everything ready/Are we all set]?` | Is everything ready? |
 | 17 | Semua dah sedia, kita dah boleh gerak. | `We're [good to go/ready to roll].` | We['re good to go/ are good to go]. |
 | 18 | Jom kita bersurai. | `Let's [call it a day/wrap it up].` | Let's call it a day. |
 | 19 | Pergilah rehat secukupnya. | `[Get some rest/Catch some z's].` | Get some rest. |
@@ -503,7 +503,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 12 | Dah ada kat hujung lidah saya dah ni. | `It's [on the tip of my tongue/almost coming out].` | It['s on the tip of my tongue/ is on the tip of my tongue]. |
 | 13 | Jangan buat kecoh kat sini. | `Don't [make a scene/cause a commotion].` | [Don't make a scene/Do not make a scene]. |
 | 14 | Kecil betul dunia ni. | `It's [a small world/such a small world]!` | It['s a small world/ is a small world]. |
-| 15 | Jom kita bayar asing-asing untuk makanan ni. | `Let's [split the bill/go Dutch].` | Let's split the bill. |
+| 15 | Jom kita bayar asing-asing untuk makanan ni. | `Let's [split the check/go Dutch].` | Let's split the bill. |
 | 16 | Saya tak ada mood la sekarang ni. | `I'm [not in the mood/feeling off today].` | I['m not in the mood/ am not in the mood]. |
 | 17 | Kuatkan semangat. | `[Keep your chin up/Stay strong].` | Keep your chin up. |
 | 18 | Lebih baik lambat daripada tak buat langsung. | `It's [better late than never/never too late].` | It['s better late than never/ is better late than never]. |
@@ -758,7 +758,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 3 | Sunyi betul kat sini. | `It's [very quiet here/dead quiet here].` | It['s very quiet here/ is very quiet here]. |
 | 4 | Jangan tinggalkan kasut awak kat luar. | `Don't [leave your shoes outside/leave your footwear out].` | [Don't leave your shoes outside/Do not leave your shoes outside]. |
 | 5 | Saya tengah sarapan ni. | `I'm [having breakfast/grabbing some breakfast].` | I['m having my breakfast/ am having my breakfast]. |
-| 6 | Jom kita tong-tong (kongsi) duit minyak. | `Let's [split the petrol money/chip in for gas].` | Let's share the petrol money. |
+| 6 | Jom kita tong-tong (kongsi) duit minyak. | `Let's [split the gas money/chip in for gas].` | Let's share the petrol money. |
 | 7 | Itu satu pilihan yang mudah. | `It's [an easy choice/a pretty easy pick].` | It['s an easy choice/ is an easy choice]. |
 | 8 | Jangan minum terlalu banyak kafein. | `Don't [drink too much caffeine/have too much coffee].` | [Don't drink too much caffeine/Do not drink too much caffeine]. |
 | 9 | Saya tengah cari hadiah ni. | `I'm [looking for a gift/gift hunting].` | I['m looking for a gift/ am looking for a gift]. |
@@ -780,7 +780,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 1 | Bau apa tu? | `What's [that smell/that odor]?` | What['s that smell/ is that smell]? |
 | 2 | Jom kita tutup kipas tu. | `Let's [turn off the fan/switch off the fan].` | Let's turn off the fan. |
 | 3 | Kat luar dah mula nak gelap dah ni. | `It's [getting dark outside/getting dim outside].` | It['s getting dark outside/ is getting dark outside]. |
-| 4 | Jangan biarkan air paip ni terbiar terbuka. | `Don't [leave the tap running/let the water run].` | [Don't leave the water running/Do not leave the water running]. |
+| 4 | Jangan biarkan air paip ni terbiar terbuka. | `Don't [leave the faucet running/let the water run].` | [Don't leave the water running/Do not leave the water running]. |
 | 5 | Saya tengah cas telefon saya ni. | `I'm [charging my phone/plugging my phone in].` | I['m charging my phone/ am charging my phone]. |
 | 6 | Jom kita cari tempat letak kereta. | `Let's [look for a parking spot/find some parking].` | Let's look for a parking spot. |
 | 7 | Benda ni percuma. | `It's [free of charge/on the house].` | It['s free of charge/ is free of charge]. |
@@ -826,9 +826,9 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
 | 1 | Bunyi bising apa kat luar tu? | `What's [that noise outside/going on outside]?` | What['s that noise outside/ is that noise outside]? |
-| 2 | Jom kita pergi buang sampah tu. | `Let's [throw away the rubbish/take out the trash].` | Let's throw away the rubbish. |
+| 2 | Jom kita pergi buang sampah tu. | `Let's [throw away the trash/take out the trash].` | Let's throw away the rubbish. |
 | 3 | Licin betul kat sini. | `It's [very slippery here/super slick right here].` | It['s very slippery here/ is very slippery here]. |
-| 4 | Jangan biarkan paip air tu menitik. | `Don't [leave the tap leaking/let the faucet drip].` | [Don't leave the tap leaking/Do not leave the tap leaking]. |
+| 4 | Jangan biarkan paip air tu menitik. | `Don't [leave the faucet leaking/let the faucet drip].` | [Don't leave the tap leaking/Do not leave the tap leaking]. |
 | 5 | Saya tengah siapkan meja makan ni. | `I'm [setting up the table/laying out the plates].` | I['m setting up the table/ am setting up the table]. |
 | 6 | Jom kita perlahankan sikit volume tu. | `Let's [turn down the volume/lower the sound].` | Let's turn down the volume. |
 | 7 | Benda ni masih baru lagi. | `It's [brand new/fresh out of the box].` | It['s brand new/ is brand new]. |
@@ -842,7 +842,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 15 | Benda ni terlalu ketat untuk saya. | `It's [too tight for me/squeezing me too much].` | It['s too tight for me/ is too tight for me]. |
 | 16 | Jangan pijak rumput tu. | `Don't [step on the grass/walk on the lawn].` | [Don't step on the grass/Do not step on the grass]. |
 | 17 | Saya cuma tengah lap cermin ni je. | `I'm [just wiping the glass/giving the mirror a wipe].` | I['m just wiping the glass/ am just wiping the glass]. |
-| 18 | Jom kita semak balik resit tu. | `Let's [check the receipt again/take another look at the bill].` | Let's check the receipt again. |
+| 18 | Jom kita semak balik resit tu. | `Let's [check the receipt again/take another look at the receipt].` | Let's check the receipt again. |
 | 19 | Benda tu ada dekat atas rak bahagian tengah. | `It's [on the middle shelf/right on the center rack].` | It['s on the middle shelf/ is on the middle shelf]. |
 | 20 | Jom kita kekalkan usaha yang bagus ni. | `Let's [keep up the good work/keep doing great].` | Let's keep up the good work. |
 
@@ -981,7 +981,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 10 | Jom kita malapkan sikit cahaya lampu. | `Let's [dim the lights/keep the lights low].` | Let's keep the lights low. |
 | 11 | Ukurannya memang ngam-ngam. | `It's [a perfect fit/just the right size].` | It['s a perfect fit/ is a perfect fit]. |
 | 12 | Jangan lupa kunci mangga tu nanti. | `Don't [forget to lock the padlock/leave the padlock open].` | [Don't forget to lock the padlock/Do not forget to lock the padlock]. |
-| 13 | Saya tengah cari lampu suluh ni. | `I'm [looking for the flashlight/hunting for the torch].` | I['m looking for the flashlight/ am looking for the flashlight]. |
+| 13 | Saya tengah cari lampu suluh ni. | `I'm [looking for the flashlight/trying to find the flashlight].` | I['m looking for the flashlight/ am looking for the flashlight]. |
 | 14 | Jom kita sental/berus lantai ni. | `Let's [scrub the floor/give the floor a good scrub].` | Let's scrub the floor. |
 | 15 | Benda ni berat sangat nak angkat seorang diri. | `It's [too heavy to carry alone/way too heavy to lift by myself].` | It['s too heavy to carry alone/ is too heavy to carry alone]. |
 | 16 | Jangan bagi kuah sup tu tumpah. | `Don't [spill the soup/slosh the soup around].` | [Don't spill the soup/Do not spill the soup]. |
@@ -1033,7 +1033,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 14 | Siapa cepat, dia dapat. | `[First come, first served/Early bird gets it].` | First come, first served. |
 | 15 | Boleh awak cakap kuat sikit tak? | `Can you [speak up a bit/talk a little louder]?` | Can you speak up a bit? |
 | 16 | Saya rasa pernah nampak benda ni dekat mana-mana sebelum ni. | `I've [seen this somewhere before/spotted this somewhere].` | I['ve seen this somewhere before/ have seen this somewhere before]. |
-| 17 | Harga benda ni mahal gila. | `It's [very expensive/costs an arm and a leg].` | It [costs an arm and a leg/ costs an arm and a leg]. |
+| 17 | Harga benda ni mahal gila. | `[It's very expensive/It costs an arm and a leg].` | It [costs an arm and a leg/ costs an arm and a leg]. |
 | 18 | Siapa yang bertanggungjawab dekat tempat ni? | `Who is [in charge of this place/running this place]?` | Who is in charge of this place? |
 | 19 | Saya betul-betul terlupa langsung pasal rancangan tu. | `I totally [forgot about that plan/blanked on that plan].` | I totally forgot about that plan. |
 | 20 | Awak dah rasa sihat sikit ke sekarang? | `Are you [feeling any better now/feeling better yet]?` | Are you feeling any better now? |
@@ -1045,9 +1045,9 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Bayar guna duit syiling je. | `[Pay with exact change/Just use coins].` | Keep the change. |
 | 3 | Saya ada satu pengakuan nak dibuat. | `I have [a confession to make/something to admit].` | I have a confession to make. |
 | 4 | Ada rezeki kita jumpa lagi. | `[See you when I see you/Until next time].` | See you when I see you. |
-| 5 | Tren (LRT/MRT) lambat sampai tak hari ini? | `Is there [any delay on the train/the train running late today]?` | Is there any delay on the train? |
+| 5 | Tren (LRT/MRT) lambat sampai tak hari ini? | `[Is the train delayed/Is the train running late today]?` | Is there any delay on the train? |
 | 6 | Apa yang awak tanam, itulah yang awak tuai. | `You [reap what you sow/get what you put in].` | You reap what you sow. |
-| 7 | Saya hampir tak dengar apa-apa langsung. | `I can't [hear anything at all/barely hear a thing].` | I [can't hear anything at all/ cannot hear anything at all]. |
+| 7 | Saya hampir tak dengar apa-apa langsung. | `[I can't hear anything at all/I can barely hear a thing].` | I [can't hear anything at all/ cannot hear anything at all]. |
 | 8 | Silakan. | `[Be my guest/Help yourself].` | Be my guest. |
 | 9 | Baju ni nampak sesuai tak dengan saya? | `Does this dress [look good on me/suit me]?` | Does this dress look good on me? |
 | 10 | Saya nak regangkan kaki kejap. | `I need to [stretch my legs/take a quick walk].` | I need to stretch my legs. |
@@ -1065,9 +1065,9 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 ### 🎯 Level 44
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Berapa jauh stesen minyak yang paling dekat? | `How far is [the nearest gas station/the closest petrol pump]?` | How far is the nearest gas station? |
+| 1 | Berapa jauh stesen minyak yang paling dekat? | `[How far is the nearest gas station/Where's the closest gas station]?` | How far is the nearest gas station? |
 | 2 | Fokus pandangan awak dekat jalan raya. | `Keep your [eyes on the road/focus on driving].` | Keep your eyes on the road. |
-| 3 | Saya berbelah bahagi tentang perkara ni. | `I'm [torn about this/on two minds about this].` | I have mixed feelings about this. |
+| 3 | Saya berbelah bahagi tentang perkara ni. | `I'm [torn about this/on the fence about this].` | I have mixed feelings about this. |
 | 4 | Tengoklah sendiri kalau awak tak percaya cakap saya. | `See for yourself if you [don't believe me/think I'm lying].` | See for yourself if you [don't believe me/ do not believe me]. |
 | 5 | Ada pilihan makanan vegetarian tak kat sini? | `Is there [any vegetarian option available/any veggie option here]?` | Is there any vegetarian option available? |
 | 6 | Jangan menilai sesuatu hanya daripada luaran sahaja. | `You can't [judge a book by its cover/judge just from appearances].` | You [can't judge a book by its cover/ cannot judge a book by its cover]. |
@@ -1093,7 +1093,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Tolong perlahankan sikit suara awak. | `Keep your [voice down, please/volume down, please].` | Keep your voice down, please. |
 | 3 | Jadual saya agak padat sikit petang ni. | `I have [a tight schedule this afternoon/a packed afternoon].` | I have a tight schedule this afternoon. |
 | 4 | Cuba tengok kalau awak boleh betulkan selak pintu ni. | `See if you can [fix this latch/mend this lock].` | See if you can fix this latch. |
-| 5 | Ada farmasi yang buka lagi ke jam macam ni? | `Is there [any pharmacy open at this hour/any chemist open right now]?` | Is there any pharmacy open at this hour? |
+| 5 | Ada farmasi yang buka lagi ke jam macam ni? | `Is there [any pharmacy open at this hour/a drugstore open right now]?` | Is there any pharmacy open at this hour? |
 | 6 | Awak janganlah ambil mudah sangat pasal sesuatu benda. | `You shouldn't [take things for granted/assume everything's guaranteed].` | You [shouldn't take things for granted/ should not take things for granted]. |
 | 7 | Saya hampir tak dapat nak lelapkan mata langsung semalam. | `I barely [slept a wink last night/got any sleep last night].` | I barely slept a wink last night. |
 | 8 | Jangan segan-segan nak tanya kalau awak perlukan bantuan. | `[Feel free to ask/Don't hesitate to ask] if you need help.` | Feel free to ask if you need help. |
@@ -1106,7 +1106,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 15 | Boleh tolong pegang benda ni kejap tak? | `Can you [hold this for a second/grab this for a sec]?` | Can you hold this for a second? |
 | 16 | Dah seminggu saya berlatih buat benda ni. | `I've [been practicing this for a week/spent a week on this].` | I['ve been practicing this for a week/ have been practicing this for a week]. |
 | 17 | Benda tu perlukan usaha yang banyak kalau nak buat. | `It takes [a lot of effort to do that/serious work to pull off].` | It takes a lot of effort to do that. |
-| 18 | Siapa yang biarkan paip air terbuka dekat dalam bilik air? | `Who left the [tap running in the bathroom/faucet on in the bathroom]?` | Who left the tap running in the bathroom? |
+| 18 | Siapa yang biarkan paip air terbuka dekat dalam bilik air? | `Who left the [faucet running in the bathroom/faucet on in the bathroom]?` | Who left the tap running in the bathroom? |
 | 19 | Saya betul-betul lupa kat mana saya letak kereta tadi. | `I completely [forgot where I parked my car/lost my car in the lot].` | I completely forgot where I parked my car. |
 | 20 | Awak ada rancang nak pergi mana-mana ke esok? | `Are you planning to [go anywhere tomorrow/head out tomorrow]?` | Are you planning to go anywhere tomorrow? |
 
@@ -1128,7 +1128,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 13 | Saya belum boleh bagitahu awak rahsia tu buat masa ni. | `I can't [tell you the secret yet/spill the beans yet].` | I [can't tell you the secret yet/ cannot tell you the secret yet]. |
 | 14 | Siapa yang bertindak awal, dia yang akan dapat hasil dulu. | `The early bird [catches the worm/gets the prize].` | The early bird catches the worm. |
 | 15 | Boleh awak cadangkan tempat menarik untuk dilawati? | `Can you [recommend a good place to visit/suggest some sights to see]?` | Can you recommend a good place to visit? |
-| 16 | Sejak menjak dua tiga hari ni saya kerap tidur lewat sangat. | `I've [been staying up late these past few days/burning the midnight oil lately].` | I['ve been staying up late these past few days/ have been staying up late these past few days]. |
+| 16 | Sejak menjak dua tiga hari ni saya kerap tidur lewat sangat. | `I've been [staying up late these past few days/burning the midnight oil lately].` | I['ve been staying up late these past few days/ have been staying up late these past few days]. |
 | 17 | Benda ni memang perlukan kesabaran yang tinggi nak hadap. | `It takes [a lot of patience to deal with this/a ton of patience].` | It takes a lot of patience to deal with this. |
 | 18 | Siapa yang biarkan pintu peti ais terbuka luas ni? | `Who left the [fridge door wide open/refrigerator hanging open]?` | Who left the fridge door wide open? |
 | 19 | Saya betul-betul terlupa nak balas mesej awak tadi. | `I completely [forgot to reply to your text/spaced out on answering your message].` | I completely forgot to reply to your text. |
@@ -1152,7 +1152,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 13 | Saya tak boleh nak jamin apa-apa buat masa sekarang ni. | `I can't [guarantee anything at the moment/promise anything right now].` | I [can't guarantee anything at the moment/ cannot guarantee anything at the moment]. |
 | 14 | Setiap orang pasti akan ada masa untuk dia berjaya atau bersinar juga nanti. | `Every dog [has its day/gets its moment to shine].` | Every dog has its day. |
 | 15 | Boleh awak cadangkan tempat makan tengah hari yang best? | `Can you [recommend a good place for lunch/suggest a nice lunch spot]?` | Can you recommend a good place for lunch? |
-| 16 | Sejak menjak ni saya tengah kurangkan minum air manis. | `I've [been cutting down on sweet drinks lately/trying to cut out sugary drinks].` | I['ve been cutting down on sweet drinks lately/ have been cutting down on sweet drinks lately]. |
+| 16 | Sejak menjak ni saya tengah kurangkan minum air manis. | `I've been [cutting down on sweet drinks lately/trying to cut out sugary drinks].` | I['ve been cutting down on sweet drinks lately/ have been cutting down on sweet drinks lately]. |
 | 17 | Benda ni memang perlukan banyak latihan kalau nak buat dengan betul. | `It takes [a lot of practice to get it right/consistent practice to master].` | It takes a lot of practice to get it right. |
 | 18 | Siapa yang biarkan pintu pagar utama terbuka luas tadi? | `Who left the [main gate wide open just now/front gate completely open]?` | Who left the main gate wide open just now? |
 | 19 | Saya betul-betul terlupa nak tutup suis seterika tadi. | `I completely [forgot to turn off the iron/left the iron on].` | I completely forgot to turn off the iron. |
@@ -1170,13 +1170,13 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 7 | Saya hampir tak cam suara awak tadi dalam telefon. | `I barely [recognized your voice over the phone/knew it was you speaking].` | I barely recognized your voice over the phone. |
 | 8 | Pastikan awak tak terlepas panggilan terakhir. | `Make sure you [don't miss the final call/catch the boarding call].` | Make sure you [don't miss the final call/ do not miss the final call]. |
 | 9 | Awak rasa kuah sup ni rasa agak tawar sikit tak? | `Does this soup [taste a bit bland to you/need a little more salt]?` | Does this soup taste a bit bland to you? |
-| 10 | Saya kena pergi tunaikan cek ni dekat bank. | `I need to [cash this cheque at the bank/deposit this cheque].` | I need to cash this cheque at the bank. |
+| 10 | Saya kena pergi tunaikan cek ni dekat bank. | `I need to [cash this check at the bank/deposit this check].` | I need to cash this cheque at the bank. |
 | 11 | Baik beringat sebelum kena. | `[Better safe than sorry/Prevention is better than cure].` | Better safe than sorry. |
 | 12 | Giliran siapa pulak nak kena ambil budak-budak tu? | `Whose turn is it [to pick up the kids/to do the school run]?` | Whose turn is it to pick up the kids? |
 | 13 | Saya tak dapat nak bayangkan tinggal dekat tempat yang sibuk macam ni. | `I can't imagine [living in such a busy place/living in all this hustle and bustle].` | I [can't imagine living in such a busy place/ cannot imagine living in such a busy place]. |
 | 14 | Suatu kejayaan takkan terhasil dalam masa satu hari je. | `Rome [wasn't built in a day/takes time to build].` | Rome [wasn't built in a day/ was not built in a day]. |
 | 15 | Boleh awak cadangkan mekanik kereta yang boleh dipercayai dekat-dekat sini? | `Can you [recommend a reliable mechanic nearby/suggest a trustworthy garage nearby]?` | Can you recommend a reliable mechanic nearby? |
-| 16 | Sejak menjak ni saya rasa badan macam kurang sihat sikit. | `I've [been feeling a bit under the weather lately/feeling somewhat run down lately].` | I['ve been feeling a bit under the weather lately/ have been feeling a bit under the weather lately]. |
+| 16 | Sejak menjak ni saya rasa badan macam kurang sihat sikit. | `I've been [feeling a bit under the weather lately/feeling somewhat run down lately].` | I['ve been feeling a bit under the weather lately/ have been feeling a bit under the weather lately]. |
 | 17 | Bukan senang nak ada keberanian untuk mengaku kesilapan sendiri. | `It takes a lot of courage to [admit mistakes/own up to your errors].` | It takes a lot of courage to admit mistakes. |
 | 18 | Siapa yang tinggalkan kesan tapak kaki berlumpur atas lantai ni? | `Who left these [muddy footprints on the floor/muddy tracks on the tiles]?` | Who left these muddy footprints on the floor? |
 | 19 | Saya betul-betul terlupa nak kunci pintu pagar belakang tadi. | `I completely [forgot to lock the back gate/left the back gate unlocked].` | I completely forgot to lock the back gate. |
@@ -1200,7 +1200,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 13 | Saya tak dapat nak bayangkan macam mana nak hadap tekanan ni seorang diri. | `I can't imagine [coping with this pressure alone/facing all this heat on my own].` | I [can't imagine coping with this pressure alone/ cannot imagine coping with this pressure alone]. |
 | 14 | Kita kena ada pelan kecemasan. | `We need [a backup plan/a safety net].` | [Don't put all your eggs in one basket/Do not put all your eggs in one basket]. |
 | 15 | Boleh awak cadangkan ejen penjual kereta yang boleh dipercayai kat sini? | `Can you [recommend a reliable car dealer here/suggest a trustworthy car dealership around here]?` | Can you recommend a trustable car dealer here? |
-| 16 | Sejak menjak minggu ni saya rasa macam agak serabut. | `I've [been feeling a bit overwhelmed this week/feeling super swamped all week].` | I['ve been feeling a bit overwhelmed this week/ have been feeling a bit overwhelmed this week]. |
+| 16 | Sejak menjak minggu ni saya rasa macam agak serabut. | `I've been [feeling a bit overwhelmed this week/feeling super swamped all week].` | I['ve been feeling a bit overwhelmed this week/ have been feeling a bit overwhelmed this week]. |
 | 17 | Benda ni memang perlukan kerjasama kumpulan yang kuat untuk berjaya. | `It takes a lot of teamwork to [pull this off/get this across the line].` | It takes a lot of teamwork to pull this off. |
 | 18 | Siapa yang biarkan tuala basah atas katil ni? | `Who left these [wet towels on the bed/damp towels lying on the mattress]?` | Who left these wet towels on the bed? |
 | 19 | Saya betul-betul terlupa nak buat salinan fail saya tadi. | `I completely [forgot to back up my files/forgot to save copies of my data].` | I completely forgot to back up my files. |
@@ -1216,7 +1216,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 5 | Ada apa-apa pengangkutan awam tak dekat kawasan sini? | `Is there [any public transport available nearby/any transit option close by]?` | Is there any public transport available nearby? |
 | 6 | Awak janganlah ambil serius sangat dengan kata-kata dia tu. | `You shouldn't [take his words too seriously/take what he says to heart].` | You [shouldn't take his words too seriously/ should not take his words too seriously]. |
 | 7 | Saya hampir tak perasan masa berlalu cepat sangat tadi. | `I barely [noticed the time passing by just now/realized how quickly the time went by].` | I barely noticed the time passing by just now. |
-| 8 | Pastikan awak periksa resit tu dua kali sebelum keluar. | `Make sure you [double-check the receipt before leaving/check the bill before walking out].` | Make sure you double-check the receipt before leaving. |
+| 8 | Pastikan awak periksa resit tu dua kali sebelum keluar. | `Make sure you [double-check the receipt before leaving/check the receipt before walking out].` | Make sure you double-check the receipt before leaving. |
 | 9 | Awak rasa kain ni akan mengecut tak lepas kena basuh? | `Does this fabric [shrink after being washed/shrink when it's washed]?` | Does this fabric shrink after [being washed/ washing it]? |
 | 10 | Saya kena jelaskan hutang tertunggak saya sebelum minggu ni. | `I need to [clear my outstanding debt by this week/settle what I owe before the week ends].` | I need to clear my outstanding debt by this week. |
 | 11 | Ketawa itu adalah ubat yang paling mujarab untuk hilangkan stres. | `Laughter is [the best medicine/the best stress reliever].` | Laughter is the best medicine. |
