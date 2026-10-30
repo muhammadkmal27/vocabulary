@@ -171,7 +171,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 |:--:|:---|:---|:---|
 | 1 | Apa rancangannya? | `Was ist [der Plan/die Strategie]?` | Was ist der Plan? |
 | 2 | Jom kita mula. | `Lass uns [anfangen/loslegen]!` | Lass uns anfangen! |
-| 3 | Saya dah nak hampir siap ni. | `Ich bin [fast fertig/so gut wie durch].` | Ich bin fast fertig. |
+| 3 | Saya dah hampir siap ni. | `Ich bin [fast fertig/so gut wie durch].` | Ich bin fast fertig. |
 | 4 | Saya perlukan bantuan sikit. | `Ich brauche [etwas Hilfe/mal kurz deine Hilfe].` | Ich brauche etwas Hilfe. |
 | 5 | Boleh awak tunjukkan pada saya? | `Kannst du [es mir zeigen/mir das mal kurz zeigen]?` | Kannst du es mir zeigen? |
 | 6 | Macam ni ke? | `[So/Stimmt das so]?` | So? |

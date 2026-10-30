@@ -857,7 +857,7 @@
     "id": "019e7d0a-dced-73f8-81a0-c5a198492b9e",
     "level_order": 7,
     "order": 3,
-    "source_text": "Saya dah nak hampir siap ni.",
+    "source_text": "Saya dah hampir siap ni.",
     "target_text": "I'm [almost done/nearly finished]."
   },
   {
@@ -1600,7 +1600,7 @@
     "level_order": 12,
     "order": 9,
     "source_text": "Saya hargai masa yang awak luangkan.",
-    "target_text": "I [appreciate your time/thank you for your time]."
+    "target_text": "[I appreciate your time/Thanks for your time]."
   },
   {
     "id": "019e867c-a798-7214-a1a2-33997e94e5f5",
@@ -1838,7 +1838,7 @@
     "level_order": 14,
     "order": 3,
     "source_text": "Saya langsung tak ada idea.",
-    "target_text": "I [have no idea/have not a clue]."
+    "target_text": "I [have no idea/have no clue]."
   },
   {
     "id": "019e86dc-c30d-7397-9b0c-6c4c03fd3448",
@@ -5044,7 +5044,7 @@
     "level_order": 37,
     "order": 1,
     "source_text": "Ada apa kat dalam beg plastik tu?",
-    "target_text": "What's [inside that plastic bag/in that carrier bag]?"
+    "target_text": "What's [inside that plastic bag/in that shopping bag]?"
   },
   {
     "id": "019ec976-c38b-7211-8409-4e9e6aa96679",
@@ -5499,7 +5499,7 @@
     "level_order": 40,
     "order": 6,
     "source_text": "Jom kita cari pembuka tin.",
-    "target_text": "Let's [look for the can opener/grab the tin opener]."
+    "target_text": "Let's [look for the can opener/grab a can opener]."
   },
   {
     "id": "019ecb2a-b441-71af-bfa1-0bb6de946ecd",
@@ -5618,7 +5618,7 @@
     "level_order": 41,
     "order": 3,
     "source_text": "Saya langsung tak tahu apa yang dah jadi.",
-    "target_text": "I have [no idea what happened/not a clue what went down]."
+    "target_text": "I have [no idea what happened/no clue what went down]."
   },
   {
     "id": "019ecb35-c618-7256-817b-ab2360ed75f7",
@@ -6010,7 +6010,7 @@
     "level_order": 43,
     "order": 19,
     "source_text": "Saya terus hilang selera makan langsung.",
-    "target_text": "I completely [lost my appetite/can't eat a bite now]."
+    "target_text": "[I completely lost my appetite/I can't even eat a bite]."
   },
   {
     "id": "019ecea6-9161-71ae-a8dc-58659c0200e8",
@@ -6227,7 +6227,7 @@
     "level_order": 45,
     "order": 10,
     "source_text": "Saya kena pergi perbaharui lesen memandu saya.",
-    "target_text": "I need to [renew my driving license/get my license renewed]."
+    "target_text": "I need to [renew my driver's license/get my license renewed]."
   },
   {
     "id": "019ecf4d-f668-7110-8c99-c5223b5b8cfc",
@@ -6346,7 +6346,7 @@
     "level_order": 46,
     "order": 7,
     "source_text": "Saya hampir dah tak kenal tempat ni lagi.",
-    "target_text": "I barely [recognize this place anymore/can recognize this town anymore]."
+    "target_text": "[I barely recognize this place anymore/I can barely recognize this town anymore]."
   },
   {
     "id": "019ecf66-6fdb-7107-bf4b-74fb172802e6",

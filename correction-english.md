@@ -179,7 +179,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 |:--:|:---|:---|:---|
 | 1 | Apa rancangannya? | `What's [the plan/the game plan]?` | What['s the plan/is the plan]? |
 | 2 | Jom kita mula. | `Let's [get started/kick things off].` | Let's get started. |
-| 3 | Saya dah nak hampir siap ni. | `I'm [almost done/nearly finished].` | I['m almost done/am almost done]. |
+| 3 | Saya dah hampir siap ni. | `I'm [almost done/nearly finished].` | I['m almost done/am almost done]. |
 | 4 | Saya perlukan bantuan sikit. | `I need [some help/a hand].` | I need some help. |
 | 5 | Boleh awak tunjukkan pada saya? | `Can you [show me/walk me through it]?` | Can you show me? |
 | 6 | Macam ni ke? | `[Like this/Is this right]?` | Like this? |
@@ -305,7 +305,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 6 | Saya kagum betul. | `I'm [impressed/blown away].` | I['m impressed/ am impressed]. |
 | 7 | Awak boleh uruskan benda ni tak? | `Can you [handle this/take care of this]?` | Can you handle this? |
 | 8 | Serahkan je benda tu pada saya. | `[Leave it to me/I got this].` | Leave it to me. |
-| 9 | Saya hargai masa yang awak luangkan. | `I [appreciate your time/thank you for your time].` | I appreciate your time. |
+| 9 | Saya hargai masa yang awak luangkan. | `[I appreciate your time/Thanks for your time].` | I appreciate your time. |
 | 10 | Maaf sebab mengganggu awak. | `Sorry to [bother you/bug you].` | Sorry to bother you. |
 | 11 | Tak menyusahkan langsung pun. | `It's [no trouble at all/no bother at all].` | It['s no trouble at all/ is no trouble at all]. |
 | 12 | Awak dah dalam perjalanan ke? | `[Are you on your way/You on your way]?` | [You on your way/Are you on your way]? |
@@ -347,7 +347,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 |:--:|:---|:---|:---|
 | 1 | Apa pendapat awak? | `What's [your opinion/your take]?` | What['s your opinion/ is your opinion]? |
 | 2 | Pada pendapat saya... | `[In my opinion/From my perspective]...` | In my opinion |
-| 3 | Saya langsung tak ada idea. | `I [have no idea/have not a clue].` | I have no idea. |
+| 3 | Saya langsung tak ada idea. | `I [have no idea/have no clue].` | I have no idea. |
 | 4 | Jom kita cari jalan penyelesaian sama-sama. | `Let's [figure it out/work it out].` | Let's figure it out. |
 | 5 | Benda ni tak penting sangat pun. | `It's [not urgent/no big rush].` | It['s not urgent/ is not urgent]. |
 | 6 | Secepat yang mungkin. | `[As soon as possible/ASAP].` | As soon as possible. |
@@ -897,7 +897,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 ### 🎯 Level 37
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Ada apa kat dalam beg plastik tu? | `What's [inside that plastic bag/in that carrier bag]?` | What['s inside that plastic bag/ is inside that plastic bag]? |
+| 1 | Ada apa kat dalam beg plastik tu? | `What's [inside that plastic bag/in that shopping bag]?` | What['s inside that plastic bag/ is inside that plastic bag]? |
 | 2 | Jom kita buka TV tu. | `Let's [turn on the television/switch on the TV].` | Let's switch on the television. |
 | 3 | Malam ni cuaca dah mula rasa sejuk. | `It's [getting chilly tonight/freezing tonight].` | It['s getting chilly tonight/ is getting chilly tonight]. |
 | 4 | Jangan biarkan makanan tu terbuka tanpa ditutup. | `Don't [leave the food uncovered/leave the meal out].` | [Don't leave the food uncovered/Do not leave the food uncovered]. |
@@ -974,7 +974,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 3 | Petang ni cuaca nampak mendung betul. | `It's [very cloudy this afternoon/overcast this afternoon].` | It['s very cloudy this afternoon/ is very cloudy this afternoon]. |
 | 4 | Jangan biarkan kepala tong gas terbuka. | `Don't [leave the gas tank open/leave the valve open].` | [Don't leave the gas tank open/Do not leave the gas tank open]. |
 | 5 | Saya tengah potong roti ni. | `I'm [slicing the bread/cutting up some bread].` | I['m slicing the bread/ am slicing the bread]. |
-| 6 | Jom kita cari pembuka tin. | `Let's [look for the can opener/grab the tin opener].` | Let's look for the can opener. |
+| 6 | Jom kita cari pembuka tin. | `Let's [look for the can opener/grab a can opener].` | Let's look for the can opener. |
 | 7 | Itu betul-betul kesilapan yang tidak disengajakan. | `It's [an honest mistake/a total accident].` | It['s an honest mistake/ is an honest mistake]. |
 | 8 | Jangan sentuh bahagian permukaan yang melekit tu. | `Don't [touch the sticky surface/get your fingers sticky].` | [Don't touch the sticky surface/Do not touch the sticky surface]. |
 | 9 | Saya tengah susun barang dalam beg saya ni je. | `I'm [just organizing my bag/packing up my bag].` | I['m just organizing my bag/ am just organizing my bag]. |
@@ -995,7 +995,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 |:--:|:---|:---|:---|
 | 1 | Berapa lama masa nak sampai ke sana? | `How long does it [take to get there/take to reach there]?` | How long does it take to get there? |
 | 2 | Jaga tepi kain sendiri. | `[Mind your own business/Keep your nose out of it].` | [Mind your own business/Do not interfere in other people's business]. |
-| 3 | Saya langsung tak tahu apa yang dah jadi. | `I have [no idea what happened/not a clue what went down].` | I have no idea what happened. |
+| 3 | Saya langsung tak tahu apa yang dah jadi. | `I have [no idea what happened/no clue what went down].` | I have no idea what happened. |
 | 4 | Nanti maklumkan perkembangan pasal hal ni dekat saya. | `Keep me [updated on this/posted on this].` | Keep me updated on this. |
 | 5 | Ada kedai makan dekat-dekat sini tak? | `Is there [any restaurant nearby/any food place around here]?` | Is there any restaurant nearby? |
 | 6 | Awak dah terlepas isi penting. | `You [missed the whole point/missed the point completely].` | You missed the whole point. |
@@ -1059,7 +1059,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 16 | Dah lama dah aku nak tanya kau... | `I've [been meaning to ask you/wanted to ask you for a while]...` | I['ve been meaning to ask you/ have been meaning to ask you]. |
 | 17 | Kos nak menginap kat sana mahal gila. | `It costs [a fortune to stay there/an insane amount to stay there].` | It costs a fortune to stay there. |
 | 18 | Lagipun, siapa yang cadangkan tempat ni sebenarnya? | `Who [suggested this place anyway/picked this place in the first place]?` | Who suggested this place anyway? |
-| 19 | Saya terus hilang selera makan langsung. | `I completely [lost my appetite/can't eat a bite now].` | I completely lost my appetite. |
+| 19 | Saya terus hilang selera makan langsung. | `[I completely lost my appetite/I can't even eat a bite].` | I completely lost my appetite. |
 | 20 | Awak ni dah hilang akal ke? | `Are you [out of your mind/going crazy]?` | Are you out of your mind? |
 
 ### 🎯 Level 44
@@ -1098,7 +1098,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 7 | Saya hampir tak dapat nak lelapkan mata langsung semalam. | `I barely [slept a wink last night/got any sleep last night].` | I barely slept a wink last night. |
 | 8 | Jangan segan-segan nak tanya kalau awak perlukan bantuan. | `[Feel free to ask/Don't hesitate to ask] if you need help.` | Feel free to ask if you need help. |
 | 9 | Awak rasa corak ni nampak serabut sangat tak? | `Does this pattern [look too messy/look too cluttered]?` | Does this pattern look too messy? |
-| 10 | Saya kena pergi perbaharui lesen memandu saya. | `I need to [renew my driving license/get my license renewed].` | I need to renew my driving license. |
+| 10 | Saya kena pergi perbaharui lesen memandu saya. | `I need to [renew my driver's license/get my license renewed].` | I need to renew my driving license. |
 | 11 | Makin banyak berlatih, makin mahir. | `[Practice makes perfect/Repetition builds mastery].` | Practice makes perfect. |
 | 12 | Giliran siapa pulak nak basuh pinggan sekarang ni? | `Whose turn is it [to wash the dishes/to do the dishes]?` | Whose turn is it to wash the dishes? |
 | 13 | Saya tak dapat nak datang makan malam nanti. | `I can't [make it to dinner later/join dinner tonight].` | I [can't make it to the dinner later/ cannot make it to the dinner later]. |
@@ -1119,7 +1119,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 4 | Cuba tengok kalau ada apa-apa baucar diskaun. | `See if there [is any discount voucher/are any coupons available].` | See if there is any discount voucher. |
 | 5 | Ada jalan pintas tak nak elak kesesakan lalu lintas (jem) ni? | `Is there [any shortcut to avoid the traffic/any backway to skip the jam]?` | Is there any shortcut to avoid the traffic? |
 | 6 | Awak tak boleh dapat semua benda dalam satu masa. | `You can't [have your cake and eat it too/have it both ways].` | You [can't have your cake and eat it too/ cannot have your cake and eat it too]. |
-| 7 | Saya hampir dah tak kenal tempat ni lagi. | `I barely [recognize this place anymore/can recognize this town anymore].` | I barely recognized this place anymore. |
+| 7 | Saya hampir dah tak kenal tempat ni lagi. | `[I barely recognize this place anymore/I can barely recognize this town anymore].` | I barely recognized this place anymore. |
 | 8 | Pastikan awak periksa kunci tu dua kali. | `Make sure you [double-check the lock/check the lock twice].` | Make sure you double-check the lock. |
 | 9 | Awak rasa ton warna ni nampak gelap sangat tak untuk bilik ni? | `Does this shade [look too dark for the room/seem too gloomy]?` | Does this shade look too dark for the room? |
 | 10 | Saya kena pergi tambah nilai kad Touch 'n Go saya. | `I need to [top up my Touch 'n Go card/reload my transit card].` | I need to top up my Touch 'n Go card. |
