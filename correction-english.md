@@ -11,7 +11,7 @@
 Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan sepenuhnya mengikut formula:
 1. **Urutan Pilihan Wajib `[Standard / Casual]`:**
    - **Pilihan 1 (Standard):** Struktur tatabahasa betul yang mengutamakan singkatan perbualan standard lazim (*I'm, don't, can't, it's, you're, we're, what's, I'll*).
-   - **Pilihan 2 (Casual):** Bahasa santai, slanga, atau gaya pertuturan pasar (*spoken street English*) seperti *wanna, gotta, dunno, dropped auxiliaries* (cth: *You ready?, Where you live?*), atau idiom percakapan harian.
+   - **Pilihan 2 (Casual):** Bahasa santai, slanga, atau gaya pertuturan pasar (*spoken street English*) seperti *wanna, gotta, dunno, dropped auxiliaries* (cth: *You ready?, Where you headed?, Whatcha doing?*), atau idiom percakapan harian.
 2. **Semua Ayat Yang Sebelum Ini Tiada Ayat Casual Telah Ditambah:**
    - 968 ayat yang sebelum ini tiada variasi santai/pasar kini telah dilengkapkan dengan padanan santai penutur jati.
 3. **Semua Kesilapan Asal Telah Dibetulkan:**
@@ -53,7 +53,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Saya nak pergi tidur. | `I'm [going to bed/hitting the sack].` | I['m/ am] going to bed. |
 | 19 | Hai! Sampai pun awak. | `Hi! You're [finally here/here at last].` | Hi! You['re/ are] finally here. |
 | 20 | Sila masuk. | `[Please come in/Come on in].` | Please come in. |
-
 ### 🎯 Level 2
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -77,14 +76,13 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Itu idea yang bagus! | `That's [a good idea/a great idea]!` | That['s/ is] a good idea! |
 | 19 | Wei! Dah bertahun rasanya sejak kali terakhir kita jumpa. | `Hey! It's [been years/been ages] since we last met.` | Hey! It['s/ has] been years since we last met. |
 | 20 | Lama tidak berjumpa. | `[Long time no see/It's been a while].` | Long time no see. |
-
 ### 🎯 Level 3
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
 | 1 | Siapa nama awak? | `What's your [name/full name]?` | What['s/ is] your name? |
 | 2 | Selamat berkenalan. | `[Nice to meet you/Pleasure to meet you].` | Nice to meet you. |
-| 3 | Awak tinggal di mana? | `Where [do you live/you live]?` | Where [you/do you] live? |
-| 4 | Awak kerja apa? | `What [do you do/you do]?` | What [you/do you] do? |
+| 3 | Awak tinggal di mana? | `Where [do you live/do you stay]?` | Where [you/do you] live? |
+| 4 | Awak kerja apa? | `[What do you do/What's your job]?` | What [you/do you] do? |
 | 5 | Saya tumpang gembira untuk awak. | `I'm [happy for you/so glad for you].` | I['m/ am] happy for you. |
 | 6 | Boleh awak ulang balik? | `Can you [repeat that/say that again]?` | Can you repeat that? |
 | 7 | Tolong cakap perlahan sikit. | `[Speak slowly, please/Slow down, please].` | Speak slowly, please. |
@@ -93,7 +91,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 10 | Jom kita makan sama-sama. | `Let's [eat together/grab some food together].` | Let's eat together. |
 | 11 | Makanan ni sedap sangat. | `The food is [delicious/so good].` | The food is delicious. |
 | 12 | Saya dah kenyang. | `I'm [full/stuffed].` | I['m/ am] full. |
-| 13 | Awak nak pergi mana tu? | `Where [are you going/you going]?` | Where [you/are you] going? |
+| 13 | Awak nak pergi mana tu? | `Where [are you going/are you headed]?` | Where [you/are you] going? |
 | 14 | Saya tengah dalam perjalanan. | `I'm [on my way/heading over now].` | I['m/ am] on my way. |
 | 15 | Saya dah sampai. | `I've [arrived/made it].` | I['ve/ have] arrived. |
 | 16 | Jaga diri elok-elok. | `[Take care/Look after yourself].` | Take care. |
@@ -101,7 +99,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Tahniah! | `[Congratulations/Congrats]!` | [Congrats/Congratulations]! |
 | 19 | Semoga berjaya! | `[Good luck/Best of luck]!` | Good luck! |
 | 20 | Terima kasih untuk segalanya. | `[Thank you for everything/Thanks for everything].` | Thank you for everything. |
-
 ### 🎯 Level 4
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -125,7 +122,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Tak apa lah. | `[Never mind/Forget about it].` | Never mind. |
 | 19 | Betul tu. | `That's [true/right].` | That's true. |
 | 20 | Telefon saya balik nanti. | `Call me [back later/later on].` | Call me back later. |
-
 ### 🎯 Level 5
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -136,7 +132,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 5 | Bagus juga cadangan tu. | `Sounds [good to me/great].` | Sounds good to me. |
 | 6 | Saya rasa begitulah. | `I [think so/reckon so].` | I think so. |
 | 7 | Saya rasa bukan macam tu. | `I don't [think so/reckon].` | I don't think so. |
-| 8 | Apa maksud awak? | `What [do you mean/you mean]?` | What [you/do you] mean? |
+| 8 | Apa maksud awak? | `What [do you mean/are you trying to say]?` | What [you/do you] mean? |
 | 9 | Saya sesat. | `[I'm lost/I lost my way].` | I['m/ am] lost. |
 | 10 | Boleh awak tolong saya cari benda ni? | `Can you help me [find this/look for this]?` | Can you help me find this? |
 | 11 | Benda ni mahal sangat. | `It's [too expensive/pricey].` | It['s/ is] too expensive. |
@@ -149,7 +145,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Awak pasti boleh buat punya. | `[You can do it/You got this]!` | [You got this/You can do it]. |
 | 19 | Masa berlalu cepat sungguh. | `Time flies [so fast/by].` | Time flies so fast. |
 | 20 | Jumpa lagi pada masa akan datang. | `See you [next time/around].` | See you next time. |
-
 ### 🎯 Level 6
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -173,7 +168,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Bukan saya punya. | `It's [not mine/not mine at all].` | It['s/ is] not mine. |
 | 19 | Awak bergurau eh? | `[Are you kidding/You kidding]?` | [You kidding/Are you kidding]? |
 | 20 | Saya serius ni. | `I'm [serious/not joking].` | I['m/ am] serious. |
-
 ### 🎯 Level 7
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -197,14 +191,13 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Mesej saya bila awak dah sampai nanti. | `[Text me when you arrive/Hit me up when you get there].` | Text me when you arrive. |
 | 19 | Semoga penerbangan awak selamat. | `[Have a safe flight/Safe travels].` | Have a safe flight. |
 | 20 | Selamat kembali. | `[Welcome back/Glad to have you back].` | Welcome back. |
-
 ### 🎯 Level 8
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Awak nak apa? | `What [do you want/you want]?` | What [you want/do you want]? |
+| 1 | Awak nak apa? | `What [do you want/are you looking for]?` | What [you want/do you want]? |
 | 2 | Saya nak yang ini. | `[I would like this one/I'll take this one].` | I want this one. |
 | 3 | Saya tak nak benda tu. | `I don't [want it/need it].` | I don't want it. |
-| 4 | Awak lebih suka yang mana satu? | `Which one [do you prefer/you prefer]?` | Which one [you prefer/do you prefer]? |
+| 4 | Awak lebih suka yang mana satu? | `Which one [do you prefer/do you like better]?` | Which one [you prefer/do you prefer]? |
 | 5 | Mana-mana satu pun okay. | `Either one's [fine/good with me].` | Either one['s/ is] fine. |
 | 6 | Sama je rasanya. | `It makes [no difference/no difference at all].` | It makes no difference. |
 | 7 | Awak rasa sihat ke? | `[Are you feeling okay/You feeling okay]?` | [You feeling okay/Are you feeling okay]? |
@@ -221,7 +214,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Saya duduk kat rumah je. | `I'm [staying at home/staying in].` | I['m staying at home/ am staying at home]. |
 | 19 | Hubungi saya bila awak free nanti. | `Call me [when you're free/whenever you're free].` | Call me when [you're free/you are free]. |
 | 20 | Nanti kita borak lagi. | `[Talk to you later/Catch you later].` | Talk to you later. |
-
 ### 🎯 Level 9
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -245,7 +237,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Biarkan je kat situ. | `Leave it [there/right there].` | Leave it there. |
 | 19 | Jangan sentuh benda tu. | `Don't [touch it/mess with it].` | Don't touch it. |
 | 20 | Terima kasih atas bantuan awak. | `[Thanks for your help/Thank you for the help].` | Thanks for your help. |
-
 ### 🎯 Level 10
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -269,7 +260,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Ya, saya dah dapat. | `Yes, I [got it/received it].` | Yes, I got it. |
 | 19 | Itu sahaja buat masa sekarang. | `That's [all for now/it for now].` | That['s all for now/ is all for now]. |
 | 20 | Selamat bercuti hujung minggu! | `[Have a great weekend/Have a good weekend]!` | Have a great weekend! |
-
 ### 🎯 Level 11
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -277,7 +267,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Hari ni hari yang sangat baik. | `It was [a great day/an awesome day].` | It was a great day. |
 | 3 | Tak ada apa-apa yang istimewa pun. | `[Nothing special/Nothing much really].` | Nothing special. |
 | 4 | Saya sangat gembira. | `I'm [so glad/so happy].` | I['m so glad/ am so glad]. |
-| 5 | Awak tengah cari apa tu? | `What [are you looking for/you looking for]?` | What [you looking for/are you looking for]? |
+| 5 | Awak tengah cari apa tu? | `What [are you looking for/are you trying to find]?` | What [you looking for/are you looking for]? |
 | 6 | Saya tak jumpa benda tu. | `I [can't find it/can't track it down].` | I can't find it. |
 | 7 | Kat mana awak letak benda tu hari tu? | `Where did you [put it/leave it]?` | Where did you put it? |
 | 8 | Saya tak sabar menantikannya. | `I'm [looking forward to it/so hyped for it].` | I['m looking forward to it/ am looking forward to it]. |
@@ -287,13 +277,12 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 12 | Jom kita buat perjanjian. | `Let's [make a deal/strike a deal].` | Let's make a deal. |
 | 13 | Dua-dua pihak pun untung. | `It's a [win-win situation/win-win].` | It['s a win-win situation/ is a win-win situation]. |
 | 14 | Boleh saya tanya satu soalan? | `Can I [ask a question/ask you something]?` | Can I ask a question? |
-| 15 | Silakan. | `[Go ahead/Shoot].` | Go ahead. |
+| 15 | Silakan bercakap (cakaplah terus). | `[Go ahead/Shoot].` | Go ahead. |
 | 16 | Saja bergurau je. | `[Just kidding/Just messing with you].` | Just kidding. |
 | 17 | Jangan ambil serius sangat. | `Don't [take it seriously/sweat it].` | Don't take it seriously. |
 | 18 | Semuanya akan okay nanti. | `Everything will [be fine/be alright].` | Everything will be fine. |
 | 19 | Terima kasih kerana memahami. | `[Thanks for understanding/Thank you for understanding].` | Thanks for understanding. |
 | 20 | Nanti kita contact-contact lagi. | `Let's [keep in touch/stay in touch].` | Let's keep in touch. |
-
 ### 🎯 Level 12
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -317,7 +306,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita bersurai. | `Let's [call it a day/wrap it up].` | Let's call it a day. |
 | 19 | Pergilah rehat secukupnya. | `[Get some rest/Catch some z's].` | Get some rest. |
 | 20 | Jumpa lagi esok. | `[See you tomorrow/Catch you tomorrow].` | See you tomorrow. |
-
 ### 🎯 Level 13
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -339,9 +327,8 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 16 | Biar saya habiskan cakap dulu. | `Let me [finish first/say my piece first].` | Let me finish first. |
 | 17 | Ada betulnya juga point awak tu. | `You [have a point/got a point there].` | You have a point. |
 | 18 | Itu cerita lain. | `That's [a different story/another matter].` | That['s a different story/ is a different story]. |
-| 19 | Jom kita beralih ke perkara seterusnya. | `Let's [move on/move forward].` | Let's move on. |
+| 19 | Jom kita beralih ke topik seterusnya. | `Let's [move on/move forward].` | Let's move on. |
 | 20 | Syabas, kekalkan prestasi ni! | `Keep up [the good work/the great effort]!` | Keep up the good work! |
-
 ### 🎯 Level 14
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -365,11 +352,10 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Adatlah, kesilapan kadang-kadang berlaku. | `[Mistakes happen/Nobody's perfect].` | Mistakes happen. |
 | 19 | Jom kita cuba sekali lagi. | `Let's [try one more time/give it another go].` | Let's try one more time. |
 | 20 | Kita dah berjaya buat! | `We [did it/pulled it off]!` | We did it! |
-
 ### 🎯 Level 15
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Awak tengah buat apa tu? | `What [are you up to/you up to]?` | What [you up to/are you up to]? |
+| 1 | Awak tengah buat apa tu? | `[What are you up to/What are you doing]?` | What [you up to/are you up to]? |
 | 2 | Saya tengah santai-santai je ni. | `I'm [just relaxing/just chilling].` | I['m just relaxing/ am just relaxing]. |
 | 3 | Boleh awak simpan rahsia? | `Can you [keep a secret/keep this between us]?` | Can you keep a secret? |
 | 4 | Saya takkan bocorkan rahsia. | `My lips [are sealed/won't say a word].` | My lips are sealed. |
@@ -389,7 +375,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Biar masa yang menentukan. | `Let [nature take its course/things play out].` | Let nature take its course. |
 | 19 | Haa, macam tu lah baru betul. | `That's [more like it/what I'm talking about]!` | That['s more like it/ is more like it]. |
 | 20 | Kita dah berjaya sampai tiga ratus ayat! | `We [made it to three hundred/hit three hundred]!` | We made it to three hundred! |
-
 ### 🎯 Level 16
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -402,9 +387,9 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 7 | Berapa lama masa yang diambil? | `How long [does it take/will it take]?` | How long does it take? |
 | 8 | Lebih kurang sepuluh minit. | `[About ten minutes/Roughly ten minutes].` | About ten minutes. |
 | 9 | Saya tengah nak cepat. | `I'm [in a hurry/in a rush].` | I['m in a hurry/ am in a hurry]. |
-| 10 | Jangan desak saya. | `Don't [rush me/push me].` | [Don't rush me/Do not rush me]. |
+| 10 | Jangan buat saya tertekan (stres). | `Don't [stress me out/put pressure on me].` | [Don't rush me/Do not rush me]. |
 | 11 | Boleh tolong saya sikit? | `Can you [do me a favor/give me a hand]?` | Can you do me a favor? |
-| 12 | Apa yang awak perlukan? | `What [do you need/you need]?` | What [you need/do you need]? |
+| 12 | Apa yang awak perlukan? | `What [do you need/can I get you]?` | What [you need/do you need]? |
 | 13 | Biar saya yang uruskan perkara tu. | `I'll [handle it/take care of it].` | I['ll handle it/ will handle it]. |
 | 14 | Terima kasih atas peringatan awal tu. | `[Thanks for the heads up/Thank you for letting me know].` | Thanks for the heads up. |
 | 15 | Saya tengah buat benda tu sekarang. | `I'm [on it/getting right on it].` | I['m on it/ am on it]. |
@@ -413,7 +398,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jangan putus asa. | `Don't [give up/throw in the towel].` | [Don't give up/Do not give up]. |
 | 19 | Awak dah buat dengan sangat bagus. | `You're [doing great/doing a fantastic job].` | You['re doing great/ are doing great]. |
 | 20 | Jom kita teruskan lagi usaha ni. | `Let's [keep going/keep pushing].` | Let's keep going. |
-
 ### 🎯 Level 17
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -437,11 +421,10 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Benda ni menepati standard yang ditetapkan. | `It's [up to par/up to standard].` | It['s up to par/ is up to par]. |
 | 19 | Awak dah baca fikiran saya. | `You [read my mind/took the words right out of my mouth].` | You read my mind. |
 | 20 | Jom kita akhiri benda ni. | `Let's [wrap it up/call it quits].` | Let's wrap it up. |
-
 ### 🎯 Level 18
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Lega mendengarnya. | `That's [a relief to hear/great to hear].` | That['s a relief to hear/ is a relief to hear]. |
+| 1 | Syukurlah, rasa lega bila dengar berita tu. | `That's [a relief to hear/great to hear].` | That['s a relief to hear/ is a relief to hear]. |
 | 2 | Macam terlalu bagus sangat sampai rasa susah nak percaya. | `It's [too good to be true/hard to believe].` | It['s too good to be true/ is too good to be true]. |
 | 3 | Jangan cepat sangat buat andaian sendiri. | `Don't [jump to conclusions/assume too quickly].` | [Don't jump to conclusions/Do not jump to conclusions]. |
 | 4 | Biar kita dengar dulu penjelasan mereka sampai habis. | `Let's [hear them out/listen to their side].` | Let's hear them out. |
@@ -457,11 +440,10 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 14 | Saya akan simpan elok-elok. | `I'll [keep it safe/guard it with my life].` | I['ll keep it safe/ will keep it safe]. |
 | 15 | Kat mana awak dengar cerita tu? | `Where did you [hear that/get that from]?` | Where did you hear that? |
 | 16 | Itu cuma khabar angin je. | `It's [just a rumor/mere hearsay].` | It['s just a rumor/ is just a rumor]. |
-| 17 | Jangan percaya bulat-bulat cerita tu. | `[Take it with a grain of salt/Don't take it literally].` | Take it with a grain of salt. |
+| 17 | Jangan percaya bulat-bulat cerita tu. | `[Take it with a grain of salt/Don't believe it blindly].` | Take it with a grain of salt. |
 | 18 | Kita tengok je nanti. | `We'll [see about that/see how it goes].` | We['ll see about that/ will see about that]. |
 | 19 | Itu pun dah kira baik daripada tak ada langsung. | `It's [better than nothing/better than zero].` | It['s better than nothing/ is better than nothing]. |
 | 20 | Jom kita kekalkan semangat ni. | `Let's [keep the momentum going/keep the energy up].` | Let's keep the momentum going. |
-
 ### 🎯 Level 19
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -485,7 +467,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Ada hikmah tersembunyi di sebalik apa yang berlaku. | `It's [a blessing in disguise/a hidden blessing].` | It['s a blessing in disguise/ is a blessing in disguise]. |
 | 19 | Awak dah berada di landasan yang betul. | `You're [on the right track/heading the right way].` | You['re on the right track/ are on the right track]. |
 | 20 | Kita dah hampir sampai ke garisan penamat. | `We're [almost at the finish line/nearly there].` | We['re almost at the finish line/ are almost at the finish line]. |
-
 ### 🎯 Level 20
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -509,7 +490,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Lebih baik lambat daripada tak buat langsung. | `It's [better late than never/never too late].` | It['s better late than never/ is better late than never]. |
 | 19 | Awak boleh percayakan saya. | `You can [count on me/bank on me].` | You can count on me. |
 | 20 | Kita akhirnya dah berjaya cecah empat ratus ayat! | `We finally [hit four hundred/made it to four hundred]!` | We finally hit four hundred! |
-
 ### 🎯 Level 21
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -533,7 +513,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Gerak hati saya kuat mengatakan... | `I have [a gut feeling/a strong hunch]...` | I have a gut feeling. |
 | 19 | Jangan pertaruhkan semua benda dalam satu tempat sahaja. | `Don't [put all your eggs in one basket/risk everything at once].` | [Don't put all your eggs in one basket/Do not put all your eggs in one basket]. |
 | 20 | Jom kita kasi jadi! | `Let's [make it happen/pull it off]!` | Let's make it happen. |
-
 ### 🎯 Level 22
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -557,7 +536,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita gerak sekarang. | `Let's [hit the road/get going].` | Let's hit the road. |
 | 19 | Kalau bukan sekarang, bila lagi? | `[If not now, when/When else]?` | It['s now or never/ is now or never]. |
 | 20 | Jom kita terus mara ke depan. | `Let's [keep pushing forward/keep moving ahead].` | Let's keep pushing forward. |
-
 ### 🎯 Level 23
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -581,7 +559,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita tukar topik. | `Let's [drop the subject/change the topic].` | Let's drop the subject. |
 | 19 | Benda tu ada terfikir juga. | `It's [at the back of my mind/lingering in my thoughts].` | It['s at the back of my mind/ is at the back of my mind]. |
 | 20 | Jom kita manfaatkan peluang ni sebaik mungkin. | `Let's [make the most of it/seize the opportunity].` | Let's make the most of it. |
-
 ### 🎯 Level 24
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -595,7 +572,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 8 | Jangan bagi benda tu ganggu fikiran awak. | `Don't [let it get to you/let it bother you].` | [Don't let it get to you/Do not let it get to you]. |
 | 9 | Saya terbuka kepada apa-apa cadangan. | `I'm [open to suggestions/ready for any ideas].` | I['m open to suggestions/ am open to suggestions]. |
 | 10 | Jangan kita buat andaian sendiri. | `Let's not [make assumptions/jump to conclusions].` | Let's not make assumptions. |
-| 11 | Benda ni percuma. | `It's [on the house/free of charge].` | It['s on the house/ is on the house]. |
+| 11 | Benda ni percuma (kedai belanja). | `It's [on the house/free of charge].` | It['s on the house/ is on the house]. |
 | 12 | Jangan paksa diri awak keterlaluan sangat. | `Don't [push yourself too hard/burn yourself out].` | [Don't push yourself too hard/Do not push yourself too hard]. |
 | 13 | Nanti saya maklumkan semula pada awak pasal hal tu. | `I'll [get back to you on that/follow up with you].` | I['ll get back to you on that/ will get back to you on that]. |
 | 14 | Jom kita kekal fokus pada matlamat asal. | `Let's [stay focused/keep our eyes on the prize].` | Let's stay focused. |
@@ -605,7 +582,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita tamatkan benda ni. | `Let's [wrap things up/bring this to a close].` | Let's wrap things up. |
 | 19 | Itu cuma salah faham kecil sahaja. | `It's [just a misunderstanding/nothing serious].` | It['s just a misunderstanding/ is just a misunderstanding]. |
 | 20 | Jom kita mula dari awal balik. | `Let's [make a fresh start/wipe the slate clean].` | Let's make a fresh start. |
-
 ### 🎯 Level 25
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -629,7 +605,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Biar kita tinggalkan hal tu setakat ni sahaja. | `Let's [leave it at that/leave well enough alone].` | Let's leave it at that. |
 | 19 | Benda tu dah mampu awak capai. | `It's [within your reach/well within your grasp].` | It['s within your reach/ is within your reach]. |
 | 20 | Kita dah berjaya cecah lima ratus ayat sepenuhnya! | `We officially [hit five hundred/made it to five hundred]!` | We['ve officially hit five hundred/ have officially hit five hundred]! |
-
 ### 🎯 Level 26
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -653,13 +628,12 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita semak dan periksa semula bukti yang ada. | `Let's [re-examine the evidence/take another look at the proof].` | Let's re-examine the evidence. |
 | 19 | Benda ni kena buat ikut turutan. | `It's [a step-by-step process/a sequential task].` | It['s a step-by-step process/ is a step-by-step process]. |
 | 20 | Jom kita tinggalkan kesan yang mendalam. | `Let's [make a lasting impression/leave our mark].` | Let's make a lasting impression. |
-
 ### 🎯 Level 27
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
 | 1 | Apa mesej tersirat yang mereka nak sampaikan? | `What's [the underlying message/the hidden meaning]?` | What['s the root cause/ is the root cause]? |
 | 2 | Jom kita baca maksud tersirat di sebalik kata-kata tu. | `Let's [read between the lines/look for the subtext].` | Let's nip it in the bud. |
-| 3 | Itu satu perkara yang sangat jarang berlaku. | `It's [once in a blue moon/hardly ever happening].` | It['s a major breakthrough/ is a major breakthrough]. |
+| 3 | Itu satu perkara yang sangat jarang berlaku. | `[It hardly ever happens/It's once in a blue moon].` | It['s a major breakthrough/ is a major breakthrough]. |
 | 4 | Jangan biarkan saya tertunggu-tunggu tanpa jawapan. | `Don't [leave me hanging/keep me in suspense].` | [Don't leave me hanging/Do not leave me hanging]. |
 | 5 | Saya sentiasa sedia berkhidmat. | `I'm [at your service/at your beck and call].` | I['m at your beck and call/ am at your beck and call]. |
 | 6 | Jom kita simpan segala bukti rekod bertulis. | `Let's [keep a paper trail/document everything].` | Let's keep a paper trail. |
@@ -668,7 +642,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 9 | Saya menarik diri daripada perjanjian ni. | `I'm [pulling out of this deal/backing out of this agreement].` | I['m pulling out of this deal/ am pulling out of this deal]. |
 | 10 | Jom kita cari titik kesepakatan. | `Let's [find some common ground/reach an understanding].` | Let's find some common ground. |
 | 11 | Perkara ni memang dah pasti sahih. | `It's [an absolute certainty/a sure thing].` | It['s an absolute certainty/ is an absolute certainty]. |
-| 12 | Jangan paksa saya buat tindakan yang saya tak suka. | `Don't [force my hand/leave me no choice].` | [Don't force my hand/Do not force my hand]. |
+| 12 | Jangan paksa saya buat tindakan yang saya tak suka. | `Don't [force my hand/push me into a corner].` | [Don't force my hand/Do not force my hand]. |
 | 13 | Saya dah pening kepala dah ni. | `I'm [losing my mind/going crazy].` | I['m losing my mind/ am losing my mind]. |
 | 14 | Jom kita teruskan momentum (semangat) ni. | `Let's [keep the ball rolling/keep the energy up].` | Let's keep the ball rolling. |
 | 15 | Benda tu memang cari nahas. | `It's [a recipe for disaster/asking for trouble].` | It['s a recipe for disaster/ is a recipe for disaster]. |
@@ -677,7 +651,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita kosongkan jadual kita. | `Let's [clear our schedule/free up some time].` | Let's clear our schedule. |
 | 19 | Benda tu macam bom jangka. | `It's [a ticking time bomb/waiting to blow up].` | It['s a ticking time bomb/ is a ticking time bomb]. |
 | 20 | Jom kita ikut peraturan yang ditetapkan. | `Let's [play by the rules/stick to the guidelines].` | Let's play by the rules. |
-
 ### 🎯 Level 28
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -701,7 +674,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita sambung semula dari tempat kita berhenti hari tu. | `Let's [pick up where we left off/resume where we paused].` | Let's pick up where we left off. |
 | 19 | Langkah kita ni dah betul dah ni. | `It's [a step in the right direction/a solid move forward].` | It['s a step in the right direction/ is a step in the right direction]. |
 | 20 | Jom kita tengok dari sudut positifnya. | `Let's [look on the bright side/focus on the positives].` | Let's look on the bright side. |
-
 ### 🎯 Level 29
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -725,7 +697,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita tunggu sampai hujan berhenti dulu. | `Let's [wait for the rain to stop/wait it out].` | Let's wait for the rain to stop. |
 | 19 | Benda tu berbaloi untuk dicuba. | `It's [worth a try/worth giving it a shot].` | It['s worth a try/ is worth a try]. |
 | 20 | Jom kita gerak balik. | `Let's [head back home/call it a night].` | Let's head back home. |
-
 ### 🎯 Level 30
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -735,7 +706,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 4 | Jangan lupa kunci pagar. | `Don't [forget to lock the gate/leave the gate unlocked].` | [Don't forget to lock the gate/Do not forget to lock the gate]. |
 | 5 | Saya dah lambat (lewat) sikit ni. | `I'm [running a bit late/behind schedule].` | I['m running a bit late/ am running a bit late]. |
 | 6 | Jom kita pesan makanan. | `Let's [order some food/get takeout].` | Let's order some food. |
-| 7 | Harganya berpatutan. | `It's [a reasonable price/a fair deal].` | It['s a reasonable price/ is a reasonable price]. |
+| 7 | Harganya amat munasabah dan berbaloi. | `It's [a reasonable price/a fair deal].` | It['s a reasonable price/ is a reasonable price]. |
 | 8 | Jangan sentuh benda tu, panas. | `Don't [touch that, it's hot/scald yourself].` | [Don't touch that, it's hot/Do not touch that, it is hot]. |
 | 9 | Saya dah biasa dengan cuaca macam ni. | `I'm [used to this kind of weather/accustomed to this climate].` | I['m used to this kind of weather/ am used to this kind of weather]. |
 | 10 | Jom kita jaga kebersihan tempat ni. | `Let's [keep the place clean/tidy up after ourselves].` | Let's keep the place clean. |
@@ -749,7 +720,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita ambil gambar ramai-ramai. | `Let's [take a group photo/snap a group pic].` | Let's take a group photo. |
 | 19 | Pagi yang sangat indah. | `It's [a beautiful morning/a lovely morning].` | It['s a beautiful morning/ is a beautiful morning]. |
 | 20 | Kita dah berjaya cecah enam ratus ayat semuanya! | `We officially [reached six hundred/hit six hundred]!` | We['ve officially reached six hundred/ have officially reached six hundred]! |
-
 ### 🎯 Level 31
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -770,10 +740,9 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 15 | Benda ni satu proses yang sangat ringkas. | `It's [a very simple process/pretty straightforward].` | It['s a very simple process/ is a very simple process]. |
 | 16 | Jangan membazir makanan. | `Don't [waste food/throw away good food].` | [Don't waste food/Do not waste food]. |
 | 17 | Saya tengah tunggu parcel (barang) sampai ni. | `I'm [waiting for a parcel/expecting a delivery].` | I['m waiting for a parcel/ am waiting for a parcel]. |
-| 18 | Jom kita jumpa dekat pintu masuk utama. | `Let's [meet at the main entrance/catch up at the front gate].` | Let's meet at the main entrance. |
+| 18 | Jom kita jumpa dekat pintu masuk utama. | `Let's [meet at the main entrance/meet up at the front gate].` | Let's meet at the main entrance. |
 | 19 | Warna yang cantik. | `It's [a nice color/such a lovely color].` | It['s a nice color/ is a nice color]. |
 | 20 | Jom kita santai-santai hari ni. | `Let's [take it easy today/chill out today].` | Let's take it easy today. |
-
 ### 🎯 Level 32
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -783,7 +752,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 4 | Jangan biarkan air paip ni terbiar terbuka. | `Don't [leave the faucet running/let the water run].` | [Don't leave the water running/Do not leave the water running]. |
 | 5 | Saya tengah cas telefon saya ni. | `I'm [charging my phone/plugging my phone in].` | I['m charging my phone/ am charging my phone]. |
 | 6 | Jom kita cari tempat letak kereta. | `Let's [look for a parking spot/find some parking].` | Let's look for a parking spot. |
-| 7 | Benda ni percuma. | `It's [free of charge/on the house].` | It['s free of charge/ is free of charge]. |
+| 7 | Benda ni percuma (tak perlu bayar apa-apa). | `It's [free of charge/totally free].` | It['s free of charge/ is free of charge]. |
 | 8 | Jangan lintas jalan lagi. | `Don't [cross the road yet/step out into the street yet].` | [Don't cross the road yet/Do not cross the road yet]. |
 | 9 | Saya ada masalah nak tidur la. | `I'm [having trouble sleeping/tossing and turning].` | I['m having trouble sleeping/ am having trouble sleeping]. |
 | 10 | Jom kita set alarm (jam loceng). | `Let's [set an alarm/set the timer].` | Let's set an alarm. |
@@ -794,10 +763,9 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 15 | Pedas betul makanan ni. | `It's [very spicy/super hot].` | It['s very spicy/ is very spicy]. |
 | 16 | Jangan makan laju sangat. | `Don't [eat too fast/wolf your food down].` | [Don't eat too fast/Do not eat too fast]. |
 | 17 | Saya nak pergi berjalan-jalan kejap. | `I'm [going for a walk/taking a stroll].` | I['m going for a walk/ am going for a walk]. |
-| 18 | Jom kita jumpa selepas makan tengah hari. | `Let's [meet after lunch/catch up after we eat].` | Let's meet after lunch. |
+| 18 | Jom kita jumpa selepas makan tengah hari. | `Let's [meet after lunch/meet up after we eat].` | Let's meet after lunch. |
 | 19 | Benda tu ada dekat atas rak paling atas. | `It's [on the top shelf/way up on the top rack].` | It['s on the top shelf/ is on the top shelf]. |
 | 20 | Jom kita berhenti setakat ni dulu untuk hari ni. | `Let's [call it a day/pack up for today].` | Let's call it a day. |
-
 ### 🎯 Level 33
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -821,7 +789,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita cari tempat yang redup sikit. | `Let's [find a shaded spot/get in the shade].` | Let's find a shaded spot. |
 | 19 | Benda tu ada dekat dalam laci paling bawah. | `It's [in the bottom drawer/down in the lower drawer].` | It['s in the bottom drawer/ is in the bottom drawer]. |
 | 20 | Jom kita beralih ke perkara seterusnya. | `Let's [move to the next one/move on to the next item].` | Let's move to the next one. |
-
 ### 🎯 Level 34
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -845,7 +812,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita semak balik resit tu. | `Let's [check the receipt again/take another look at the receipt].` | Let's check the receipt again. |
 | 19 | Benda tu ada dekat atas rak bahagian tengah. | `It's [on the middle shelf/right on the center rack].` | It['s on the middle shelf/ is on the middle shelf]. |
 | 20 | Jom kita kekalkan usaha yang bagus ni. | `Let's [keep up the good work/keep doing great].` | Let's keep up the good work. |
-
 ### 🎯 Level 35
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -869,7 +835,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita semak baki yang tinggal. | `Let's [check the remaining balance/see what's left].` | Let's check the balance. |
 | 19 | Benda tu ada kat atas meja tepi. | `It's [on the side table/resting on the end table].` | It['s on the side table/ is on the side table]. |
 | 20 | Kita dah berjaya cecah tujuh ratus! | `We successfully [reached seven hundred/hit seven hundred]!` | We successfully reached seven hundred! |
-
 ### 🎯 Level 36
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -885,7 +850,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 10 | Jom kita gantung kunci-kunci tu kat sini. | `Let's [hang the keys here/put the keys on the hook].` | Let's hang the keys here. |
 | 11 | Bahan ni memang jenis tahan lasak. | `It's [a durable material/built to last].` | It['s a durable material/ is a durable material]. |
 | 12 | Jangan lupa cermin tingkap tu dinaikkan (cermin kereta). | `Don't [forget to wind up the window/leave the car windows down].` | [Don't forget to wind up the window/Do not forget to wind up the window]. |
-| 13 | Saya tengah cari pita pengukur ni. | `I'm [looking for the tape measure/finding the measuring tape].` | I['m looking for the tape measure/ am looking for the tape measure]. |
+| 13 | Saya tengah cari pita pengukur ni. | `I'm [looking for the tape measure/trying to find the measuring tape].` | I['m looking for the tape measure/ am looking for the tape measure]. |
 | 14 | Jom kita susun rak buku ni bagi kemas. | `Let's [organize the bookshelf/tidy up the book rack].` | Let's organize the bookshelf. |
 | 15 | Gelap sangat ni sampai tak nampak apa-apa. | `It's [too dark to see/pitch black in here].` | It['s too dark to see/ is too dark to see]. |
 | 16 | Jangan bagi skrin tu tercalar. | `Don't [scratch the screen/scuff the display].` | [Don't scratch the screen/Do not scratch the screen]. |
@@ -893,7 +858,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita periksa alamat tu sekali lagi. | `Let's [double-check the address/confirm the address].` | Let's double-check the address. |
 | 19 | Benda tu ada dekat beranda depan. | `It's [on the front porch/sitting on the veranda].` | It['s on the front porch/ is on the front porch]. |
 | 20 | Jom kita teruskan melangkah ke depan. | `Let's [keep moving forward/keep heading straight].` | Let's keep moving forward. |
-
 ### 🎯 Level 37
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -917,7 +881,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita tengok tag harga dulu. | `Let's [check the price tag/see how much it is first].` | Let's check the price tag. |
 | 19 | Benda tu ada dekat atas meja dapur. | `It's [on the kitchen counter/sitting by the sink].` | It['s on the kitchen counter/ is on the kitchen counter]. |
 | 20 | Jom kita terus beralih ke bahagian seterusnya. | `Let's [jump to the next part/skip to the next section].` | Let's jump to the next part. |
-
 ### 🎯 Level 38
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -941,7 +904,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita periksa balik tarikh tu betul-betul. | `Let's [double-check the date/confirm the date].` | Let's double-check the date. |
 | 19 | Benda tu ada dekat atas rak kasut. | `It's [on the shoe rack/resting on the shoe shelf].` | It['s on the shoe rack/ is on the shoe rack]. |
 | 20 | Jom kita beralih ke senarai yang seterusnya. | `Let's [move on to the next list/switch to the next list].` | Let's move on to the next list. |
-
 ### 🎯 Level 39
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -957,7 +919,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 10 | Jom kita biarkan tingkap tu tertutup. | `Let's [keep the window shut/leave the window closed].` | Let's keep the window shut. |
 | 11 | Ini cuma penyelesaian sementara sahaja. | `It's [a temporary solution/just a quick fix].` | It['s a temporary solution/ is a temporary solution]. |
 | 12 | Jangan lupa bagi kucing makan nanti. | `Don't [forget to feed the cat/let the cat go hungry].` | [Don't forget to feed the cat/Do not forget to feed the cat]. |
-| 13 | Saya tengah cari pengetip kuku ni kat mana entah. | `I'm [looking for the nail clipper/finding the clippers].` | I['m looking for the nail clipper/ am looking for the nail clipper]. |
+| 13 | Saya tengah cari pengetip kuku ni kat mana entah. | `I'm [looking for the nail clipper/trying to find the clippers].` | I['m looking for the nail clipper/ am looking for the nail clipper]. |
 | 14 | Jom kita lap habuk ni. | `Let's [wipe the dust off/dust off the surface].` | Let's wipe the dust off. |
 | 15 | Benda ni terlalu longgar untuk saya. | `It's [too loose for me/baggy on me].` | It['s too loose for me/ is too loose for me]. |
 | 16 | Jangan bersandar dekat cermin tu. | `Don't [lean on the glass/push against the glass].` | [Don't lean on the glass/Do not lean on the glass]. |
@@ -965,7 +927,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita semak jumlah keseluruhan harga. | `Let's [check the total amount/see what the total comes to].` | Let's check the total amount. |
 | 19 | Benda tu ada dekat atas meja ruang tamu. | `It's [on the coffee table/right on the living room table].` | It['s on the coffee table/ is on the coffee table]. |
 | 20 | Jom kita teruskan ke kumpulan seterusnya. | `Let's [proceed to the next group/head to the next batch].` | Let's proceed to the next group. |
-
 ### 🎯 Level 40
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -989,15 +950,14 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Jom kita periksa label ukuran saiz baju dulu. | `Let's [check the size tag/see what size it is].` | Let's check the size tag. |
 | 19 | Benda tu ada dekat atas meja kecil tepi katil. | `It's [on the bedside table/resting on the nightstand].` | It['s on the bedside table/ is on the bedside table]. |
 | 20 | Kita dah berjaya cecah lapan ratus ayat! | `We officially [reached eight hundred/hit eight hundred]!` | We officially reached eight hundred! |
-
 ### 🎯 Level 41
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Berapa lama masa nak sampai ke sana? | `How long does it [take to get there/take to reach there]?` | How long does it take to get there? |
+| 1 | Berapa lama masa nak sampai ke sana? | `How long does it take to [get there/make it there]?` | How long does it take to get there? |
 | 2 | Jaga tepi kain sendiri. | `[Mind your own business/Keep your nose out of it].` | [Mind your own business/Do not interfere in other people's business]. |
 | 3 | Saya langsung tak tahu apa yang dah jadi. | `I have [no idea what happened/no clue what went down].` | I have no idea what happened. |
 | 4 | Nanti maklumkan perkembangan pasal hal ni dekat saya. | `Keep me [updated on this/posted on this].` | Keep me updated on this. |
-| 5 | Ada kedai makan dekat-dekat sini tak? | `Is there [any restaurant nearby/any food place around here]?` | Is there any restaurant nearby? |
+| 5 | Ada kedai makan dekat-dekat sini tak? | `Is there [a restaurant nearby/a food spot around here]?` | Is there any restaurant nearby? |
 | 6 | Awak dah terlepas isi penting. | `You [missed the whole point/missed the point completely].` | You missed the whole point. |
 | 7 | Saya tak dapat nak bezakan. | `I can't [tell the difference/spot the difference].` | I [can't tell the difference/ cannot tell the difference]. |
 | 8 | Buat macam rumah sendiri. | `[Make yourself at home/Make yourself comfortable].` | Make yourself at home. |
@@ -1013,7 +973,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang cerita kat awak pasal hal tu? | `Who [told you that story/let that slip]?` | Who told you that story? |
 | 19 | Saya betul-betul terlupa pasal masa. | `I completely [lost track of time/forgot about the time].` | I completely lost track of time. |
 | 20 | Dah sedia nak pesan makanan? | `[Are you ready to order/Ready to order]?` | Are you ready to order? |
-
 ### 🎯 Level 42
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1037,7 +996,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang bertanggungjawab dekat tempat ni? | `Who is [in charge of this place/running this place]?` | Who is in charge of this place? |
 | 19 | Saya betul-betul terlupa langsung pasal rancangan tu. | `I totally [forgot about that plan/blanked on that plan].` | I totally forgot about that plan. |
 | 20 | Awak dah rasa sihat sikit ke sekarang? | `Are you [feeling any better now/feeling better yet]?` | Are you feeling any better now? |
-
 ### 🎯 Level 43
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1048,7 +1006,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 5 | Tren (LRT/MRT) lambat sampai tak hari ini? | `[Is the train delayed/Is the train running late today]?` | Is there any delay on the train? |
 | 6 | Apa yang awak tanam, itulah yang awak tuai. | `You [reap what you sow/get what you put in].` | You reap what you sow. |
 | 7 | Saya hampir tak dengar apa-apa langsung. | `[I can't hear anything at all/I can barely hear a thing].` | I [can't hear anything at all/ cannot hear anything at all]. |
-| 8 | Silakan. | `[Be my guest/Help yourself].` | Be my guest. |
+| 8 | Silakan, buatlah macam rumah sendiri (jemputlah). | `[Be my guest/Help yourself].` | Be my guest. |
 | 9 | Baju ni nampak sesuai tak dengan saya? | `Does this dress [look good on me/suit me]?` | Does this dress look good on me? |
 | 10 | Saya nak regangkan kaki kejap. | `I need to [stretch my legs/take a quick walk].` | I need to stretch my legs. |
 | 11 | Tindakan lebih membuktikan daripada sekadar kata-kata. | `Actions [speak louder than words/matter more than talk].` | Actions speak louder than words. |
@@ -1061,7 +1019,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Lagipun, siapa yang cadangkan tempat ni sebenarnya? | `Who [suggested this place anyway/picked this place in the first place]?` | Who suggested this place anyway? |
 | 19 | Saya terus hilang selera makan langsung. | `[I completely lost my appetite/I can't even eat a bite].` | I completely lost my appetite. |
 | 20 | Awak ni dah hilang akal ke? | `Are you [out of your mind/going crazy]?` | Are you out of your mind? |
-
 ### 🎯 Level 44
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1069,7 +1026,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Fokus pandangan awak dekat jalan raya. | `Keep your [eyes on the road/focus on driving].` | Keep your eyes on the road. |
 | 3 | Saya berbelah bahagi tentang perkara ni. | `I'm [torn about this/on the fence about this].` | I have mixed feelings about this. |
 | 4 | Tengoklah sendiri kalau awak tak percaya cakap saya. | `See for yourself if you [don't believe me/think I'm lying].` | See for yourself if you [don't believe me/ do not believe me]. |
-| 5 | Ada pilihan makanan vegetarian tak kat sini? | `Is there [any vegetarian option available/any veggie option here]?` | Is there any vegetarian option available? |
+| 5 | Ada pilihan makanan vegetarian tak kat sini? | `Is there [a vegetarian option available/a veggie option here]?` | Is there any vegetarian option available? |
 | 6 | Jangan menilai sesuatu hanya daripada luaran sahaja. | `You can't [judge a book by its cover/judge just from appearances].` | You [can't judge a book by its cover/ cannot judge a book by its cover]. |
 | 7 | Aku hampir tak cam kau dengan gaya rambut macam tu. | `I barely [recognized you with that haircut/knew it was you with that hair].` | I barely recognized you with that haircut. |
 | 8 | Mestilah boleh, silakan. | `By all means, [go ahead/help yourself].` | By all means, go ahead. |
@@ -1085,7 +1042,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang bagi kebenaran tukar benda ni tanpa bagitahu saya? | `Who authorized this change [without telling me/behind my back]?` | Who authorized this change without telling me? |
 | 19 | Saya betul-betul sesat jalan dekat dalam bangunan ni tadi. | `I completely [lost my way in the building/got turned around inside].` | I completely lost my way in the building. |
 | 20 | Awak ada kira jumlah mata (skor) sekarang ke? | `Are you [keeping track of the score/tracking the points]?` | Are you keeping track of the score? |
-
 ### 🎯 Level 45
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1093,7 +1049,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Tolong perlahankan sikit suara awak. | `Keep your [voice down, please/volume down, please].` | Keep your voice down, please. |
 | 3 | Jadual saya agak padat sikit petang ni. | `I have [a tight schedule this afternoon/a packed afternoon].` | I have a tight schedule this afternoon. |
 | 4 | Cuba tengok kalau awak boleh betulkan selak pintu ni. | `See if you can [fix this latch/mend this lock].` | See if you can fix this latch. |
-| 5 | Ada farmasi yang buka lagi ke jam macam ni? | `Is there [any pharmacy open at this hour/a drugstore open right now]?` | Is there any pharmacy open at this hour? |
+| 5 | Ada farmasi yang buka lagi ke jam macam ni? | `Is there [a pharmacy open at this hour/a drugstore open right now]?` | Is there any pharmacy open at this hour? |
 | 6 | Awak janganlah ambil mudah sangat pasal sesuatu benda. | `You shouldn't [take things for granted/assume everything's guaranteed].` | You [shouldn't take things for granted/ should not take things for granted]. |
 | 7 | Saya hampir tak dapat nak lelapkan mata langsung semalam. | `I barely [slept a wink last night/got any sleep last night].` | I barely slept a wink last night. |
 | 8 | Jangan segan-segan nak tanya kalau awak perlukan bantuan. | `[Feel free to ask/Don't hesitate to ask] if you need help.` | Feel free to ask if you need help. |
@@ -1109,15 +1065,14 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang biarkan paip air terbuka dekat dalam bilik air? | `Who left the [faucet running in the bathroom/faucet on in the bathroom]?` | Who left the tap running in the bathroom? |
 | 19 | Saya betul-betul lupa kat mana saya letak kereta tadi. | `I completely [forgot where I parked my car/lost my car in the lot].` | I completely forgot where I parked my car. |
 | 20 | Awak ada rancang nak pergi mana-mana ke esok? | `Are you planning to [go anywhere tomorrow/head out tomorrow]?` | Are you planning to go anywhere tomorrow? |
-
 ### 🎯 Level 46
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
 | 1 | Macam mana awak selalu luangkan masa hujung minggu? | `How do you usually [spend your weekend/spend your days off]?` | How do you usually spend your weekend? |
 | 2 | Jaga jarak awak dari kawasan tepi tu. | `Keep your [distance from the edge/distance from the ledge].` | Keep your distance from the edge. |
 | 3 | Kepala saya rasa sakit mencucuk-cucuk sangat sekarang ni. | `I have [a splitting headache right now/a pounding headache].` | I have a splitting headache right now. |
-| 4 | Cuba tengok kalau ada apa-apa baucar diskaun. | `See if there [is any discount voucher/are any coupons available].` | See if there is any discount voucher. |
-| 5 | Ada jalan pintas tak nak elak kesesakan lalu lintas (jem) ni? | `Is there [any shortcut to avoid the traffic/any backway to skip the jam]?` | Is there any shortcut to avoid the traffic? |
+| 4 | Cuba tengok kalau ada apa-apa baucar diskaun. | `See if there [are any discount vouchers/are any coupons available].` | See if there is any discount voucher. |
+| 5 | Ada jalan pintas tak nak elak kesesakan lalu lintas (jem) ni? | `Is there [a shortcut to avoid the traffic/a back road to skip the jam]?` | Is there any shortcut to avoid the traffic? |
 | 6 | Awak tak boleh dapat semua benda dalam satu masa. | `You can't [have your cake and eat it too/have it both ways].` | You [can't have your cake and eat it too/ cannot have your cake and eat it too]. |
 | 7 | Saya hampir dah tak kenal tempat ni lagi. | `[I barely recognize this place anymore/I can barely recognize this town anymore].` | I barely recognized this place anymore. |
 | 8 | Pastikan awak periksa kunci tu dua kali. | `Make sure you [double-check the lock/check the lock twice].` | Make sure you double-check the lock. |
@@ -1133,7 +1088,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang biarkan pintu peti ais terbuka luas ni? | `Who left the [fridge door wide open/refrigerator hanging open]?` | Who left the fridge door wide open? |
 | 19 | Saya betul-betul terlupa nak balas mesej awak tadi. | `I completely [forgot to reply to your text/spaced out on answering your message].` | I completely forgot to reply to your text. |
 | 20 | Awak jangka ada tetamu nak datang ke petang ni? | `Are you [expecting any guests this evening/having company tonight]?` | Are you expecting any guests this evening? |
-
 ### 🎯 Level 47
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1141,7 +1095,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Tolong jangan sentuh barang-barang pameran tu. | `Keep your [hands off the display items/hands to yourself].` | Keep your hands off the display items. |
 | 3 | Tekak saya rasa macam perit sikit hari ni. | `I have [a scratchy throat today/a sore throat today].` | I have a scratchy throat today. |
 | 4 | Cuba tengok kalau awak boleh muatkan benda ni dalam kereta. | `See if you can [squeeze this into the car/fit this in the trunk].` | See if you can squeeze this into the car. |
-| 5 | Ada dikenakan caj penghantaran tak untuk kawasan ni? | `Is there [any delivery charge for this area/a shipping fee for this zone]?` | Is there any delivery charge for this area? |
+| 5 | Ada dikenakan caj penghantaran tak untuk kawasan ni? | `Is there [a delivery charge for this area/a shipping fee for this zone]?` | Is there any delivery charge for this area? |
 | 6 | Barang padan dengan harga yang kita bayar. | `You [get what you pay for/pay for the quality you get].` | You get what you pay for. |
 | 7 | Sekali imbas tadi saya hampir tak perasan pun apa bezanya. | `I barely [noticed the difference at first glance/saw any change at first].` | I barely noticed the difference at first glance. |
 | 8 | Pastikan awak tak terlajak tidur pulak esok pagi. | `Make sure you [don't oversleep tomorrow/set your alarm for tomorrow].` | Make sure you [don't oversleep tomorrow/ do not oversleep tomorrow]. |
@@ -1157,7 +1111,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang biarkan pintu pagar utama terbuka luas tadi? | `Who left the [main gate wide open just now/front gate completely open]?` | Who left the main gate wide open just now? |
 | 19 | Saya betul-betul terlupa nak tutup suis seterika tadi. | `I completely [forgot to turn off the iron/left the iron on].` | I completely forgot to turn off the iron. |
 | 20 | Awak ada rancang nak ambil cuti ke minggu depan? | `Are you planning to [take leave/take time off] next week?` | Are you planning to take a leave next week? |
-
 ### 🎯 Level 48
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1165,7 +1118,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Susun kasut awak bagi kemas dekat atas rak tu. | `Keep your shoes [tidy on the rack/neat on the shelf].` | Keep your shoes tidy on the rack. |
 | 3 | Leher saya rasa sakit sebab salah tidur semalam. | `I have a stiff neck from [sleeping awkwardly/sleeping funny last night].` | I have a stiff neck from sleeping wrongly. |
 | 4 | Cuba tengok kalau awak boleh dapatkan balik duit (refund) untuk benda ni. | `See if you can [get a refund for this/claim your money back].` | See if you can get a refund for this. |
-| 5 | Ada apa-apa barang atas nama saya tak? | `Is there [any parcel under my name/any package for me]?` | Is there any parcel under my name? |
+| 5 | Ada apa-apa barang atas nama saya tak? | `Is there [a parcel under my name/a package for me]?` | Is there any parcel under my name? |
 | 6 | Awak jangan cepat sangat nak nilai orang. | `You shouldn't [judge someone so quickly/jump to conclusions about people].` | You [shouldn't judge someone so quickly/ should not judge someone so quickly]. |
 | 7 | Saya hampir tak cam suara awak tadi dalam telefon. | `I barely [recognized your voice over the phone/knew it was you speaking].` | I barely recognized your voice over the phone. |
 | 8 | Pastikan awak tak terlepas panggilan terakhir. | `Make sure you [don't miss the final call/catch the boarding call].` | Make sure you [don't miss the final call/ do not miss the final call]. |
@@ -1181,7 +1134,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang tinggalkan kesan tapak kaki berlumpur atas lantai ni? | `Who left these [muddy footprints on the floor/muddy tracks on the tiles]?` | Who left these muddy footprints on the floor? |
 | 19 | Saya betul-betul terlupa nak kunci pintu pagar belakang tadi. | `I completely [forgot to lock the back gate/left the back gate unlocked].` | I completely forgot to lock the back gate. |
 | 20 | Awak ada nak pergi perjumpaan hujung minggu ni ke? | `Are you [attending the gathering this weekend/going to the meet-up this weekend]?` | Are you attending the gathering this weekend? |
-
 ### 🎯 Level 49
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1189,7 +1141,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Pastikan meja kerja awak bersih daripada barang bersepah. | `Keep your workspace [free of clutter/neat and tidy].` | Keep your workspace free of clutter. |
 | 3 | Pandangan saya rasa kabur kalau tak pakai cermin mata. | `I have [blurry vision without my glasses/trouble seeing without my specs].` | I have blurry vision without my glasses. |
 | 4 | Cuba tengok kalau awak boleh ambil sudut yang lagi cantik untuk gambar tu. | `See if you can [get a better angle for the photo/find a nicer angle for that shot].` | See if you can get a better angle for the photo. |
-| 5 | Ada kedai makan yang mesra vegetarian tak dekat-dekat sini? | `Is there [any vegetarian-friendly restaurant nearby/any plant-based spot around here]?` | Is there any vegetarian-friendly restaurant nearby? |
+| 5 | Ada kedai makan yang mesra vegetarian tak dekat-dekat sini? | `Is there [a vegetarian-friendly restaurant nearby/a plant-based spot around here]?` | Is there any vegetarian-friendly restaurant nearby? |
 | 6 | Awak janganlah cepat sangat buat tuduhan tanpa bukti. | `You shouldn't [jump to conclusions without proof/make accusations without facts].` | You [shouldn't jump to conclusions without proof/ should not jump to conclusions without proof]. |
 | 7 | Saya hampir dah tak cam pekan ni selepas sepuluh tahun. | `I barely [recognized the town after ten years/recognized anything in town after a decade].` | I barely recognized the town after ten years. |
 | 8 | Pastikan awak tak terbocorkan apa-apa maklumat sensitif. | `Make sure you [don't leak any sensitive info/keep all sensitive details private].` | Make sure you [don't leak any sensitive info/ do not leak any sensitive info]. |
@@ -1205,7 +1157,6 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 18 | Siapa yang biarkan tuala basah atas katil ni? | `Who left these [wet towels on the bed/damp towels lying on the mattress]?` | Who left these wet towels on the bed? |
 | 19 | Saya betul-betul terlupa nak buat salinan fail saya tadi. | `I completely [forgot to back up my files/forgot to save copies of my data].` | I completely forgot to back up my files. |
 | 20 | Awak ada rancang nak mendaftar untuk kursus tu ke? | `Are you planning to [sign up for the course/enroll in that class]?` | Are you planning to sign up for the course? |
-
 ### 🎯 Level 50
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
@@ -1213,7 +1164,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat kini telah diselaraskan s
 | 2 | Pastikan kata laluan awak disimpan selamat dan rahsia. | `Keep your password [safe and confidential/strictly private].` | Keep your password safe and confidential. |
 | 3 | Aku rasa macam tak sedap hatilah, macam ada benda tak kena. | `I have [a gut feeling that something is wrong/a bad feeling that things are off].` | I have a gut feeling that something is wrong. |
 | 4 | Cuba tengok kalau awak boleh dapat diskaun lagi murah dekat tempat lain. | `See if you can [get a better discount elsewhere/snag a cheaper deal elsewhere].` | See if you can get a better discount elsewhere. |
-| 5 | Ada apa-apa pengangkutan awam tak dekat kawasan sini? | `Is there [any public transport available nearby/any transit option close by]?` | Is there any public transport available nearby? |
+| 5 | Ada apa-apa pengangkutan awam tak dekat kawasan sini? | `Is there [public transport available nearby/a transit option close by]?` | Is there any public transport available nearby? |
 | 6 | Awak janganlah ambil serius sangat dengan kata-kata dia tu. | `You shouldn't [take his words too seriously/take what he says to heart].` | You [shouldn't take his words too seriously/ should not take his words too seriously]. |
 | 7 | Saya hampir tak perasan masa berlalu cepat sangat tadi. | `I barely [noticed the time passing by just now/realized how quickly the time went by].` | I barely noticed the time passing by just now. |
 | 8 | Pastikan awak periksa resit tu dua kali sebelum keluar. | `Make sure you [double-check the receipt before leaving/check the receipt before walking out].` | Make sure you double-check the receipt before leaving. |

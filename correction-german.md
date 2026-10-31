@@ -279,7 +279,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 12 | Jom kita buat perjanjian. | `Lass uns [eine Abmachung treffen/einen Deal machen].` | Lass uns einen Deal machen. |
 | 13 | Dua-dua pihak pun untung. | `Das ist eine [Win-Win-Situation/Situation, von der beide profitieren].` | Das ist eine Win-Win-Situation. |
 | 14 | Boleh saya tanya satu soalan? | `Kann ich [eine Frage stellen/dich mal kurz was fragen]?` | Kann ich eine Frage stellen? |
-| 15 | Silakan. | `[Nach Ihnen/Bitte schön]!` | Schieß los! |
+| 15 | Silakan bercakap (cakaplah terus). | `[Nach Ihnen/Bitte schön]!` | Schieß los! |
 | 16 | Saja bergurau je. | `[War nur ein Spaß/Nur ein Scherz].` | War nur ein Scherz. |
 | 17 | Jangan ambil serius sangat. | `Nimm es [nicht zu ernst/nicht so schwer]!` | Nimm es nicht zu ernst. |
 | 18 | Semuanya akan okay nanti. | `Alles wird [gut/schon wieder gut].` | Alles wird gut. |
@@ -331,7 +331,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 16 | Biar saya habiskan cakap dulu. | `Lass mich [zuerst ausreden/bitte kurz zu Ende sprechen]!` | Lass mich zuerst ausreden. |
 | 17 | Ada betulnya juga point awak tu. | `Da hast du [vollkommen recht/echt einen Punkt].` | Du hast recht. |
 | 18 | Itu cerita lain. | `Das ist [eine ganz andere Geschichte/ein anderes Blatt].` | Das ist eine andere Geschichte. |
-| 19 | Jom kita beralih ke perkara seterusnya. | `Lass uns [zum nächsten Punkt übergehen/weitermachen]!` | Lass uns weitermachen. |
+| 19 | Jom kita beralih ke topik seterusnya. | `Lass uns [zum nächsten Punkt übergehen/weitermachen]!` | Lass uns weitermachen. |
 | 20 | Syabas, kekalkan prestasi ni! | `Mach weiter [so gute Arbeit/so, klasse Leistung]!` | Mach weiter so gute Arbeit! |
 
 ### 🎯 Level 14
@@ -394,7 +394,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 7 | Berapa lama masa yang diambil? | `Wie lange [dauert das/wird das dauern]?` | Wie lange dauert das? |
 | 8 | Lebih kurang sepuluh minit. | `[Ungefähr zehn Minuten/So um die zehn Minuten].` | Ungefähr zehn Minuten. |
 | 9 | Saya tengah nak cepat. | `Ich [habe es eilig/hab's gerade eilig].` | Ich habe es eilig. |
-| 10 | Jangan desak saya. | `[Hetz mich nicht/Drängle nicht so]!` | Hetz mich nicht. |
+| 10 | Jangan buat saya tertekan (stres). | `[Stress mich nicht/Hetz mich nicht]!` | Hetz mich nicht. |
 | 11 | Boleh tolong saya sikit? | `Kannst du mir [einen Gefallen tun/mal kurz helfen]?` | Kannst du mir einen Gefallen tun? |
 | 12 | Apa yang awak perlukan? | `Was [brauchst du/benötigst du]?` | Was brauchst du? |
 | 13 | Biar saya yang uruskan perkara tu. | `Ich [kümmere mich darum/mach das schon].` | Ich kümmere mich darum. |
@@ -433,7 +433,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 ### 🎯 Level 18
 | No | Maksud Bahasa Melayu (BM) | Cadangan Baharu `[Standard / Casual]` | Ayat Asal Dalam Database |
 |:--:|:---|:---|:---|
-| 1 | Lega mendengarnya. | `Das ist [eine Erleichterung zu hören/wirklich beruhigend zu hören].` | Das ist eine Erleichterung zu hören. |
+| 1 | Syukurlah, rasa lega bila dengar berita tu. | `Das ist [eine Erleichterung zu hören/wirklich beruhigend zu hören].` | Das ist eine Erleichterung zu hören. |
 | 2 | Macam terlalu bagus sangat sampai rasa susah nak percaya. | `Das ist [zu schön, um wahr zu sein/fast schon unglaublich].` | Das ist zu schön, um wahr zu sein. |
 | 3 | Jangan cepat sangat buat andaian sendiri. | `Zieh [keine voreiligen Schlüsse/nicht gleich voreilige Schlüsse]!` | Zieh keine voreiligen Schlüsse. |
 | 4 | Biar kita dengar dulu penjelasan mereka sampai habis. | `Lass sie uns [erst einmal ganz anhören/in Ruhe ausreden lassen]!` | Lass sie uns anhören. |
@@ -532,7 +532,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 1 | Ada muslihat apa lagi? | `Wo ist [diesmal der Haken/der Haken an der Sache]?` | Wo ist der Haken? |
 | 2 | Jom terus ke point penting. | `Kommen wir [direkt zum Punkt/zur Sache]!` | Kommen wir direkt zum Punkt. |
 | 3 | Peluang yang agak tipis. | `Das ist [eine sehr geringe Chance/eine eher vage Aussicht].` | Das ist ein langer Weg. |
-| 4 | Jangan desak saya. | `Dränge mich [bitte nicht/bloß nicht]!` | Dränge mich nicht. |
+| 4 | Jangan desak saya. | `[Dränge mich nicht/Setz mich nicht unter Druck]!` | Dränge mich nicht. |
 | 5 | Saya akan fikirkan cara yang lebih kreatif. | `Ich werde [über den Tellerrand hinausschauen/mir was Kreatives einfallen lassen].` | Ich werde über den Tellerrand schauen. |
 | 6 | Kita tengok dulu keadaan macam mana nanti. | `Schauen wir [einfach, wie es läuft/mal, wie der Hase läuft]!` | Schauen wir einfach, wie es läuft. |
 | 7 | Kacang je benda ni. | `Das ist [ein echtes Kinderspiel/ein Klacks für mich]!` | Das ist ein Kinderspiel. |
@@ -587,7 +587,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 8 | Jangan bagi benda tu ganggu fikiran awak. | `Lass es [nicht an dich heran/dir nicht die Laune verderben]!` | Lass es nicht an dich heran. |
 | 9 | Saya terbuka kepada apa-apa cadangan. | `Ich bin [offen für alle Vorschläge/ganz offen für deine Ideen].` | Ich bin offen für Vorschläge. |
 | 10 | Jangan kita buat andaian sendiri. | `Stellen wir [keine voreiligen Vermutungen an/keine wilden Spekulationen an]!` | Machen wir keine Annahmen. |
-| 11 | Benda ni percuma. | `Das geht [aufs Haus/ist völlig umsonst]!` | Das geht aufs Haus. |
+| 11 | Benda ni percuma (kedai belanja). | `Das geht [aufs Haus/ist völlig umsonst]!` | Das geht aufs Haus. |
 | 12 | Jangan paksa diri awak keterlaluan sangat. | `Übernimm [dich bloß nicht/dich nicht maßlos]!` | Übernahme dich nicht. |
 | 13 | Nanti saya maklumkan semula pada awak pasal hal tu. | `Ich komme [deswegen wieder auf dich zurück/später nochmal auf dich zu].` | Ich komme deswegen wieder auf dich zurück. |
 | 14 | Jom kita kekal fokus pada matlamat asal. | `Lass uns [auf das Wesentliche fokussiert bleiben/das Ziel nicht aus den Augen verlieren]!` | Lass uns fokussiert bleiben. |
@@ -727,7 +727,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 4 | Jangan lupa kunci pagar. | `Vergiss nicht, [das Tor abzuschließen/das Gartentor zuzumachen]!` | Vergiss nicht, das Tor abzuschließen. |
 | 5 | Saya dah lambat (lewat) sikit ni. | `Ich bin [etwas spät dran/schon ein bisschen im Verzug].` | Ich bin etwas spät dran. |
 | 6 | Jom kita pesan makanan. | `Lass uns [Essen bestellen/was zu essen ordern]!` | Lass uns Essen bestellen. |
-| 7 | Harganya berpatutan. | `Das ist [ein angemessener Preis/ein absolut fairer Preis].` | Das ist ein angemessener Preis. |
+| 7 | Harganya amat munasabah dan berbaloi. | `Das ist [ein angemessener Preis/ein absolut fairer Preis].` | Das ist ein angemessener Preis. |
 | 8 | Jangan sentuh benda tu, panas. | `Fass das nicht an, [es ist heiß/du verbrennst dich sonst]!` | Fass das nicht an, es ist heiß. |
 | 9 | Saya dah biasa dengan cuaca macam ni. | `Ich bin [an dieses Wetter gewöhnt/dieses Wetter gewohnt].` | Ich bin an dieses Wetter gewöhnt. |
 | 10 | Jom kita jaga kebersihan tempat ni. | `Lass uns den Ort [sauber halten/ordentlich hinterlassen]!` | Lass uns den Ort sauber halten. |
@@ -775,7 +775,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 4 | Jangan biarkan air paip ni terbiar terbuka. | `Lass [das Wasser nicht laufen/den Wasserhahn nicht aufgedreht]!` | Lass das Wasser nicht laufen. |
 | 5 | Saya tengah cas telefon saya ni. | `Ich lade [gerade mein Handy auf/mein Handy gerade auf].` | Ich lade gerade mein Handy auf. |
 | 6 | Jom kita cari tempat letak kereta. | `Lass uns [nach einem Parkplatz suchen/einen Parkplatz suchen].` | Lass uns nach einem Parkplatz suchen. |
-| 7 | Benda ni percuma. | `Das ist [kostenlos/völlig umsonst].` | Das ist kostenlos. |
+| 7 | Benda ni percuma (tak perlu bayar apa-apa). | `Das ist [kostenlos/völlig umsonst].` | Das ist kostenlos. |
 | 8 | Jangan lintas jalan lagi. | `Überquere [noch nicht die Straße/die Straße noch nicht]!` | Überquere noch nicht die Straße. |
 | 9 | Saya ada masalah nak tidur la. | `Ich habe [Schlafprobleme/Schwierigkeiten einzuschlafen].` | Ich habe Schlafprobleme. |
 | 10 | Jom kita set alarm (jam loceng). | `Lass uns [einen Wecker stellen/den Wecker stellen].` | Lass uns einen Wecker stellen. |
@@ -1040,7 +1040,7 @@ Sesuai dengan arahan dan visi tuan, kesemua 1,000 ayat Bahasa Melayu - German ki
 | 5 | Tren (LRT/MRT) lambat sampai tak hari ini? | `Hat der Zug heute [Verspätung/mal wieder Verspätung]?` | Hat der Zug heute Verspätung? |
 | 6 | Apa yang awak tanam, itulah yang awak tuai. | `[Man erntet, was man sät/Wie man sich bettet, so liegt man]!` | Man erntet, was man sät. |
 | 7 | Saya hampir tak dengar apa-apa langsung. | `Ich kann [überhaupt nichts hören/kaum ein Wort verstehen].` | Ich kann überhaupt nichts hören. |
-| 8 | Silakan. | `[Nur zu/Bedien dich ruhig]!` | Nur zu. |
+| 8 | Silakan, buatlah macam rumah sendiri (jemputlah). | `[Nur zu/Bedien dich ruhig]!` | Nur zu. |
 | 9 | Baju ni nampak sesuai tak dengan saya? | `Steht mir [dieses Kleid/dieses Outfit]?` | Steht mir dieses Kleid? |
 | 10 | Saya nak regangkan kaki kejap. | `Ich muss mir [kurz die Beine vertreten/mal kurz die Füße vertreten].` | Ich muss mir kurz die Beine vertreten. |
 | 11 | Tindakan lebih membuktikan daripada sekadar kata-kata. | `[Taten sagen mehr als Worte/Taten zählen mehr als Worte]!` | Taten sagen mehr als Worte. |
