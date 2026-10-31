@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle, ChevronRight } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
+import { localDictionary } from "@/lib/localDictionary";
 
 // Extend window object for YouTube API
 declare global {
@@ -112,30 +113,8 @@ export default function InteractivePlayerPage() {
     }
 
     // 1. Semak Kamus Tempatan Dahulu (100% Tepat untuk perkataan lazim)
-    const localDictionary: { [key: string]: string } = {
-      "practice": "berlatih / latihan",
-      "every": "setiap / tiap-tiap",
-      "everything": "segalanya / semua perkara",
-      "shopping": "membeli-belah",
-      "grocery": "barangan runcit / dapur",
-      "store": "kedai / pasar raya",
-      "market": "pasar",
-      "forbidden": "larangan / terlarang",
-      "city": "kota / bandar",
-      "palace": "istana",
-      "emperor": "maharaja",
-      "natural": "semula jadi / santai",
-      "friend": "kawan / rakan",
-      "blender": "pengisar",
-      "cart": "troli",
-      "aisle": "lorong barangan",
-      "poutine": "hidangan kentang poutine",
-      "cake": "kek",
-      "bread": "roti",
-    };
-
-    if (localDictionary[cleanWord]) {
-      const localResult = localDictionary[cleanWord];
+    const localResult = localDictionary[cleanWord] || localDictionary[word.toLowerCase().trim()];
+    if (localResult) {
       setTranslationCache((prev) => ({ ...prev, [cleanWord]: localResult }));
       setWordTranslation(localResult);
       setLoadingWord(false);
