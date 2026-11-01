@@ -9,6 +9,7 @@ import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, Al
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import { localDictionary } from "@/lib/localDictionary";
+import { findMatchingPhrase, cleanToken } from "@/lib/phraseDictionary";
 
 // Extend window object for YouTube API
 declare global {
@@ -79,14 +80,20 @@ export default function InteractivePlayerPage() {
   const lastSyncTimeRef = useRef<number>(0);                // throttle backend progress sync
   const hasAutoCompletedRef = useRef<boolean>(false);       // prevent duplicate 85% toast
 
-  // Dictionary Hover & Click features
+  // Dictionary Hover & Click features (Word & Phrase Collocation Detection)
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
   const [wordTranslation, setWordTranslation] = useState<string>("");
+  const [detectedPhrase, setDetectedPhrase] = useState<{ phrase: string; translation: string } | null>(null);
   const [loadingWord, setLoadingWord] = useState(false);
   const [popupPos, setPopupPos] = useState<{ x: number; y: number } | null>(null);
   const [translationCache, setTranslationCache] = useState<{ [key: string]: string }>({});
 
-  const handleWordHoverOrClick = async (word: string, e: React.MouseEvent) => {
+  const handleWordHoverOrClick = async (
+    word: string,
+    fullSentence: string,
+    wordIndex: number,
+    e: React.MouseEvent
+  ) => {
     // 1. Pause video automatically
     if (playerObjRef.current && typeof playerObjRef.current.pauseVideo === "function") {
       playerObjRef.current.pauseVideo();
@@ -94,11 +101,16 @@ export default function InteractivePlayerPage() {
       player.pauseVideo();
     }
 
-    const cleanWord = word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, "").trim().toLowerCase();
+    const cleanWord = cleanToken(word);
     if (!cleanWord) return;
 
     setHoveredWord(cleanWord);
     setLoadingWord(true);
+
+    // 2. Detect phrase / collocation around this clicked word (Vocarb Ayat)
+    const sentenceTokens = fullSentence.split(/\s+/).filter(Boolean);
+    const phraseMatch = findMatchingPhrase(sentenceTokens, wordIndex);
+    setDetectedPhrase(phraseMatch);
 
     const rect = (e.target as HTMLElement).getBoundingClientRect();
     setPopupPos({
@@ -112,8 +124,8 @@ export default function InteractivePlayerPage() {
       return;
     }
 
-    // 1. Semak Kamus Tempatan Dahulu (100% Tepat untuk perkataan lazim)
-    const localResult = localDictionary[cleanWord] || localDictionary[word.toLowerCase().trim()];
+    // 3. Semak Kamus Tempatan Dahulu (100% Tepat untuk perkataan lazim & singkatan cth: we'll, don't, it's)
+    const localResult = localDictionary[cleanWord] || localDictionary[cleanWord.replace(/'/g, "")];
     if (localResult) {
       setTranslationCache((prev) => ({ ...prev, [cleanWord]: localResult }));
       setWordTranslation(localResult);
@@ -121,7 +133,7 @@ export default function InteractivePlayerPage() {
       return;
     }
 
-    // 2. Fetch Kamus Pantas
+    // 4. Fetch Kamus Pantas (Fallback jika perkataan tiada dalam kamus)
     try {
       const res = await fetch(
         `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ms&dt=t&q=${encodeURIComponent(cleanWord)}`
@@ -145,6 +157,7 @@ export default function InteractivePlayerPage() {
   const handleWordLeave = () => {
     setHoveredWord(null);
     setWordTranslation("");
+    setDetectedPhrase(null);
     setPopupPos(null);
 
     // Resume video playback when user leaves word / unhover
@@ -157,19 +170,23 @@ export default function InteractivePlayerPage() {
 
   // Helper to render interactive words (hover & click)
   const renderInteractiveText = (text: string) => {
-    const words = text.split(/(\s+)/);
-    return words.map((chunk, index) => {
+    const chunks = text.split(/(\s+)/);
+    let tokenIndex = 0;
+
+    return chunks.map((chunk, index) => {
       if (/^\s+$/.test(chunk)) {
         return <span key={index}>{chunk}</span>;
       }
+
+      const currentIndex = tokenIndex++;
       return (
         <span
           key={index}
           className="cursor-pointer hover:bg-amber-500/20 hover:text-amber-300 rounded px-0.5 transition-colors border-b border-dashed border-amber-500/40"
-          onClick={(e) => handleWordHoverOrClick(chunk, e)}
-          onMouseEnter={(e) => handleWordHoverOrClick(chunk, e)}
+          onClick={(e) => handleWordHoverOrClick(chunk, text, currentIndex, e)}
+          onMouseEnter={(e) => handleWordHoverOrClick(chunk, text, currentIndex, e)}
           onMouseLeave={handleWordLeave}
-          title="Klik atau layang untuk lihat terjemahan"
+          title="Klik atau layang untuk lihat maksud perkataan & frasa"
         >
           {chunk}
         </span>
@@ -752,25 +769,43 @@ export default function InteractivePlayerPage() {
 
       {hoveredWord && popupPos && (
         <div
-          className="absolute z-50 transform -translate-x-1/2 -translate-y-full bg-slate-950/95 border border-amber-500/30 text-white p-3 rounded-lg shadow-xl max-w-[220px] text-center backdrop-blur-sm pointer-events-auto"
+          className="absolute z-50 transform -translate-x-1/2 -translate-y-full bg-slate-950/95 border border-sky-500/30 text-white rounded-xl shadow-2xl min-w-[180px] max-w-[270px] backdrop-blur-md overflow-hidden pointer-events-auto transition-all"
           style={{
             left: `${popupPos.x}px`,
             top: `${popupPos.y}px`,
           }}
           onMouseLeave={handleWordLeave}
         >
-          <div className="text-[10px] text-amber-400/80 font-bold uppercase tracking-wider mb-1">
-            Maksud: {hoveredWord}
-          </div>
-          {loadingWord ? (
-            <div className="flex justify-center py-1">
-              <Loader2 className="w-4 h-4 animate-spin text-amber-500" />
-            </div>
-          ) : (
-            <div className="text-xs font-semibold leading-relaxed text-slate-100">
-              {wordTranslation}
+          {/* Petak Atas: Terjemahan Frasa / Vocarb Ayat */}
+          {detectedPhrase && (
+            <div className="bg-sky-950/90 border-b border-sky-500/30 px-3 py-2 text-left">
+              <div className="text-[10px] text-sky-400 font-bold uppercase tracking-wider mb-0.5 flex items-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-sky-400 inline-block animate-pulse" />
+                <span>Frasa: {detectedPhrase.phrase}</span>
+              </div>
+              <div className="text-xs font-bold text-sky-100 leading-snug">
+                {detectedPhrase.translation}
+              </div>
             </div>
           )}
+
+          {/* Petak Bawah: Terjemahan Perkataan Tunggal */}
+          <div className="p-2.5 text-left bg-slate-950/95">
+            <div className="text-[10px] text-amber-400/90 font-bold uppercase tracking-wider mb-0.5">
+              {detectedPhrase ? `Perkataan: ${hoveredWord}` : `Maksud: ${hoveredWord}`}
+            </div>
+            {loadingWord ? (
+              <div className="flex justify-center py-1">
+                <Loader2 className="w-3.5 h-3.5 animate-spin text-amber-500" />
+              </div>
+            ) : (
+              <div className="text-xs font-semibold leading-relaxed text-slate-200">
+                {wordTranslation}
+              </div>
+            )}
+          </div>
+
+          {/* Panah Penunjuk Tooltip */}
           <div className="absolute top-full left-1/2 transform -translate-x-1/2 -translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-slate-950" />
         </div>
       )}
