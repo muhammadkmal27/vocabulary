@@ -85,7 +85,13 @@ export default function InteractivePlayerPage() {
   const [wordTranslation, setWordTranslation] = useState<string>("");
   const [detectedPhrase, setDetectedPhrase] = useState<{ phrase: string; translation: string } | null>(null);
   const [loadingWord, setLoadingWord] = useState(false);
-  const [popupPos, setPopupPos] = useState<{ x: number; y: number } | null>(null);
+  const [popupPos, setPopupPos] = useState<{
+    x: number;
+    y: number;
+    arrowX: number;
+    showBelow: boolean;
+    width: number;
+  } | null>(null);
   const [translationCache, setTranslationCache] = useState<{ [key: string]: string }>({});
 
   const handleWordHoverOrClick = async (
@@ -113,9 +119,34 @@ export default function InteractivePlayerPage() {
     setDetectedPhrase(phraseMatch);
 
     const rect = (e.target as HTMLElement).getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+    const padding = 12; // Margin selamat dari sisi skrin telefon
+    const popupWidth = Math.min(270, Math.max(180, viewportWidth - padding * 2));
+    const halfWidth = popupWidth / 2;
+
+    const targetCenterX = rect.left + window.scrollX + rect.width / 2;
+
+    // Pastikan kotak popup tidak terkeluar dari skrin (kiri mahupun kanan)
+    const minCenterX = window.scrollX + padding + halfWidth;
+    const maxCenterX = window.scrollX + viewportWidth - padding - halfWidth;
+    const clampedCenterX = Math.max(minCenterX, Math.min(maxCenterX, targetCenterX));
+
+    // Laraskan anak panah supaya menunjuk tepat ke perkataan yang ditekan
+    const relativeArrowX = targetCenterX - (clampedCenterX - halfWidth);
+    const clampedArrowX = Math.max(16, Math.min(popupWidth - 16, relativeArrowX));
+
+    // Elakkan terkeluar di bahagian atas skrin (cth: video di atas subtitle)
+    const showBelow = rect.top < 130;
+    const popupY = showBelow
+      ? rect.bottom + window.scrollY + 8
+      : rect.top + window.scrollY - 8;
+
     setPopupPos({
-      x: rect.left + window.scrollX + rect.width / 2,
-      y: rect.top + window.scrollY - 10,
+      x: clampedCenterX,
+      y: popupY,
+      arrowX: clampedArrowX,
+      showBelow,
+      width: popupWidth,
     });
 
     if (translationCache[cleanWord]) {
@@ -769,44 +800,90 @@ export default function InteractivePlayerPage() {
 
       {hoveredWord && popupPos && (
         <div
-          className="absolute z-50 transform -translate-x-1/2 -translate-y-full bg-slate-950/95 border border-sky-500/30 text-white rounded-xl shadow-2xl min-w-[180px] max-w-[270px] backdrop-blur-md overflow-hidden pointer-events-auto transition-all"
+          className={`absolute z-50 transform -translate-x-1/2 ${
+            popupPos.showBelow ? "translate-y-0" : "-translate-y-full"
+          } pointer-events-auto transition-all`}
           style={{
             left: `${popupPos.x}px`,
             top: `${popupPos.y}px`,
+            width: `${popupPos.width}px`,
           }}
           onMouseLeave={handleWordLeave}
         >
-          {/* Petak Atas: Terjemahan Frasa / Vocarb Ayat */}
-          {detectedPhrase && (
-            <div className="bg-sky-950/90 border-b border-sky-500/30 px-3 py-2 text-left">
-              <div className="text-[10px] text-sky-400 font-bold uppercase tracking-wider mb-0.5 flex items-center gap-1.5">
-                <span className="w-1.5 h-1.5 rounded-full bg-sky-400 inline-block animate-pulse" />
-                <span>Frasa: {detectedPhrase.phrase}</span>
-              </div>
-              <div className="text-xs font-bold text-sky-100 leading-snug">
-                {detectedPhrase.translation}
-              </div>
-            </div>
-          )}
-
-          {/* Petak Bawah: Terjemahan Perkataan Tunggal */}
-          <div className="p-2.5 text-left bg-slate-950/95">
-            <div className="text-[10px] text-amber-400/90 font-bold uppercase tracking-wider mb-0.5">
-              {detectedPhrase ? `Perkataan: ${hoveredWord}` : `Maksud: ${hoveredWord}`}
-            </div>
-            {loadingWord ? (
-              <div className="flex justify-center py-1">
-                <Loader2 className="w-3.5 h-3.5 animate-spin text-amber-500" />
-              </div>
-            ) : (
-              <div className="text-xs font-semibold leading-relaxed text-slate-200">
-                {wordTranslation}
+          {/* Kad Utama (dengan border, background & overflow-hidden) */}
+          <div className="rounded-xl overflow-hidden border border-sky-500/40 bg-slate-950/95 shadow-2xl backdrop-blur-md text-white">
+            {/* Petak Atas: Terjemahan Frasa / Vocarb Ayat */}
+            {detectedPhrase && (
+              <div className="bg-sky-950/90 border-b border-sky-500/30 px-3 py-2 text-left flex items-start justify-between gap-2">
+                <div className="flex-1">
+                  <div className="text-[10px] text-sky-400 font-bold uppercase tracking-wider mb-0.5 flex items-center gap-1.5">
+                    <span className="w-1.5 h-1.5 rounded-full bg-sky-400 inline-block animate-pulse" />
+                    <span>Frasa: {detectedPhrase.phrase}</span>
+                  </div>
+                  <div className="text-xs font-bold text-sky-100 leading-snug">
+                    {detectedPhrase.translation}
+                  </div>
+                </div>
+                <button
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleWordLeave();
+                  }}
+                  className="text-sky-400/70 hover:text-white p-0.5 text-xs font-bold leading-none cursor-pointer"
+                  title="Tutup"
+                >
+                  ✕
+                </button>
               </div>
             )}
+
+            {/* Petak Bawah: Terjemahan Perkataan Tunggal */}
+            <div className="p-2.5 text-left bg-slate-950/95 flex items-start justify-between gap-2">
+              <div className="flex-1">
+                <div className="text-[10px] text-amber-400/90 font-bold uppercase tracking-wider mb-0.5">
+                  {detectedPhrase ? `Perkataan: ${hoveredWord}` : `Maksud: ${hoveredWord}`}
+                </div>
+                {loadingWord ? (
+                  <div className="flex justify-start py-1">
+                    <Loader2 className="w-3.5 h-3.5 animate-spin text-amber-500" />
+                  </div>
+                ) : (
+                  <div className="text-xs font-semibold leading-relaxed text-slate-200">
+                    {wordTranslation}
+                  </div>
+                )}
+              </div>
+              {!detectedPhrase && (
+                <button
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleWordLeave();
+                  }}
+                  className="text-slate-400 hover:text-white p-0.5 text-xs font-bold leading-none cursor-pointer"
+                  title="Tutup"
+                >
+                  ✕
+                </button>
+              )}
+            </div>
           </div>
 
-          {/* Panah Penunjuk Tooltip */}
-          <div className="absolute top-full left-1/2 transform -translate-x-1/2 -translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-slate-950" />
+          {/* Panah Penunjuk Tooltip (Menunjuk tepat ke perkataan yang ditekan) */}
+          {popupPos.showBelow ? (
+            <div
+              className={`absolute bottom-full transform -translate-x-1/2 translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-b-[6px] ${
+                detectedPhrase ? "border-b-sky-950" : "border-b-slate-950"
+              }`}
+              style={{ left: `${popupPos.arrowX}px` }}
+            />
+          ) : (
+            <div
+              className="absolute top-full transform -translate-x-1/2 -translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-slate-950"
+              style={{ left: `${popupPos.arrowX}px` }}
+            />
+          )}
         </div>
       )}
     </div>
