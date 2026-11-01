@@ -2,16 +2,19 @@
 **Platform:** Bijak English / Vocabulary
 **Video ID:** `030RzwpiK8U`
 **Tarikh Ditambah:** 2026-08-12
-**Fasa Terjemahan AI:** 🔴 Fasa 1 (AI Lama / Biasa - Perlu Semak)
+**Fasa Terjemahan AI:** 🟢 Fasa 1 (100% Siap Dipurnakan & Diselaraskan)
 **Kategori:** Beginner
 **Jumlah Baris Subtitle:** 421 Baris
-**Jumlah Kosa Kata Unik:** 739 Perkataan
+**Jumlah Kosa Kata Kata Tunggal:** 739 Perkataan
+**Jumlah Vocarb Ayat (Frasa & Collocations):** 66 Frasa
 **Pautan YouTube:** [Tonton di YouTube](https://www.youtube.com/watch?v=030RzwpiK8U)
 
 ---
 
-## 📚 Bahagian 1: Senarai Kosa Kata Unik Video (Master Vocabulary)
-Senarai mengikut abjad (A–Z) bagi memudahkan semakan dan penambahan ke dalam kamus tempatan (*localDictionary*):
+## 📚 Bahagian 1: Senarai Kosa Kata & Kamus Tempatan Video (Local Dictionary)
+
+### 🔤 Bahagian 1A: Kosa Kata Kata Tunggal (Single Words - 739 Perkataan)
+Senarai mengikut abjad (A–Z) bagi semakan dan pangkalan data kamus tempatan kata tunggal (*localDictionary.ts*):
 
 | No | Perkataan (English) | Kekerapan | Status Kamus | Maksud Bahasa Melayu (BM) |
 |:---:|:---|:---:|:---:|:---|
@@ -754,6 +757,80 @@ Senarai mengikut abjad (A–Z) bagi memudahkan semakan dan penambahan ke dalam k
 | 737 | `you're` | 1x | ✅ Ada | awak adalah / awak |
 | 738 | `you've` | 1x | ✅ Ada | awak telah / awak dah |
 | 739 | `your` | 23x | ✅ Ada | awak punya / anda punya |
+
+---
+
+### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 66 Frasa)
+Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam Video #1 yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*). Ciri ini membolehkan paparan dwipetak (*tooltip*) di mana apabila pengguna menekan mana-mana perkataan di dalam frasa ini, sistem akan menterjemahkan keseluruhan frasa ayat mengikut konteks perbualan:
+
+| No | Frasa / Vocarb Ayat (English) | Kekerapan | Status Kamus | Maksud Konteks Frasa (Bahasa Melayu) |
+|:---:|:---|:---:|:---:|:---|
+| 1 | `there are` | 12x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 2 | `over here` | 10x | ✅ Ada (`phraseDictionary`) | di sebelah sini |
+| 3 | `right here` | 10x | ✅ Ada (`phraseDictionary`) | di sebelah sini / betul-betul di sini |
+| 4 | `this right here` | 10x | ✅ Ada (`phraseDictionary`) | yang di sini / bahagian ini |
+| 5 | `a lot` | 9x | ✅ Ada (`phraseDictionary`) | banyak |
+| 6 | `living room` | 9x | ✅ Ada (`phraseDictionary`) | ruang tamu |
+| 7 | `a little` | 7x | ✅ Ada (`phraseDictionary`) | agak / sedikit |
+| 8 | `a lot of` | 6x | ✅ Ada (`phraseDictionary`) | banyak / pelbagai |
+| 9 | `out of` | 6x | ✅ Ada (`phraseDictionary`) | keluar dari / kehabisan |
+| 10 | `take a shower` | 6x | ✅ Ada (`phraseDictionary`) | mandi pancuran / mandi |
+| 11 | `there is` | 6x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 12 | `you know` | 6x | ✅ Ada (`phraseDictionary`) | awak tahu / seperti yang anda tahu |
+| 13 | `turn on` | 5x | ✅ Ada (`phraseDictionary`) | hidupkan / pasang (suis) |
+| 14 | `brush my teeth` | 4x | ✅ Ada (`phraseDictionary`) | gosok gigi / berus gigi |
+| 15 | `common mistakes` | 4x | ✅ Ada (`phraseDictionary`) | kesilapan lazim / biasa |
+| 16 | `good enough` | 4x | ✅ Ada (`phraseDictionary`) | cukup elok / memadai |
+| 17 | `kind of` | 4x | ✅ Ada (`phraseDictionary`) | agak / macam |
+| 18 | `there's` | 4x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 19 | `a little bit` | 3x | ✅ Ada (`phraseDictionary`) | sedikit / sikit |
+| 20 | `as well` | 3x | ✅ Ada (`phraseDictionary`) | juga / sekali |
+| 21 | `dining room` | 3x | ✅ Ada (`phraseDictionary`) | ruang makan |
+| 22 | `let me know` | 3x | ✅ Ada (`phraseDictionary`) | beritahu saya |
+| 23 | `make sure` | 3x | ✅ Ada (`phraseDictionary`) | pastikan |
+| 24 | `shoe rack` | 3x | ✅ Ada (`phraseDictionary`) | rak kasut |
+| 25 | `up to` | 3x | ✅ Ada (`phraseDictionary`) | sehingga / sampai |
+| 26 | `air conditioner` | 2x | ✅ Ada (`phraseDictionary`) | penyaman udara / pendingin hawa (aircond) |
+| 27 | `at the end` | 2x | ✅ Ada (`phraseDictionary`) | di penghujung / di akhir |
+| 28 | `at the very end` | 2x | ✅ Ada (`phraseDictionary`) | di penghujung sekali |
+| 29 | `have to` | 2x | ✅ Ada (`phraseDictionary`) | kena / perlu / terpaksa |
+| 30 | `here we have` | 2x | ✅ Ada (`phraseDictionary`) | di sini kami ada / terdapat |
+| 31 | `on top of` | 2x | ✅ Ada (`phraseDictionary`) | di atas / di bahagian atas |
+| 32 | `on top of that` | 2x | ✅ Ada (`phraseDictionary`) | selain itu / di samping itu |
+| 33 | `shadowing segment` | 2x | ✅ Ada (`phraseDictionary`) | segmen latihan sebutan (shadowing) |
+| 34 | `stick around` | 2x | ✅ Ada (`phraseDictionary`) | tonton sampai habis / tunggu sebentar |
+| 35 | `there'll be` | 2x | ✅ Ada (`phraseDictionary`) | akan ada |
+| 36 | `wake up` | 2x | ✅ Ada (`phraseDictionary`) | bangun tidur |
+| 37 | `we'll be` | 2x | ✅ Ada (`phraseDictionary`) | kami akan / kita akan |
+| 38 | `a couple of` | 1x | ✅ Ada (`phraseDictionary`) | beberapa / sepasang |
+| 39 | `brush your teeth` | 1x | ✅ Ada (`phraseDictionary`) | gosok gigi anda |
+| 40 | `clean up` | 1x | ✅ Ada (`phraseDictionary`) | kemas / bersihkan |
+| 41 | `comprehensible input` | 1x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
+| 42 | `don't have to` | 1x | ✅ Ada (`phraseDictionary`) | tidak perlu / tak payah |
+| 43 | `each and every` | 1x | ✅ Ada (`phraseDictionary`) | setiap satu / setiap bilik |
+| 44 | `how to` | 1x | ✅ Ada (`phraseDictionary`) | cara untuk / bagaimana nak |
+| 45 | `i'll be` | 1x | ✅ Ada (`phraseDictionary`) | saya akan |
+| 46 | `i'll tell you` | 1x | ✅ Ada (`phraseDictionary`) | saya akan beritahu anda |
+| 47 | `in the beginning` | 1x | ✅ Ada (`phraseDictionary`) | pada permulaan / di awal |
+| 48 | `laundry room` | 1x | ✅ Ada (`phraseDictionary`) | ruang dobi / bilik basuh baju |
+| 49 | `let's get started` | 1x | ✅ Ada (`phraseDictionary`) | jom kita mulakan |
+| 50 | `let's go` | 1x | ✅ Ada (`phraseDictionary`) | jom pergi / mari kita pergi |
+| 51 | `light switch` | 1x | ✅ Ada (`phraseDictionary`) | suis lampu |
+| 52 | `pick up` | 1x | ✅ Ada (`phraseDictionary`) | ambil / angkat |
+| 53 | `shadowing segments` | 1x | ✅ Ada (`phraseDictionary`) | segmen-segmen latihan sebutan |
+| 54 | `sit down` | 1x | ✅ Ada (`phraseDictionary`) | duduk |
+| 55 | `slow english` | 1x | ✅ Ada (`phraseDictionary`) | bahasa Inggeris santai / perlahan |
+| 56 | `take a bath` | 1x | ✅ Ada (`phraseDictionary`) | mandi tab |
+| 57 | `take a look` | 1x | ✅ Ada (`phraseDictionary`) | tengok / lihat sebentar |
+| 58 | `talk about` | 1x | ✅ Ada (`phraseDictionary`) | bercakap tentang / bercerita pasal |
+| 59 | `there will be` | 1x | ✅ Ada (`phraseDictionary`) | akan ada |
+| 60 | `turn off` | 1x | ✅ Ada (`phraseDictionary`) | padamkan / matikan (suis) |
+| 61 | `used to` | 1x | ✅ Ada (`phraseDictionary`) | pernah / dahulu |
+| 62 | `waking up` | 1x | ✅ Ada (`phraseDictionary`) | sedang bangun tidur |
+| 63 | `wash my hands` | 1x | ✅ Ada (`phraseDictionary`) | basuh tangan saya |
+| 64 | `welcome back` | 1x | ✅ Ada (`phraseDictionary`) | selamat kembali / selamat pulang |
+| 65 | `without further ado` | 1x | ✅ Ada (`phraseDictionary`) | tanpa berlengah lagi / tanpa buang masa |
+| 66 | `you'll be` | 1x | ✅ Ada (`phraseDictionary`) | anda akan |
 
 ---
 

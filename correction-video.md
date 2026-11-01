@@ -26,7 +26,7 @@ Berdasarkan semakan rekod sejarah Git (*commit history*), kesemua 107 video diba
 
 | # | Video ID | Tajuk Video | Tarikh Ditambah | Fasa Model AI | Jumlah Subtitle | Fail Terperinci (.md) |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | `030RzwpiK8U` | How to Talk About Your Home in English | 2026-08-12 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 421 | [Buka Subtitle & Kosa Kata](correction-videos/video_001_030RzwpiK8U.md) |
+| 1 | `030RzwpiK8U` | How to Talk About Your Home in English | 2026-08-12 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 421 | [Buka Subtitle & Kosa Kata (739 Kata + 66 Frasa Ayat)](correction-videos/video_001_030RzwpiK8U.md) |
 | 2 | `mNzj1eABGB0` | Daily Life English You Can Actually Understand | 2026-08-12 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 440 | [Buka Subtitle & Kosa Kata](correction-videos/video_002_mNzj1eABGB0.md) |
 | 3 | `qNsq7k8qJPQ` | I'm Not Fine... Let's Talk About Feelings in English | 2026-08-15 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 324 | [Buka Subtitle & Kosa Kata](correction-videos/video_003_qNsq7k8qJPQ.md) |
 | 3 | `FegqTguAP4k` | Easy English in Beijing \| Real-Life Listening Practice | 2026-08-23 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 499 | [Buka Subtitle & Kosa Kata](correction-videos/video_003_FegqTguAP4k.md) |
@@ -136,7 +136,13 @@ Berdasarkan semakan rekod sejarah Git (*commit history*), kesemua 107 video diba
 
 ---
 
-## 💡 Cara Menggunakan Fail Ini Untuk Pembetulan Terjemahan
+## 💡 Panduan Struktur Semakan & Pangkalan Kamus Tempatan (Local Dictionary)
 1. **Buka Fail Mengikut Video:** Klik pautan pada lajur *Fail Terperinci (.md)* bagi video yang ingin disemak.
-2. **Semak Ayat:** Bandingkan ayat English dan terjemahan BM dalam Bahagian 2.
-3. **Semak & Isi Kosa Kata:** Gunakan Bahagian 1 untuk mengisi maksud bagi perkataan yang masih kosong `[ ]`. Apabila senarai maksud ini siap diisi, kita boleh terus menyuntiknya ke dalam kamus sistem (`localDictionary`) supaya pengguna tidak lagi mengalami isu maksud kosong atau ralat daripada Google Translate!
+2. **Bahagian 1A - Kosa Kata Kata Tunggal (Single Words):**
+   * Disimpan ke dalam [`frontend/src/lib/localDictionary.ts`](frontend/src/lib/localDictionary.ts).
+   * Berfungsi menterjemahkan setiap perkataan individu secara pantas, tepat, dan tanpa ralat singkatan (cth: `we'll`, `i'm`, `don't`).
+3. **Bahagian 1B - "Vocarb Ayat" / Frasa & Collocations:**
+   * Disimpan ke dalam [`frontend/src/lib/phraseDictionary.ts`](frontend/src/lib/phraseDictionary.ts).
+   * Berfungsi mengesan simpulan bahasa, *phrasal verbs*, dan gabungan perkataan lazim (seperti *there she is*, *come with us*, *living room*, *take a shower*) bagi memaparkan maksud frasa perbualan di petak atas kad tooltip interaktif.
+4. **Bahagian 2 - Semakan Subtitle & Word by Word:**
+   * Memaparkan semakan perenggan ayat penuh berserta pecahan maksud perkataan demi perkataan mengikut garis masa video (*timestamp*).
