@@ -5,10 +5,11 @@
 **Fasa Terjemahan AI:** 🟢 Fasa 3 (Gemini 3.8 Flash High)
 **Kategori:** Listening
 **Jumlah Baris Subtitle:** 172 Baris
-**Jumlah Kosa Kata Unik:** 645 Perkataan
+**Jumlah Kosa Kata Unik:** 556 Perkataan
 **Pautan YouTube:** [Tonton di YouTube](https://www.youtube.com/watch?v=KaU7T1wOHdc)
 
 ---
+
 
 ## 📚 Bahagian 1: Senarai Kosa Kata & Kamus Tempatan Video (Local Dictionary)
 
@@ -17,921 +18,867 @@ Senarai mengikut abjad (A–Z) bagi memudahkan semakan dan penambahan ke dalam k
 
 | No | Perkataan (English) | Kekerapan | Status Kamus | Maksud Bahasa Melayu (BM) |
 |:---:|:---|:---:|:---:|:---|
-| 1 | `a` | 7x | ✅ Ada | sebuah / seorang / satu |
-| 2 | `abad` | 1x | ✅ Ada | abad |
-| 3 | `abang` | 2x | ✅ Ada | abang |
-| 4 | `acuan` | 1x | ✅ Ada | acuan |
-| 5 | `ada` | 29x | ✅ Ada | ada |
-| 6 | `adalah` | 3x | ✅ Ada | adalah |
-| 7 | `adunan` | 3x | ✅ Ada | adunan |
-| 8 | `agak` | 3x | ✅ Ada | agak |
-| 9 | `air` | 1x | ✅ Ada | udara / menganginkan |
-| 10 | `aising` | 1x | ✅ Ada | aising |
-| 11 | `ajar` | 1x | ✅ Ada | ajar |
-| 12 | `akan` | 18x | ✅ Ada | akan |
-| 13 | `alam` | 5x | ✅ Ada | alam |
-| 14 | `ambil` | 5x | ✅ Ada | ambil |
-| 15 | `amerika` | 1x | ✅ Ada | amerika |
-| 16 | `ampaian` | 3x | ✅ Ada | ampaian |
-| 17 | `an` | 2x | ✅ Ada | sebuah / seorang / satu |
-| 18 | `anak` | 4x | ✅ Ada | anak |
-| 19 | `anda` | 41x | ✅ Ada | anda |
-| 20 | `anjing` | 5x | ✅ Ada | anjing |
-| 21 | `antara` | 1x | ✅ Ada | antara |
-| 22 | `apa` | 25x | ✅ Ada | apa |
-| 23 | `apakah` | 10x | ✅ Ada | adakah |
-| 24 | `api` | 1x | ✅ Ada | api |
-| 25 | `asal` | 1x | ✅ Ada | asal |
-| 26 | `atas` | 8x | ✅ Ada | atas |
-| 27 | `atasnya` | 2x | ✅ Ada | atasnya |
-| 28 | `atau` | 11x | ✅ Ada | atau |
-| 29 | `awak` | 15x | ✅ Ada | awak |
-| 30 | `ayam` | 1x | ✅ Ada | ayam |
-| 31 | `bagaikan` | 1x | ✅ Ada | bagaikan |
-| 32 | `bagaimana` | 2x | ✅ Ada | bagaimana |
-| 33 | `bahagian` | 7x | ✅ Ada | bahagian |
-| 34 | `bahan` | 8x | ✅ Ada | bahan |
-| 35 | `bahannya` | 1x | ✅ Ada | bahannya |
-| 36 | `bahasa` | 2x | ✅ Ada | bahasa |
-| 37 | `baiklah` | 10x | ✅ Ada | baiklah |
-| 38 | `baju` | 4x | ✅ Ada | baju |
-| 39 | `bakar` | 2x | ✅ Ada | bakar |
-| 40 | `baki` | 1x | ✅ Ada | baki |
-| 41 | `bakul` | 1x | ✅ Ada | bakul |
-| 42 | `bancuh` | 1x | ✅ Ada | bancuh |
-| 43 | `bancuhan` | 1x | ✅ Ada | bancuhan |
-| 44 | `banyak` | 2x | ✅ Ada | banyak |
-| 45 | `banyaknya` | 1x | ✅ Ada | banyaknya |
-| 46 | `barang` | 1x | ✅ Ada | barang |
-| 47 | `barbeku` | 7x | ✅ Ada | barbeku |
-| 48 | `baru` | 5x | ✅ Ada | baru |
-| 49 | `basah` | 1x | ✅ Ada | basah |
-| 50 | `basuh` | 2x | ✅ Ada | basuh |
-| 51 | `bawa` | 1x | ✅ Ada | bawa |
-| 52 | `bawakan` | 1x | ✅ Ada | bawakan |
-| 53 | `bawang` | 2x | ✅ Ada | bawang |
-| 54 | `beaten` | 4x | ✅ Ada | dipukul |
-| 55 | `beberapa` | 2x | ✅ Ada | beberapa |
-| 56 | `begini` | 2x | ✅ Ada | begini |
-| 57 | `bekas` | 2x | ✅ Ada | bekas |
-| 58 | `bekerja` | 1x | ✅ Ada | bekerja |
-| 59 | `belajar` | 1x | ✅ Ada | belajar |
-| 60 | `beli` | 1x | ✅ Ada | beli |
-| 61 | `benar` | 2x | ✅ Ada | benar |
-| 62 | `benda` | 7x | ✅ Ada | benda |
-| 63 | `bentuk` | 1x | ✅ Ada | bentuk |
-| 64 | `berambus` | 1x | ✅ Ada | berambus |
-| 65 | `berapa` | 1x | ✅ Ada | berapa |
-| 66 | `berbanding` | 2x | ✅ Ada | berbanding |
-| 67 | `berbaring` | 1x | ✅ Ada | berbaring |
-| 68 | `berbeza` | 4x | ✅ Ada | berbeza |
-| 69 | `berbual` | 1x | ✅ Ada | berbual |
-| 70 | `berdebar` | 1x | ✅ Ada | berdebar |
-| 71 | `berdiri` | 1x | ✅ Ada | berdiri |
-| 72 | `berduri` | 1x | ✅ Ada | berduri |
-| 73 | `bergurau` | 1x | ✅ Ada | bergurau |
-| 74 | `beri` | 1x | ✅ Ada | beri |
-| 75 | `berikan` | 3x | ✅ Ada | berikan |
-| 76 | `berisi` | 1x | ✅ Ada | berisi |
-| 77 | `beritahu` | 2x | ✅ Ada | beritahu |
-| 78 | `berjalan` | 4x | ✅ Ada | berjalan |
-| 79 | `berkaitan` | 1x | ✅ Ada | berkaitan |
-| 80 | `berlaku` | 1x | ✅ Ada | berlaku |
-| 81 | `bermaksud` | 4x | ✅ Ada | bermaksud |
-| 82 | `bersama` | 4x | ✅ Ada | bersama |
-| 83 | `bersih` | 1x | ✅ Ada | bersih |
-| 84 | `berwarna` | 1x | ✅ Ada | berwarna |
-| 85 | `betul` | 5x | ✅ Ada | betul |
-| 86 | `biarkan` | 1x | ✅ Ada | biarkan |
-| 87 | `biasa` | 1x | ✅ Ada | biasa |
-| 88 | `biji` | 4x | ✅ Ada | biji |
-| 89 | `bila` | 8x | ✅ Ada | bila |
-| 90 | `bilik` | 2x | ✅ Ada | bilik |
-| 91 | `boleh` | 22x | ✅ Ada | boleh |
-| 92 | `buah` | 1x | ✅ Ada | buah |
-| 93 | `buahnya` | 1x | ✅ Ada | buahnya |
-| 94 | `buat` | 19x | ✅ Ada | buat |
-| 95 | `buatnya` | 1x | ✅ Ada | buatnya |
-| 96 | `buka` | 1x | ✅ Ada | buka |
-| 97 | `bukan` | 3x | ✅ Ada | bukan |
-| 98 | `burger` | 6x | ✅ Ada | burger |
-| 99 | `but` | 3x | ✅ Ada | tetapi / tapi |
-| 100 | `cair` | 1x | ✅ Ada | cair |
-| 101 | `cakap` | 1x | ✅ Ada | cakap |
-| 102 | `campuran` | 1x | ✅ Ada | campuran |
-| 103 | `campurkan` | 5x | ✅ Ada | campurkan |
-| 104 | `cantik` | 3x | ✅ Ada | cantik |
-| 105 | `cantiknya` | 1x | ✅ Ada | cantiknya |
-| 106 | `cara` | 4x | ✅ Ada | cara |
-| 107 | `caranya` | 1x | ✅ Ada | caranya |
-| 108 | `cari` | 1x | ✅ Ada | cari |
-| 109 | `cawan` | 9x | ✅ Ada | cawan |
-| 110 | `cecair` | 2x | ✅ Ada | cecair |
-| 111 | `celup` | 1x | ✅ Ada | celup |
-| 112 | `cerah` | 1x | ✅ Ada | cerah |
-| 113 | `chatgpt` | 3x | ✅ Ada | chatgpt |
-| 114 | `clothes` | 1x | ✅ Ada | pakaian / baju |
-| 115 | `clothesline` | 1x | ✅ Ada | tali jemuran |
-| 116 | `clothespins` | 1x | ✅ Ada | penyepit baju |
-| 117 | `comel` | 1x | ✅ Ada | unta |
-| 118 | `comprehensible` | 2x | ✅ Ada | mudah difahami |
-| 119 | `condiments` | 2x | ✅ Ada | bahan perasa |
-| 120 | `contohnya` | 1x | ✅ Ada | contohnya |
-| 121 | `course` | 1x | ✅ Ada | tentu sekali / kursus |
-| 122 | `crack` | 1x | ✅ Ada | retak |
-| 123 | `cream` | 1x | ✅ Ada | krim |
-| 124 | `cuaca` | 1x | ✅ Ada | cuaca |
-| 125 | `cucuk` | 1x | ✅ Ada | cucuk |
-| 126 | `cuma` | 7x | ✅ Ada | cuma |
-| 127 | `cylinder` | 1x | ✅ Ada | silinder |
-| 128 | `daging` | 1x | ✅ Ada | daging |
-| 129 | `dah` | 8x | ✅ Ada | dah |
-| 130 | `dahulu` | 1x | ✅ Ada | dahulu |
-| 131 | `dalam` | 19x | ✅ Ada | dalam |
-| 132 | `dalamnya` | 2x | ✅ Ada | dalam |
-| 133 | `dan` | 48x | ✅ Ada | dan |
-| 134 | `dapat` | 3x | ✅ Ada | dapat |
-| 135 | `dapatkan` | 2x | ✅ Ada | dapatkan |
-| 136 | `dapur` | 3x | ✅ Ada | dapur |
-| 137 | `dari` | 4x | ✅ Ada | dari |
-| 138 | `daripada` | 1x | ✅ Ada | daripada |
-| 139 | `datang` | 2x | ✅ Ada | datang |
-| 140 | `daun` | 2x | ✅ Ada | daun |
-| 141 | `debar` | 1x | ✅ Ada | debar |
-| 142 | `deep` | 1x | ✅ Ada | dalam |
-| 143 | `denai` | 1x | ✅ Ada | denai |
-| 144 | `dengan` | 9x | ✅ Ada | dengan |
-| 145 | `di` | 39x | ✅ Ada | di |
-| 146 | `dia` | 16x | ✅ Ada | dia |
-| 147 | `dibakar` | 2x | ✅ Ada | dibakar |
-| 148 | `didihkannya` | 1x | ✅ Ada | didihkannya |
-| 149 | `digoreng` | 1x | ✅ Ada | digoreng |
-| 150 | `digunakan` | 1x | ✅ Ada | digunakan |
-| 151 | `dikelilingi` | 1x | ✅ Ada | dikelilingi |
-| 152 | `dikenali` | 1x | ✅ Ada | dikenali |
-| 153 | `dilalui` | 1x | ✅ Ada | dilalui |
-| 154 | `dimakan` | 1x | ✅ Ada | dimakan |
-| 155 | `dinamakan` | 1x | ✅ Ada | dinamakan |
-| 156 | `dipanggil` | 4x | ✅ Ada | dipanggil |
-| 157 | `dipasang` | 1x | ✅ Ada | dipasang |
-| 158 | `dipecahkan` | 1x | ✅ Ada | dipecahkan |
-| 159 | `disapu` | 1x | ✅ Ada | disapu |
-| 160 | `disejukkan` | 1x | ✅ Ada | disejukkan |
-| 161 | `ditetapkan` | 1x | ✅ Ada | ditetapkan |
-| 162 | `ditinggalkan` | 1x | ✅ Ada | ditinggalkan |
-| 163 | `dituang` | 1x | ✅ Ada | dituang |
-| 164 | `dobi` | 1x | ✅ Ada | dobi |
-| 165 | `dua` | 1x | ✅ Ada | dua |
-| 166 | `dulu` | 3x | ✅ Ada | dulu |
-| 167 | `duri` | 5x | ✅ Ada | duri |
-| 168 | `egg` | 1x | ✅ Ada | telur |
-| 169 | `elok` | 1x | ✅ Ada | elok |
-| 170 | `empat` | 3x | ✅ Ada | empat |
-| 171 | `fikiran` | 1x | ✅ Ada | fikiran |
-| 172 | `fry` | 1x | ✅ Ada | goreng |
-| 173 | `galah` | 1x | ✅ Ada | galah |
-| 174 | `gambar` | 1x | ✅ Ada | gambar |
-| 175 | `garing` | 2x | ✅ Ada | garing |
-| 176 | `garisan` | 2x | ✅ Ada | garisan |
-| 177 | `gas` | 2x | ✅ Ada | gas |
-| 178 | `gaul` | 1x | ✅ Ada | gaul |
-| 179 | `gebu` | 1x | ✅ Ada | gebu |
-| 180 | `gelap` | 1x | ✅ Ada | gelap |
-| 181 | `getah` | 1x | ✅ Ada | getah |
-| 182 | `gila` | 1x | ✅ Ada | gila |
-| 183 | `google` | 1x | ✅ Ada | google |
-| 184 | `goreng` | 6x | ✅ Ada | goreng |
-| 185 | `gula` | 7x | ✅ Ada | gula |
-| 186 | `guna` | 1x | ✅ Ada | guna |
-| 187 | `gunung` | 1x | ✅ Ada | gunung |
-| 188 | `gus` | 1x | ✅ Ada | gus |
-| 189 | `hampir` | 2x | ✅ Ada | hampir |
-| 190 | `harfiah` | 1x | ✅ Ada | . |
-| 191 | `hari` | 3x | ✅ Ada | hari |
-| 192 | `hasilnya` | 1x | ✅ Ada | hasilnya |
-| 193 | `hei` | 1x | ✅ Ada | hei |
-| 194 | `hiasan` | 1x | ✅ Ada | hiasan |
-| 195 | `hidangan` | 3x | ✅ Ada | hidangan |
-| 196 | `hidupan` | 1x | ✅ Ada | hidupan |
-| 197 | `hidupkan` | 1x | ✅ Ada | hidupkan |
-| 198 | `hijau` | 1x | ✅ Ada | hijau |
-| 199 | `hike` | 4x | ✅ Ada | mendaki |
-| 200 | `hingga` | 1x | ✅ Ada | hingga |
-| 201 | `hitam` | 5x | ✅ Ada | hitam |
-| 202 | `homemade` | 1x | ✅ Ada | buatan sendiri |
-| 203 | `hujung` | 1x | ✅ Ada | hujung |
-| 204 | `ia` | 16x | ✅ Ada | ia |
-| 205 | `iaitu` | 4x | ✅ Ada | iaitu |
-| 206 | `ialah` | 11x | ✅ Ada | ialah |
-| 207 | `ikut` | 1x | ✅ Ada | ikut |
-| 208 | `ikuti` | 1x | ✅ Ada | ikuti |
-| 209 | `indah` | 2x | ✅ Ada | indah |
-| 210 | `ingat` | 2x | ✅ Ada | ingat |
-| 211 | `inggeris` | 2x | ✅ Ada | inggeris |
-| 212 | `ini` | 76x | ✅ Ada | ini |
-| 213 | `inilah` | 1x | ✅ Ada | inilah |
-| 214 | `input` | 2x | ✅ Ada | input / masukan |
-| 215 | `instagram` | 1x | ✅ Ada | instagram |
-| 216 | `intoleransi` | 1x | ✅ Ada | intoleransi |
-| 217 | `itu` | 15x | ✅ Ada | itu |
-| 218 | `itulah` | 3x | ✅ Ada | itulah |
-| 219 | `jadi` | 16x | ✅ Ada | jadi |
-| 220 | `jalan` | 3x | ✅ Ada | jalan |
-| 221 | `jatuh` | 2x | ✅ Ada | jatuh |
-| 222 | `jauh` | 3x | ✅ Ada | jauh |
-| 223 | `jejak` | 1x | ✅ Ada | jejak |
-| 224 | `jejari` | 2x | ✅ Ada | jejari |
-| 225 | `jelas` | 2x | ✅ Ada | jelas |
-| 226 | `jemur` | 1x | ✅ Ada | jemur |
-| 227 | `jenis` | 3x | ✅ Ada | jenis |
-| 228 | `jepun` | 1x | ✅ Ada | jepun |
-| 229 | `jika` | 7x | ✅ Ada | jika |
-| 230 | `jiran` | 1x | ✅ Ada | jiran |
-| 231 | `jolok` | 1x | ✅ Ada | jolok |
-| 232 | `jom` | 8x | ✅ Ada | jom |
-| 233 | `juga` | 5x | ✅ Ada | juga |
-| 234 | `jus` | 1x | ✅ Ada | jus |
-| 235 | `kaca` | 4x | ✅ Ada | kaca |
-| 236 | `kacang` | 1x | ✅ Ada | kacang |
-| 237 | `kacau` | 1x | ✅ Ada | kacau |
-| 238 | `kaedah` | 1x | ✅ Ada | kaedah |
-| 239 | `kaki` | 1x | ✅ Ada | kaki |
-| 240 | `kalau` | 1x | ✅ Ada | kalau |
-| 241 | `kali` | 1x | ✅ Ada | kali |
-| 242 | `kami` | 9x | ✅ Ada | kami |
-| 243 | `kamu` | 1x | ✅ Ada | kamu |
-| 244 | `kanada` | 1x | ✅ Ada | kanada |
-| 245 | `kapal` | 2x | ✅ Ada | kapal |
-| 246 | `kasar` | 1x | ✅ Ada | kasar |
-| 247 | `kata` | 2x | ✅ Ada | kata |
-| 248 | `katakan` | 1x | ✅ Ada | katakan |
-| 249 | `kawan` | 13x | ✅ Ada | kawan |
-| 250 | `kawasan` | 1x | ✅ Ada | kawasan |
-| 251 | `kayu` | 1x | ✅ Ada | kayu |
-| 252 | `ke` | 24x | ✅ Ada | ke |
-| 253 | `kebiasaan` | 1x | ✅ Ada | kebiasaan |
-| 254 | `kecil` | 3x | ✅ Ada | kecil |
-| 255 | `kedua` | 1x | ✅ Ada | kedua |
-| 256 | `keemasan` | 2x | ✅ Ada | keemasan |
-| 257 | `kegemaran` | 3x | ✅ Ada | kegemaran |
-| 258 | `kehidupan` | 1x | ✅ Ada | kehidupan |
-| 259 | `keindahan` | 1x | ✅ Ada | keindahan |
-| 260 | `kejadian` | 1x | ✅ Ada | kejadian |
-| 261 | `keju` | 2x | ✅ Ada | keju |
-| 262 | `kek` | 12x | ✅ Ada | kek |
-| 263 | `kelabu` | 1x | ✅ Ada | kelabu |
-| 264 | `keluarkan` | 2x | ✅ Ada | keluarkan |
-| 265 | `kembali` | 2x | ✅ Ada | kembali |
-| 266 | `kemudian` | 7x | ✅ Ada | kemudian |
-| 267 | `kena` | 1x | ✅ Ada | kena |
-| 268 | `kenapa` | 1x | ✅ Ada | kenapa |
-| 269 | `kentang` | 8x | ✅ Ada | kentang |
-| 270 | `kepada` | 1x | ✅ Ada | kepada |
-| 271 | `kepekatannya` | 1x | ✅ Ada | kepekatannya |
-| 272 | `kepingan` | 1x | ✅ Ada | keping |
-| 273 | `kerangupan` | 1x | ✅ Ada | kerangupan |
-| 274 | `kerap` | 1x | ✅ Ada | kerap |
-| 275 | `kesan` | 1x | ✅ Ada | kesan |
-| 276 | `kesemuanya` | 4x | ✅ Ada | kesemuanya |
-| 277 | `ketiga` | 1x | ✅ Ada | ketiga |
-| 278 | `ketuhar` | 2x | ✅ Ada | oren |
-| 279 | `khabar` | 2x | ✅ Ada | khabar |
-| 280 | `khas` | 1x | ✅ Ada | khas |
-| 281 | `kira` | 6x | ✅ Ada | kira |
-| 282 | `kita` | 43x | ✅ Ada | kita |
-| 283 | `komen` | 3x | ✅ Ada | komen |
-| 284 | `kongsikannya` | 1x | ✅ Ada | kongsikannya |
-| 285 | `kosong` | 1x | ✅ Ada | kosong |
-| 286 | `krim` | 3x | ✅ Ada | krim |
-| 287 | `kuiz` | 2x | ✅ Ada | kuiz |
-| 288 | `kurang` | 2x | ✅ Ada | kurang |
-| 289 | `lagi` | 4x | ✅ Ada | lagi |
-| 290 | `lain` | 2x | ✅ Ada | lain |
-| 291 | `laktosa` | 1x | ✅ Ada | laktosa |
-| 292 | `laluan` | 4x | ✅ Ada | laluan |
-| 293 | `lama` | 1x | ✅ Ada | lama |
-| 294 | `langit` | 1x | ✅ Ada | langit |
-| 295 | `langkah` | 2x | ✅ Ada | langkah |
-| 296 | `langsung` | 1x | ✅ Ada | langsung |
-| 297 | `lazat` | 1x | ✅ Ada | lazat |
-| 298 | `lazim` | 1x | ✅ Ada | lazim |
-| 299 | `lebih` | 5x | ✅ Ada | lebih |
-| 300 | `lebihan` | 1x | ✅ Ada | lebihan |
-| 301 | `leches` | 7x | ✅ Ada | lintah |
-| 302 | `lembu` | 4x | ✅ Ada | lembu |
-| 303 | `lemon` | 8x | ✅ Ada | limau |
-| 304 | `lemonnya` | 1x | ✅ Ada | lemonnya |
-| 305 | `leon` | 1x | ✅ Ada | leon |
-| 306 | `lepas` | 3x | ✅ Ada | lepas |
-| 307 | `liar` | 1x | ✅ Ada | penipu |
-| 308 | `lightly` | 1x | ✅ Ada | dengan ringan |
-| 309 | `lihat` | 10x | ✅ Ada | lihat |
-| 310 | `lihatlah` | 1x | ✅ Ada | lihatlah |
-| 311 | `luar` | 4x | ✅ Ada | luar |
-| 312 | `lubang` | 3x | ✅ Ada | lubang |
-| 313 | `lukisan` | 2x | ✅ Ada | lukisan |
-| 314 | `lurus` | 1x | ✅ Ada | lurus |
-| 315 | `macam` | 6x | ✅ Ada | macam |
-| 316 | `mahu` | 3x | ✅ Ada | mahu |
-| 317 | `mahukan` | 1x | ✅ Ada | mahukan |
-| 318 | `main` | 3x | ✅ Ada | utama |
-| 319 | `makan` | 5x | ✅ Ada | makan |
-| 320 | `makanan` | 1x | ✅ Ada | makanan |
-| 321 | `maklumkan` | 1x | ✅ Ada | maklumkan |
-| 322 | `maksud` | 3x | ✅ Ada | maksud |
-| 323 | `maksudnya` | 1x | ✅ Ada | maksudnya |
-| 324 | `mangkuk` | 2x | ✅ Ada | mangkuk |
-| 325 | `manis` | 3x | ✅ Ada | manis |
-| 326 | `mantap` | 1x | ✅ Ada | mantap |
-| 327 | `mari` | 7x | ✅ Ada | mari |
-| 328 | `masa` | 3x | ✅ Ada | masa |
-| 329 | `masak` | 6x | ✅ Ada | masak |
-| 330 | `masakan` | 2x | ✅ Ada | masakan |
-| 331 | `masalah` | 1x | ✅ Ada | masalah |
-| 332 | `masih` | 1x | ✅ Ada | masih |
-| 333 | `masuk` | 3x | ✅ Ada | masuk |
-| 334 | `masukkan` | 8x | ✅ Ada | masukkan |
-| 335 | `masukkannya` | 1x | ✅ Ada | masukkannya |
-| 336 | `mati` | 1x | ✅ Ada | mati |
-| 337 | `mayonis` | 1x | ✅ Ada | mayonis |
-| 338 | `melakukan` | 1x | ✅ Ada | melakukan |
-| 339 | `melalui` | 1x | ✅ Ada | melalui |
-| 340 | `melintas` | 1x | ✅ Ada | melintas |
-| 341 | `melintasi` | 1x | ✅ Ada | melintasi |
-| 342 | `memanaskannya` | 1x | ✅ Ada | memanaskannya |
-| 343 | `memandangkan` | 2x | ✅ Ada | memandangkan |
-| 344 | `memang` | 6x | ✅ Ada | memang |
-| 345 | `memanjat` | 1x | ✅ Ada | memanjat |
-| 346 | `memasak` | 4x | ✅ Ada | memasak |
-| 347 | `membakar` | 1x | ✅ Ada | membakar |
-| 348 | `membukanya` | 1x | ✅ Ada | membukanya |
-| 349 | `memuaskan` | 1x | ✅ Ada | memuaskan |
-| 350 | `memutarnya` | 1x | ✅ Ada | memutarnya |
-| 351 | `mendaki` | 3x | ✅ Ada | mendaki |
-| 352 | `mendidih` | 1x | ✅ Ada | mendidih |
-| 353 | `mengajar` | 1x | ✅ Ada | mengajar |
-| 354 | `mengambil` | 3x | ✅ Ada | mengambil |
-| 355 | `menghargai` | 1x | ✅ Ada | menghargai |
-| 356 | `menghayati` | 1x | ✅ Ada | menghayati |
-| 357 | `mengikis` | 2x | ✅ Ada | mengikis |
-| 358 | `mengikut` | 1x | ✅ Ada | mengikut |
-| 359 | `menjengkelkan` | 1x | ✅ Ada | menjengkelkan |
-| 360 | `menonton` | 1x | ✅ Ada | menonton |
-| 361 | `menuju` | 1x | ✅ Ada | menuju |
-| 362 | `menyerap` | 1x | ✅ Ada | menyerap |
-| 363 | `menyeronokkan` | 1x | ✅ Ada | menyeronokkan |
-| 364 | `menyindir` | 1x | ✅ Ada | menyindir |
-| 365 | `mereka` | 4x | ✅ Ada | mereka |
-| 366 | `minggu` | 2x | ✅ Ada | minggu |
-| 367 | `mini` | 1x | ✅ Ada | mini |
-| 368 | `minit` | 4x | ✅ Ada | minit |
-| 369 | `minta` | 1x | ✅ Ada | minta |
-| 370 | `minyak` | 2x | ✅ Ada | minyak |
-| 371 | `ml` | 1x | ✅ Ada | ml |
-| 372 | `mountain` | 1x | ✅ Ada | gunung |
-| 373 | `mozzarella` | 1x | ✅ Ada | mozarella |
-| 374 | `mudah` | 2x | ✅ Ada | mudah |
-| 375 | `mula` | 1x | ✅ Ada | mula |
-| 376 | `mulakan` | 3x | ✅ Ada | mulakan |
-| 377 | `mulut` | 3x | ✅ Ada | mulut |
-| 378 | `munasabah` | 1x | ✅ Ada | munasabah |
-| 379 | `mungkin` | 2x | ✅ Ada | mungkin |
-| 380 | `musim` | 1x | ✅ Ada | musim |
-| 381 | `mustard` | 2x | ✅ Ada | mustard |
-| 382 | `nak` | 4x | ✅ Ada | nak |
-| 383 | `namanya` | 1x | ✅ Ada | namanya |
-| 384 | `nampak` | 6x | ✅ Ada | nampak |
-| 385 | `namun` | 1x | ✅ Ada | namun |
-| 386 | `nanti` | 1x | ✅ Ada | nanti |
-| 387 | `negara` | 1x | ✅ Ada | negara |
-| 388 | `ni` | 2x | ✅ Ada | ni |
-| 389 | `nyah` | 1x | ✅ Ada | nyah |
-| 390 | `off` | 4x | ✅ Ada | padam / mati / lepas |
-| 391 | `oh` | 1x | ✅ Ada | oh |
-| 392 | `olah` | 1x | ✅ Ada | olah |
-| 393 | `oleh` | 1x | ✅ Ada | oleh |
-| 394 | `orang` | 1x | ✅ Ada | orang |
-| 395 | `oven` | 1x | ✅ Ada | ketuhar |
-| 396 | `pada` | 8x | ✅ Ada | pada |
-| 397 | `padahal` | 1x | ✅ Ada | padahal |
-| 398 | `padanya` | 1x | ✅ Ada | padanya |
-| 399 | `padu` | 1x | ✅ Ada | padu |
-| 400 | `pagar` | 2x | ✅ Ada | pagar |
-| 401 | `pagi` | 1x | ✅ Ada | pagi |
-| 402 | `pakai` | 3x | ✅ Ada | pakai |
-| 403 | `pakaian` | 5x | ✅ Ada | pakaian |
-| 404 | `paling` | 1x | ✅ Ada | paling |
-| 405 | `panas` | 4x | ✅ Ada | panas |
-| 406 | `panaskan` | 1x | ✅ Ada | panaskan |
-| 407 | `pandangan` | 1x | ✅ Ada | pandangan |
-| 408 | `panggangan` | 1x | ✅ Ada | panggangan |
-| 409 | `panggil` | 1x | ✅ Ada | panggil |
-| 410 | `panggilan` | 1x | ✅ Ada | panggilan |
-| 411 | `panjang` | 1x | ✅ Ada | panjang |
-| 412 | `panjat` | 1x | ✅ Ada | panjat |
-| 413 | `pasangkannya` | 1x | ✅ Ada | pasangkannya |
-| 414 | `pasti` | 1x | ✅ Ada | pasti |
-| 415 | `pastikan` | 4x | ✅ Ada | pastikan |
-| 416 | `path` | 4x | ✅ Ada | laluan |
-| 417 | `patut` | 1x | ✅ Ada | patut |
-| 418 | `pecahkan` | 2x | ✅ Ada | pecahkan |
-| 419 | `pekat` | 5x | ✅ Ada | pekat |
-| 420 | `pelajari` | 1x | ✅ Ada | pelajari |
-| 421 | `pelbagai` | 2x | ✅ Ada | pelbagai |
-| 422 | `peliharaan` | 1x | ✅ Ada | peliharaan |
-| 423 | `pemandangan` | 2x | ✅ Ada | pemandangan |
-| 424 | `pemanggang` | 1x | ✅ Ada | pemanggang |
-| 425 | `pemasa` | 2x | ✅ Ada | pemasa |
-| 426 | `pemutar` | 2x | ✅ Ada | pemutar |
-| 427 | `penambah` | 1x | ✅ Ada | penambah |
-| 428 | `pencuci` | 3x | ✅ Ada | pencuci |
-| 429 | `pendek` | 1x | ✅ Ada | pendek |
-| 430 | `penuh` | 2x | ✅ Ada | penuh |
-| 431 | `penyapu` | 2x | ✅ Ada | penyapu |
-| 432 | `penyepit` | 1x | ✅ Ada | penyepit |
-| 433 | `penyukat` | 3x | ✅ Ada | penyukat |
-| 434 | `perah` | 1x | ✅ Ada | perah |
-| 435 | `perak` | 1x | ✅ Ada | perak |
-| 436 | `perasa` | 2x | ✅ Ada | perasa |
-| 437 | `perasaan` | 1x | ✅ Ada | perasaan |
-| 438 | `perasan` | 1x | ✅ Ada | perasan |
-| 439 | `perfect` | 2x | ✅ Ada | sempurna |
-| 440 | `pergi` | 7x | ✅ Ada | pergi |
-| 441 | `pergunungan` | 1x | ✅ Ada | pergunungan |
-| 442 | `peribadi` | 1x | ✅ Ada | peribadi |
-| 443 | `periksa` | 1x | ✅ Ada | periksa |
-| 444 | `periuk` | 1x | ✅ Ada | periuk |
-| 445 | `perkara` | 4x | ✅ Ada | perkara |
-| 446 | `perkataan` | 4x | ✅ Ada | perkataan |
-| 447 | `perlukan` | 1x | ✅ Ada | perlukan |
-| 448 | `perlukannya` | 1x | ✅ Ada | perlukannya |
-| 449 | `pernah` | 1x | ✅ Ada | pernah |
-| 450 | `pertama` | 4x | ✅ Ada | pertama |
-| 451 | `perut` | 1x | ✅ Ada | perut |
-| 452 | `petik` | 1x | ✅ Ada | petik |
-| 453 | `petikkan` | 1x | ✅ Ada | petikkan |
-| 454 | `picture` | 2x | ✅ Ada | gambar |
-| 455 | `pinggan` | 1x | ✅ Ada | pinggan |
-| 456 | `plastik` | 1x | ✅ Ada | plastik |
-| 457 | `pokok` | 2x | ✅ Ada | pokok |
-| 458 | `popular` | 3x | ✅ Ada | popular |
-| 459 | `potong` | 4x | ✅ Ada | potong |
-| 460 | `produk` | 1x | ✅ Ada | produk |
-| 461 | `pukul` | 4x | ✅ Ada | pukul |
-| 462 | `pun` | 1x | ✅ Ada | pun |
-| 463 | `putar` | 2x | ✅ Ada | putar |
-| 464 | `rangup` | 1x | ✅ Ada | rangup |
-| 465 | `ranting` | 2x | ✅ Ada | membebel |
-| 466 | `rasa` | 3x | ✅ Ada | rasa |
-| 467 | `rasanya` | 1x | ✅ Ada | rasanya |
-| 468 | `rawak` | 1x | ✅ Ada | rawak |
-| 469 | `resipi` | 3x | ✅ Ada | resipi |
-| 470 | `ringkasan` | 1x | ✅ Ada | ringkasan |
-| 471 | `roti` | 3x | ✅ Ada | roti |
-| 472 | `ruangan` | 2x | ✅ Ada | ruangan |
-| 473 | `rumah` | 2x | ✅ Ada | rumah |
-| 474 | `sabar` | 1x | ✅ Ada | sabar |
-| 475 | `saja` | 12x | ✅ Ada | saja |
-| 476 | `sakit` | 1x | ✅ Ada | sakit |
-| 477 | `salad` | 2x | ✅ Ada | salad |
-| 478 | `salah` | 3x | ✅ Ada | solat |
-| 479 | `sama` | 1x | ✅ Ada | sama |
-| 480 | `sambil` | 1x | ✅ Ada | sambil |
-| 481 | `sambung` | 1x | ✅ Ada | sambung |
-| 482 | `sana` | 4x | ✅ Ada | sana |
-| 483 | `sandal` | 2x | ✅ Ada | sandal |
-| 484 | `sangat` | 11x | ✅ Ada | sangat |
-| 485 | `sarcasm` | 1x | ✅ Ada | sindiran |
-| 486 | `sarkasme` | 1x | ✅ Ada | sarkasme |
-| 487 | `sarungkan` | 1x | ✅ Ada | sarungkan |
-| 488 | `satu` | 6x | ✅ Ada | satu |
-| 489 | `saya` | 85x | ✅ Ada | saya |
-| 490 | `sayur` | 1x | ✅ Ada | sayur |
-| 491 | `sayuran` | 1x | ✅ Ada | sayuran |
-| 492 | `sebab` | 9x | ✅ Ada | sebab |
-| 493 | `sebaik` | 2x | ✅ Ada | sebaik |
-| 494 | `sebatang` | 2x | ✅ Ada | sebatang |
-| 495 | `sebati` | 1x | ✅ Ada | sebati |
-| 496 | `sebatikan` | 1x | ✅ Ada | sebatikan |
-| 497 | `sebelah` | 1x | ✅ Ada | sebelah |
-| 498 | `sebenar` | 1x | ✅ Ada | sebenar |
-| 499 | `sebentar` | 1x | ✅ Ada | sebentar |
-| 500 | `sebiji` | 2x | ✅ Ada | sebiji |
-| 501 | `sebungkus` | 1x | ✅ Ada | sebungkus |
-| 502 | `sebut` | 1x | ✅ Ada | sebut |
-| 503 | `sebutkannya` | 1x | ✅ Ada | sebutkannya |
-| 504 | `secara` | 2x | ✅ Ada | secara |
-| 505 | `sedang` | 8x | ✅ Ada | sedang |
-| 506 | `sedap` | 4x | ✅ Ada | sedap |
-| 507 | `sediakan` | 2x | ✅ Ada | sediakan |
-| 508 | `sedikit` | 8x | ✅ Ada | sedikit |
-| 509 | `seekor` | 1x | ✅ Ada | seekor |
-| 510 | `sejat` | 2x | ✅ Ada | sejat |
-| 511 | `sejenis` | 1x | ✅ Ada | sejenis |
-| 512 | `sejuk` | 1x | ✅ Ada | sejuk |
-| 513 | `sekala` | 1x | ✅ Ada | sekala |
-| 514 | `sekali` | 6x | ✅ Ada | sekali |
-| 515 | `sekarang` | 24x | ✅ Ada | sekarang |
-| 516 | `sekitar` | 2x | ✅ Ada | sekitar |
-| 517 | `selalu` | 3x | ✅ Ada | selalu |
-| 518 | `selama` | 1x | ✅ Ada | selama |
-| 519 | `selepas` | 3x | ✅ Ada | selepas |
-| 520 | `selesai` | 2x | ✅ Ada | selesai |
-| 521 | `selipar` | 2x | ✅ Ada | selipar |
-| 522 | `seluruh` | 1x | ✅ Ada | seluruh |
-| 523 | `semak` | 2x | ✅ Ada | semak |
-| 524 | `semasa` | 1x | ✅ Ada | semasa |
-| 525 | `sempurna` | 1x | ✅ Ada | sempurna |
-| 526 | `semua` | 8x | ✅ Ada | semua |
-| 527 | `semuanya` | 5x | ✅ Ada | semuanya |
-| 528 | `semula` | 5x | ✅ Ada | semula |
-| 529 | `senarai` | 2x | ✅ Ada | senarai |
-| 530 | `sendiri` | 2x | ✅ Ada | sendiri |
-| 531 | `sentiasa` | 1x | ✅ Ada | sentiasa |
-| 532 | `seolah` | 1x | ✅ Ada | seolah |
-| 533 | `sepanjang` | 1x | ✅ Ada | sepanjang |
-| 534 | `separuh` | 1x | ✅ Ada | separuh |
-| 535 | `seperti` | 6x | ✅ Ada | seperti |
-| 536 | `serangga` | 1x | ✅ Ada | serangga |
-| 537 | `sesuaikan` | 1x | ✅ Ada | sesuaikan |
-| 538 | `sesuatu` | 4x | ✅ Ada | sesuatu |
-| 539 | `setengah` | 2x | ✅ Ada | setengah |
-| 540 | `siap` | 1x | ✅ Ada | siap |
-| 541 | `sidai` | 1x | ✅ Ada | sidai |
-| 542 | `sikit` | 1x | ✅ Ada | sikit |
-| 543 | `simpan` | 2x | ✅ Ada | simpan |
-| 544 | `sindiran` | 1x | ✅ Ada | sindiran |
-| 545 | `sini` | 16x | ✅ Ada | sini |
-| 546 | `sisa` | 1x | ✅ Ada | sisa |
-| 547 | `slanga` | 1x | ✅ Ada | slanga |
-| 548 | `sos` | 9x | ✅ Ada | sos |
-| 549 | `spatula` | 1x | ✅ Ada | spatula |
-| 550 | `stor` | 2x | ✅ Ada | stor |
-| 551 | `stove` | 1x | ✅ Ada | dapur memasak (dapur gas/elektrik) |
-| 552 | `sudah` | 5x | ✅ Ada | sudah |
-| 553 | `suhu` | 1x | ✅ Ada | suhu |
-| 554 | `suis` | 1x | ✅ Ada | suis |
-| 555 | `suka` | 6x | ✅ Ada | suka |
-| 556 | `sukar` | 1x | ✅ Ada | sukar |
-| 557 | `sukatan` | 1x | ✅ Ada | sukatan |
-| 558 | `sungguh` | 3x | ✅ Ada | sungguh |
-| 559 | `supaya` | 1x | ✅ Ada | supaya |
-| 560 | `suruh` | 2x | ✅ Ada | suruh |
-| 561 | `susu` | 15x | ✅ Ada | susu |
-| 562 | `tadi` | 7x | ✅ Ada | tadi |
-| 563 | `tahu` | 1x | ✅ Ada | tahu |
-| 564 | `tajam` | 2x | ✅ Ada | tajam |
-| 565 | `tak` | 16x | ✅ Ada | tak |
-| 566 | `take` | 4x | ✅ Ada | ambil / memerlukan masa |
-| 567 | `tali` | 4x | ✅ Ada | tali |
-| 568 | `tanah` | 1x | ✅ Ada | tanah |
-| 569 | `tanda` | 1x | ✅ Ada | tanda |
-| 570 | `tangkai` | 1x | ✅ Ada | tangkai |
-| 571 | `tanpa` | 1x | ✅ Ada | tanpa |
-| 572 | `tapak` | 1x | ✅ Ada | tapak |
-| 573 | `tapi` | 7x | ✅ Ada | tapi |
-| 574 | `tekstur` | 1x | ✅ Ada | tekstur |
-| 575 | `teksturnya` | 1x | ✅ Ada | teksturnya |
-| 576 | `telah` | 1x | ✅ Ada | telah |
-| 577 | `telur` | 9x | ✅ Ada | telur |
-| 578 | `tembus` | 2x | ✅ Ada | tembus |
-| 579 | `tempat` | 2x | ✅ Ada | tempat |
-| 580 | `tengah` | 6x | ✅ Ada | tengah |
-| 581 | `tengok` | 5x | ✅ Ada | tengok |
-| 582 | `tengoklah` | 3x | ✅ Ada | tengoklah |
-| 583 | `tentang` | 1x | ✅ Ada | tentang |
-| 584 | `tenusu` | 3x | ✅ Ada | tenusu |
-| 585 | `tepat` | 1x | ✅ Ada | tepat |
-| 586 | `tepinya` | 1x | ✅ Ada | tepinya |
-| 587 | `tepung` | 3x | ✅ Ada | tepung |
-| 588 | `terakhir` | 1x | ✅ Ada | terakhir |
-| 589 | `teramat` | 1x | ✅ Ada | teramat |
-| 590 | `terang` | 1x | ✅ Ada | terang |
-| 591 | `terangan` | 1x | ✅ Ada | terangan |
-| 592 | `terangkan` | 1x | ✅ Ada | terangkan |
-| 593 | `terbang` | 5x | ✅ Ada | terbang |
-| 594 | `tercabut` | 4x | ✅ Ada | tercabut |
-| 595 | `tergantung` | 1x | ✅ Ada | bergantung |
-| 596 | `teringin` | 1x | ✅ Ada | teringin |
-| 597 | `terjatuh` | 1x | ✅ Ada | terjatuh |
-| 598 | `terlebih` | 1x | ✅ Ada | terlebih |
-| 599 | `terlintas` | 1x | ✅ Ada | terlintas |
-| 600 | `terpijak` | 3x | ✅ Ada | terpijak |
-| 601 | `tersadung` | 1x | ✅ Ada | tersadung |
-| 602 | `tersangat` | 1x | ✅ Ada | tersangat |
-| 603 | `terus` | 1x | ✅ Ada | terus |
-| 604 | `terutamanya` | 1x | ✅ Ada | terutamanya |
-| 605 | `tetap` | 1x | ✅ Ada | tetap |
-| 606 | `tetapi` | 4x | ✅ Ada | tetapi |
-| 607 | `tetapkan` | 1x | ✅ Ada | tetapkan |
-| 608 | `tetapkannya` | 1x | ✅ Ada | tetapkannya |
-| 609 | `the` | 4x | ✅ Ada | kata penentu (itu / si) |
-| 610 | `tiada` | 3x | ✅ Ada | tiada |
-| 611 | `tidak` | 2x | ✅ Ada | tidak |
-| 612 | `tiga` | 6x | ✅ Ada | tiga |
-| 613 | `tin` | 5x | ✅ Ada | timah |
-| 614 | `tingkap` | 2x | ✅ Ada | tingkap |
-| 615 | `toasted` | 3x | ✅ Ada | dibakar |
-| 616 | `toasting` | 1x | ✅ Ada | memanggang |
-| 617 | `tomato` | 4x | ✅ Ada | tomato |
-| 618 | `tong` | 1x | ✅ Ada | tong |
-| 619 | `tonton` | 1x | ✅ Ada | tonton |
-| 620 | `toppings` | 2x | ✅ Ada | topping |
-| 621 | `trail` | 1x | ✅ Ada | jejak |
-| 622 | `tres` | 7x | ✅ Ada | tres |
-| 623 | `tu` | 5x | ✅ Ada | tu |
-| 624 | `tuang` | 1x | ✅ Ada | tuang |
-| 625 | `tuangkan` | 2x | ✅ Ada | tuangkan |
-| 626 | `tuangkannya` | 2x | ✅ Ada | tuangkannya |
-| 627 | `tulang` | 1x | ✅ Ada | tulang |
-| 628 | `tulis` | 1x | ✅ Ada | tulis |
-| 629 | `tunjukkan` | 1x | ✅ Ada | tunjukkan |
-| 630 | `tutup` | 1x | ✅ Ada | tutup |
-| 631 | `ungkapan` | 1x | ✅ Ada | ungkapan |
-| 632 | `untuk` | 19x | ✅ Ada | untuk |
-| 633 | `untuknya` | 1x | ✅ Ada | untuknya |
-| 634 | `utama` | 4x | ✅ Ada | utama |
-| 635 | `vapor` | 1x | ✅ Ada | wap |
-| 636 | `variasi` | 1x | ✅ Ada | variasi |
-| 637 | `video` | 5x | ✅ Ada | video |
-| 638 | `wah` | 3x | ✅ Ada | wah |
-| 639 | `wap` | 1x | ✅ Ada | wap |
-| 640 | `warna` | 6x | ✅ Ada | warna |
-| 641 | `warni` | 1x | ✅ Ada | amaran |
-| 642 | `whipped` | 1x | ✅ Ada | disebat |
-| 643 | `whisk` | 1x | ✅ Ada | pukul |
-| 644 | `ya` | 6x | ✅ Ada | ya |
-| 645 | `yang` | 37x | ✅ Ada | yang |
+| 1 | `1/8` | 1x | ✅ Ada | 1/8 |
+| 2 | `21st` | 1x | ✅ Ada | ke-21 |
+| 3 | `3,000` | 1x | ✅ Ada | 3,000 |
+| 4 | `9:14` | 1x | ✅ Ada | 9:14 |
+| 5 | `a` | 56x | ✅ Ada | sebuah / seorang / satu |
+| 6 | `a.m` | 1x | ✅ Ada | a.m |
+| 7 | `about` | 3x | ✅ Ada | tentang / sekitar |
+| 8 | `absorbs` | 1x | ✅ Ada | menyerap |
+| 9 | `add` | 5x | ✅ Ada | tambah |
+| 10 | `added` | 1x | ✅ Ada | ditambah |
+| 11 | `after` | 3x | ✅ Ada | selepas / sesudah |
+| 12 | `again` | 1x | ✅ Ada | sekali lagi |
+| 13 | `ago` | 1x | ✅ Ada | lalu |
+| 14 | `ain't` | 3x | ✅ Ada | bukan |
+| 15 | `all` | 16x | ✅ Ada | semua / seluruh |
+| 16 | `almost` | 2x | ✅ Ada | hampir |
+| 17 | `already` | 1x | ✅ Ada | sudah / telah pun |
+| 18 | `also` | 4x | ✅ Ada | juga / selain itu |
+| 19 | `always` | 5x | ✅ Ada | sentiasa / selalu |
+| 20 | `am` | 2x | ✅ Ada | adalah / berada |
+| 21 | `america` | 1x | ✅ Ada | amerika |
+| 22 | `an` | 3x | ✅ Ada | sebuah / seorang / satu |
+| 23 | `and` | 56x | ✅ Ada | dan |
+| 24 | `annoying` | 1x | ✅ Ada | menjengkelkan |
+| 25 | `any` | 2x | ✅ Ada | sebarang / apa-apa |
+| 26 | `anyways` | 1x | ✅ Ada | bagaimanapun |
+| 27 | `appreciate` | 1x | ✅ Ada | menghargai |
+| 28 | `are` | 15x | ✅ Ada | adalah / berada |
+| 29 | `around` | 3x | ✅ Ada | sekitar / di sekeliling |
+| 30 | `as` | 5x | ✅ Ada | seperti / sebagai |
+| 31 | `ask` | 1x | ✅ Ada | bertanya |
+| 32 | `asked` | 1x | ✅ Ada | bertanya |
+| 33 | `at` | 9x | ✅ Ada | di / pada |
+| 34 | `ate` | 1x | ✅ Ada | makan |
+| 35 | `attach` | 1x | ✅ Ada | lampirkan |
+| 36 | `away` | 1x | ✅ Ada | jauh / pergi |
+| 37 | `back` | 4x | ✅ Ada | belakang / kembali |
+| 38 | `bag` | 1x | ✅ Ada | beg |
+| 39 | `barbecue` | 7x | ✅ Ada | barbeku |
+| 40 | `basket` | 1x | ✅ Ada | bakul |
+| 41 | `batches` | 1x | ✅ Ada | kumpulan |
+| 42 | `batter` | 1x | ✅ Ada | adunan |
+| 43 | `be` | 4x | ✅ Ada | menjadi / berada |
+| 44 | `beat` | 1x | ✅ Ada | pukul |
+| 45 | `beaten` | 4x | ✅ Ada | dipukul |
+| 46 | `beating` | 1x | ✅ Ada | memukul |
+| 47 | `beautiful` | 6x | ✅ Ada | cantik |
+| 48 | `because` | 1x | ✅ Ada | kerana / sebab |
+| 49 | `been` | 1x | ✅ Ada | telah / pernah |
+| 50 | `behind` | 1x | ✅ Ada | di belakang |
+| 51 | `better` | 1x | ✅ Ada | lebih baik |
+| 52 | `bi` | 1x | ✅ Ada | bi |
+| 53 | `bit` | 7x | ✅ Ada | sedikit / sikit |
+| 54 | `black` | 5x | ✅ Ada | hitam |
+| 55 | `blending` | 1x | ✅ Ada | pengadunan |
+| 56 | `boil` | 2x | ✅ Ada | mendidih / rebus |
+| 57 | `bones` | 1x | ✅ Ada | tulang |
+| 58 | `boot` | 1x | ✅ Ada | but |
+| 59 | `boots` | 1x | ✅ Ada | but |
+| 60 | `bowl` | 2x | ✅ Ada | mangkuk |
+| 61 | `boy` | 2x | ✅ Ada | budak lelaki |
+| 62 | `boys` | 1x | ✅ Ada | budak lelaki |
+| 63 | `bread` | 2x | ✅ Ada | roti |
+| 64 | `bring` | 1x | ✅ Ada | membawa |
+| 65 | `bro` | 1x | ✅ Ada | bro |
+| 66 | `broom` | 2x | ✅ Ada | penyapu |
+| 67 | `brother` | 2x | ✅ Ada | abang |
+| 68 | `brought` | 1x | ✅ Ada | dibawa |
+| 69 | `buddy` | 2x | ✅ Ada | kawan |
+| 70 | `buns` | 1x | ✅ Ada | roti |
+| 71 | `burger` | 1x | ✅ Ada | burger |
+| 72 | `burgers` | 4x | ✅ Ada | burger |
+| 73 | `burnt` | 1x | ✅ Ada | terbakar |
+| 74 | `bushes` | 1x | ✅ Ada | semak belukar |
+| 75 | `bust` | 1x | ✅ Ada | dada |
+| 76 | `but` | 15x | ✅ Ada | tetapi / tapi |
+| 77 | `buy` | 1x | ✅ Ada | beli / membeli |
+| 78 | `by` | 3x | ✅ Ada | oleh / dengan / menjelang |
+| 79 | `cake` | 5x | ✅ Ada | kek |
+| 80 | `call` | 2x | ✅ Ada | panggilan |
+| 81 | `called` | 6x | ✅ Ada | dipanggil / dinamakan |
+| 82 | `calves` | 2x | ✅ Ada | anak lembu |
+| 83 | `can` | 19x | ✅ Ada | boleh / dapat |
+| 84 | `can't` | 1x | ✅ Ada | tidak boleh / tak boleh (singkatan 'cannot') |
+| 85 | `canada` | 1x | ✅ Ada | negara Kanada |
+| 86 | `century` | 1x | ✅ Ada | abad |
+| 87 | `chachi` | 3x | ✅ Ada | chachi |
+| 88 | `check` | 5x | ✅ Ada | semak / periksa |
+| 89 | `cheese` | 2x | ✅ Ada | keju |
+| 90 | `chicken` | 1x | ✅ Ada | ayam |
+| 91 | `chop` | 1x | ✅ Ada | mencincang |
+| 92 | `chopped` | 1x | ✅ Ada | dicincang |
+| 93 | `clean` | 1x | ✅ Ada | bersih / membersihkan |
+| 94 | `clearly` | 2x | ✅ Ada | dengan jelas |
+| 95 | `climb` | 1x | ✅ Ada | mendaki |
+| 96 | `climbed` | 1x | ✅ Ada | mendaki |
+| 97 | `clos` | 1x | ✅ Ada | penutup |
+| 98 | `close` | 1x | ✅ Ada | tutup / dekat |
+| 99 | `closed` | 1x | ✅ Ada | ditutup / tertutup |
+| 100 | `clothes` | 8x | ✅ Ada | pakaian / baju |
+| 101 | `color` | 2x | ✅ Ada | warna |
+| 102 | `colorful` | 1x | ✅ Ada | berwarna warni |
+| 103 | `colors` | 2x | ✅ Ada | warna |
+| 104 | `come` | 1x | ✅ Ada | datang / mari |
+| 105 | `comes` | 2x | ✅ Ada | datang |
+| 106 | `comment` | 1x | ✅ Ada | komen |
+| 107 | `comments` | 2x | ✅ Ada | ruangan komen / ulasan |
+| 108 | `common` | 1x | ✅ Ada | lazim / biasa |
+| 109 | `comprehensible` | 2x | ✅ Ada | mudah difahami |
+| 110 | `condensed` | 3x | ✅ Ada | pekat |
+| 111 | `condiments` | 2x | ✅ Ada | bahan perasa |
+| 112 | `consistency` | 1x | ✅ Ada | konsisten |
+| 113 | `container` | 2x | ✅ Ada | bekas / bekas makanan |
+| 114 | `continue` | 1x | ✅ Ada | teruskan / menyambung |
+| 115 | `cook` | 2x | ✅ Ada | memasak |
+| 116 | `cooked` | 2x | ✅ Ada | masak |
+| 117 | `cooking` | 7x | ✅ Ada | memasak / masakan |
+| 118 | `cool` | 2x | ✅ Ada | sejuk / hebat / bergaya |
+| 119 | `correct` | 1x | ✅ Ada | betul / tepat |
+| 120 | `could` | 10x | ✅ Ada | boleh / dapat |
+| 121 | `couldn't` | 1x | ✅ Ada | tidak boleh / tak dapat (singkatan 'could not') |
+| 122 | `countries` | 1x | ✅ Ada | negara |
+| 123 | `course` | 1x | ✅ Ada | tentu sekali / kursus |
+| 124 | `cow` | 2x | ✅ Ada | lembu |
+| 125 | `crack` | 2x | ✅ Ada | retak |
+| 126 | `cracked` | 1x | ✅ Ada | retak |
+| 127 | `cracking` | 1x | ✅ Ada | retak |
+| 128 | `cream` | 1x | ✅ Ada | krim |
+| 129 | `crunch` | 1x | ✅ Ada | rangup |
+| 130 | `cup` | 9x | ✅ Ada | cawan |
+| 131 | `cut` | 1x | ✅ Ada | potong |
+| 132 | `cuz` | 7x | ✅ Ada | sebab / kerana (singkatan 'because') |
+| 133 | `cylinder` | 1x | ✅ Ada | silinder |
+| 134 | `dairy` | 2x | ✅ Ada | tenusu |
+| 135 | `damn` | 1x | ✅ Ada | sial |
+| 136 | `dark` | 1x | ✅ Ada | gelap |
+| 137 | `dead` | 1x | ✅ Ada | mati |
+| 138 | `deep` | 2x | ✅ Ada | dalam |
+| 139 | `delicious` | 1x | ✅ Ada | sedap |
+| 140 | `dessert` | 3x | ✅ Ada | pencuci mulut |
+| 141 | `did` | 1x | ✅ Ada | telah buat / adakah |
+| 142 | `didn't` | 2x | ✅ Ada | tidak / tak (singkatan 'did not') |
+| 143 | `different` | 3x | ✅ Ada | berbeza / kelainan |
+| 144 | `differently` | 1x | ✅ Ada | berbeza |
+| 145 | `dishes` | 1x | ✅ Ada | pinggan mangkuk / hidangan |
+| 146 | `do` | 8x | ✅ Ada | buat / lakukan |
+| 147 | `does` | 4x | ✅ Ada | buat / melakukan |
+| 148 | `dog` | 4x | ✅ Ada | anjing |
+| 149 | `doing` | 4x | ✅ Ada | melakukan |
+| 150 | `don't` | 4x | ✅ Ada | jangan / tidak (singkatan 'do not') |
+| 151 | `done` | 1x | ✅ Ada | selesai |
+| 152 | `down` | 4x | ✅ Ada | bawah / turun |
+| 153 | `during` | 1x | ✅ Ada | semasa |
+| 154 | `earlier` | 1x | ✅ Ada | lebih awal |
+| 155 | `easier` | 1x | ✅ Ada | lebih mudah |
+| 156 | `eat` | 3x | ✅ Ada | makan |
+| 157 | `egg` | 1x | ✅ Ada | telur |
+| 158 | `eggs` | 8x | ✅ Ada | telur-telur |
+| 159 | `else` | 2x | ✅ Ada | lain |
+| 160 | `empty` | 1x | ✅ Ada | kosong / mengosongkan |
+| 161 | `english` | 2x | ✅ Ada | bahasa Inggeris |
+| 162 | `entree` | 1x | ✅ Ada | hidangan |
+| 163 | `especially` | 1x | ✅ Ada | terutamanya |
+| 164 | `evaporated` | 2x | ✅ Ada | tersejat |
+| 165 | `even` | 1x | ✅ Ada | malah / pun |
+| 166 | `everyone` | 1x | ✅ Ada | semua orang |
+| 167 | `example` | 1x | ✅ Ada | contoh |
+| 168 | `exhilarating` | 1x | ✅ Ada | menggembirakan |
+| 169 | `explain` | 1x | ✅ Ada | terangkan |
+| 170 | `extra` | 1x | ✅ Ada | tambahan |
+| 171 | `falls` | 1x | ✅ Ada | jatuh |
+| 172 | `favorite` | 3x | ✅ Ada | kegemaran |
+| 173 | `feel` | 1x | ✅ Ada | rasa / merasa |
+| 174 | `fell` | 6x | ✅ Ada | jatuh |
+| 175 | `fence` | 2x | ✅ Ada | pagar |
+| 176 | `finished` | 2x | ✅ Ada | siap / selesai |
+| 177 | `fire` | 3x | ✅ Ada | api / kebakaran |
+| 178 | `first` | 6x | ✅ Ada | pertama / dulu |
+| 179 | `five` | 1x | ✅ Ada | lima |
+| 180 | `flavors` | 1x | ✅ Ada | perisa |
+| 181 | `flipflops` | 1x | ✅ Ada | selipar |
+| 182 | `flour` | 3x | ✅ Ada | tepung |
+| 183 | `fluffier` | 1x | ✅ Ada | lebih gebu |
+| 184 | `flying` | 2x | ✅ Ada | terbang |
+| 185 | `follow` | 1x | ✅ Ada | ikut |
+| 186 | `food` | 3x | ✅ Ada | makanan |
+| 187 | `for` | 17x | ✅ Ada | untuk / bagi |
+| 188 | `four` | 3x | ✅ Ada | empat |
+| 189 | `french` | 1x | ✅ Ada | bahasa perancis |
+| 190 | `fries` | 6x | ✅ Ada | kentang goreng |
+| 191 | `from` | 3x | ✅ Ada | dari / daripada |
+| 192 | `frying` | 2x | ✅ Ada | menggoreng |
+| 193 | `gas` | 2x | ✅ Ada | gas |
+| 194 | `gave` | 1x | ✅ Ada | memberi |
+| 195 | `get` | 12x | ✅ Ada | dapat / mengambil |
+| 196 | `getting` | 1x | ✅ Ada | semakin / sedang dapat |
+| 197 | `give` | 3x | ✅ Ada | beri / memberikan |
+| 198 | `glass` | 4x | ✅ Ada | kaca / cawan kaca |
+| 199 | `go` | 11x | ✅ Ada | pergi |
+| 200 | `goes` | 1x | ✅ Ada | pergi |
+| 201 | `going` | 20x | ✅ Ada | sedang pergi / akan |
+| 202 | `golden` | 2x | ✅ Ada | keemasan |
+| 203 | `good` | 2x | ✅ Ada | baik / bagus |
+| 204 | `google` | 1x | ✅ Ada | google |
+| 205 | `got` | 12x | ✅ Ada | dapat / sudah dapat |
+| 206 | `grab` | 2x | ✅ Ada | ambil / capai |
+| 207 | `grabbed` | 1x | ✅ Ada | menyambar |
+| 208 | `gray` | 1x | ✅ Ada | kelabu |
+| 209 | `green` | 1x | ✅ Ada | hijau |
+| 210 | `grill` | 1x | ✅ Ada | pemanggang |
+| 211 | `ground` | 1x | ✅ Ada | tanah |
+| 212 | `guess` | 2x | ✅ Ada | meneka |
+| 213 | `guys` | 10x | ✅ Ada | kawan-kawan / kalian |
+| 214 | `had` | 1x | ✅ Ada | mempunyai / telah ada |
+| 215 | `half` | 3x | ✅ Ada | separuh |
+| 216 | `hang` | 1x | ✅ Ada | gantung / menyidai |
+| 217 | `hanging` | 2x | ✅ Ada | tergantung |
+| 218 | `has` | 1x | ✅ Ada | ada / mempunyai |
+| 219 | `have` | 20x | ✅ Ada | ada / mempunyai |
+| 220 | `he` | 3x | ✅ Ada | dia |
+| 221 | `he's` | 6x | ✅ Ada | dia adalah / dia (singkatan 'he is/has') |
+| 222 | `heat` | 1x | ✅ Ada | panas |
+| 223 | `here` | 19x | ✅ Ada | di sini |
+| 224 | `here's` | 1x | ✅ Ada | inilah |
+| 225 | `hey` | 1x | ✅ Ada | hey |
+| 226 | `hike` | 5x | ✅ Ada | mendaki |
+| 227 | `hiking` | 2x | ✅ Ada | mendaki |
+| 228 | `him` | 6x | ✅ Ada | dia |
+| 229 | `holes` | 2x | ✅ Ada | lubang-lubang |
+| 230 | `home` | 2x | ✅ Ada | rumah / kediaman |
+| 231 | `homemade` | 1x | ✅ Ada | buatan sendiri |
+| 232 | `hot` | 2x | ✅ Ada | panas / pedas |
+| 233 | `house` | 1x | ✅ Ada | rumah |
+| 234 | `how` | 9x | ✅ Ada | bagaimana / macam mana |
+| 235 | `hurts` | 1x | ✅ Ada | sakit hati |
+| 236 | `i` | 53x | ✅ Ada | saya / aku |
+| 237 | `i'll` | 4x | ✅ Ada | saya akan (singkatan 'I will') |
+| 238 | `i'm` | 11x | ✅ Ada | saya / saya sedang (singkatan 'I am') |
+| 239 | `i've` | 1x | ✅ Ada | saya telah / saya dah (singkatan 'I have') |
+| 240 | `if` | 9x | ✅ Ada | jika / kalau |
+| 241 | `in` | 29x | ✅ Ada | dalam / di dalam |
+| 242 | `ingredient` | 1x | ✅ Ada | bahan masakan |
+| 243 | `ingredients` | 4x | ✅ Ada | bahan-bahan masakan |
+| 244 | `input` | 2x | ✅ Ada | input / masukan |
+| 245 | `inside` | 4x | ✅ Ada | di dalam |
+| 246 | `instagram` | 1x | ✅ Ada | instagram |
+| 247 | `instead` | 3x | ✅ Ada | sebaliknya |
+| 248 | `into` | 8x | ✅ Ada | ke dalam |
+| 249 | `intolerant` | 1x | ✅ Ada | tidak bertoleransi |
+| 250 | `is` | 46x | ✅ Ada | adalah / ialah |
+| 251 | `it` | 55x | ✅ Ada | ia / itu |
+| 252 | `it's` | 19x | ✅ Ada | ia adalah / itu (singkatan 'it is/has') |
+| 253 | `joking` | 1x | ✅ Ada | bergurau |
+| 254 | `juice` | 1x | ✅ Ada | jus |
+| 255 | `just` | 24x | ✅ Ada | hanya / sekadar / baru saja |
+| 256 | `keep` | 2x | ✅ Ada | simpan / teruskan |
+| 257 | `ketchup` | 2x | ✅ Ada | sos tomato |
+| 258 | `kick` | 1x | ✅ Ada | sepak / memulakan (kick off) |
+| 259 | `kind` | 2x | ✅ Ada | jenis / baik hati |
+| 260 | `kitchen` | 1x | ✅ Ada | dapur |
+| 261 | `knocked` | 1x | ✅ Ada | diketuk |
+| 262 | `know` | 4x | ✅ Ada | tahu / kenal |
+| 263 | `known` | 1x | ✅ Ada | diketahui |
+| 264 | `lactose` | 1x | ✅ Ada | laktosa |
+| 265 | `last` | 3x | ✅ Ada | terakhir / lepas |
+| 266 | `laundry` | 3x | ✅ Ada | dobi / pakaian kotor |
+| 267 | `laying` | 1x | ✅ Ada | meletakkan |
+| 268 | `learn` | 1x | ✅ Ada | belajar |
+| 269 | `learning` | 1x | ✅ Ada | pembelajaran / sedang belajar |
+| 270 | `leaves` | 1x | ✅ Ada | daun |
+| 271 | `leches` | 7x | ✅ Ada | lintah |
+| 272 | `left` | 1x | ✅ Ada | kiri |
+| 273 | `lemon` | 5x | ✅ Ada | limau |
+| 274 | `lemons` | 5x | ✅ Ada | buah limau |
+| 275 | `leon` | 1x | ✅ Ada | leon |
+| 276 | `less` | 2x | ✅ Ada | kurang |
+| 277 | `let` | 2x | ✅ Ada | biarkan / membenarkan |
+| 278 | `let's` | 16x | ✅ Ada | jom / marilah kita (singkatan 'let us') |
+| 279 | `lettuce` | 2x | ✅ Ada | selada |
+| 280 | `life` | 2x | ✅ Ada | kehidupan |
+| 281 | `light` | 1x | ✅ Ada | cahaya / lampu / ringan |
+| 282 | `lightly` | 1x | ✅ Ada | dengan ringan |
+| 283 | `like` | 27x | ✅ Ada | suka / seperti |
+| 284 | `line` | 6x | ✅ Ada | barisan |
+| 285 | `liquid` | 2x | ✅ Ada | cecair |
+| 286 | `literally` | 1x | ✅ Ada | secara literal |
+| 287 | `little` | 8x | ✅ Ada | kecil / sedikit |
+| 288 | `long` | 2x | ✅ Ada | panjang / lama |
+| 289 | `look` | 7x | ✅ Ada | tengok / kelihatan |
+| 290 | `looks` | 1x | ✅ Ada | kelihatan |
+| 291 | `lost` | 1x | ✅ Ada | hilang |
+| 292 | `lot` | 7x | ✅ Ada | banyak |
+| 293 | `lunch` | 1x | ✅ Ada | makan tengah hari |
+| 294 | `made` | 7x | ✅ Ada | dibuat / menghasilkan |
+| 295 | `main` | 3x | ✅ Ada | utama |
+| 296 | `make` | 12x | ✅ Ada | buat / menghasilkan |
+| 297 | `making` | 3x | ✅ Ada | sedang membuat |
+| 298 | `man` | 1x | ✅ Ada | lelaki / orang |
+| 299 | `may` | 3x | ✅ Ada | boleh |
+| 300 | `maybe` | 2x | ✅ Ada | mungkin |
+| 301 | `mayonnaise` | 1x | ✅ Ada | mayonis |
+| 302 | `me` | 6x | ✅ Ada | saya / aku |
+| 303 | `mean` | 4x | ✅ Ada | maksud / berniat |
+| 304 | `means` | 6x | ✅ Ada | bermakna |
+| 305 | `measuring` | 3x | ✅ Ada | mengukur |
+| 306 | `milk` | 9x | ✅ Ada | susu |
+| 307 | `milking` | 1x | ✅ Ada | memerah susu |
+| 308 | `milks` | 5x | ✅ Ada | susu |
+| 309 | `mind` | 1x | ✅ Ada | fikiran / minda |
+| 310 | `mine` | 1x | ✅ Ada | saya |
+| 311 | `mini` | 1x | ✅ Ada | mini |
+| 312 | `minutes` | 4x | ✅ Ada | minit |
+| 313 | `mix` | 7x | ✅ Ada | campurkan |
+| 314 | `mixture` | 1x | ✅ Ada | campuran |
+| 315 | `ml` | 1x | ✅ Ada | ml |
+| 316 | `mold` | 1x | ✅ Ada | acuan |
+| 317 | `most` | 1x | ✅ Ada | paling banyak / kebanyakan |
+| 318 | `mother` | 1x | ✅ Ada | ibu |
+| 319 | `mountain` | 2x | ✅ Ada | gunung |
+| 320 | `mozzarella` | 1x | ✅ Ada | mozarella |
+| 321 | `much` | 2x | ✅ Ada | banyak |
+| 322 | `mustard` | 2x | ✅ Ada | mustard |
+| 323 | `my` | 18x | ✅ Ada | saya punya / kepunyaan saya |
+| 324 | `nature` | 5x | ✅ Ada | alam semula jadi |
+| 325 | `need` | 1x | ✅ Ada | perlu / memerlukan |
+| 326 | `needles` | 1x | ✅ Ada | jarum |
+| 327 | `needs` | 1x | ✅ Ada | keperluan |
+| 328 | `neighbor's` | 1x | ✅ Ada | jiran |
+| 329 | `next` | 2x | ✅ Ada | seterusnya / sebelah |
+| 330 | `nice` | 2x | ✅ Ada | bagus / cantik / selesa |
+| 331 | `nicely` | 1x | ✅ Ada | dengan elok / kemas |
+| 332 | `no` | 5x | ✅ Ada | tidak / tiada |
+| 333 | `nope` | 1x | ✅ Ada | takpe |
+| 334 | `not` | 8x | ✅ Ada | bukan / tidak |
+| 335 | `nothing` | 1x | ✅ Ada | tiada apa-apa |
+| 336 | `notice` | 1x | ✅ Ada | perasan |
+| 337 | `now` | 27x | ✅ Ada | sekarang |
+| 338 | `obviously` | 1x | ✅ Ada | jelas sekali / sudah tentu |
+| 339 | `of` | 33x | ✅ Ada | daripada / tentang |
+| 340 | `off` | 8x | ✅ Ada | padam / mati / lepas |
+| 341 | `oh` | 4x | ✅ Ada | oh |
+| 342 | `oil` | 1x | ✅ Ada | minyak |
+| 343 | `okay` | 11x | ✅ Ada | okay |
+| 344 | `on` | 20x | ✅ Ada | hidup / atas |
+| 345 | `once` | 2x | ✅ Ada | sekali / suatu ketika |
+| 346 | `one` | 12x | ✅ Ada | satu / seorang |
+| 347 | `onions` | 2x | ✅ Ada | bawang besar |
+| 348 | `only` | 2x | ✅ Ada | hanya / sahaja |
+| 349 | `open` | 1x | ✅ Ada | buka / terbuka |
+| 350 | `opening` | 1x | ✅ Ada | membuka / bukaan |
+| 351 | `opinion` | 1x | ✅ Ada | pendapat |
+| 352 | `or` | 15x | ✅ Ada | atau |
+| 353 | `other` | 1x | ✅ Ada | lain |
+| 354 | `our` | 6x | ✅ Ada | kami punya / kita punya |
+| 355 | `out` | 7x | ✅ Ada | keluar / di luar |
+| 356 | `outside` | 2x | ✅ Ada | di luar |
+| 357 | `oven` | 2x | ✅ Ada | ketuhar |
+| 358 | `over` | 2x | ✅ Ada | atas / tamat / lebih |
+| 359 | `passed` | 1x | ✅ Ada | lulus |
+| 360 | `path` | 7x | ✅ Ada | laluan |
+| 361 | `perfect` | 3x | ✅ Ada | sempurna |
+| 362 | `personal` | 1x | ✅ Ada | peribadi |
+| 363 | `picture` | 4x | ✅ Ada | gambar |
+| 364 | `piece` | 1x | ✅ Ada | sekeping |
+| 365 | `pins` | 1x | ✅ Ada | pin |
+| 366 | `place` | 1x | ✅ Ada | tempat |
+| 367 | `plane` | 2x | ✅ Ada | kapal terbang |
+| 368 | `plastic` | 1x | ✅ Ada | plastik |
+| 369 | `playlist` | 2x | ✅ Ada | senarai main |
+| 370 | `plugged` | 1x | ✅ Ada | terpasang |
+| 371 | `popular` | 4x | ✅ Ada | popular |
+| 372 | `posting` | 1x | ✅ Ada | memuat naik / menyiarkan |
+| 373 | `pot` | 1x | ✅ Ada | periuk |
+| 374 | `potatoes` | 2x | ✅ Ada | kentang |
+| 375 | `pour` | 3x | ✅ Ada | tuangkan |
+| 376 | `powdered` | 1x | ✅ Ada | serbuk |
+| 377 | `prefer` | 1x | ✅ Ada | lebih suka |
+| 378 | `preheated` | 1x | ✅ Ada | dipanaskan terlebih dahulu |
+| 379 | `pretty` | 3x | ✅ Ada | agak / cantik |
+| 380 | `put` | 7x | ✅ Ada | letak / meletakkan |
+| 381 | `putting` | 1x | ✅ Ada | meletakkan |
+| 382 | `quiz` | 2x | ✅ Ada | kuiz |
+| 383 | `random` | 1x | ✅ Ada | rawak / sembarangan |
+| 384 | `real` | 1x | ✅ Ada | nyata / sebenar |
+| 385 | `really` | 10x | ✅ Ada | betul-betul / sungguh |
+| 386 | `reason` | 1x | ✅ Ada | sebab / alasan |
+| 387 | `recipe` | 4x | ✅ Ada | resepi |
+| 388 | `related` | 1x | ✅ Ada | berkaitan |
+| 389 | `remember` | 2x | ✅ Ada | ingat / mengingati |
+| 390 | `rest` | 2x | ✅ Ada | berehat |
+| 391 | `right` | 6x | ✅ Ada | betul / kanan / tepat |
+| 392 | `road` | 2x | ✅ Ada | jalan raya |
+| 393 | `room` | 2x | ✅ Ada | bilik / ruang |
+| 394 | `route` | 1x | ✅ Ada | laluan |
+| 395 | `rubber` | 1x | ✅ Ada | getah |
+| 396 | `rude` | 1x | ✅ Ada | kurang ajar |
+| 397 | `same` | 1x | ✅ Ada | sama |
+| 398 | `sandal` | 2x | ✅ Ada | sandal |
+| 399 | `sarcasm` | 2x | ✅ Ada | sindiran |
+| 400 | `sauce` | 5x | ✅ Ada | sos |
+| 401 | `say` | 8x | ✅ Ada | cakap / berkata |
+| 402 | `scraping` | 2x | ✅ Ada | mengikis |
+| 403 | `searching` | 1x | ✅ Ada | mencari |
+| 404 | `second` | 2x | ✅ Ada | kedua / saat |
+| 405 | `see` | 17x | ✅ Ada | lihat / nampak / tengok |
+| 406 | `set` | 3x | ✅ Ada | tetapkan / satu set |
+| 407 | `shape` | 1x | ✅ Ada | bentuk |
+| 408 | `short` | 1x | ✅ Ada | pendek |
+| 409 | `should` | 1x | ✅ Ada | patut / patutlah |
+| 410 | `show` | 2x | ✅ Ada | tunjuk / menunjukkan |
+| 411 | `shows` | 1x | ✅ Ada | menunjukkan |
+| 412 | `side` | 2x | ✅ Ada | tepi / sisi |
+| 413 | `silver` | 1x | ✅ Ada | perak |
+| 414 | `sky` | 1x | ✅ Ada | langit |
+| 415 | `slang` | 1x | ✅ Ada | slanga |
+| 416 | `sliced` | 1x | ✅ Ada | dihiris |
+| 417 | `slide` | 1x | ✅ Ada | slaid |
+| 418 | `small` | 2x | ✅ Ada | kecil |
+| 419 | `so` | 48x | ✅ Ada | jadi / sangat |
+| 420 | `some` | 14x | ✅ Ada | beberapa / sedikit |
+| 421 | `something` | 6x | ✅ Ada | sesuatu |
+| 422 | `sometimes` | 1x | ✅ Ada | kadang-kadang |
+| 423 | `somewhere` | 1x | ✅ Ada | di suatu tempat |
+| 424 | `spatula` | 1x | ✅ Ada | spatula |
+| 425 | `squeezing` | 1x | ✅ Ada | merempit |
+| 426 | `standing` | 1x | ✅ Ada | sedang berdiri |
+| 427 | `start` | 1x | ✅ Ada | mula / memulakan |
+| 428 | `started` | 1x | ✅ Ada | sudah bermula |
+| 429 | `stem` | 1x | ✅ Ada | batang |
+| 430 | `step` | 5x | ✅ Ada | langkah / melangkah |
+| 431 | `stepped` | 1x | ✅ Ada | melangkah |
+| 432 | `stick` | 3x | ✅ Ada | kayu / melekat |
+| 433 | `still` | 1x | ✅ Ada | masih / tenang |
+| 434 | `stir` | 1x | ✅ Ada | kacau |
+| 435 | `stomach` | 1x | ✅ Ada | perut |
+| 436 | `storage` | 2x | ✅ Ada | ruang simpanan |
+| 437 | `storm` | 1x | ✅ Ada | ribut |
+| 438 | `stove` | 2x | ✅ Ada | dapur memasak (dapur gas/elektrik) |
+| 439 | `straight` | 2x | ✅ Ada | lurus |
+| 440 | `stuff` | 1x | ✅ Ada | barang-barang / benda |
+| 441 | `sugar` | 7x | ✅ Ada | gula |
+| 442 | `summary` | 1x | ✅ Ada | ringkasan |
+| 443 | `summer` | 1x | ✅ Ada | musim panas |
+| 444 | `sure` | 4x | ✅ Ada | pasti / tentu |
+| 445 | `surrounded` | 1x | ✅ Ada | dikelilingi |
+| 446 | `t` | 1x | ✅ Ada | t |
+| 447 | `tailored` | 1x | ✅ Ada | disesuaikan |
+| 448 | `take` | 5x | ✅ Ada | ambil / memerlukan masa |
+| 449 | `taking` | 2x | ✅ Ada | sedang mengambil |
+| 450 | `talking` | 1x | ✅ Ada | bercakap |
+| 451 | `tea` | 1x | ✅ Ada | teh |
+| 452 | `teach` | 1x | ✅ Ada | mengajar |
+| 453 | `teaching` | 1x | ✅ Ada | pengajaran |
+| 454 | `tell` | 1x | ✅ Ada | beritahu / khabarkan |
+| 455 | `tesle` | 1x | ✅ Ada | tesle |
+| 456 | `texture` | 1x | ✅ Ada | tekstur |
+| 457 | `that` | 26x | ✅ Ada | itu / yang |
+| 458 | `that's` | 8x | ✅ Ada | itu adalah / itu (singkatan 'that is') |
+| 459 | `the` | 95x | ✅ Ada | kata penentu (itu / si) |
+| 460 | `them` | 7x | ✅ Ada | mereka |
+| 461 | `then` | 7x | ✅ Ada | kemudian / waktu itu |
+| 462 | `there` | 14x | ✅ Ada | di sana / ada |
+| 463 | `there's` | 5x | ✅ Ada | ada / terdapat (singkatan 'there is') |
+| 464 | `these` | 12x | ✅ Ada | semua ini |
+| 465 | `they` | 2x | ✅ Ada | mereka |
+| 466 | `they're` | 3x | ✅ Ada | mereka adalah / mereka (singkatan 'they are') |
+| 467 | `thick` | 1x | ✅ Ada | tebal |
+| 468 | `thicker` | 1x | ✅ Ada | lebih tebal |
+| 469 | `thing` | 1x | ✅ Ada | benda / perkara |
+| 470 | `things` | 4x | ✅ Ada | benda-benda / perkara-perkara |
+| 471 | `this` | 60x | ✅ Ada | ini |
+| 472 | `thorn` | 2x | ✅ Ada | duri |
+| 473 | `thorns` | 1x | ✅ Ada | duri |
+| 474 | `those` | 3x | ✅ Ada | semua itu |
+| 475 | `though` | 1x | ✅ Ada | walaupun / biarpun |
+| 476 | `three` | 6x | ✅ Ada | tiga |
+| 477 | `thres` | 1x | ✅ Ada | thres |
+| 478 | `through` | 4x | ✅ Ada | melalui / merentasi |
+| 479 | `time` | 3x | ✅ Ada | masa / waktu |
+| 480 | `timer` | 2x | ✅ Ada | pemasa |
+| 481 | `to` | 48x | ✅ Ada | ke / untuk |
+| 482 | `toasted` | 4x | ✅ Ada | dibakar |
+| 483 | `toasting` | 1x | ✅ Ada | memanggang |
+| 484 | `today` | 2x | ✅ Ada | hari ini |
+| 485 | `together` | 2x | ✅ Ada | bersama-sama |
+| 486 | `tomatoes` | 2x | ✅ Ada | buah tomato |
+| 487 | `took` | 4x | ✅ Ada | mengambil / telah ambil |
+| 488 | `top` | 4x | ✅ Ada | bahagian atas / atas |
+| 489 | `toppings` | 2x | ✅ Ada | topping |
+| 490 | `towards` | 1x | ✅ Ada | ke arah |
+| 491 | `trail` | 1x | ✅ Ada | jejak |
+| 492 | `tree` | 2x | ✅ Ada | pokok |
+| 493 | `tres` | 2x | ✅ Ada | tres |
+| 494 | `tripped` | 1x | ✅ Ada | tersandung |
+| 495 | `true` | 2x | ✅ Ada | benar |
+| 496 | `two` | 1x | ✅ Ada | dua |
+| 497 | `types` | 1x | ✅ Ada | jenis-jenis |
+| 498 | `uh` | 2x | ✅ Ada | err / uh |
+| 499 | `unconventional` | 1x | ✅ Ada | tidak konvensional |
+| 500 | `unreasonable` | 1x | ✅ Ada | tidak munasabah |
+| 501 | `up` | 5x | ✅ Ada | atas / naik |
+| 502 | `us` | 2x | ✅ Ada | kami / kita |
+| 503 | `used` | 1x | ✅ Ada | digunakan / pernah |
+| 504 | `vapor` | 1x | ✅ Ada | wap |
+| 505 | `variety` | 1x | ✅ Ada | pelbagai |
+| 506 | `vegetables` | 1x | ✅ Ada | sayur-sayuran |
+| 507 | `very` | 5x | ✅ Ada | sangat / amat |
+| 508 | `video` | 3x | ✅ Ada | video |
+| 509 | `videos` | 2x | ✅ Ada | video-video |
+| 510 | `view` | 2x | ✅ Ada | pemandangan / tontonan |
+| 511 | `wait` | 1x | ✅ Ada | tunggu |
+| 512 | `walk` | 1x | ✅ Ada | berjalan |
+| 513 | `walking` | 4x | ✅ Ada | berjalan |
+| 514 | `want` | 5x | ✅ Ada | mahu / nak |
+| 515 | `warm` | 1x | ✅ Ada | hangat / suam |
+| 516 | `was` | 7x | ✅ Ada | adalah / dulu berada |
+| 517 | `wash` | 2x | ✅ Ada | basuh / mencuci |
+| 518 | `watching` | 1x | ✅ Ada | sedang menonton |
+| 519 | `water` | 1x | ✅ Ada | air |
+| 520 | `watery` | 1x | ✅ Ada | berair |
+| 521 | `way` | 1x | ✅ Ada | jalan / cara |
+| 522 | `we` | 27x | ✅ Ada | kami / kita |
+| 523 | `we'll` | 4x | ✅ Ada | kami akan / kita akan (singkatan 'we will') |
+| 524 | `we're` | 9x | ✅ Ada | kami / kita sedang (singkatan 'we are') |
+| 525 | `wearing` | 2x | ✅ Ada | memakai |
+| 526 | `weekends` | 1x | ✅ Ada | hujung minggu |
+| 527 | `weeks` | 1x | ✅ Ada | minggu |
+| 528 | `well` | 1x | ✅ Ada | baiklah / elok / telaga |
+| 529 | `went` | 1x | ✅ Ada | telah pergi |
+| 530 | `were` | 2x | ✅ Ada | adalah / dulu berada |
+| 531 | `wet` | 1x | ✅ Ada | basah |
+| 532 | `what` | 22x | ✅ Ada | apa / apakah |
+| 533 | `what's` | 6x | ✅ Ada | apa / apakah (singkatan 'what is/has') |
+| 534 | `whatever` | 1x | ✅ Ada | apa pun |
+| 535 | `when` | 8x | ✅ Ada | bila / apabila |
+| 536 | `which` | 3x | ✅ Ada | yang mana |
+| 537 | `whipped` | 1x | ✅ Ada | disebat |
+| 538 | `whipping` | 1x | ✅ Ada | sebat |
+| 539 | `whisk` | 1x | ✅ Ada | pukul |
+| 540 | `whole` | 3x | ✅ Ada | seluruh / keseluruhan |
+| 541 | `why` | 2x | ✅ Ada | mengapa / kenapa |
+| 542 | `wild` | 1x | ✅ Ada | liar |
+| 543 | `window` | 2x | ✅ Ada | tingkap |
+| 544 | `with` | 10x | ✅ Ada | dengan / bersama |
+| 545 | `word` | 2x | ✅ Ada | perkataan |
+| 546 | `words` | 2x | ✅ Ada | perkataan-perkataan |
+| 547 | `work` | 1x | ✅ Ada | kerja / berfungsi |
+| 548 | `working` | 1x | ✅ Ada | sedang berfungsi / bekerja |
+| 549 | `would` | 2x | ✅ Ada | akan / sudi |
+| 550 | `wow` | 3x | ✅ Ada | wah |
+| 551 | `write` | 1x | ✅ Ada | menulis |
+| 552 | `yeah` | 6x | ✅ Ada | ya / betul |
+| 553 | `you` | 53x | ✅ Ada | awak / anda |
+| 554 | `you're` | 2x | ✅ Ada | anda / awak adalah (singkatan 'you are') |
+| 555 | `you've` | 1x | ✅ Ada | anda telah / awak dah (singkatan 'you have') |
+| 556 | `your` | 9x | ✅ Ada | awak punya / anda punya |
 
----
-
----
-
-### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 83 Frasa)
+### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 123 Frasa)
 Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam video ini yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*):
 
 | No | Frasa / Vocarb Ayat (English) | Kekerapan | Status Kamus | Maksud Konteks Frasa (Bahasa Melayu) |
 |:---:|:---|:---:|:---:|:---|
-| 1 | `anda boleh` | 15x | ✅ Ada (`phraseDictionary`) | anda boleh |
-| 2 | `kita ada` | 13x | ✅ Ada (`phraseDictionary`) | kita ada |
-| 3 | `di sini` | 11x | ✅ Ada (`phraseDictionary`) | di sini |
-| 4 | `ke dalam` | 11x | ✅ Ada (`phraseDictionary`) | ke dalam |
-| 5 | `saya akan` | 11x | ✅ Ada (`phraseDictionary`) | saya akan |
-| 6 | `boleh lihat` | 8x | ✅ Ada (`phraseDictionary`) | boleh lihat |
-| 7 | `ini ialah` | 7x | ✅ Ada (`phraseDictionary`) | ini ialah |
-| 8 | `kita akan` | 7x | ✅ Ada (`phraseDictionary`) | kita akan |
-| 9 | `tres leches` | 7x | ✅ Ada (`phraseDictionary`) | tres leches |
-| 10 | `yang saya` | 7x | ✅ Ada (`phraseDictionary`) | yang saya |
-| 11 | `jadi saya` | 6x | ✅ Ada (`phraseDictionary`) | jadi saya |
-| 12 | `sekarang saya` | 6x | ✅ Ada (`phraseDictionary`) | sekarang saya |
-| 13 | `apa yang` | 5x | ✅ Ada (`phraseDictionary`) | apa yang |
-| 14 | `benda ini` | 5x | ✅ Ada (`phraseDictionary`) | benda ini |
-| 15 | `dan saya` | 5x | ✅ Ada (`phraseDictionary`) | dan saya |
-| 16 | `jom kita` | 5x | ✅ Ada (`phraseDictionary`) | jom kita |
-| 17 | `kentang goreng` | 5x | ✅ Ada (`phraseDictionary`) | kentang goreng |
-| 18 | `mari kita` | 5x | ✅ Ada (`phraseDictionary`) | mari kita |
-| 19 | `sos barbeku` | 5x | ✅ Ada (`phraseDictionary`) | sos barbeku |
-| 20 | `yang anda` | 5x | ✅ Ada (`phraseDictionary`) | yang anda |
-| 21 | `apakah ini` | 4x | ✅ Ada (`phraseDictionary`) | adakah ini |
-| 22 | `beaten path` | 4x | ✅ Ada (`phraseDictionary`) | jalan dipukul |
-| 23 | `boleh nampak` | 4x | ✅ Ada (`phraseDictionary`) | boleh nampak |
-| 24 | `di dalam` | 4x | ✅ Ada (`phraseDictionary`) | di dalam |
-| 25 | `ini dipanggil` | 4x | ✅ Ada (`phraseDictionary`) | ini dipanggil |
-| 26 | `jika anda` | 4x | ✅ Ada (`phraseDictionary`) | jika anda |
-| 27 | `kami dah` | 4x | ✅ Ada (`phraseDictionary`) | kami dah |
-| 28 | `kek tres` | 4x | ✅ Ada (`phraseDictionary`) | kek tres |
-| 29 | `saya ada` | 4x | ✅ Ada (`phraseDictionary`) | saya ada |
-| 30 | `saya baru` | 4x | ✅ Ada (`phraseDictionary`) | saya baru |
-| 31 | `sekarang kita` | 4x | ✅ Ada (`phraseDictionary`) | sekarang kita |
-| 32 | `yang awak` | 4x | ✅ Ada (`phraseDictionary`) | yang awak |
-| 33 | `baru saja` | 3x | ✅ Ada (`phraseDictionary`) | baru saja |
-| 34 | `di luar` | 3x | ✅ Ada (`phraseDictionary`) | di luar |
-| 35 | `ke atas` | 3x | ✅ Ada (`phraseDictionary`) | ke atas |
-| 36 | `kemudian kita` | 3x | ✅ Ada (`phraseDictionary`) | kemudian kita |
-| 37 | `sangat cantik` | 3x | ✅ Ada (`phraseDictionary`) | sangat cantik |
-| 38 | `saya buat` | 3x | ✅ Ada (`phraseDictionary`) | saya buat |
-| 39 | `saya cuma` | 3x | ✅ Ada (`phraseDictionary`) | saya cuma |
-| 40 | `saya sedang` | 3x | ✅ Ada (`phraseDictionary`) | saya sedang |
-| 41 | `saya tak` | 3x | ✅ Ada (`phraseDictionary`) | saya tak |
-| 42 | `semula jadi` | 3x | ✅ Ada (`phraseDictionary`) | semula jadi |
-| 43 | `seperti yang` | 3x | ✅ Ada (`phraseDictionary`) | seperti yang |
-| 44 | `abang saya` | 2x | ✅ Ada (`phraseDictionary`) | abang saya |
-| 45 | `anak lembu` | 2x | ✅ Ada (`phraseDictionary`) | anak lembu |
-| 46 | `bahasa inggeris` | 2x | ✅ Ada (`phraseDictionary`) | bahasa inggeris |
-| 47 | `boleh kata` | 2x | ✅ Ada (`phraseDictionary`) | boleh kata |
-| 48 | `comprehensible input` | 2x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
-| 49 | `dalam tin` | 2x | ✅ Ada (`phraseDictionary`) | dalam tin |
-| 50 | `dan anda` | 2x | ✅ Ada (`phraseDictionary`) | dan anda |
-| 51 | `dan ini` | 2x | ✅ Ada (`phraseDictionary`) | dan ini |
-| 52 | `di bahagian` | 2x | ✅ Ada (`phraseDictionary`) | di bahagian |
-| 53 | `di sana` | 2x | ✅ Ada (`phraseDictionary`) | di sana |
-| 54 | `hari ini` | 2x | ✅ Ada (`phraseDictionary`) | hari ini |
-| 55 | `jadi kita` | 2x | ✅ Ada (`phraseDictionary`) | jadi kita |
-| 56 | `kapal terbang` | 2x | ✅ Ada (`phraseDictionary`) | kapal terbang |
-| 57 | `kegemaran saya` | 2x | ✅ Ada (`phraseDictionary`) | kegemaran saya |
-| 58 | `memang sangat` | 2x | ✅ Ada (`phraseDictionary`) | memang sangat |
-| 59 | `yang kita` | 2x | ✅ Ada (`phraseDictionary`) | yang kita |
-| 60 | `yang sangat` | 2x | ✅ Ada (`phraseDictionary`) | yang sangat |
-| 61 | `anda semua` | 1x | ✅ Ada (`phraseDictionary`) | anda semua |
-| 62 | `benda tu` | 1x | ✅ Ada (`phraseDictionary`) | benda tu |
-| 63 | `dan sekarang` | 1x | ✅ Ada (`phraseDictionary`) | dan sekarang |
-| 64 | `datang ke` | 1x | ✅ Ada (`phraseDictionary`) | datang ke |
-| 65 | `di atas` | 1x | ✅ Ada (`phraseDictionary`) | di atas |
-| 66 | `di kanada` | 1x | ✅ Ada (`phraseDictionary`) | di kanada |
-| 67 | `ini adalah` | 1x | ✅ Ada (`phraseDictionary`) | ini adalah |
-| 68 | `kalau anda` | 1x | ✅ Ada (`phraseDictionary`) | kalau anda |
-| 69 | `kami ada` | 1x | ✅ Ada (`phraseDictionary`) | kami ada |
-| 70 | `ke sini` | 1x | ✅ Ada (`phraseDictionary`) | ke sini |
-| 71 | `main course` | 1x | ✅ Ada (`phraseDictionary`) | hidangan utama |
-| 72 | `masuk ke` | 1x | ✅ Ada (`phraseDictionary`) | masuk ke |
-| 73 | `masukkan dalam` | 1x | ✅ Ada (`phraseDictionary`) | masukkan dalam |
-| 74 | `pergi ke` | 1x | ✅ Ada (`phraseDictionary`) | pergi ke |
-| 75 | `saya makan` | 1x | ✅ Ada (`phraseDictionary`) | saya makan |
-| 76 | `saya nak` | 1x | ✅ Ada (`phraseDictionary`) | saya nak |
-| 77 | `saya rasa` | 1x | ✅ Ada (`phraseDictionary`) | saya rasa |
-| 78 | `saya tengah` | 1x | ✅ Ada (`phraseDictionary`) | saya tengah |
-| 79 | `sebelah sini` | 1x | ✅ Ada (`phraseDictionary`) | sebelah sini |
-| 80 | `seperti ini` | 1x | ✅ Ada (`phraseDictionary`) | seperti ini |
-| 81 | `sesuatu yang` | 1x | ✅ Ada (`phraseDictionary`) | sesuatu yang |
-| 82 | `tengah hari` | 1x | ✅ Ada (`phraseDictionary`) | tengah hari |
-| 83 | `video ini` | 1x | ✅ Ada (`phraseDictionary`) | video ini |
+| 1 | `we have` | 13x | ✅ Ada (`phraseDictionary`) | kita ada |
+| 2 | `you can` | 11x | ✅ Ada (`phraseDictionary`) | awak boleh |
+| 3 | `can see` | 10x | ✅ Ada (`phraseDictionary`) | boleh nampak |
+| 4 | `i'm going` | 9x | ✅ Ada (`phraseDictionary`) | saya akan pergi |
+| 5 | `a little` | 7x | ✅ Ada (`phraseDictionary`) | agak / sedikit |
+| 6 | `a lot` | 7x | ✅ Ada (`phraseDictionary`) | banyak |
+| 7 | `look at` | 7x | ✅ Ada (`phraseDictionary`) | lihat / tengok |
+| 8 | `you could` | 7x | ✅ Ada (`phraseDictionary`) | anda boleh |
+| 9 | `little bit` | 6x | ✅ Ada (`phraseDictionary`) | sikit-sikit |
+| 10 | `we're going` | 6x | ✅ Ada (`phraseDictionary`) | kita akan pergi |
+| 11 | `a little bit` | 5x | ✅ Ada (`phraseDictionary`) | sedikit / sikit |
+| 12 | `a lot of` | 5x | ✅ Ada (`phraseDictionary`) | banyak / pelbagai |
+| 13 | `you guys` | 5x | ✅ Ada (`phraseDictionary`) | kamu semua |
+| 14 | `beaten path` | 4x | ✅ Ada (`phraseDictionary`) | jalan dipukul |
+| 15 | `make sure` | 4x | ✅ Ada (`phraseDictionary`) | pastikan |
+| 16 | `these are` | 4x | ✅ Ada (`phraseDictionary`) | ini adalah |
+| 17 | `what are` | 4x | ✅ Ada (`phraseDictionary`) | apa yang |
+| 18 | `what does` | 4x | ✅ Ada (`phraseDictionary`) | apa yang dilakukan |
+| 19 | `are you` | 3x | ✅ Ada (`phraseDictionary`) | adakah awak |
+| 20 | `but it's` | 3x | ✅ Ada (`phraseDictionary`) | tetapi ia adalah |
+| 21 | `have some` | 3x | ✅ Ada (`phraseDictionary`) | mempunyai beberapa |
+| 22 | `my clothes` | 3x | ✅ Ada (`phraseDictionary`) | pakaian saya |
+| 23 | `really like` | 3x | ✅ Ada (`phraseDictionary`) | sangat suka |
+| 24 | `then we` | 3x | ✅ Ada (`phraseDictionary`) | kemudian kita |
+| 25 | `you got` | 3x | ✅ Ada (`phraseDictionary`) | awak dapat |
+| 26 | `as you can see` | 2x | ✅ Ada (`phraseDictionary`) | seperti yang anda dapat lihat |
+| 27 | `can make` | 2x | ✅ Ada (`phraseDictionary`) | boleh buat |
+| 28 | `check out` | 2x | ✅ Ada (`phraseDictionary`) | daftar keluar |
+| 29 | `comprehensible input` | 2x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
+| 30 | `go check` | 2x | ✅ Ada (`phraseDictionary`) | pergi semak |
+| 31 | `i don't` | 2x | ✅ Ada (`phraseDictionary`) | saya tidak |
+| 32 | `i guess` | 2x | ✅ Ada (`phraseDictionary`) | saya rasa |
+| 33 | `i really` | 2x | ✅ Ada (`phraseDictionary`) | saya betul-betul |
+| 34 | `it's not` | 2x | ✅ Ada (`phraseDictionary`) | ia tidak |
+| 35 | `it's pretty` | 2x | ✅ Ada (`phraseDictionary`) | memang cantik |
+| 36 | `kind of` | 2x | ✅ Ada (`phraseDictionary`) | agak / macam |
+| 37 | `let's get` | 2x | ✅ Ada (`phraseDictionary`) | jom dapatkan |
+| 38 | `let's go` | 2x | ✅ Ada (`phraseDictionary`) | jom pergi / mari kita pergi |
+| 39 | `my brother` | 2x | ✅ Ada (`phraseDictionary`) | abang saya |
+| 40 | `my favorite` | 2x | ✅ Ada (`phraseDictionary`) | kegemaran saya |
+| 41 | `my laundry` | 2x | ✅ Ada (`phraseDictionary`) | cucian saya |
+| 42 | `not going` | 2x | ✅ Ada (`phraseDictionary`) | tidak pergi |
+| 43 | `now i'm` | 2x | ✅ Ada (`phraseDictionary`) | sekarang saya |
+| 44 | `so we're` | 2x | ✅ Ada (`phraseDictionary`) | jadi kita |
+| 45 | `them all` | 2x | ✅ Ada (`phraseDictionary`) | mereka semua |
+| 46 | `what do` | 2x | ✅ Ada (`phraseDictionary`) | buat apa |
+| 47 | `when it's` | 2x | ✅ Ada (`phraseDictionary`) | apabila sudah |
+| 48 | `when you` | 2x | ✅ Ada (`phraseDictionary`) | apabila anda |
+| 49 | `when you're` | 2x | ✅ Ada (`phraseDictionary`) | apabila anda |
+| 50 | `you just` | 2x | ✅ Ada (`phraseDictionary`) | awak cuma |
+| 51 | `you see` | 2x | ✅ Ada (`phraseDictionary`) | awak nampak |
+| 52 | `all right` | 1x | ✅ Ada (`phraseDictionary`) | baiklah / okey |
+| 53 | `asked me` | 1x | ✅ Ada (`phraseDictionary`) | tanya saya |
+| 54 | `because it's` | 1x | ✅ Ada (`phraseDictionary`) | kerana ia adalah |
+| 55 | `but you` | 1x | ✅ Ada (`phraseDictionary`) | tapi awak |
+| 56 | `common english` | 1x | ✅ Ada (`phraseDictionary`) | bahasa inggeris biasa |
+| 57 | `did you` | 1x | ✅ Ada (`phraseDictionary`) | adakah awak |
+| 58 | `didn't want` | 1x | ✅ Ada (`phraseDictionary`) | tidak mahu |
+| 59 | `different types` | 1x | ✅ Ada (`phraseDictionary`) | jenis yang berbeza |
+| 60 | `don't know` | 1x | ✅ Ada (`phraseDictionary`) | tidak tahu |
+| 61 | `don't really` | 1x | ✅ Ada (`phraseDictionary`) | jangan sangat |
+| 62 | `don't want` | 1x | ✅ Ada (`phraseDictionary`) | tidak mahu |
+| 63 | `don't you` | 1x | ✅ Ada (`phraseDictionary`) | jangan awak |
+| 64 | `english words` | 1x | ✅ Ada (`phraseDictionary`) | perkataan bahasa inggeris |
+| 65 | `he asked` | 1x | ✅ Ada (`phraseDictionary`) | dia bertanya |
+| 66 | `he's like` | 1x | ✅ Ada (`phraseDictionary`) | dia macam |
+| 67 | `here they` | 1x | ✅ Ada (`phraseDictionary`) | di sini mereka |
+| 68 | `here we` | 1x | ✅ Ada (`phraseDictionary`) | di sini kita |
+| 69 | `here we have` | 1x | ✅ Ada (`phraseDictionary`) | di sini kami ada / terdapat |
+| 70 | `here you` | 1x | ✅ Ada (`phraseDictionary`) | sini awak |
+| 71 | `i could` | 1x | ✅ Ada (`phraseDictionary`) | saya boleh |
+| 72 | `i didn't` | 1x | ✅ Ada (`phraseDictionary`) | saya tidak |
+| 73 | `i'll be` | 1x | ✅ Ada (`phraseDictionary`) | saya akan |
+| 74 | `it's like` | 1x | ✅ Ada (`phraseDictionary`) | ia seperti |
+| 75 | `it's nice` | 1x | ✅ Ada (`phraseDictionary`) | memang bagus |
+| 76 | `it's really` | 1x | ✅ Ada (`phraseDictionary`) | ia benar-benar |
+| 77 | `it's very` | 1x | ✅ Ada (`phraseDictionary`) | ia sangat |
+| 78 | `just have` | 1x | ✅ Ada (`phraseDictionary`) | hanya mempunyai |
+| 79 | `just like` | 1x | ✅ Ada (`phraseDictionary`) | sama seperti |
+| 80 | `know if` | 1x | ✅ Ada (`phraseDictionary`) | tahu jika |
+| 81 | `let me know` | 1x | ✅ Ada (`phraseDictionary`) | beritahu saya |
+| 82 | `let's get started` | 1x | ✅ Ada (`phraseDictionary`) | jom kita mulakan |
+| 83 | `like really` | 1x | ✅ Ada (`phraseDictionary`) | macam betul-betul |
+| 84 | `like there` | 1x | ✅ Ada (`phraseDictionary`) | seperti di sana |
+| 85 | `looks like` | 1x | ✅ Ada (`phraseDictionary`) | nampak macam |
+| 86 | `main course` | 1x | ✅ Ada (`phraseDictionary`) | hidangan utama |
+| 87 | `me know` | 1x | ✅ Ada (`phraseDictionary`) | saya tahu |
+| 88 | `most common` | 1x | ✅ Ada (`phraseDictionary`) | paling biasa |
+| 89 | `now we're` | 1x | ✅ Ada (`phraseDictionary`) | sekarang kita |
+| 90 | `oh yeah` | 1x | ✅ Ada (`phraseDictionary`) | oh ya |
+| 91 | `or something` | 1x | ✅ Ada (`phraseDictionary`) | atau sesuatu |
+| 92 | `out of` | 1x | ✅ Ada (`phraseDictionary`) | keluar dari / kehabisan |
+| 93 | `really good` | 1x | ✅ Ada (`phraseDictionary`) | sangat bagus |
+| 94 | `really nice` | 1x | ✅ Ada (`phraseDictionary`) | sangat bagus |
+| 95 | `really want` | 1x | ✅ Ada (`phraseDictionary`) | teringin sangat |
+| 96 | `right now` | 1x | ✅ Ada (`phraseDictionary`) | sekarang juga |
+| 97 | `right there` | 1x | ✅ Ada (`phraseDictionary`) | di sana |
+| 98 | `see them` | 1x | ✅ Ada (`phraseDictionary`) | melihat mereka |
+| 99 | `see what` | 1x | ✅ Ada (`phraseDictionary`) | tengok apa |
+| 100 | `slang word` | 1x | ✅ Ada (`phraseDictionary`) | perkataan slanga |
+| 101 | `so good` | 1x | ✅ Ada (`phraseDictionary`) | sangat baik |
+| 102 | `there are` | 1x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 103 | `there he is` | 1x | ✅ Ada (`phraseDictionary`) | di situlah dia / di sana dia |
+| 104 | `there is` | 1x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 105 | `there's like` | 1x | ✅ Ada (`phraseDictionary`) | ada seperti |
+| 106 | `there's no` | 1x | ✅ Ada (`phraseDictionary`) | tidak ada |
+| 107 | `they are` | 1x | ✅ Ada (`phraseDictionary`) | mereka adalah |
+| 108 | `they were` | 1x | ✅ Ada (`phraseDictionary`) | mereka |
+| 109 | `those are` | 1x | ✅ Ada (`phraseDictionary`) | itu adalah |
+| 110 | `up there` | 1x | ✅ Ada (`phraseDictionary`) | di atas sana |
+| 111 | `used to` | 1x | ✅ Ada (`phraseDictionary`) | pernah / dahulu |
+| 112 | `wash the dishes` | 1x | ✅ Ada (`phraseDictionary`) | basuh pinggan mangkuk |
+| 113 | `we also` | 1x | ✅ Ada (`phraseDictionary`) | kami juga |
+| 114 | `we just` | 1x | ✅ Ada (`phraseDictionary`) | kita cuma |
+| 115 | `we need` | 1x | ✅ Ada (`phraseDictionary`) | kita perlukan |
+| 116 | `what you` | 1x | ✅ Ada (`phraseDictionary`) | apa awak |
+| 117 | `would be` | 1x | ✅ Ada (`phraseDictionary`) | akan menjadi |
+| 118 | `would you` | 1x | ✅ Ada (`phraseDictionary`) | adakah anda |
+| 119 | `you can't` | 1x | ✅ Ada (`phraseDictionary`) | anda tidak boleh |
+| 120 | `you feel` | 1x | ✅ Ada (`phraseDictionary`) | awak rasa |
+| 121 | `you know` | 1x | ✅ Ada (`phraseDictionary`) | awak tahu / seperti yang anda tahu |
+| 122 | `you say` | 1x | ✅ Ada (`phraseDictionary`) | awak cakap |
+| 123 | `you want` | 1x | ✅ Ada (`phraseDictionary`) | awak nak |
 
 ---
-
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word
 
 | No | Masa | Ayat Bahasa Inggeris (Target Text) | Terjemahan Ayat (BM) | Kosa Kata / Word by Word (English → BM) |
 |:---:|:---:|:---|:---|:---|
-| 1 | 00:00 - 00:02 | Hari ini kita belajar Bahasa Inggeris kehidupan sebenar sambil dikelilingi alam semula jadi, | Today we're learning real life English surrounded by nature, | hari: [ ] • ini: [ ] • kita: [ ] • belajar: [ ] • bahasa: [ ] • inggeris: [ ] • kehidupan: [ ] • sebenar: [ ] • sambil: [ ] • dikelilingi: [ ] • alam: [ ] • semula: [ ] • jadi: [ ] |
-| 2 | 00:06 - 00:08 | memasak di dapur, dan berbual dengan abang saya. Semuanya melalui kaedah 'comprehensible | cooking in the kitchen, and talking with my brother. All through comprehensible | memasak: [ ] • di: [ ] • dapur: [ ] • dan: [ ] • berbual: [ ] • dengan: [ ] • abang: [ ] • saya: [ ] • semuanya: [ ] • melalui: [ ] • kaedah: [ ] • comprehensible: [ ] |
-| 3 | 00:13 - 00:15 | input'. Jom kita mulakan. Apakah ini? Garisan apa di langit yang ditinggalkan oleh | input. Let's get started. What's this? What's that line in the sky that the | input: [ ] • jom: [ ] • kita: [ ] • mulakan: [ ] • apakah: [ ] • ini: [ ] • garisan: [ ] • apa: [ ] • di: [ ] • langit: [ ] • yang: [ ] • ditinggalkan: [ ] • oleh: [ ] |
-| 4 | 00:18 - 00:20 | kapal terbang bila ia melintas tadi? Garisan lurus tu? Ya, itu ialah jejak wap | plane left behind when it passed? That straight line? Yeah, that is a vapor | kapal: [ ] • terbang: [ ] • bila: [ ] • ia: [ ] • melintas: [ ] • tadi: [ ] • garisan: [ ] • lurus: [ ] • tu: [ ] • ya: [ ] • itu: [ ] • ialah: [ ] • jejak: [ ] • wap: [ ] |
-| 5 | 00:24 - 00:26 | ('vapor trail'). Saya tak pasti kalau anda nampak kapal terbang itu, tapi itu dia sedang terbang. Pukul 9:14 | trail. I don't know if you can see the plane, but there it goes. Wow. It's 9:14 | vapor: [ ] • trail: [ ] • saya: [ ] • tak: [ ] • pasti: [ ] • kalau: [ ] • anda: [ ] • nampak: [ ] • kapal: [ ] • terbang: [ ] • itu: [ ] • tapi: [ ] • dia: [ ] • sedang: [ ] • pukul: [ ] |
-| 6 | 00:30 - 00:32 | pagi. Dan lihatlah pemandangan indah yang kita ada di sini. Dan kami dah sarungkan | a.m. And look at this like beautiful view we have here. And we got our we got | pagi: [ ] • dan: [ ] • lihatlah: [ ] • pemandangan: [ ] • indah: [ ] • yang: [ ] • kita: [ ] • ada: [ ] • di: [ ] • sini: [ ] • kami: [ ] • dah: [ ] • sarungkan: [ ] |
-| 7 | 00:37 - 00:39 | but getah kami. Anda boleh lihat, but saya warna hitam. Di sini kita ada sebatang ranting. | our rubber boots on. You can see it. Mine are black. Here we have a stick. | but: [ ] • getah: [ ] • kami: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • saya: [ ] • warna: [ ] • hitam: [ ] • di: [ ] • sini: [ ] • kita: [ ] • ada: [ ] • sebatang: [ ] • ranting: [ ] |
-| 8 | 00:41 - 00:43 | Ini cuma ranting kayu kecil. Agak pendek, tidak panjang. Pokok ini dah mati. | This is just a small stick. It's pretty short. It's not long. This tree is dead. | ini: [ ] • cuma: [ ] • ranting: [ ] • kayu: [ ] • kecil: [ ] • agak: [ ] • pendek: [ ] • tidak: [ ] • panjang: [ ] • pokok: [ ] • dah: [ ] • mati: [ ] |
-| 9 | 00:46 - 00:47 | Anda boleh lihat tiada daun dan tiada hidupan padanya. Tetapi sangat | You can see there's like there's no leaves and no life on it. But it's | anda: [ ] • boleh: [ ] • lihat: [ ] • tiada: [ ] • daun: [ ] • dan: [ ] • hidupan: [ ] • padanya: [ ] • tetapi: [ ] • sangat: [ ] |
-| 10 | 00:49 - 00:51 | menyeronokkan dapat kembali kepada alam semula jadi sekali-sekala sebab bila anda selalu bekerja | really nice to get back to nature sometimes cuz when you're always working | menyeronokkan: [ ] • dapat: [ ] • kembali: [ ] • kepada: [ ] • alam: [ ] • semula: [ ] • jadi: [ ] • sekali: [ ] • sekala: [ ] • sebab: [ ] • bila: [ ] • anda: [ ] • selalu: [ ] • bekerja: [ ] |
-| 11 | 00:53 - 00:55 | di dalam rumah, anda sukar menghargai keindahan alam. Jadi saya suka | in your house, you can't really appreciate mother nature. So, I like to | di: [ ] • dalam: [ ] • rumah: [ ] • anda: [ ] • sukar: [ ] • menghargai: [ ] • keindahan: [ ] • alam: [ ] • jadi: [ ] • saya: [ ] • suka: [ ] |
-| 12 | 00:57 - 00:59 | kembali menghayati alam pada hujung minggu. Mungkin pergi mendaki atau berjalan-jalan | get back to nature like on weekends. Maybe I go for a hike or go walk around | kembali: [ ] • menghayati: [ ] • alam: [ ] • pada: [ ] • hujung: [ ] • minggu: [ ] • mungkin: [ ] • pergi: [ ] • mendaki: [ ] • atau: [ ] • berjalan: [ ] • jalan: [ ] |
-| 13 | 01:02 - 01:04 | di kawasan pergunungan. Ingat kawan-kawan, saya sedang mengajar anda 3,000 perkataan | the mountain or something. Remember guys, I am teaching you the 3,000 most | di: [ ] • kawasan: [ ] • pergunungan: [ ] • ingat: [ ] • kawan: [ ] • saya: [ ] • sedang: [ ] • mengajar: [ ] • anda: [ ] • perkataan: [ ] |
-| 14 | 01:07 - 01:09 | Bahasa Inggeris paling lazim. Jadi pastikan anda tonton senarai main ini selepas ini. Anda mungkin | common English words. So, make sure to check out this playlist next. You may | bahasa: [ ] • inggeris: [ ] • paling: [ ] • lazim: [ ] • jadi: [ ] • pastikan: [ ] • anda: [ ] • tonton: [ ] • senarai: [ ] • main: [ ] • ini: [ ] • selepas: [ ] • mungkin: [ ] |
-| 15 | 01:12 - 01:13 | sedang berjalan melintasi pokok ini tanpa perasan apa-apa, tapi jika | you may be you may be walking by walking by this tree and not even notice, but if | sedang: [ ] • berjalan: [ ] • melintasi: [ ] • pokok: [ ] • ini: [ ] • tanpa: [ ] • perasan: [ ] • apa: [ ] • tapi: [ ] • jika: [ ] |
-| 16 | 01:16 - 01:18 | anda terpijak benda ini, tengoklah ini. Ini ialah sebatang duri tajam. | you step on this, like look at this. This is a thorn. | anda: [ ] • terpijak: [ ] • benda: [ ] • ini: [ ] • tengoklah: [ ] • ialah: [ ] • sebatang: [ ] • duri: [ ] • tajam: [ ] |
-| 17 | 01:20 - 01:22 | Dan jika duri ini jatuh ke tanah dan anda terpijak di atasnya, tengoklah | And if it's like if the thorn falls on the ground and you step on it, look at | dan: [ ] • jika: [ ] • duri: [ ] • ini: [ ] • jatuh: [ ] • ke: [ ] • tanah: [ ] • anda: [ ] • terpijak: [ ] • di: [ ] • atasnya: [ ] • tengoklah: [ ] |
-| 18 | 01:25 - 01:27 | ini. Duri ini boleh tembus ke seluruh bahagian tapak but anda | this. that could go through your whole boot | ini: [ ] • duri: [ ] • boleh: [ ] • tembus: [ ] • ke: [ ] • seluruh: [ ] • bahagian: [ ] • tapak: [ ] • but: [ ] • anda: [ ] |
-| 19 | 01:29 - 01:31 | dengan mudah sekali. Ya. Saya ingat lagi dulu saya berjalan pakai selipar jepun | pretty much. Yeah. I remember I was walking with my flipflops | dengan: [ ] • mudah: [ ] • sekali: [ ] • ya: [ ] • saya: [ ] • ingat: [ ] • lagi: [ ] • dulu: [ ] • berjalan: [ ] • pakai: [ ] • selipar: [ ] • jepun: [ ] |
-| 20 | 01:34 - 01:36 | menuju ke jalan utama dan selipar saya tercabut. Langkah pertama yang saya ambil, | going up towards the main road and my slide fell off. The first step I took, I | menuju: [ ] • ke: [ ] • jalan: [ ] • utama: [ ] • dan: [ ] • selipar: [ ] • saya: [ ] • tercabut: [ ] • langkah: [ ] • pertama: [ ] • yang: [ ] • ambil: [ ] |
-| 21 | 01:40 - 01:41 | saya terpijak salah satu duri ini daripada semak berduri, dan ia tembus | stepped into one of those thorns, one of these storm bushes, and it went through | saya: [ ] • terpijak: [ ] • salah: [ ] • satu: [ ] • duri: [ ] • ini: [ ] • daripada: [ ] • semak: [ ] • berduri: [ ] • dan: [ ] • ia: [ ] • tembus: [ ] |
-| 22 | 01:43 - 01:45 | sandal awak ke? Bukan, sandal saya tercabut masa tu. Jadi saya tengah berjalan, ia tercabut, dan kemudian | your sandal. No, my sandal fell off. So, I was walking, it fell off, and then the | sandal: [ ] • awak: [ ] • ke: [ ] • bukan: [ ] • saya: [ ] • tercabut: [ ] • masa: [ ] • tu: [ ] • jadi: [ ] • tengah: [ ] • berjalan: [ ] • ia: [ ] • dan: [ ] • kemudian: [ ] |
-| 23 | 01:48 - 01:50 | langkah pertama yang saya ambil sebaik saja ia tercabut adalah tepat | second step I took after it fell or the first step I took after it fell off was | langkah: [ ] • pertama: [ ] • yang: [ ] • saya: [ ] • ambil: [ ] • sebaik: [ ] • saja: [ ] • ia: [ ] • tercabut: [ ] • adalah: [ ] • tepat: [ ] |
-| 24 | 01:53 - 01:55 | ke atas salah satu duri tajam itu. Bila kejadian ini berlaku? Kira-kira dua minggu lepas. Apakah | into one of those needles. When was this? Uh, two weeks ago maybe. What's | ke: [ ] • atas: [ ] • salah: [ ] • satu: [ ] • duri: [ ] • tajam: [ ] • itu: [ ] • bila: [ ] • kejadian: [ ] • ini: [ ] • berlaku: [ ] • kira: [ ] • dua: [ ] • minggu: [ ] • lepas: [ ] • apakah: [ ] |
-| 25 | 01:58 - 02:00 | salah satu ungkapan kegemaran awak yang berkaitan dengan mendaki di alam semula jadi? Seperti perkataan | one of your favorite things to say related to like hiking in nature? Like a | salah: [ ] • satu: [ ] • ungkapan: [ ] • kegemaran: [ ] • awak: [ ] • yang: [ ] • berkaitan: [ ] • dengan: [ ] • mendaki: [ ] • di: [ ] • alam: [ ] • semula: [ ] • jadi: [ ] • seperti: [ ] • perkataan: [ ] |
-| 26 | 02:03 - 02:05 | slanga untuk ajar mereka? Perkara pertama yang terlintas di fikiran ialah 'take a | slang word to teach them? The first thing that comes to mind would be take a | slanga: [ ] • untuk: [ ] • ajar: [ ] • mereka: [ ] • perkara: [ ] • pertama: [ ] • yang: [ ] • terlintas: [ ] • di: [ ] • fikiran: [ ] • ialah: [ ] • take: [ ] • a: [ ] |
-| 27 | 02:07 - 02:09 | hike'. Contohnya jika abang saya menjengkelkan saya atau dia suruh saya buat | hike. If say for example my brother is annoying me or he asked me to do | hike: [ ] • contohnya: [ ] • jika: [ ] • abang: [ ] • saya: [ ] • menjengkelkan: [ ] • atau: [ ] • dia: [ ] • suruh: [ ] • buat: [ ] |
-| 28 | 02:13 - 02:14 | perkara tak munasabah seperti basuh pinggan selepas saya masak, saya akan beritahu dia | something unreasonable like wash the dishes after I cooked, I'll tell him to | perkara: [ ] • tak: [ ] • munasabah: [ ] • seperti: [ ] • basuh: [ ] • pinggan: [ ] • selepas: [ ] • saya: [ ] • masak: [ ] • akan: [ ] • beritahu: [ ] • dia: [ ] |
-| 29 | 02:17 - 02:19 | 'take a hike'. Dan apa maksudnya? Apa maksud 'take a hike'? Ia | take a hike. And what does that mean? What does it mean to take a hike? It | take: [ ] • a: [ ] • hike: [ ] • dan: [ ] • apa: [ ] • maksudnya: [ ] • maksud: [ ] • ia: [ ] |
-| 30 | 02:20 - 02:22 | bermaksud 'pergi berambus', 'nyah dari sini' atau suruh pergi tetapi dengan cara yang agak | means get lost, get out of here or it just means like go away but in a rude | bermaksud: [ ] • pergi: [ ] • berambus: [ ] • nyah: [ ] • dari: [ ] • sini: [ ] • atau: [ ] • suruh: [ ] • tetapi: [ ] • dengan: [ ] • cara: [ ] • yang: [ ] • agak: [ ] |
-| 31 | 02:25 - 02:27 | kasar. Tetapi secara harfiah, 'take a hike' bermaksud pergi mendaki. Apa maksud 'off the beaten | way. But literally take a hike means like go hiking. What does off the beaten | kasar: [ ] • tetapi: [ ] • secara: [ ] • harfiah: [ ] • take: [ ] • a: [ ] • hike: [ ] • bermaksud: [ ] • pergi: [ ] • mendaki: [ ] • apa: [ ] • maksud: [ ] • off: [ ] • the: [ ] • beaten: [ ] |
-| 32 | 02:31 - 02:33 | path'? Di sini anda boleh lihat ini. Ini ialah denai/laluan. Ini | path mean? So here you can see this. This is a path. This | path: [ ] • di: [ ] • sini: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • ini: [ ] • ialah: [ ] • denai: [ ] • laluan: [ ] |
-| 33 | 02:36 - 02:38 | laluan kecil. Apa maksud 'off the beaten path'? 'Off the beaten path' | is a small path. What does off the beaten path mean? So off the beaten path | laluan: [ ] • kecil: [ ] • apa: [ ] • maksud: [ ] • off: [ ] • the: [ ] • beaten: [ ] • path: [ ] |
-| 34 | 02:42 - 02:43 | bermaksud berbanding mengambil laluan biasa yang dilalui semua orang, anda mengambil | means instead of taking the route that everyone else took, taking an | bermaksud: [ ] • berbanding: [ ] • mengambil: [ ] • laluan: [ ] • biasa: [ ] • yang: [ ] • dilalui: [ ] • semua: [ ] • orang: [ ] • anda: [ ] |
-| 35 | 02:46 - 02:48 | laluan luar kebiasaan dan melakukan sesuatu dengan cara berbeza. 'Off the beaten path' bermaksud | unconventional path and doing things differently. Off the beaten path means | laluan: [ ] • luar: [ ] • kebiasaan: [ ] • dan: [ ] • melakukan: [ ] • sesuatu: [ ] • dengan: [ ] • cara: [ ] • berbeza: [ ] • off: [ ] • the: [ ] • beaten: [ ] • path: [ ] • bermaksud: [ ] |
-| 36 | 02:52 - 02:53 | pergi ke tempat yang kurang dikenali atau kurang popular. Bila sesuatu itu sangat cantik, anda | go somewhere less known or less popular. When something is very beautiful, you | pergi: [ ] • ke: [ ] • tempat: [ ] • yang: [ ] • kurang: [ ] • dikenali: [ ] • atau: [ ] • popular: [ ] • bila: [ ] • sesuatu: [ ] • itu: [ ] • sangat: [ ] • cantik: [ ] • anda: [ ] |
-| 37 | 02:56 - 02:58 | boleh katakan 'picture perfect'. Pemandangan ini sangat sempurna macam gambar lukisan. Jika anda lihat sesuatu | could say picture perfect. This view is picture perfect. So if you see something | boleh: [ ] • katakan: [ ] • picture: [ ] • perfect: [ ] • pemandangan: [ ] • ini: [ ] • sangat: [ ] • sempurna: [ ] • macam: [ ] • gambar: [ ] • lukisan: [ ] • jika: [ ] • anda: [ ] • lihat: [ ] • sesuatu: [ ] |
-| 38 | 03:03 - 03:04 | yang teramat indah, anda boleh sebut, \"Wah, 'picture perfect' sungguh. Sangat | very beautiful, you could say, \"Wow, that's picture perfect. That's | yang: [ ] • teramat: [ ] • indah: [ ] • anda: [ ] • boleh: [ ] • sebut: [ ] • wah: [ ] • picture: [ ] • perfect: [ ] • sungguh: [ ] • sangat: [ ] |
-| 39 | 03:07 - 03:09 | cantik bagaikan lukisan.\" Lembu ini sedang berbaring di atas jalan. | beautiful. It's beautiful like a picture. This cow is laying on the road. | cantik: [ ] • bagaikan: [ ] • lukisan: [ ] • lembu: [ ] • ini: [ ] • sedang: [ ] • berbaring: [ ] • di: [ ] • atas: [ ] • jalan: [ ] |
-| 40 | 03:12 - 03:14 | Sama juga dengan anak-anak lembu ini. Dan anak-anak lembu ini sedang berdiri. | And same with these calves. And these calves are standing. | sama: [ ] • juga: [ ] • dengan: [ ] • anak: [ ] • lembu: [ ] • ini: [ ] • dan: [ ] • sedang: [ ] • berdiri: [ ] |
-| 41 | 03:16 - 03:18 | Apa khabar kamu semua? Sekarang saya akan memanjat pagar ini. | How you How you doing, boys? So, now I'm going to climb over this fence. | apa: [ ] • khabar: [ ] • kamu: [ ] • semua: [ ] • sekarang: [ ] • saya: [ ] • akan: [ ] • memanjat: [ ] • pagar: [ ] • ini: [ ] |
-| 42 | 03:23 - 03:25 | Saya baru saja panjat pagar itu. Kacang saja. | So, I just climbed over that fence. Light work. | saya: [ ] • baru: [ ] • saja: [ ] • panjat: [ ] • pagar: [ ] • itu: [ ] • kacang: [ ] |
-| 43 | 03:29 - 03:30 | Hampir tersadung kaki saya tadi. Apa khabar kawan? | I almost tripped there. How you doing, boy? | hampir: [ ] • tersadung: [ ] • kaki: [ ] • saya: [ ] • tadi: [ ] • apa: [ ] • khabar: [ ] • kawan: [ ] |
-| 44 | 03:34 - 03:36 | Ini nampak macam lembu tenusu. Saya teringin sangat nak buat kek 'tres leches' atau | This looks like a milking cow, though. I really want to make a tres leches or | ini: [ ] • nampak: [ ] • macam: [ ] • lembu: [ ] • tenusu: [ ] • saya: [ ] • teringin: [ ] • sangat: [ ] • nak: [ ] • buat: [ ] • kek: [ ] • tres: [ ] • leches: [ ] • atau: [ ] |
-| 45 | 03:39 - 03:41 | 'tiga susu'. Ia sejenis pencuci mulut yang sangat popular dan lazat. | three milks. It's a really popular really popular dessert that's delicious. | tiga: [ ] • susu: [ ] • ia: [ ] • sejenis: [ ] • pencuci: [ ] • mulut: [ ] • yang: [ ] • sangat: [ ] • popular: [ ] • dan: [ ] • lazat: [ ] |
-| 46 | 03:45 - 03:46 | Saya pernah buat sekali dulu sedap sungguh, dan memandangkan sekarang abad ke-21, saya akan | I've made it one time bust and you know because it's 21st century I'm going to | saya: [ ] • pernah: [ ] • buat: [ ] • sekali: [ ] • dulu: [ ] • sedap: [ ] • sungguh: [ ] • dan: [ ] • memandangkan: [ ] • sekarang: [ ] • abad: [ ] • ke: [ ] • akan: [ ] |
-| 47 | 03:50 - 03:52 | minta ChatGPT berikan resipi bagaimana nak buat kek tres leches atau tiga susu, ya | ask Chachi Bi for a recipe on how I can make tres leches or three milks and yeah | minta: [ ] • chatgpt: [ ] • berikan: [ ] • resipi: [ ] • bagaimana: [ ] • nak: [ ] • buat: [ ] • kek: [ ] • tres: [ ] • leches: [ ] • atau: [ ] • tiga: [ ] • susu: [ ] • ya: [ ] |
-| 48 | 03:57 - 03:59 | sebab berbanding cari di Google, ChatGPT boleh berikan resipi dan saya | cuz instead of searching for a recipe on Google Chachi can give me a recipe and I | sebab: [ ] • berbanding: [ ] • cari: [ ] • di: [ ] • google: [ ] • chatgpt: [ ] • boleh: [ ] • berikan: [ ] • resipi: [ ] • dan: [ ] • saya: [ ] |
-| 49 | 04:03 - 04:05 | boleh maklumkan bahan apa yang saya ada dan ia boleh sesuaikan | could say oh I only have this ingredient instead of this and it could make the | boleh: [ ] • maklumkan: [ ] • bahan: [ ] • apa: [ ] • yang: [ ] • saya: [ ] • ada: [ ] • dan: [ ] • ia: [ ] • sesuaikan: [ ] |
-| 50 | 04:07 - 04:09 | resipi khas untuk saya. Saya suka ChatGPT. Sekarang jom ambil bahan-bahannya. | recipe tailored just for me. So I like chachi tea. Okay so now let's grab the | resipi: [ ] • khas: [ ] • untuk: [ ] • saya: [ ] • suka: [ ] • chatgpt: [ ] • sekarang: [ ] • jom: [ ] • ambil: [ ] • bahan: [ ] • bahannya: [ ] |
-| 51 | 04:12 - 04:14 | Baiklah kawan-kawan. Kami dah dapatkan telur, sebungkus telur, dan beberapa barang | ingredients. Okay, guys. So, we got eggs, a bag of eggs, and some other | baiklah: [ ] • kawan: [ ] • kami: [ ] • dah: [ ] • dapatkan: [ ] • telur: [ ] • sebungkus: [ ] • dan: [ ] • beberapa: [ ] • barang: [ ] |
-| 52 | 04:17 - 04:19 | lain. Sekarang kita boleh sambung buat pencuci mulut kek tres leches. Jom kita | things. So, now we can continue making the dessert. T leches. So, let's get | lain: [ ] • sekarang: [ ] • kita: [ ] • boleh: [ ] • sambung: [ ] • buat: [ ] • pencuci: [ ] • mulut: [ ] • kek: [ ] • tres: [ ] • leches: [ ] • jom: [ ] |
-| 53 | 04:23 - 04:25 | mulakan. Kita ada mangkuk perak ini sekali lagi. | that going. So, we have the silver bowl again. | mulakan: [ ] • kita: [ ] • ada: [ ] • mangkuk: [ ] • perak: [ ] • ini: [ ] • sekali: [ ] • lagi: [ ] |
-| 54 | 04:27 - 04:29 | Perkara pertama, empat biji telur. Baiklah, kita akan pecahkan | First things first, four eggs. Okay, so we're going to crack | perkara: [ ] • pertama: [ ] • empat: [ ] • biji: [ ] • telur: [ ] • baiklah: [ ] • kita: [ ] • akan: [ ] • pecahkan: [ ] |
-| 55 | 04:32 - 04:34 | empat biji telur. Pecahkan telur ('crack an egg'). | four eggs. Crack. This is cracking an egg. | empat: [ ] • biji: [ ] • telur: [ ] • pecahkan: [ ] • crack: [ ] • an: [ ] • egg: [ ] |
-| 56 | 04:40 - 04:42 | Ini ialah pemutar ('whisk') dan saya akan pasangkannya pada bahagian pemutar hitam ini | So, this this is a whisk and I'm going to attach it to this this black piece | ini: [ ] • ialah: [ ] • pemutar: [ ] • whisk: [ ] • dan: [ ] • saya: [ ] • akan: [ ] • pasangkannya: [ ] • pada: [ ] • bahagian: [ ] • hitam: [ ] |
-| 57 | 04:46 - 04:48 | yang sudah dipasang suis. Empat biji telur sudah dipecahkan. Jom kita putar pukul telur ini sekarang. | plugged in. And now these four eggs I cracked. Let's let's beat the eggs now. | yang: [ ] • sudah: [ ] • dipasang: [ ] • suis: [ ] • empat: [ ] • biji: [ ] • telur: [ ] • dipecahkan: [ ] • jom: [ ] • kita: [ ] • putar: [ ] • pukul: [ ] • ini: [ ] • sekarang: [ ] |
-| 58 | 04:54 - 04:56 | Sekarang kita ada sedikit gula di sini. Saya akan masukkan gula. Saya ada cawan penyukat | Now, we have some sugar here. So, I'm going to add the sugar. So, I have a | sekarang: [ ] • kita: [ ] • ada: [ ] • sedikit: [ ] • gula: [ ] • di: [ ] • sini: [ ] • saya: [ ] • akan: [ ] • masukkan: [ ] • cawan: [ ] • penyukat: [ ] |
-| 59 | 04:58 - 05:00 | setengah cawan dan saya akan masukkan gula aising ke dalam ini. Ini kira-kira | half cup measuring cup and I'm going to put powdered sugar in here. This is | setengah: [ ] • cawan: [ ] • dan: [ ] • saya: [ ] • akan: [ ] • masukkan: [ ] • gula: [ ] • aising: [ ] • ke: [ ] • dalam: [ ] • ini: [ ] • kira: [ ] |
-| 60 | 05:03 - 05:04 | setengah cawan gula. Masukkan ke dalam ini. Campurkan bersama telur. | about half a cup of sugar. Put it in here. Mix it with the eggs. | setengah: [ ] • cawan: [ ] • gula: [ ] • masukkan: [ ] • ke: [ ] • dalam: [ ] • ini: [ ] • campurkan: [ ] • bersama: [ ] • telur: [ ] |
-| 61 | 05:07 - 05:09 | Sekarang mari kita terus memutarnya. Baiklah, kami dah selesai pukul | Now let's keep on blending it. Okay, so now we finished beating the | sekarang: [ ] • mari: [ ] • kita: [ ] • terus: [ ] • memutarnya: [ ] • baiklah: [ ] • kami: [ ] • dah: [ ] • selesai: [ ] • pukul: [ ] |
-| 62 | 05:12 - 05:14 | telur. Seperti yang anda boleh lihat kepekatannya, jauh lebih gebu. Sekarang kita ada cawan penyukat | eggs. As you can see the consistency, a lot fluffier. So now we have the one cup | telur: [ ] • seperti: [ ] • yang: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • kepekatannya: [ ] • jauh: [ ] • lebih: [ ] • gebu: [ ] • sekarang: [ ] • kita: [ ] • ada: [ ] • cawan: [ ] • penyukat: [ ] |
-| 63 | 05:18 - 05:20 | satu cawan. Iaitu 1 cawan atau 240 ml. Kita ada tepung di sini. | measuring cup. That is 1 cup or 240 ml. We have the flour here. | satu: [ ] • cawan: [ ] • iaitu: [ ] • atau: [ ] • ml: [ ] • kita: [ ] • ada: [ ] • tepung: [ ] • di: [ ] • sini: [ ] |
-| 64 | 05:25 - 05:27 | Jadi kita akan ambil satu cawan tepung. Dan kita tak masukkan semuanya sekali | So we're going to get one cup of flour. And we're not going to add it all at | jadi: [ ] • kita: [ ] • akan: [ ] • ambil: [ ] • satu: [ ] • cawan: [ ] • tepung: [ ] • dan: [ ] • tak: [ ] • masukkan: [ ] • semuanya: [ ] • sekali: [ ] |
-| 65 | 05:29 - 05:31 | gus. Kita masukkan dalam 3 hingga 5 bahagian. Masukkan sedikit saja, kemudian ambil | once. We're going to add it in 3 to five batches. Just add a little bit. Then get | gus: [ ] • kita: [ ] • masukkan: [ ] • dalam: [ ] • hingga: [ ] • bahagian: [ ] • sedikit: [ ] • saja: [ ] • kemudian: [ ] • ambil: [ ] |
-| 66 | 05:34 - 05:36 | spatula dan gaul sebati seperti ini. Sekarang saya baru saja masukkan | a spatula and mix it like this. Now I just added | spatula: [ ] • dan: [ ] • gaul: [ ] • sebati: [ ] • seperti: [ ] • ini: [ ] • sekarang: [ ] • saya: [ ] • baru: [ ] • saja: [ ] • masukkan: [ ] |
-| 67 | 05:39 - 05:40 | baki tepung yang terakhir. Kita ada acuan kaca di sini | the last little bit of flour. We have a glass mold here | baki: [ ] • tepung: [ ] • yang: [ ] • terakhir: [ ] • kita: [ ] • ada: [ ] • acuan: [ ] • kaca: [ ] • di: [ ] • sini: [ ] |
-| 68 | 05:43 - 05:45 | atau bekas kaca tempat kita akan tuangkan adunan kita. Sekarang saya akan | or a glass container that we're going to put our mixture in. Now I'm going to | atau: [ ] • bekas: [ ] • kaca: [ ] • tempat: [ ] • kita: [ ] • akan: [ ] • tuangkan: [ ] • adunan: [ ] • sekarang: [ ] • saya: [ ] |
-| 69 | 05:47 - 05:49 | tuangkannya ke dalam ini. Begini caranya, keluarkan semuanya. Baiklah. Sekarang adunan kek | pour it into here. Just like this. Get it all out. Okay. So now I have the cake | tuangkannya: [ ] • ke: [ ] • dalam: [ ] • ini: [ ] • begini: [ ] • caranya: [ ] • keluarkan: [ ] • semuanya: [ ] • baiklah: [ ] • sekarang: [ ] • adunan: [ ] • kek: [ ] |
-| 70 | 05:55 - 05:57 | ada di dalam bekas kaca ini, mangkuk kaca ini. Dan saya sudah panaskan | batter inside of this glass container, this glass bowl. And I preheated the | ada: [ ] • di: [ ] • dalam: [ ] • bekas: [ ] • kaca: [ ] • ini: [ ] • mangkuk: [ ] • dan: [ ] • saya: [ ] • sudah: [ ] • panaskan: [ ] |
-| 71 | 05:59 - 06:01 | ketuhar terlebih dahulu. Sekarang saya membukanya. Suhu sangat panas. | oven already. So I'm opening it up now. It's very hot. | ketuhar: [ ] • terlebih: [ ] • dahulu: [ ] • sekarang: [ ] • saya: [ ] • membukanya: [ ] • suhu: [ ] • sangat: [ ] • panas: [ ] |
-| 72 | 06:04 - 06:06 | Masukkan ke dalam sana. Kita ada pemasa di sini dan kita akan | Place it in there. So, got the timer here and we're going | masukkan: [ ] • ke: [ ] • dalam: [ ] • sana: [ ] • kita: [ ] • ada: [ ] • pemasa: [ ] • di: [ ] • sini: [ ] • dan: [ ] • akan: [ ] |
-| 73 | 06:11 - 06:13 | tetapkannya selama 25 minit kemudian semak. Ia mengambil masa kira-kira 30 | to set it for 25 minutes and then go check it. It should take about 30 | tetapkannya: [ ] • selama: [ ] • minit: [ ] • kemudian: [ ] • semak: [ ] • ia: [ ] • mengambil: [ ] • masa: [ ] • kira: [ ] |
-| 74 | 06:15 - 06:17 | minit untuk masak. Tapi kita tetapkan 25 minit dulu dan kemudian kita akan pergi periksa. | minutes to cook. But we'll set it for 25 minutes first and then we'll go check | minit: [ ] • untuk: [ ] • masak: [ ] • tapi: [ ] • kita: [ ] • tetapkan: [ ] • dulu: [ ] • dan: [ ] • kemudian: [ ] • akan: [ ] • pergi: [ ] • periksa: [ ] |
-| 75 | 06:19 - 06:21 | Memandangkan pemasa sudah ditetapkan, saya boleh sediakan cecair bancuhan, iaitu campuran tiga | it. Now that the timer is set, I can make the liquid, which is just the three | memandangkan: [ ] • pemasa: [ ] • sudah: [ ] • ditetapkan: [ ] • saya: [ ] • boleh: [ ] • sediakan: [ ] • cecair: [ ] • bancuhan: [ ] • iaitu: [ ] • campuran: [ ] • tiga: [ ] |
-| 76 | 06:23 - 06:25 | jenis susu: susu sejat, susu penuh krim, dan susu pekat manis. Campurkan bersama untuk dituang | milks, evaporated milk, whole milk, and condensed milk. Mix that together to put | jenis: [ ] • susu: [ ] • sejat: [ ] • penuh: [ ] • krim: [ ] • dan: [ ] • pekat: [ ] • manis: [ ] • campurkan: [ ] • bersama: [ ] • untuk: [ ] • dituang: [ ] |
-| 77 | 06:27 - 06:29 | ke atas kek sebaik saja ia masak nanti. Campurkan saja bahan-bahan ini: susu, | on top once the cake is done. Just mix these ingredients. Milk | ke: [ ] • atas: [ ] • kek: [ ] • sebaik: [ ] • saja: [ ] • ia: [ ] • masak: [ ] • nanti: [ ] • campurkan: [ ] • bahan: [ ] • ini: [ ] • susu: [ ] |
-| 78 | 06:32 - 06:33 | susu penuh krim, susu sejat, dan susu pekat manis. Jadi | whole milk, evaporated milk, and condensed milk. So, | susu: [ ] • penuh: [ ] • krim: [ ] • sejat: [ ] • dan: [ ] • pekat: [ ] • manis: [ ] • jadi: [ ] |
-| 79 | 06:36 - 06:37 | inilah tiga jenis susu yang berbeza. Sebab itulah pencuci mulut ini dinamakan | these are the three different types of milk. This is why dessert is called | inilah: [ ] • tiga: [ ] • jenis: [ ] • susu: [ ] • yang: [ ] • berbeza: [ ] • sebab: [ ] • itulah: [ ] • pencuci: [ ] • mulut: [ ] • ini: [ ] • dinamakan: [ ] |
-| 80 | 06:39 - 06:41 | 'tiga susu', tres leches, sebab anda campurkan kesemuanya. Sekarang kita akan campurkan | three milks, the rest leches, cuz you mix them all. So, now we're going to mix | tiga: [ ] • susu: [ ] • tres: [ ] • leches: [ ] • sebab: [ ] • anda: [ ] • campurkan: [ ] • kesemuanya: [ ] • sekarang: [ ] • kita: [ ] • akan: [ ] |
-| 81 | 06:44 - 06:45 | kesemuanya di dalam periuk ini dengan api kecil. Kita tak didihkannya. Jadi | them all in this pot with a little bit of heat. We're not going to boil it. So, | kesemuanya: [ ] • di: [ ] • dalam: [ ] • periuk: [ ] • ini: [ ] • dengan: [ ] • api: [ ] • kecil: [ ] • kita: [ ] • tak: [ ] • didihkannya: [ ] • jadi: [ ] |
-| 82 | 06:49 - 06:51 | mari kita buat. Ini tin, dan saya akan buka tin ini dan tuangkan ke dalam | let's do that. So, this is a can, and I'm going to open the can, pour it in | mari: [ ] • kita: [ ] • buat: [ ] • ini: [ ] • tin: [ ] • dan: [ ] • saya: [ ] • akan: [ ] • buka: [ ] • tuangkan: [ ] • ke: [ ] • dalam: [ ] |
-| 83 | 06:54 - 06:56 | sini. Susu pekat manis. Anda boleh lihat teksturnya jauh lebih pekat, bukan cair. Ia | here. Condensed milk. You can see it's a lot thicker. It's not watery. It's | sini: [ ] • susu: [ ] • pekat: [ ] • manis: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • teksturnya: [ ] • jauh: [ ] • lebih: [ ] • bukan: [ ] • cair: [ ] • ia: [ ] |
-| 84 | 06:59 - 07:01 | agak pekat. Sekarang saya sedang mengikis bahagian dalam tin untuk pastikan saya dapat | pretty thick. Right now, I'm scraping the inside of the can to make sure I get | agak: [ ] • pekat: [ ] • sekarang: [ ] • saya: [ ] • sedang: [ ] • mengikis: [ ] • bahagian: [ ] • dalam: [ ] • tin: [ ] • untuk: [ ] • pastikan: [ ] • dapat: [ ] |
-| 85 | 07:03 - 07:05 | keluarkan kesemuanya. Mengikis bahagian dalam tin. Sekarang mari kita kacau. | all of it out. Scraping the inside of the can. Now, let's give it a stir. | keluarkan: [ ] • kesemuanya: [ ] • mengikis: [ ] • bahagian: [ ] • dalam: [ ] • tin: [ ] • sekarang: [ ] • mari: [ ] • kita: [ ] • kacau: [ ] |
-| 86 | 07:08 - 07:10 | Kita tak mahu ia mendidih. Kita cuma mahu sebatikan semuanya, ketiga-tiga jenis | Don't want to boil it. We just want to mix it all together. All the three | kita: [ ] • tak: [ ] • mahu: [ ] • ia: [ ] • mendidih: [ ] • cuma: [ ] • sebatikan: [ ] • semuanya: [ ] • ketiga: [ ] • tiga: [ ] • jenis: [ ] |
-| 87 | 07:11 - 07:13 | susu ini. Dan sekarang anda boleh kata tin ini dah kosong. Tiada apa-apa lagi di | milks. And now, you could say this can is empty. You see there's nothing in | susu: [ ] • ini: [ ] • dan: [ ] • sekarang: [ ] • anda: [ ] • boleh: [ ] • kata: [ ] • tin: [ ] • dah: [ ] • kosong: [ ] • tiada: [ ] • apa: [ ] • lagi: [ ] • di: [ ] |
-| 88 | 07:15 - 07:17 | dalamnya. Anda boleh lihat ini kek dengan semua lubang yang saya cucuk di atasnya. | there. Okay. So, you can see here's the cake with all the holes I made in it. | dalamnya: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • ini: [ ] • kek: [ ] • dengan: [ ] • semua: [ ] • lubang: [ ] • yang: [ ] • saya: [ ] • cucuk: [ ] • di: [ ] • atasnya: [ ] |
-| 89 | 07:21 - 07:23 | Sebab saya buat lubang-lubang ini adalah untuk cecair susu yang kita bancuh tadi, | And the reason I made this holes is for this liquid we made earlier. | sebab: [ ] • saya: [ ] • buat: [ ] • lubang: [ ] • ini: [ ] • adalah: [ ] • untuk: [ ] • cecair: [ ] • susu: [ ] • yang: [ ] • kita: [ ] • bancuh: [ ] • tadi: [ ] |
-| 90 | 07:26 - 07:28 | supaya ia menyerap dengan jauh lebih mudah ke dalam kek. Saya cuma tuangkannya ke atas kek. | So, it absorbs much easier into the cake. I just pour this on. | supaya: [ ] • ia: [ ] • menyerap: [ ] • dengan: [ ] • jauh: [ ] • lebih: [ ] • mudah: [ ] • ke: [ ] • dalam: [ ] • kek: [ ] • saya: [ ] • cuma: [ ] • tuangkannya: [ ] • atas: [ ] |
-| 91 | 07:32 - 07:33 | Baiklah, saya baru tuang adunan tres leches ke dalamnya. Kek ini | Okay, so I just put the tesle leches in there. It | baiklah: [ ] • saya: [ ] • baru: [ ] • tuang: [ ] • adunan: [ ] • tres: [ ] • leches: [ ] • ke: [ ] • dalamnya: [ ] • kek: [ ] • ini: [ ] |
-| 92 | 07:36 - 07:38 | kena disejukkan sebentar. Dan anda boleh nampak saya dah makan sedikit sebab saya | has to cool down for a bit. And you could see I ate some of it cuz I | kena: [ ] • disejukkan: [ ] • sebentar: [ ] • dan: [ ] • anda: [ ] • boleh: [ ] • nampak: [ ] • saya: [ ] • dah: [ ] • makan: [ ] • sedikit: [ ] • sebab: [ ] |
-| 93 | 07:40 - 07:42 | tak sabar nak rasa. Tapi saya juga dah buat krim putar ('whipped cream') | couldn't wait. But I also made the whipped cream | tak: [ ] • sabar: [ ] • nak: [ ] • rasa: [ ] • tapi: [ ] • saya: [ ] • juga: [ ] • dah: [ ] • buat: [ ] • krim: [ ] • putar: [ ] • whipped: [ ] • cream: [ ] |
-| 94 | 07:44 - 07:46 | untuk disapu di bahagian atas. Jadi saya biarkan ia sejuk sekitar 30 minit kemudian kita | to put on top. So I'll let that cool down for about 30 minutes and then we'll | untuk: [ ] • disapu: [ ] • di: [ ] • bahagian: [ ] • atas: [ ] • jadi: [ ] • saya: [ ] • biarkan: [ ] • ia: [ ] • sejuk: [ ] • sekitar: [ ] • minit: [ ] • kemudian: [ ] • kita: [ ] |
-| 95 | 07:50 - 07:51 | akan tengok hasilnya. Awak tengah buat apa sekarang? Saya nak buat | uh check it out and see how it is. What are you making now? I'm going to make | akan: [ ] • tengok: [ ] • hasilnya: [ ] • awak: [ ] • tengah: [ ] • buat: [ ] • apa: [ ] • sekarang: [ ] • saya: [ ] • nak: [ ] |
-| 96 | 07:53 - 07:54 | sos barbeku untuk dimakan bersama ayam makan tengah hari saya. Apa bahan-bahan | some barbecue sauce to eat with my chicken for lunch. What's What's the | sos: [ ] • barbeku: [ ] • untuk: [ ] • dimakan: [ ] • bersama: [ ] • ayam: [ ] • makan: [ ] • tengah: [ ] • hari: [ ] • saya: [ ] • apa: [ ] • bahan: [ ] |
-| 97 | 07:57 - 07:59 | yang awak ada di sini? Gula, sos tomato, dan air adalah bahan | ingredients you got here? Sugar, ketchup, and water are the main | yang: [ ] • awak: [ ] • ada: [ ] • di: [ ] • sini: [ ] • gula: [ ] • sos: [ ] • tomato: [ ] • dan: [ ] • air: [ ] • adalah: [ ] • bahan: [ ] |
-| 98 | 08:01 - 08:03 | utama. Yang lain cuma penambah rasa. Jadi kita ada sedikit mustard. Kita perlukan jus | ingredients. The rest just add flavors. So, we got some mustard. We need lemon | utama: [ ] • yang: [ ] • lain: [ ] • cuma: [ ] • penambah: [ ] • rasa: [ ] • jadi: [ ] • kita: [ ] • ada: [ ] • sedikit: [ ] • mustard: [ ] • perlukan: [ ] • jus: [ ] |
-| 99 | 08:05 - 08:07 | lemon. Kenapa awak tak beli saja sos barbeku siap? Atau awak lebih suka | juice. Why don't you just buy barbecue sauce? Or would you prefer to | lemon: [ ] • kenapa: [ ] • awak: [ ] • tak: [ ] • beli: [ ] • saja: [ ] • sos: [ ] • barbeku: [ ] • siap: [ ] • atau: [ ] • lebih: [ ] • suka: [ ] |
-| 100 | 08:10 - 08:12 | buat sendiri? Masakan sendiri sentiasa lebih sedap. Masakan rumah ('homemade'). Saya | make it or what? Home cooking is always better. Home cooking or homemade? I | buat: [ ] • sendiri: [ ] • masakan: [ ] • sentiasa: [ ] • lebih: [ ] • sedap: [ ] • rumah: [ ] • homemade: [ ] • saya: [ ] |
-| 101 | 08:14 - 08:16 | rasa saya patut pergi petik beberapa biji lemon untuk sos barbeku tu. Seperti yang anda tahu, | guess I'll go grab some lemons then for the barbecue sauce. As you guys know, | rasa: [ ] • saya: [ ] • patut: [ ] • pergi: [ ] • petik: [ ] • beberapa: [ ] • biji: [ ] • lemon: [ ] • untuk: [ ] • sos: [ ] • barbeku: [ ] • tu: [ ] • seperti: [ ] • yang: [ ] • anda: [ ] • tahu: [ ] |
-| 102 | 08:19 - 08:21 | ini galah yang digunakan untuk jolok lemon. Baiklah, dapat sebiji lemon. Mari bawa | this is the stick used to get the lemons. Okay, one lemon. Let's bring the | ini: [ ] • galah: [ ] • yang: [ ] • digunakan: [ ] • untuk: [ ] • jolok: [ ] • lemon: [ ] • baiklah: [ ] • dapat: [ ] • sebiji: [ ] • mari: [ ] • bawa: [ ] |
-| 103 | 08:22 - 08:24 | tangkai lemon ini sebab dia perlukannya untuk buat sos barbeku. Jadi anda boleh | lemon stem cuz I guess he needs it to make the barbecue sauce. So you could | tangkai: [ ] • lemon: [ ] • ini: [ ] • sebab: [ ] • dia: [ ] • perlukannya: [ ] • untuk: [ ] • buat: [ ] • sos: [ ] • barbeku: [ ] • jadi: [ ] • anda: [ ] • boleh: [ ] |
-| 104 | 08:27 - 08:29 | kata saya petikkan lemon untuk dia atau saya bawakan lemon untuknya. Ini dia | say I grabbed the lemons for him or I brought the lemons for him. Here they | kata: [ ] • saya: [ ] • petikkan: [ ] • lemon: [ ] • untuk: [ ] • dia: [ ] • atau: [ ] • bawakan: [ ] • untuknya: [ ] • ini: [ ] |
-| 105 | 08:32 - 08:34 | buahnya. Sebiji saja. Jadi itulah buah lemonnya. | are. One only one lemon. So there are the lemons. | buahnya: [ ] • sebiji: [ ] • saja: [ ] • jadi: [ ] • itulah: [ ] • buah: [ ] • lemonnya: [ ] |
-| 106 | 08:37 - 08:39 | Banyaknya gula. Memang banyak betul gula dalam tu, kawan. Memang macam itulah cara buatnya. | That's a lot of sugar. That is a lot of sugar in there, man. That's how it is. | banyaknya: [ ] • gula: [ ] • memang: [ ] • banyak: [ ] • betul: [ ] • dalam: [ ] • tu: [ ] • kawan: [ ] • macam: [ ] • itulah: [ ] • cara: [ ] • buatnya: [ ] |
-| 107 | 08:42 - 08:44 | Awak tengah buat apa sekarang? Perah lemon. Ke dalam cawan penyukat plastik ini. | What are you doing now? Squeezing a lemon. Into this plastic measuring cup. | awak: [ ] • tengah: [ ] • buat: [ ] • apa: [ ] • sekarang: [ ] • perah: [ ] • lemon: [ ] • ke: [ ] • dalam: [ ] • cawan: [ ] • penyukat: [ ] • plastik: [ ] • ini: [ ] |
-| 108 | 08:49 - 08:51 | Ini sukatan 1/8 cawan. Ini kek tres leches yang saya buat tadi. Pada pandangan peribadi | This is 1/8 of a cup. This is the thres leches cake I made. In my personal | ini: [ ] • sukatan: [ ] • cawan: [ ] • kek: [ ] • tres: [ ] • leches: [ ] • yang: [ ] • saya: [ ] • buat: [ ] • tadi: [ ] • pada: [ ] • pandangan: [ ] • peribadi: [ ] |
-| 109 | 08:54 - 08:56 | saya, rasanya memang padu gila. Tersangat sedap. Kek | opinion, it's fire. A fire straight gas. Like | saya: [ ] • rasanya: [ ] • memang: [ ] • padu: [ ] • gila: [ ] • tersangat: [ ] • sedap: [ ] • kek: [ ] |
-| 110 | 09:00 - 09:02 | tres leches memang sangat memuaskan, tapi saya ada masalah intoleransi laktosa, | leches is a really good kick, but I am lactose intolerant, | tres: [ ] • leches: [ ] • memang: [ ] • sangat: [ ] • memuaskan: [ ] • tapi: [ ] • saya: [ ] • ada: [ ] • masalah: [ ] • intoleransi: [ ] • laktosa: [ ] |
-| 111 | 09:05 - 09:06 | iaitu jika saya makan produk tenusu, perut saya akan sakit. Namun saya tetap makan bahan tenusu | which means if I eat dairy, it hurts my stomach. I still eat dairy | iaitu: [ ] • jika: [ ] • saya: [ ] • makan: [ ] • produk: [ ] • tenusu: [ ] • perut: [ ] • akan: [ ] • sakit: [ ] • namun: [ ] • tetap: [ ] • bahan: [ ] |
-| 112 | 09:11 - 09:13 | sepanjang masa, dan kek ini antara kegemaran saya, sedap sungguh. Kami ada bakul | all the time, and this is one of my favorite is so good. We have my laundry | sepanjang: [ ] • masa: [ ] • dan: [ ] • kek: [ ] • ini: [ ] • antara: [ ] • kegemaran: [ ] • saya: [ ] • sedap: [ ] • sungguh: [ ] • kami: [ ] • ada: [ ] • bakul: [ ] |
-| 113 | 09:15 - 09:17 | dobi saya berisi baju bersih yang masih basah. Sekarang jom jemur baju saya | basket with clean laundry, but it's wet. So now, let's hang my laundry | dobi: [ ] • saya: [ ] • berisi: [ ] • baju: [ ] • bersih: [ ] • yang: [ ] • masih: [ ] • basah: [ ] • sekarang: [ ] • jom: [ ] • jemur: [ ] |
-| 114 | 09:22 - 09:23 | pada tali ampaian ini. Baiklah kawan-kawan. Saya baru saja selesai sidai semua pakaian. Macam anda | on this clothes line. Okay, guys. I just finished hanging all my clothes. As you | pada: [ ] • tali: [ ] • ampaian: [ ] • ini: [ ] • baiklah: [ ] • kawan: [ ] • saya: [ ] • baru: [ ] • saja: [ ] • selesai: [ ] • sidai: [ ] • semua: [ ] • pakaian: [ ] • macam: [ ] • anda: [ ] |
-| 115 | 09:26 - 09:27 | boleh nampak, ada pelbagai variasi warna pakaian saya: kelabu, hitam, hitam, | can see, there's a lot of variety of color in my clothes. Gray, black, black, | boleh: [ ] • nampak: [ ] • ada: [ ] • pelbagai: [ ] • variasi: [ ] • warna: [ ] • pakaian: [ ] • saya: [ ] • kelabu: [ ] • hitam: [ ] |
-| 116 | 09:31 - 09:33 | hijau gelap. Jadi saya memang suka pakai baju berwarna-warni, pelbagai warna | dark green. So, I really like wearing colorful clothes, a lot of different | hijau: [ ] • gelap: [ ] • jadi: [ ] • saya: [ ] • memang: [ ] • suka: [ ] • pakai: [ ] • baju: [ ] • berwarna: [ ] • warni: [ ] • pelbagai: [ ] • warna: [ ] |
-| 117 | 09:35 - 09:37 | yang berbeza. Saya tak suka pakai satu warna saja. Seperti yang anda boleh lihat pada | colors. I don't really like wearing just one color. As you could see in my | yang: [ ] • berbeza: [ ] • saya: [ ] • tak: [ ] • suka: [ ] • pakai: [ ] • satu: [ ] • warna: [ ] • saja: [ ] • seperti: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • pada: [ ] |
-| 118 | 09:39 - 09:40 | pakaian saya, ada banyak warna berbeza di sini. | clothes, I have a lot of different colors here. | pakaian: [ ] • saya: [ ] • ada: [ ] • banyak: [ ] • warna: [ ] • berbeza: [ ] • di: [ ] • sini: [ ] |
-| 119 | 09:44 - 09:46 | Dan apa yang saya cakap tadi itu ialah sindiran/sarkasme ('sarcasm'). | And that right there is sarcasm. Sarcasm. | dan: [ ] • apa: [ ] • yang: [ ] • saya: [ ] • cakap: [ ] • tadi: [ ] • itu: [ ] • ialah: [ ] • sindiran: [ ] • sarkasme: [ ] • sarcasm: [ ] |
-| 120 | 09:48 - 09:49 | Ia bila anda bergurau secara menyindir. Bila sesuatu perkara sangat jelas | It's when you're kind of just joking around. when something is very obviously | ia: [ ] • bila: [ ] • anda: [ ] • bergurau: [ ] • secara: [ ] • menyindir: [ ] • sesuatu: [ ] • perkara: [ ] • sangat: [ ] • jelas: [ ] |
-| 121 | 09:52 - 09:53 | dan terang-terangan tidak benar, tetapi anda sebutkannya seolah-olah ia benar, padahal jelas sekali | or very clearly not true, but you say it as it is true, like, but it's clearly | dan: [ ] • terang: [ ] • terangan: [ ] • tidak: [ ] • benar: [ ] • tetapi: [ ] • anda: [ ] • sebutkannya: [ ] • seolah: [ ] • olah: [ ] • ia: [ ] • padahal: [ ] • jelas: [ ] • sekali: [ ] |
-| 122 | 09:57 - 09:59 | hampir kesemuanya warna hitam. Beritahu saya di ruangan komen sudah berapa lama anda menonton | almost all black. Let me know in the comments how long you've been watching | hampir: [ ] • kesemuanya: [ ] • warna: [ ] • hitam: [ ] • beritahu: [ ] • saya: [ ] • di: [ ] • ruangan: [ ] • komen: [ ] • sudah: [ ] • berapa: [ ] • lama: [ ] • anda: [ ] • menonton: [ ] |
-| 123 | 10:01 - 10:03 | video saya. Baiklah kawan-kawan, mari kita buat kuiz mini tentang benda rawak di sekitar | my videos. Okay, guys, let's do a little mini quiz of just random stuff around | video: [ ] • saya: [ ] • baiklah: [ ] • kawan: [ ] • mari: [ ] • kita: [ ] • buat: [ ] • kuiz: [ ] • mini: [ ] • tentang: [ ] • benda: [ ] • rawak: [ ] • di: [ ] • sekitar: [ ] |
-| 124 | 10:06 - 10:08 | saya. Apa anda panggil benda ini? Apakah namanya? | me. What do you guys call this? What is this called? | saya: [ ] • apa: [ ] • anda: [ ] • panggil: [ ] • benda: [ ] • ini: [ ] • apakah: [ ] • namanya: [ ] |
-| 125 | 10:12 - 10:14 | Gunung ('a mountain'). Tali ini dipanggil apa? Tali ampaian ('clothesline'). Dan apa tergantung pada | A mountain. What is this line called? A clos line. And what's hanging on the | gunung: [ ] • a: [ ] • mountain: [ ] • tali: [ ] • ini: [ ] • dipanggil: [ ] • apa: [ ] • ampaian: [ ] • clothesline: [ ] • dan: [ ] • tergantung: [ ] • pada: [ ] |
-| 126 | 10:18 - 10:20 | tali ampaian itu? Pakaian ('clothes'). Betul. Pakaian. Dan apakah benda | clothes line? Clothes. Correct. Close. And what are | tali: [ ] • ampaian: [ ] • itu: [ ] • pakaian: [ ] • clothes: [ ] • betul: [ ] • dan: [ ] • apakah: [ ] • benda: [ ] |
-| 127 | 10:23 - 10:24 | ini dipanggil? Apakah ini? Itu penyepit baju ('clothespins'). Apakah panggilan untuk benda | these called, guys? What is this? Those are clothes pins. What do you guys | ini: [ ] • dipanggil: [ ] • apakah: [ ] • itu: [ ] • penyepit: [ ] • baju: [ ] • clothespins: [ ] • panggilan: [ ] • untuk: [ ] • benda: [ ] |
-| 128 | 10:30 - 10:32 | ini? Ini ialah ketuhar ('an oven'). | call this? It's an oven. | ini: [ ] • ialah: [ ] • ketuhar: [ ] • an: [ ] • oven: [ ] |
-| 129 | 10:35 - 10:37 | Dan di bahagian atas, apakah ini dipanggil? Itu dapur memasak ('a stove'). Dapur memasak. Apakah ini | And on the top, what is this called? That's a stove. A stove. What is this | dan: [ ] • di: [ ] • bahagian: [ ] • atas: [ ] • apakah: [ ] • ini: [ ] • dipanggil: [ ] • itu: [ ] • dapur: [ ] • memasak: [ ] • a: [ ] • stove: [ ] |
-| 130 | 10:42 - 10:44 | dipanggil? Tong gas ('a gas cylinder'). Anjing yang selalu | called? A gas cylinder. the dog that always | dipanggil: [ ] • tong: [ ] • gas: [ ] • a: [ ] • cylinder: [ ] • anjing: [ ] • yang: [ ] • selalu: [ ] |
-| 131 | 10:47 - 10:49 | datang ke sini. Kami simpan sisa tulang untuk dia. | comes there. So, we have we keep our bones. | datang: [ ] • ke: [ ] • sini: [ ] • kami: [ ] • simpan: [ ] • sisa: [ ] • tulang: [ ] • untuk: [ ] • dia: [ ] |
-| 132 | 10:50 - 10:52 | Oh, itu dia. Tengok dia ni. Tengok anjing comel ni. Hei kawan. Ya, dia ini | Oh, there he is. Look at him. Look at this boy. Hey, buddy. Yeah. So, he's not | oh: [ ] • itu: [ ] • dia: [ ] • tengok: [ ] • ni: [ ] • anjing: [ ] • comel: [ ] • hei: [ ] • kawan: [ ] • ya: [ ] • ini: [ ] |
-| 133 | 10:55 - 10:57 | bukan anjing peliharaan kami. Dia anjing jiran, tapi dia selalu datang sini dan kami kerap | he's not our dog. He's our neighbor's dog, but he's always here and we always | bukan: [ ] • anjing: [ ] • peliharaan: [ ] • kami: [ ] • dia: [ ] • jiran: [ ] • tapi: [ ] • selalu: [ ] • datang: [ ] • sini: [ ] • dan: [ ] • kerap: [ ] |
-| 134 | 10:59 - 11:01 | berikan dia makanan. Betul tak kawan? Betul tak? Betul | give him some food. Ain't that right, buddy? Ain't that right? Ain't that | berikan: [ ] • dia: [ ] • makanan: [ ] • betul: [ ] • tak: [ ] • kawan: [ ] |
-| 135 | 11:02 - 11:04 | tak? Dia macam separuh liar sikit. Tengoklah dia. | right? He's like kind of half wild. Look at him. | tak: [ ] • dia: [ ] • macam: [ ] • separuh: [ ] • liar: [ ] • sikit: [ ] • tengoklah: [ ] |
-| 136 | 11:07 - 11:09 | Apa pun, jom kita masuk semula ke dalam. Kami dah beri anjing itu makan. | But anyways, let's go back inside. We gave the dog food. | apa: [ ] • pun: [ ] • jom: [ ] • kita: [ ] • masuk: [ ] • semula: [ ] • ke: [ ] • dalam: [ ] • kami: [ ] • dah: [ ] • beri: [ ] • anjing: [ ] • itu: [ ] • makan: [ ] |
-| 137 | 11:12 - 11:14 | Baiklah, anda boleh nampak Leon sedang memasak di sana. Jom tengok apa yang dia tengah masak | Okay, you can see Leon cooking up there. Let's go see what he's making. | baiklah: [ ] • anda: [ ] • boleh: [ ] • nampak: [ ] • leon: [ ] • sedang: [ ] • memasak: [ ] • di: [ ] • sana: [ ] • jom: [ ] • tengok: [ ] • apa: [ ] • yang: [ ] • dia: [ ] • tengah: [ ] • masak: [ ] |
-| 138 | 11:16 - 11:18 | untuk hidangan. Apa yang awak tengah sediakan? Awak buat | for food. What are you whipping on? You got | untuk: [ ] • hidangan: [ ] • apa: [ ] • yang: [ ] • awak: [ ] • tengah: [ ] • sediakan: [ ] • buat: [ ] |
-| 139 | 11:20 - 11:22 | burger. Wah mantap. Awak buat kentang goreng ke? Tak. Awak potong | some burgers. Damn. You made the fries. Nope. You chopped | burger: [ ] • wah: [ ] • mantap: [ ] • awak: [ ] • buat: [ ] • kentang: [ ] • goreng: [ ] • ke: [ ] • tak: [ ] • potong: [ ] |
-| 140 | 11:25 - 11:27 | semua salad, tomato, dan bawang? Tak. Potong kepingan keju? Saya langsung tak buat semua | all the lettuce and tomatoes and onions. No. Cut up the cheese. I didn't do any | semua: [ ] • salad: [ ] • tomato: [ ] • dan: [ ] • bawang: [ ] • tak: [ ] • potong: [ ] • kepingan: [ ] • keju: [ ] • saya: [ ] • langsung: [ ] • buat: [ ] |
-| 141 | 11:29 - 11:31 | benda tu. Tengok ini. Benda ini memang sangat | of that. Look at these. Like that's something that's really like | benda: [ ] • tu: [ ] • tengok: [ ] • ini: [ ] • memang: [ ] • sangat: [ ] |
-| 142 | 11:34 - 11:36 | popular di Amerika dan di Kanada, terutamanya pada musim panas | really popular in in America and in Canada, especially during the summer | popular: [ ] • di: [ ] • amerika: [ ] • dan: [ ] • kanada: [ ] • terutamanya: [ ] • pada: [ ] • musim: [ ] • panas: [ ] |
-| 143 | 11:38 - 11:40 | bila cuaca panas dan cerah di luar. Anda cuma hidupkan pemanggang barbeku di | when it's nice and hot out. You just have your barbecue going on in your | bila: [ ] • cuaca: [ ] • panas: [ ] • dan: [ ] • cerah: [ ] • di: [ ] • luar: [ ] • anda: [ ] • cuma: [ ] • hidupkan: [ ] • pemanggang: [ ] • barbeku: [ ] |
-| 144 | 11:41 - 11:43 | panggangan anda, masak burger atau apa saja yang anda bakar semasa barbeku. Jadi | grill, cooking some burgers, cooking whatever you cook at your barbecue. So, | panggangan: [ ] • anda: [ ] • masak: [ ] • burger: [ ] • atau: [ ] • apa: [ ] • saja: [ ] • yang: [ ] • bakar: [ ] • semasa: [ ] • barbeku: [ ] • jadi: [ ] |
-| 145 | 11:46 - 11:47 | saya ada kentang di sini. Sekarang mari kita basuh kentang ini. Kemudian mari potong | I got the potatoes here. So, now let's just wash them. Now, let's chop these | saya: [ ] • ada: [ ] • kentang: [ ] • di: [ ] • sini: [ ] • sekarang: [ ] • mari: [ ] • kita: [ ] • basuh: [ ] • ini: [ ] • kemudian: [ ] • potong: [ ] |
-| 146 | 11:49 - 11:50 | kentang ini mengikut bentuk jejari kentang goreng. Jom kita buat kentang goreng. Sekarang saya | potatoes into the shape of fries. So, let's make fries. Now, I got the fries | kentang: [ ] • ini: [ ] • mengikut: [ ] • bentuk: [ ] • jejari: [ ] • goreng: [ ] • jom: [ ] • kita: [ ] • buat: [ ] • sekarang: [ ] • saya: [ ] |
-| 147 | 11:56 - 11:58 | sedang goreng celup minyak ('deep fry'). Begini cara saya potong. Masukkannya | deep frying. This is how I sliced them. Putting them | sedang: [ ] • goreng: [ ] • celup: [ ] • minyak: [ ] • deep: [ ] • fry: [ ] • begini: [ ] • cara: [ ] • saya: [ ] • potong: [ ] • masukkannya: [ ] |
-| 148 | 12:01 - 12:03 | ke dalam minyak panas. Sekarang semuanya digoreng garing elok di dalam itu. Tunjukkan | into the oil. Now, they're all deep frying nicely in there. Show us Show us | ke: [ ] • dalam: [ ] • minyak: [ ] • panas: [ ] • sekarang: [ ] • semuanya: [ ] • digoreng: [ ] • garing: [ ] • elok: [ ] • di: [ ] • itu: [ ] • tunjukkan: [ ] |
-| 149 | 12:06 - 12:08 | apa yang awak masak. Baiklah, kita mulakan dari sebelah sini. Ada kentang goreng jejari | what you cooked. All right, we'll start from this side. Got some beautiful | apa: [ ] • yang: [ ] • awak: [ ] • masak: [ ] • baiklah: [ ] • kita: [ ] • mulakan: [ ] • dari: [ ] • sebelah: [ ] • sini: [ ] • ada: [ ] • kentang: [ ] • goreng: [ ] • jejari: [ ] |
-| 150 | 12:11 - 12:12 | keemasan yang sangat cantik. Wah cantiknya kawan. Ada roti burger yang saya | golden French fries. Oh wow. We have fire, bro. Some buns that I have | keemasan: [ ] • yang: [ ] • sangat: [ ] • cantik: [ ] • wah: [ ] • cantiknya: [ ] • kawan: [ ] • ada: [ ] • roti: [ ] • burger: [ ] • saya: [ ] |
-| 151 | 12:18 - 12:19 | bakar sedikit ('lightly toasted'). Apakah itu 'toasted'? Terangkan sedikit. | lightly toasted. So what what is toasted? Just explain it a little. | bakar: [ ] • sedikit: [ ] • lightly: [ ] • toasted: [ ] • apakah: [ ] • itu: [ ] • terangkan: [ ] |
-| 152 | 12:22 - 12:24 | 'Toasting' ialah membakar roti anda kali kedua untuk dapatkan sedikit kerangupan dan | Toasting is cooking your bread a second time to get a little bit of crunch and | toasting: [ ] • ialah: [ ] • membakar: [ ] • roti: [ ] • anda: [ ] • kali: [ ] • kedua: [ ] • untuk: [ ] • dapatkan: [ ] • sedikit: [ ] • kerangupan: [ ] • dan: [ ] |
-| 153 | 12:28 - 12:30 | tekstur pada roti, dan juga untuk memanaskannya. Anda boleh lihat tanda | texture on your bread and also to warm it up. So you could see this is this | tekstur: [ ] • pada: [ ] • roti: [ ] • dan: [ ] • juga: [ ] • untuk: [ ] • memanaskannya: [ ] • anda: [ ] • boleh: [ ] • lihat: [ ] • tanda: [ ] |
-| 154 | 12:32 - 12:34 | ia telah dibakar bila ada kesan sedikit garing keemasan di tepinya. | shows it was toasted when it's a little bit burnt on the side, a little bit | ia: [ ] • telah: [ ] • dibakar: [ ] • bila: [ ] • ada: [ ] • kesan: [ ] • sedikit: [ ] • garing: [ ] • keemasan: [ ] • di: [ ] • tepinya: [ ] |
-| 155 | 12:35 - 12:37 | Dibakar rangup ('toasted'). Apa lagi yang awak ada? Daging burger. Ya. Atas burger | golden. Toasted. And what else do you got? burgers. Oh yeah. Top the burgers | dibakar: [ ] • rangup: [ ] • toasted: [ ] • apa: [ ] • lagi: [ ] • yang: [ ] • awak: [ ] • ada: [ ] • daging: [ ] • burger: [ ] • ya: [ ] • atas: [ ] |
-| 156 | 12:41 - 12:43 | kita ada sos perasa ('condiments'). Kita ada sos tomato, mustard, dan | we got condiments. So we have ketchup, mustard, and | kita: [ ] • ada: [ ] • sos: [ ] • perasa: [ ] • condiments: [ ] • tomato: [ ] • mustard: [ ] • dan: [ ] |
-| 157 | 12:46 - 12:48 | mayonis. Ada juga lebihan sos barbeku untuk 'toppings'. Kita ada | mayonnaise. There's also some extra barbecue sauce for the toppings. We have | mayonis: [ ] • ada: [ ] • juga: [ ] • lebihan: [ ] • sos: [ ] • barbeku: [ ] • untuk: [ ] • toppings: [ ] • kita: [ ] |
-| 158 | 12:50 - 12:52 | sayur-sayuran iaitu salad daun, bawang, dan tomato. Kemudian kita juga | some vegetables, which are the lettuce, onions, and tomatoes. And then we also | sayur: [ ] • sayuran: [ ] • iaitu: [ ] • salad: [ ] • daun: [ ] • bawang: [ ] • dan: [ ] • tomato: [ ] • kemudian: [ ] • kita: [ ] • juga: [ ] |
-| 159 | 12:55 - 12:57 | ada keju mozzarella. Ini ialah 'toppings' hiasan atas. Dan ini ialah sos | have some mozzarella cheese. So these are the toppings. These are the | ada: [ ] • keju: [ ] • mozzarella: [ ] • ini: [ ] • ialah: [ ] • toppings: [ ] • hiasan: [ ] • atas: [ ] • dan: [ ] • sos: [ ] |
-| 160 | 12:59 - 13:01 | perasa ('condiments'). Di sini kita ada hidangan utama ('main course'), | condiments. We have the main course here, the | perasa: [ ] • condiments: [ ] • di: [ ] • sini: [ ] • kita: [ ] • ada: [ ] • hidangan: [ ] • utama: [ ] • main: [ ] • course: [ ] |
-| 161 | 13:03 - 13:04 | hidangan utama: kentang goreng bersama burger. | entree, the fries with the burger. | hidangan: [ ] • utama: [ ] • kentang: [ ] • goreng: [ ] • bersama: [ ] • burger: [ ] |
-| 162 | 13:10 - 13:11 | Bagaimana perasaan awak? Berdebar-debar ke tadi? Tak, saya cuma tak | Well, how do you feel? Was that exhilarating? No, I just didn't | bagaimana: [ ] • perasaan: [ ] • awak: [ ] • berdebar: [ ] • debar: [ ] • ke: [ ] • tadi: [ ] • tak: [ ] • saya: [ ] • cuma: [ ] |
-| 163 | 13:15 - 13:16 | mahu ada serangga yang masuk ikut tingkap. Ya, awak boleh nampak mereka terbang di luar | want any to come in through the window. Yeah, you can see them flying outside | mahu: [ ] • ada: [ ] • serangga: [ ] • yang: [ ] • masuk: [ ] • ikut: [ ] • tingkap: [ ] • ya: [ ] • awak: [ ] • boleh: [ ] • nampak: [ ] • mereka: [ ] • terbang: [ ] • di: [ ] • luar: [ ] |
-| 164 | 13:19 - 13:21 | sekarang. Saya tutup tingkap itu tadi sebab mereka mula masuk ke dalam. | now. They're like I had that window closed cuz they were getting in here. | sekarang: [ ] • saya: [ ] • tutup: [ ] • tingkap: [ ] • itu: [ ] • tadi: [ ] • sebab: [ ] • mereka: [ ] • mula: [ ] • masuk: [ ] • ke: [ ] • dalam: [ ] |
-| 165 | 13:23 - 13:25 | Mereka terbang di luar sana tapi seekor baru terjatuh. Saya cuma pukul jatuh | They're like flying outside there, but it just fell down. But I just knocked it | mereka: [ ] • terbang: [ ] • di: [ ] • luar: [ ] • sana: [ ] • tapi: [ ] • seekor: [ ] • baru: [ ] • terjatuh: [ ] • saya: [ ] • cuma: [ ] • pukul: [ ] • jatuh: [ ] |
-| 166 | 13:27 - 13:29 | guna penyapu ini. Sekarang ini macam bilik stor. Jadi saya akan | down with this broom. And now this is like a storage room. So, I'm going to | guna: [ ] • penyapu: [ ] • ini: [ ] • sekarang: [ ] • macam: [ ] • bilik: [ ] • stor: [ ] • jadi: [ ] • saya: [ ] • akan: [ ] |
-| 167 | 13:31 - 13:33 | simpan semula penyapu ke dalam bilik stor. Perkataan apakah | put the broom back into the storage room. What words did | simpan: [ ] • semula: [ ] • penyapu: [ ] • ke: [ ] • dalam: [ ] • bilik: [ ] • stor: [ ] • perkataan: [ ] • apakah: [ ] |
-| 168 | 13:36 - 13:38 | yang anda pelajari hari ini? Pastikan anda tulis di ruangan komen. Dan ini ialah negara | you guys learn today? Make sure to write it in the comments. And these are the | yang: [ ] • anda: [ ] • pelajari: [ ] • hari: [ ] • ini: [ ] • pastikan: [ ] • tulis: [ ] • di: [ ] • ruangan: [ ] • komen: [ ] • dan: [ ] • ialah: [ ] • negara: [ ] |
-| 169 | 13:40 - 13:42 | asal anda semua dari video lepas. Ini komen kegemaran saya dari video lepas. | countries you were from last video. This was my favorite comment from last video. | asal: [ ] • anda: [ ] • semua: [ ] • dari: [ ] • video: [ ] • lepas: [ ] • ini: [ ] • komen: [ ] • kegemaran: [ ] • saya: [ ] |
-| 170 | 13:45 - 13:47 | Jika anda mahukan ringkasan perkataan dan kuiz, pastikan ikuti Instagram saya sebab | If you want the word summary and a quiz, make sure to follow my Instagram cuz | jika: [ ] • anda: [ ] • mahukan: [ ] • ringkasan: [ ] • perkataan: [ ] • dan: [ ] • kuiz: [ ] • pastikan: [ ] • ikuti: [ ] • instagram: [ ] • saya: [ ] • sebab: [ ] |
-| 171 | 13:49 - 13:51 | saya akan kongsikannya di sana. Jika anda suka video ini, lihat senarai main ini | I'll be posting it there. If you guys like this video, check out this playlist | saya: [ ] • akan: [ ] • kongsikannya: [ ] • di: [ ] • sana: [ ] • jika: [ ] • anda: [ ] • suka: [ ] • video: [ ] • ini: [ ] • lihat: [ ] • senarai: [ ] • main: [ ] |
-| 172 | 13:52 - 13:54 | selepas ini untuk semua video 'comprehensible input' saya. | next for all my comprehensible input videos. | selepas: [ ] • ini: [ ] • untuk: [ ] • semua: [ ] • video: [ ] • comprehensible: [ ] • input: [ ] • saya: [ ] |
+| 1 | 00:00 - 00:02 | Today we're learning real life English surrounded by nature, | Hari ini kita belajar Bahasa Inggeris kehidupan sebenar sambil dikelilingi alam semula jadi, | today: [hari ini] • we're: [kami / kita sedang (singkatan 'we are')] • learning: [pembelajaran / sedang belajar] • real: [nyata / sebenar] • life: [ ] • english: [bahasa Inggeris] • surrounded: [ ] • by: [oleh / dengan / menjelang] • nature: [ ] |
+| 2 | 00:06 - 00:08 | cooking in the kitchen, and talking with my brother. All through comprehensible | memasak di dapur, dan berbual dengan abang saya. Semuanya melalui kaedah 'comprehensible | cooking: [memasak / masakan] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • kitchen: [dapur] • and: [dan] • talking: [ ] • with: [dengan / bersama] • my: [saya punya / kepunyaan saya] • brother: [ ] • all: [semua / seluruh] • through: [melalui / merentasi] • comprehensible: [mudah difahami] |
+| 3 | 00:13 - 00:15 | input. Let's get started. What's this? What's that line in the sky that the | input'. Jom kita mulakan. Apakah ini? Garisan apa di langit yang ditinggalkan oleh | input: [input / masukan] • let's: [jom / marilah kita (singkatan 'let us')] • get: [dapat / mengambil] • started: [sudah bermula] • what's: [apa / apakah (singkatan 'what is/has')] • this: [ini] • that: [itu / yang] • line: [ ] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • sky: [ ] |
+| 4 | 00:18 - 00:20 | plane left behind when it passed? That straight line? Yeah, that is a vapor | kapal terbang bila ia melintas tadi? Garisan lurus tu? Ya, itu ialah jejak wap | plane: [ ] • left: [ ] • behind: [di belakang] • when: [bila / apabila] • it: [ia / itu] • passed: [ ] • that: [itu / yang] • straight: [ ] • line: [ ] • yeah: [ya / betul] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • vapor: [ ] |
+| 5 | 00:24 - 00:26 | trail. I don't know if you can see the plane, but there it goes. Wow. It's 9:14 | ('vapor trail'). Saya tak pasti kalau anda nampak kapal terbang itu, tapi itu dia sedang terbang. Pukul 9:14 | trail: [ ] • i: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • know: [tahu / kenal] • if: [jika / kalau] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • the: [kata penentu (itu / si)] • plane: [ ] • but: [tetapi / tapi] • there: [di sana / ada] • it: [ia / itu] • goes: [ ] • wow: [ ] • it's: [ia adalah / itu (singkatan 'it is/has')] • 9:14: [ ] |
+| 6 | 00:30 - 00:32 | a.m. And look at this like beautiful view we have here. And we got our we got | pagi. Dan lihatlah pemandangan indah yang kita ada di sini. Dan kami dah sarungkan | a.m: [ ] • and: [dan] • look: [tengok / kelihatan] • at: [di / pada] • this: [ini] • like: [suka / seperti] • beautiful: [ ] • view: [pemandangan / tontonan] • we: [kami / kita] • have: [ada / mempunyai] • here: [di sini] • got: [dapat / sudah dapat] • our: [kami punya / kita punya] |
+| 7 | 00:37 - 00:39 | our rubber boots on. You can see it. Mine are black. Here we have a stick. | but getah kami. Anda boleh lihat, but saya warna hitam. Di sini kita ada sebatang ranting. | our: [kami punya / kita punya] • rubber: [ ] • boots: [ ] • on: [hidup / atas] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • it: [ia / itu] • mine: [ ] • are: [adalah / berada] • black: [hitam] • here: [di sini] • we: [kami / kita] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • stick: [kayu / melekat] |
+| 8 | 00:41 - 00:43 | This is just a small stick. It's pretty short. It's not long. This tree is dead. | Ini cuma ranting kayu kecil. Agak pendek, tidak panjang. Pokok ini dah mati. | this: [ini] • is: [adalah / ialah] • just: [hanya / sekadar / baru saja] • a: [sebuah / seorang / satu] • small: [kecil] • stick: [kayu / melekat] • it's: [ia adalah / itu (singkatan 'it is/has')] • pretty: [agak / cantik] • short: [ ] • not: [bukan / tidak] • long: [panjang / lama] • tree: [ ] • dead: [ ] |
+| 9 | 00:46 - 00:47 | You can see there's like there's no leaves and no life on it. But it's | Anda boleh lihat tiada daun dan tiada hidupan padanya. Tetapi sangat | you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • there's: [ada / terdapat (singkatan 'there is')] • like: [suka / seperti] • no: [tidak / tiada] • leaves: [ ] • and: [dan] • life: [ ] • on: [hidup / atas] • it: [ia / itu] • but: [tetapi / tapi] • it's: [ia adalah / itu (singkatan 'it is/has')] |
+| 10 | 00:49 - 00:51 | really nice to get back to nature sometimes cuz when you're always working | menyeronokkan dapat kembali kepada alam semula jadi sekali-sekala sebab bila anda selalu bekerja | really: [betul-betul / sungguh] • nice: [bagus / cantik / selesa] • to: [ke / untuk] • get: [dapat / mengambil] • back: [belakang / kembali] • nature: [ ] • sometimes: [kadang-kadang] • cuz: [sebab / kerana (singkatan 'because')] • when: [bila / apabila] • you're: [anda / awak adalah (singkatan 'you are')] • always: [sentiasa / selalu] • working: [sedang berfungsi / bekerja] |
+| 11 | 00:53 - 00:55 | in your house, you can't really appreciate mother nature. So, I like to | di dalam rumah, anda sukar menghargai keindahan alam. Jadi saya suka | in: [dalam / di dalam] • your: [awak punya / anda punya] • house: [rumah] • you: [awak / anda] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • really: [betul-betul / sungguh] • appreciate: [ ] • mother: [ ] • nature: [ ] • so: [jadi / sangat] • i: [saya / aku] • like: [suka / seperti] • to: [ke / untuk] |
+| 12 | 00:57 - 00:59 | get back to nature like on weekends. Maybe I go for a hike or go walk around | kembali menghayati alam pada hujung minggu. Mungkin pergi mendaki atau berjalan-jalan | get: [dapat / mengambil] • back: [belakang / kembali] • to: [ke / untuk] • nature: [ ] • like: [suka / seperti] • on: [hidup / atas] • weekends: [ ] • maybe: [ ] • i: [saya / aku] • go: [pergi] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • hike: [ ] • or: [atau] • walk: [berjalan] • around: [sekitar / di sekeliling] |
+| 13 | 01:02 - 01:04 | the mountain or something. Remember guys, I am teaching you the 3,000 most | di kawasan pergunungan. Ingat kawan-kawan, saya sedang mengajar anda 3,000 perkataan | the: [kata penentu (itu / si)] • mountain: [ ] • or: [atau] • something: [sesuatu] • remember: [ingat / mengingati] • guys: [kawan-kawan / kalian] • i: [saya / aku] • am: [adalah / berada] • teaching: [ ] • you: [awak / anda] • 3,000: [ ] • most: [paling banyak / kebanyakan] |
+| 14 | 01:07 - 01:09 | common English words. So, make sure to check out this playlist next. You may | Bahasa Inggeris paling lazim. Jadi pastikan anda tonton senarai main ini selepas ini. Anda mungkin | common: [lazim / biasa] • english: [bahasa Inggeris] • words: [perkataan-perkataan] • so: [jadi / sangat] • make: [buat / menghasilkan] • sure: [pasti / tentu] • to: [ke / untuk] • check: [semak / periksa] • out: [keluar / di luar] • this: [ini] • playlist: [ ] • next: [seterusnya / sebelah] • you: [awak / anda] • may: [ ] |
+| 15 | 01:12 - 01:13 | you may be you may be walking by walking by this tree and not even notice, but if | sedang berjalan melintasi pokok ini tanpa perasan apa-apa, tapi jika | you: [awak / anda] • may: [ ] • be: [menjadi / berada] • walking: [ ] • by: [oleh / dengan / menjelang] • this: [ini] • tree: [ ] • and: [dan] • not: [bukan / tidak] • even: [malah / pun] • notice: [ ] • but: [tetapi / tapi] • if: [jika / kalau] |
+| 16 | 01:16 - 01:18 | you step on this, like look at this. This is a thorn. | anda terpijak benda ini, tengoklah ini. Ini ialah sebatang duri tajam. | you: [awak / anda] • step: [langkah / melangkah] • on: [hidup / atas] • this: [ini] • like: [suka / seperti] • look: [tengok / kelihatan] • at: [di / pada] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • thorn: [ ] |
+| 17 | 01:20 - 01:22 | And if it's like if the thorn falls on the ground and you step on it, look at | Dan jika duri ini jatuh ke tanah dan anda terpijak di atasnya, tengoklah | and: [dan] • if: [jika / kalau] • it's: [ia adalah / itu (singkatan 'it is/has')] • like: [suka / seperti] • the: [kata penentu (itu / si)] • thorn: [ ] • falls: [ ] • on: [hidup / atas] • ground: [ ] • you: [awak / anda] • step: [langkah / melangkah] • it: [ia / itu] • look: [tengok / kelihatan] • at: [di / pada] |
+| 18 | 01:25 - 01:27 | this. that could go through your whole boot | ini. Duri ini boleh tembus ke seluruh bahagian tapak but anda | this: [ini] • that: [itu / yang] • could: [boleh / dapat] • go: [pergi] • through: [melalui / merentasi] • your: [awak punya / anda punya] • whole: [seluruh / keseluruhan] • boot: [ ] |
+| 19 | 01:29 - 01:31 | pretty much. Yeah. I remember I was walking with my flipflops | dengan mudah sekali. Ya. Saya ingat lagi dulu saya berjalan pakai selipar jepun | pretty: [agak / cantik] • much: [banyak] • yeah: [ya / betul] • i: [saya / aku] • remember: [ingat / mengingati] • was: [adalah / dulu berada] • walking: [ ] • with: [dengan / bersama] • my: [saya punya / kepunyaan saya] • flipflops: [ ] |
+| 20 | 01:34 - 01:36 | going up towards the main road and my slide fell off. The first step I took, I | menuju ke jalan utama dan selipar saya tercabut. Langkah pertama yang saya ambil, | going: [sedang pergi / akan] • up: [atas / naik] • towards: [ ] • the: [kata penentu (itu / si)] • main: [utama] • road: [ ] • and: [dan] • my: [saya punya / kepunyaan saya] • slide: [ ] • fell: [ ] • off: [padam / mati / lepas] • first: [pertama / dulu] • step: [langkah / melangkah] • i: [saya / aku] • took: [mengambil / telah ambil] |
+| 21 | 01:40 - 01:41 | stepped into one of those thorns, one of these storm bushes, and it went through | saya terpijak salah satu duri ini daripada semak berduri, dan ia tembus | stepped: [ ] • into: [ke dalam] • one: [satu / seorang] • of: [daripada / tentang] • those: [semua itu] • thorns: [ ] • these: [semua ini] • storm: [ ] • bushes: [ ] • and: [dan] • it: [ia / itu] • went: [telah pergi] • through: [melalui / merentasi] |
+| 22 | 01:43 - 01:45 | your sandal. No, my sandal fell off. So, I was walking, it fell off, and then the | sandal awak ke? Bukan, sandal saya tercabut masa tu. Jadi saya tengah berjalan, ia tercabut, dan kemudian | your: [awak punya / anda punya] • sandal: [ ] • no: [tidak / tiada] • my: [saya punya / kepunyaan saya] • fell: [ ] • off: [padam / mati / lepas] • so: [jadi / sangat] • i: [saya / aku] • was: [adalah / dulu berada] • walking: [ ] • it: [ia / itu] • and: [dan] • then: [kemudian / waktu itu] • the: [kata penentu (itu / si)] |
+| 23 | 01:48 - 01:50 | second step I took after it fell or the first step I took after it fell off was | langkah pertama yang saya ambil sebaik saja ia tercabut adalah tepat | second: [kedua / saat] • step: [langkah / melangkah] • i: [saya / aku] • took: [mengambil / telah ambil] • after: [selepas / sesudah] • it: [ia / itu] • fell: [ ] • or: [atau] • the: [kata penentu (itu / si)] • first: [pertama / dulu] • off: [padam / mati / lepas] • was: [adalah / dulu berada] |
+| 24 | 01:53 - 01:55 | into one of those needles. When was this? Uh, two weeks ago maybe. What's | ke atas salah satu duri tajam itu. Bila kejadian ini berlaku? Kira-kira dua minggu lepas. Apakah | into: [ke dalam] • one: [satu / seorang] • of: [daripada / tentang] • those: [semua itu] • needles: [ ] • when: [bila / apabila] • was: [adalah / dulu berada] • this: [ini] • uh: [err / uh] • two: [dua] • weeks: [ ] • ago: [ ] • maybe: [ ] • what's: [apa / apakah (singkatan 'what is/has')] |
+| 25 | 01:58 - 02:00 | one of your favorite things to say related to like hiking in nature? Like a | salah satu ungkapan kegemaran awak yang berkaitan dengan mendaki di alam semula jadi? Seperti perkataan | one: [satu / seorang] • of: [daripada / tentang] • your: [awak punya / anda punya] • favorite: [kegemaran] • things: [benda-benda / perkara-perkara] • to: [ke / untuk] • say: [cakap / berkata] • related: [ ] • like: [suka / seperti] • hiking: [ ] • in: [dalam / di dalam] • nature: [ ] • a: [sebuah / seorang / satu] |
+| 26 | 02:03 - 02:05 | slang word to teach them? The first thing that comes to mind would be take a | slanga untuk ajar mereka? Perkara pertama yang terlintas di fikiran ialah 'take a | slang: [ ] • word: [perkataan] • to: [ke / untuk] • teach: [ ] • them: [mereka] • the: [kata penentu (itu / si)] • first: [pertama / dulu] • thing: [benda / perkara] • that: [itu / yang] • comes: [ ] • mind: [fikiran / minda] • would: [akan / sudi] • be: [menjadi / berada] • take: [ambil / memerlukan masa] • a: [sebuah / seorang / satu] |
+| 27 | 02:07 - 02:09 | hike. If say for example my brother is annoying me or he asked me to do | hike'. Contohnya jika abang saya menjengkelkan saya atau dia suruh saya buat | hike: [ ] • if: [jika / kalau] • say: [cakap / berkata] • for: [untuk / bagi] • example: [ ] • my: [saya punya / kepunyaan saya] • brother: [ ] • is: [adalah / ialah] • annoying: [ ] • me: [saya / aku] • or: [atau] • he: [ ] • asked: [ ] • to: [ke / untuk] • do: [buat / lakukan] |
+| 28 | 02:13 - 02:14 | something unreasonable like wash the dishes after I cooked, I'll tell him to | perkara tak munasabah seperti basuh pinggan selepas saya masak, saya akan beritahu dia | something: [sesuatu] • unreasonable: [ ] • like: [suka / seperti] • wash: [basuh / mencuci] • the: [kata penentu (itu / si)] • dishes: [pinggan mangkuk / hidangan] • after: [selepas / sesudah] • i: [saya / aku] • cooked: [ ] • i'll: [saya akan (singkatan 'I will')] • tell: [beritahu / khabarkan] • him: [ ] • to: [ke / untuk] |
+| 29 | 02:17 - 02:19 | take a hike. And what does that mean? What does it mean to take a hike? It | 'take a hike'. Dan apa maksudnya? Apa maksud 'take a hike'? Ia | take: [ambil / memerlukan masa] • a: [sebuah / seorang / satu] • hike: [ ] • and: [dan] • what: [apa / apakah] • does: [buat / melakukan] • that: [itu / yang] • mean: [maksud / berniat] • it: [ia / itu] • to: [ke / untuk] |
+| 30 | 02:20 - 02:22 | means get lost, get out of here or it just means like go away but in a rude | bermaksud 'pergi berambus', 'nyah dari sini' atau suruh pergi tetapi dengan cara yang agak | means: [ ] • get: [dapat / mengambil] • lost: [ ] • out: [keluar / di luar] • of: [daripada / tentang] • here: [di sini] • or: [atau] • it: [ia / itu] • just: [hanya / sekadar / baru saja] • like: [suka / seperti] • go: [pergi] • away: [jauh / pergi] • but: [tetapi / tapi] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • rude: [ ] |
+| 31 | 02:25 - 02:27 | way. But literally take a hike means like go hiking. What does off the beaten | kasar. Tetapi secara harfiah, 'take a hike' bermaksud pergi mendaki. Apa maksud 'off the beaten | way: [jalan / cara] • but: [tetapi / tapi] • literally: [ ] • take: [ambil / memerlukan masa] • a: [sebuah / seorang / satu] • hike: [ ] • means: [ ] • like: [suka / seperti] • go: [pergi] • hiking: [ ] • what: [apa / apakah] • does: [buat / melakukan] • off: [padam / mati / lepas] • the: [kata penentu (itu / si)] • beaten: [ ] |
+| 32 | 02:31 - 02:33 | path mean? So here you can see this. This is a path. This | path'? Di sini anda boleh lihat ini. Ini ialah denai/laluan. Ini | path: [ ] • mean: [maksud / berniat] • so: [jadi / sangat] • here: [di sini] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • this: [ini] • is: [adalah / ialah] • a: [sebuah / seorang / satu] |
+| 33 | 02:36 - 02:38 | is a small path. What does off the beaten path mean? So off the beaten path | laluan kecil. Apa maksud 'off the beaten path'? 'Off the beaten path' | is: [adalah / ialah] • a: [sebuah / seorang / satu] • small: [kecil] • path: [ ] • what: [apa / apakah] • does: [buat / melakukan] • off: [padam / mati / lepas] • the: [kata penentu (itu / si)] • beaten: [ ] • mean: [maksud / berniat] • so: [jadi / sangat] |
+| 34 | 02:42 - 02:43 | means instead of taking the route that everyone else took, taking an | bermaksud berbanding mengambil laluan biasa yang dilalui semua orang, anda mengambil | means: [ ] • instead: [sebaliknya] • of: [daripada / tentang] • taking: [sedang mengambil] • the: [kata penentu (itu / si)] • route: [ ] • that: [itu / yang] • everyone: [ ] • else: [ ] • took: [mengambil / telah ambil] • an: [sebuah / seorang / satu] |
+| 35 | 02:46 - 02:48 | unconventional path and doing things differently. Off the beaten path means | laluan luar kebiasaan dan melakukan sesuatu dengan cara berbeza. 'Off the beaten path' bermaksud | unconventional: [ ] • path: [ ] • and: [dan] • doing: [ ] • things: [benda-benda / perkara-perkara] • differently: [ ] • off: [padam / mati / lepas] • the: [kata penentu (itu / si)] • beaten: [ ] • means: [ ] |
+| 36 | 02:52 - 02:53 | go somewhere less known or less popular. When something is very beautiful, you | pergi ke tempat yang kurang dikenali atau kurang popular. Bila sesuatu itu sangat cantik, anda | go: [pergi] • somewhere: [ ] • less: [ ] • known: [ ] • or: [atau] • popular: [ ] • when: [bila / apabila] • something: [sesuatu] • is: [adalah / ialah] • very: [sangat / amat] • beautiful: [ ] • you: [awak / anda] |
+| 37 | 02:56 - 02:58 | could say picture perfect. This view is picture perfect. So if you see something | boleh katakan 'picture perfect'. Pemandangan ini sangat sempurna macam gambar lukisan. Jika anda lihat sesuatu | could: [boleh / dapat] • say: [cakap / berkata] • picture: [ ] • perfect: [ ] • this: [ini] • view: [pemandangan / tontonan] • is: [adalah / ialah] • so: [jadi / sangat] • if: [jika / kalau] • you: [awak / anda] • see: [lihat / nampak / tengok] • something: [sesuatu] |
+| 38 | 03:03 - 03:04 | very beautiful, you could say, \"Wow, that's picture perfect. That's | yang teramat indah, anda boleh sebut, \"Wah, 'picture perfect' sungguh. Sangat | very: [sangat / amat] • beautiful: [ ] • you: [awak / anda] • could: [boleh / dapat] • say: [cakap / berkata] • wow: [ ] • that's: [itu adalah / itu (singkatan 'that is')] • picture: [ ] • perfect: [ ] |
+| 39 | 03:07 - 03:09 | beautiful. It's beautiful like a picture. This cow is laying on the road. | cantik bagaikan lukisan.\" Lembu ini sedang berbaring di atas jalan. | beautiful: [ ] • it's: [ia adalah / itu (singkatan 'it is/has')] • like: [suka / seperti] • a: [sebuah / seorang / satu] • picture: [ ] • this: [ini] • cow: [ ] • is: [adalah / ialah] • laying: [ ] • on: [hidup / atas] • the: [kata penentu (itu / si)] • road: [ ] |
+| 40 | 03:12 - 03:14 | And same with these calves. And these calves are standing. | Sama juga dengan anak-anak lembu ini. Dan anak-anak lembu ini sedang berdiri. | and: [dan] • same: [sama] • with: [dengan / bersama] • these: [semua ini] • calves: [ ] • are: [adalah / berada] • standing: [sedang berdiri] |
+| 41 | 03:16 - 03:18 | How you How you doing, boys? So, now I'm going to climb over this fence. | Apa khabar kamu semua? Sekarang saya akan memanjat pagar ini. | how: [bagaimana / macam mana] • you: [awak / anda] • doing: [ ] • boys: [ ] • so: [jadi / sangat] • now: [sekarang] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] • climb: [ ] • over: [atas / tamat / lebih] • this: [ini] • fence: [ ] |
+| 42 | 03:23 - 03:25 | So, I just climbed over that fence. Light work. | Saya baru saja panjat pagar itu. Kacang saja. | so: [jadi / sangat] • i: [saya / aku] • just: [hanya / sekadar / baru saja] • climbed: [ ] • over: [atas / tamat / lebih] • that: [itu / yang] • fence: [ ] • light: [cahaya / lampu / ringan] • work: [kerja / berfungsi] |
+| 43 | 03:29 - 03:30 | I almost tripped there. How you doing, boy? | Hampir tersadung kaki saya tadi. Apa khabar kawan? | i: [saya / aku] • almost: [ ] • tripped: [ ] • there: [di sana / ada] • how: [bagaimana / macam mana] • you: [awak / anda] • doing: [ ] • boy: [ ] |
+| 44 | 03:34 - 03:36 | This looks like a milking cow, though. I really want to make a tres leches or | Ini nampak macam lembu tenusu. Saya teringin sangat nak buat kek 'tres leches' atau | this: [ini] • looks: [ ] • like: [suka / seperti] • a: [sebuah / seorang / satu] • milking: [ ] • cow: [ ] • though: [walaupun / biarpun] • i: [saya / aku] • really: [betul-betul / sungguh] • want: [mahu / nak] • to: [ke / untuk] • make: [buat / menghasilkan] • tres: [ ] • leches: [ ] • or: [atau] |
+| 45 | 03:39 - 03:41 | three milks. It's a really popular really popular dessert that's delicious. | 'tiga susu'. Ia sejenis pencuci mulut yang sangat popular dan lazat. | three: [tiga] • milks: [ ] • it's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • really: [betul-betul / sungguh] • popular: [ ] • dessert: [ ] • that's: [itu adalah / itu (singkatan 'that is')] • delicious: [ ] |
+| 46 | 03:45 - 03:46 | I've made it one time bust and you know because it's 21st century I'm going to | Saya pernah buat sekali dulu sedap sungguh, dan memandangkan sekarang abad ke-21, saya akan | i've: [saya telah / saya dah (singkatan 'I have')] • made: [dibuat / menghasilkan] • it: [ia / itu] • one: [satu / seorang] • time: [masa / waktu] • bust: [ ] • and: [dan] • you: [awak / anda] • know: [tahu / kenal] • because: [kerana / sebab] • it's: [ia adalah / itu (singkatan 'it is/has')] • 21st: [ ] • century: [ ] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] |
+| 47 | 03:50 - 03:52 | ask Chachi Bi for a recipe on how I can make tres leches or three milks and yeah | minta ChatGPT berikan resipi bagaimana nak buat kek tres leches atau tiga susu, ya | ask: [ ] • chachi: [ ] • bi: [ ] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • recipe: [ ] • on: [hidup / atas] • how: [bagaimana / macam mana] • i: [saya / aku] • can: [boleh / dapat] • make: [buat / menghasilkan] • tres: [ ] • leches: [ ] • or: [atau] • three: [tiga] • milks: [ ] • and: [dan] • yeah: [ya / betul] |
+| 48 | 03:57 - 03:59 | cuz instead of searching for a recipe on Google Chachi can give me a recipe and I | sebab berbanding cari di Google, ChatGPT boleh berikan resipi dan saya | cuz: [sebab / kerana (singkatan 'because')] • instead: [sebaliknya] • of: [daripada / tentang] • searching: [ ] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • recipe: [ ] • on: [hidup / atas] • google: [ ] • chachi: [ ] • can: [boleh / dapat] • give: [beri / memberikan] • me: [saya / aku] • and: [dan] • i: [saya / aku] |
+| 49 | 04:03 - 04:05 | could say oh I only have this ingredient instead of this and it could make the | boleh maklumkan bahan apa yang saya ada dan ia boleh sesuaikan | could: [boleh / dapat] • say: [cakap / berkata] • oh: [oh] • i: [saya / aku] • only: [hanya / sahaja] • have: [ada / mempunyai] • this: [ini] • ingredient: [bahan masakan] • instead: [sebaliknya] • of: [daripada / tentang] • and: [dan] • it: [ia / itu] • make: [buat / menghasilkan] • the: [kata penentu (itu / si)] |
+| 50 | 04:07 - 04:09 | recipe tailored just for me. So I like chachi tea. Okay so now let's grab the | resipi khas untuk saya. Saya suka ChatGPT. Sekarang jom ambil bahan-bahannya. | recipe: [ ] • tailored: [ ] • just: [hanya / sekadar / baru saja] • for: [untuk / bagi] • me: [saya / aku] • so: [jadi / sangat] • i: [saya / aku] • like: [suka / seperti] • chachi: [ ] • tea: [ ] • okay: [ ] • now: [sekarang] • let's: [jom / marilah kita (singkatan 'let us')] • grab: [ambil / capai] • the: [kata penentu (itu / si)] |
+| 51 | 04:12 - 04:14 | ingredients. Okay, guys. So, we got eggs, a bag of eggs, and some other | Baiklah kawan-kawan. Kami dah dapatkan telur, sebungkus telur, dan beberapa barang | ingredients: [bahan-bahan masakan] • okay: [ ] • guys: [kawan-kawan / kalian] • so: [jadi / sangat] • we: [kami / kita] • got: [dapat / sudah dapat] • eggs: [telur-telur] • a: [sebuah / seorang / satu] • bag: [ ] • of: [daripada / tentang] • and: [dan] • some: [beberapa / sedikit] • other: [lain] |
+| 52 | 04:17 - 04:19 | things. So, now we can continue making the dessert. T leches. So, let's get | lain. Sekarang kita boleh sambung buat pencuci mulut kek tres leches. Jom kita | things: [benda-benda / perkara-perkara] • so: [jadi / sangat] • now: [sekarang] • we: [kami / kita] • can: [boleh / dapat] • continue: [teruskan / menyambung] • making: [sedang membuat] • the: [kata penentu (itu / si)] • dessert: [ ] • t: [ ] • leches: [ ] • let's: [jom / marilah kita (singkatan 'let us')] • get: [dapat / mengambil] |
+| 53 | 04:23 - 04:25 | that going. So, we have the silver bowl again. | mulakan. Kita ada mangkuk perak ini sekali lagi. | that: [itu / yang] • going: [sedang pergi / akan] • so: [jadi / sangat] • we: [kami / kita] • have: [ada / mempunyai] • the: [kata penentu (itu / si)] • silver: [perak] • bowl: [mangkuk] • again: [ ] |
+| 54 | 04:27 - 04:29 | First things first, four eggs. Okay, so we're going to crack | Perkara pertama, empat biji telur. Baiklah, kita akan pecahkan | first: [pertama / dulu] • things: [benda-benda / perkara-perkara] • four: [empat] • eggs: [telur-telur] • okay: [ ] • so: [jadi / sangat] • we're: [kami / kita sedang (singkatan 'we are')] • going: [sedang pergi / akan] • to: [ke / untuk] • crack: [ ] |
+| 55 | 04:32 - 04:34 | four eggs. Crack. This is cracking an egg. | empat biji telur. Pecahkan telur ('crack an egg'). | four: [empat] • eggs: [telur-telur] • crack: [ ] • this: [ini] • is: [adalah / ialah] • cracking: [ ] • an: [sebuah / seorang / satu] • egg: [ ] |
+| 56 | 04:40 - 04:42 | So, this this is a whisk and I'm going to attach it to this this black piece | Ini ialah pemutar ('whisk') dan saya akan pasangkannya pada bahagian pemutar hitam ini | so: [jadi / sangat] • this: [ini] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • whisk: [ ] • and: [dan] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] • attach: [ ] • it: [ia / itu] • black: [hitam] • piece: [ ] |
+| 57 | 04:46 - 04:48 | plugged in. And now these four eggs I cracked. Let's let's beat the eggs now. | yang sudah dipasang suis. Empat biji telur sudah dipecahkan. Jom kita putar pukul telur ini sekarang. | plugged: [ ] • in: [dalam / di dalam] • and: [dan] • now: [sekarang] • these: [semua ini] • four: [empat] • eggs: [telur-telur] • i: [saya / aku] • cracked: [ ] • let's: [jom / marilah kita (singkatan 'let us')] • beat: [ ] • the: [kata penentu (itu / si)] |
+| 58 | 04:54 - 04:56 | Now, we have some sugar here. So, I'm going to add the sugar. So, I have a | Sekarang kita ada sedikit gula di sini. Saya akan masukkan gula. Saya ada cawan penyukat | now: [sekarang] • we: [kami / kita] • have: [ada / mempunyai] • some: [beberapa / sedikit] • sugar: [gula] • here: [di sini] • so: [jadi / sangat] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] • add: [ ] • the: [kata penentu (itu / si)] • i: [saya / aku] • a: [sebuah / seorang / satu] |
+| 59 | 04:58 - 05:00 | half cup measuring cup and I'm going to put powdered sugar in here. This is | setengah cawan dan saya akan masukkan gula aising ke dalam ini. Ini kira-kira | half: [ ] • cup: [cawan] • measuring: [mengukur] • and: [dan] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] • put: [letak / meletakkan] • powdered: [ ] • sugar: [gula] • in: [dalam / di dalam] • here: [di sini] • this: [ini] • is: [adalah / ialah] |
+| 60 | 05:03 - 05:04 | about half a cup of sugar. Put it in here. Mix it with the eggs. | setengah cawan gula. Masukkan ke dalam ini. Campurkan bersama telur. | about: [tentang / sekitar] • half: [ ] • a: [sebuah / seorang / satu] • cup: [cawan] • of: [daripada / tentang] • sugar: [gula] • put: [letak / meletakkan] • it: [ia / itu] • in: [dalam / di dalam] • here: [di sini] • mix: [ ] • with: [dengan / bersama] • the: [kata penentu (itu / si)] • eggs: [telur-telur] |
+| 61 | 05:07 - 05:09 | Now let's keep on blending it. Okay, so now we finished beating the | Sekarang mari kita terus memutarnya. Baiklah, kami dah selesai pukul | now: [sekarang] • let's: [jom / marilah kita (singkatan 'let us')] • keep: [simpan / teruskan] • on: [hidup / atas] • blending: [ ] • it: [ia / itu] • okay: [ ] • so: [jadi / sangat] • we: [kami / kita] • finished: [siap / selesai] • beating: [ ] • the: [kata penentu (itu / si)] |
+| 62 | 05:12 - 05:14 | eggs. As you can see the consistency, a lot fluffier. So now we have the one cup | telur. Seperti yang anda boleh lihat kepekatannya, jauh lebih gebu. Sekarang kita ada cawan penyukat | eggs: [telur-telur] • as: [seperti / sebagai] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • the: [kata penentu (itu / si)] • consistency: [ ] • a: [sebuah / seorang / satu] • lot: [banyak] • fluffier: [ ] • so: [jadi / sangat] • now: [sekarang] • we: [kami / kita] • have: [ada / mempunyai] • one: [satu / seorang] • cup: [cawan] |
+| 63 | 05:18 - 05:20 | measuring cup. That is 1 cup or 240 ml. We have the flour here. | satu cawan. Iaitu 1 cawan atau 240 ml. Kita ada tepung di sini. | measuring: [mengukur] • cup: [cawan] • that: [itu / yang] • is: [adalah / ialah] • or: [atau] • ml: [ ] • we: [kami / kita] • have: [ada / mempunyai] • the: [kata penentu (itu / si)] • flour: [ ] • here: [di sini] |
+| 64 | 05:25 - 05:27 | So we're going to get one cup of flour. And we're not going to add it all at | Jadi kita akan ambil satu cawan tepung. Dan kita tak masukkan semuanya sekali | so: [jadi / sangat] • we're: [kami / kita sedang (singkatan 'we are')] • going: [sedang pergi / akan] • to: [ke / untuk] • get: [dapat / mengambil] • one: [satu / seorang] • cup: [cawan] • of: [daripada / tentang] • flour: [ ] • and: [dan] • not: [bukan / tidak] • add: [ ] • it: [ia / itu] • all: [semua / seluruh] • at: [di / pada] |
+| 65 | 05:29 - 05:31 | once. We're going to add it in 3 to five batches. Just add a little bit. Then get | gus. Kita masukkan dalam 3 hingga 5 bahagian. Masukkan sedikit saja, kemudian ambil | once: [sekali / suatu ketika] • we're: [kami / kita sedang (singkatan 'we are')] • going: [sedang pergi / akan] • to: [ke / untuk] • add: [ ] • it: [ia / itu] • in: [dalam / di dalam] • five: [lima] • batches: [ ] • just: [hanya / sekadar / baru saja] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • bit: [sedikit / sikit] • then: [kemudian / waktu itu] • get: [dapat / mengambil] |
+| 66 | 05:34 - 05:36 | a spatula and mix it like this. Now I just added | spatula dan gaul sebati seperti ini. Sekarang saya baru saja masukkan | a: [sebuah / seorang / satu] • spatula: [ ] • and: [dan] • mix: [ ] • it: [ia / itu] • like: [suka / seperti] • this: [ini] • now: [sekarang] • i: [saya / aku] • just: [hanya / sekadar / baru saja] • added: [ditambah] |
+| 67 | 05:39 - 05:40 | the last little bit of flour. We have a glass mold here | baki tepung yang terakhir. Kita ada acuan kaca di sini | the: [kata penentu (itu / si)] • last: [terakhir / lepas] • little: [kecil / sedikit] • bit: [sedikit / sikit] • of: [daripada / tentang] • flour: [ ] • we: [kami / kita] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • glass: [kaca / cawan kaca] • mold: [ ] • here: [di sini] |
+| 68 | 05:43 - 05:45 | or a glass container that we're going to put our mixture in. Now I'm going to | atau bekas kaca tempat kita akan tuangkan adunan kita. Sekarang saya akan | or: [atau] • a: [sebuah / seorang / satu] • glass: [kaca / cawan kaca] • container: [bekas / bekas makanan] • that: [itu / yang] • we're: [kami / kita sedang (singkatan 'we are')] • going: [sedang pergi / akan] • to: [ke / untuk] • put: [letak / meletakkan] • our: [kami punya / kita punya] • mixture: [ ] • in: [dalam / di dalam] • now: [sekarang] • i'm: [saya / saya sedang (singkatan 'I am')] |
+| 69 | 05:47 - 05:49 | pour it into here. Just like this. Get it all out. Okay. So now I have the cake | tuangkannya ke dalam ini. Begini caranya, keluarkan semuanya. Baiklah. Sekarang adunan kek | pour: [ ] • it: [ia / itu] • into: [ke dalam] • here: [di sini] • just: [hanya / sekadar / baru saja] • like: [suka / seperti] • this: [ini] • get: [dapat / mengambil] • all: [semua / seluruh] • out: [keluar / di luar] • okay: [ ] • so: [jadi / sangat] • now: [sekarang] • i: [saya / aku] • have: [ada / mempunyai] • the: [kata penentu (itu / si)] • cake: [kek] |
+| 70 | 05:55 - 05:57 | batter inside of this glass container, this glass bowl. And I preheated the | ada di dalam bekas kaca ini, mangkuk kaca ini. Dan saya sudah panaskan | batter: [ ] • inside: [di dalam] • of: [daripada / tentang] • this: [ini] • glass: [kaca / cawan kaca] • container: [bekas / bekas makanan] • bowl: [mangkuk] • and: [dan] • i: [saya / aku] • preheated: [ ] • the: [kata penentu (itu / si)] |
+| 71 | 05:59 - 06:01 | oven already. So I'm opening it up now. It's very hot. | ketuhar terlebih dahulu. Sekarang saya membukanya. Suhu sangat panas. | oven: [ ] • already: [sudah / telah pun] • so: [jadi / sangat] • i'm: [saya / saya sedang (singkatan 'I am')] • opening: [membuka / bukaan] • it: [ia / itu] • up: [atas / naik] • now: [sekarang] • it's: [ia adalah / itu (singkatan 'it is/has')] • very: [sangat / amat] • hot: [panas / pedas] |
+| 72 | 06:04 - 06:06 | Place it in there. So, got the timer here and we're going | Masukkan ke dalam sana. Kita ada pemasa di sini dan kita akan | place: [ ] • it: [ia / itu] • in: [dalam / di dalam] • there: [di sana / ada] • so: [jadi / sangat] • got: [dapat / sudah dapat] • the: [kata penentu (itu / si)] • timer: [ ] • here: [di sini] • and: [dan] • we're: [kami / kita sedang (singkatan 'we are')] • going: [sedang pergi / akan] |
+| 73 | 06:11 - 06:13 | to set it for 25 minutes and then go check it. It should take about 30 | tetapkannya selama 25 minit kemudian semak. Ia mengambil masa kira-kira 30 | to: [ke / untuk] • set: [tetapkan / satu set] • it: [ia / itu] • for: [untuk / bagi] • minutes: [ ] • and: [dan] • then: [kemudian / waktu itu] • go: [pergi] • check: [semak / periksa] • should: [patut / patutlah] • take: [ambil / memerlukan masa] • about: [tentang / sekitar] |
+| 74 | 06:15 - 06:17 | minutes to cook. But we'll set it for 25 minutes first and then we'll go check | minit untuk masak. Tapi kita tetapkan 25 minit dulu dan kemudian kita akan pergi periksa. | minutes: [ ] • to: [ke / untuk] • cook: [memasak] • but: [tetapi / tapi] • we'll: [kami akan / kita akan (singkatan 'we will')] • set: [tetapkan / satu set] • it: [ia / itu] • for: [untuk / bagi] • first: [pertama / dulu] • and: [dan] • then: [kemudian / waktu itu] • go: [pergi] • check: [semak / periksa] |
+| 75 | 06:19 - 06:21 | it. Now that the timer is set, I can make the liquid, which is just the three | Memandangkan pemasa sudah ditetapkan, saya boleh sediakan cecair bancuhan, iaitu campuran tiga | it: [ia / itu] • now: [sekarang] • that: [itu / yang] • the: [kata penentu (itu / si)] • timer: [ ] • is: [adalah / ialah] • set: [tetapkan / satu set] • i: [saya / aku] • can: [boleh / dapat] • make: [buat / menghasilkan] • liquid: [ ] • which: [yang mana] • just: [hanya / sekadar / baru saja] • three: [tiga] |
+| 76 | 06:23 - 06:25 | milks, evaporated milk, whole milk, and condensed milk. Mix that together to put | jenis susu: susu sejat, susu penuh krim, dan susu pekat manis. Campurkan bersama untuk dituang | milks: [ ] • evaporated: [ ] • milk: [ ] • whole: [seluruh / keseluruhan] • and: [dan] • condensed: [ ] • mix: [ ] • that: [itu / yang] • together: [bersama-sama] • to: [ke / untuk] • put: [letak / meletakkan] |
+| 77 | 06:27 - 06:29 | on top once the cake is done. Just mix these ingredients. Milk | ke atas kek sebaik saja ia masak nanti. Campurkan saja bahan-bahan ini: susu, | on: [hidup / atas] • top: [bahagian atas / atas] • once: [sekali / suatu ketika] • the: [kata penentu (itu / si)] • cake: [kek] • is: [adalah / ialah] • done: [ ] • just: [hanya / sekadar / baru saja] • mix: [ ] • these: [semua ini] • ingredients: [bahan-bahan masakan] • milk: [ ] |
+| 78 | 06:32 - 06:33 | whole milk, evaporated milk, and condensed milk. So, | susu penuh krim, susu sejat, dan susu pekat manis. Jadi | whole: [seluruh / keseluruhan] • milk: [ ] • evaporated: [ ] • and: [dan] • condensed: [ ] • so: [jadi / sangat] |
+| 79 | 06:36 - 06:37 | these are the three different types of milk. This is why dessert is called | inilah tiga jenis susu yang berbeza. Sebab itulah pencuci mulut ini dinamakan | these: [semua ini] • are: [adalah / berada] • the: [kata penentu (itu / si)] • three: [tiga] • different: [berbeza / kelainan] • types: [jenis-jenis] • of: [daripada / tentang] • milk: [ ] • this: [ini] • is: [adalah / ialah] • why: [mengapa / kenapa] • dessert: [ ] • called: [dipanggil / dinamakan] |
+| 80 | 06:39 - 06:41 | three milks, the rest leches, cuz you mix them all. So, now we're going to mix | 'tiga susu', tres leches, sebab anda campurkan kesemuanya. Sekarang kita akan campurkan | three: [tiga] • milks: [ ] • the: [kata penentu (itu / si)] • rest: [ ] • leches: [ ] • cuz: [sebab / kerana (singkatan 'because')] • you: [awak / anda] • mix: [ ] • them: [mereka] • all: [semua / seluruh] • so: [jadi / sangat] • now: [sekarang] • we're: [kami / kita sedang (singkatan 'we are')] • going: [sedang pergi / akan] • to: [ke / untuk] |
+| 81 | 06:44 - 06:45 | them all in this pot with a little bit of heat. We're not going to boil it. So, | kesemuanya di dalam periuk ini dengan api kecil. Kita tak didihkannya. Jadi | them: [mereka] • all: [semua / seluruh] • in: [dalam / di dalam] • this: [ini] • pot: [ ] • with: [dengan / bersama] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • bit: [sedikit / sikit] • of: [daripada / tentang] • heat: [ ] • we're: [kami / kita sedang (singkatan 'we are')] • not: [bukan / tidak] • going: [sedang pergi / akan] • to: [ke / untuk] • boil: [mendidih / rebus] • it: [ia / itu] • so: [jadi / sangat] |
+| 82 | 06:49 - 06:51 | let's do that. So, this is a can, and I'm going to open the can, pour it in | mari kita buat. Ini tin, dan saya akan buka tin ini dan tuangkan ke dalam | let's: [jom / marilah kita (singkatan 'let us')] • do: [buat / lakukan] • that: [itu / yang] • so: [jadi / sangat] • this: [ini] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • can: [boleh / dapat] • and: [dan] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] • open: [buka / terbuka] • the: [kata penentu (itu / si)] • pour: [ ] • it: [ia / itu] • in: [dalam / di dalam] |
+| 83 | 06:54 - 06:56 | here. Condensed milk. You can see it's a lot thicker. It's not watery. It's | sini. Susu pekat manis. Anda boleh lihat teksturnya jauh lebih pekat, bukan cair. Ia | here: [di sini] • condensed: [ ] • milk: [ ] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • it's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • lot: [banyak] • thicker: [ ] • not: [bukan / tidak] • watery: [ ] |
+| 84 | 06:59 - 07:01 | pretty thick. Right now, I'm scraping the inside of the can to make sure I get | agak pekat. Sekarang saya sedang mengikis bahagian dalam tin untuk pastikan saya dapat | pretty: [agak / cantik] • thick: [tebal] • right: [betul / kanan / tepat] • now: [sekarang] • i'm: [saya / saya sedang (singkatan 'I am')] • scraping: [ ] • the: [kata penentu (itu / si)] • inside: [di dalam] • of: [daripada / tentang] • can: [boleh / dapat] • to: [ke / untuk] • make: [buat / menghasilkan] • sure: [pasti / tentu] • i: [saya / aku] • get: [dapat / mengambil] |
+| 85 | 07:03 - 07:05 | all of it out. Scraping the inside of the can. Now, let's give it a stir. | keluarkan kesemuanya. Mengikis bahagian dalam tin. Sekarang mari kita kacau. | all: [semua / seluruh] • of: [daripada / tentang] • it: [ia / itu] • out: [keluar / di luar] • scraping: [ ] • the: [kata penentu (itu / si)] • inside: [di dalam] • can: [boleh / dapat] • now: [sekarang] • let's: [jom / marilah kita (singkatan 'let us')] • give: [beri / memberikan] • a: [sebuah / seorang / satu] • stir: [ ] |
+| 86 | 07:08 - 07:10 | Don't want to boil it. We just want to mix it all together. All the three | Kita tak mahu ia mendidih. Kita cuma mahu sebatikan semuanya, ketiga-tiga jenis | don't: [jangan / tidak (singkatan 'do not')] • want: [mahu / nak] • to: [ke / untuk] • boil: [mendidih / rebus] • it: [ia / itu] • we: [kami / kita] • just: [hanya / sekadar / baru saja] • mix: [ ] • all: [semua / seluruh] • together: [bersama-sama] • the: [kata penentu (itu / si)] • three: [tiga] |
+| 87 | 07:11 - 07:13 | milks. And now, you could say this can is empty. You see there's nothing in | susu ini. Dan sekarang anda boleh kata tin ini dah kosong. Tiada apa-apa lagi di | milks: [ ] • and: [dan] • now: [sekarang] • you: [awak / anda] • could: [boleh / dapat] • say: [cakap / berkata] • this: [ini] • can: [boleh / dapat] • is: [adalah / ialah] • empty: [kosong / mengosongkan] • see: [lihat / nampak / tengok] • there's: [ada / terdapat (singkatan 'there is')] • nothing: [tiada apa-apa] • in: [dalam / di dalam] |
+| 88 | 07:15 - 07:17 | there. Okay. So, you can see here's the cake with all the holes I made in it. | dalamnya. Anda boleh lihat ini kek dengan semua lubang yang saya cucuk di atasnya. | there: [di sana / ada] • okay: [ ] • so: [jadi / sangat] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • here's: [ ] • the: [kata penentu (itu / si)] • cake: [kek] • with: [dengan / bersama] • all: [semua / seluruh] • holes: [ ] • i: [saya / aku] • made: [dibuat / menghasilkan] • in: [dalam / di dalam] • it: [ia / itu] |
+| 89 | 07:21 - 07:23 | And the reason I made this holes is for this liquid we made earlier. | Sebab saya buat lubang-lubang ini adalah untuk cecair susu yang kita bancuh tadi, | and: [dan] • the: [kata penentu (itu / si)] • reason: [sebab / alasan] • i: [saya / aku] • made: [dibuat / menghasilkan] • this: [ini] • holes: [ ] • is: [adalah / ialah] • for: [untuk / bagi] • liquid: [ ] • we: [kami / kita] • earlier: [ ] |
+| 90 | 07:26 - 07:28 | So, it absorbs much easier into the cake. I just pour this on. | supaya ia menyerap dengan jauh lebih mudah ke dalam kek. Saya cuma tuangkannya ke atas kek. | so: [jadi / sangat] • it: [ia / itu] • absorbs: [ ] • much: [banyak] • easier: [ ] • into: [ke dalam] • the: [kata penentu (itu / si)] • cake: [kek] • i: [saya / aku] • just: [hanya / sekadar / baru saja] • pour: [ ] • this: [ini] • on: [hidup / atas] |
+| 91 | 07:32 - 07:33 | Okay, so I just put the tesle leches in there. It | Baiklah, saya baru tuang adunan tres leches ke dalamnya. Kek ini | okay: [ ] • so: [jadi / sangat] • i: [saya / aku] • just: [hanya / sekadar / baru saja] • put: [letak / meletakkan] • the: [kata penentu (itu / si)] • tesle: [ ] • leches: [ ] • in: [dalam / di dalam] • there: [di sana / ada] • it: [ia / itu] |
+| 92 | 07:36 - 07:38 | has to cool down for a bit. And you could see I ate some of it cuz I | kena disejukkan sebentar. Dan anda boleh nampak saya dah makan sedikit sebab saya | has: [ada / mempunyai] • to: [ke / untuk] • cool: [sejuk / hebat / bergaya] • down: [bawah / turun] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • bit: [sedikit / sikit] • and: [dan] • you: [awak / anda] • could: [boleh / dapat] • see: [lihat / nampak / tengok] • i: [saya / aku] • ate: [ ] • some: [beberapa / sedikit] • of: [daripada / tentang] • it: [ia / itu] • cuz: [sebab / kerana (singkatan 'because')] |
+| 93 | 07:40 - 07:42 | couldn't wait. But I also made the whipped cream | tak sabar nak rasa. Tapi saya juga dah buat krim putar ('whipped cream') | couldn't: [tidak boleh / tak dapat (singkatan 'could not')] • wait: [ ] • but: [tetapi / tapi] • i: [saya / aku] • also: [juga / selain itu] • made: [dibuat / menghasilkan] • the: [kata penentu (itu / si)] • whipped: [ ] • cream: [ ] |
+| 94 | 07:44 - 07:46 | to put on top. So I'll let that cool down for about 30 minutes and then we'll | untuk disapu di bahagian atas. Jadi saya biarkan ia sejuk sekitar 30 minit kemudian kita | to: [ke / untuk] • put: [letak / meletakkan] • on: [hidup / atas] • top: [bahagian atas / atas] • so: [jadi / sangat] • i'll: [saya akan (singkatan 'I will')] • let: [biarkan / membenarkan] • that: [itu / yang] • cool: [sejuk / hebat / bergaya] • down: [bawah / turun] • for: [untuk / bagi] • about: [tentang / sekitar] • minutes: [ ] • and: [dan] • then: [kemudian / waktu itu] • we'll: [kami akan / kita akan (singkatan 'we will')] |
+| 95 | 07:50 - 07:51 | uh check it out and see how it is. What are you making now? I'm going to make | akan tengok hasilnya. Awak tengah buat apa sekarang? Saya nak buat | uh: [err / uh] • check: [semak / periksa] • it: [ia / itu] • out: [keluar / di luar] • and: [dan] • see: [lihat / nampak / tengok] • how: [bagaimana / macam mana] • is: [adalah / ialah] • what: [apa / apakah] • are: [adalah / berada] • you: [awak / anda] • making: [sedang membuat] • now: [sekarang] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] • make: [buat / menghasilkan] |
+| 96 | 07:53 - 07:54 | some barbecue sauce to eat with my chicken for lunch. What's What's the | sos barbeku untuk dimakan bersama ayam makan tengah hari saya. Apa bahan-bahan | some: [beberapa / sedikit] • barbecue: [ ] • sauce: [ ] • to: [ke / untuk] • eat: [makan] • with: [dengan / bersama] • my: [saya punya / kepunyaan saya] • chicken: [ ] • for: [untuk / bagi] • lunch: [ ] • what's: [apa / apakah (singkatan 'what is/has')] • the: [kata penentu (itu / si)] |
+| 97 | 07:57 - 07:59 | ingredients you got here? Sugar, ketchup, and water are the main | yang awak ada di sini? Gula, sos tomato, dan air adalah bahan | ingredients: [bahan-bahan masakan] • you: [awak / anda] • got: [dapat / sudah dapat] • here: [di sini] • sugar: [gula] • ketchup: [ ] • and: [dan] • water: [air] • are: [adalah / berada] • the: [kata penentu (itu / si)] • main: [utama] |
+| 98 | 08:01 - 08:03 | ingredients. The rest just add flavors. So, we got some mustard. We need lemon | utama. Yang lain cuma penambah rasa. Jadi kita ada sedikit mustard. Kita perlukan jus | ingredients: [bahan-bahan masakan] • the: [kata penentu (itu / si)] • rest: [ ] • just: [hanya / sekadar / baru saja] • add: [ ] • flavors: [ ] • so: [jadi / sangat] • we: [kami / kita] • got: [dapat / sudah dapat] • some: [beberapa / sedikit] • mustard: [ ] • need: [perlu / memerlukan] • lemon: [ ] |
+| 99 | 08:05 - 08:07 | juice. Why don't you just buy barbecue sauce? Or would you prefer to | lemon. Kenapa awak tak beli saja sos barbeku siap? Atau awak lebih suka | juice: [ ] • why: [mengapa / kenapa] • don't: [jangan / tidak (singkatan 'do not')] • you: [awak / anda] • just: [hanya / sekadar / baru saja] • buy: [beli / membeli] • barbecue: [ ] • sauce: [ ] • or: [atau] • would: [akan / sudi] • prefer: [lebih suka] • to: [ke / untuk] |
+| 100 | 08:10 - 08:12 | make it or what? Home cooking is always better. Home cooking or homemade? I | buat sendiri? Masakan sendiri sentiasa lebih sedap. Masakan rumah ('homemade'). Saya | make: [buat / menghasilkan] • it: [ia / itu] • or: [atau] • what: [apa / apakah] • home: [rumah / kediaman] • cooking: [memasak / masakan] • is: [adalah / ialah] • always: [sentiasa / selalu] • better: [lebih baik] • homemade: [ ] • i: [saya / aku] |
+| 101 | 08:14 - 08:16 | guess I'll go grab some lemons then for the barbecue sauce. As you guys know, | rasa saya patut pergi petik beberapa biji lemon untuk sos barbeku tu. Seperti yang anda tahu, | guess: [ ] • i'll: [saya akan (singkatan 'I will')] • go: [pergi] • grab: [ambil / capai] • some: [beberapa / sedikit] • lemons: [ ] • then: [kemudian / waktu itu] • for: [untuk / bagi] • the: [kata penentu (itu / si)] • barbecue: [ ] • sauce: [ ] • as: [seperti / sebagai] • you: [awak / anda] • guys: [kawan-kawan / kalian] • know: [tahu / kenal] |
+| 102 | 08:19 - 08:21 | this is the stick used to get the lemons. Okay, one lemon. Let's bring the | ini galah yang digunakan untuk jolok lemon. Baiklah, dapat sebiji lemon. Mari bawa | this: [ini] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • stick: [kayu / melekat] • used: [digunakan / pernah] • to: [ke / untuk] • get: [dapat / mengambil] • lemons: [ ] • okay: [ ] • one: [satu / seorang] • lemon: [ ] • let's: [jom / marilah kita (singkatan 'let us')] • bring: [membawa] |
+| 103 | 08:22 - 08:24 | lemon stem cuz I guess he needs it to make the barbecue sauce. So you could | tangkai lemon ini sebab dia perlukannya untuk buat sos barbeku. Jadi anda boleh | lemon: [ ] • stem: [ ] • cuz: [sebab / kerana (singkatan 'because')] • i: [saya / aku] • guess: [ ] • he: [ ] • needs: [ ] • it: [ia / itu] • to: [ke / untuk] • make: [buat / menghasilkan] • the: [kata penentu (itu / si)] • barbecue: [ ] • sauce: [ ] • so: [jadi / sangat] • you: [awak / anda] • could: [boleh / dapat] |
+| 104 | 08:27 - 08:29 | say I grabbed the lemons for him or I brought the lemons for him. Here they | kata saya petikkan lemon untuk dia atau saya bawakan lemon untuknya. Ini dia | say: [cakap / berkata] • i: [saya / aku] • grabbed: [ ] • the: [kata penentu (itu / si)] • lemons: [ ] • for: [untuk / bagi] • him: [ ] • or: [atau] • brought: [ ] • here: [di sini] • they: [mereka] |
+| 105 | 08:32 - 08:34 | are. One only one lemon. So there are the lemons. | buahnya. Sebiji saja. Jadi itulah buah lemonnya. | are: [adalah / berada] • one: [satu / seorang] • only: [hanya / sahaja] • lemon: [ ] • so: [jadi / sangat] • there: [di sana / ada] • the: [kata penentu (itu / si)] • lemons: [ ] |
+| 106 | 08:37 - 08:39 | That's a lot of sugar. That is a lot of sugar in there, man. That's how it is. | Banyaknya gula. Memang banyak betul gula dalam tu, kawan. Memang macam itulah cara buatnya. | that's: [itu adalah / itu (singkatan 'that is')] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • sugar: [gula] • that: [itu / yang] • is: [adalah / ialah] • in: [dalam / di dalam] • there: [di sana / ada] • man: [lelaki / orang] • how: [bagaimana / macam mana] • it: [ia / itu] |
+| 107 | 08:42 - 08:44 | What are you doing now? Squeezing a lemon. Into this plastic measuring cup. | Awak tengah buat apa sekarang? Perah lemon. Ke dalam cawan penyukat plastik ini. | what: [apa / apakah] • are: [adalah / berada] • you: [awak / anda] • doing: [ ] • now: [sekarang] • squeezing: [ ] • a: [sebuah / seorang / satu] • lemon: [ ] • into: [ke dalam] • this: [ini] • plastic: [plastik] • measuring: [mengukur] • cup: [cawan] |
+| 108 | 08:49 - 08:51 | This is 1/8 of a cup. This is the thres leches cake I made. In my personal | Ini sukatan 1/8 cawan. Ini kek tres leches yang saya buat tadi. Pada pandangan peribadi | this: [ini] • is: [adalah / ialah] • 1/8: [ ] • of: [daripada / tentang] • a: [sebuah / seorang / satu] • cup: [cawan] • the: [kata penentu (itu / si)] • thres: [ ] • leches: [ ] • cake: [kek] • i: [saya / aku] • made: [dibuat / menghasilkan] • in: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • personal: [peribadi] |
+| 109 | 08:54 - 08:56 | opinion, it's fire. A fire straight gas. Like | saya, rasanya memang padu gila. Tersangat sedap. Kek | opinion: [ ] • it's: [ia adalah / itu (singkatan 'it is/has')] • fire: [api / kebakaran] • a: [sebuah / seorang / satu] • straight: [ ] • gas: [gas] • like: [suka / seperti] |
+| 110 | 09:00 - 09:02 | leches is a really good kick, but I am lactose intolerant, | tres leches memang sangat memuaskan, tapi saya ada masalah intoleransi laktosa, | leches: [ ] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • really: [betul-betul / sungguh] • good: [baik / bagus] • kick: [sepak / memulakan (kick off)] • but: [tetapi / tapi] • i: [saya / aku] • am: [adalah / berada] • lactose: [ ] • intolerant: [ ] |
+| 111 | 09:05 - 09:06 | which means if I eat dairy, it hurts my stomach. I still eat dairy | iaitu jika saya makan produk tenusu, perut saya akan sakit. Namun saya tetap makan bahan tenusu | which: [yang mana] • means: [ ] • if: [jika / kalau] • i: [saya / aku] • eat: [makan] • dairy: [ ] • it: [ia / itu] • hurts: [ ] • my: [saya punya / kepunyaan saya] • stomach: [ ] • still: [masih / tenang] |
+| 112 | 09:11 - 09:13 | all the time, and this is one of my favorite is so good. We have my laundry | sepanjang masa, dan kek ini antara kegemaran saya, sedap sungguh. Kami ada bakul | all: [semua / seluruh] • the: [kata penentu (itu / si)] • time: [masa / waktu] • and: [dan] • this: [ini] • is: [adalah / ialah] • one: [satu / seorang] • of: [daripada / tentang] • my: [saya punya / kepunyaan saya] • favorite: [kegemaran] • so: [jadi / sangat] • good: [baik / bagus] • we: [kami / kita] • have: [ada / mempunyai] • laundry: [dobi / pakaian kotor] |
+| 113 | 09:15 - 09:17 | basket with clean laundry, but it's wet. So now, let's hang my laundry | dobi saya berisi baju bersih yang masih basah. Sekarang jom jemur baju saya | basket: [ ] • with: [dengan / bersama] • clean: [bersih / membersihkan] • laundry: [dobi / pakaian kotor] • but: [tetapi / tapi] • it's: [ia adalah / itu (singkatan 'it is/has')] • wet: [ ] • so: [jadi / sangat] • now: [sekarang] • let's: [jom / marilah kita (singkatan 'let us')] • hang: [gantung / menyidai] • my: [saya punya / kepunyaan saya] |
+| 114 | 09:22 - 09:23 | on this clothes line. Okay, guys. I just finished hanging all my clothes. As you | pada tali ampaian ini. Baiklah kawan-kawan. Saya baru saja selesai sidai semua pakaian. Macam anda | on: [hidup / atas] • this: [ini] • clothes: [pakaian / baju] • line: [ ] • okay: [ ] • guys: [kawan-kawan / kalian] • i: [saya / aku] • just: [hanya / sekadar / baru saja] • finished: [siap / selesai] • hanging: [ ] • all: [semua / seluruh] • my: [saya punya / kepunyaan saya] • as: [seperti / sebagai] • you: [awak / anda] |
+| 115 | 09:26 - 09:27 | can see, there's a lot of variety of color in my clothes. Gray, black, black, | boleh nampak, ada pelbagai variasi warna pakaian saya: kelabu, hitam, hitam, | can: [boleh / dapat] • see: [lihat / nampak / tengok] • there's: [ada / terdapat (singkatan 'there is')] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • variety: [ ] • color: [ ] • in: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • clothes: [pakaian / baju] • gray: [ ] • black: [hitam] |
+| 116 | 09:31 - 09:33 | dark green. So, I really like wearing colorful clothes, a lot of different | hijau gelap. Jadi saya memang suka pakai baju berwarna-warni, pelbagai warna | dark: [ ] • green: [ ] • so: [jadi / sangat] • i: [saya / aku] • really: [betul-betul / sungguh] • like: [suka / seperti] • wearing: [ ] • colorful: [ ] • clothes: [pakaian / baju] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • different: [berbeza / kelainan] |
+| 117 | 09:35 - 09:37 | colors. I don't really like wearing just one color. As you could see in my | yang berbeza. Saya tak suka pakai satu warna saja. Seperti yang anda boleh lihat pada | colors: [ ] • i: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • really: [betul-betul / sungguh] • like: [suka / seperti] • wearing: [ ] • just: [hanya / sekadar / baru saja] • one: [satu / seorang] • color: [ ] • as: [seperti / sebagai] • you: [awak / anda] • could: [boleh / dapat] • see: [lihat / nampak / tengok] • in: [dalam / di dalam] • my: [saya punya / kepunyaan saya] |
+| 118 | 09:39 - 09:40 | clothes, I have a lot of different colors here. | pakaian saya, ada banyak warna berbeza di sini. | clothes: [pakaian / baju] • i: [saya / aku] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • different: [berbeza / kelainan] • colors: [ ] • here: [di sini] |
+| 119 | 09:44 - 09:46 | And that right there is sarcasm. Sarcasm. | Dan apa yang saya cakap tadi itu ialah sindiran/sarkasme ('sarcasm'). | and: [dan] • that: [itu / yang] • right: [betul / kanan / tepat] • there: [di sana / ada] • is: [adalah / ialah] • sarcasm: [ ] |
+| 120 | 09:48 - 09:49 | It's when you're kind of just joking around. when something is very obviously | Ia bila anda bergurau secara menyindir. Bila sesuatu perkara sangat jelas | it's: [ia adalah / itu (singkatan 'it is/has')] • when: [bila / apabila] • you're: [anda / awak adalah (singkatan 'you are')] • kind: [jenis / baik hati] • of: [daripada / tentang] • just: [hanya / sekadar / baru saja] • joking: [ ] • around: [sekitar / di sekeliling] • something: [sesuatu] • is: [adalah / ialah] • very: [sangat / amat] • obviously: [jelas sekali / sudah tentu] |
+| 121 | 09:52 - 09:53 | or very clearly not true, but you say it as it is true, like, but it's clearly | dan terang-terangan tidak benar, tetapi anda sebutkannya seolah-olah ia benar, padahal jelas sekali | or: [atau] • very: [sangat / amat] • clearly: [ ] • not: [bukan / tidak] • true: [ ] • but: [tetapi / tapi] • you: [awak / anda] • say: [cakap / berkata] • it: [ia / itu] • as: [seperti / sebagai] • is: [adalah / ialah] • like: [suka / seperti] • it's: [ia adalah / itu (singkatan 'it is/has')] |
+| 122 | 09:57 - 09:59 | almost all black. Let me know in the comments how long you've been watching | hampir kesemuanya warna hitam. Beritahu saya di ruangan komen sudah berapa lama anda menonton | almost: [ ] • all: [semua / seluruh] • black: [hitam] • let: [biarkan / membenarkan] • me: [saya / aku] • know: [tahu / kenal] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • comments: [ruangan komen / ulasan] • how: [bagaimana / macam mana] • long: [panjang / lama] • you've: [anda telah / awak dah (singkatan 'you have')] • been: [telah / pernah] • watching: [sedang menonton] |
+| 123 | 10:01 - 10:03 | my videos. Okay, guys, let's do a little mini quiz of just random stuff around | video saya. Baiklah kawan-kawan, mari kita buat kuiz mini tentang benda rawak di sekitar | my: [saya punya / kepunyaan saya] • videos: [video-video] • okay: [ ] • guys: [kawan-kawan / kalian] • let's: [jom / marilah kita (singkatan 'let us')] • do: [buat / lakukan] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • mini: [ ] • quiz: [kuiz] • of: [daripada / tentang] • just: [hanya / sekadar / baru saja] • random: [rawak / sembarangan] • stuff: [barang-barang / benda] • around: [sekitar / di sekeliling] |
+| 124 | 10:06 - 10:08 | me. What do you guys call this? What is this called? | saya. Apa anda panggil benda ini? Apakah namanya? | me: [saya / aku] • what: [apa / apakah] • do: [buat / lakukan] • you: [awak / anda] • guys: [kawan-kawan / kalian] • call: [ ] • this: [ini] • is: [adalah / ialah] • called: [dipanggil / dinamakan] |
+| 125 | 10:12 - 10:14 | A mountain. What is this line called? A clos line. And what's hanging on the | Gunung ('a mountain'). Tali ini dipanggil apa? Tali ampaian ('clothesline'). Dan apa tergantung pada | a: [sebuah / seorang / satu] • mountain: [ ] • what: [apa / apakah] • is: [adalah / ialah] • this: [ini] • line: [ ] • called: [dipanggil / dinamakan] • clos: [ ] • and: [dan] • what's: [apa / apakah (singkatan 'what is/has')] • hanging: [ ] • on: [hidup / atas] • the: [kata penentu (itu / si)] |
+| 126 | 10:18 - 10:20 | clothes line? Clothes. Correct. Close. And what are | tali ampaian itu? Pakaian ('clothes'). Betul. Pakaian. Dan apakah benda | clothes: [pakaian / baju] • line: [ ] • correct: [betul / tepat] • close: [tutup / dekat] • and: [dan] • what: [apa / apakah] • are: [adalah / berada] |
+| 127 | 10:23 - 10:24 | these called, guys? What is this? Those are clothes pins. What do you guys | ini dipanggil? Apakah ini? Itu penyepit baju ('clothespins'). Apakah panggilan untuk benda | these: [semua ini] • called: [dipanggil / dinamakan] • guys: [kawan-kawan / kalian] • what: [apa / apakah] • is: [adalah / ialah] • this: [ini] • those: [semua itu] • are: [adalah / berada] • clothes: [pakaian / baju] • pins: [ ] • do: [buat / lakukan] • you: [awak / anda] |
+| 128 | 10:30 - 10:32 | call this? It's an oven. | ini? Ini ialah ketuhar ('an oven'). | call: [ ] • this: [ini] • it's: [ia adalah / itu (singkatan 'it is/has')] • an: [sebuah / seorang / satu] • oven: [ ] |
+| 129 | 10:35 - 10:37 | And on the top, what is this called? That's a stove. A stove. What is this | Dan di bahagian atas, apakah ini dipanggil? Itu dapur memasak ('a stove'). Dapur memasak. Apakah ini | and: [dan] • on: [hidup / atas] • the: [kata penentu (itu / si)] • top: [bahagian atas / atas] • what: [apa / apakah] • is: [adalah / ialah] • this: [ini] • called: [dipanggil / dinamakan] • that's: [itu adalah / itu (singkatan 'that is')] • a: [sebuah / seorang / satu] • stove: [dapur memasak (dapur gas/elektrik)] |
+| 130 | 10:42 - 10:44 | called? A gas cylinder. the dog that always | dipanggil? Tong gas ('a gas cylinder'). Anjing yang selalu | called: [dipanggil / dinamakan] • a: [sebuah / seorang / satu] • gas: [gas] • cylinder: [ ] • the: [kata penentu (itu / si)] • dog: [anjing] • that: [itu / yang] • always: [sentiasa / selalu] |
+| 131 | 10:47 - 10:49 | comes there. So, we have we keep our bones. | datang ke sini. Kami simpan sisa tulang untuk dia. | comes: [ ] • there: [di sana / ada] • so: [jadi / sangat] • we: [kami / kita] • have: [ada / mempunyai] • keep: [simpan / teruskan] • our: [kami punya / kita punya] • bones: [ ] |
+| 132 | 10:50 - 10:52 | Oh, there he is. Look at him. Look at this boy. Hey, buddy. Yeah. So, he's not | Oh, itu dia. Tengok dia ni. Tengok anjing comel ni. Hei kawan. Ya, dia ini | oh: [oh] • there: [di sana / ada] • he: [ ] • is: [adalah / ialah] • look: [tengok / kelihatan] • at: [di / pada] • him: [ ] • this: [ini] • boy: [ ] • hey: [ ] • buddy: [ ] • yeah: [ya / betul] • so: [jadi / sangat] • he's: [dia adalah / dia (singkatan 'he is/has')] • not: [bukan / tidak] |
+| 133 | 10:55 - 10:57 | he's not our dog. He's our neighbor's dog, but he's always here and we always | bukan anjing peliharaan kami. Dia anjing jiran, tapi dia selalu datang sini dan kami kerap | he's: [dia adalah / dia (singkatan 'he is/has')] • not: [bukan / tidak] • our: [kami punya / kita punya] • dog: [anjing] • neighbor's: [ ] • but: [tetapi / tapi] • always: [sentiasa / selalu] • here: [di sini] • and: [dan] • we: [kami / kita] |
+| 134 | 10:59 - 11:01 | give him some food. Ain't that right, buddy? Ain't that right? Ain't that | berikan dia makanan. Betul tak kawan? Betul tak? Betul | give: [beri / memberikan] • him: [ ] • some: [beberapa / sedikit] • food: [makanan] • ain't: [ ] • that: [itu / yang] • right: [betul / kanan / tepat] • buddy: [ ] |
+| 135 | 11:02 - 11:04 | right? He's like kind of half wild. Look at him. | tak? Dia macam separuh liar sikit. Tengoklah dia. | right: [betul / kanan / tepat] • he's: [dia adalah / dia (singkatan 'he is/has')] • like: [suka / seperti] • kind: [jenis / baik hati] • of: [daripada / tentang] • half: [ ] • wild: [ ] • look: [tengok / kelihatan] • at: [di / pada] • him: [ ] |
+| 136 | 11:07 - 11:09 | But anyways, let's go back inside. We gave the dog food. | Apa pun, jom kita masuk semula ke dalam. Kami dah beri anjing itu makan. | but: [tetapi / tapi] • anyways: [ ] • let's: [jom / marilah kita (singkatan 'let us')] • go: [pergi] • back: [belakang / kembali] • inside: [di dalam] • we: [kami / kita] • gave: [ ] • the: [kata penentu (itu / si)] • dog: [anjing] • food: [makanan] |
+| 137 | 11:12 - 11:14 | Okay, you can see Leon cooking up there. Let's go see what he's making. | Baiklah, anda boleh nampak Leon sedang memasak di sana. Jom tengok apa yang dia tengah masak | okay: [ ] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • leon: [ ] • cooking: [memasak / masakan] • up: [atas / naik] • there: [di sana / ada] • let's: [jom / marilah kita (singkatan 'let us')] • go: [pergi] • what: [apa / apakah] • he's: [dia adalah / dia (singkatan 'he is/has')] • making: [sedang membuat] |
+| 138 | 11:16 - 11:18 | for food. What are you whipping on? You got | untuk hidangan. Apa yang awak tengah sediakan? Awak buat | for: [untuk / bagi] • food: [makanan] • what: [apa / apakah] • are: [adalah / berada] • you: [awak / anda] • whipping: [ ] • on: [hidup / atas] • got: [dapat / sudah dapat] |
+| 139 | 11:20 - 11:22 | some burgers. Damn. You made the fries. Nope. You chopped | burger. Wah mantap. Awak buat kentang goreng ke? Tak. Awak potong | some: [beberapa / sedikit] • burgers: [ ] • damn: [ ] • you: [awak / anda] • made: [dibuat / menghasilkan] • the: [kata penentu (itu / si)] • fries: [ ] • nope: [ ] • chopped: [ ] |
+| 140 | 11:25 - 11:27 | all the lettuce and tomatoes and onions. No. Cut up the cheese. I didn't do any | semua salad, tomato, dan bawang? Tak. Potong kepingan keju? Saya langsung tak buat semua | all: [semua / seluruh] • the: [kata penentu (itu / si)] • lettuce: [ ] • and: [dan] • tomatoes: [ ] • onions: [ ] • no: [tidak / tiada] • cut: [ ] • up: [atas / naik] • cheese: [ ] • i: [saya / aku] • didn't: [tidak / tak (singkatan 'did not')] • do: [buat / lakukan] • any: [sebarang / apa-apa] |
+| 141 | 11:29 - 11:31 | of that. Look at these. Like that's something that's really like | benda tu. Tengok ini. Benda ini memang sangat | of: [daripada / tentang] • that: [itu / yang] • look: [tengok / kelihatan] • at: [di / pada] • these: [semua ini] • like: [suka / seperti] • that's: [itu adalah / itu (singkatan 'that is')] • something: [sesuatu] • really: [betul-betul / sungguh] |
+| 142 | 11:34 - 11:36 | really popular in in America and in Canada, especially during the summer | popular di Amerika dan di Kanada, terutamanya pada musim panas | really: [betul-betul / sungguh] • popular: [ ] • in: [dalam / di dalam] • america: [ ] • and: [dan] • canada: [negara Kanada] • especially: [ ] • during: [ ] • the: [kata penentu (itu / si)] • summer: [ ] |
+| 143 | 11:38 - 11:40 | when it's nice and hot out. You just have your barbecue going on in your | bila cuaca panas dan cerah di luar. Anda cuma hidupkan pemanggang barbeku di | when: [bila / apabila] • it's: [ia adalah / itu (singkatan 'it is/has')] • nice: [bagus / cantik / selesa] • and: [dan] • hot: [panas / pedas] • out: [keluar / di luar] • you: [awak / anda] • just: [hanya / sekadar / baru saja] • have: [ada / mempunyai] • your: [awak punya / anda punya] • barbecue: [ ] • going: [sedang pergi / akan] • on: [hidup / atas] • in: [dalam / di dalam] |
+| 144 | 11:41 - 11:43 | grill, cooking some burgers, cooking whatever you cook at your barbecue. So, | panggangan anda, masak burger atau apa saja yang anda bakar semasa barbeku. Jadi | grill: [ ] • cooking: [memasak / masakan] • some: [beberapa / sedikit] • burgers: [ ] • whatever: [ ] • you: [awak / anda] • cook: [memasak] • at: [di / pada] • your: [awak punya / anda punya] • barbecue: [ ] • so: [jadi / sangat] |
+| 145 | 11:46 - 11:47 | I got the potatoes here. So, now let's just wash them. Now, let's chop these | saya ada kentang di sini. Sekarang mari kita basuh kentang ini. Kemudian mari potong | i: [saya / aku] • got: [dapat / sudah dapat] • the: [kata penentu (itu / si)] • potatoes: [ ] • here: [di sini] • so: [jadi / sangat] • now: [sekarang] • let's: [jom / marilah kita (singkatan 'let us')] • just: [hanya / sekadar / baru saja] • wash: [basuh / mencuci] • them: [mereka] • chop: [ ] • these: [semua ini] |
+| 146 | 11:49 - 11:50 | potatoes into the shape of fries. So, let's make fries. Now, I got the fries | kentang ini mengikut bentuk jejari kentang goreng. Jom kita buat kentang goreng. Sekarang saya | potatoes: [ ] • into: [ke dalam] • the: [kata penentu (itu / si)] • shape: [bentuk] • of: [daripada / tentang] • fries: [ ] • so: [jadi / sangat] • let's: [jom / marilah kita (singkatan 'let us')] • make: [buat / menghasilkan] • now: [sekarang] • i: [saya / aku] • got: [dapat / sudah dapat] |
+| 147 | 11:56 - 11:58 | deep frying. This is how I sliced them. Putting them | sedang goreng celup minyak ('deep fry'). Begini cara saya potong. Masukkannya | deep: [ ] • frying: [ ] • this: [ini] • is: [adalah / ialah] • how: [bagaimana / macam mana] • i: [saya / aku] • sliced: [ ] • them: [mereka] • putting: [ ] |
+| 148 | 12:01 - 12:03 | into the oil. Now, they're all deep frying nicely in there. Show us Show us | ke dalam minyak panas. Sekarang semuanya digoreng garing elok di dalam itu. Tunjukkan | into: [ke dalam] • the: [kata penentu (itu / si)] • oil: [ ] • now: [sekarang] • they're: [mereka adalah / mereka (singkatan 'they are')] • all: [semua / seluruh] • deep: [ ] • frying: [ ] • nicely: [dengan elok / kemas] • in: [dalam / di dalam] • there: [di sana / ada] • show: [tunjuk / menunjukkan] • us: [kami / kita] |
+| 149 | 12:06 - 12:08 | what you cooked. All right, we'll start from this side. Got some beautiful | apa yang awak masak. Baiklah, kita mulakan dari sebelah sini. Ada kentang goreng jejari | what: [apa / apakah] • you: [awak / anda] • cooked: [ ] • all: [semua / seluruh] • right: [betul / kanan / tepat] • we'll: [kami akan / kita akan (singkatan 'we will')] • start: [mula / memulakan] • from: [dari / daripada] • this: [ini] • side: [tepi / sisi] • got: [dapat / sudah dapat] • some: [beberapa / sedikit] • beautiful: [ ] |
+| 150 | 12:11 - 12:12 | golden French fries. Oh wow. We have fire, bro. Some buns that I have | keemasan yang sangat cantik. Wah cantiknya kawan. Ada roti burger yang saya | golden: [ ] • french: [ ] • fries: [ ] • oh: [oh] • wow: [ ] • we: [kami / kita] • have: [ada / mempunyai] • fire: [api / kebakaran] • bro: [ ] • some: [beberapa / sedikit] • buns: [ ] • that: [itu / yang] • i: [saya / aku] |
+| 151 | 12:18 - 12:19 | lightly toasted. So what what is toasted? Just explain it a little. | bakar sedikit ('lightly toasted'). Apakah itu 'toasted'? Terangkan sedikit. | lightly: [ ] • toasted: [ ] • so: [jadi / sangat] • what: [apa / apakah] • is: [adalah / ialah] • just: [hanya / sekadar / baru saja] • explain: [ ] • it: [ia / itu] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] |
+| 152 | 12:22 - 12:24 | Toasting is cooking your bread a second time to get a little bit of crunch and | 'Toasting' ialah membakar roti anda kali kedua untuk dapatkan sedikit kerangupan dan | toasting: [ ] • is: [adalah / ialah] • cooking: [memasak / masakan] • your: [awak punya / anda punya] • bread: [roti] • a: [sebuah / seorang / satu] • second: [kedua / saat] • time: [masa / waktu] • to: [ke / untuk] • get: [dapat / mengambil] • little: [kecil / sedikit] • bit: [sedikit / sikit] • of: [daripada / tentang] • crunch: [ ] • and: [dan] |
+| 153 | 12:28 - 12:30 | texture on your bread and also to warm it up. So you could see this is this | tekstur pada roti, dan juga untuk memanaskannya. Anda boleh lihat tanda | texture: [ ] • on: [hidup / atas] • your: [awak punya / anda punya] • bread: [roti] • and: [dan] • also: [juga / selain itu] • to: [ke / untuk] • warm: [hangat / suam] • it: [ia / itu] • up: [atas / naik] • so: [jadi / sangat] • you: [awak / anda] • could: [boleh / dapat] • see: [lihat / nampak / tengok] • this: [ini] • is: [adalah / ialah] |
+| 154 | 12:32 - 12:34 | shows it was toasted when it's a little bit burnt on the side, a little bit | ia telah dibakar bila ada kesan sedikit garing keemasan di tepinya. | shows: [ ] • it: [ia / itu] • was: [adalah / dulu berada] • toasted: [ ] • when: [bila / apabila] • it's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • bit: [sedikit / sikit] • burnt: [ ] • on: [hidup / atas] • the: [kata penentu (itu / si)] • side: [tepi / sisi] |
+| 155 | 12:35 - 12:37 | golden. Toasted. And what else do you got? burgers. Oh yeah. Top the burgers | Dibakar rangup ('toasted'). Apa lagi yang awak ada? Daging burger. Ya. Atas burger | golden: [ ] • toasted: [ ] • and: [dan] • what: [apa / apakah] • else: [ ] • do: [buat / lakukan] • you: [awak / anda] • got: [dapat / sudah dapat] • burgers: [ ] • oh: [oh] • yeah: [ya / betul] • top: [bahagian atas / atas] • the: [kata penentu (itu / si)] |
+| 156 | 12:41 - 12:43 | we got condiments. So we have ketchup, mustard, and | kita ada sos perasa ('condiments'). Kita ada sos tomato, mustard, dan | we: [kami / kita] • got: [dapat / sudah dapat] • condiments: [ ] • so: [jadi / sangat] • have: [ada / mempunyai] • ketchup: [ ] • mustard: [ ] • and: [dan] |
+| 157 | 12:46 - 12:48 | mayonnaise. There's also some extra barbecue sauce for the toppings. We have | mayonis. Ada juga lebihan sos barbeku untuk 'toppings'. Kita ada | mayonnaise: [ ] • there's: [ada / terdapat (singkatan 'there is')] • also: [juga / selain itu] • some: [beberapa / sedikit] • extra: [ ] • barbecue: [ ] • sauce: [ ] • for: [untuk / bagi] • the: [kata penentu (itu / si)] • toppings: [ ] • we: [kami / kita] • have: [ada / mempunyai] |
+| 158 | 12:50 - 12:52 | some vegetables, which are the lettuce, onions, and tomatoes. And then we also | sayur-sayuran iaitu salad daun, bawang, dan tomato. Kemudian kita juga | some: [beberapa / sedikit] • vegetables: [ ] • which: [yang mana] • are: [adalah / berada] • the: [kata penentu (itu / si)] • lettuce: [ ] • onions: [ ] • and: [dan] • tomatoes: [ ] • then: [kemudian / waktu itu] • we: [kami / kita] • also: [juga / selain itu] |
+| 159 | 12:55 - 12:57 | have some mozzarella cheese. So these are the toppings. These are the | ada keju mozzarella. Ini ialah 'toppings' hiasan atas. Dan ini ialah sos | have: [ada / mempunyai] • some: [beberapa / sedikit] • mozzarella: [ ] • cheese: [ ] • so: [jadi / sangat] • these: [semua ini] • are: [adalah / berada] • the: [kata penentu (itu / si)] • toppings: [ ] |
+| 160 | 12:59 - 13:01 | condiments. We have the main course here, the | perasa ('condiments'). Di sini kita ada hidangan utama ('main course'), | condiments: [ ] • we: [kami / kita] • have: [ada / mempunyai] • the: [kata penentu (itu / si)] • main: [utama] • course: [tentu sekali / kursus] • here: [di sini] |
+| 161 | 13:03 - 13:04 | entree, the fries with the burger. | hidangan utama: kentang goreng bersama burger. | entree: [ ] • the: [kata penentu (itu / si)] • fries: [ ] • with: [dengan / bersama] • burger: [ ] |
+| 162 | 13:10 - 13:11 | Well, how do you feel? Was that exhilarating? No, I just didn't | Bagaimana perasaan awak? Berdebar-debar ke tadi? Tak, saya cuma tak | well: [baiklah / elok / telaga] • how: [bagaimana / macam mana] • do: [buat / lakukan] • you: [awak / anda] • feel: [rasa / merasa] • was: [adalah / dulu berada] • that: [itu / yang] • exhilarating: [ ] • no: [tidak / tiada] • i: [saya / aku] • just: [hanya / sekadar / baru saja] • didn't: [tidak / tak (singkatan 'did not')] |
+| 163 | 13:15 - 13:16 | want any to come in through the window. Yeah, you can see them flying outside | mahu ada serangga yang masuk ikut tingkap. Ya, awak boleh nampak mereka terbang di luar | want: [mahu / nak] • any: [sebarang / apa-apa] • to: [ke / untuk] • come: [datang / mari] • in: [dalam / di dalam] • through: [melalui / merentasi] • the: [kata penentu (itu / si)] • window: [tingkap] • yeah: [ya / betul] • you: [awak / anda] • can: [boleh / dapat] • see: [lihat / nampak / tengok] • them: [mereka] • flying: [ ] • outside: [di luar] |
+| 164 | 13:19 - 13:21 | now. They're like I had that window closed cuz they were getting in here. | sekarang. Saya tutup tingkap itu tadi sebab mereka mula masuk ke dalam. | now: [sekarang] • they're: [mereka adalah / mereka (singkatan 'they are')] • like: [suka / seperti] • i: [saya / aku] • had: [mempunyai / telah ada] • that: [itu / yang] • window: [tingkap] • closed: [ditutup / tertutup] • cuz: [sebab / kerana (singkatan 'because')] • they: [mereka] • were: [adalah / dulu berada] • getting: [semakin / sedang dapat] • in: [dalam / di dalam] • here: [di sini] |
+| 165 | 13:23 - 13:25 | They're like flying outside there, but it just fell down. But I just knocked it | Mereka terbang di luar sana tapi seekor baru terjatuh. Saya cuma pukul jatuh | they're: [mereka adalah / mereka (singkatan 'they are')] • like: [suka / seperti] • flying: [ ] • outside: [di luar] • there: [di sana / ada] • but: [tetapi / tapi] • it: [ia / itu] • just: [hanya / sekadar / baru saja] • fell: [ ] • down: [bawah / turun] • i: [saya / aku] • knocked: [ ] |
+| 166 | 13:27 - 13:29 | down with this broom. And now this is like a storage room. So, I'm going to | guna penyapu ini. Sekarang ini macam bilik stor. Jadi saya akan | down: [bawah / turun] • with: [dengan / bersama] • this: [ini] • broom: [ ] • and: [dan] • now: [sekarang] • is: [adalah / ialah] • like: [suka / seperti] • a: [sebuah / seorang / satu] • storage: [ruang simpanan] • room: [bilik / ruang] • so: [jadi / sangat] • i'm: [saya / saya sedang (singkatan 'I am')] • going: [sedang pergi / akan] • to: [ke / untuk] |
+| 167 | 13:31 - 13:33 | put the broom back into the storage room. What words did | simpan semula penyapu ke dalam bilik stor. Perkataan apakah | put: [letak / meletakkan] • the: [kata penentu (itu / si)] • broom: [ ] • back: [belakang / kembali] • into: [ke dalam] • storage: [ruang simpanan] • room: [bilik / ruang] • what: [apa / apakah] • words: [perkataan-perkataan] • did: [telah buat / adakah] |
+| 168 | 13:36 - 13:38 | you guys learn today? Make sure to write it in the comments. And these are the | yang anda pelajari hari ini? Pastikan anda tulis di ruangan komen. Dan ini ialah negara | you: [awak / anda] • guys: [kawan-kawan / kalian] • learn: [belajar] • today: [hari ini] • make: [buat / menghasilkan] • sure: [pasti / tentu] • to: [ke / untuk] • write: [ ] • it: [ia / itu] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • comments: [ruangan komen / ulasan] • and: [dan] • these: [semua ini] • are: [adalah / berada] |
+| 169 | 13:40 - 13:42 | countries you were from last video. This was my favorite comment from last video. | asal anda semua dari video lepas. Ini komen kegemaran saya dari video lepas. | countries: [ ] • you: [awak / anda] • were: [adalah / dulu berada] • from: [dari / daripada] • last: [terakhir / lepas] • video: [video] • this: [ini] • was: [adalah / dulu berada] • my: [saya punya / kepunyaan saya] • favorite: [kegemaran] • comment: [ ] |
+| 170 | 13:45 - 13:47 | If you want the word summary and a quiz, make sure to follow my Instagram cuz | Jika anda mahukan ringkasan perkataan dan kuiz, pastikan ikuti Instagram saya sebab | if: [jika / kalau] • you: [awak / anda] • want: [mahu / nak] • the: [kata penentu (itu / si)] • word: [perkataan] • summary: [ ] • and: [dan] • a: [sebuah / seorang / satu] • quiz: [kuiz] • make: [buat / menghasilkan] • sure: [pasti / tentu] • to: [ke / untuk] • follow: [ ] • my: [saya punya / kepunyaan saya] • instagram: [ ] • cuz: [sebab / kerana (singkatan 'because')] |
+| 171 | 13:49 - 13:51 | I'll be posting it there. If you guys like this video, check out this playlist | saya akan kongsikannya di sana. Jika anda suka video ini, lihat senarai main ini | i'll: [saya akan (singkatan 'I will')] • be: [menjadi / berada] • posting: [memuat naik / menyiarkan] • it: [ia / itu] • there: [di sana / ada] • if: [jika / kalau] • you: [awak / anda] • guys: [kawan-kawan / kalian] • like: [suka / seperti] • this: [ini] • video: [video] • check: [semak / periksa] • out: [keluar / di luar] • playlist: [ ] |
+| 172 | 13:52 - 13:54 | next for all my comprehensible input videos. | selepas ini untuk semua video 'comprehensible input' saya. | next: [seterusnya / sebelah] • for: [untuk / bagi] • all: [semua / seluruh] • my: [saya punya / kepunyaan saya] • comprehensible: [mudah difahami] • input: [input / masukan] • videos: [video-video] |
