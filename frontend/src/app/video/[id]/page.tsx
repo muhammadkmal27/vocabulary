@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle, ChevronRight } from "lucide-react";
+import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle, ChevronRight, ChevronUp, ChevronDown } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import { localDictionary } from "@/lib/localDictionary";
@@ -604,6 +604,17 @@ export default function InteractivePlayerPage() {
     toast("Ciri Hafal Ayat dari video ini akan datang tidak lama lagi!", "info");
   };
 
+  // Skrol manual transkrip interaktif (Atas / Bawah)
+  const scrollTranscript = (direction: "up" | "down") => {
+    if (transcriptContainerRef.current) {
+      const scrollAmount = 200;
+      transcriptContainerRef.current.scrollBy({
+        top: direction === "up" ? -scrollAmount : scrollAmount,
+        behavior: "smooth",
+      });
+    }
+  };
+
   if (loading || authLoading) {
     return (
       <div className="min-h-screen bg-background flex flex-col items-center justify-center gap-4">
@@ -753,16 +764,39 @@ export default function InteractivePlayerPage() {
 
         {/* RIGHT COLUMN: INTERACTIVE TRANSCRIPT SIDEBAR */}
         <div className="w-full lg:w-96 border-t lg:border-t-0 lg:border-l border-border bg-card flex flex-col h-[400px] lg:h-full">
-          <div className="p-4 border-b border-border flex items-center justify-between">
-            <div>
-              <h3 className="font-bold text-sm">Transkrip Interaktif</h3>
-              <p className="text-xs text-muted-foreground">Klik pada baris untuk melompat ke babak tersebut</p>
+          <div className="p-3 sm:p-4 border-b border-border flex items-center justify-between gap-2">
+            <div className="min-w-0 flex-1">
+              <h3 className="font-bold text-sm truncate">Transkrip Interaktif</h3>
+              <p className="text-[11px] sm:text-xs text-muted-foreground truncate">Klik pada baris untuk melompat ke babak tersebut</p>
             </div>
-            {isCompleted && (
-              <Badge className="bg-emerald-600/90 text-white gap-1 text-[10px] px-2 py-0.5">
-                <CheckCircle2 className="w-3 h-3" /> Selesai
-              </Badge>
-            )}
+            <div className="flex items-center gap-1.5 shrink-0">
+              {isCompleted && (
+                <Badge className="bg-emerald-600/90 text-white gap-1 text-[10px] px-2 py-0.5 shrink-0">
+                  <CheckCircle2 className="w-3 h-3" /> Selesai
+                </Badge>
+              )}
+              {/* BUTTON ANAK PANAH ATAS & BAWAH WARNA UNGU MACAM BUTTON NEXT */}
+              <div className="flex items-center gap-1">
+                <button
+                  type="button"
+                  onClick={() => scrollTranscript("up")}
+                  className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm shadow-primary/25 flex items-center justify-center active:scale-95 transition-all cursor-pointer"
+                  title="Skrol transkrip ke atas"
+                  aria-label="Skrol transkrip ke atas"
+                >
+                  <ChevronUp className="w-4 h-4" />
+                </button>
+                <button
+                  type="button"
+                  onClick={() => scrollTranscript("down")}
+                  className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm shadow-primary/25 flex items-center justify-center active:scale-95 transition-all cursor-pointer"
+                  title="Skrol transkrip ke bawah"
+                  aria-label="Skrol transkrip ke bawah"
+                >
+                  <ChevronDown className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
           </div>
           <div ref={transcriptContainerRef} className="flex-1 overflow-y-auto p-4 space-y-3 relative">
             {videoData?.subtitles.map((sub) => {
