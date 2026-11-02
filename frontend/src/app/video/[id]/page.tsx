@@ -812,8 +812,8 @@ export default function InteractivePlayerPage() {
                   <CheckCircle2 className="w-3 h-3" /> Selesai
                 </Badge>
               )}
-              {/* BUTTON ANAK PANAH ATAS & BAWAH WARNA UNGU MACAM BUTTON NEXT */}
-              <div className="flex items-center gap-1">
+              {/* BUTTON ANAK PANAH ATAS & BAWAH WARNA UNGU (KHAS UNTUK MOBILE SAHAJA, HIDE DI DESKTOP/LAPTOP) */}
+              <div className="flex lg:hidden items-center gap-1">
                 <button
                   type="button"
                   onClick={() => navigateSubtitle("prev")}
