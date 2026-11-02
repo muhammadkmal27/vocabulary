@@ -2,7 +2,7 @@
 **Platform:** Bijak English / Vocabulary
 **Video ID:** `olIjQhtDKLY`
 **Tarikh Ditambah:** 2026-10-13
-**Fasa Terjemahan AI:** 🟡 Fasa 2 (Pertengahan)
+**Fasa Terjemahan AI:** 🟢 Fasa 2 (100% Siap Dipurnakan & Diselaraskan)
 **Kategori:** Listening
 **Jumlah Baris Subtitle:** 253 Baris
 **Jumlah Kosa Kata Unik:** 502 Perkataan
@@ -10,515 +10,648 @@
 
 ---
 
-## 📚 Bahagian 1: Senarai Kosa Kata Unik Video (Master Vocabulary)
+## 📚 Bahagian 1: Senarai Kosa Kata & Kamus Tempatan Video (Local Dictionary)
+
+### 🔤 Bahagian 1A: Kosa Kata Kata Tunggal (Single Words)
 Senarai mengikut abjad (A–Z) bagi memudahkan semakan dan penambahan ke dalam kamus tempatan (*localDictionary*):
 
 | No | Perkataan (English) | Kekerapan | Status Kamus | Maksud Bahasa Melayu (BM) |
 |:---:|:---|:---:|:---:|:---|
-| 1 | `a` | 57x | ⬜ Kosong | [ ] |
-| 2 | `about` | 4x | ⬜ Kosong | [ ] |
-| 3 | `accent` | 1x | ⬜ Kosong | [ ] |
-| 4 | `access` | 1x | ⬜ Kosong | [ ] |
-| 5 | `across` | 1x | ⬜ Kosong | [ ] |
-| 6 | `actually` | 2x | ⬜ Kosong | [ ] |
-| 7 | `add` | 4x | ⬜ Kosong | [ ] |
-| 8 | `advice` | 1x | ⬜ Kosong | [ ] |
-| 9 | `after` | 1x | ⬜ Kosong | [ ] |
-| 10 | `all` | 2x | ⬜ Kosong | [ ] |
-| 11 | `already` | 4x | ⬜ Kosong | [ ] |
-| 12 | `also` | 4x | ⬜ Kosong | [ ] |
-| 13 | `an` | 6x | ⬜ Kosong | [ ] |
-| 14 | `and` | 53x | ⬜ Kosong | [ ] |
-| 15 | `another` | 2x | ⬜ Kosong | [ ] |
-| 16 | `answer` | 1x | ⬜ Kosong | [ ] |
-| 17 | `any` | 1x | ⬜ Kosong | [ ] |
-| 18 | `anymore` | 1x | ⬜ Kosong | [ ] |
-| 19 | `anywhere` | 1x | ⬜ Kosong | [ ] |
-| 20 | `apparently` | 1x | ⬜ Kosong | [ ] |
-| 21 | `appreciate` | 9x | ⬜ Kosong | [ ] |
-| 22 | `architecture` | 1x | ⬜ Kosong | [ ] |
-| 23 | `are` | 14x | ⬜ Kosong | [ ] |
-| 24 | `area` | 3x | ⬜ Kosong | [ ] |
-| 25 | `as` | 3x | ⬜ Kosong | [ ] |
-| 26 | `ask` | 5x | ⬜ Kosong | [ ] |
-| 27 | `asking` | 1x | ⬜ Kosong | [ ] |
-| 28 | `asks` | 1x | ⬜ Kosong | [ ] |
-| 29 | `at` | 7x | ⬜ Kosong | [ ] |
-| 30 | `attention` | 2x | ⬜ Kosong | [ ] |
-| 31 | `away` | 1x | ⬜ Kosong | [ ] |
-| 32 | `back` | 5x | ⬜ Kosong | [ ] |
-| 33 | `be` | 12x | ⬜ Kosong | [ ] |
-| 34 | `beautiful` | 1x | ⬜ Kosong | [ ] |
-| 35 | `because` | 2x | ⬜ Kosong | [ ] |
-| 36 | `become` | 1x | ⬜ Kosong | [ ] |
-| 37 | `becoming` | 1x | ⬜ Kosong | [ ] |
-| 38 | `been` | 1x | ⬜ Kosong | [ ] |
-| 39 | `before` | 1x | ⬜ Kosong | [ ] |
-| 40 | `being` | 1x | ⬜ Kosong | [ ] |
-| 41 | `believe` | 5x | ⬜ Kosong | [ ] |
-| 42 | `beside` | 1x | ⬜ Kosong | [ ] |
-| 43 | `better` | 1x | ⬜ Kosong | [ ] |
-| 44 | `between` | 1x | ⬜ Kosong | [ ] |
-| 45 | `big` | 2x | ⬜ Kosong | [ ] |
-| 46 | `bird` | 4x | ⬜ Kosong | [ ] |
-| 47 | `bit` | 7x | ⬜ Kosong | [ ] |
-| 48 | `blank` | 1x | ⬜ Kosong | [ ] |
-| 49 | `bother` | 3x | ⬜ Kosong | [ ] |
-| 50 | `brand` | 2x | ⬜ Kosong | [ ] |
-| 51 | `brick` | 1x | ⬜ Kosong | [ ] |
-| 52 | `bricks` | 5x | ⬜ Kosong | [ ] |
-| 53 | `brother` | 1x | ⬜ Kosong | [ ] |
-| 54 | `building` | 2x | ⬜ Kosong | [ ] |
-| 55 | `built` | 1x | ⬜ Kosong | [ ] |
-| 56 | `but` | 18x | ⬜ Kosong | [ ] |
-| 57 | `by` | 5x | ⬜ Kosong | [ ] |
-| 58 | `bye` | 2x | ⬜ Kosong | [ ] |
-| 59 | `camera` | 1x | ⬜ Kosong | [ ] |
-| 60 | `can` | 21x | ⬜ Kosong | [ ] |
-| 61 | `can't` | 2x | ⬜ Kosong | [ ] |
-| 62 | `caption` | 1x | ⬜ Kosong | [ ] |
-| 63 | `case` | 1x | ⬜ Kosong | [ ] |
-| 64 | `cat` | 2x | ⬜ Kosong | [ ] |
-| 65 | `cefr` | 1x | ⬜ Kosong | [ ] |
-| 66 | `changes` | 2x | ⬜ Kosong | [ ] |
-| 67 | `chat` | 1x | ⬜ Kosong | [ ] |
-| 68 | `check` | 2x | ⬜ Kosong | [ ] |
-| 69 | `chilling` | 1x | ⬜ Kosong | [ ] |
-| 70 | `china` | 3x | ⬜ Kosong | [ ] |
-| 71 | `chinese` | 1x | ⬜ Kosong | [ ] |
-| 72 | `circumstances` | 1x | ⬜ Kosong | [ ] |
-| 73 | `clean` | 5x | ⬜ Kosong | [ ] |
-| 74 | `clear` | 1x | ⬜ Kosong | [ ] |
-| 75 | `clearly` | 1x | ⬜ Kosong | [ ] |
-| 76 | `click` | 1x | ⬜ Kosong | [ ] |
-| 77 | `closer` | 1x | ⬜ Kosong | [ ] |
-| 78 | `closest` | 1x | ⬜ Kosong | [ ] |
-| 79 | `coffee` | 11x | ⬜ Kosong | [ ] |
-| 80 | `color` | 4x | ⬜ Kosong | [ ] |
-| 81 | `com` | 1x | ⬜ Kosong | [ ] |
-| 82 | `come` | 1x | ⬜ Kosong | [ ] |
-| 83 | `comments` | 1x | ⬜ Kosong | [ ] |
-| 84 | `common` | 5x | ⬜ Kosong | [ ] |
-| 85 | `comprehensible` | 1x | ⬜ Kosong | [ ] |
-| 86 | `confidence` | 1x | ⬜ Kosong | [ ] |
-| 87 | `confident` | 1x | ⬜ Kosong | [ ] |
-| 88 | `content` | 1x | ⬜ Kosong | [ ] |
-| 89 | `continue` | 1x | ⬜ Kosong | [ ] |
-| 90 | `conversation` | 3x | ⬜ Kosong | [ ] |
-| 91 | `cool` | 1x | ⬜ Kosong | [ ] |
-| 92 | `could` | 21x | ⬜ Kosong | [ ] |
-| 93 | `couple` | 1x | ⬜ Kosong | [ ] |
-| 94 | `course` | 2x | ⬜ Kosong | [ ] |
-| 95 | `cover` | 1x | ⬜ Kosong | [ ] |
-| 96 | `covering` | 2x | ⬜ Kosong | [ ] |
-| 97 | `cranky` | 1x | ⬜ Kosong | [ ] |
-| 98 | `create` | 3x | ⬜ Kosong | [ ] |
-| 99 | `cuz` | 1x | ⬜ Kosong | [ ] |
-| 100 | `dangerous` | 1x | ⬜ Kosong | [ ] |
-| 101 | `day` | 3x | ⬜ Kosong | [ ] |
-| 102 | `deep` | 1x | ⬜ Kosong | [ ] |
-| 103 | `definitions` | 1x | ⬜ Kosong | [ ] |
-| 104 | `depends` | 1x | ⬜ Kosong | [ ] |
-| 105 | `description` | 2x | ⬜ Kosong | [ ] |
-| 106 | `designed` | 1x | ⬜ Kosong | [ ] |
-| 107 | `did` | 5x | ⬜ Kosong | [ ] |
-| 108 | `difficult` | 1x | ⬜ Kosong | [ ] |
-| 109 | `direct` | 1x | ⬜ Kosong | [ ] |
-| 110 | `directions` | 1x | ⬜ Kosong | [ ] |
-| 111 | `do` | 7x | ⬜ Kosong | [ ] |
-| 112 | `does` | 1x | ⬜ Kosong | [ ] |
-| 113 | `doesn't` | 2x | ⬜ Kosong | [ ] |
-| 114 | `don't` | 14x | ⬜ Kosong | [ ] |
-| 115 | `done` | 1x | ⬜ Kosong | [ ] |
-| 116 | `down` | 2x | ⬜ Kosong | [ ] |
-| 117 | `dozens` | 1x | ⬜ Kosong | [ ] |
-| 118 | `drink` | 3x | ⬜ Kosong | [ ] |
-| 119 | `each` | 1x | ⬜ Kosong | [ ] |
-| 120 | `end` | 2x | ⬜ Kosong | [ ] |
-| 121 | `english` | 12x | ⬜ Kosong | [ ] |
-| 122 | `enough` | 2x | ⬜ Kosong | [ ] |
-| 123 | `entrance` | 3x | ⬜ Kosong | [ ] |
-| 124 | `even` | 1x | ⬜ Kosong | [ ] |
-| 125 | `events` | 1x | ⬜ Kosong | [ ] |
+| 1 | `a` | 57x | ✅ Ada | sebuah / seorang / satu |
+| 2 | `about` | 4x | ✅ Ada | tentang / sekitar |
+| 3 | `accent` | 1x | ✅ Ada | loghat / aksen |
+| 4 | `access` | 1x | ✅ Ada | akses |
+| 5 | `across` | 1x | ✅ Ada | merentasi / di seberang |
+| 6 | `actually` | 2x | ✅ Ada | sebenarnya |
+| 7 | `add` | 4x | ✅ Ada | tambah |
+| 8 | `advice` | 1x | ✅ Ada | nasihat |
+| 9 | `after` | 1x | ✅ Ada | selepas / sesudah |
+| 10 | `all` | 2x | ✅ Ada | semua / seluruh |
+| 11 | `already` | 4x | ✅ Ada | sudah / telah pun |
+| 12 | `also` | 4x | ✅ Ada | juga / selain itu |
+| 13 | `an` | 6x | ✅ Ada | sebuah / seorang / satu |
+| 14 | `and` | 53x | ✅ Ada | dan |
+| 15 | `another` | 2x | ✅ Ada | satu lagi / lain |
+| 16 | `answer` | 1x | ✅ Ada | jawapan / menjawab |
+| 17 | `any` | 1x | ✅ Ada | sebarang / apa-apa |
+| 18 | `anymore` | 1x | ✅ Ada | lagi |
+| 19 | `anywhere` | 1x | ✅ Ada | di mana-mana sahaja |
+| 20 | `apparently` | 1x | ✅ Ada | nampaknya |
+| 21 | `appreciate` | 9x | ✅ Ada | menghargai |
+| 22 | `architecture` | 1x | ✅ Ada | seni bina |
+| 23 | `are` | 14x | ✅ Ada | adalah / berada |
+| 24 | `area` | 3x | ✅ Ada | kawasan / ruang |
+| 25 | `as` | 3x | ✅ Ada | seperti / sebagai |
+| 26 | `ask` | 5x | ✅ Ada | bertanya |
+| 27 | `asking` | 1x | ✅ Ada | bertanya |
+| 28 | `asks` | 1x | ✅ Ada | bertanya |
+| 29 | `at` | 7x | ✅ Ada | di / pada |
+| 30 | `attention` | 2x | ✅ Ada | perhatian |
+| 31 | `away` | 1x | ✅ Ada | jauh / pergi |
+| 32 | `back` | 5x | ✅ Ada | belakang / kembali |
+| 33 | `be` | 12x | ✅ Ada | menjadi / berada |
+| 34 | `beautiful` | 1x | ✅ Ada | cantik |
+| 35 | `because` | 2x | ✅ Ada | kerana / sebab |
+| 36 | `become` | 1x | ✅ Ada | menjadi |
+| 37 | `becoming` | 1x | ✅ Ada | menjadi |
+| 38 | `been` | 1x | ✅ Ada | telah / pernah |
+| 39 | `before` | 1x | ✅ Ada | sebelum |
+| 40 | `being` | 1x | ✅ Ada | makhluk |
+| 41 | `believe` | 5x | ✅ Ada | percaya |
+| 42 | `beside` | 1x | ✅ Ada | sebelah |
+| 43 | `better` | 1x | ✅ Ada | lebih baik |
+| 44 | `between` | 1x | ✅ Ada | antara |
+| 45 | `big` | 2x | ✅ Ada | besar |
+| 46 | `bird` | 4x | ✅ Ada | burung |
+| 47 | `bit` | 7x | ✅ Ada | sedikit / sikit |
+| 48 | `blank` | 1x | ✅ Ada | kosong |
+| 49 | `bother` | 3x | ✅ Ada | menyusahkan |
+| 50 | `brand` | 2x | ✅ Ada | jenama |
+| 51 | `brick` | 1x | ✅ Ada | bata |
+| 52 | `bricks` | 5x | ✅ Ada | batu bata |
+| 53 | `brother` | 1x | ✅ Ada | abang |
+| 54 | `building` | 2x | ✅ Ada | bangunan |
+| 55 | `built` | 1x | ✅ Ada | dibina |
+| 56 | `but` | 18x | ✅ Ada | tetapi / tapi |
+| 57 | `by` | 5x | ✅ Ada | oleh / dengan / menjelang |
+| 58 | `bye` | 2x | ✅ Ada | selamat tinggal / bye |
+| 59 | `camera` | 1x | ✅ Ada | kamera |
+| 60 | `can` | 21x | ✅ Ada | boleh / dapat |
+| 61 | `can't` | 2x | ✅ Ada | tidak boleh / tak boleh (singkatan 'cannot') |
+| 62 | `caption` | 1x | ✅ Ada | kapsyen |
+| 63 | `case` | 1x | ✅ Ada | kes |
+| 64 | `cat` | 2x | ✅ Ada | kucing |
+| 65 | `cefr` | 1x | ✅ Ada | cefr |
+| 66 | `changes` | 2x | ✅ Ada | perubahan |
+| 67 | `chat` | 1x | ✅ Ada | berbual |
+| 68 | `check` | 2x | ✅ Ada | semak / periksa |
+| 69 | `chilling` | 1x | ✅ Ada | menyejukkan |
+| 70 | `china` | 3x | ✅ Ada | cina |
+| 71 | `chinese` | 1x | ✅ Ada | cina |
+| 72 | `circumstances` | 1x | ✅ Ada | keadaan |
+| 73 | `clean` | 5x | ✅ Ada | bersih / membersihkan |
+| 74 | `clear` | 1x | ✅ Ada | jelas / terang |
+| 75 | `clearly` | 1x | ✅ Ada | dengan jelas |
+| 76 | `click` | 1x | ✅ Ada | klik |
+| 77 | `closer` | 1x | ✅ Ada | lebih dekat |
+| 78 | `closest` | 1x | ✅ Ada | paling dekat |
+| 79 | `coffee` | 11x | ✅ Ada | kopi |
+| 80 | `color` | 4x | ✅ Ada | warna |
+| 81 | `com` | 1x | ✅ Ada | domain .com |
+| 82 | `come` | 1x | ✅ Ada | datang / mari |
+| 83 | `comments` | 1x | ✅ Ada | ruangan komen / ulasan |
+| 84 | `common` | 5x | ✅ Ada | lazim / biasa |
+| 85 | `comprehensible` | 1x | ✅ Ada | mudah difahami |
+| 86 | `confidence` | 1x | ✅ Ada | keyakinan diri |
+| 87 | `confident` | 1x | ✅ Ada | yakin |
+| 88 | `content` | 1x | ✅ Ada | kandungan |
+| 89 | `continue` | 1x | ✅ Ada | teruskan / menyambung |
+| 90 | `conversation` | 3x | ✅ Ada | perbualan |
+| 91 | `cool` | 1x | ✅ Ada | sejuk / hebat / bergaya |
+| 92 | `could` | 21x | ✅ Ada | boleh / dapat |
+| 93 | `couple` | 1x | ✅ Ada | pasangan / beberapa |
+| 94 | `course` | 2x | ✅ Ada | tentu sekali / kursus |
+| 95 | `cover` | 1x | ✅ Ada | penutup |
+| 96 | `covering` | 2x | ✅ Ada | penutup |
+| 97 | `cranky` | 1x | ✅ Ada | rewel |
+| 98 | `create` | 3x | ✅ Ada | cipta |
+| 99 | `cuz` | 1x | ✅ Ada | sebab / kerana (singkatan 'because') |
+| 100 | `dangerous` | 1x | ✅ Ada | bahaya |
+| 101 | `day` | 3x | ✅ Ada | hari / siang |
+| 102 | `deep` | 1x | ✅ Ada | dalam |
+| 103 | `definitions` | 1x | ✅ Ada | definisi / takrifan |
+| 104 | `depends` | 1x | ✅ Ada | bergantung |
+| 105 | `description` | 2x | ✅ Ada | penerangan / deskripsi |
+| 106 | `designed` | 1x | ✅ Ada | direka |
+| 107 | `did` | 5x | ✅ Ada | telah buat / adakah |
+| 108 | `difficult` | 1x | ✅ Ada | susah |
+| 109 | `direct` | 1x | ✅ Ada | langsung |
+| 110 | `directions` | 1x | ✅ Ada | arah |
+| 111 | `do` | 7x | ✅ Ada | buat / lakukan |
+| 112 | `does` | 1x | ✅ Ada | buat / melakukan |
+| 113 | `doesn't` | 2x | ✅ Ada | tidak / tak (singkatan 'does not') |
+| 114 | `don't` | 14x | ✅ Ada | jangan / tidak (singkatan 'do not') |
+| 115 | `done` | 1x | ✅ Ada | selesai |
+| 116 | `down` | 2x | ✅ Ada | bawah / turun |
+| 117 | `dozens` | 1x | ✅ Ada | berpuluh-puluh |
+| 118 | `drink` | 3x | ✅ Ada | minum |
+| 119 | `each` | 1x | ✅ Ada | setiap / masing-masing |
+| 120 | `end` | 2x | ✅ Ada | hujung / tamat |
+| 121 | `english` | 12x | ✅ Ada | bahasa Inggeris |
+| 122 | `enough` | 2x | ✅ Ada | cukup |
+| 123 | `entrance` | 3x | ✅ Ada | pintu masuk |
+| 124 | `even` | 1x | ✅ Ada | malah / pun |
+| 125 | `events` | 1x | ✅ Ada | peristiwa |
 | 126 | `every` | 5x | ✅ Ada | setiap / tiap-tiap |
-| 127 | `everyone` | 1x | ⬜ Kosong | [ ] |
-| 128 | `everything's` | 1x | ⬜ Kosong | [ ] |
-| 129 | `exactly` | 4x | ⬜ Kosong | [ ] |
-| 130 | `example` | 15x | ⬜ Kosong | [ ] |
-| 131 | `examples` | 3x | ⬜ Kosong | [ ] |
-| 132 | `exchange` | 1x | ⬜ Kosong | [ ] |
-| 133 | `exclusive` | 1x | ⬜ Kosong | [ ] |
-| 134 | `excuse` | 8x | ⬜ Kosong | [ ] |
-| 135 | `exit` | 2x | ⬜ Kosong | [ ] |
-| 136 | `express` | 1x | ⬜ Kosong | [ ] |
-| 137 | `eyes` | 6x | ⬜ Kosong | [ ] |
-| 138 | `face` | 2x | ⬜ Kosong | [ ] |
-| 139 | `fake` | 1x | ⬜ Kosong | [ ] |
-| 140 | `families` | 1x | ⬜ Kosong | [ ] |
-| 141 | `family` | 1x | ⬜ Kosong | [ ] |
-| 142 | `favorite` | 2x | ⬜ Kosong | [ ] |
-| 143 | `feel` | 1x | ⬜ Kosong | [ ] |
-| 144 | `fell` | 2x | ⬜ Kosong | [ ] |
-| 145 | `fifth` | 1x | ⬜ Kosong | [ ] |
-| 146 | `final` | 1x | ⬜ Kosong | [ ] |
-| 147 | `finally` | 1x | ⬜ Kosong | [ ] |
-| 148 | `find` | 2x | ⬜ Kosong | [ ] |
-| 149 | `fine` | 1x | ⬜ Kosong | [ ] |
-| 150 | `first` | 6x | ⬜ Kosong | [ ] |
-| 151 | `five` | 2x | ⬜ Kosong | [ ] |
-| 152 | `fluent` | 2x | ⬜ Kosong | [ ] |
-| 153 | `follow` | 2x | ⬜ Kosong | [ ] |
-| 154 | `for` | 19x | ⬜ Kosong | [ ] |
-| 155 | `four` | 2x | ⬜ Kosong | [ ] |
-| 156 | `fourth` | 1x | ⬜ Kosong | [ ] |
-| 157 | `framework` | 1x | ⬜ Kosong | [ ] |
-| 158 | `fresh` | 1x | ⬜ Kosong | [ ] |
-| 159 | `freshly` | 2x | ⬜ Kosong | [ ] |
-| 160 | `friends` | 1x | ⬜ Kosong | [ ] |
-| 161 | `from` | 5x | ⬜ Kosong | [ ] |
-| 162 | `full` | 1x | ⬜ Kosong | [ ] |
-| 163 | `get` | 13x | ⬜ Kosong | [ ] |
-| 164 | `getting` | 1x | ⬜ Kosong | [ ] |
-| 165 | `give` | 3x | ⬜ Kosong | [ ] |
-| 166 | `glad` | 1x | ⬜ Kosong | [ ] |
-| 167 | `go` | 10x | ⬜ Kosong | [ ] |
-| 168 | `going` | 5x | ⬜ Kosong | [ ] |
-| 169 | `good` | 7x | ⬜ Kosong | [ ] |
-| 170 | `gosh` | 1x | ⬜ Kosong | [ ] |
-| 171 | `government` | 1x | ⬜ Kosong | [ ] |
-| 172 | `gpt` | 1x | ⬜ Kosong | [ ] |
-| 173 | `grab` | 1x | ⬜ Kosong | [ ] |
-| 174 | `grass` | 1x | ⬜ Kosong | [ ] |
-| 175 | `guys` | 6x | ⬜ Kosong | [ ] |
-| 176 | `had` | 4x | ⬜ Kosong | [ ] |
-| 177 | `hand` | 3x | ⬜ Kosong | [ ] |
-| 178 | `has` | 2x | ⬜ Kosong | [ ] |
-| 179 | `hat` | 1x | ⬜ Kosong | [ ] |
-| 180 | `have` | 8x | ⬜ Kosong | [ ] |
-| 181 | `he` | 2x | ⬜ Kosong | [ ] |
-| 182 | `heading` | 1x | ⬜ Kosong | [ ] |
-| 183 | `help` | 18x | ⬜ Kosong | [ ] |
-| 184 | `helped` | 1x | ⬜ Kosong | [ ] |
-| 185 | `here` | 6x | ⬜ Kosong | [ ] |
-| 186 | `here's` | 1x | ⬜ Kosong | [ ] |
-| 187 | `hesitating` | 1x | ⬜ Kosong | [ ] |
-| 188 | `hi` | 3x | ⬜ Kosong | [ ] |
-| 189 | `him` | 1x | ⬜ Kosong | [ ] |
-| 190 | `hold` | 2x | ⬜ Kosong | [ ] |
-| 191 | `honest` | 2x | ⬜ Kosong | [ ] |
-| 192 | `honestly` | 2x | ⬜ Kosong | [ ] |
-| 193 | `hoodie` | 1x | ⬜ Kosong | [ ] |
-| 194 | `hopefully` | 1x | ⬜ Kosong | [ ] |
-| 195 | `how` | 12x | ⬜ Kosong | [ ] |
-| 196 | `however` | 1x | ⬜ Kosong | [ ] |
-| 197 | `i` | 57x | ⬜ Kosong | [ ] |
-| 198 | `i'd` | 3x | ⬜ Kosong | [ ] |
-| 199 | `i'll` | 1x | ⬜ Kosong | [ ] |
-| 200 | `i'm` | 15x | ⬜ Kosong | [ ] |
-| 201 | `i've` | 3x | ⬜ Kosong | [ ] |
-| 202 | `if` | 14x | ⬜ Kosong | [ ] |
-| 203 | `important` | 2x | ⬜ Kosong | [ ] |
-| 204 | `in` | 15x | ⬜ Kosong | [ ] |
-| 205 | `input` | 1x | ⬜ Kosong | [ ] |
-| 206 | `inside` | 1x | ⬜ Kosong | [ ] |
-| 207 | `instant` | 1x | ⬜ Kosong | [ ] |
-| 208 | `instantly` | 1x | ⬜ Kosong | [ ] |
-| 209 | `instead` | 1x | ⬜ Kosong | [ ] |
-| 210 | `interesting` | 1x | ⬜ Kosong | [ ] |
-| 211 | `is` | 34x | ⬜ Kosong | [ ] |
-| 212 | `isn't` | 1x | ⬜ Kosong | [ ] |
-| 213 | `it` | 34x | ⬜ Kosong | [ ] |
-| 214 | `it's` | 15x | ⬜ Kosong | [ ] |
-| 215 | `jeans` | 1x | ⬜ Kosong | [ ] |
-| 216 | `join` | 2x | ⬜ Kosong | [ ] |
-| 217 | `just` | 11x | ⬜ Kosong | [ ] |
-| 218 | `keep` | 2x | ⬜ Kosong | [ ] |
-| 219 | `kind` | 1x | ⬜ Kosong | [ ] |
-| 220 | `king` | 2x | ⬜ Kosong | [ ] |
-| 221 | `kings` | 1x | ⬜ Kosong | [ ] |
-| 222 | `know` | 8x | ⬜ Kosong | [ ] |
-| 223 | `later` | 1x | ⬜ Kosong | [ ] |
-| 224 | `learned` | 1x | ⬜ Kosong | [ ] |
-| 225 | `learning` | 3x | ⬜ Kosong | [ ] |
-| 226 | `leave` | 1x | ⬜ Kosong | [ ] |
-| 227 | `legal` | 1x | ⬜ Kosong | [ ] |
-| 228 | `leon` | 1x | ⬜ Kosong | [ ] |
-| 229 | `lesson` | 1x | ⬜ Kosong | [ ] |
-| 230 | `lessons` | 2x | ⬜ Kosong | [ ] |
-| 231 | `let` | 3x | ⬜ Kosong | [ ] |
-| 232 | `let's` | 6x | ⬜ Kosong | [ ] |
-| 233 | `level` | 1x | ⬜ Kosong | [ ] |
-| 234 | `light` | 1x | ⬜ Kosong | [ ] |
-| 235 | `lighter` | 1x | ⬜ Kosong | [ ] |
-| 236 | `like` | 33x | ⬜ Kosong | [ ] |
-| 237 | `liked` | 1x | ⬜ Kosong | [ ] |
-| 238 | `link` | 2x | ⬜ Kosong | [ ] |
-| 239 | `little` | 2x | ⬜ Kosong | [ ] |
-| 240 | `live` | 2x | ⬜ Kosong | [ ] |
-| 241 | `lives` | 1x | ⬜ Kosong | [ ] |
-| 242 | `look` | 6x | ⬜ Kosong | [ ] |
-| 243 | `looking` | 1x | ⬜ Kosong | [ ] |
-| 244 | `looks` | 4x | ⬜ Kosong | [ ] |
-| 245 | `lost` | 5x | ⬜ Kosong | [ ] |
-| 246 | `lot` | 3x | ⬜ Kosong | [ ] |
-| 247 | `loud` | 1x | ⬜ Kosong | [ ] |
-| 248 | `luckin` | 2x | ⬜ Kosong | [ ] |
-| 249 | `main` | 4x | ⬜ Kosong | [ ] |
-| 250 | `make` | 5x | ⬜ Kosong | [ ] |
-| 251 | `makes` | 2x | ⬜ Kosong | [ ] |
-| 252 | `makeshift` | 1x | ⬜ Kosong | [ ] |
-| 253 | `malaysia` | 2x | ⬜ Kosong | [ ] |
-| 254 | `master` | 1x | ⬜ Kosong | [ ] |
-| 255 | `may` | 4x | ⬜ Kosong | [ ] |
-| 256 | `maybe` | 1x | ⬜ Kosong | [ ] |
-| 257 | `me` | 39x | ⬜ Kosong | [ ] |
-| 258 | `mer` | 1x | ⬜ Kosong | [ ] |
-| 259 | `merdeka` | 1x | ⬜ Kosong | [ ] |
-| 260 | `might` | 2x | ⬜ Kosong | [ ] |
-| 261 | `mind` | 1x | ⬜ Kosong | [ ] |
-| 262 | `mistake` | 1x | ⬜ Kosong | [ ] |
-| 263 | `mistakes` | 1x | ⬜ Kosong | [ ] |
-| 264 | `mix` | 1x | ⬜ Kosong | [ ] |
-| 265 | `moment` | 1x | ⬜ Kosong | [ ] |
-| 266 | `more` | 6x | ⬜ Kosong | [ ] |
-| 267 | `morning` | 1x | ⬜ Kosong | [ ] |
-| 268 | `mosque` | 5x | ⬜ Kosong | [ ] |
-| 269 | `most` | 4x | ⬜ Kosong | [ ] |
-| 270 | `mountain` | 1x | ⬜ Kosong | [ ] |
-| 271 | `much` | 2x | ⬜ Kosong | [ ] |
-| 272 | `music` | 6x | ⬜ Kosong | [ ] |
-| 273 | `must` | 9x | ⬜ Kosong | [ ] |
-| 274 | `my` | 16x | ⬜ Kosong | [ ] |
+| 127 | `everyone` | 1x | ✅ Ada | semua orang |
+| 128 | `everything's` | 1x | ✅ Ada | segala-galanya |
+| 129 | `exactly` | 4x | ✅ Ada | betul-betul |
+| 130 | `example` | 15x | ✅ Ada | contoh |
+| 131 | `examples` | 3x | ✅ Ada | contoh-contoh |
+| 132 | `exchange` | 1x | ✅ Ada | pertukaran |
+| 133 | `exclusive` | 1x | ✅ Ada | eksklusif |
+| 134 | `excuse` | 8x | ✅ Ada | alasan |
+| 135 | `exit` | 2x | ✅ Ada | keluar |
+| 136 | `express` | 1x | ✅ Ada | ekspres |
+| 137 | `eyes` | 6x | ✅ Ada | mata |
+| 138 | `face` | 2x | ✅ Ada | muka / wajah |
+| 139 | `fake` | 1x | ✅ Ada | palsu |
+| 140 | `families` | 1x | ✅ Ada | keluarga |
+| 141 | `family` | 1x | ✅ Ada | keluarga |
+| 142 | `favorite` | 2x | ✅ Ada | kegemaran |
+| 143 | `feel` | 1x | ✅ Ada | rasa / merasa |
+| 144 | `fell` | 2x | ✅ Ada | jatuh |
+| 145 | `fifth` | 1x | ✅ Ada | kelima |
+| 146 | `final` | 1x | ✅ Ada | terakhir / muktamad |
+| 147 | `finally` | 1x | ✅ Ada | akhirnya |
+| 148 | `find` | 2x | ✅ Ada | cari / menemui |
+| 149 | `fine` | 1x | ✅ Ada | baiklah |
+| 150 | `first` | 6x | ✅ Ada | pertama / dulu |
+| 151 | `five` | 2x | ✅ Ada | lima |
+| 152 | `fluent` | 2x | ✅ Ada | lancar / fasih |
+| 153 | `follow` | 2x | ✅ Ada | ikut |
+| 154 | `for` | 19x | ✅ Ada | untuk / bagi |
+| 155 | `four` | 2x | ✅ Ada | empat |
+| 156 | `fourth` | 1x | ✅ Ada | keempat |
+| 157 | `framework` | 1x | ✅ Ada | rangka kerja |
+| 158 | `fresh` | 1x | ✅ Ada | segar |
+| 159 | `freshly` | 2x | ✅ Ada | baru |
+| 160 | `friends` | 1x | ✅ Ada | kawan-kawan |
+| 161 | `from` | 5x | ✅ Ada | dari / daripada |
+| 162 | `full` | 1x | ✅ Ada | penuh |
+| 163 | `get` | 13x | ✅ Ada | dapat / mengambil |
+| 164 | `getting` | 1x | ✅ Ada | semakin / sedang dapat |
+| 165 | `give` | 3x | ✅ Ada | beri / memberikan |
+| 166 | `glad` | 1x | ✅ Ada | gembira / bersyukur |
+| 167 | `go` | 10x | ✅ Ada | pergi |
+| 168 | `going` | 5x | ✅ Ada | sedang pergi / akan |
+| 169 | `good` | 7x | ✅ Ada | baik / bagus |
+| 170 | `gosh` | 1x | ✅ Ada | astaga |
+| 171 | `government` | 1x | ✅ Ada | kerajaan |
+| 172 | `gpt` | 1x | ✅ Ada | gpt |
+| 173 | `grab` | 1x | ✅ Ada | ambil / capai |
+| 174 | `grass` | 1x | ✅ Ada | rumput |
+| 175 | `guys` | 6x | ✅ Ada | kawan-kawan / kalian |
+| 176 | `had` | 4x | ✅ Ada | mempunyai / telah ada |
+| 177 | `hand` | 3x | ✅ Ada | tangan |
+| 178 | `has` | 2x | ✅ Ada | ada / mempunyai |
+| 179 | `hat` | 1x | ✅ Ada | topi |
+| 180 | `have` | 8x | ✅ Ada | ada / mempunyai |
+| 181 | `he` | 2x | ✅ Ada | dia |
+| 182 | `heading` | 1x | ✅ Ada | tajuk |
+| 183 | `help` | 18x | ✅ Ada | bantu / tolong |
+| 184 | `helped` | 1x | ✅ Ada | membantu |
+| 185 | `here` | 6x | ✅ Ada | di sini |
+| 186 | `here's` | 1x | ✅ Ada | inilah |
+| 187 | `hesitating` | 1x | ✅ Ada | teragak-agak |
+| 188 | `hi` | 3x | ✅ Ada | hai |
+| 189 | `him` | 1x | ✅ Ada | dia |
+| 190 | `hold` | 2x | ✅ Ada | tahan |
+| 191 | `honest` | 2x | ✅ Ada | jujur |
+| 192 | `honestly` | 2x | ✅ Ada | sejujurnya |
+| 193 | `hoodie` | 1x | ✅ Ada | hoodie |
+| 194 | `hopefully` | 1x | ✅ Ada | mudah-mudahan |
+| 195 | `how` | 12x | ✅ Ada | bagaimana / macam mana |
+| 196 | `however` | 1x | ✅ Ada | walau bagaimanapun |
+| 197 | `i` | 57x | ✅ Ada | saya / aku |
+| 198 | `i'd` | 3x | ✅ Ada | saya akan / saya mahu (singkatan 'I would/had') |
+| 199 | `i'll` | 1x | ✅ Ada | saya akan (singkatan 'I will') |
+| 200 | `i'm` | 15x | ✅ Ada | saya / saya sedang (singkatan 'I am') |
+| 201 | `i've` | 3x | ✅ Ada | saya telah / saya dah (singkatan 'I have') |
+| 202 | `if` | 14x | ✅ Ada | jika / kalau |
+| 203 | `important` | 2x | ✅ Ada | penting |
+| 204 | `in` | 15x | ✅ Ada | dalam / di dalam |
+| 205 | `input` | 1x | ✅ Ada | input / masukan |
+| 206 | `inside` | 1x | ✅ Ada | di dalam |
+| 207 | `instant` | 1x | ✅ Ada | segera |
+| 208 | `instantly` | 1x | ✅ Ada | serta merta |
+| 209 | `instead` | 1x | ✅ Ada | sebaliknya |
+| 210 | `interesting` | 1x | ✅ Ada | menarik |
+| 211 | `is` | 34x | ✅ Ada | adalah / ialah |
+| 212 | `isn't` | 1x | ✅ Ada | bukan / tidak (singkatan 'is not') |
+| 213 | `it` | 34x | ✅ Ada | ia / itu |
+| 214 | `it's` | 15x | ✅ Ada | ia adalah / itu (singkatan 'it is/has') |
+| 215 | `jeans` | 1x | ✅ Ada | seluar jeans |
+| 216 | `join` | 2x | ✅ Ada | sertai / bergabung |
+| 217 | `just` | 11x | ✅ Ada | hanya / sekadar / baru saja |
+| 218 | `keep` | 2x | ✅ Ada | simpan / teruskan |
+| 219 | `kind` | 1x | ✅ Ada | jenis / baik hati |
+| 220 | `king` | 2x | ✅ Ada | raja |
+| 221 | `kings` | 1x | ✅ Ada | raja-raja |
+| 222 | `know` | 8x | ✅ Ada | tahu / kenal |
+| 223 | `later` | 1x | ✅ Ada | kemudian / nanti |
+| 224 | `learned` | 1x | ✅ Ada | sudah belajar / dipelajari |
+| 225 | `learning` | 3x | ✅ Ada | pembelajaran / sedang belajar |
+| 226 | `leave` | 1x | ✅ Ada | tinggalkan / keluar |
+| 227 | `legal` | 1x | ✅ Ada | sah |
+| 228 | `leon` | 1x | ✅ Ada | leon |
+| 229 | `lesson` | 1x | ✅ Ada | pelajaran |
+| 230 | `lessons` | 2x | ✅ Ada | pelajaran-pelajaran |
+| 231 | `let` | 3x | ✅ Ada | biarkan / membenarkan |
+| 232 | `let's` | 6x | ✅ Ada | jom / marilah kita (singkatan 'let us') |
+| 233 | `level` | 1x | ✅ Ada | tahap |
+| 234 | `light` | 1x | ✅ Ada | cahaya / lampu / ringan |
+| 235 | `lighter` | 1x | ✅ Ada | lebih ringan |
+| 236 | `like` | 33x | ✅ Ada | suka / seperti |
+| 237 | `liked` | 1x | ✅ Ada | suka |
+| 238 | `link` | 2x | ✅ Ada | pautan |
+| 239 | `little` | 2x | ✅ Ada | kecil / sedikit |
+| 240 | `live` | 2x | ✅ Ada | hidup |
+| 241 | `lives` | 1x | ✅ Ada | nyawa |
+| 242 | `look` | 6x | ✅ Ada | tengok / kelihatan |
+| 243 | `looking` | 1x | ✅ Ada | mencari |
+| 244 | `looks` | 4x | ✅ Ada | kelihatan |
+| 245 | `lost` | 5x | ✅ Ada | hilang |
+| 246 | `lot` | 3x | ✅ Ada | banyak |
+| 247 | `loud` | 1x | ✅ Ada | kuat |
+| 248 | `luckin` | 2x | ✅ Ada | nasib baik |
+| 249 | `main` | 4x | ✅ Ada | utama |
+| 250 | `make` | 5x | ✅ Ada | buat / menghasilkan |
+| 251 | `makes` | 2x | ✅ Ada | membuat |
+| 252 | `makeshift` | 1x | ✅ Ada | sementara |
+| 253 | `malaysia` | 2x | ✅ Ada | malaysia |
+| 254 | `master` | 1x | ✅ Ada | tuan |
+| 255 | `may` | 4x | ✅ Ada | boleh |
+| 256 | `maybe` | 1x | ✅ Ada | mungkin |
+| 257 | `me` | 39x | ✅ Ada | saya / aku |
+| 258 | `mer` | 1x | ✅ Ada | mer |
+| 259 | `merdeka` | 1x | ✅ Ada | merdeka |
+| 260 | `might` | 2x | ✅ Ada | mungkin |
+| 261 | `mind` | 1x | ✅ Ada | fikiran / minda |
+| 262 | `mistake` | 1x | ✅ Ada | kesilapan / ralat |
+| 263 | `mistakes` | 1x | ✅ Ada | kesilapan-kesilapan |
+| 264 | `mix` | 1x | ✅ Ada | campurkan |
+| 265 | `moment` | 1x | ✅ Ada | seketika |
+| 266 | `more` | 6x | ✅ Ada | lebih banyak |
+| 267 | `morning` | 1x | ✅ Ada | pagi |
+| 268 | `mosque` | 5x | ✅ Ada | masjid |
+| 269 | `most` | 4x | ✅ Ada | paling banyak / kebanyakan |
+| 270 | `mountain` | 1x | ✅ Ada | gunung |
+| 271 | `much` | 2x | ✅ Ada | banyak |
+| 272 | `music` | 6x | ✅ Ada | muzik |
+| 273 | `must` | 9x | ✅ Ada | mesti |
+| 274 | `my` | 16x | ✅ Ada | saya punya / kepunyaan saya |
 | 275 | `natural` | 1x | ✅ Ada | semula jadi / santai |
-| 276 | `need` | 1x | ⬜ Kosong | [ ] |
-| 277 | `never` | 2x | ⬜ Kosong | [ ] |
-| 278 | `new` | 2x | ⬜ Kosong | [ ] |
-| 279 | `nice` | 7x | ⬜ Kosong | [ ] |
-| 280 | `no` | 7x | ⬜ Kosong | [ ] |
-| 281 | `not` | 11x | ⬜ Kosong | [ ] |
-| 282 | `now` | 15x | ⬜ Kosong | [ ] |
-| 283 | `of` | 22x | ⬜ Kosong | [ ] |
-| 284 | `off` | 1x | ⬜ Kosong | [ ] |
-| 285 | `offered` | 1x | ⬜ Kosong | [ ] |
-| 286 | `oh` | 4x | ⬜ Kosong | [ ] |
-| 287 | `okay` | 6x | ⬜ Kosong | [ ] |
-| 288 | `old` | 2x | ⬜ Kosong | [ ] |
-| 289 | `on` | 11x | ⬜ Kosong | [ ] |
-| 290 | `once` | 2x | ⬜ Kosong | [ ] |
-| 291 | `one` | 14x | ⬜ Kosong | [ ] |
-| 292 | `ones` | 1x | ⬜ Kosong | [ ] |
-| 293 | `only` | 1x | ⬜ Kosong | [ ] |
-| 294 | `or` | 18x | ⬜ Kosong | [ ] |
-| 295 | `orange` | 1x | ⬜ Kosong | [ ] |
-| 296 | `order` | 2x | ⬜ Kosong | [ ] |
-| 297 | `ordering` | 1x | ⬜ Kosong | [ ] |
-| 298 | `organized` | 1x | ⬜ Kosong | [ ] |
-| 299 | `out` | 6x | ⬜ Kosong | [ ] |
-| 300 | `over` | 5x | ⬜ Kosong | [ ] |
-| 301 | `painted` | 1x | ⬜ Kosong | [ ] |
+| 276 | `need` | 1x | ✅ Ada | perlu / memerlukan |
+| 277 | `never` | 2x | ✅ Ada | tidak pernah / tak pernah |
+| 278 | `new` | 2x | ✅ Ada | baharu / baru |
+| 279 | `nice` | 7x | ✅ Ada | bagus / cantik / selesa |
+| 280 | `no` | 7x | ✅ Ada | tidak / tiada |
+| 281 | `not` | 11x | ✅ Ada | bukan / tidak |
+| 282 | `now` | 15x | ✅ Ada | sekarang |
+| 283 | `of` | 22x | ✅ Ada | daripada / tentang |
+| 284 | `off` | 1x | ✅ Ada | padam / mati / lepas |
+| 285 | `offered` | 1x | ✅ Ada | ditawarkan |
+| 286 | `oh` | 4x | ✅ Ada | oh |
+| 287 | `okay` | 6x | ✅ Ada | okay |
+| 288 | `old` | 2x | ✅ Ada | lama |
+| 289 | `on` | 11x | ✅ Ada | hidup / atas |
+| 290 | `once` | 2x | ✅ Ada | sekali / suatu ketika |
+| 291 | `one` | 14x | ✅ Ada | satu / seorang |
+| 292 | `ones` | 1x | ✅ Ada | yang itu (jamak) |
+| 293 | `only` | 1x | ✅ Ada | hanya / sahaja |
+| 294 | `or` | 18x | ✅ Ada | atau |
+| 295 | `orange` | 1x | ✅ Ada | oren |
+| 296 | `order` | 2x | ✅ Ada | pesanan |
+| 297 | `ordering` | 1x | ✅ Ada | memesan |
+| 298 | `organized` | 1x | ✅ Ada | tersusun |
+| 299 | `out` | 6x | ✅ Ada | keluar / di luar |
+| 300 | `over` | 5x | ✅ Ada | atas / tamat / lebih |
+| 301 | `painted` | 1x | ✅ Ada | dilukis |
 | 302 | `palace` | 2x | ✅ Ada | istana |
-| 303 | `park` | 1x | ⬜ Kosong | [ ] |
-| 304 | `part` | 1x | ⬜ Kosong | [ ] |
-| 305 | `pdf` | 1x | ⬜ Kosong | [ ] |
-| 306 | `peek` | 1x | ⬜ Kosong | [ ] |
-| 307 | `people` | 1x | ⬜ Kosong | [ ] |
-| 308 | `person` | 1x | ⬜ Kosong | [ ] |
-| 309 | `personally` | 1x | ⬜ Kosong | [ ] |
-| 310 | `photo` | 8x | ⬜ Kosong | [ ] |
-| 311 | `photos` | 1x | ⬜ Kosong | [ ] |
-| 312 | `phrases` | 6x | ⬜ Kosong | [ ] |
-| 313 | `picture` | 1x | ⬜ Kosong | [ ] |
-| 314 | `piece` | 1x | ⬜ Kosong | [ ] |
-| 315 | `place` | 2x | ⬜ Kosong | [ ] |
-| 316 | `please` | 17x | ⬜ Kosong | [ ] |
-| 317 | `plus` | 1x | ⬜ Kosong | [ ] |
-| 318 | `polite` | 13x | ⬜ Kosong | [ ] |
-| 319 | `politely` | 8x | ⬜ Kosong | [ ] |
-| 320 | `poop` | 4x | ⬜ Kosong | [ ] |
-| 321 | `position` | 1x | ⬜ Kosong | [ ] |
+| 303 | `park` | 1x | ✅ Ada | taman |
+| 304 | `part` | 1x | ✅ Ada | bahagian |
+| 305 | `pdf` | 1x | ✅ Ada | fail dokumen PDF |
+| 306 | `peek` | 1x | ✅ Ada | mengintip |
+| 307 | `people` | 1x | ✅ Ada | orang ramai / manusia |
+| 308 | `person` | 1x | ✅ Ada | orang |
+| 309 | `personally` | 1x | ✅ Ada | secara peribadi |
+| 310 | `photo` | 8x | ✅ Ada | foto |
+| 311 | `photos` | 1x | ✅ Ada | foto |
+| 312 | `phrases` | 6x | ✅ Ada | frasa-frasa |
+| 313 | `picture` | 1x | ✅ Ada | gambar |
+| 314 | `piece` | 1x | ✅ Ada | sekeping |
+| 315 | `place` | 2x | ✅ Ada | tempat |
+| 316 | `please` | 17x | ✅ Ada | tolonglah |
+| 317 | `plus` | 1x | ✅ Ada | tambah / selain itu |
+| 318 | `polite` | 13x | ✅ Ada | bersopan santun |
+| 319 | `politely` | 8x | ✅ Ada | dengan sopan |
+| 320 | `poop` | 4x | ✅ Ada | tahi |
+| 321 | `position` | 1x | ✅ Ada | kedudukan |
 | 322 | `practice` | 4x | ✅ Ada | berlatih / latihan |
-| 323 | `pre` | 1x | ⬜ Kosong | [ ] |
-| 324 | `problem` | 1x | ⬜ Kosong | [ ] |
-| 325 | `prompt` | 1x | ⬜ Kosong | [ ] |
-| 326 | `pronunciation` | 4x | ⬜ Kosong | [ ] |
-| 327 | `province` | 1x | ⬜ Kosong | [ ] |
-| 328 | `public` | 1x | ⬜ Kosong | [ ] |
-| 329 | `put` | 4x | ⬜ Kosong | [ ] |
-| 330 | `question` | 2x | ⬜ Kosong | [ ] |
-| 331 | `questions` | 1x | ⬜ Kosong | [ ] |
-| 332 | `quite` | 1x | ⬜ Kosong | [ ] |
-| 333 | `quote` | 1x | ⬜ Kosong | [ ] |
-| 334 | `rather` | 1x | ⬜ Kosong | [ ] |
-| 335 | `read` | 1x | ⬜ Kosong | [ ] |
-| 336 | `real` | 3x | ⬜ Kosong | [ ] |
-| 337 | `really` | 5x | ⬜ Kosong | [ ] |
-| 338 | `reason` | 3x | ⬜ Kosong | [ ] |
-| 339 | `recording` | 1x | ⬜ Kosong | [ ] |
-| 340 | `refuse` | 3x | ⬜ Kosong | [ ] |
-| 341 | `remember` | 1x | ⬜ Kosong | [ ] |
-| 342 | `request` | 4x | ⬜ Kosong | [ ] |
-| 343 | `respectful` | 1x | ⬜ Kosong | [ ] |
-| 344 | `restaurant` | 2x | ⬜ Kosong | [ ] |
-| 345 | `rhythm` | 1x | ⬜ Kosong | [ ] |
-| 346 | `right` | 10x | ⬜ Kosong | [ ] |
-| 347 | `royal` | 1x | ⬜ Kosong | [ ] |
-| 348 | `royals` | 1x | ⬜ Kosong | [ ] |
-| 349 | `royalty` | 2x | ⬜ Kosong | [ ] |
-| 350 | `rude` | 1x | ⬜ Kosong | [ ] |
-| 351 | `said` | 1x | ⬜ Kosong | [ ] |
-| 352 | `saw` | 1x | ⬜ Kosong | [ ] |
-| 353 | `say` | 7x | ⬜ Kosong | [ ] |
-| 354 | `saying` | 3x | ⬜ Kosong | [ ] |
-| 355 | `scenarios` | 1x | ⬜ Kosong | [ ] |
-| 356 | `second` | 5x | ⬜ Kosong | [ ] |
-| 357 | `see` | 2x | ⬜ Kosong | [ ] |
-| 358 | `seen` | 1x | ⬜ Kosong | [ ] |
-| 359 | `sense` | 1x | ⬜ Kosong | [ ] |
-| 360 | `sentence` | 2x | ⬜ Kosong | [ ] |
-| 361 | `sentences` | 2x | ⬜ Kosong | [ ] |
-| 362 | `series` | 1x | ⬜ Kosong | [ ] |
-| 363 | `serious` | 1x | ⬜ Kosong | [ ] |
-| 364 | `service` | 1x | ⬜ Kosong | [ ] |
-| 365 | `shade` | 3x | ⬜ Kosong | [ ] |
-| 366 | `shadowing` | 2x | ⬜ Kosong | [ ] |
-| 367 | `shirts` | 1x | ⬜ Kosong | [ ] |
-| 368 | `short` | 2x | ⬜ Kosong | [ ] |
-| 369 | `should` | 3x | ⬜ Kosong | [ ] |
-| 370 | `show` | 1x | ⬜ Kosong | [ ] |
-| 371 | `simple` | 1x | ⬜ Kosong | [ ] |
-| 372 | `simply` | 1x | ⬜ Kosong | [ ] |
-| 373 | `sit` | 2x | ⬜ Kosong | [ ] |
-| 374 | `slow` | 1x | ⬜ Kosong | [ ] |
-| 375 | `slowly` | 1x | ⬜ Kosong | [ ] |
-| 376 | `sneak` | 1x | ⬜ Kosong | [ ] |
-| 377 | `so` | 26x | ⬜ Kosong | [ ] |
-| 378 | `softer` | 3x | ⬜ Kosong | [ ] |
-| 379 | `some` | 6x | ⬜ Kosong | [ ] |
-| 380 | `someone` | 5x | ⬜ Kosong | [ ] |
-| 381 | `someone's` | 1x | ⬜ Kosong | [ ] |
-| 382 | `something` | 4x | ⬜ Kosong | [ ] |
-| 383 | `son` | 1x | ⬜ Kosong | [ ] |
-| 384 | `sorry` | 10x | ⬜ Kosong | [ ] |
-| 385 | `sound` | 7x | ⬜ Kosong | [ ] |
-| 386 | `sounds` | 3x | ⬜ Kosong | [ ] |
-| 387 | `speak` | 4x | ⬜ Kosong | [ ] |
-| 388 | `speaking` | 7x | ⬜ Kosong | [ ] |
-| 389 | `spiral` | 2x | ⬜ Kosong | [ ] |
-| 390 | `spoken` | 2x | ⬜ Kosong | [ ] |
-| 391 | `square` | 1x | ⬜ Kosong | [ ] |
-| 392 | `staircase` | 2x | ⬜ Kosong | [ ] |
-| 393 | `stairs` | 3x | ⬜ Kosong | [ ] |
-| 394 | `start` | 1x | ⬜ Kosong | [ ] |
-| 395 | `started` | 1x | ⬜ Kosong | [ ] |
-| 396 | `starter` | 1x | ⬜ Kosong | [ ] |
-| 397 | `staying` | 1x | ⬜ Kosong | [ ] |
-| 398 | `step` | 8x | ⬜ Kosong | [ ] |
-| 399 | `steps` | 1x | ⬜ Kosong | [ ] |
-| 400 | `still` | 1x | ⬜ Kosong | [ ] |
-| 401 | `stop` | 1x | ⬜ Kosong | [ ] |
-| 402 | `strangers` | 2x | ⬜ Kosong | [ ] |
-| 403 | `strong` | 1x | ⬜ Kosong | [ ] |
-| 404 | `structure` | 1x | ⬜ Kosong | [ ] |
-| 405 | `sun` | 4x | ⬜ Kosong | [ ] |
-| 406 | `sunny` | 2x | ⬜ Kosong | [ ] |
-| 407 | `suns` | 1x | ⬜ Kosong | [ ] |
-| 408 | `sunscreen` | 2x | ⬜ Kosong | [ ] |
-| 409 | `super` | 4x | ⬜ Kosong | [ ] |
-| 410 | `sure` | 4x | ⬜ Kosong | [ ] |
-| 411 | `t` | 1x | ⬜ Kosong | [ ] |
-| 412 | `take` | 8x | ⬜ Kosong | [ ] |
-| 413 | `talk` | 3x | ⬜ Kosong | [ ] |
-| 414 | `talking` | 2x | ⬜ Kosong | [ ] |
-| 415 | `tell` | 2x | ⬜ Kosong | [ ] |
-| 416 | `than` | 1x | ⬜ Kosong | [ ] |
-| 417 | `thank` | 11x | ⬜ Kosong | [ ] |
-| 418 | `thanks` | 3x | ⬜ Kosong | [ ] |
-| 419 | `that` | 16x | ⬜ Kosong | [ ] |
-| 420 | `that'll` | 1x | ⬜ Kosong | [ ] |
-| 421 | `that's` | 5x | ⬜ Kosong | [ ] |
-| 422 | `the` | 54x | ⬜ Kosong | [ ] |
-| 423 | `them` | 2x | ⬜ Kosong | [ ] |
-| 424 | `then` | 9x | ⬜ Kosong | [ ] |
-| 425 | `there` | 9x | ⬜ Kosong | [ ] |
-| 426 | `there's` | 3x | ⬜ Kosong | [ ] |
-| 427 | `these` | 6x | ⬜ Kosong | [ ] |
-| 428 | `they` | 4x | ⬜ Kosong | [ ] |
-| 429 | `they've` | 1x | ⬜ Kosong | [ ] |
-| 430 | `thing` | 4x | ⬜ Kosong | [ ] |
-| 431 | `things` | 1x | ⬜ Kosong | [ ] |
-| 432 | `think` | 7x | ⬜ Kosong | [ ] |
-| 433 | `third` | 3x | ⬜ Kosong | [ ] |
-| 434 | `this` | 27x | ⬜ Kosong | [ ] |
-| 435 | `those` | 6x | ⬜ Kosong | [ ] |
-| 436 | `thought` | 1x | ⬜ Kosong | [ ] |
-| 437 | `three` | 4x | ⬜ Kosong | [ ] |
-| 438 | `through` | 1x | ⬜ Kosong | [ ] |
-| 439 | `tip` | 1x | ⬜ Kosong | [ ] |
-| 440 | `to` | 72x | ⬜ Kosong | [ ] |
-| 441 | `today` | 5x | ⬜ Kosong | [ ] |
-| 442 | `too` | 5x | ⬜ Kosong | [ ] |
-| 443 | `took` | 1x | ⬜ Kosong | [ ] |
-| 444 | `topic` | 1x | ⬜ Kosong | [ ] |
-| 445 | `tower` | 3x | ⬜ Kosong | [ ] |
-| 446 | `train` | 1x | ⬜ Kosong | [ ] |
-| 447 | `try` | 5x | ⬜ Kosong | [ ] |
-| 448 | `trying` | 2x | ⬜ Kosong | [ ] |
-| 449 | `two` | 1x | ⬜ Kosong | [ ] |
-| 450 | `uh` | 3x | ⬜ Kosong | [ ] |
-| 451 | `understand` | 2x | ⬜ Kosong | [ ] |
-| 452 | `up` | 7x | ⬜ Kosong | [ ] |
-| 453 | `us` | 1x | ⬜ Kosong | [ ] |
-| 454 | `use` | 5x | ⬜ Kosong | [ ] |
-| 455 | `used` | 1x | ⬜ Kosong | [ ] |
-| 456 | `using` | 4x | ⬜ Kosong | [ ] |
-| 457 | `usually` | 2x | ⬜ Kosong | [ ] |
-| 458 | `very` | 3x | ⬜ Kosong | [ ] |
-| 459 | `video` | 9x | ⬜ Kosong | [ ] |
-| 460 | `videos` | 2x | ⬜ Kosong | [ ] |
-| 461 | `vlogs` | 1x | ⬜ Kosong | [ ] |
-| 462 | `volkaenglish` | 1x | ⬜ Kosong | [ ] |
-| 463 | `vulnerability` | 3x | ⬜ Kosong | [ ] |
-| 464 | `walk` | 1x | ⬜ Kosong | [ ] |
-| 465 | `walking` | 4x | ⬜ Kosong | [ ] |
-| 466 | `want` | 12x | ⬜ Kosong | [ ] |
-| 467 | `was` | 6x | ⬜ Kosong | [ ] |
-| 468 | `washed` | 1x | ⬜ Kosong | [ ] |
-| 469 | `watch` | 1x | ⬜ Kosong | [ ] |
-| 470 | `watching` | 1x | ⬜ Kosong | [ ] |
-| 471 | `water` | 3x | ⬜ Kosong | [ ] |
-| 472 | `way` | 5x | ⬜ Kosong | [ ] |
-| 473 | `we` | 9x | ⬜ Kosong | [ ] |
-| 474 | `we'll` | 2x | ⬜ Kosong | [ ] |
-| 475 | `we're` | 4x | ⬜ Kosong | [ ] |
-| 476 | `week` | 1x | ⬜ Kosong | [ ] |
-| 477 | `welcome` | 3x | ⬜ Kosong | [ ] |
-| 478 | `well` | 1x | ⬜ Kosong | [ ] |
-| 479 | `were` | 2x | ⬜ Kosong | [ ] |
-| 480 | `weren't` | 1x | ⬜ Kosong | [ ] |
-| 481 | `what` | 3x | ⬜ Kosong | [ ] |
-| 482 | `when` | 4x | ⬜ Kosong | [ ] |
-| 483 | `where` | 9x | ⬜ Kosong | [ ] |
-| 484 | `whether` | 1x | ⬜ Kosong | [ ] |
-| 485 | `which` | 3x | ⬜ Kosong | [ ] |
-| 486 | `whole` | 1x | ⬜ Kosong | [ ] |
-| 487 | `will` | 6x | ⬜ Kosong | [ ] |
-| 488 | `with` | 5x | ⬜ Kosong | [ ] |
-| 489 | `word` | 3x | ⬜ Kosong | [ ] |
-| 490 | `words` | 3x | ⬜ Kosong | [ ] |
-| 491 | `works` | 1x | ⬜ Kosong | [ ] |
-| 492 | `worries` | 4x | ⬜ Kosong | [ ] |
-| 493 | `worry` | 1x | ⬜ Kosong | [ ] |
-| 494 | `would` | 13x | ⬜ Kosong | [ ] |
-| 495 | `wouldn't` | 1x | ⬜ Kosong | [ ] |
-| 496 | `yeah` | 9x | ⬜ Kosong | [ ] |
-| 497 | `years` | 1x | ⬜ Kosong | [ ] |
-| 498 | `yellow` | 1x | ⬜ Kosong | [ ] |
-| 499 | `you` | 121x | ⬜ Kosong | [ ] |
-| 500 | `you're` | 9x | ⬜ Kosong | [ ] |
-| 501 | `your` | 2x | ⬜ Kosong | [ ] |
-| 502 | `youtube` | 1x | ⬜ Kosong | [ ] |
+| 323 | `pre` | 1x | ✅ Ada | pra |
+| 324 | `problem` | 1x | ✅ Ada | masalah |
+| 325 | `prompt` | 1x | ✅ Ada | segera |
+| 326 | `pronunciation` | 4x | ✅ Ada | sebutan perkataan |
+| 327 | `province` | 1x | ✅ Ada | wilayah |
+| 328 | `public` | 1x | ✅ Ada | awam |
+| 329 | `put` | 4x | ✅ Ada | letak / meletakkan |
+| 330 | `question` | 2x | ✅ Ada | soalan |
+| 331 | `questions` | 1x | ✅ Ada | soalan-soalan |
+| 332 | `quite` | 1x | ✅ Ada | agak / cukup |
+| 333 | `quote` | 1x | ✅ Ada | petikan |
+| 334 | `rather` | 1x | ✅ Ada | sebaliknya |
+| 335 | `read` | 1x | ✅ Ada | membaca |
+| 336 | `real` | 3x | ✅ Ada | nyata / sebenar |
+| 337 | `really` | 5x | ✅ Ada | betul-betul / sungguh |
+| 338 | `reason` | 3x | ✅ Ada | sebab / alasan |
+| 339 | `recording` | 1x | ✅ Ada | rakaman |
+| 340 | `refuse` | 3x | ✅ Ada | menolak |
+| 341 | `remember` | 1x | ✅ Ada | ingat / mengingati |
+| 342 | `request` | 4x | ✅ Ada | permintaan |
+| 343 | `respectful` | 1x | ✅ Ada | hormat |
+| 344 | `restaurant` | 2x | ✅ Ada | restoran |
+| 345 | `rhythm` | 1x | ✅ Ada | rentak / irama |
+| 346 | `right` | 10x | ✅ Ada | betul / kanan / tepat |
+| 347 | `royal` | 1x | ✅ Ada | diraja |
+| 348 | `royals` | 1x | ✅ Ada | kerabat diraja |
+| 349 | `royalty` | 2x | ✅ Ada | royalti |
+| 350 | `rude` | 1x | ✅ Ada | kurang ajar |
+| 351 | `said` | 1x | ✅ Ada | berkata |
+| 352 | `saw` | 1x | ✅ Ada | melihat |
+| 353 | `say` | 7x | ✅ Ada | cakap / berkata |
+| 354 | `saying` | 3x | ✅ Ada | berkata |
+| 355 | `scenarios` | 1x | ✅ Ada | senario |
+| 356 | `second` | 5x | ✅ Ada | kedua / saat |
+| 357 | `see` | 2x | ✅ Ada | lihat / nampak / tengok |
+| 358 | `seen` | 1x | ✅ Ada | dilihat |
+| 359 | `sense` | 1x | ✅ Ada | rasa |
+| 360 | `sentence` | 2x | ✅ Ada | ayat |
+| 361 | `sentences` | 2x | ✅ Ada | ayat-ayat |
+| 362 | `series` | 1x | ✅ Ada | siri |
+| 363 | `serious` | 1x | ✅ Ada | serius |
+| 364 | `service` | 1x | ✅ Ada | perkhidmatan |
+| 365 | `shade` | 3x | ✅ Ada | teduh |
+| 366 | `shadowing` | 2x | ✅ Ada | latihan sebutan (shadowing) |
+| 367 | `shirts` | 1x | ✅ Ada | baju raya |
+| 368 | `short` | 2x | ✅ Ada | pendek |
+| 369 | `should` | 3x | ✅ Ada | patut / patutlah |
+| 370 | `show` | 1x | ✅ Ada | tunjuk / menunjukkan |
+| 371 | `simple` | 1x | ✅ Ada | mudah / ringkas |
+| 372 | `simply` | 1x | ✅ Ada | secara ringkas |
+| 373 | `sit` | 2x | ✅ Ada | duduk |
+| 374 | `slow` | 1x | ✅ Ada | perlahan |
+| 375 | `slowly` | 1x | ✅ Ada | secara perlahan |
+| 376 | `sneak` | 1x | ✅ Ada | menyelinap |
+| 377 | `so` | 26x | ✅ Ada | jadi / sangat |
+| 378 | `softer` | 3x | ✅ Ada | lebih lembut |
+| 379 | `some` | 6x | ✅ Ada | beberapa / sedikit |
+| 380 | `someone` | 5x | ✅ Ada | seseorang |
+| 381 | `someone's` | 1x | ✅ Ada | milik seseorang |
+| 382 | `something` | 4x | ✅ Ada | sesuatu |
+| 383 | `son` | 1x | ✅ Ada | nak |
+| 384 | `sorry` | 10x | ✅ Ada | maaf |
+| 385 | `sound` | 7x | ✅ Ada | bunyi |
+| 386 | `sounds` | 3x | ✅ Ada | bunyi |
+| 387 | `speak` | 4x | ✅ Ada | bercakap |
+| 388 | `speaking` | 7x | ✅ Ada | sedang bercakap |
+| 389 | `spiral` | 2x | ✅ Ada | lingkaran |
+| 390 | `spoken` | 2x | ✅ Ada | pertuturan / lisan |
+| 391 | `square` | 1x | ✅ Ada | segi empat sama |
+| 392 | `staircase` | 2x | ✅ Ada | tangga |
+| 393 | `stairs` | 3x | ✅ Ada | tangga |
+| 394 | `start` | 1x | ✅ Ada | mula / memulakan |
+| 395 | `started` | 1x | ✅ Ada | sudah bermula |
+| 396 | `starter` | 1x | ✅ Ada | pemula |
+| 397 | `staying` | 1x | ✅ Ada | tinggal |
+| 398 | `step` | 8x | ✅ Ada | langkah / melangkah |
+| 399 | `steps` | 1x | ✅ Ada | langkah |
+| 400 | `still` | 1x | ✅ Ada | masih / tenang |
+| 401 | `stop` | 1x | ✅ Ada | berhenti |
+| 402 | `strangers` | 2x | ✅ Ada | orang asing |
+| 403 | `strong` | 1x | ✅ Ada | kuat |
+| 404 | `structure` | 1x | ✅ Ada | struktur |
+| 405 | `sun` | 4x | ✅ Ada | matahari |
+| 406 | `sunny` | 2x | ✅ Ada | cerah |
+| 407 | `suns` | 1x | ✅ Ada | matahari |
+| 408 | `sunscreen` | 2x | ✅ Ada | krim pelindung matahari (sunscreen) |
+| 409 | `super` | 4x | ✅ Ada | hebat |
+| 410 | `sure` | 4x | ✅ Ada | pasti / tentu |
+| 411 | `t` | 1x | ✅ Ada | t |
+| 412 | `take` | 8x | ✅ Ada | ambil / memerlukan masa |
+| 413 | `talk` | 3x | ✅ Ada | bercakap / berborak |
+| 414 | `talking` | 2x | ✅ Ada | bercakap |
+| 415 | `tell` | 2x | ✅ Ada | beritahu / khabarkan |
+| 416 | `than` | 1x | ✅ Ada | daripada |
+| 417 | `thank` | 11x | ✅ Ada | terima kasih |
+| 418 | `thanks` | 3x | ✅ Ada | terima kasih |
+| 419 | `that` | 16x | ✅ Ada | itu / yang |
+| 420 | `that'll` | 1x | ✅ Ada | itu akan |
+| 421 | `that's` | 5x | ✅ Ada | itu adalah / itu (singkatan 'that is') |
+| 422 | `the` | 54x | ✅ Ada | kata penentu (itu / si) |
+| 423 | `them` | 2x | ✅ Ada | mereka |
+| 424 | `then` | 9x | ✅ Ada | kemudian / waktu itu |
+| 425 | `there` | 9x | ✅ Ada | di sana / ada |
+| 426 | `there's` | 3x | ✅ Ada | ada / terdapat (singkatan 'there is') |
+| 427 | `these` | 6x | ✅ Ada | semua ini |
+| 428 | `they` | 4x | ✅ Ada | mereka |
+| 429 | `they've` | 1x | ✅ Ada | mereka telah (singkatan 'they have') |
+| 430 | `thing` | 4x | ✅ Ada | benda / perkara |
+| 431 | `things` | 1x | ✅ Ada | benda-benda / perkara-perkara |
+| 432 | `think` | 7x | ✅ Ada | fikir / berfikir |
+| 433 | `third` | 3x | ✅ Ada | ketiga |
+| 434 | `this` | 27x | ✅ Ada | ini |
+| 435 | `those` | 6x | ✅ Ada | semua itu |
+| 436 | `thought` | 1x | ✅ Ada | terfikir |
+| 437 | `three` | 4x | ✅ Ada | tiga |
+| 438 | `through` | 1x | ✅ Ada | melalui / merentasi |
+| 439 | `tip` | 1x | ✅ Ada | tip |
+| 440 | `to` | 72x | ✅ Ada | ke / untuk |
+| 441 | `today` | 5x | ✅ Ada | hari ini |
+| 442 | `too` | 5x | ✅ Ada | juga / terlalu |
+| 443 | `took` | 1x | ✅ Ada | mengambil / telah ambil |
+| 444 | `topic` | 1x | ✅ Ada | topik |
+| 445 | `tower` | 3x | ✅ Ada | menara |
+| 446 | `train` | 1x | ✅ Ada | kereta api |
+| 447 | `try` | 5x | ✅ Ada | cuba / mencuba |
+| 448 | `trying` | 2x | ✅ Ada | mencuba |
+| 449 | `two` | 1x | ✅ Ada | dua |
+| 450 | `uh` | 3x | ✅ Ada | err / uh |
+| 451 | `understand` | 2x | ✅ Ada | faham / memahami |
+| 452 | `up` | 7x | ✅ Ada | atas / naik |
+| 453 | `us` | 1x | ✅ Ada | kami / kita |
+| 454 | `use` | 5x | ✅ Ada | guna / menggunakan |
+| 455 | `used` | 1x | ✅ Ada | digunakan / pernah |
+| 456 | `using` | 4x | ✅ Ada | menggunakan |
+| 457 | `usually` | 2x | ✅ Ada | biasanya / selalunya |
+| 458 | `very` | 3x | ✅ Ada | sangat / amat |
+| 459 | `video` | 9x | ✅ Ada | video |
+| 460 | `videos` | 2x | ✅ Ada | video-video |
+| 461 | `vlogs` | 1x | ✅ Ada | vlog |
+| 462 | `volkaenglish` | 1x | ✅ Ada | volkaenglish |
+| 463 | `vulnerability` | 3x | ✅ Ada | kelemahan |
+| 464 | `walk` | 1x | ✅ Ada | berjalan |
+| 465 | `walking` | 4x | ✅ Ada | berjalan |
+| 466 | `want` | 12x | ✅ Ada | mahu / nak |
+| 467 | `was` | 6x | ✅ Ada | adalah / dulu berada |
+| 468 | `washed` | 1x | ✅ Ada | dibasuh |
+| 469 | `watch` | 1x | ✅ Ada | tonton / tengok / jam tangan |
+| 470 | `watching` | 1x | ✅ Ada | sedang menonton |
+| 471 | `water` | 3x | ✅ Ada | air |
+| 472 | `way` | 5x | ✅ Ada | jalan / cara |
+| 473 | `we` | 9x | ✅ Ada | kami / kita |
+| 474 | `we'll` | 2x | ✅ Ada | kami akan / kita akan (singkatan 'we will') |
+| 475 | `we're` | 4x | ✅ Ada | kami / kita sedang (singkatan 'we are') |
+| 476 | `week` | 1x | ✅ Ada | minggu |
+| 477 | `welcome` | 3x | ✅ Ada | selamat datang |
+| 478 | `well` | 1x | ✅ Ada | baiklah / elok / telaga |
+| 479 | `were` | 2x | ✅ Ada | adalah / dulu berada |
+| 480 | `weren't` | 1x | ✅ Ada | bukan / tidak (singkatan 'were not') |
+| 481 | `what` | 3x | ✅ Ada | apa / apakah |
+| 482 | `when` | 4x | ✅ Ada | bila / apabila |
+| 483 | `where` | 9x | ✅ Ada | di mana |
+| 484 | `whether` | 1x | ✅ Ada | sama ada |
+| 485 | `which` | 3x | ✅ Ada | yang mana |
+| 486 | `whole` | 1x | ✅ Ada | seluruh / keseluruhan |
+| 487 | `will` | 6x | ✅ Ada | akan |
+| 488 | `with` | 5x | ✅ Ada | dengan / bersama |
+| 489 | `word` | 3x | ✅ Ada | perkataan |
+| 490 | `words` | 3x | ✅ Ada | perkataan-perkataan |
+| 491 | `works` | 1x | ✅ Ada | berfungsi / berkesan |
+| 492 | `worries` | 4x | ✅ Ada | kerisauan |
+| 493 | `worry` | 1x | ✅ Ada | risau |
+| 494 | `would` | 13x | ✅ Ada | akan / sudi |
+| 495 | `wouldn't` | 1x | ✅ Ada | tidak akan / takkan (singkatan 'would not') |
+| 496 | `yeah` | 9x | ✅ Ada | ya / betul |
+| 497 | `years` | 1x | ✅ Ada | tahun |
+| 498 | `yellow` | 1x | ✅ Ada | kuning |
+| 499 | `you` | 121x | ✅ Ada | awak / anda |
+| 500 | `you're` | 9x | ✅ Ada | anda / awak adalah (singkatan 'you are') |
+| 501 | `your` | 2x | ✅ Ada | awak punya / anda punya |
+| 502 | `youtube` | 1x | ✅ Ada | youtube |
 
 ---
+
+---
+
+### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 120 Frasa)
+Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam video ini yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*):
+
+| No | Frasa / Vocarb Ayat (English) | Kekerapan | Status Kamus | Maksud Konteks Frasa (Bahasa Melayu) |
+|:---:|:---|:---:|:---:|:---|
+| 1 | `could you` | 16x | ✅ Ada (`phraseDictionary`) | boleh awak |
+| 2 | `thank you` | 11x | ✅ Ada (`phraseDictionary`) | terima kasih |
+| 3 | `help me` | 10x | ✅ Ada (`phraseDictionary`) | tolong saya |
+| 4 | `would you` | 10x | ✅ Ada (`phraseDictionary`) | adakah anda |
+| 5 | `you can` | 10x | ✅ Ada (`phraseDictionary`) | awak boleh |
+| 6 | `you help` | 10x | ✅ Ada (`phraseDictionary`) | awak tolong |
+| 7 | `you must` | 9x | ✅ Ada (`phraseDictionary`) | anda mesti |
+| 8 | `excuse me` | 8x | ✅ Ada (`phraseDictionary`) | maafkan saya |
+| 9 | `i don't` | 8x | ✅ Ada (`phraseDictionary`) | saya tidak |
+| 10 | `can you` | 7x | ✅ Ada (`phraseDictionary`) | boleh awak |
+| 11 | `help you` | 7x | ✅ Ada (`phraseDictionary`) | tolong awak |
+| 12 | `right now` | 6x | ✅ Ada (`phraseDictionary`) | sekarang juga |
+| 13 | `bit lost` | 5x | ✅ Ada (`phraseDictionary`) | hilang sikit |
+| 14 | `i appreciate` | 5x | ✅ Ada (`phraseDictionary`) | saya hargai |
+| 15 | `i believe` | 5x | ✅ Ada (`phraseDictionary`) | saya percaya |
+| 16 | `my eyes` | 5x | ✅ Ada (`phraseDictionary`) | mata saya |
+| 17 | `you want` | 5x | ✅ Ada (`phraseDictionary`) | awak nak |
+| 18 | `bird poop` | 4x | ✅ Ada (`phraseDictionary`) | tahi burung |
+| 19 | `i think` | 4x | ✅ Ada (`phraseDictionary`) | saya rasa |
+| 20 | `it's like` | 4x | ✅ Ada (`phraseDictionary`) | ia seperti |
+| 21 | `more polite` | 4x | ✅ Ada (`phraseDictionary`) | lebih sopan |
+| 22 | `must try` | 4x | ✅ Ada (`phraseDictionary`) | mesti cuba |
+| 23 | `no worries` | 4x | ✅ Ada (`phraseDictionary`) | jangan risau |
+| 24 | `you guys` | 4x | ✅ Ada (`phraseDictionary`) | kamu semua |
+| 25 | `a lot` | 3x | ✅ Ada (`phraseDictionary`) | banyak |
+| 26 | `can say` | 3x | ✅ Ada (`phraseDictionary`) | boleh kata |
+| 27 | `did you` | 3x | ✅ Ada (`phraseDictionary`) | adakah awak |
+| 28 | `don't know` | 3x | ✅ Ada (`phraseDictionary`) | tidak tahu |
+| 29 | `how to` | 3x | ✅ Ada (`phraseDictionary`) | cara untuk / bagaimana nak |
+| 30 | `let me know` | 3x | ✅ Ada (`phraseDictionary`) | beritahu saya |
+| 31 | `look at` | 3x | ✅ Ada (`phraseDictionary`) | lihat / tengok |
+| 32 | `me know` | 3x | ✅ Ada (`phraseDictionary`) | saya tahu |
+| 33 | `there are` | 3x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 34 | `those are` | 3x | ✅ Ada (`phraseDictionary`) | itu adalah |
+| 35 | `up to` | 3x | ✅ Ada (`phraseDictionary`) | sehingga / sampai |
+| 36 | `you ask` | 3x | ✅ Ada (`phraseDictionary`) | awak tanya |
+| 37 | `you think` | 3x | ✅ Ada (`phraseDictionary`) | anda fikir |
+| 38 | `a little` | 2x | ✅ Ada (`phraseDictionary`) | agak / sedikit |
+| 39 | `a little bit` | 2x | ✅ Ada (`phraseDictionary`) | sedikit / sikit |
+| 40 | `are like` | 2x | ✅ Ada (`phraseDictionary`) | adalah seperti |
+| 41 | `at the end` | 2x | ✅ Ada (`phraseDictionary`) | di penghujung / di akhir |
+| 42 | `but it's` | 2x | ✅ Ada (`phraseDictionary`) | tetapi ia adalah |
+| 43 | `common english` | 2x | ✅ Ada (`phraseDictionary`) | bahasa inggeris biasa |
+| 44 | `english words` | 2x | ✅ Ada (`phraseDictionary`) | perkataan bahasa inggeris |
+| 45 | `i really` | 2x | ✅ Ada (`phraseDictionary`) | saya betul-betul |
+| 46 | `i would` | 2x | ✅ Ada (`phraseDictionary`) | saya akan |
+| 47 | `i'm not` | 2x | ✅ Ada (`phraseDictionary`) | saya tidak |
+| 48 | `i've never` | 2x | ✅ Ada (`phraseDictionary`) | saya tidak pernah |
+| 49 | `know if` | 2x | ✅ Ada (`phraseDictionary`) | tahu jika |
+| 50 | `little bit` | 2x | ✅ Ada (`phraseDictionary`) | sikit-sikit |
+| 51 | `most common` | 2x | ✅ Ada (`phraseDictionary`) | paling biasa |
+| 52 | `my favorite` | 2x | ✅ Ada (`phraseDictionary`) | kegemaran saya |
+| 53 | `not sure` | 2x | ✅ Ada (`phraseDictionary`) | tidak pasti |
+| 54 | `out of` | 2x | ✅ Ada (`phraseDictionary`) | keluar dari / kehabisan |
+| 55 | `so good` | 2x | ✅ Ada (`phraseDictionary`) | sangat baik |
+| 56 | `some example` | 2x | ✅ Ada (`phraseDictionary`) | beberapa contoh |
+| 57 | `we'll be` | 2x | ✅ Ada (`phraseDictionary`) | kami akan / kita akan |
+| 58 | `we're going` | 2x | ✅ Ada (`phraseDictionary`) | kita akan pergi |
+| 59 | `what you` | 2x | ✅ Ada (`phraseDictionary`) | apa awak |
+| 60 | `when you` | 2x | ✅ Ada (`phraseDictionary`) | apabila anda |
+| 61 | `where we` | 2x | ✅ Ada (`phraseDictionary`) | di mana kita |
+| 62 | `you get` | 2x | ✅ Ada (`phraseDictionary`) | awak dapat |
+| 63 | `you know` | 2x | ✅ Ada (`phraseDictionary`) | awak tahu / seperti yang anda tahu |
+| 64 | `you say` | 2x | ✅ Ada (`phraseDictionary`) | awak cakap |
+| 65 | `a lot of` | 1x | ✅ Ada (`phraseDictionary`) | banyak / pelbagai |
+| 66 | `about how` | 1x | ✅ Ada (`phraseDictionary`) | tentang bagaimana |
+| 67 | `are just` | 1x | ✅ Ada (`phraseDictionary`) | adalah adil |
+| 68 | `are some` | 1x | ✅ Ada (`phraseDictionary`) | adalah beberapa |
+| 69 | `as well` | 1x | ✅ Ada (`phraseDictionary`) | juga / sekali |
+| 70 | `because it's` | 1x | ✅ Ada (`phraseDictionary`) | kerana ia adalah |
+| 71 | `can get` | 1x | ✅ Ada (`phraseDictionary`) | boleh dapat |
+| 72 | `can just` | 1x | ✅ Ada (`phraseDictionary`) | boleh saja |
+| 73 | `common mistakes` | 1x | ✅ Ada (`phraseDictionary`) | kesilapan lazim / biasa |
+| 74 | `comprehensible input` | 1x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
+| 75 | `don't like` | 1x | ✅ Ada (`phraseDictionary`) | tak suka |
+| 76 | `don't want` | 1x | ✅ Ada (`phraseDictionary`) | tidak mahu |
+| 77 | `example sentences` | 1x | ✅ Ada (`phraseDictionary`) | contoh ayat |
+| 78 | `feel like` | 1x | ✅ Ada (`phraseDictionary`) | rasa macam |
+| 79 | `how does` | 1x | ✅ Ada (`phraseDictionary`) | bagaimanakah |
+| 80 | `i'll be` | 1x | ✅ Ada (`phraseDictionary`) | saya akan |
+| 81 | `if they` | 1x | ✅ Ada (`phraseDictionary`) | jika mereka |
+| 82 | `it's so` | 1x | ✅ Ada (`phraseDictionary`) | memang begitu |
+| 83 | `kind of` | 1x | ✅ Ada (`phraseDictionary`) | agak / macam |
+| 84 | `know what` | 1x | ✅ Ada (`phraseDictionary`) | tahu apa |
+| 85 | `let's get started` | 1x | ✅ Ada (`phraseDictionary`) | jom kita mulakan |
+| 86 | `let's go` | 1x | ✅ Ada (`phraseDictionary`) | jom pergi / mari kita pergi |
+| 87 | `looks really` | 1x | ✅ Ada (`phraseDictionary`) | nampak sungguh |
+| 88 | `make sure` | 1x | ✅ Ada (`phraseDictionary`) | pastikan |
+| 89 | `my brother` | 1x | ✅ Ada (`phraseDictionary`) | abang saya |
+| 90 | `never seen` | 1x | ✅ Ada (`phraseDictionary`) | tak pernah nampak |
+| 91 | `now i'm` | 1x | ✅ Ada (`phraseDictionary`) | sekarang saya |
+| 92 | `now we're` | 1x | ✅ Ada (`phraseDictionary`) | sekarang kita |
+| 93 | `over here` | 1x | ✅ Ada (`phraseDictionary`) | di sebelah sini |
+| 94 | `over there` | 1x | ✅ Ada (`phraseDictionary`) | di sebelah sana |
+| 95 | `really good` | 1x | ✅ Ada (`phraseDictionary`) | sangat bagus |
+| 96 | `right away` | 1x | ✅ Ada (`phraseDictionary`) | serta-merta / terus |
+| 97 | `sentences are` | 1x | ✅ Ada (`phraseDictionary`) | ayat ialah |
+| 98 | `should i` | 1x | ✅ Ada (`phraseDictionary`) | patutkah saya |
+| 99 | `so we're` | 1x | ✅ Ada (`phraseDictionary`) | jadi kita |
+| 100 | `talk about` | 1x | ✅ Ada (`phraseDictionary`) | bercakap tentang / bercerita pasal |
+| 101 | `talking about` | 1x | ✅ Ada (`phraseDictionary`) | bercakap tentang |
+| 102 | `then you` | 1x | ✅ Ada (`phraseDictionary`) | kemudian awak |
+| 103 | `think it's` | 1x | ✅ Ada (`phraseDictionary`) | fikir ia |
+| 104 | `think we` | 1x | ✅ Ada (`phraseDictionary`) | fikir kita |
+| 105 | `three questions` | 1x | ✅ Ada (`phraseDictionary`) | tiga soalan |
+| 106 | `up there` | 1x | ✅ Ada (`phraseDictionary`) | di atas sana |
+| 107 | `used to` | 1x | ✅ Ada (`phraseDictionary`) | pernah / dahulu |
+| 108 | `want you` | 1x | ✅ Ada (`phraseDictionary`) | mahu awak |
+| 109 | `was just` | 1x | ✅ Ada (`phraseDictionary`) | adalah adil |
+| 110 | `was like` | 1x | ✅ Ada (`phraseDictionary`) | adalah seperti |
+| 111 | `we were` | 1x | ✅ Ada (`phraseDictionary`) | kami |
+| 112 | `welcome back` | 1x | ✅ Ada (`phraseDictionary`) | selamat kembali / selamat pulang |
+| 113 | `where you` | 1x | ✅ Ada (`phraseDictionary`) | di mana anda |
+| 114 | `will become` | 1x | ✅ Ada (`phraseDictionary`) | akan menjadi |
+| 115 | `would be` | 1x | ✅ Ada (`phraseDictionary`) | akan menjadi |
+| 116 | `yellow caption` | 1x | ✅ Ada (`phraseDictionary`) | kapsyen kuning |
+| 117 | `you are` | 1x | ✅ Ada (`phraseDictionary`) | awak adalah |
+| 118 | `you can't` | 1x | ✅ Ada (`phraseDictionary`) | anda tidak boleh |
+| 119 | `you could` | 1x | ✅ Ada (`phraseDictionary`) | anda boleh |
+| 120 | `you like` | 1x | ✅ Ada (`phraseDictionary`) | awak suka |
+
+---
+
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word
 
