@@ -588,7 +588,7 @@ export default function InteractivePlayerPage() {
     }, 100);
   };
 
-  // Scroll active transcript line into view secara sentiasa lancar (smooth centered scroll)
+  // Scroll active transcript line into view secara sentiasa lancar (di bahagian atas pada mobile mengikut rekaan asal)
   useEffect(() => {
     if (!activeSubtitle) return;
     const container = transcriptContainerRef.current;
@@ -597,9 +597,12 @@ export default function InteractivePlayerPage() {
       const containerRect = container.getBoundingClientRect();
       const elRect = el.getBoundingClientRect();
       const relativeTop = elRect.top - containerRect.top + container.scrollTop;
+      const isMobile = typeof window !== "undefined" && window.innerWidth < 1024;
 
-      // Posisikan kad aktif tepat di bahagian tengah bekas secara 'smooth' (kedua-dua mobile & desktop)
-      const targetScroll = relativeTop - container.clientHeight / 2 + elRect.height / 2;
+      // Pada versi mobile, sentiasa letakkan kad aktif di bahagian paling atas (top - 16) mengikut rekaan asal
+      const targetScroll = isMobile
+        ? relativeTop - 16
+        : relativeTop - container.clientHeight / 2 + elRect.height / 2;
 
       container.scrollTo({
         top: Math.max(0, targetScroll),
