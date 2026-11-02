@@ -79,6 +79,8 @@ export default function InteractivePlayerPage() {
   const lastKnownWallRef = useRef<number>(Date.now());      // wall-clock when time last changed
   const lastSyncTimeRef = useRef<number>(0);                // throttle backend progress sync
   const hasAutoCompletedRef = useRef<boolean>(false);       // prevent duplicate 85% toast
+  const currentSubIndexRef = useRef<number>(-1);            // track current index for snappy navigation
+  const manualNavLockRef = useRef<number>(0);               // lock auto-interval during manual arrow jumps
 
   // Dictionary Hover & Click features (Word & Phrase Collocation Detection)
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
@@ -562,12 +564,20 @@ export default function InteractivePlayerPage() {
           syncProgressToBackend(effectiveTime, duration);
         }
 
+        // Semasa pengguna menekan butang lompat transkrip, sekat selang auto-tracking daripada menimpa sari kata baharu
+        if (Date.now() < manualNavLockRef.current) {
+          return;
+        }
+
         const subs = subtitlesRef.current;
         const matched = findSubtitle(effectiveTime, subs);
         const toShow = matched ?? lastSubtitleRef.current;
 
         setActiveSubtitle((prev) => {
           if (prev?.id === toShow?.id) return prev;
+          if (toShow) {
+            currentSubIndexRef.current = subs.findIndex((s) => s.id === toShow.id);
+          }
           return toShow;
         });
 
@@ -578,7 +588,7 @@ export default function InteractivePlayerPage() {
     }, 100);
   };
 
-  // Scroll active transcript line into view
+  // Scroll active transcript line into view secara sentiasa lancar (smooth centered scroll)
   useEffect(() => {
     if (!activeSubtitle) return;
     const container = transcriptContainerRef.current;
@@ -587,10 +597,9 @@ export default function InteractivePlayerPage() {
       const containerRect = container.getBoundingClientRect();
       const elRect = el.getBoundingClientRect();
       const relativeTop = elRect.top - containerRect.top + container.scrollTop;
-      const isMobile = typeof window !== "undefined" && window.innerWidth < 1024;
-      const targetScroll = isMobile
-        ? relativeTop - 16
-        : relativeTop - container.clientHeight / 2 + elRect.height / 2;
+
+      // Posisikan kad aktif tepat di bahagian tengah bekas secara 'smooth' (kedua-dua mobile & desktop)
+      const targetScroll = relativeTop - container.clientHeight / 2 + elRect.height / 2;
 
       container.scrollTo({
         top: Math.max(0, targetScroll),
@@ -609,10 +618,15 @@ export default function InteractivePlayerPage() {
     const subs = subtitlesRef.current;
     if (!subs || subs.length === 0) return;
 
-    // Cari indeks semasa berdasarkan activeSubtitle atau kedudukan masa video
-    let currentIndex = -1;
-    if (activeSubtitle) {
-      currentIndex = subs.findIndex((s) => s.id === activeSubtitle.id);
+    // Kunci auto-tracking selama 800ms bagi menghalang YouTube masa lama daripada menarik balik transkrip
+    manualNavLockRef.current = Date.now() + 800;
+
+    // Tentukan indeks semasa secara stabil daripada ref indeks atau activeSubtitle
+    let currentIndex = currentSubIndexRef.current;
+    if (currentIndex === -1 || currentIndex >= subs.length) {
+      if (activeSubtitle) {
+        currentIndex = subs.findIndex((s) => s.id === activeSubtitle.id);
+      }
     }
 
     if (currentIndex === -1) {
@@ -639,8 +653,17 @@ export default function InteractivePlayerPage() {
       targetIndex = Math.min(subs.length - 1, currentIndex + 1);
     }
 
+    // Kemas kini ref indeks serta-merta supaya klik berturut-turut bertindak balas tanpa kelewatan
+    currentSubIndexRef.current = targetIndex;
     const targetSub = subs[targetIndex];
     if (!targetSub) return;
+
+    // Segerakkan paparan & masa serta-merta
+    lastKnownTimeRef.current = targetSub.start_time;
+    lastKnownWallRef.current = Date.now();
+    setCurrentTime(targetSub.start_time);
+    setActiveSubtitle(targetSub);
+    lastSubtitleRef.current = targetSub;
 
     // Lompatkan pemain video ke masa babak sari kata tersebut
     if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
@@ -648,8 +671,6 @@ export default function InteractivePlayerPage() {
     } else if (player && typeof player.seekTo === "function") {
       player.seekTo(targetSub.start_time, true);
     }
-
-    setActiveSubtitle(targetSub);
   };
 
   if (loading || authLoading) {
@@ -844,7 +865,16 @@ export default function InteractivePlayerPage() {
                   ref={(el) => {
                     transcriptRefs.current[sub.id] = el;
                   }}
-                  onClick={() => player?.seekTo(sub.start_time, true)}
+                  onClick={() => {
+                    manualNavLockRef.current = Date.now() + 800;
+                    currentSubIndexRef.current = subtitlesRef.current.findIndex((s) => s.id === sub.id);
+                    setActiveSubtitle(sub);
+                    if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
+                      playerObjRef.current.seekTo(sub.start_time, true);
+                    } else if (player && typeof player.seekTo === "function") {
+                      player.seekTo(sub.start_time, true);
+                    }
+                  }}
                   className={`p-3 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative ${isActive
                       ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02]"
                       : "border-border hover:border-muted-foreground/30 hover:bg-muted/50"
