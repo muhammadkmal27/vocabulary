@@ -94,11 +94,22 @@ export default function InteractivePlayerPage() {
   } | null>(null);
   const [translationCache, setTranslationCache] = useState<{ [key: string]: string }>({});
 
+  const speakWord = (text: string) => {
+    if (typeof window !== "undefined" && "speechSynthesis" in window) {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = "en-US";
+      utterance.rate = 0.9;
+      window.speechSynthesis.speak(utterance);
+    }
+  };
+
   const handleWordHoverOrClick = async (
     word: string,
     fullSentence: string,
     wordIndex: number,
-    e: React.MouseEvent
+    e: React.MouseEvent,
+    isClick = false
   ) => {
     // 1. Pause video automatically
     if (playerObjRef.current && typeof playerObjRef.current.pauseVideo === "function") {
@@ -109,6 +120,11 @@ export default function InteractivePlayerPage() {
 
     const cleanWord = cleanToken(word);
     if (!cleanWord) return;
+
+    // Mainkan audio sebutan perkataan hanya jika diklik
+    if (isClick) {
+      speakWord(cleanWord);
+    }
 
     setHoveredWord(cleanWord);
     setLoadingWord(true);
@@ -214,10 +230,9 @@ export default function InteractivePlayerPage() {
         <span
           key={index}
           className="cursor-pointer hover:bg-amber-500/20 hover:text-amber-300 rounded px-0.5 transition-colors border-b border-dashed border-amber-500/40"
-          onClick={(e) => handleWordHoverOrClick(chunk, text, currentIndex, e)}
-          onMouseEnter={(e) => handleWordHoverOrClick(chunk, text, currentIndex, e)}
+          onClick={(e) => handleWordHoverOrClick(chunk, text, currentIndex, e, true)}
+          onMouseEnter={(e) => handleWordHoverOrClick(chunk, text, currentIndex, e, false)}
           onMouseLeave={handleWordLeave}
-          title="Klik atau layang untuk lihat maksud perkataan & frasa"
         >
           {chunk}
         </span>
