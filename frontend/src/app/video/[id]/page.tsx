@@ -604,15 +604,52 @@ export default function InteractivePlayerPage() {
     toast("Ciri Hafal Ayat dari video ini akan datang tidak lama lagi!", "info");
   };
 
-  // Skrol manual transkrip interaktif (Atas / Bawah)
-  const scrollTranscript = (direction: "up" | "down") => {
-    if (transcriptContainerRef.current) {
-      const scrollAmount = 200;
-      transcriptContainerRef.current.scrollBy({
-        top: direction === "up" ? -scrollAmount : scrollAmount,
-        behavior: "smooth",
-      });
+  // Lompat ke minit transkrip babak sebelumnya atau seterusnya (Atas / Bawah)
+  const navigateSubtitle = (direction: "prev" | "next") => {
+    const subs = subtitlesRef.current;
+    if (!subs || subs.length === 0) return;
+
+    // Cari indeks semasa berdasarkan activeSubtitle atau kedudukan masa video
+    let currentIndex = -1;
+    if (activeSubtitle) {
+      currentIndex = subs.findIndex((s) => s.id === activeSubtitle.id);
     }
+
+    if (currentIndex === -1) {
+      const curTime =
+        playerObjRef.current && typeof playerObjRef.current.getCurrentTime === "function"
+          ? playerObjRef.current.getCurrentTime()
+          : currentTime;
+
+      currentIndex = subs.findIndex((s) => curTime >= s.start_time && curTime <= s.end_time);
+      if (currentIndex === -1) {
+        currentIndex = subs.findIndex((s) => s.start_time > curTime);
+        if (currentIndex === -1) {
+          currentIndex = subs.length - 1;
+        } else if (direction === "prev") {
+          currentIndex = Math.max(0, currentIndex);
+        }
+      }
+    }
+
+    let targetIndex = currentIndex;
+    if (direction === "prev") {
+      targetIndex = Math.max(0, currentIndex - 1);
+    } else {
+      targetIndex = Math.min(subs.length - 1, currentIndex + 1);
+    }
+
+    const targetSub = subs[targetIndex];
+    if (!targetSub) return;
+
+    // Lompatkan pemain video ke masa babak sari kata tersebut
+    if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
+      playerObjRef.current.seekTo(targetSub.start_time, true);
+    } else if (player && typeof player.seekTo === "function") {
+      player.seekTo(targetSub.start_time, true);
+    }
+
+    setActiveSubtitle(targetSub);
   };
 
   if (loading || authLoading) {
@@ -779,19 +816,19 @@ export default function InteractivePlayerPage() {
               <div className="flex items-center gap-1">
                 <button
                   type="button"
-                  onClick={() => scrollTranscript("up")}
+                  onClick={() => navigateSubtitle("prev")}
                   className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm shadow-primary/25 flex items-center justify-center active:scale-95 transition-all cursor-pointer"
-                  title="Skrol transkrip ke atas"
-                  aria-label="Skrol transkrip ke atas"
+                  title="Minit transkrip sebelumnya"
+                  aria-label="Minit transkrip sebelumnya"
                 >
                   <ChevronUp className="w-4 h-4" />
                 </button>
                 <button
                   type="button"
-                  onClick={() => scrollTranscript("down")}
+                  onClick={() => navigateSubtitle("next")}
                   className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm shadow-primary/25 flex items-center justify-center active:scale-95 transition-all cursor-pointer"
-                  title="Skrol transkrip ke bawah"
-                  aria-label="Skrol transkrip ke bawah"
+                  title="Minit transkrip seterusnya"
+                  aria-label="Minit transkrip seterusnya"
                 >
                   <ChevronDown className="w-4 h-4" />
                 </button>
