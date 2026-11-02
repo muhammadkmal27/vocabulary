@@ -27,7 +27,7 @@ Berdasarkan semakan rekod sejarah Git (*commit history*), kesemua 107 video diba
 | # | Video ID | Tajuk Video | Tarikh Ditambah | Fasa Model AI | Jumlah Subtitle | Fail Terperinci (.md) |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
 | 1 | `030RzwpiK8U` | How to Talk About Your Home in English | 2026-08-12 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 421 | [Buka Subtitle & Kosa Kata (739 Kata + 66 Frasa Ayat)](correction-videos/video_001_030RzwpiK8U.md) |
-| 2 | `mNzj1eABGB0` | Daily Life English You Can Actually Understand | 2026-08-12 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 440 | [Buka Subtitle & Kosa Kata](correction-videos/video_002_mNzj1eABGB0.md) |
+| 2 | `mNzj1eABGB0` | Daily Life English You Can Actually Understand | 2026-08-12 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 440 | [Buka Subtitle & Kosa Kata (767 Kata + 46 Frasa Ayat)](correction-videos/video_002_mNzj1eABGB0.md) |
 | 3 | `qNsq7k8qJPQ` | I'm Not Fine... Let's Talk About Feelings in English | 2026-08-15 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 324 | [Buka Subtitle & Kosa Kata](correction-videos/video_003_qNsq7k8qJPQ.md) |
 | 3 | `FegqTguAP4k` | Easy English in Beijing \| Real-Life Listening Practice | 2026-08-23 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 499 | [Buka Subtitle & Kosa Kata](correction-videos/video_003_FegqTguAP4k.md) |
 | 4 | `mZ4W5zrMEzQ` | Follow Along While I Talk to You Like My Best Friend in Clear Natural English | 2026-08-23 | 🟢 Fasa 1 (100% Siap Dipurnakan) | 597 | [Buka Subtitle & Kosa Kata](correction-videos/video_004_mZ4W5zrMEzQ.md) |
