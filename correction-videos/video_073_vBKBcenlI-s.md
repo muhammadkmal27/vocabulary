@@ -10,749 +10,829 @@
 
 ---
 
-## 📚 Bahagian 1: Senarai Kosa Kata Unik Video (Master Vocabulary)
+## 📚 Bahagian 1: Senarai Kosa Kata & Kamus Tempatan Video (Local Dictionary)
+
+### 🔤 Bahagian 1A: Kosa Kata Kata Tunggal (Single Words)
 Senarai mengikut abjad (A–Z) bagi memudahkan semakan dan penambahan ke dalam kamus tempatan (*localDictionary*):
 
 | No | Perkataan (English) | Kekerapan | Status Kamus | Maksud Bahasa Melayu (BM) |
 |:---:|:---|:---:|:---:|:---|
-| 1 | `abang` | 1x | ⬜ Kosong | [ ] |
-| 2 | `ada` | 43x | ⬜ Kosong | [ ] |
-| 3 | `adalah` | 8x | ⬜ Kosong | [ ] |
-| 4 | `adanya` | 1x | ⬜ Kosong | [ ] |
-| 5 | `aer` | 4x | ⬜ Kosong | [ ] |
-| 6 | `agak` | 5x | ⬜ Kosong | [ ] |
-| 7 | `aiflow` | 4x | ⬜ Kosong | [ ] |
-| 8 | `aih` | 2x | ⬜ Kosong | [ ] |
-| 9 | `air` | 9x | ⬜ Kosong | [ ] |
-| 10 | `akan` | 11x | ⬜ Kosong | [ ] |
-| 11 | `aku` | 125x | ⬜ Kosong | [ ] |
-| 12 | `alat` | 2x | ⬜ Kosong | [ ] |
-| 13 | `alih` | 5x | ⬜ Kosong | [ ] |
-| 14 | `alihkan` | 1x | ⬜ Kosong | [ ] |
-| 15 | `amazon` | 5x | ⬜ Kosong | [ ] |
-| 16 | `ambil` | 2x | ⬜ Kosong | [ ] |
-| 17 | `ampun` | 1x | ⬜ Kosong | [ ] |
-| 18 | `antara` | 3x | ⬜ Kosong | [ ] |
-| 19 | `apa` | 41x | ⬜ Kosong | [ ] |
-| 20 | `aplikasi` | 2x | ⬜ Kosong | [ ] |
-| 21 | `arah` | 2x | ⬜ Kosong | [ ] |
-| 22 | `asah` | 1x | ⬜ Kosong | [ ] |
-| 23 | `asal` | 1x | ⬜ Kosong | [ ] |
-| 24 | `asas` | 1x | ⬜ Kosong | [ ] |
-| 25 | `atas` | 7x | ⬜ Kosong | [ ] |
-| 26 | `atau` | 10x | ⬜ Kosong | [ ] |
-| 27 | `awas` | 1x | ⬜ Kosong | [ ] |
-| 28 | `ayah` | 1x | ⬜ Kosong | [ ] |
-| 29 | `baca` | 1x | ⬜ Kosong | [ ] |
-| 30 | `backpack` | 1x | ⬜ Kosong | [ ] |
-| 31 | `badan` | 4x | ⬜ Kosong | [ ] |
-| 32 | `bagasi` | 11x | ⬜ Kosong | [ ] |
-| 33 | `bagi` | 4x | ⬜ Kosong | [ ] |
-| 34 | `bagus` | 2x | ⬜ Kosong | [ ] |
-| 35 | `bahagian` | 10x | ⬜ Kosong | [ ] |
-| 36 | `baharu` | 4x | ⬜ Kosong | [ ] |
-| 37 | `bahasa` | 11x | ⬜ Kosong | [ ] |
-| 38 | `bahaya` | 1x | ⬜ Kosong | [ ] |
-| 39 | `baik` | 1x | ⬜ Kosong | [ ] |
-| 40 | `balas` | 1x | ⬜ Kosong | [ ] |
-| 41 | `balik` | 6x | ⬜ Kosong | [ ] |
-| 42 | `bank` | 4x | ⬜ Kosong | [ ] |
-| 43 | `bantal` | 5x | ⬜ Kosong | [ ] |
-| 44 | `bantu` | 5x | ⬜ Kosong | [ ] |
-| 45 | `banyak` | 14x | ⬜ Kosong | [ ] |
-| 46 | `banyaknya` | 1x | ⬜ Kosong | [ ] |
-| 47 | `barang` | 53x | ⬜ Kosong | [ ] |
-| 48 | `baru` | 4x | ⬜ Kosong | [ ] |
-| 49 | `bateri` | 6x | ⬜ Kosong | [ ] |
-| 50 | `bawa` | 3x | ⬜ Kosong | [ ] |
-| 51 | `bawah` | 1x | ⬜ Kosong | [ ] |
-| 52 | `bayangkan` | 1x | ⬜ Kosong | [ ] |
-| 53 | `beberapa` | 2x | ⬜ Kosong | [ ] |
-| 54 | `beg` | 35x | ⬜ Kosong | [ ] |
-| 55 | `bekas` | 3x | ⬜ Kosong | [ ] |
-| 56 | `belajar` | 9x | ⬜ Kosong | [ ] |
-| 57 | `belakang` | 1x | ⬜ Kosong | [ ] |
-| 58 | `belanja` | 1x | ⬜ Kosong | [ ] |
-| 59 | `beli` | 13x | ⬜ Kosong | [ ] |
-| 60 | `belum` | 1x | ⬜ Kosong | [ ] |
-| 61 | `benda` | 20x | ⬜ Kosong | [ ] |
-| 62 | `bentuk` | 3x | ⬜ Kosong | [ ] |
-| 63 | `berapa` | 2x | ⬜ Kosong | [ ] |
-| 64 | `berat` | 9x | ⬜ Kosong | [ ] |
-| 65 | `berbahasa` | 1x | ⬜ Kosong | [ ] |
-| 66 | `berbaloi` | 1x | ⬜ Kosong | [ ] |
-| 67 | `berbanding` | 2x | ⬜ Kosong | [ ] |
-| 68 | `berbeban` | 1x | ⬜ Kosong | [ ] |
-| 69 | `berbeza` | 1x | ⬜ Kosong | [ ] |
-| 70 | `bercuti` | 1x | ⬜ Kosong | [ ] |
-| 71 | `berdua` | 2x | ⬜ Kosong | [ ] |
-| 72 | `berfikir` | 1x | ⬜ Kosong | [ ] |
-| 73 | `berharap` | 1x | ⬜ Kosong | [ ] |
-| 74 | `berhubung` | 1x | ⬜ Kosong | [ ] |
-| 75 | `beritahu` | 4x | ⬜ Kosong | [ ] |
-| 76 | `berjoging` | 1x | ⬜ Kosong | [ ] |
-| 77 | `berkesan` | 1x | ⬜ Kosong | [ ] |
-| 78 | `berkhemah` | 1x | ⬜ Kosong | [ ] |
-| 79 | `berkonsepkan` | 1x | ⬜ Kosong | [ ] |
-| 80 | `berlari` | 5x | ⬜ Kosong | [ ] |
-| 81 | `berlatih` | 1x | ⬜ Kosong | [ ] |
-| 82 | `bersaiz` | 1x | ⬜ Kosong | [ ] |
-| 83 | `bersama` | 2x | ⬜ Kosong | [ ] |
-| 84 | `besar` | 11x | ⬜ Kosong | [ ] |
-| 85 | `betul` | 16x | ⬜ Kosong | [ ] |
-| 86 | `biar` | 15x | ⬜ Kosong | [ ] |
-| 87 | `biasa` | 2x | ⬜ Kosong | [ ] |
-| 88 | `biasanya` | 2x | ⬜ Kosong | [ ] |
-| 89 | `bila` | 7x | ⬜ Kosong | [ ] |
-| 90 | `bilah` | 3x | ⬜ Kosong | [ ] |
-| 91 | `bilahnya` | 1x | ⬜ Kosong | [ ] |
-| 92 | `bina` | 1x | ⬜ Kosong | [ ] |
-| 93 | `bladder` | 1x | ⬜ Kosong | [ ] |
-| 94 | `blink` | 1x | ⬜ Kosong | [ ] |
-| 95 | `blocking` | 1x | ⬜ Kosong | [ ] |
-| 96 | `blok` | 2x | ⬜ Kosong | [ ] |
-| 97 | `bocorkan` | 1x | ⬜ Kosong | [ ] |
-| 98 | `bokeh` | 1x | ⬜ Kosong | [ ] |
-| 99 | `boleh` | 46x | ⬜ Kosong | [ ] |
-| 100 | `bolehlah` | 1x | ⬜ Kosong | [ ] |
-| 101 | `buah` | 2x | ⬜ Kosong | [ ] |
-| 102 | `buat` | 4x | ⬜ Kosong | [ ] |
-| 103 | `buka` | 33x | ⬜ Kosong | [ ] |
-| 104 | `bukan` | 12x | ⬜ Kosong | [ ] |
-| 105 | `bukannya` | 1x | ⬜ Kosong | [ ] |
-| 106 | `buku` | 3x | ⬜ Kosong | [ ] |
-| 107 | `bulan` | 2x | ⬜ Kosong | [ ] |
-| 108 | `bungkusan` | 34x | ⬜ Kosong | [ ] |
-| 109 | `bunyi` | 1x | ⬜ Kosong | [ ] |
-| 110 | `bunyikan` | 2x | ⬜ Kosong | [ ] |
-| 111 | `butang` | 2x | ⬜ Kosong | [ ] |
-| 112 | `camping` | 1x | ⬜ Kosong | [ ] |
-| 113 | `cangkuk` | 1x | ⬜ Kosong | [ ] |
-| 114 | `cangkukkan` | 1x | ⬜ Kosong | [ ] |
-| 115 | `cantik` | 1x | ⬜ Kosong | [ ] |
-| 116 | `cantiknya` | 3x | ⬜ Kosong | [ ] |
-| 117 | `carry` | 1x | ⬜ Kosong | [ ] |
-| 118 | `cas` | 1x | ⬜ Kosong | [ ] |
-| 119 | `case` | 1x | ⬜ Kosong | [ ] |
-| 120 | `cengkerang` | 1x | ⬜ Kosong | [ ] |
-| 121 | `cepat` | 1x | ⬜ Kosong | [ ] |
-| 122 | `cepatnya` | 1x | ⬜ Kosong | [ ] |
-| 123 | `cergas` | 2x | ⬜ Kosong | [ ] |
-| 124 | `chairs` | 1x | ⬜ Kosong | [ ] |
-| 125 | `checked` | 1x | ⬜ Kosong | [ ] |
-| 126 | `china` | 1x | ⬜ Kosong | [ ] |
-| 127 | `ciri` | 2x | ⬜ Kosong | [ ] |
-| 128 | `cita` | 1x | ⬜ Kosong | [ ] |
-| 129 | `clamshell` | 1x | ⬜ Kosong | [ ] |
-| 130 | `coklat` | 1x | ⬜ Kosong | [ ] |
-| 131 | `com` | 1x | ⬜ Kosong | [ ] |
-| 132 | `comprehensible` | 2x | ⬜ Kosong | [ ] |
-| 133 | `cot` | 1x | ⬜ Kosong | [ ] |
-| 134 | `couch` | 1x | ⬜ Kosong | [ ] |
-| 135 | `cuba` | 6x | ⬜ Kosong | [ ] |
-| 136 | `cucuk` | 1x | ⬜ Kosong | [ ] |
-| 137 | `cuma` | 7x | ⬜ Kosong | [ ] |
-| 138 | `daftar` | 1x | ⬜ Kosong | [ ] |
-| 139 | `dah` | 9x | ⬜ Kosong | [ ] |
-| 140 | `dalam` | 21x | ⬜ Kosong | [ ] |
-| 141 | `dalamnya` | 1x | ⬜ Kosong | [ ] |
-| 142 | `dan` | 68x | ⬜ Kosong | [ ] |
-| 143 | `dapat` | 6x | ⬜ Kosong | [ ] |
-| 144 | `dapatkan` | 2x | ⬜ Kosong | [ ] |
-| 145 | `dari` | 4x | ⬜ Kosong | [ ] |
-| 146 | `daripada` | 9x | ⬜ Kosong | [ ] |
-| 147 | `datang` | 4x | ⬜ Kosong | [ ] |
-| 148 | `demi` | 1x | ⬜ Kosong | [ ] |
-| 149 | `dengan` | 6x | ⬜ Kosong | [ ] |
-| 150 | `di` | 4x | ⬜ Kosong | [ ] |
-| 151 | `dia` | 10x | ⬜ Kosong | [ ] |
-| 152 | `dibaca` | 1x | ⬜ Kosong | [ ] |
-| 153 | `dibawa` | 2x | ⬜ Kosong | [ ] |
-| 154 | `dibungkus` | 1x | ⬜ Kosong | [ ] |
-| 155 | `diduduki` | 1x | ⬜ Kosong | [ ] |
-| 156 | `diguna` | 2x | ⬜ Kosong | [ ] |
-| 157 | `digunakan` | 5x | ⬜ Kosong | [ ] |
-| 158 | `dikelilingi` | 4x | ⬜ Kosong | [ ] |
-| 159 | `diletak` | 1x | ⬜ Kosong | [ ] |
-| 160 | `dinaik` | 2x | ⬜ Kosong | [ ] |
-| 161 | `diorang` | 4x | ⬜ Kosong | [ ] |
-| 162 | `direka` | 2x | ⬜ Kosong | [ ] |
-| 163 | `dirompak` | 1x | ⬜ Kosong | [ ] |
-| 164 | `ditutup` | 1x | ⬜ Kosong | [ ] |
-| 165 | `diubah` | 1x | ⬜ Kosong | [ ] |
-| 166 | `dm` | 1x | ⬜ Kosong | [ ] |
-| 167 | `dolar` | 2x | ⬜ Kosong | [ ] |
-| 168 | `dua` | 12x | ⬜ Kosong | [ ] |
-| 169 | `duduk` | 4x | ⬜ Kosong | [ ] |
-| 170 | `dulu` | 5x | ⬜ Kosong | [ ] |
-| 171 | `edit` | 1x | ⬜ Kosong | [ ] |
-| 172 | `eh` | 5x | ⬜ Kosong | [ ] |
-| 173 | `ekonomi` | 2x | ⬜ Kosong | [ ] |
-| 174 | `elektronik` | 1x | ⬜ Kosong | [ ] |
-| 175 | `empat` | 1x | ⬜ Kosong | [ ] |
-| 176 | `entahlah` | 3x | ⬜ Kosong | [ ] |
-| 177 | `faham` | 3x | ⬜ Kosong | [ ] |
-| 178 | `fasih` | 2x | ⬜ Kosong | [ ] |
-| 179 | `filipina` | 1x | ⬜ Kosong | [ ] |
-| 180 | `fluent` | 1x | ⬜ Kosong | [ ] |
-| 181 | `fokus` | 1x | ⬜ Kosong | [ ] |
-| 182 | `for` | 1x | ⬜ Kosong | [ ] |
-| 183 | `format` | 3x | ⬜ Kosong | [ ] |
-| 184 | `fungsi` | 1x | ⬜ Kosong | [ ] |
-| 185 | `galas` | 13x | ⬜ Kosong | [ ] |
-| 186 | `gambar` | 1x | ⬜ Kosong | [ ] |
-| 187 | `ganda` | 1x | ⬜ Kosong | [ ] |
-| 188 | `gantung` | 1x | ⬜ Kosong | [ ] |
-| 189 | `gaya` | 1x | ⬜ Kosong | [ ] |
-| 190 | `gelongsor` | 1x | ⬜ Kosong | [ ] |
-| 191 | `gmail` | 1x | ⬜ Kosong | [ ] |
-| 192 | `guna` | 11x | ⬜ Kosong | [ ] |
-| 193 | `gurau` | 1x | ⬜ Kosong | [ ] |
-| 194 | `haa` | 2x | ⬜ Kosong | [ ] |
-| 195 | `haah` | 5x | ⬜ Kosong | [ ] |
-| 196 | `habis` | 2x | ⬜ Kosong | [ ] |
-| 197 | `hadiah` | 3x | ⬜ Kosong | [ ] |
-| 198 | `hadiahkan` | 2x | ⬜ Kosong | [ ] |
-| 199 | `haiwan` | 1x | ⬜ Kosong | [ ] |
-| 200 | `hantar` | 3x | ⬜ Kosong | [ ] |
-| 201 | `hantarkan` | 1x | ⬜ Kosong | [ ] |
-| 202 | `harapnya` | 2x | ⬜ Kosong | [ ] |
-| 203 | `harga` | 1x | ⬜ Kosong | [ ] |
-| 204 | `hari` | 6x | ⬜ Kosong | [ ] |
-| 205 | `harian` | 3x | ⬜ Kosong | [ ] |
-| 206 | `hati` | 4x | ⬜ Kosong | [ ] |
-| 207 | `hebatnya` | 1x | ⬜ Kosong | [ ] |
-| 208 | `hidup` | 1x | ⬜ Kosong | [ ] |
-| 209 | `hingga` | 1x | ⬜ Kosong | [ ] |
-| 210 | `hitam` | 2x | ⬜ Kosong | [ ] |
-| 211 | `hubungi` | 2x | ⬜ Kosong | [ ] |
-| 212 | `hujung` | 1x | ⬜ Kosong | [ ] |
-| 213 | `hulurkan` | 3x | ⬜ Kosong | [ ] |
-| 214 | `hydration` | 1x | ⬜ Kosong | [ ] |
-| 215 | `ia` | 7x | ⬜ Kosong | [ ] |
-| 216 | `iaitu` | 2x | ⬜ Kosong | [ ] |
-| 217 | `ialah` | 12x | ⬜ Kosong | [ ] |
-| 218 | `ikut` | 1x | ⬜ Kosong | [ ] |
-| 219 | `ikuti` | 1x | ⬜ Kosong | [ ] |
-| 220 | `indonesia` | 1x | ⬜ Kosong | [ ] |
-| 221 | `ingat` | 3x | ⬜ Kosong | [ ] |
-| 222 | `ingatkan` | 1x | ⬜ Kosong | [ ] |
-| 223 | `inggeris` | 12x | ⬜ Kosong | [ ] |
-| 224 | `ini` | 76x | ⬜ Kosong | [ ] |
-| 225 | `inilah` | 2x | ⬜ Kosong | [ ] |
-| 226 | `input` | 2x | ⬜ Kosong | [ ] |
-| 227 | `instagram` | 1x | ⬜ Kosong | [ ] |
-| 228 | `isi` | 2x | ⬜ Kosong | [ ] |
-| 229 | `isinya` | 1x | ⬜ Kosong | [ ] |
-| 230 | `istimewa` | 2x | ⬜ Kosong | [ ] |
-| 231 | `istimewanya` | 1x | ⬜ Kosong | [ ] |
-| 232 | `itu` | 5x | ⬜ Kosong | [ ] |
-| 233 | `jadi` | 42x | ⬜ Kosong | [ ] |
-| 234 | `jadikan` | 2x | ⬜ Kosong | [ ] |
-| 235 | `jadual` | 5x | ⬜ Kosong | [ ] |
-| 236 | `jadualkan` | 1x | ⬜ Kosong | [ ] |
-| 237 | `jaga` | 1x | ⬜ Kosong | [ ] |
-| 238 | `jaket` | 9x | ⬜ Kosong | [ ] |
-| 239 | `jam` | 2x | ⬜ Kosong | [ ] |
-| 240 | `jangan` | 6x | ⬜ Kosong | [ ] |
-| 241 | `jari` | 1x | ⬜ Kosong | [ ] |
-| 242 | `jatuh` | 1x | ⬜ Kosong | [ ] |
-| 243 | `jauh` | 5x | ⬜ Kosong | [ ] |
-| 244 | `je` | 10x | ⬜ Kosong | [ ] |
-| 245 | `jelas` | 1x | ⬜ Kosong | [ ] |
-| 246 | `jenis` | 2x | ⬜ Kosong | [ ] |
-| 247 | `jepun` | 1x | ⬜ Kosong | [ ] |
-| 248 | `jingga` | 2x | ⬜ Kosong | [ ] |
-| 249 | `jinjing` | 2x | ⬜ Kosong | [ ] |
-| 250 | `jom` | 16x | ⬜ Kosong | [ ] |
-| 251 | `jualan` | 1x | ⬜ Kosong | [ ] |
-| 252 | `juga` | 5x | ⬜ Kosong | [ ] |
-| 253 | `jumpa` | 3x | ⬜ Kosong | [ ] |
-| 254 | `kabin` | 4x | ⬜ Kosong | [ ] |
-| 255 | `kabur` | 1x | ⬜ Kosong | [ ] |
-| 256 | `kaedah` | 3x | ⬜ Kosong | [ ] |
-| 257 | `kaki` | 2x | ⬜ Kosong | [ ] |
-| 258 | `kalau` | 10x | ⬜ Kosong | [ ] |
-| 259 | `kalendar` | 2x | ⬜ Kosong | [ ] |
-| 260 | `kali` | 3x | ⬜ Kosong | [ ] |
-| 261 | `kalis` | 2x | ⬜ Kosong | [ ] |
-| 262 | `kamera` | 24x | ⬜ Kosong | [ ] |
-| 263 | `kami` | 1x | ⬜ Kosong | [ ] |
-| 264 | `kamu` | 20x | ⬜ Kosong | [ ] |
-| 265 | `kan` | 3x | ⬜ Kosong | [ ] |
-| 266 | `kapal` | 1x | ⬜ Kosong | [ ] |
-| 267 | `karat` | 4x | ⬜ Kosong | [ ] |
-| 268 | `kargo` | 1x | ⬜ Kosong | [ ] |
-| 269 | `kasih` | 4x | ⬜ Kosong | [ ] |
-| 270 | `kasut` | 1x | ⬜ Kosong | [ ] |
-| 271 | `kat` | 48x | ⬜ Kosong | [ ] |
-| 272 | `kata` | 3x | ⬜ Kosong | [ ] |
-| 273 | `katil` | 1x | ⬜ Kosong | [ ] |
-| 274 | `kau` | 2x | ⬜ Kosong | [ ] |
-| 275 | `kawalan` | 2x | ⬜ Kosong | [ ] |
-| 276 | `kawan` | 19x | ⬜ Kosong | [ ] |
-| 277 | `ke` | 32x | ⬜ Kosong | [ ] |
-| 278 | `kecil` | 7x | ⬜ Kosong | [ ] |
-| 279 | `kedap` | 1x | ⬜ Kosong | [ ] |
-| 280 | `kedua` | 2x | ⬜ Kosong | [ ] |
-| 281 | `kefahaman` | 1x | ⬜ Kosong | [ ] |
-| 282 | `kegemaran` | 3x | ⬜ Kosong | [ ] |
-| 283 | `kegunaan` | 1x | ⬜ Kosong | [ ] |
-| 284 | `kejadian` | 1x | ⬜ Kosong | [ ] |
-| 285 | `kejutan` | 3x | ⬜ Kosong | [ ] |
-| 286 | `kekal` | 1x | ⬜ Kosong | [ ] |
-| 287 | `kelab` | 1x | ⬜ Kosong | [ ] |
-| 288 | `kelapangan` | 1x | ⬜ Kosong | [ ] |
-| 289 | `kelas` | 6x | ⬜ Kosong | [ ] |
-| 290 | `kelengkapan` | 1x | ⬜ Kosong | [ ] |
-| 291 | `keliling` | 1x | ⬜ Kosong | [ ] |
-| 292 | `keluar` | 1x | ⬜ Kosong | [ ] |
-| 293 | `keluarkan` | 3x | ⬜ Kosong | [ ] |
-| 294 | `keluli` | 4x | ⬜ Kosong | [ ] |
-| 295 | `kemahiran` | 1x | ⬜ Kosong | [ ] |
-| 296 | `kemas` | 2x | ⬜ Kosong | [ ] |
-| 297 | `kembalikan` | 1x | ⬜ Kosong | [ ] |
-| 298 | `kembara` | 1x | ⬜ Kosong | [ ] |
-| 299 | `kena` | 5x | ⬜ Kosong | [ ] |
-| 300 | `kenapa` | 5x | ⬜ Kosong | [ ] |
-| 301 | `kepada` | 3x | ⬜ Kosong | [ ] |
-| 302 | `kerana` | 3x | ⬜ Kosong | [ ] |
-| 303 | `kerang` | 1x | ⬜ Kosong | [ ] |
-| 304 | `kerap` | 4x | ⬜ Kosong | [ ] |
-| 305 | `kerja` | 5x | ⬜ Kosong | [ ] |
-| 306 | `kertas` | 1x | ⬜ Kosong | [ ] |
-| 307 | `kerusi` | 5x | ⬜ Kosong | [ ] |
-| 308 | `kes` | 1x | ⬜ Kosong | [ ] |
-| 309 | `kesan` | 2x | ⬜ Kosong | [ ] |
-| 310 | `keselamatan` | 8x | ⬜ Kosong | [ ] |
-| 311 | `keselesaan` | 1x | ⬜ Kosong | [ ] |
-| 312 | `ketepi` | 1x | ⬜ Kosong | [ ] |
-| 313 | `khas` | 3x | ⬜ Kosong | [ ] |
-| 314 | `khemah` | 6x | ⬜ Kosong | [ ] |
-| 315 | `khususnya` | 1x | ⬜ Kosong | [ ] |
-| 316 | `kira` | 1x | ⬜ Kosong | [ ] |
-| 317 | `kiraan` | 1x | ⬜ Kosong | [ ] |
-| 318 | `kita` | 47x | ⬜ Kosong | [ ] |
-| 319 | `kitar` | 1x | ⬜ Kosong | [ ] |
-| 320 | `kiub` | 1x | ⬜ Kosong | [ ] |
-| 321 | `kod` | 1x | ⬜ Kosong | [ ] |
-| 322 | `komen` | 4x | ⬜ Kosong | [ ] |
-| 323 | `komponen` | 1x | ⬜ Kosong | [ ] |
-| 324 | `komputer` | 3x | ⬜ Kosong | [ ] |
-| 325 | `korang` | 72x | ⬜ Kosong | [ ] |
-| 326 | `korea` | 4x | ⬜ Kosong | [ ] |
-| 327 | `kosong` | 1x | ⬜ Kosong | [ ] |
-| 328 | `kotak` | 35x | ⬜ Kosong | [ ] |
-| 329 | `koyak` | 3x | ⬜ Kosong | [ ] |
-| 330 | `koyakkan` | 2x | ⬜ Kosong | [ ] |
-| 331 | `krismas` | 5x | ⬜ Kosong | [ ] |
-| 332 | `kuasa` | 4x | ⬜ Kosong | [ ] |
-| 333 | `kumpulkan` | 1x | ⬜ Kosong | [ ] |
-| 334 | `kunci` | 2x | ⬜ Kosong | [ ] |
-| 335 | `kurang` | 1x | ⬜ Kosong | [ ] |
-| 336 | `label` | 3x | ⬜ Kosong | [ ] |
-| 337 | `lagi` | 16x | ⬜ Kosong | [ ] |
-| 338 | `lain` | 4x | ⬜ Kosong | [ ] |
-| 339 | `laju` | 2x | ⬜ Kosong | [ ] |
-| 340 | `lama` | 5x | ⬜ Kosong | [ ] |
-| 341 | `laman` | 1x | ⬜ Kosong | [ ] |
-| 342 | `lampu` | 14x | ⬜ Kosong | [ ] |
-| 343 | `langkah` | 1x | ⬜ Kosong | [ ] |
-| 344 | `lantai` | 1x | ⬜ Kosong | [ ] |
-| 345 | `larat` | 1x | ⬜ Kosong | [ ] |
-| 346 | `lari` | 1x | ⬜ Kosong | [ ] |
-| 347 | `larian` | 9x | ⬜ Kosong | [ ] |
-| 348 | `latih` | 1x | ⬜ Kosong | [ ] |
-| 349 | `lawati` | 1x | ⬜ Kosong | [ ] |
-| 350 | `layari` | 1x | ⬜ Kosong | [ ] |
-| 351 | `lebih` | 15x | ⬜ Kosong | [ ] |
-| 352 | `leher` | 5x | ⬜ Kosong | [ ] |
-| 353 | `lekatkan` | 2x | ⬜ Kosong | [ ] |
-| 354 | `lembut` | 1x | ⬜ Kosong | [ ] |
-| 355 | `leon` | 7x | ⬜ Kosong | [ ] |
-| 356 | `lepas` | 7x | ⬜ Kosong | [ ] |
-| 357 | `letak` | 5x | ⬜ Kosong | [ ] |
-| 358 | `life` | 1x | ⬜ Kosong | [ ] |
-| 359 | `lima` | 2x | ⬜ Kosong | [ ] |
-| 360 | `lipat` | 2x | ⬜ Kosong | [ ] |
-| 361 | `litar` | 1x | ⬜ Kosong | [ ] |
-| 362 | `liter` | 5x | ⬜ Kosong | [ ] |
-| 363 | `loceng` | 8x | ⬜ Kosong | [ ] |
-| 364 | `loghat` | 1x | ⬜ Kosong | [ ] |
-| 365 | `luangkan` | 2x | ⬜ Kosong | [ ] |
-| 366 | `luar` | 1x | ⬜ Kosong | [ ] |
-| 367 | `luggage` | 1x | ⬜ Kosong | [ ] |
-| 368 | `lupa` | 2x | ⬜ Kosong | [ ] |
-| 369 | `macam` | 25x | ⬜ Kosong | [ ] |
-| 370 | `mak` | 51x | ⬜ Kosong | [ ] |
-| 371 | `makan` | 1x | ⬜ Kosong | [ ] |
-| 372 | `maklum` | 2x | ⬜ Kosong | [ ] |
-| 373 | `maklumat` | 1x | ⬜ Kosong | [ ] |
-| 374 | `maksudnya` | 4x | ⬜ Kosong | [ ] |
-| 375 | `malam` | 1x | ⬜ Kosong | [ ] |
-| 376 | `malaysia` | 1x | ⬜ Kosong | [ ] |
-| 377 | `mana` | 10x | ⬜ Kosong | [ ] |
-| 378 | `mangga` | 1x | ⬜ Kosong | [ ] |
-| 379 | `masa` | 9x | ⬜ Kosong | [ ] |
-| 380 | `masih` | 1x | ⬜ Kosong | [ ] |
-| 381 | `masuk` | 5x | ⬜ Kosong | [ ] |
-| 382 | `masukkan` | 3x | ⬜ Kosong | [ ] |
-| 383 | `mata` | 1x | ⬜ Kosong | [ ] |
-| 384 | `melalui` | 1x | ⬜ Kosong | [ ] |
-| 385 | `melancong` | 2x | ⬜ Kosong | [ ] |
-| 386 | `melindungi` | 2x | ⬜ Kosong | [ ] |
-| 387 | `memandangkan` | 1x | ⬜ Kosong | [ ] |
-| 388 | `memang` | 17x | ⬜ Kosong | [ ] |
-| 389 | `memastikan` | 1x | ⬜ Kosong | [ ] |
-| 390 | `membantu` | 1x | ⬜ Kosong | [ ] |
-| 391 | `memberi` | 1x | ⬜ Kosong | [ ] |
-| 392 | `memulangkan` | 1x | ⬜ Kosong | [ ] |
-| 393 | `menaja` | 1x | ⬜ Kosong | [ ] |
-| 394 | `menarik` | 1x | ⬜ Kosong | [ ] |
-| 395 | `mendaki` | 1x | ⬜ Kosong | [ ] |
-| 396 | `mendengar` | 1x | ⬜ Kosong | [ ] |
-| 397 | `menghala` | 2x | ⬜ Kosong | [ ] |
-| 398 | `mengikut` | 1x | ⬜ Kosong | [ ] |
-| 399 | `menonton` | 1x | ⬜ Kosong | [ ] |
-| 400 | `menutup` | 1x | ⬜ Kosong | [ ] |
-| 401 | `mesej` | 1x | ⬜ Kosong | [ ] |
-| 402 | `mestilah` | 1x | ⬜ Kosong | [ ] |
-| 403 | `mhm` | 2x | ⬜ Kosong | [ ] |
-| 404 | `mikrofon` | 4x | ⬜ Kosong | [ ] |
-| 405 | `minggu` | 1x | ⬜ Kosong | [ ] |
-| 406 | `minit` | 1x | ⬜ Kosong | [ ] |
-| 407 | `minta` | 1x | ⬜ Kosong | [ ] |
-| 408 | `minum` | 2x | ⬜ Kosong | [ ] |
-| 409 | `model` | 1x | ⬜ Kosong | [ ] |
-| 410 | `momentum` | 1x | ⬜ Kosong | [ ] |
-| 411 | `motivasi` | 1x | ⬜ Kosong | [ ] |
-| 412 | `mouse` | 1x | ⬜ Kosong | [ ] |
-| 413 | `muat` | 3x | ⬜ Kosong | [ ] |
-| 414 | `mudah` | 9x | ⬜ Kosong | [ ] |
-| 415 | `muka` | 1x | ⬜ Kosong | [ ] |
-| 416 | `mula` | 3x | ⬜ Kosong | [ ] |
-| 417 | `mulakan` | 4x | ⬜ Kosong | [ ] |
-| 418 | `mungkin` | 2x | ⬜ Kosong | [ ] |
-| 419 | `murah` | 1x | ⬜ Kosong | [ ] |
-| 420 | `nah` | 1x | ⬜ Kosong | [ ] |
-| 421 | `naik` | 3x | ⬜ Kosong | [ ] |
-| 422 | `nak` | 42x | ⬜ Kosong | [ ] |
-| 423 | `nama` | 2x | ⬜ Kosong | [ ] |
-| 424 | `nampak` | 14x | ⬜ Kosong | [ ] |
-| 425 | `nanti` | 12x | ⬜ Kosong | [ ] |
-| 426 | `nantikan` | 1x | ⬜ Kosong | [ ] |
-| 427 | `neck` | 1x | ⬜ Kosong | [ ] |
-| 428 | `negara` | 3x | ⬜ Kosong | [ ] |
-| 429 | `ni` | 126x | ⬜ Kosong | [ ] |
-| 430 | `nipis` | 2x | ⬜ Kosong | [ ] |
-| 431 | `notion` | 1x | ⬜ Kosong | [ ] |
-| 432 | `november` | 1x | ⬜ Kosong | [ ] |
-| 433 | `oh` | 9x | ⬜ Kosong | [ ] |
-| 434 | `okey` | 21x | ⬜ Kosong | [ ] |
-| 435 | `on` | 1x | ⬜ Kosong | [ ] |
-| 436 | `orang` | 11x | ⬜ Kosong | [ ] |
-| 437 | `oren` | 5x | ⬜ Kosong | [ ] |
-| 438 | `pada` | 6x | ⬜ Kosong | [ ] |
-| 439 | `padamkan` | 1x | ⬜ Kosong | [ ] |
-| 440 | `pagi` | 6x | ⬜ Kosong | [ ] |
-| 441 | `pakaian` | 4x | ⬜ Kosong | [ ] |
-| 442 | `palam` | 1x | ⬜ Kosong | [ ] |
-| 443 | `paling` | 9x | ⬜ Kosong | [ ] |
-| 444 | `panas` | 2x | ⬜ Kosong | [ ] |
-| 445 | `pandai` | 1x | ⬜ Kosong | [ ] |
-| 446 | `pandangan` | 1x | ⬜ Kosong | [ ] |
-| 447 | `panduan` | 1x | ⬜ Kosong | [ ] |
-| 448 | `panggil` | 3x | ⬜ Kosong | [ ] |
-| 449 | `panjang` | 1x | ⬜ Kosong | [ ] |
-| 450 | `pantas` | 2x | ⬜ Kosong | [ ] |
-| 451 | `pantau` | 1x | ⬜ Kosong | [ ] |
-| 452 | `parcel` | 4x | ⬜ Kosong | [ ] |
-| 453 | `pasang` | 7x | ⬜ Kosong | [ ] |
-| 454 | `pasangkan` | 1x | ⬜ Kosong | [ ] |
-| 455 | `pasti` | 2x | ⬜ Kosong | [ ] |
-| 456 | `pastikan` | 5x | ⬜ Kosong | [ ] |
-| 457 | `patut` | 1x | ⬜ Kosong | [ ] |
-| 458 | `pautan` | 1x | ⬜ Kosong | [ ] |
-| 459 | `pautannya` | 2x | ⬜ Kosong | [ ] |
-| 460 | `payah` | 3x | ⬜ Kosong | [ ] |
-| 461 | `pegang` | 4x | ⬜ Kosong | [ ] |
-| 462 | `pejabat` | 1x | ⬜ Kosong | [ ] |
-| 463 | `pelari` | 1x | ⬜ Kosong | [ ] |
-| 464 | `pelbagai` | 1x | ⬜ Kosong | [ ] |
-| 465 | `pelekat` | 9x | ⬜ Kosong | [ ] |
-| 466 | `pelindung` | 1x | ⬜ Kosong | [ ] |
-| 467 | `pembelajaran` | 1x | ⬜ Kosong | [ ] |
-| 468 | `pemberat` | 1x | ⬜ Kosong | [ ] |
-| 469 | `pemblokiran` | 1x | ⬜ Kosong | [ ] |
-| 470 | `pembungkus` | 1x | ⬜ Kosong | [ ] |
-| 471 | `pembungkusan` | 2x | ⬜ Kosong | [ ] |
-| 472 | `pemegang` | 4x | ⬜ Kosong | [ ] |
-| 473 | `penaja` | 2x | ⬜ Kosong | [ ] |
-| 474 | `pendek` | 1x | ⬜ Kosong | [ ] |
-| 475 | `penerangan` | 4x | ⬜ Kosong | [ ] |
-| 476 | `penerbangan` | 1x | ⬜ Kosong | [ ] |
-| 477 | `pengecas` | 6x | ⬜ Kosong | [ ] |
-| 478 | `pengembaraan` | 1x | ⬜ Kosong | [ ] |
-| 479 | `pengenalan` | 1x | ⬜ Kosong | [ ] |
-| 480 | `penghantaran` | 2x | ⬜ Kosong | [ ] |
-| 481 | `penonton` | 2x | ⬜ Kosong | [ ] |
-| 482 | `penting` | 3x | ⬜ Kosong | [ ] |
-| 483 | `penutup` | 1x | ⬜ Kosong | [ ] |
-| 484 | `penyedut` | 1x | ⬜ Kosong | [ ] |
-| 485 | `penyesuaian` | 1x | ⬜ Kosong | [ ] |
-| 486 | `peralatan` | 3x | ⬜ Kosong | [ ] |
-| 487 | `peranti` | 2x | ⬜ Kosong | [ ] |
-| 488 | `peraturan` | 1x | ⬜ Kosong | [ ] |
-| 489 | `percuma` | 4x | ⬜ Kosong | [ ] |
-| 490 | `pergi` | 4x | ⬜ Kosong | [ ] |
-| 491 | `peribadi` | 2x | ⬜ Kosong | [ ] |
-| 492 | `periksa` | 1x | ⬜ Kosong | [ ] |
-| 493 | `perjalanan` | 1x | ⬜ Kosong | [ ] |
-| 494 | `perkakas` | 2x | ⬜ Kosong | [ ] |
-| 495 | `perkara` | 1x | ⬜ Kosong | [ ] |
-| 496 | `perkataan` | 5x | ⬜ Kosong | [ ] |
-| 497 | `perkhemahan` | 2x | ⬜ Kosong | [ ] |
-| 498 | `perlu` | 6x | ⬜ Kosong | [ ] |
-| 499 | `perlukan` | 6x | ⬜ Kosong | [ ] |
-| 500 | `perlukannya` | 1x | ⬜ Kosong | [ ] |
-| 501 | `perniagaan` | 1x | ⬜ Kosong | [ ] |
-| 502 | `pertama` | 6x | ⬜ Kosong | [ ] |
-| 503 | `pertuturan` | 1x | ⬜ Kosong | [ ] |
-| 504 | `pesan` | 3x | ⬜ Kosong | [ ] |
-| 505 | `peti` | 1x | ⬜ Kosong | [ ] |
-| 506 | `phone` | 1x | ⬜ Kosong | [ ] |
-| 507 | `pillow` | 1x | ⬜ Kosong | [ ] |
-| 508 | `pintu` | 6x | ⬜ Kosong | [ ] |
-| 509 | `pisau` | 5x | ⬜ Kosong | [ ] |
-| 510 | `pisaunya` | 2x | ⬜ Kosong | [ ] |
-| 511 | `pita` | 9x | ⬜ Kosong | [ ] |
-| 512 | `plastik` | 3x | ⬜ Kosong | [ ] |
-| 513 | `poket` | 1x | ⬜ Kosong | [ ] |
-| 514 | `poskan` | 1x | ⬜ Kosong | [ ] |
-| 515 | `potong` | 8x | ⬜ Kosong | [ ] |
-| 516 | `power` | 1x | ⬜ Kosong | [ ] |
-| 517 | `praktikal` | 1x | ⬜ Kosong | [ ] |
-| 518 | `prime` | 1x | ⬜ Kosong | [ ] |
-| 519 | `produktiviti` | 1x | ⬜ Kosong | [ ] |
-| 520 | `program` | 1x | ⬜ Kosong | [ ] |
-| 521 | `projek` | 1x | ⬜ Kosong | [ ] |
-| 522 | `pula` | 17x | ⬜ Kosong | [ ] |
-| 523 | `pulangkan` | 2x | ⬜ Kosong | [ ] |
-| 524 | `pun` | 2x | ⬜ Kosong | [ ] |
-| 525 | `punca` | 1x | ⬜ Kosong | [ ] |
-| 526 | `pundi` | 3x | ⬜ Kosong | [ ] |
-| 527 | `punya` | 5x | ⬜ Kosong | [ ] |
-| 528 | `putus` | 1x | ⬜ Kosong | [ ] |
-| 529 | `rahsia` | 2x | ⬜ Kosong | [ ] |
-| 530 | `ramai` | 1x | ⬜ Kosong | [ ] |
-| 531 | `rancang` | 1x | ⬜ Kosong | [ ] |
-| 532 | `rapat` | 2x | ⬜ Kosong | [ ] |
-| 533 | `rasa` | 19x | ⬜ Kosong | [ ] |
-| 534 | `rasanya` | 6x | ⬜ Kosong | [ ] |
-| 535 | `ratusan` | 1x | ⬜ Kosong | [ ] |
-| 536 | `realistik` | 1x | ⬜ Kosong | [ ] |
-| 537 | `remote` | 1x | ⬜ Kosong | [ ] |
-| 538 | `return` | 1x | ⬜ Kosong | [ ] |
-| 539 | `riba` | 1x | ⬜ Kosong | [ ] |
-| 540 | `ribu` | 1x | ⬜ Kosong | [ ] |
-| 541 | `ringan` | 2x | ⬜ Kosong | [ ] |
-| 542 | `ringkas` | 1x | ⬜ Kosong | [ ] |
-| 543 | `risau` | 1x | ⬜ Kosong | [ ] |
-| 544 | `rompak` | 1x | ⬜ Kosong | [ ] |
-| 545 | `ruangan` | 3x | ⬜ Kosong | [ ] |
-| 546 | `rumah` | 6x | ⬜ Kosong | [ ] |
-| 547 | `running` | 1x | ⬜ Kosong | [ ] |
-| 548 | `rupa` | 3x | ⬜ Kosong | [ ] |
-| 549 | `rutin` | 2x | ⬜ Kosong | [ ] |
-| 550 | `sah` | 2x | ⬜ Kosong | [ ] |
-| 551 | `saiz` | 3x | ⬜ Kosong | [ ] |
-| 552 | `salah` | 1x | ⬜ Kosong | [ ] |
-| 553 | `saluran` | 2x | ⬜ Kosong | [ ] |
-| 554 | `sama` | 3x | ⬜ Kosong | [ ] |
-| 555 | `sambil` | 1x | ⬜ Kosong | [ ] |
-| 556 | `sambung` | 1x | ⬜ Kosong | [ ] |
-| 557 | `sampai` | 7x | ⬜ Kosong | [ ] |
-| 558 | `sana` | 1x | ⬜ Kosong | [ ] |
-| 559 | `sangat` | 17x | ⬜ Kosong | [ ] |
-| 560 | `sangatlah` | 1x | ⬜ Kosong | [ ] |
-| 561 | `santai` | 2x | ⬜ Kosong | [ ] |
-| 562 | `sarung` | 4x | ⬜ Kosong | [ ] |
-| 563 | `satu` | 22x | ⬜ Kosong | [ ] |
-| 564 | `sebab` | 22x | ⬜ Kosong | [ ] |
-| 565 | `sebabnya` | 1x | ⬜ Kosong | [ ] |
-| 566 | `sebahagian` | 3x | ⬜ Kosong | [ ] |
-| 567 | `sebarang` | 1x | ⬜ Kosong | [ ] |
-| 568 | `sebelah` | 7x | ⬜ Kosong | [ ] |
-| 569 | `sebelum` | 4x | ⬜ Kosong | [ ] |
-| 570 | `sebenarnya` | 2x | ⬜ Kosong | [ ] |
-| 571 | `sebilah` | 1x | ⬜ Kosong | [ ] |
-| 572 | `sebuah` | 10x | ⬜ Kosong | [ ] |
-| 573 | `sebulan` | 1x | ⬜ Kosong | [ ] |
-| 574 | `sebutan` | 1x | ⬜ Kosong | [ ] |
-| 575 | `secara` | 5x | ⬜ Kosong | [ ] |
-| 576 | `sedap` | 1x | ⬜ Kosong | [ ] |
-| 577 | `sedia` | 2x | ⬜ Kosong | [ ] |
-| 578 | `sehingga` | 2x | ⬜ Kosong | [ ] |
-| 579 | `sejagat` | 1x | ⬜ Kosong | [ ] |
-| 580 | `sejak` | 1x | ⬜ Kosong | [ ] |
-| 581 | `sejam` | 1x | ⬜ Kosong | [ ] |
-| 582 | `sejujurnya` | 1x | ⬜ Kosong | [ ] |
-| 583 | `sekadar` | 2x | ⬜ Kosong | [ ] |
-| 584 | `sekali` | 6x | ⬜ Kosong | [ ] |
-| 585 | `sekaligus` | 1x | ⬜ Kosong | [ ] |
-| 586 | `sekarang` | 20x | ⬜ Kosong | [ ] |
-| 587 | `sekejap` | 2x | ⬜ Kosong | [ ] |
-| 588 | `selalu` | 1x | ⬜ Kosong | [ ] |
-| 589 | `selalunya` | 2x | ⬜ Kosong | [ ] |
-| 590 | `selamat` | 2x | ⬜ Kosong | [ ] |
-| 591 | `selebihnya` | 1x | ⬜ Kosong | [ ] |
-| 592 | `selepas` | 1x | ⬜ Kosong | [ ] |
-| 593 | `selesa` | 3x | ⬜ Kosong | [ ] |
-| 594 | `semak` | 1x | ⬜ Kosong | [ ] |
-| 595 | `semasa` | 1x | ⬜ Kosong | [ ] |
-| 596 | `semestinya` | 1x | ⬜ Kosong | [ ] |
-| 597 | `seminggu` | 2x | ⬜ Kosong | [ ] |
-| 598 | `sempat` | 1x | ⬜ Kosong | [ ] |
-| 599 | `semua` | 14x | ⬜ Kosong | [ ] |
-| 600 | `semula` | 4x | ⬜ Kosong | [ ] |
-| 601 | `senang` | 2x | ⬜ Kosong | [ ] |
-| 602 | `senarai` | 2x | ⬜ Kosong | [ ] |
-| 603 | `sendiri` | 7x | ⬜ Kosong | [ ] |
-| 604 | `sentiasa` | 1x | ⬜ Kosong | [ ] |
-| 605 | `sentuh` | 1x | ⬜ Kosong | [ ] |
-| 606 | `seorang` | 1x | ⬜ Kosong | [ ] |
-| 607 | `seperti` | 1x | ⬜ Kosong | [ ] |
-| 608 | `seret` | 1x | ⬜ Kosong | [ ] |
-| 609 | `seronok` | 2x | ⬜ Kosong | [ ] |
-| 610 | `sertai` | 2x | ⬜ Kosong | [ ] |
-| 611 | `sesekali` | 1x | ⬜ Kosong | [ ] |
-| 612 | `sesi` | 2x | ⬜ Kosong | [ ] |
-| 613 | `sesuatu` | 1x | ⬜ Kosong | [ ] |
-| 614 | `setahun` | 1x | ⬜ Kosong | [ ] |
-| 615 | `setakat` | 2x | ⬜ Kosong | [ ] |
-| 616 | `seterusnya` | 4x | ⬜ Kosong | [ ] |
-| 617 | `setiap` | 2x | ⬜ Kosong | [ ] |
-| 618 | `siap` | 1x | ⬜ Kosong | [ ] |
-| 619 | `siapa` | 2x | ⬜ Kosong | [ ] |
-| 620 | `sibuk` | 2x | ⬜ Kosong | [ ] |
-| 621 | `sikit` | 1x | ⬜ Kosong | [ ] |
-| 622 | `simpan` | 1x | ⬜ Kosong | [ ] |
-| 623 | `simpanan` | 1x | ⬜ Kosong | [ ] |
-| 624 | `sini` | 22x | ⬜ Kosong | [ ] |
-| 625 | `siri` | 1x | ⬜ Kosong | [ ] |
-| 626 | `situ` | 2x | ⬜ Kosong | [ ] |
-| 627 | `slack` | 1x | ⬜ Kosong | [ ] |
-| 628 | `soalan` | 1x | ⬜ Kosong | [ ] |
-| 629 | `sofa` | 3x | ⬜ Kosong | [ ] |
-| 630 | `softbox` | 1x | ⬜ Kosong | [ ] |
-| 631 | `soket` | 1x | ⬜ Kosong | [ ] |
-| 632 | `sokongan` | 1x | ⬜ Kosong | [ ] |
-| 633 | `stainless` | 1x | ⬜ Kosong | [ ] |
-| 634 | `stand` | 1x | ⬜ Kosong | [ ] |
-| 635 | `steel` | 1x | ⬜ Kosong | [ ] |
-| 636 | `studio` | 2x | ⬜ Kosong | [ ] |
-| 637 | `suai` | 1x | ⬜ Kosong | [ ] |
-| 638 | `suasana` | 3x | ⬜ Kosong | [ ] |
-| 639 | `sudi` | 1x | ⬜ Kosong | [ ] |
-| 640 | `suitcase` | 2x | ⬜ Kosong | [ ] |
-| 641 | `suka` | 3x | ⬜ Kosong | [ ] |
-| 642 | `sungguh` | 2x | ⬜ Kosong | [ ] |
-| 643 | `sunting` | 1x | ⬜ Kosong | [ ] |
-| 644 | `supaya` | 6x | ⬜ Kosong | [ ] |
-| 645 | `susun` | 2x | ⬜ Kosong | [ ] |
-| 646 | `syarikat` | 2x | ⬜ Kosong | [ ] |
-| 647 | `tadi` | 5x | ⬜ Kosong | [ ] |
-| 648 | `tahan` | 4x | ⬜ Kosong | [ ] |
-| 649 | `tahu` | 10x | ⬜ Kosong | [ ] |
-| 650 | `tajaan` | 1x | ⬜ Kosong | [ ] |
-| 651 | `tajam` | 1x | ⬜ Kosong | [ ] |
-| 652 | `tak` | 37x | ⬜ Kosong | [ ] |
-| 653 | `tali` | 1x | ⬜ Kosong | [ ] |
-| 654 | `tanggalkan` | 1x | ⬜ Kosong | [ ] |
-| 655 | `tanya` | 3x | ⬜ Kosong | [ ] |
-| 656 | `tape` | 1x | ⬜ Kosong | [ ] |
-| 657 | `tapi` | 12x | ⬜ Kosong | [ ] |
-| 658 | `taraf` | 3x | ⬜ Kosong | [ ] |
-| 659 | `tarik` | 1x | ⬜ Kosong | [ ] |
-| 660 | `tegar` | 1x | ⬜ Kosong | [ ] |
-| 661 | `teka` | 11x | ⬜ Kosong | [ ] |
-| 662 | `tekaan` | 4x | ⬜ Kosong | [ ] |
-| 663 | `tekan` | 2x | ⬜ Kosong | [ ] |
-| 664 | `telefon` | 12x | ⬜ Kosong | [ ] |
-| 665 | `tempat` | 2x | ⬜ Kosong | [ ] |
-| 666 | `tengah` | 3x | ⬜ Kosong | [ ] |
-| 667 | `tengok` | 9x | ⬜ Kosong | [ ] |
-| 668 | `tengoklah` | 1x | ⬜ Kosong | [ ] |
-| 669 | `tepi` | 3x | ⬜ Kosong | [ ] |
-| 670 | `terabai` | 1x | ⬜ Kosong | [ ] |
-| 671 | `terakhir` | 1x | ⬜ Kosong | [ ] |
-| 672 | `terang` | 3x | ⬜ Kosong | [ ] |
-| 673 | `terbaik` | 2x | ⬜ Kosong | [ ] |
-| 674 | `terbang` | 1x | ⬜ Kosong | [ ] |
-| 675 | `terbuka` | 2x | ⬜ Kosong | [ ] |
-| 676 | `terhitung` | 1x | ⬜ Kosong | [ ] |
-| 677 | `terima` | 4x | ⬜ Kosong | [ ] |
-| 678 | `teringat` | 1x | ⬜ Kosong | [ ] |
-| 679 | `teringin` | 1x | ⬜ Kosong | [ ] |
-| 680 | `terkejut` | 1x | ⬜ Kosong | [ ] |
-| 681 | `terlalu` | 1x | ⬜ Kosong | [ ] |
-| 682 | `termasuk` | 1x | ⬜ Kosong | [ ] |
-| 683 | `terpaksa` | 1x | ⬜ Kosong | [ ] |
-| 684 | `terpotong` | 1x | ⬜ Kosong | [ ] |
-| 685 | `tertanya` | 1x | ⬜ Kosong | [ ] |
-| 686 | `tertinggi` | 1x | ⬜ Kosong | [ ] |
-| 687 | `tertulis` | 1x | ⬜ Kosong | [ ] |
-| 688 | `tertutup` | 4x | ⬜ Kosong | [ ] |
-| 689 | `teruja` | 1x | ⬜ Kosong | [ ] |
-| 690 | `terus` | 9x | ⬜ Kosong | [ ] |
-| 691 | `teruskan` | 4x | ⬜ Kosong | [ ] |
-| 692 | `teruskanlah` | 1x | ⬜ Kosong | [ ] |
-| 693 | `tetapkan` | 1x | ⬜ Kosong | [ ] |
-| 694 | `tetikus` | 4x | ⬜ Kosong | [ ] |
-| 695 | `thailand` | 1x | ⬜ Kosong | [ ] |
-| 696 | `tiga` | 4x | ⬜ Kosong | [ ] |
-| 697 | `tikus` | 1x | ⬜ Kosong | [ ] |
-| 698 | `timbunan` | 7x | ⬜ Kosong | [ ] |
-| 699 | `time` | 1x | ⬜ Kosong | [ ] |
-| 700 | `ting` | 1x | ⬜ Kosong | [ ] |
-| 701 | `tinggal` | 3x | ⬜ Kosong | [ ] |
-| 702 | `tinggalkan` | 2x | ⬜ Kosong | [ ] |
-| 703 | `tiub` | 1x | ⬜ Kosong | [ ] |
-| 704 | `todoist` | 1x | ⬜ Kosong | [ ] |
-| 705 | `tolong` | 6x | ⬜ Kosong | [ ] |
-| 706 | `tong` | 1x | ⬜ Kosong | [ ] |
-| 707 | `tonton` | 1x | ⬜ Kosong | [ ] |
-| 708 | `tradisional` | 1x | ⬜ Kosong | [ ] |
-| 709 | `tu` | 38x | ⬜ Kosong | [ ] |
-| 710 | `tugasan` | 2x | ⬜ Kosong | [ ] |
-| 711 | `tulis` | 1x | ⬜ Kosong | [ ] |
-| 712 | `tulisan` | 1x | ⬜ Kosong | [ ] |
-| 713 | `tunggu` | 1x | ⬜ Kosong | [ ] |
-| 714 | `tunjukkan` | 3x | ⬜ Kosong | [ ] |
-| 715 | `tutup` | 1x | ⬜ Kosong | [ ] |
-| 716 | `unit` | 1x | ⬜ Kosong | [ ] |
-| 717 | `untuk` | 39x | ⬜ Kosong | [ ] |
-| 718 | `urusan` | 1x | ⬜ Kosong | [ ] |
-| 719 | `usik` | 1x | ⬜ Kosong | [ ] |
-| 720 | `vest` | 1x | ⬜ Kosong | [ ] |
-| 721 | `video` | 18x | ⬜ Kosong | [ ] |
-| 722 | `vietnam` | 1x | ⬜ Kosong | [ ] |
-| 723 | `vip` | 1x | ⬜ Kosong | [ ] |
-| 724 | `visual` | 1x | ⬜ Kosong | [ ] |
-| 725 | `vlog` | 1x | ⬜ Kosong | [ ] |
-| 726 | `vul` | 1x | ⬜ Kosong | [ ] |
-| 727 | `vulcaglish` | 1x | ⬜ Kosong | [ ] |
-| 728 | `vulcan` | 1x | ⬜ Kosong | [ ] |
-| 729 | `wah` | 5x | ⬜ Kosong | [ ] |
-| 730 | `waktu` | 1x | ⬜ Kosong | [ ] |
-| 731 | `warna` | 8x | ⬜ Kosong | [ ] |
-| 732 | `wayar` | 3x | ⬜ Kosong | [ ] |
-| 733 | `web` | 1x | ⬜ Kosong | [ ] |
-| 734 | `ya` | 27x | ⬜ Kosong | [ ] |
-| 735 | `yang` | 97x | ⬜ Kosong | [ ] |
-| 736 | `youtube` | 1x | ⬜ Kosong | [ ] |
+| 1 | `abang` | 1x | ✅ Ada | abang |
+| 2 | `ada` | 43x | ✅ Ada | ada |
+| 3 | `adalah` | 8x | ✅ Ada | adalah |
+| 4 | `adanya` | 1x | ✅ Ada | adanya |
+| 5 | `aer` | 4x | ✅ Ada | aer |
+| 6 | `agak` | 5x | ✅ Ada | agak |
+| 7 | `aiflow` | 4x | ✅ Ada | aiflow |
+| 8 | `aih` | 2x | ✅ Ada | aih |
+| 9 | `air` | 9x | ✅ Ada | udara / menganginkan |
+| 10 | `akan` | 11x | ✅ Ada | akan |
+| 11 | `aku` | 125x | ✅ Ada | aku |
+| 12 | `alat` | 2x | ✅ Ada | alat |
+| 13 | `alih` | 5x | ✅ Ada | alih |
+| 14 | `alihkan` | 1x | ✅ Ada | alihkan |
+| 15 | `amazon` | 5x | ✅ Ada | amazon |
+| 16 | `ambil` | 2x | ✅ Ada | ambil |
+| 17 | `ampun` | 1x | ✅ Ada | ampun |
+| 18 | `antara` | 3x | ✅ Ada | antara |
+| 19 | `apa` | 41x | ✅ Ada | apa |
+| 20 | `aplikasi` | 2x | ✅ Ada | aplikasi |
+| 21 | `arah` | 2x | ✅ Ada | arah |
+| 22 | `asah` | 1x | ✅ Ada | asah |
+| 23 | `asal` | 1x | ✅ Ada | asal |
+| 24 | `asas` | 1x | ✅ Ada | asas |
+| 25 | `atas` | 7x | ✅ Ada | atas |
+| 26 | `atau` | 10x | ✅ Ada | atau |
+| 27 | `awas` | 1x | ✅ Ada | awas |
+| 28 | `ayah` | 1x | ✅ Ada | ayah |
+| 29 | `baca` | 1x | ✅ Ada | baca |
+| 30 | `backpack` | 1x | ✅ Ada | beg galas |
+| 31 | `badan` | 4x | ✅ Ada | badan |
+| 32 | `bagasi` | 11x | ✅ Ada | bagasi |
+| 33 | `bagi` | 4x | ✅ Ada | bagi |
+| 34 | `bagus` | 2x | ✅ Ada | bagus |
+| 35 | `bahagian` | 10x | ✅ Ada | bahagian |
+| 36 | `baharu` | 4x | ✅ Ada | baharu |
+| 37 | `bahasa` | 11x | ✅ Ada | bahasa |
+| 38 | `bahaya` | 1x | ✅ Ada | bahaya |
+| 39 | `baik` | 1x | ✅ Ada | baik |
+| 40 | `balas` | 1x | ✅ Ada | balas |
+| 41 | `balik` | 6x | ✅ Ada | balik |
+| 42 | `bank` | 4x | ✅ Ada | bank |
+| 43 | `bantal` | 5x | ✅ Ada | bantal |
+| 44 | `bantu` | 5x | ✅ Ada | bantu |
+| 45 | `banyak` | 14x | ✅ Ada | banyak |
+| 46 | `banyaknya` | 1x | ✅ Ada | banyaknya |
+| 47 | `barang` | 53x | ✅ Ada | barang |
+| 48 | `baru` | 4x | ✅ Ada | baru |
+| 49 | `bateri` | 6x | ✅ Ada | bateri |
+| 50 | `bawa` | 3x | ✅ Ada | bawa |
+| 51 | `bawah` | 1x | ✅ Ada | bawah |
+| 52 | `bayangkan` | 1x | ✅ Ada | bayangkan |
+| 53 | `beberapa` | 2x | ✅ Ada | beberapa |
+| 54 | `beg` | 35x | ✅ Ada | mengemis |
+| 55 | `bekas` | 3x | ✅ Ada | bekas |
+| 56 | `belajar` | 9x | ✅ Ada | belajar |
+| 57 | `belakang` | 1x | ✅ Ada | belakang |
+| 58 | `belanja` | 1x | ✅ Ada | belanja |
+| 59 | `beli` | 13x | ✅ Ada | beli |
+| 60 | `belum` | 1x | ✅ Ada | belum |
+| 61 | `benda` | 20x | ✅ Ada | benda |
+| 62 | `bentuk` | 3x | ✅ Ada | bentuk |
+| 63 | `berapa` | 2x | ✅ Ada | berapa |
+| 64 | `berat` | 9x | ✅ Ada | berat |
+| 65 | `berbahasa` | 1x | ✅ Ada | berbahasa |
+| 66 | `berbaloi` | 1x | ✅ Ada | berbaloi |
+| 67 | `berbanding` | 2x | ✅ Ada | berbanding |
+| 68 | `berbeban` | 1x | ✅ Ada | berbeban |
+| 69 | `berbeza` | 1x | ✅ Ada | berbeza |
+| 70 | `bercuti` | 1x | ✅ Ada | bercuti |
+| 71 | `berdua` | 2x | ✅ Ada | berdua |
+| 72 | `berfikir` | 1x | ✅ Ada | berfikir |
+| 73 | `berharap` | 1x | ✅ Ada | berharap |
+| 74 | `berhubung` | 1x | ✅ Ada | berhubung |
+| 75 | `beritahu` | 4x | ✅ Ada | beritahu |
+| 76 | `berjoging` | 1x | ✅ Ada | berjoging |
+| 77 | `berkesan` | 1x | ✅ Ada | berkesan |
+| 78 | `berkhemah` | 1x | ✅ Ada | berkhemah |
+| 79 | `berkonsepkan` | 1x | ✅ Ada | berkonsepkan |
+| 80 | `berlari` | 5x | ✅ Ada | berlari |
+| 81 | `berlatih` | 1x | ✅ Ada | berlatih |
+| 82 | `bersaiz` | 1x | ✅ Ada | bersaiz |
+| 83 | `bersama` | 2x | ✅ Ada | bersama |
+| 84 | `besar` | 11x | ✅ Ada | besar |
+| 85 | `betul` | 16x | ✅ Ada | betul |
+| 86 | `biar` | 15x | ✅ Ada | biar |
+| 87 | `biasa` | 2x | ✅ Ada | biasa |
+| 88 | `biasanya` | 2x | ✅ Ada | biasanya |
+| 89 | `bila` | 7x | ✅ Ada | bila |
+| 90 | `bilah` | 3x | ✅ Ada | bilah |
+| 91 | `bilahnya` | 1x | ✅ Ada | bilahnya |
+| 92 | `bina` | 1x | ✅ Ada | bina |
+| 93 | `bladder` | 1x | ✅ Ada | pundi kencing |
+| 94 | `blink` | 1x | ✅ Ada | kejap |
+| 95 | `blocking` | 1x | ✅ Ada | menghalang / menyekat |
+| 96 | `blok` | 2x | ✅ Ada | blok |
+| 97 | `bocorkan` | 1x | ✅ Ada | bocorkan |
+| 98 | `bokeh` | 1x | ✅ Ada | bokeh |
+| 99 | `boleh` | 46x | ✅ Ada | boleh |
+| 100 | `bolehlah` | 1x | ✅ Ada | bolehlah |
+| 101 | `buah` | 2x | ✅ Ada | buah |
+| 102 | `buat` | 4x | ✅ Ada | buat |
+| 103 | `buka` | 33x | ✅ Ada | buka |
+| 104 | `bukan` | 12x | ✅ Ada | bukan |
+| 105 | `bukannya` | 1x | ✅ Ada | bukannya |
+| 106 | `buku` | 3x | ✅ Ada | buku |
+| 107 | `bulan` | 2x | ✅ Ada | bulan |
+| 108 | `bungkusan` | 34x | ✅ Ada | bungkusan |
+| 109 | `bunyi` | 1x | ✅ Ada | bunyi |
+| 110 | `bunyikan` | 2x | ✅ Ada | bunyikan |
+| 111 | `butang` | 2x | ✅ Ada | butang |
+| 112 | `camping` | 1x | ✅ Ada | perkhemahan |
+| 113 | `cangkuk` | 1x | ✅ Ada | cangkuk |
+| 114 | `cangkukkan` | 1x | ✅ Ada | cangkukkan |
+| 115 | `cantik` | 1x | ✅ Ada | cantik |
+| 116 | `cantiknya` | 3x | ✅ Ada | cantiknya |
+| 117 | `carry` | 1x | ✅ Ada | membawa |
+| 118 | `cas` | 1x | ✅ Ada | cas |
+| 119 | `case` | 1x | ✅ Ada | kes |
+| 120 | `cengkerang` | 1x | ✅ Ada | cengkerang |
+| 121 | `cepat` | 1x | ✅ Ada | cepat |
+| 122 | `cepatnya` | 1x | ✅ Ada | cepatnya |
+| 123 | `cergas` | 2x | ✅ Ada | cergas |
+| 124 | `chairs` | 1x | ✅ Ada | kerusi-kerusi |
+| 125 | `checked` | 1x | ✅ Ada | diperiksa |
+| 126 | `china` | 1x | ✅ Ada | cina |
+| 127 | `ciri` | 2x | ✅ Ada | ciri |
+| 128 | `cita` | 1x | ✅ Ada | cita |
+| 129 | `clamshell` | 1x | ✅ Ada | kulit kerang |
+| 130 | `coklat` | 1x | ✅ Ada | coklat |
+| 131 | `com` | 1x | ✅ Ada | domain .com |
+| 132 | `comprehensible` | 2x | ✅ Ada | mudah difahami |
+| 133 | `cot` | 1x | ✅ Ada | katil bayi |
+| 134 | `couch` | 1x | ✅ Ada | sofa / kerusi rehat |
+| 135 | `cuba` | 6x | ✅ Ada | cuba |
+| 136 | `cucuk` | 1x | ✅ Ada | cucuk |
+| 137 | `cuma` | 7x | ✅ Ada | cuma |
+| 138 | `daftar` | 1x | ✅ Ada | daftar |
+| 139 | `dah` | 9x | ✅ Ada | dah |
+| 140 | `dalam` | 21x | ✅ Ada | dalam |
+| 141 | `dalamnya` | 1x | ✅ Ada | dalam |
+| 142 | `dan` | 68x | ✅ Ada | dan |
+| 143 | `dapat` | 6x | ✅ Ada | dapat |
+| 144 | `dapatkan` | 2x | ✅ Ada | dapatkan |
+| 145 | `dari` | 4x | ✅ Ada | dari |
+| 146 | `daripada` | 9x | ✅ Ada | daripada |
+| 147 | `datang` | 4x | ✅ Ada | datang |
+| 148 | `demi` | 1x | ✅ Ada | demi |
+| 149 | `dengan` | 6x | ✅ Ada | dengan |
+| 150 | `di` | 4x | ✅ Ada | di |
+| 151 | `dia` | 10x | ✅ Ada | dia |
+| 152 | `dibaca` | 1x | ✅ Ada | dibaca |
+| 153 | `dibawa` | 2x | ✅ Ada | dibawa |
+| 154 | `dibungkus` | 1x | ✅ Ada | dibungkus |
+| 155 | `diduduki` | 1x | ✅ Ada | diduduki |
+| 156 | `diguna` | 2x | ✅ Ada | diguna |
+| 157 | `digunakan` | 5x | ✅ Ada | digunakan |
+| 158 | `dikelilingi` | 4x | ✅ Ada | dikelilingi |
+| 159 | `diletak` | 1x | ✅ Ada | diletak |
+| 160 | `dinaik` | 2x | ✅ Ada | dinaik |
+| 161 | `diorang` | 4x | ✅ Ada | diorang |
+| 162 | `direka` | 2x | ✅ Ada | direka |
+| 163 | `dirompak` | 1x | ✅ Ada | dirompak |
+| 164 | `ditutup` | 1x | ✅ Ada | ditutup |
+| 165 | `diubah` | 1x | ✅ Ada | diubah |
+| 166 | `dm` | 1x | ✅ Ada | dm |
+| 167 | `dolar` | 2x | ✅ Ada | dolar |
+| 168 | `dua` | 12x | ✅ Ada | dua |
+| 169 | `duduk` | 4x | ✅ Ada | duduk |
+| 170 | `dulu` | 5x | ✅ Ada | dulu |
+| 171 | `edit` | 1x | ✅ Ada | edit |
+| 172 | `eh` | 5x | ✅ Ada | eh |
+| 173 | `ekonomi` | 2x | ✅ Ada | ekonomi |
+| 174 | `elektronik` | 1x | ✅ Ada | elektronik |
+| 175 | `empat` | 1x | ✅ Ada | empat |
+| 176 | `entahlah` | 3x | ✅ Ada | entahlah |
+| 177 | `faham` | 3x | ✅ Ada | faham |
+| 178 | `fasih` | 2x | ✅ Ada | fasih |
+| 179 | `filipina` | 1x | ✅ Ada | filipina |
+| 180 | `fluent` | 1x | ✅ Ada | lancar / fasih |
+| 181 | `fokus` | 1x | ✅ Ada | fokus |
+| 182 | `for` | 1x | ✅ Ada | untuk / bagi |
+| 183 | `format` | 3x | ✅ Ada | format |
+| 184 | `fungsi` | 1x | ✅ Ada | fungsi |
+| 185 | `galas` | 13x | ✅ Ada | galas |
+| 186 | `gambar` | 1x | ✅ Ada | gambar |
+| 187 | `ganda` | 1x | ✅ Ada | ganda |
+| 188 | `gantung` | 1x | ✅ Ada | gantung |
+| 189 | `gaya` | 1x | ✅ Ada | gaya |
+| 190 | `gelongsor` | 1x | ✅ Ada | gelongsor |
+| 191 | `gmail` | 1x | ✅ Ada | gmail |
+| 192 | `guna` | 11x | ✅ Ada | guna |
+| 193 | `gurau` | 1x | ✅ Ada | gurau |
+| 194 | `haa` | 2x | ✅ Ada | haa |
+| 195 | `haah` | 5x | ✅ Ada | haah |
+| 196 | `habis` | 2x | ✅ Ada | habis |
+| 197 | `hadiah` | 3x | ✅ Ada | hadiah |
+| 198 | `hadiahkan` | 2x | ✅ Ada | hadiahkan |
+| 199 | `haiwan` | 1x | ✅ Ada | haiwan |
+| 200 | `hantar` | 3x | ✅ Ada | hantaran |
+| 201 | `hantarkan` | 1x | ✅ Ada | hantarkan |
+| 202 | `harapnya` | 2x | ✅ Ada | harapnya |
+| 203 | `harga` | 1x | ✅ Ada | harga |
+| 204 | `hari` | 6x | ✅ Ada | hari |
+| 205 | `harian` | 3x | ✅ Ada | harian |
+| 206 | `hati` | 4x | ✅ Ada | hati |
+| 207 | `hebatnya` | 1x | ✅ Ada | hebatnya |
+| 208 | `hidup` | 1x | ✅ Ada | hidup |
+| 209 | `hingga` | 1x | ✅ Ada | hingga |
+| 210 | `hitam` | 2x | ✅ Ada | hitam |
+| 211 | `hubungi` | 2x | ✅ Ada | hubungi |
+| 212 | `hujung` | 1x | ✅ Ada | hujung |
+| 213 | `hulurkan` | 3x | ✅ Ada | hulurkan |
+| 214 | `hydration` | 1x | ✅ Ada | penghidratan |
+| 215 | `ia` | 7x | ✅ Ada | ia |
+| 216 | `iaitu` | 2x | ✅ Ada | iaitu |
+| 217 | `ialah` | 12x | ✅ Ada | ialah |
+| 218 | `ikut` | 1x | ✅ Ada | ikut |
+| 219 | `ikuti` | 1x | ✅ Ada | ikuti |
+| 220 | `indonesia` | 1x | ✅ Ada | indonesia |
+| 221 | `ingat` | 3x | ✅ Ada | ingat |
+| 222 | `ingatkan` | 1x | ✅ Ada | ingatkan |
+| 223 | `inggeris` | 12x | ✅ Ada | inggeris |
+| 224 | `ini` | 76x | ✅ Ada | ini |
+| 225 | `inilah` | 2x | ✅ Ada | inilah |
+| 226 | `input` | 2x | ✅ Ada | input / masukan |
+| 227 | `instagram` | 1x | ✅ Ada | instagram |
+| 228 | `isi` | 2x | ✅ Ada | isi |
+| 229 | `isinya` | 1x | ✅ Ada | isinya |
+| 230 | `istimewa` | 2x | ✅ Ada | istimewa |
+| 231 | `istimewanya` | 1x | ✅ Ada | istimewanya |
+| 232 | `itu` | 5x | ✅ Ada | itu |
+| 233 | `jadi` | 42x | ✅ Ada | jadi |
+| 234 | `jadikan` | 2x | ✅ Ada | jadikan |
+| 235 | `jadual` | 5x | ✅ Ada | jadual |
+| 236 | `jadualkan` | 1x | ✅ Ada | jadualkan |
+| 237 | `jaga` | 1x | ✅ Ada | jaga |
+| 238 | `jaket` | 9x | ✅ Ada | jaket |
+| 239 | `jam` | 2x | ✅ Ada | jem |
+| 240 | `jangan` | 6x | ✅ Ada | jangan |
+| 241 | `jari` | 1x | ✅ Ada | jari |
+| 242 | `jatuh` | 1x | ✅ Ada | jatuh |
+| 243 | `jauh` | 5x | ✅ Ada | jauh |
+| 244 | `je` | 10x | ✅ Ada | je |
+| 245 | `jelas` | 1x | ✅ Ada | jelas |
+| 246 | `jenis` | 2x | ✅ Ada | jenis |
+| 247 | `jepun` | 1x | ✅ Ada | jepun |
+| 248 | `jingga` | 2x | ✅ Ada | jingga |
+| 249 | `jinjing` | 2x | ✅ Ada | jinjing |
+| 250 | `jom` | 16x | ✅ Ada | jom |
+| 251 | `jualan` | 1x | ✅ Ada | jualan |
+| 252 | `juga` | 5x | ✅ Ada | juga |
+| 253 | `jumpa` | 3x | ✅ Ada | jumpa |
+| 254 | `kabin` | 4x | ✅ Ada | kabin |
+| 255 | `kabur` | 1x | ✅ Ada | kabur |
+| 256 | `kaedah` | 3x | ✅ Ada | kaedah |
+| 257 | `kaki` | 2x | ✅ Ada | kaki |
+| 258 | `kalau` | 10x | ✅ Ada | kalau |
+| 259 | `kalendar` | 2x | ✅ Ada | kalendar |
+| 260 | `kali` | 3x | ✅ Ada | kali |
+| 261 | `kalis` | 2x | ✅ Ada | kalis |
+| 262 | `kamera` | 24x | ✅ Ada | kamera |
+| 263 | `kami` | 1x | ✅ Ada | kami |
+| 264 | `kamu` | 20x | ✅ Ada | kamu |
+| 265 | `kan` | 3x | ✅ Ada | kan |
+| 266 | `kapal` | 1x | ✅ Ada | kapal |
+| 267 | `karat` | 4x | ✅ Ada | karat |
+| 268 | `kargo` | 1x | ✅ Ada | kargo |
+| 269 | `kasih` | 4x | ✅ Ada | kasih |
+| 270 | `kasut` | 1x | ✅ Ada | kasut |
+| 271 | `kat` | 48x | ✅ Ada | kat |
+| 272 | `kata` | 3x | ✅ Ada | kata |
+| 273 | `katil` | 1x | ✅ Ada | katil |
+| 274 | `kau` | 2x | ✅ Ada | kau |
+| 275 | `kawalan` | 2x | ✅ Ada | kawalan |
+| 276 | `kawan` | 19x | ✅ Ada | kawan |
+| 277 | `ke` | 32x | ✅ Ada | ke |
+| 278 | `kecil` | 7x | ✅ Ada | kecil |
+| 279 | `kedap` | 1x | ✅ Ada | kedap |
+| 280 | `kedua` | 2x | ✅ Ada | kedua |
+| 281 | `kefahaman` | 1x | ✅ Ada | kefahaman |
+| 282 | `kegemaran` | 3x | ✅ Ada | kegemaran |
+| 283 | `kegunaan` | 1x | ✅ Ada | kegunaan |
+| 284 | `kejadian` | 1x | ✅ Ada | kejadian |
+| 285 | `kejutan` | 3x | ✅ Ada | kejutan |
+| 286 | `kekal` | 1x | ✅ Ada | kekal |
+| 287 | `kelab` | 1x | ✅ Ada | kelab |
+| 288 | `kelapangan` | 1x | ✅ Ada | kelapangan |
+| 289 | `kelas` | 6x | ✅ Ada | kelas |
+| 290 | `kelengkapan` | 1x | ✅ Ada | kelengkapan |
+| 291 | `keliling` | 1x | ✅ Ada | keliling |
+| 292 | `keluar` | 1x | ✅ Ada | keluar |
+| 293 | `keluarkan` | 3x | ✅ Ada | keluarkan |
+| 294 | `keluli` | 4x | ✅ Ada | keluli |
+| 295 | `kemahiran` | 1x | ✅ Ada | kemahiran |
+| 296 | `kemas` | 2x | ✅ Ada | kemas |
+| 297 | `kembalikan` | 1x | ✅ Ada | kembalikan |
+| 298 | `kembara` | 1x | ✅ Ada | kembara |
+| 299 | `kena` | 5x | ✅ Ada | kena |
+| 300 | `kenapa` | 5x | ✅ Ada | kenapa |
+| 301 | `kepada` | 3x | ✅ Ada | kepada |
+| 302 | `kerana` | 3x | ✅ Ada | kerana |
+| 303 | `kerang` | 1x | ✅ Ada | kerang |
+| 304 | `kerap` | 4x | ✅ Ada | kerap |
+| 305 | `kerja` | 5x | ✅ Ada | kerja |
+| 306 | `kertas` | 1x | ✅ Ada | kertas |
+| 307 | `kerusi` | 5x | ✅ Ada | kerusi |
+| 308 | `kes` | 1x | ✅ Ada | kes |
+| 309 | `kesan` | 2x | ✅ Ada | kesan |
+| 310 | `keselamatan` | 8x | ✅ Ada | keselamatan |
+| 311 | `keselesaan` | 1x | ✅ Ada | keselesaan |
+| 312 | `ketepi` | 1x | ✅ Ada | ketepi |
+| 313 | `khas` | 3x | ✅ Ada | khas |
+| 314 | `khemah` | 6x | ✅ Ada | khemah |
+| 315 | `khususnya` | 1x | ✅ Ada | khususnya |
+| 316 | `kira` | 1x | ✅ Ada | kira |
+| 317 | `kiraan` | 1x | ✅ Ada | kiraan |
+| 318 | `kita` | 47x | ✅ Ada | kita |
+| 319 | `kitar` | 1x | ✅ Ada | kitar |
+| 320 | `kiub` | 1x | ✅ Ada | kiub |
+| 321 | `kod` | 1x | ✅ Ada | kod |
+| 322 | `komen` | 4x | ✅ Ada | komen |
+| 323 | `komponen` | 1x | ✅ Ada | komponen |
+| 324 | `komputer` | 3x | ✅ Ada | komputer |
+| 325 | `korang` | 72x | ✅ Ada | korang |
+| 326 | `korea` | 4x | ✅ Ada | korea |
+| 327 | `kosong` | 1x | ✅ Ada | kosong |
+| 328 | `kotak` | 35x | ✅ Ada | kotak |
+| 329 | `koyak` | 3x | ✅ Ada | koyak |
+| 330 | `koyakkan` | 2x | ✅ Ada | koyakkan |
+| 331 | `krismas` | 5x | ✅ Ada | krismas |
+| 332 | `kuasa` | 4x | ✅ Ada | kuasa |
+| 333 | `kumpulkan` | 1x | ✅ Ada | kumpulkan |
+| 334 | `kunci` | 2x | ✅ Ada | kunci |
+| 335 | `kurang` | 1x | ✅ Ada | kurang |
+| 336 | `label` | 3x | ✅ Ada | label |
+| 337 | `lagi` | 16x | ✅ Ada | lagi |
+| 338 | `lain` | 4x | ✅ Ada | lain |
+| 339 | `laju` | 2x | ✅ Ada | laju |
+| 340 | `lama` | 5x | ✅ Ada | lama |
+| 341 | `laman` | 1x | ✅ Ada | laman |
+| 342 | `lampu` | 14x | ✅ Ada | lampu |
+| 343 | `langkah` | 1x | ✅ Ada | langkah |
+| 344 | `lantai` | 1x | ✅ Ada | lantai |
+| 345 | `larat` | 1x | ✅ Ada | larat |
+| 346 | `lari` | 1x | ✅ Ada | lari |
+| 347 | `larian` | 9x | ✅ Ada | larian |
+| 348 | `latih` | 1x | ✅ Ada | latih |
+| 349 | `lawati` | 1x | ✅ Ada | lawati |
+| 350 | `layari` | 1x | ✅ Ada | layari |
+| 351 | `lebih` | 15x | ✅ Ada | lebih |
+| 352 | `leher` | 5x | ✅ Ada | leher |
+| 353 | `lekatkan` | 2x | ✅ Ada | lekatkan |
+| 354 | `lembut` | 1x | ✅ Ada | lembut |
+| 355 | `leon` | 7x | ✅ Ada | leon |
+| 356 | `lepas` | 7x | ✅ Ada | lepas |
+| 357 | `letak` | 5x | ✅ Ada | letak |
+| 358 | `life` | 1x | ✅ Ada | kehidupan |
+| 359 | `lima` | 2x | ✅ Ada | lima |
+| 360 | `lipat` | 2x | ✅ Ada | lipat |
+| 361 | `litar` | 1x | ✅ Ada | litar |
+| 362 | `liter` | 5x | ✅ Ada | liter |
+| 363 | `loceng` | 8x | ✅ Ada | loceng |
+| 364 | `loghat` | 1x | ✅ Ada | loghat |
+| 365 | `luangkan` | 2x | ✅ Ada | luangkan |
+| 366 | `luar` | 1x | ✅ Ada | luar |
+| 367 | `luggage` | 1x | ✅ Ada | bagasi |
+| 368 | `lupa` | 2x | ✅ Ada | lupa |
+| 369 | `macam` | 25x | ✅ Ada | macam |
+| 370 | `mak` | 51x | ✅ Ada | mak |
+| 371 | `makan` | 1x | ✅ Ada | makan |
+| 372 | `maklum` | 2x | ✅ Ada | maklum |
+| 373 | `maklumat` | 1x | ✅ Ada | maklumat |
+| 374 | `maksudnya` | 4x | ✅ Ada | maksudnya |
+| 375 | `malam` | 1x | ✅ Ada | malam |
+| 376 | `malaysia` | 1x | ✅ Ada | malaysia |
+| 377 | `mana` | 10x | ✅ Ada | mana |
+| 378 | `mangga` | 1x | ✅ Ada | mangga |
+| 379 | `masa` | 9x | ✅ Ada | masa |
+| 380 | `masih` | 1x | ✅ Ada | masih |
+| 381 | `masuk` | 5x | ✅ Ada | masuk |
+| 382 | `masukkan` | 3x | ✅ Ada | masukkan |
+| 383 | `mata` | 1x | ✅ Ada | mata |
+| 384 | `melalui` | 1x | ✅ Ada | melalui |
+| 385 | `melancong` | 2x | ✅ Ada | melancong |
+| 386 | `melindungi` | 2x | ✅ Ada | melindungi |
+| 387 | `memandangkan` | 1x | ✅ Ada | memandangkan |
+| 388 | `memang` | 17x | ✅ Ada | memang |
+| 389 | `memastikan` | 1x | ✅ Ada | memastikan |
+| 390 | `membantu` | 1x | ✅ Ada | membantu |
+| 391 | `memberi` | 1x | ✅ Ada | memberi |
+| 392 | `memulangkan` | 1x | ✅ Ada | memulakan |
+| 393 | `menaja` | 1x | ✅ Ada | menaja |
+| 394 | `menarik` | 1x | ✅ Ada | menarik |
+| 395 | `mendaki` | 1x | ✅ Ada | mendaki |
+| 396 | `mendengar` | 1x | ✅ Ada | mendengar |
+| 397 | `menghala` | 2x | ✅ Ada | menghala |
+| 398 | `mengikut` | 1x | ✅ Ada | mengikut |
+| 399 | `menonton` | 1x | ✅ Ada | menonton |
+| 400 | `menutup` | 1x | ✅ Ada | menutup |
+| 401 | `mesej` | 1x | ✅ Ada | mesej |
+| 402 | `mestilah` | 1x | ✅ Ada | mestilah |
+| 403 | `mhm` | 2x | ✅ Ada | mhm |
+| 404 | `mikrofon` | 4x | ✅ Ada | mikrofon |
+| 405 | `minggu` | 1x | ✅ Ada | minggu |
+| 406 | `minit` | 1x | ✅ Ada | minit |
+| 407 | `minta` | 1x | ✅ Ada | minta |
+| 408 | `minum` | 2x | ✅ Ada | minum |
+| 409 | `model` | 1x | ✅ Ada | model |
+| 410 | `momentum` | 1x | ✅ Ada | momentum |
+| 411 | `motivasi` | 1x | ✅ Ada | motivasi |
+| 412 | `mouse` | 1x | ✅ Ada | tetikus |
+| 413 | `muat` | 3x | ✅ Ada | muat |
+| 414 | `mudah` | 9x | ✅ Ada | mudah |
+| 415 | `muka` | 1x | ✅ Ada | muka |
+| 416 | `mula` | 3x | ✅ Ada | mula |
+| 417 | `mulakan` | 4x | ✅ Ada | mulakan |
+| 418 | `mungkin` | 2x | ✅ Ada | mungkin |
+| 419 | `murah` | 1x | ✅ Ada | murah |
+| 420 | `nah` | 1x | ✅ Ada | nah |
+| 421 | `naik` | 3x | ✅ Ada | naik |
+| 422 | `nak` | 42x | ✅ Ada | nak |
+| 423 | `nama` | 2x | ✅ Ada | nama |
+| 424 | `nampak` | 14x | ✅ Ada | nampak |
+| 425 | `nanti` | 12x | ✅ Ada | nanti |
+| 426 | `nantikan` | 1x | ✅ Ada | nantikan |
+| 427 | `neck` | 1x | ✅ Ada | leher |
+| 428 | `negara` | 3x | ✅ Ada | negara |
+| 429 | `ni` | 126x | ✅ Ada | ni |
+| 430 | `nipis` | 2x | ✅ Ada | nipis |
+| 431 | `notion` | 1x | ✅ Ada | tanggapan |
+| 432 | `november` | 1x | ✅ Ada | november |
+| 433 | `oh` | 9x | ✅ Ada | oh |
+| 434 | `okey` | 21x | ✅ Ada | okey |
+| 435 | `on` | 1x | ✅ Ada | hidup / atas |
+| 436 | `orang` | 11x | ✅ Ada | orang |
+| 437 | `oren` | 5x | ✅ Ada | oren |
+| 438 | `pada` | 6x | ✅ Ada | pada |
+| 439 | `padamkan` | 1x | ✅ Ada | padamkan |
+| 440 | `pagi` | 6x | ✅ Ada | pagi |
+| 441 | `pakaian` | 4x | ✅ Ada | pakaian |
+| 442 | `palam` | 1x | ✅ Ada | palam |
+| 443 | `paling` | 9x | ✅ Ada | paling |
+| 444 | `panas` | 2x | ✅ Ada | panas |
+| 445 | `pandai` | 1x | ✅ Ada | pandai |
+| 446 | `pandangan` | 1x | ✅ Ada | pandangan |
+| 447 | `panduan` | 1x | ✅ Ada | panduan |
+| 448 | `panggil` | 3x | ✅ Ada | panggil |
+| 449 | `panjang` | 1x | ✅ Ada | panjang |
+| 450 | `pantas` | 2x | ✅ Ada | pantas |
+| 451 | `pantau` | 1x | ✅ Ada | pantau |
+| 452 | `parcel` | 4x | ✅ Ada | bungkusan |
+| 453 | `pasang` | 7x | ✅ Ada | pasang |
+| 454 | `pasangkan` | 1x | ✅ Ada | pasangkan |
+| 455 | `pasti` | 2x | ✅ Ada | pasti |
+| 456 | `pastikan` | 5x | ✅ Ada | pastikan |
+| 457 | `patut` | 1x | ✅ Ada | patut |
+| 458 | `pautan` | 1x | ✅ Ada | pautan |
+| 459 | `pautannya` | 2x | ✅ Ada | pautannya |
+| 460 | `payah` | 3x | ✅ Ada | payah |
+| 461 | `pegang` | 4x | ✅ Ada | pegang |
+| 462 | `pejabat` | 1x | ✅ Ada | pejabat |
+| 463 | `pelari` | 1x | ✅ Ada | pelari |
+| 464 | `pelbagai` | 1x | ✅ Ada | pelbagai |
+| 465 | `pelekat` | 9x | ✅ Ada | pelekat |
+| 466 | `pelindung` | 1x | ✅ Ada | pelindung |
+| 467 | `pembelajaran` | 1x | ✅ Ada | pembelajaran |
+| 468 | `pemberat` | 1x | ✅ Ada | pemberat |
+| 469 | `pemblokiran` | 1x | ✅ Ada | menghalangan |
+| 470 | `pembungkus` | 1x | ✅ Ada | pembungkus |
+| 471 | `pembungkusan` | 2x | ✅ Ada | pembungkusan |
+| 472 | `pemegang` | 4x | ✅ Ada | pemegang |
+| 473 | `penaja` | 2x | ✅ Ada | penaja |
+| 474 | `pendek` | 1x | ✅ Ada | pendek |
+| 475 | `penerangan` | 4x | ✅ Ada | penerangan |
+| 476 | `penerbangan` | 1x | ✅ Ada | penerbangan |
+| 477 | `pengecas` | 6x | ✅ Ada | pengecas |
+| 478 | `pengembaraan` | 1x | ✅ Ada | pengembaraan |
+| 479 | `pengenalan` | 1x | ✅ Ada | pengenalan |
+| 480 | `penghantaran` | 2x | ✅ Ada | penghantaran |
+| 481 | `penonton` | 2x | ✅ Ada | penonton |
+| 482 | `penting` | 3x | ✅ Ada | penting |
+| 483 | `penutup` | 1x | ✅ Ada | penutup |
+| 484 | `penyedut` | 1x | ✅ Ada | penyedut |
+| 485 | `penyesuaian` | 1x | ✅ Ada | penyesuaian |
+| 486 | `peralatan` | 3x | ✅ Ada | peralatan |
+| 487 | `peranti` | 2x | ✅ Ada | peranti |
+| 488 | `peraturan` | 1x | ✅ Ada | peraturan |
+| 489 | `percuma` | 4x | ✅ Ada | percuma |
+| 490 | `pergi` | 4x | ✅ Ada | pergi |
+| 491 | `peribadi` | 2x | ✅ Ada | peribadi |
+| 492 | `periksa` | 1x | ✅ Ada | periksa |
+| 493 | `perjalanan` | 1x | ✅ Ada | perjalanan |
+| 494 | `perkakas` | 2x | ✅ Ada | perkakas |
+| 495 | `perkara` | 1x | ✅ Ada | perkara |
+| 496 | `perkataan` | 5x | ✅ Ada | perkataan |
+| 497 | `perkhemahan` | 2x | ✅ Ada | perkhemahan |
+| 498 | `perlu` | 6x | ✅ Ada | perlu |
+| 499 | `perlukan` | 6x | ✅ Ada | perlukan |
+| 500 | `perlukannya` | 1x | ✅ Ada | perlukannya |
+| 501 | `perniagaan` | 1x | ✅ Ada | perniagaan |
+| 502 | `pertama` | 6x | ✅ Ada | pertama |
+| 503 | `pertuturan` | 1x | ✅ Ada | pertuturan |
+| 504 | `pesan` | 3x | ✅ Ada | pesan |
+| 505 | `peti` | 1x | ✅ Ada | peti |
+| 506 | `phone` | 1x | ✅ Ada | telefon |
+| 507 | `pillow` | 1x | ✅ Ada | bantal |
+| 508 | `pintu` | 6x | ✅ Ada | pintu |
+| 509 | `pisau` | 5x | ✅ Ada | pisau |
+| 510 | `pisaunya` | 2x | ✅ Ada | pisaunya |
+| 511 | `pita` | 9x | ✅ Ada | pita |
+| 512 | `plastik` | 3x | ✅ Ada | plastik |
+| 513 | `poket` | 1x | ✅ Ada | poket |
+| 514 | `poskan` | 1x | ✅ Ada | poskan |
+| 515 | `potong` | 8x | ✅ Ada | potong |
+| 516 | `power` | 1x | ✅ Ada | kuasa / elektrik |
+| 517 | `praktikal` | 1x | ✅ Ada | praktikal |
+| 518 | `prime` | 1x | ✅ Ada | perdana |
+| 519 | `produktiviti` | 1x | ✅ Ada | produktiviti |
+| 520 | `program` | 1x | ✅ Ada | program |
+| 521 | `projek` | 1x | ✅ Ada | projek |
+| 522 | `pula` | 17x | ✅ Ada | pula |
+| 523 | `pulangkan` | 2x | ✅ Ada | pulangkan |
+| 524 | `pun` | 2x | ✅ Ada | pun |
+| 525 | `punca` | 1x | ✅ Ada | punca |
+| 526 | `pundi` | 3x | ✅ Ada | pundi |
+| 527 | `punya` | 5x | ✅ Ada | punya |
+| 528 | `putus` | 1x | ✅ Ada | putus |
+| 529 | `rahsia` | 2x | ✅ Ada | rahsia |
+| 530 | `ramai` | 1x | ✅ Ada | ramai |
+| 531 | `rancang` | 1x | ✅ Ada | rancang |
+| 532 | `rapat` | 2x | ✅ Ada | rapat |
+| 533 | `rasa` | 19x | ✅ Ada | rasa |
+| 534 | `rasanya` | 6x | ✅ Ada | rasanya |
+| 535 | `ratusan` | 1x | ✅ Ada | ratus |
+| 536 | `realistik` | 1x | ✅ Ada | realistik |
+| 537 | `remote` | 1x | ✅ Ada | alat kawalan jauh (remote) |
+| 538 | `return` | 1x | ✅ Ada | kembali |
+| 539 | `riba` | 1x | ✅ Ada | riba |
+| 540 | `ribu` | 1x | ✅ Ada | ribu |
+| 541 | `ringan` | 2x | ✅ Ada | ringan |
+| 542 | `ringkas` | 1x | ✅ Ada | ringkas |
+| 543 | `risau` | 1x | ✅ Ada | risau |
+| 544 | `rompak` | 1x | ✅ Ada | rompak |
+| 545 | `ruangan` | 3x | ✅ Ada | ruangan |
+| 546 | `rumah` | 6x | ✅ Ada | rumah |
+| 547 | `running` | 1x | ✅ Ada | sedang mengalir / berlari |
+| 548 | `rupa` | 3x | ✅ Ada | rupa |
+| 549 | `rutin` | 2x | ✅ Ada | rutin |
+| 550 | `sah` | 2x | ✅ Ada | sah |
+| 551 | `saiz` | 3x | ✅ Ada | saiz |
+| 552 | `salah` | 1x | ✅ Ada | solat |
+| 553 | `saluran` | 2x | ✅ Ada | saluran |
+| 554 | `sama` | 3x | ✅ Ada | sama |
+| 555 | `sambil` | 1x | ✅ Ada | sambil |
+| 556 | `sambung` | 1x | ✅ Ada | sambung |
+| 557 | `sampai` | 7x | ✅ Ada | sampai |
+| 558 | `sana` | 1x | ✅ Ada | sana |
+| 559 | `sangat` | 17x | ✅ Ada | sangat |
+| 560 | `sangatlah` | 1x | ✅ Ada | sangatlah |
+| 561 | `santai` | 2x | ✅ Ada | santai |
+| 562 | `sarung` | 4x | ✅ Ada | sarung |
+| 563 | `satu` | 22x | ✅ Ada | satu |
+| 564 | `sebab` | 22x | ✅ Ada | sebab |
+| 565 | `sebabnya` | 1x | ✅ Ada | sebabnya |
+| 566 | `sebahagian` | 3x | ✅ Ada | sebahagian |
+| 567 | `sebarang` | 1x | ✅ Ada | sebarang |
+| 568 | `sebelah` | 7x | ✅ Ada | sebelah |
+| 569 | `sebelum` | 4x | ✅ Ada | sebelum |
+| 570 | `sebenarnya` | 2x | ✅ Ada | sebenarnya |
+| 571 | `sebilah` | 1x | ✅ Ada | sebilah |
+| 572 | `sebuah` | 10x | ✅ Ada | sebuah |
+| 573 | `sebulan` | 1x | ✅ Ada | sebulan |
+| 574 | `sebutan` | 1x | ✅ Ada | sebutan |
+| 575 | `secara` | 5x | ✅ Ada | secara |
+| 576 | `sedap` | 1x | ✅ Ada | sedap |
+| 577 | `sedia` | 2x | ✅ Ada | sedia |
+| 578 | `sehingga` | 2x | ✅ Ada | sehingga |
+| 579 | `sejagat` | 1x | ✅ Ada | jagat |
+| 580 | `sejak` | 1x | ✅ Ada | sejak |
+| 581 | `sejam` | 1x | ✅ Ada | sejam |
+| 582 | `sejujurnya` | 1x | ✅ Ada | jujurnya |
+| 583 | `sekadar` | 2x | ✅ Ada | sekadar |
+| 584 | `sekali` | 6x | ✅ Ada | sekali |
+| 585 | `sekaligus` | 1x | ✅ Ada | sekaligus |
+| 586 | `sekarang` | 20x | ✅ Ada | sekarang |
+| 587 | `sekejap` | 2x | ✅ Ada | sekejap |
+| 588 | `selalu` | 1x | ✅ Ada | selalu |
+| 589 | `selalunya` | 2x | ✅ Ada | selalunya |
+| 590 | `selamat` | 2x | ✅ Ada | selamat |
+| 591 | `selebihnya` | 1x | ✅ Ada | lebihnya |
+| 592 | `selepas` | 1x | ✅ Ada | selepas |
+| 593 | `selesa` | 3x | ✅ Ada | selesa |
+| 594 | `semak` | 1x | ✅ Ada | semak |
+| 595 | `semasa` | 1x | ✅ Ada | semasa |
+| 596 | `semestinya` | 1x | ✅ Ada | semestinya |
+| 597 | `seminggu` | 2x | ✅ Ada | seminggu |
+| 598 | `sempat` | 1x | ✅ Ada | sempat |
+| 599 | `semua` | 14x | ✅ Ada | semua |
+| 600 | `semula` | 4x | ✅ Ada | semula |
+| 601 | `senang` | 2x | ✅ Ada | senang |
+| 602 | `senarai` | 2x | ✅ Ada | senarai |
+| 603 | `sendiri` | 7x | ✅ Ada | sendiri |
+| 604 | `sentiasa` | 1x | ✅ Ada | sentiasa |
+| 605 | `sentuh` | 1x | ✅ Ada | sentuh |
+| 606 | `seorang` | 1x | ✅ Ada | seorang |
+| 607 | `seperti` | 1x | ✅ Ada | seperti |
+| 608 | `seret` | 1x | ✅ Ada | seret |
+| 609 | `seronok` | 2x | ✅ Ada | seronok |
+| 610 | `sertai` | 2x | ✅ Ada | sertai |
+| 611 | `sesekali` | 1x | ✅ Ada | sesekali |
+| 612 | `sesi` | 2x | ✅ Ada | sesi |
+| 613 | `sesuatu` | 1x | ✅ Ada | sesuatu |
+| 614 | `setahun` | 1x | ✅ Ada | setahun |
+| 615 | `setakat` | 2x | ✅ Ada | setakat |
+| 616 | `seterusnya` | 4x | ✅ Ada | seterusnya |
+| 617 | `setiap` | 2x | ✅ Ada | setiap |
+| 618 | `siap` | 1x | ✅ Ada | siap |
+| 619 | `siapa` | 2x | ✅ Ada | siapa |
+| 620 | `sibuk` | 2x | ✅ Ada | sibuk |
+| 621 | `sikit` | 1x | ✅ Ada | sikit |
+| 622 | `simpan` | 1x | ✅ Ada | simpan |
+| 623 | `simpanan` | 1x | ✅ Ada | simpanan |
+| 624 | `sini` | 22x | ✅ Ada | sini |
+| 625 | `siri` | 1x | ✅ Ada | siri |
+| 626 | `situ` | 2x | ✅ Ada | situ |
+| 627 | `slack` | 1x | ✅ Ada | kendur |
+| 628 | `soalan` | 1x | ✅ Ada | soalan |
+| 629 | `sofa` | 3x | ✅ Ada | sofa / kerusi kusyen |
+| 630 | `softbox` | 1x | ✅ Ada | peti lembut |
+| 631 | `soket` | 1x | ✅ Ada | soket |
+| 632 | `sokongan` | 1x | ✅ Ada | sokongan |
+| 633 | `stainless` | 1x | ✅ Ada | tahan karat |
+| 634 | `stand` | 1x | ✅ Ada | berdiri |
+| 635 | `steel` | 1x | ✅ Ada | keluli |
+| 636 | `studio` | 2x | ✅ Ada | studio |
+| 637 | `suai` | 1x | ✅ Ada | suai |
+| 638 | `suasana` | 3x | ✅ Ada | suasana |
+| 639 | `sudi` | 1x | ✅ Ada | sudi |
+| 640 | `suitcase` | 2x | ✅ Ada | beg pakaian |
+| 641 | `suka` | 3x | ✅ Ada | suka |
+| 642 | `sungguh` | 2x | ✅ Ada | sungguh |
+| 643 | `sunting` | 1x | ✅ Ada | sunting |
+| 644 | `supaya` | 6x | ✅ Ada | supaya |
+| 645 | `susun` | 2x | ✅ Ada | susun |
+| 646 | `syarikat` | 2x | ✅ Ada | syarikat |
+| 647 | `tadi` | 5x | ✅ Ada | tadi |
+| 648 | `tahan` | 4x | ✅ Ada | tahan |
+| 649 | `tahu` | 10x | ✅ Ada | tahu |
+| 650 | `tajaan` | 1x | ✅ Ada | tajaan |
+| 651 | `tajam` | 1x | ✅ Ada | tajam |
+| 652 | `tak` | 37x | ✅ Ada | tak |
+| 653 | `tali` | 1x | ✅ Ada | tali |
+| 654 | `tanggalkan` | 1x | ✅ Ada | tanggalkan |
+| 655 | `tanya` | 3x | ✅ Ada | tanya |
+| 656 | `tape` | 1x | ✅ Ada | pita |
+| 657 | `tapi` | 12x | ✅ Ada | tapi |
+| 658 | `taraf` | 3x | ✅ Ada | taraf |
+| 659 | `tarik` | 1x | ✅ Ada | tarik |
+| 660 | `tegar` | 1x | ✅ Ada | tegar |
+| 661 | `teka` | 11x | ✅ Ada | teka |
+| 662 | `tekaan` | 4x | ✅ Ada | tekaan |
+| 663 | `tekan` | 2x | ✅ Ada | tekan |
+| 664 | `telefon` | 12x | ✅ Ada | telefon |
+| 665 | `tempat` | 2x | ✅ Ada | tempat |
+| 666 | `tengah` | 3x | ✅ Ada | tengah |
+| 667 | `tengok` | 9x | ✅ Ada | tengok |
+| 668 | `tengoklah` | 1x | ✅ Ada | tengoklah |
+| 669 | `tepi` | 3x | ✅ Ada | tepi |
+| 670 | `terabai` | 1x | ✅ Ada | terabai |
+| 671 | `terakhir` | 1x | ✅ Ada | terakhir |
+| 672 | `terang` | 3x | ✅ Ada | terang |
+| 673 | `terbaik` | 2x | ✅ Ada | terbaik |
+| 674 | `terbang` | 1x | ✅ Ada | terbang |
+| 675 | `terbuka` | 2x | ✅ Ada | terbuka |
+| 676 | `terhitung` | 1x | ✅ Ada | terhitung |
+| 677 | `terima` | 4x | ✅ Ada | terima |
+| 678 | `teringat` | 1x | ✅ Ada | teringat |
+| 679 | `teringin` | 1x | ✅ Ada | teringin |
+| 680 | `terkejut` | 1x | ✅ Ada | terkejut |
+| 681 | `terlalu` | 1x | ✅ Ada | terlalu |
+| 682 | `termasuk` | 1x | ✅ Ada | termasuk |
+| 683 | `terpaksa` | 1x | ✅ Ada | terpaksa |
+| 684 | `terpotong` | 1x | ✅ Ada | terpotong |
+| 685 | `tertanya` | 1x | ✅ Ada | tertanya |
+| 686 | `tertinggi` | 1x | ✅ Ada | tertinggi |
+| 687 | `tertulis` | 1x | ✅ Ada | tertulis |
+| 688 | `tertutup` | 4x | ✅ Ada | tertutup |
+| 689 | `teruja` | 1x | ✅ Ada | teruja |
+| 690 | `terus` | 9x | ✅ Ada | terus |
+| 691 | `teruskan` | 4x | ✅ Ada | teruskan |
+| 692 | `teruskanlah` | 1x | ✅ Ada | teruskanlah |
+| 693 | `tetapkan` | 1x | ✅ Ada | tetapkan |
+| 694 | `tetikus` | 4x | ✅ Ada | tetikus |
+| 695 | `thailand` | 1x | ✅ Ada | thailand |
+| 696 | `tiga` | 4x | ✅ Ada | tiga |
+| 697 | `tikus` | 1x | ✅ Ada | tikus |
+| 698 | `timbunan` | 7x | ✅ Ada | timbunan |
+| 699 | `time` | 1x | ✅ Ada | masa / waktu |
+| 700 | `ting` | 1x | ✅ Ada | ting |
+| 701 | `tinggal` | 3x | ✅ Ada | tinggal |
+| 702 | `tinggalkan` | 2x | ✅ Ada | tinggalkan |
+| 703 | `tiub` | 1x | ✅ Ada | tiub |
+| 704 | `todoist` | 1x | ✅ Ada | todoist |
+| 705 | `tolong` | 6x | ✅ Ada | tolong |
+| 706 | `tong` | 1x | ✅ Ada | tong |
+| 707 | `tonton` | 1x | ✅ Ada | tonton |
+| 708 | `tradisional` | 1x | ✅ Ada | tradisional |
+| 709 | `tu` | 38x | ✅ Ada | tu |
+| 710 | `tugasan` | 2x | ✅ Ada | tugasan |
+| 711 | `tulis` | 1x | ✅ Ada | tulis |
+| 712 | `tulisan` | 1x | ✅ Ada | tulisan |
+| 713 | `tunggu` | 1x | ✅ Ada | tunggu |
+| 714 | `tunjukkan` | 3x | ✅ Ada | tunjukkan |
+| 715 | `tutup` | 1x | ✅ Ada | tutup |
+| 716 | `unit` | 1x | ✅ Ada | unit |
+| 717 | `untuk` | 39x | ✅ Ada | untuk |
+| 718 | `urusan` | 1x | ✅ Ada | urusan |
+| 719 | `usik` | 1x | ✅ Ada | usik |
+| 720 | `vest` | 1x | ✅ Ada | jaket |
+| 721 | `video` | 18x | ✅ Ada | video |
+| 722 | `vietnam` | 1x | ✅ Ada | vietnam |
+| 723 | `vip` | 1x | ✅ Ada | vip |
+| 724 | `visual` | 1x | ✅ Ada | visual |
+| 725 | `vlog` | 1x | ✅ Ada | vlog video |
+| 726 | `vul` | 1x | ✅ Ada | vul |
+| 727 | `vulcaglish` | 1x | ✅ Ada | vulcaglish |
+| 728 | `vulcan` | 1x | ✅ Ada | gunung berapi |
+| 729 | `wah` | 5x | ✅ Ada | wah |
+| 730 | `waktu` | 1x | ✅ Ada | waktu |
+| 731 | `warna` | 8x | ✅ Ada | warna |
+| 732 | `wayar` | 3x | ✅ Ada | wayar |
+| 733 | `web` | 1x | ✅ Ada | web |
+| 734 | `ya` | 27x | ✅ Ada | ya |
+| 735 | `yang` | 97x | ✅ Ada | yang |
+| 736 | `youtube` | 1x | ✅ Ada | youtube |
 
 ---
+
+---
+
+### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 67 Frasa)
+Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam video ini yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*):
+
+| No | Frasa / Vocarb Ayat (English) | Kekerapan | Status Kamus | Maksud Konteks Frasa (Bahasa Melayu) |
+|:---:|:---|:---:|:---:|:---|
+| 1 | `yang ni` | 26x | ✅ Ada (`phraseDictionary`) | yang ni |
+| 2 | `kat sini` | 18x | ✅ Ada (`phraseDictionary`) | kat sini |
+| 3 | `korang boleh` | 18x | ✅ Ada (`phraseDictionary`) | korang boleh |
+| 4 | `aku nak` | 15x | ✅ Ada (`phraseDictionary`) | aku nak |
+| 5 | `apa benda` | 15x | ✅ Ada (`phraseDictionary`) | apa benda |
+| 6 | `barang ni` | 14x | ✅ Ada (`phraseDictionary`) | barang ni |
+| 7 | `beg galas` | 13x | ✅ Ada (`phraseDictionary`) | beg galas |
+| 8 | `biar aku` | 13x | ✅ Ada (`phraseDictionary`) | biar aku |
+| 9 | `yang ini` | 13x | ✅ Ada (`phraseDictionary`) | yang ini |
+| 10 | `bahasa inggeris` | 11x | ✅ Ada (`phraseDictionary`) | bahasa inggeris |
+| 11 | `kotak ni` | 11x | ✅ Ada (`phraseDictionary`) | kotak ni |
+| 12 | `benda ni` | 10x | ✅ Ada (`phraseDictionary`) | benda ni |
+| 13 | `jadi ini` | 9x | ✅ Ada (`phraseDictionary`) | jadi ini |
+| 14 | `jom kita` | 9x | ✅ Ada (`phraseDictionary`) | jom kita |
+| 15 | `boleh nampak` | 8x | ✅ Ada (`phraseDictionary`) | boleh nampak |
+| 16 | `ini adalah` | 8x | ✅ Ada (`phraseDictionary`) | ini adalah |
+| 17 | `jaket larian` | 8x | ✅ Ada (`phraseDictionary`) | jaket larian |
+| 18 | `pita pelekat` | 8x | ✅ Ada (`phraseDictionary`) | pita pelekat |
+| 19 | `sebab aku` | 8x | ✅ Ada (`phraseDictionary`) | sebab aku |
+| 20 | `yang aku` | 8x | ✅ Ada (`phraseDictionary`) | yang aku |
+| 21 | `ada kat` | 7x | ✅ Ada (`phraseDictionary`) | ada kat |
+| 22 | `barang mak` | 7x | ✅ Ada (`phraseDictionary`) | barang mak |
+| 23 | `benda tu` | 6x | ✅ Ada (`phraseDictionary`) | benda tu |
+| 24 | `dan aku` | 6x | ✅ Ada (`phraseDictionary`) | dan aku |
+| 25 | `jadi aku` | 6x | ✅ Ada (`phraseDictionary`) | jadi aku |
+| 26 | `dalam beg` | 5x | ✅ Ada (`phraseDictionary`) | dalam beg |
+| 27 | `dan yang` | 5x | ✅ Ada (`phraseDictionary`) | dan yang |
+| 28 | `lepas tu` | 5x | ✅ Ada (`phraseDictionary`) | lepas tu |
+| 29 | `mak nak` | 5x | ✅ Ada (`phraseDictionary`) | mak nak |
+| 30 | `sekarang aku` | 5x | ✅ Ada (`phraseDictionary`) | sekarang aku |
+| 31 | `aku ada` | 4x | ✅ Ada (`phraseDictionary`) | aku ada |
+| 32 | `aku tak` | 4x | ✅ Ada (`phraseDictionary`) | aku tak |
+| 33 | `apa yang` | 4x | ✅ Ada (`phraseDictionary`) | apa yang |
+| 34 | `kalau korang` | 4x | ✅ Ada (`phraseDictionary`) | kalau korang |
+| 35 | `korang nak` | 4x | ✅ Ada (`phraseDictionary`) | korang nak |
+| 36 | `macam ni` | 4x | ✅ Ada (`phraseDictionary`) | macam ni |
+| 37 | `ni pula` | 4x | ✅ Ada (`phraseDictionary`) | ni pula |
+| 38 | `rasa macam` | 4x | ✅ Ada (`phraseDictionary`) | rasa macam |
+| 39 | `yang kat` | 4x | ✅ Ada (`phraseDictionary`) | yang kat |
+| 40 | `beg pakaian` | 3x | ✅ Ada (`phraseDictionary`) | beg pakaian |
+| 41 | `kat bahagian` | 3x | ✅ Ada (`phraseDictionary`) | kat bahagian |
+| 42 | `ya betul` | 3x | ✅ Ada (`phraseDictionary`) | ya betul |
+| 43 | `aku rasa` | 2x | ✅ Ada (`phraseDictionary`) | aku rasa |
+| 44 | `comprehensible input` | 2x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
+| 45 | `dan ini` | 2x | ✅ Ada (`phraseDictionary`) | dan ini |
+| 46 | `hari krismas` | 2x | ✅ Ada (`phraseDictionary`) | hari krismas |
+| 47 | `kita nak` | 2x | ✅ Ada (`phraseDictionary`) | kita nak |
+| 48 | `kita orang` | 2x | ✅ Ada (`phraseDictionary`) | kita orang |
+| 49 | `semua ni` | 2x | ✅ Ada (`phraseDictionary`) | semua ni |
+| 50 | `semula jadi` | 2x | ✅ Ada (`phraseDictionary`) | semula jadi |
+| 51 | `sini ada` | 2x | ✅ Ada (`phraseDictionary`) | sini ada |
+| 52 | `tak ada` | 2x | ✅ Ada (`phraseDictionary`) | tak ada |
+| 53 | `aku kat` | 1x | ✅ Ada (`phraseDictionary`) | aku kat |
+| 54 | `aku kena` | 1x | ✅ Ada (`phraseDictionary`) | aku kena |
+| 55 | `baru je` | 1x | ✅ Ada (`phraseDictionary`) | baru je |
+| 56 | `jadi kita` | 1x | ✅ Ada (`phraseDictionary`) | jadi kita |
+| 57 | `kat sana` | 1x | ✅ Ada (`phraseDictionary`) | kat sana |
+| 58 | `kita ada` | 1x | ✅ Ada (`phraseDictionary`) | kita ada |
+| 59 | `kita baru` | 1x | ✅ Ada (`phraseDictionary`) | kita baru |
+| 60 | `masukkan dalam` | 1x | ✅ Ada (`phraseDictionary`) | masukkan dalam |
+| 61 | `memang sangat` | 1x | ✅ Ada (`phraseDictionary`) | memang sangat |
+| 62 | `okey kawan` | 1x | ✅ Ada (`phraseDictionary`) | okey kawan |
+| 63 | `sekarang kita` | 1x | ✅ Ada (`phraseDictionary`) | sekarang kita |
+| 64 | `semua barang` | 1x | ✅ Ada (`phraseDictionary`) | semua barang |
+| 65 | `tapi aku` | 1x | ✅ Ada (`phraseDictionary`) | tapi aku |
+| 66 | `yang kita` | 1x | ✅ Ada (`phraseDictionary`) | yang kita |
+| 67 | `yang tu` | 1x | ✅ Ada (`phraseDictionary`) | yang tu |
+
+---
+
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word
 
