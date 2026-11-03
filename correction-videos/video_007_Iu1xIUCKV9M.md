@@ -726,6 +726,196 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 43 | `what do` | 1x | ✅ Ada (`phraseDictionary`) | buat apa |
 | 44 | `you have` | 1x | ✅ Ada (`phraseDictionary`) | awak ada |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 184 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `according` | `accord` | Continuous / Gerund (-ing) | sepakat |
+| 2 | `added` | `add` | Past Participle (V3) | tambah |
+| 3 | `advanced` | `advance` | Past Tense / Participle (-ed) | terlebih dahulu |
+| 4 | `algorithms` | `algorithm` | Kata Nama Jamak (Plural -s/-es) | algoritma |
+| 5 | `amazing` | `amaze` | Continuous / Gerund (-ing) | memukau |
+| 6 | `annoying` | `annoy` | Continuous / Gerund (-ing) | mengganggu |
+| 7 | `answered` | `answer` | Past Tense (V2) | jawapan / menjawab |
+| 8 | `answers` | `answer` | Kata Nama Jamak (Plural -s/-es) | jawapan / menjawab |
+| 9 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 10 | `arrived` | `arrive` | Past Tense (V2) | tiba |
+| 11 | `asked` | `ask` | Past Tense (V2) | bertanya |
+| 12 | `asking` | `ask` | Continuous / Gerund (-ing) | bertanya |
+| 13 | `became` | `become` | Past Tense (V2) | menjadi |
+| 14 | `becomes` | `become` | Kata Kerja Present (-s/-es) | menjadi |
+| 15 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 16 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
+| 17 | `better` | `good` | Perbandingan (Comparative -er) | baik / bagus |
+| 18 | `books` | `book` | Kata Nama Jamak (Plural -s/-es) | buku |
+| 19 | `boring` | `bore` | Continuous / Gerund (-ing) | membosankan |
+| 20 | `bought` | `buy` | Past Tense / Participle | beli / membeli |
+| 21 | `called` | `call` | Past Tense (V2) | panggil / hubungi |
+| 22 | `came` | `come` | Past Tense (V2) | datang / mari |
+| 23 | `changes` | `change` | Kata Kerja Present (-s/-es) | ubah / menukar |
+| 24 | `changing` | `change` | Continuous / Gerund (-ing) | ubah / menukar |
+| 25 | `checked` | `check` | Past Tense (V2) | semak / periksa |
+| 26 | `classes` | `class` | Kata Nama Jamak (Plural -s/-es) | kelas |
+| 27 | `cleaned` | `clean` | Past Tense (V2) | bersih / membersihkan |
+| 28 | `clouds` | `cloud` | Kata Nama Jamak (Plural -s/-es) | awan |
+| 29 | `comments` | `comment` | Kata Nama Jamak (Plural -s/-es) | komen |
+| 30 | `complicated` | `complicate` | Past Participle (V3) | merumitkan |
+| 31 | `consequences` | `consequence` | Kata Nama Jamak (Plural -s/-es) | akibatnya |
+| 32 | `continued` | `continue` | Past Participle (V3) | teruskan / menyambung |
+| 33 | `controlled` | `control` | Past Participle (V3) | kawalan |
+| 34 | `cooked` | `cook` | Past Tense (V2) | memasak |
+| 35 | `creates` | `create` | Kata Kerja Present (-s/-es) | cipta |
+| 36 | `decided` | `decide` | Past Tense (V2) | memutuskan |
+| 37 | `definitions` | `definition` | Kata Nama Jamak (Plural -s/-es) | takrifan |
+| 38 | `delivered` | `deliver` | Past Tense (V2) | menyampaikan |
+| 39 | `designed` | `design` | Past Participle (V3) | reka bentuk |
+| 40 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 41 | `disappointed` | `disappoint` | Past Participle (V3) | mengecewakan |
+| 42 | `does` | `do` | Present Tense (3rd Person) | buat / lakukan |
+| 43 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 44 | `easier` | `easy` | Perbandingan (Comparative -er) | mudah / senang |
+| 45 | `eggs` | `egg` | Kata Nama Jamak (Plural -s/-es) | telur |
+| 46 | `emotions` | `emotion` | Kata Nama Jamak (Plural -s/-es) | emosi |
+| 47 | `entertaining` | `entertain` | Continuous / Gerund (-ing) | menghiburkan |
+| 48 | `exaggerating` | `exaggerate` | Continuous / Gerund (-ing) | berlebih-lebihan |
+| 49 | `examples` | `example` | Kata Nama Jamak (Plural -s/-es) | contoh |
+| 50 | `exercises` | `exercise` | Kata Nama Jamak (Plural -s/-es) | bersenam |
+| 51 | `explanations` | `explanation` | Kata Nama Jamak (Plural -s/-es) | penerangan |
+| 52 | `faster` | `fast` | Perbandingan (Comparative -er) | cepat |
+| 53 | `feeds` | `feed` | Kata Nama Jamak (Plural -s/-es) | memberi makan |
+| 54 | `feeling` | `feel` | Continuous / Gerund (-ing) | rasa / merasa |
+| 55 | `felt` | `feel` | Past Tense / Participle | rasa / merasa |
+| 56 | `finished` | `finish` | Past Tense (V2) | selesai |
+| 57 | `found` | `find` | Past Tense / Participle | cari / menemui |
+| 58 | `framed` | `frame` | Past Participle (V3) | bingkai |
+| 59 | `friends` | `friend` | Kata Nama Jamak (Plural -s/-es) | kawan / rakan |
+| 60 | `gets` | `get` | Kata Kerja Present (-s/-es) | dapat / mengambil |
+| 61 | `getting` | `get` | Continuous / Gerund (-ing) | dapat / mengambil |
+| 62 | `gives` | `give` | Kata Kerja Present (-s/-es) | beri / memberikan |
+| 63 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 64 | `got` | `get` | Past Tense / Participle | dapat / mengambil |
+| 65 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 66 | `habits` | `habit` | Kata Nama Jamak (Plural -s/-es) | tabiat |
+| 67 | `had` | `have` | Past Tense / Participle | ada / mempunyai |
+| 68 | `happier` | `happy` | Perbandingan (Comparative -er) | gembira |
+| 69 | `heard` | `hear` | Past Tense / Participle | dengar |
+| 70 | `helps` | `help` | Kata Kerja Present (-s/-es) | bantu / tolong |
+| 71 | `higher` | `high` | Perbandingan (Comparative -er) | tinggi |
+| 72 | `hiking` | `hike` | Continuous / Gerund (-ing) | mendaki |
+| 73 | `hundreds` | `hundred` | Kata Nama Jamak (Plural -s/-es) | ratus |
+| 74 | `ideas` | `idea` | Kata Nama Jamak (Plural -s/-es) | idea |
+| 75 | `images` | `image` | Kata Kerja Present (-s/-es) | imej |
+| 76 | `implied` | `imply` | Past Tense (V2) | membayangkan |
+| 77 | `improving` | `improve` | Continuous / Gerund (-ing) | bertambah baik |
+| 78 | `includes` | `include` | Kata Kerja Present (-s/-es) | termasuk |
+| 79 | `influenced` | `influence` | Past Participle (V3) | pengaruh |
+| 80 | `informed` | `inform` | Past Tense / Participle (-ed) | maklumkan |
+| 81 | `keeps` | `keep` | Kata Kerja Present (-s/-es) | simpan / teruskan |
+| 82 | `laughed` | `laugh` | Past Tense (V2) | ketawa |
+| 83 | `layered` | `layer` | Past Tense / Participle (-ed) | lapisan |
+| 84 | `learners` | `learner` | Kata Nama Jamak (Plural -s/-es) | pelajar |
+| 85 | `learns` | `learn` | Kata Kerja Present (-s/-es) | belajar |
+| 86 | `least` | `little` | Paling / Tertinggi (Superlative) | kecil / sedikit |
+| 87 | `less` | `little` | Perbandingan (Comparative) | kecil / sedikit |
+| 88 | `lessons` | `lesson` | Kata Nama Jamak (Plural -s/-es) | pelajaran |
+| 89 | `levels` | `level` | Kata Nama Jamak (Plural -s/-es) | tahap |
+| 90 | `listening` | `listen` | Continuous / Gerund (-ing) | dengar |
+| 91 | `living` | `live` | Continuous / Gerund (-ing) | hidup |
+| 92 | `longer` | `long` | Perbandingan (Comparative -er) | panjang / lama |
+| 93 | `looked` | `look` | Past Tense (V2) | tengok / kelihatan |
+| 94 | `looks` | `look` | Kata Kerja Present (-s/-es) | tengok / kelihatan |
+| 95 | `lying` | `lie` | Continuous / Gerund (-ing) | baring / berbohong |
+| 96 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
+| 97 | `making` | `make` | Continuous / Gerund (-ing) | buat / menghasilkan |
+| 98 | `married` | `marry` | Past Participle (V3) | kahwin |
+| 99 | `matters` | `matter` | Kata Nama Jamak (Plural -s/-es) | perkara |
+| 100 | `meaning` | `mean` | Continuous / Gerund (-ing) | maksud / berniat |
+| 101 | `means` | `mean` | Kata Kerja Present (-s/-es) | maksud / berniat |
+| 102 | `media` | `medium` | Kata Nama Jamak (Plural -s/-es) | sederhana |
+| 103 | `messages` | `message` | Kata Nama Jamak (Plural -s/-es) | mesej |
+| 104 | `minutes` | `minute` | Kata Nama Jamak (Plural -s/-es) | minit |
+| 105 | `moments` | `moment` | Kata Nama Jamak (Plural -s/-es) | seketika |
+| 106 | `months` | `month` | Kata Nama Jamak (Plural -s/-es) | bulan |
+| 107 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 108 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 109 | `moves` | `move` | Kata Nama Jamak (Plural -s/-es) | bergerak / berpindah |
+| 110 | `names` | `name` | Kata Nama Jamak (Plural -s/-es) | nama |
+| 111 | `narrower` | `narrow` | Perbandingan (Comparative -er) | sempit |
+| 112 | `needed` | `need` | Past Tense (V2) | perlu / memerlukan |
+| 113 | `opinions` | `opinion` | Kata Nama Jamak (Plural -s/-es) | pendapat |
+| 114 | `opponents` | `opponent` | Kata Nama Jamak (Plural -s/-es) | lawan |
+| 115 | `passed` | `pass` | Past Tense (V2) | lulus |
+| 116 | `patterns` | `pattern` | Kata Nama Jamak (Plural -s/-es) | corak |
+| 117 | `people` | `person` | Kata Nama Jamak (Plural Noun) | orang |
+| 118 | `personalized` | `personalize` | Past Tense (V2) | memperibadikan |
+| 119 | `phrasing` | `phrase` | Continuous / Gerund (-ing) | frasa |
+| 120 | `planned` | `plan` | Past Tense (V2) | rancangan |
+| 121 | `platforms` | `platform` | Kata Nama Jamak (Plural -s/-es) | platform |
+| 122 | `points` | `point` | Kata Nama Jamak (Plural -s/-es) | titik |
+| 123 | `posting` | `post` | Continuous / Gerund (-ing) | jawatan |
+| 124 | `practicing` | `practice` | Continuous / Gerund (-ing) | berlatih / latihan |
+| 125 | `problems` | `problem` | Kata Nama Jamak (Plural -s/-es) | masalah |
+| 126 | `questions` | `question` | Kata Nama Jamak (Plural -s/-es) | soalan |
+| 127 | `ranked` | `rank` | Past Tense (V2) | pangkat |
+| 128 | `reactions` | `reaction` | Kata Nama Jamak (Plural -s/-es) | tindak balas |
+| 129 | `realized` | `realize` | Past Tense (V2) | sedar |
+| 130 | `reasons` | `reason` | Kata Nama Jamak (Plural -s/-es) | sebab / alasan |
+| 131 | `results` | `result` | Kata Nama Jamak (Plural -s/-es) | hasil |
+| 132 | `rooms` | `room` | Kata Nama Jamak (Plural -s/-es) | bilik / ruang |
+| 133 | `rules` | `rule` | Kata Nama Jamak (Plural -s/-es) | peraturan |
+| 134 | `said` | `say` | Past Tense / Participle | cakap / berkata |
+| 135 | `says` | `say` | Kata Kerja Present (-s/-es) | cakap / berkata |
+| 136 | `seconds` | `second` | Kata Nama Jamak (Plural -s/-es) | kedua / saat |
+| 137 | `seeing` | `see` | Continuous / Gerund (-ing) | lihat / nampak / tengok |
+| 138 | `selected` | `select` | Past Participle (V3) | pilih |
+| 139 | `sentences` | `sentence` | Kata Nama Jamak (Plural -s/-es) | ayat |
+| 140 | `shadowing` | `shadow` | Continuous / Gerund (-ing) | bayang |
+| 141 | `shopping` | `shop` | Continuous / Gerund (-ing) | kedai |
+| 142 | `shortened` | `shorten` | Past Tense (V2) | memendekkan |
+| 143 | `showed` | `show` | Past Tense (V2) | tunjuk / menunjukkan |
+| 144 | `sides` | `side` | Kata Nama Jamak (Plural -s/-es) | tepi / sisi |
+| 145 | `situations` | `situation` | Kata Nama Jamak (Plural -s/-es) | keadaan / situasi |
+| 146 | `speaking` | `speak` | Continuous / Gerund (-ing) | bercakap |
+| 147 | `spoken` | `speak` | Past Participle (V3) | bercakap |
+| 148 | `started` | `start` | Past Participle (V3) | mula / memulakan |
+| 149 | `starting` | `start` | Continuous / Gerund (-ing) | mula / memulakan |
+| 150 | `starts` | `start` | Kata Nama Jamak (Plural -s/-es) | mula / memulakan |
+| 151 | `stations` | `station` | Kata Nama Jamak (Plural -s/-es) | stesen |
+| 152 | `stories` | `story` | Kata Nama Jamak (Plural -s/-es) | cerita |
+| 153 | `stressed` | `stress` | Past Participle (V3) | tekanan |
+| 154 | `stronger` | `strong` | Perbandingan (Comparative -er) | kuat |
+| 155 | `stuck` | `stick` | Past Participle (V3) | kayu / melekat |
+| 156 | `studying` | `study` | Continuous / Gerund (-ing) | belajar / mengkaji |
+| 157 | `subtitles` | `subtitle` | Kata Kerja Present (-s/-es) | sari kata |
+| 158 | `suggests` | `suggest` | Kata Kerja Present (-s/-es) | cadangkan |
+| 159 | `teaching` | `teach` | Continuous / Gerund (-ing) | mengajar |
+| 160 | `tenses` | `tense` | Kata Nama Jamak (Plural -s/-es) | tegang |
+| 161 | `testing` | `test` | Continuous / Gerund (-ing) | ujian |
+| 162 | `thinking` | `think` | Continuous / Gerund (-ing) | fikir / berfikir |
+| 163 | `thinks` | `think` | Kata Nama Jamak (Plural -s/-es) | fikir / berfikir |
+| 164 | `tired` | `tire` | Past Tense / Participle (-ed) | tayar |
+| 165 | `told` | `tell` | Past Tense / Participle | beritahu / khabarkan |
+| 166 | `took` | `take` | Past Tense (V2) | ambil / memerlukan masa |
+| 167 | `topics` | `topic` | Kata Nama Jamak (Plural -s/-es) | topik |
+| 168 | `trains` | `train` | Kata Kerja Present (-s/-es) | kereta api |
+| 169 | `traveling` | `travel` | Continuous / Gerund (-ing) | melancong |
+| 170 | `turning` | `turn` | Continuous / Gerund (-ing) | pusing / hidupkan (turn on) |
+| 171 | `typing` | `type` | Continuous / Gerund (-ing) | taip |
+| 172 | `understanding` | `understand` | Continuous / Gerund (-ing) | faham / memahami |
+| 173 | `versions` | `version` | Kata Nama Jamak (Plural -s/-es) | versi |
+| 174 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 175 | `wanted` | `want` | Past Participle (V3) | mahu / nak |
+| 176 | `watching` | `watch` | Continuous / Gerund (-ing) | tonton / tengok / jam tangan |
+| 177 | `went` | `go` | Past Tense (V2) | pergi |
+| 178 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
+| 179 | `woke` | `wake` | Past Tense (V2) | bangun tidur |
+| 180 | `words` | `word` | Kata Nama Jamak (Plural -s/-es) | perkataan |
+| 181 | `workbooks` | `workbook` | Kata Nama Jamak (Plural -s/-es) | buku latihan / modul |
+| 182 | `worked` | `work` | Past Tense (V2) | kerja / berfungsi |
+| 183 | `working` | `work` | Continuous / Gerund (-ing) | kerja / berfungsi |
+| 184 | `worse` | `bad` | Perbandingan (Comparative -er) | teruk / buruk |
+
 ---
 
 

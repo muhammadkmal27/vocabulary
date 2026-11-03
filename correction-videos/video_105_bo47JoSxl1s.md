@@ -412,6 +412,86 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 51 | `your goals` | 1x | ✅ Ada (`phraseDictionary`) | matlamat anda |
 | 52 | `your pronunciation` | 1x | ✅ Ada (`phraseDictionary`) | sebutan anda |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 74 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `actions` | `action` | Kata Nama Jamak (Plural -s/-es) | tindakan / aksi |
+| 2 | `advanced` | `advance` | Past Tense (V2) | terlebih dahulu |
+| 3 | `adventures` | `adventure` | Kata Nama Jamak (Plural -s/-es) | pengembaraan |
+| 4 | `allows` | `allow` | Kata Kerja Present (-s/-es) | membenarkan / membolehkan |
+| 5 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 6 | `based` | `base` | Past Participle (V3) | asas |
+| 7 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 8 | `being` | `be` | Continuous / Gerund (-ing) | menjadi / berada |
+| 9 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
+| 10 | `better` | `good` | Perbandingan (Comparative -er) | baik / bagus |
+| 11 | `boring` | `bore` | Continuous / Gerund (-ing) | membosankan |
+| 12 | `confusions` | `confusion` | Kata Nama Jamak (Plural -s/-es) | kekeliruan |
+| 13 | `decided` | `decide` | Past Tense (V2) | memutuskan |
+| 14 | `designed` | `design` | Past Participle (V3) | reka bentuk |
+| 15 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 16 | `does` | `do` | Present Tense (3rd Person) | buat / lakukan |
+| 17 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 18 | `examples` | `example` | Kata Nama Jamak (Plural -s/-es) | contoh |
+| 19 | `friends` | `friend` | Kata Nama Jamak (Plural -s/-es) | kawan / rakan |
+| 20 | `gave` | `give` | Past Tense (V2) | beri / memberikan |
+| 21 | `gives` | `give` | Kata Kerja Present (-s/-es) | beri / memberikan |
+| 22 | `goals` | `goal` | Kata Nama Jamak (Plural -s/-es) | matlamat |
+| 23 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 24 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 25 | `had` | `have` | Past Tense / Participle | ada / mempunyai |
+| 26 | `hours` | `hour` | Kata Nama Jamak (Plural -s/-es) | jam |
+| 27 | `interesting` | `interest` | Continuous / Gerund (-ing) | minat |
+| 28 | `languages` | `language` | Kata Nama Jamak (Plural -s/-es) | bahasa |
+| 29 | `learned` | `learn` | Past Tense (V2) | belajar |
+| 30 | `learning` | `learn` | Continuous / Gerund (-ing) | belajar |
+| 31 | `learnings` | `learning` | Kata Nama Jamak (Plural -s/-es) | pembelajaran / sedang belajar |
+| 32 | `lemons` | `lemon` | Kata Nama Jamak (Plural -s/-es) | limau |
+| 33 | `less` | `little` | Perbandingan (Comparative) | kecil / sedikit |
+| 34 | `lessons` | `lesson` | Kata Nama Jamak (Plural -s/-es) | pelajaran |
+| 35 | `listening` | `listen` | Continuous / Gerund (-ing) | dengar |
+| 36 | `lists` | `list` | Kata Nama Jamak (Plural -s/-es) | senarai |
+| 37 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
+| 38 | `means` | `mean` | Kata Kerja Present (-s/-es) | maksud / berniat |
+| 39 | `memorizing` | `memorize` | Continuous / Gerund (-ing) | menghafal |
+| 40 | `methods` | `method` | Kata Nama Jamak (Plural -s/-es) | kaedah |
+| 41 | `missed` | `miss` | Past Participle (V3) | rindu |
+| 42 | `months` | `month` | Kata Nama Jamak (Plural -s/-es) | bulan |
+| 43 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 44 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 45 | `notifications` | `notification` | Kata Nama Jamak (Plural -s/-es) | pemberitahuan |
+| 46 | `opening` | `open` | Continuous / Gerund (-ing) | buka / terbuka |
+| 47 | `people` | `person` | Kata Nama Jamak (Plural Noun) | orang |
+| 48 | `questions` | `question` | Kata Nama Jamak (Plural -s/-es) | soalan |
+| 49 | `quizzes` | `quiz` | Kata Nama Jamak (Plural -s/-es) | kuiz |
+| 50 | `said` | `say` | Past Tense / Participle | cakap / berkata |
+| 51 | `seen` | `see` | Past Participle (V3) | lihat / nampak / tengok |
+| 52 | `shadowing` | `shadow` | Continuous / Gerund (-ing) | bayang |
+| 53 | `shoes` | `shoe` | Kata Nama Jamak (Plural -s/-es) | kasut |
+| 54 | `shorter` | `short` | Perbandingan (Comparative -er) | pendek |
+| 55 | `sitting` | `sit` | Continuous / Gerund (-ing) | duduk |
+| 56 | `skills` | `skill` | Kata Nama Jamak (Plural -s/-es) | kemahiran |
+| 57 | `spoken` | `speak` | Past Participle (V3) | bercakap |
+| 58 | `steps` | `step` | Kata Nama Jamak (Plural -s/-es) | langkah / melangkah |
+| 59 | `studying` | `study` | Continuous / Gerund (-ing) | belajar / mengkaji |
+| 60 | `talking` | `talk` | Continuous / Gerund (-ing) | bercakap / berborak |
+| 61 | `techniques` | `technique` | Kata Nama Jamak (Plural -s/-es) | teknik |
+| 62 | `tenses` | `tense` | Kata Nama Jamak (Plural -s/-es) | tegang |
+| 63 | `textbooks` | `textbook` | Kata Nama Jamak (Plural -s/-es) | buku teks |
+| 64 | `thinking` | `think` | Continuous / Gerund (-ing) | fikir / berfikir |
+| 65 | `times` | `time` | Kata Nama Jamak (Plural -s/-es) | masa / waktu |
+| 66 | `traveling` | `travel` | Continuous / Gerund (-ing) | melancong |
+| 67 | `trees` | `tree` | Kata Nama Jamak (Plural -s/-es) | pokok |
+| 68 | `trying` | `try` | Continuous / Gerund (-ing) | cuba / mencuba |
+| 69 | `tutors` | `tutor` | Kata Nama Jamak (Plural -s/-es) | tutor |
+| 70 | `understood` | `understand` | Past Tense / Participle | faham / memahami |
+| 71 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 72 | `watching` | `watch` | Continuous / Gerund (-ing) | tonton / tengok / jam tangan |
+| 73 | `words` | `word` | Kata Nama Jamak (Plural -s/-es) | perkataan |
+| 74 | `years` | `year` | Kata Nama Jamak (Plural -s/-es) | tahun |
+
 ---
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word

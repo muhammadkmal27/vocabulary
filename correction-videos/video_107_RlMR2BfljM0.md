@@ -443,6 +443,93 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 57 | `you think` | 1x | ✅ Ada (`phraseDictionary`) | anda fikir |
 | 58 | `your free` | 1x | ✅ Ada (`phraseDictionary`) | percuma anda |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 81 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `advanced` | `advance` | Past Tense (V2) | terlebih dahulu |
+| 2 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 3 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 4 | `beginners` | `beginner` | Kata Nama Jamak (Plural -s/-es) | pemula |
+| 5 | `buying` | `buy` | Continuous / Gerund (-ing) | beli / membeli |
+| 6 | `buys` | `buy` | Kata Kerja Present (-s/-es) | beli / membeli |
+| 7 | `called` | `call` | Past Participle (V3) | panggil / hubungi |
+| 8 | `calling` | `call` | Continuous / Gerund (-ing) | panggil / hubungi |
+| 9 | `catching` | `catch` | Continuous / Gerund (-ing) | tangkap |
+| 10 | `clapping` | `clap` | Continuous / Gerund (-ing) | bertepuk tangan |
+| 11 | `cleaning` | `clean` | Continuous / Gerund (-ing) | bersih / membersihkan |
+| 12 | `closed` | `close` | Past Tense (V2) | tutup / dekat |
+| 13 | `coated` | `coat` | Past Tense / Participle (-ed) | kot |
+| 14 | `coating` | `coat` | Continuous / Gerund (-ing) | kot |
+| 15 | `comics` | `comic` | Kata Nama Jamak (Plural -s/-es) | komik |
+| 16 | `cooked` | `cook` | Past Participle (V3) | memasak |
+| 17 | `cooking` | `cook` | Continuous / Gerund (-ing) | memasak |
+| 18 | `countries` | `country` | Kata Nama Jamak (Plural -s/-es) | negara |
+| 19 | `crumpling` | `crumple` | Continuous / Gerund (-ing) | renyuk |
+| 20 | `crying` | `cry` | Continuous / Gerund (-ing) | menangis |
+| 21 | `cups` | `cup` | Kata Nama Jamak (Plural -s/-es) | cawan |
+| 22 | `days` | `day` | Kata Nama Jamak (Plural -s/-es) | hari / siang |
+| 23 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 24 | `dishes` | `dish` | Kata Nama Jamak (Plural -s/-es) | hidangan |
+| 25 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 26 | `done` | `do` | Past Participle (V3) | buat / lakukan |
+| 27 | `drawing` | `draw` | Continuous / Gerund (-ing) | melukis |
+| 28 | `drinking` | `drink` | Continuous / Gerund (-ing) | minum |
+| 29 | `driving` | `drive` | Continuous / Gerund (-ing) | memandu |
+| 30 | `frying` | `fry` | Continuous / Gerund (-ing) | goreng |
+| 31 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 32 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 33 | `hands` | `hand` | Kata Nama Jamak (Plural -s/-es) | tangan |
+| 34 | `hiding` | `hide` | Continuous / Gerund (-ing) | bersembunyi |
+| 35 | `hobbies` | `hobby` | Kata Nama Jamak (Plural -s/-es) | hobi |
+| 36 | `jogging` | `jog` | Continuous / Gerund (-ing) | berjoging |
+| 37 | `laughing` | `laugh` | Continuous / Gerund (-ing) | ketawa |
+| 38 | `listening` | `listen` | Continuous / Gerund (-ing) | dengar |
+| 39 | `longer` | `long` | Perbandingan (Comparative -er) | panjang / lama |
+| 40 | `looking` | `look` | Continuous / Gerund (-ing) | tengok / kelihatan |
+| 41 | `lying` | `lie` | Continuous / Gerund (-ing) | baring / berbohong |
+| 42 | `making` | `make` | Continuous / Gerund (-ing) | buat / menghasilkan |
+| 43 | `means` | `mean` | Kata Nama Jamak (Plural -s/-es) | maksud / berniat |
+| 44 | `minutes` | `minute` | Kata Nama Jamak (Plural -s/-es) | minit |
+| 45 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 46 | `paying` | `pay` | Continuous / Gerund (-ing) | bayar |
+| 47 | `peacocks` | `peacock` | Kata Nama Jamak (Plural -s/-es) | burung merak |
+| 48 | `places` | `place` | Kata Nama Jamak (Plural -s/-es) | tempat |
+| 49 | `pointing` | `point` | Continuous / Gerund (-ing) | titik |
+| 50 | `pushing` | `push` | Continuous / Gerund (-ing) | tolak |
+| 51 | `questions` | `question` | Kata Nama Jamak (Plural -s/-es) | soalan |
+| 52 | `reading` | `read` | Continuous / Gerund (-ing) | membaca |
+| 53 | `repairing` | `repair` | Continuous / Gerund (-ing) | pembaikan |
+| 54 | `running` | `run` | Continuous / Gerund (-ing) | berlari / mengalir |
+| 55 | `saying` | `say` | Continuous / Gerund (-ing) | cakap / berkata |
+| 56 | `scratching` | `scratch` | Continuous / Gerund (-ing) | calar |
+| 57 | `selling` | `sell` | Continuous / Gerund (-ing) | jual |
+| 58 | `sells` | `sell` | Kata Kerja Present (-s/-es) | jual |
+| 59 | `shoes` | `shoe` | Kata Nama Jamak (Plural -s/-es) | kasut |
+| 60 | `showing` | `show` | Continuous / Gerund (-ing) | tunjuk / menunjukkan |
+| 61 | `sitting` | `sit` | Continuous / Gerund (-ing) | duduk |
+| 62 | `sleeping` | `sleep` | Continuous / Gerund (-ing) | tidur |
+| 63 | `standing` | `stand` | Continuous / Gerund (-ing) | berdiri |
+| 64 | `stretching` | `stretch` | Continuous / Gerund (-ing) | regangan |
+| 65 | `talking` | `talk` | Continuous / Gerund (-ing) | bercakap / berborak |
+| 66 | `thinking` | `think` | Continuous / Gerund (-ing) | fikir / berfikir |
+| 67 | `throwing` | `throw` | Continuous / Gerund (-ing) | melontar |
+| 68 | `tired` | `tire` | Past Participle (V3) | tayar |
+| 69 | `traveling` | `travel` | Continuous / Gerund (-ing) | melancong |
+| 70 | `vans` | `van` | Kata Nama Jamak (Plural -s/-es) | van |
+| 71 | `vehicles` | `vehicle` | Kata Nama Jamak (Plural -s/-es) | kenderaan |
+| 72 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 73 | `waking` | `wake` | Continuous / Gerund (-ing) | bangun tidur |
+| 74 | `walking` | `walk` | Continuous / Gerund (-ing) | berjalan |
+| 75 | `washed` | `wash` | Past Participle (V3) | basuh / mencuci |
+| 76 | `washing` | `wash` | Continuous / Gerund (-ing) | basuh / mencuci |
+| 77 | `watching` | `watch` | Continuous / Gerund (-ing) | tonton / tengok / jam tangan |
+| 78 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
+| 79 | `writing` | `write` | Continuous / Gerund (-ing) | menulis |
+| 80 | `wrote` | `write` | Past Tense (V2) | menulis |
+| 81 | `yawning` | `yawn` | Continuous / Gerund (-ing) | menguap |
+
 ---
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word

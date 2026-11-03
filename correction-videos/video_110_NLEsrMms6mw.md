@@ -346,6 +346,71 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 47 | `you get` | 1x | ✅ Ada (`phraseDictionary`) | awak dapat |
 | 48 | `you like` | 1x | ✅ Ada (`phraseDictionary`) | awak suka |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 59 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 2 | `benches` | `bench` | Kata Nama Jamak (Plural -s/-es) | bangku |
+| 3 | `called` | `call` | Past Tense (V2) | panggil / hubungi |
+| 4 | `carpets` | `carpet` | Kata Nama Jamak (Plural -s/-es) | permaidani |
+| 5 | `chairs` | `chair` | Kata Kerja Present (-s/-es) | kerusi |
+| 6 | `comments` | `comment` | Kata Nama Jamak (Plural -s/-es) | komen |
+| 7 | `contexts` | `context` | Kata Nama Jamak (Plural -s/-es) | konteks |
+| 8 | `cupboards` | `cupboard` | Kata Nama Jamak (Plural -s/-es) | almari |
+| 9 | `cups` | `cup` | Kata Nama Jamak (Plural -s/-es) | cawan |
+| 10 | `curtains` | `curtain` | Kata Nama Jamak (Plural -s/-es) | langsir |
+| 11 | `depends` | `depend` | Kata Kerja Present (-s/-es) | bergantung |
+| 12 | `dishes` | `dish` | Kata Nama Jamak (Plural -s/-es) | hidangan |
+| 13 | `doors` | `door` | Kata Nama Jamak (Plural -s/-es) | pintu |
+| 14 | `earlier` | `early` | Perbandingan (Comparative -er) | awal |
+| 15 | `forks` | `fork` | Kata Nama Jamak (Plural -s/-es) | garpu |
+| 16 | `glasses` | `glass` | Kata Nama Jamak (Plural -s/-es) | kaca / cawan kaca |
+| 17 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 18 | `guys` | `guy` | Kata Kerja Present (-s/-es) | lelaki |
+| 19 | `hammocks` | `hammock` | Kata Nama Jamak (Plural -s/-es) | buaian |
+| 20 | `hats` | `hat` | Kata Nama Jamak (Plural -s/-es) | topi |
+| 21 | `having` | `have` | Continuous / Gerund (-ing) | ada / mempunyai |
+| 22 | `keys` | `key` | Kata Nama Jamak (Plural -s/-es) | kunci |
+| 23 | `knives` | `knife` | Kata Nama Jamak (Plural Noun) | pisau |
+| 24 | `learning` | `learn` | Continuous / Gerund (-ing) | belajar |
+| 25 | `lessons` | `lesson` | Kata Nama Jamak (Plural -s/-es) | pelajaran |
+| 26 | `lids` | `lid` | Kata Nama Jamak (Plural -s/-es) | tudung |
+| 27 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
+| 28 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 29 | `mountains` | `mountain` | Kata Nama Jamak (Plural -s/-es) | gunung |
+| 30 | `ones` | `one` | Kata Nama Jamak (Plural -s/-es) | satu / seorang |
+| 31 | `pans` | `pan` | Kata Nama Jamak (Plural -s/-es) | kuali leper |
+| 32 | `pillows` | `pillow` | Kata Nama Jamak (Plural -s/-es) | bantal |
+| 33 | `plates` | `plate` | Kata Nama Jamak (Plural -s/-es) | pinggan |
+| 34 | `pots` | `pot` | Kata Nama Jamak (Plural -s/-es) | periuk |
+| 35 | `raining` | `rain` | Continuous / Gerund (-ing) | hujan |
+| 36 | `rocks` | `rock` | Kata Nama Jamak (Plural -s/-es) | batu |
+| 37 | `saw` | `see` | Past Tense (V2) | lihat / nampak / tengok |
+| 38 | `seen` | `see` | Past Participle (V3) | lihat / nampak / tengok |
+| 39 | `serving` | `serve` | Continuous / Gerund (-ing) | berkhidmat |
+| 40 | `sheets` | `sheet` | Kata Nama Jamak (Plural -s/-es) | lembaran |
+| 41 | `shoes` | `shoe` | Kata Nama Jamak (Plural -s/-es) | kasut |
+| 42 | `slippers` | `slipper` | Kata Nama Jamak (Plural -s/-es) | selipar |
+| 43 | `sofas` | `sofa` | Kata Nama Jamak (Plural -s/-es) | sofa / kerusi kusyen |
+| 44 | `speaking` | `speak` | Continuous / Gerund (-ing) | bercakap |
+| 45 | `spices` | `spice` | Kata Nama Jamak (Plural -s/-es) | rempah ratus |
+| 46 | `spoons` | `spoon` | Kata Nama Jamak (Plural -s/-es) | sudu |
+| 47 | `standing` | `stand` | Continuous / Gerund (-ing) | berdiri |
+| 48 | `started` | `start` | Past Participle (V3) | mula / memulakan |
+| 49 | `teaching` | `teach` | Continuous / Gerund (-ing) | mengajar |
+| 50 | `teacups` | `teacup` | Kata Nama Jamak (Plural -s/-es) | cawan teh |
+| 51 | `teaspoons` | `teaspoon` | Kata Nama Jamak (Plural -s/-es) | sudu teh / sudu kecil |
+| 52 | `things` | `thing` | Kata Nama Jamak (Plural -s/-es) | benda / perkara |
+| 53 | `thinking` | `think` | Continuous / Gerund (-ing) | fikir / berfikir |
+| 54 | `uses` | `use` | Kata Kerja Present (-s/-es) | guna / menggunakan |
+| 55 | `utensils` | `utensil` | Kata Nama Jamak (Plural -s/-es) | perkakas |
+| 56 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 57 | `walking` | `walk` | Continuous / Gerund (-ing) | berjalan |
+| 58 | `went` | `go` | Past Tense (V2) | pergi |
+| 59 | `words` | `word` | Kata Nama Jamak (Plural -s/-es) | perkataan |
+
 ---
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word

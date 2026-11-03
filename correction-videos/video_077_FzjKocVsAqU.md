@@ -534,6 +534,152 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 56 | `you guys` | 1x | ✅ Ada (`phraseDictionary`) | kamu semua |
 | 57 | `you will` | 1x | ✅ Ada (`phraseDictionary`) | anda akan |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 140 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 2 | `arms` | `arm` | Kata Nama Jamak (Plural -s/-es) | lengan |
+| 3 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 4 | `bells` | `bell` | Kata Nama Jamak (Plural -s/-es) | loceng |
+| 5 | `bending` | `bend` | Continuous / Gerund (-ing) | bengkok |
+| 6 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
+| 7 | `better` | `good` | Perbandingan (Comparative -er) | baik / bagus |
+| 8 | `bicycles` | `bicycle` | Kata Nama Jamak (Plural -s/-es) | basikal |
+| 9 | `biting` | `bite` | Continuous / Gerund (-ing) | menggigit |
+| 10 | `blew` | `blow` | Past Tense (V2) | tiup / meniup |
+| 11 | `blowing` | `blow` | Continuous / Gerund (-ing) | tiup / meniup |
+| 12 | `boots` | `boot` | Kata Nama Jamak (Plural -s/-es) | but |
+| 13 | `breathed` | `breathe` | Past Tense (V2) | bernafas |
+| 14 | `breathing` | `breathe` | Continuous / Gerund (-ing) | bernafas |
+| 15 | `built` | `build` | Past Tense / Participle | membina |
+| 16 | `chewed` | `chew` | Past Participle (V3) | mengunyah |
+| 17 | `chewing` | `chew` | Continuous / Gerund (-ing) | mengunyah |
+| 18 | `cleans` | `clean` | Kata Nama Jamak (Plural -s/-es) | bersih / membersihkan |
+| 19 | `climbed` | `climb` | Past Tense (V2) | mendaki |
+| 20 | `climbing` | `climb` | Continuous / Gerund (-ing) | mendaki |
+| 21 | `coughed` | `cough` | Past Tense (V2) | batuk |
+| 22 | `coughing` | `cough` | Continuous / Gerund (-ing) | batuk |
+| 23 | `countries` | `country` | Kata Nama Jamak (Plural -s/-es) | negara |
+| 24 | `covered` | `cover` | Past Tense (V2) | penutup |
+| 25 | `covering` | `cover` | Continuous / Gerund (-ing) | penutup |
+| 26 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 27 | `digging` | `dig` | Continuous / Gerund (-ing) | menggali |
+| 28 | `dogs` | `dog` | Kata Nama Jamak (Plural -s/-es) | anjing |
+| 29 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 30 | `dropped` | `drop` | Past Tense (V2) | jatuhkan |
+| 31 | `dropping` | `drop` | Continuous / Gerund (-ing) | jatuhkan |
+| 32 | `erased` | `erase` | Past Tense (V2) | memadam |
+| 33 | `erasing` | `erase` | Continuous / Gerund (-ing) | memadam |
+| 34 | `falling` | `fall` | Continuous / Gerund (-ing) | jatuh |
+| 35 | `feet` | `foot` | Kata Nama Jamak (Plural Noun) | kaki |
+| 36 | `fell` | `fall` | Past Tense (V2) | jatuh |
+| 37 | `flip-flops` | `flip-flop` | Kata Nama Jamak (Plural -s/-es) | flip-flop |
+| 38 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 39 | `got` | `get` | Past Tense / Participle | dapat / mengambil |
+| 40 | `grabbed` | `grab` | Past Tense (V2) | ambil / capai |
+| 41 | `grabbing` | `grab` | Continuous / Gerund (-ing) | ambil / capai |
+| 42 | `grown` | `grow` | Past Participle (V3) | membesar |
+| 43 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 44 | `hanging` | `hang` | Continuous / Gerund (-ing) | gantung / menyidai |
+| 45 | `harvesting` | `harvest` | Continuous / Gerund (-ing) | menuai |
+| 46 | `heading` | `head` | Continuous / Gerund (-ing) | kepala / menuju |
+| 47 | `held` | `hold` | Past Tense / Participle | tahan |
+| 48 | `holding` | `hold` | Continuous / Gerund (-ing) | tahan |
+| 49 | `hugged` | `hug` | Past Tense (V2) | peluk |
+| 50 | `hugging` | `hug` | Continuous / Gerund (-ing) | peluk |
+| 51 | `hung` | `hang` | Past Participle (V3) | gantung / menyidai |
+| 52 | `ironed` | `iron` | Past Tense (V2) | besi |
+| 53 | `ironing` | `iron` | Continuous / Gerund (-ing) | besi |
+| 54 | `kissed` | `kiss` | Past Tense (V2) | ciuman |
+| 55 | `kissing` | `kiss` | Continuous / Gerund (-ing) | ciuman |
+| 56 | `knocked` | `knock` | Past Tense (V2) | ketuk |
+| 57 | `knocking` | `knock` | Continuous / Gerund (-ing) | ketuk |
+| 58 | `leaned` | `lean` | Past Tense (V2) | kurus |
+| 59 | `leaning` | `lean` | Continuous / Gerund (-ing) | kurus |
+| 60 | `learned` | `learn` | Past Tense (V2) | belajar |
+| 61 | `learning` | `learn` | Continuous / Gerund (-ing) | belajar |
+| 62 | `leaves` | `leaf` | Kata Nama Jamak (Plural -s/-es) | daun |
+| 63 | `lifted` | `lift` | Past Participle (V3) | angkat |
+| 64 | `lifting` | `lift` | Continuous / Gerund (-ing) | angkat |
+| 65 | `looks` | `look` | Kata Kerja Present (-s/-es) | tengok / kelihatan |
+| 66 | `magnets` | `magnet` | Kata Nama Jamak (Plural -s/-es) | magnet |
+| 67 | `measured` | `measure` | Past Participle (V3) | ukur / sukatan |
+| 68 | `measuring` | `measure` | Continuous / Gerund (-ing) | ukur / sukatan |
+| 69 | `meditated` | `meditate` | Past Tense (V2) | bermeditasi |
+| 70 | `meditating` | `meditate` | Continuous / Gerund (-ing) | bermeditasi |
+| 71 | `mopped` | `mop` | Past Tense (V2) | mop |
+| 72 | `mopping` | `mop` | Continuous / Gerund (-ing) | mop |
+| 73 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 74 | `mouths` | `mouth` | Kata Nama Jamak (Plural -s/-es) | mulut |
+| 75 | `patting` | `pat` | Continuous / Gerund (-ing) | tepuk |
+| 76 | `people` | `person` | Kata Nama Jamak (Plural Noun) | orang |
+| 77 | `planted` | `plant` | Past Tense (V2) | tumbuhan |
+| 78 | `poured` | `pour` | Past Tense (V2) | tuangkan |
+| 79 | `pouring` | `pour` | Continuous / Gerund (-ing) | tuangkan |
+| 80 | `presents` | `present` | Kata Nama Jamak (Plural -s/-es) | hadir |
+| 81 | `prisons` | `prison` | Kata Nama Jamak (Plural -s/-es) | penjara |
+| 82 | `raking` | `rake` | Continuous / Gerund (-ing) | menyapu |
+| 83 | `repaired` | `repair` | Past Tense (V2) | pembaikan |
+| 84 | `repairing` | `repair` | Continuous / Gerund (-ing) | pembaikan |
+| 85 | `rested` | `rest` | Past Tense (V2) | berehat |
+| 86 | `resting` | `rest` | Continuous / Gerund (-ing) | berehat |
+| 87 | `ringing` | `ring` | Continuous / Gerund (-ing) | cincin |
+| 88 | `said` | `say` | Past Tense / Participle | cakap / berkata |
+| 89 | `schools` | `school` | Kata Nama Jamak (Plural -s/-es) | sekolah |
+| 90 | `seconds` | `second` | Kata Nama Jamak (Plural -s/-es) | kedua / saat |
+| 91 | `seeds` | `seed` | Kata Nama Jamak (Plural -s/-es) | benih |
+| 92 | `shaking` | `shake` | Continuous / Gerund (-ing) | goncang |
+| 93 | `shoelaces` | `shoelace` | Kata Nama Jamak (Plural -s/-es) | tali kasut |
+| 94 | `shouting` | `shout` | Continuous / Gerund (-ing) | menjerit / melaung |
+| 95 | `skyscrapers` | `skyscraper` | Kata Nama Jamak (Plural -s/-es) | bangunan pencakar langit |
+| 96 | `sleeping` | `sleep` | Continuous / Gerund (-ing) | tidur |
+| 97 | `spilled` | `spill` | Past Tense (V2) | tumpahan |
+| 98 | `spilling` | `spill` | Continuous / Gerund (-ing) | tumpahan |
+| 99 | `steaming` | `steam` | Continuous / Gerund (-ing) | wap |
+| 100 | `stepped` | `step` | Past Participle (V3) | langkah / melangkah |
+| 101 | `stepping` | `step` | Continuous / Gerund (-ing) | langkah / melangkah |
+| 102 | `swallowed` | `swallow` | Past Tense (V2) | telan |
+| 103 | `swallowing` | `swallow` | Continuous / Gerund (-ing) | telan |
+| 104 | `sweeping` | `sweep` | Continuous / Gerund (-ing) | menyapu |
+| 105 | `swept` | `sweep` | Past Participle (V3) | menyapu |
+| 106 | `swinging` | `swing` | Continuous / Gerund (-ing) | hayunan |
+| 107 | `talking` | `talk` | Continuous / Gerund (-ing) | bercakap / berborak |
+| 108 | `taller` | `tall` | Perbandingan (Comparative -er) | tinggi |
+| 109 | `tasted` | `taste` | Past Tense (V2) | rasa |
+| 110 | `tasting` | `taste` | Continuous / Gerund (-ing) | rasa |
+| 111 | `tied` | `tie` | Past Participle (V3) | tali leher |
+| 112 | `turned` | `turn` | Past Tense (V2) | pusing / hidupkan (turn on) |
+| 113 | `turning` | `turn` | Continuous / Gerund (-ing) | pusing / hidupkan (turn on) |
+| 114 | `twisted` | `twist` | Past Tense (V2) | putar belit |
+| 115 | `twisting` | `twist` | Continuous / Gerund (-ing) | putar belit |
+| 116 | `tying` | `tie` | Continuous / Gerund (-ing) | tali leher |
+| 117 | `uncovered` | `uncover` | Past Tense (V2) | membongkar |
+| 118 | `uncovering` | `uncover` | Continuous / Gerund (-ing) | membongkar |
+| 119 | `untangled` | `untangle` | Past Tense / Participle (-ed) | leraikan |
+| 120 | `untangling` | `untangle` | Continuous / Gerund (-ing) | leraikan |
+| 121 | `unwrapped` | `unwrap` | Past Tense (V2) | buka bungkus |
+| 122 | `unwrapping` | `unwrap` | Continuous / Gerund (-ing) | buka bungkus |
+| 123 | `verbs` | `verb` | Kata Nama Jamak (Plural -s/-es) | kata kerja |
+| 124 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 125 | `wants` | `want` | Kata Kerja Present (-s/-es) | mahu / nak |
+| 126 | `watering` | `water` | Continuous / Gerund (-ing) | air |
+| 127 | `waved` | `wave` | Past Participle (V3) | gelombang |
+| 128 | `waving` | `wave` | Continuous / Gerund (-ing) | gelombang |
+| 129 | `wearing` | `wear` | Continuous / Gerund (-ing) | pakai |
+| 130 | `weights` | `weight` | Kata Nama Jamak (Plural -s/-es) | berat badan |
+| 131 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
+| 132 | `whispered` | `whisper` | Past Tense (V2) | berbisik |
+| 133 | `whispering` | `whisper` | Continuous / Gerund (-ing) | berbisik |
+| 134 | `whistled` | `whistle` | Past Participle (V3) | wisel |
+| 135 | `whistling` | `whistle` | Continuous / Gerund (-ing) | wisel |
+| 136 | `words` | `word` | Kata Nama Jamak (Plural -s/-es) | perkataan |
+| 137 | `working` | `work` | Continuous / Gerund (-ing) | kerja / berfungsi |
+| 138 | `wounds` | `wound` | Kata Nama Jamak (Plural -s/-es) | luka |
+| 139 | `wrapped` | `wrap` | Past Tense (V2) | bungkus |
+| 140 | `wrapping` | `wrap` | Continuous / Gerund (-ing) | bungkus |
+
 ---
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word

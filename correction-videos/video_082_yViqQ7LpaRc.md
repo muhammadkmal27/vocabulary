@@ -648,6 +648,118 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 94 | `you will` | 1x | ✅ Ada (`phraseDictionary`) | anda akan |
 | 95 | `you would` | 1x | ✅ Ada (`phraseDictionary`) | anda akan |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 106 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `accessories` | `accessory` | Kata Nama Jamak (Plural -s/-es) | aksesori |
+| 2 | `airports` | `airport` | Kata Nama Jamak (Plural -s/-es) | lapangan terbang |
+| 3 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 4 | `bags` | `bag` | Kata Nama Jamak (Plural -s/-es) | beg |
+| 5 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 6 | `being` | `be` | Continuous / Gerund (-ing) | menjadi / berada |
+| 7 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
+| 8 | `better` | `good` | Perbandingan (Comparative -er) | baik / bagus |
+| 9 | `bigger` | `big` | Perbandingan (Comparative -er) | besar |
+| 10 | `burning` | `burn` | Continuous / Gerund (-ing) | terbakar |
+| 11 | `businesses` | `business` | Kata Nama Jamak (Plural -s/-es) | perniagaan |
+| 12 | `called` | `call` | Past Participle (V3) | panggil / hubungi |
+| 13 | `came` | `come` | Past Tense (V2) | datang / mari |
+| 14 | `cards` | `card` | Kata Nama Jamak (Plural -s/-es) | kad |
+| 15 | `carrying` | `carry` | Continuous / Gerund (-ing) | membawa |
+| 16 | `chased` | `chase` | Past Participle (V3) | mengejar |
+| 17 | `cherries` | `cherry` | Kata Nama Jamak (Plural -s/-es) | ceri |
+| 18 | `cleaning` | `clean` | Continuous / Gerund (-ing) | bersih / membersihkan |
+| 19 | `closed` | `close` | Past Tense (V2) | tutup / dekat |
+| 20 | `closing` | `close` | Continuous / Gerund (-ing) | tutup / dekat |
+| 21 | `comes` | `come` | Kata Kerja Present (-s/-es) | datang / mari |
+| 22 | `coming` | `come` | Continuous / Gerund (-ing) | datang / mari |
+| 23 | `countries` | `country` | Kata Nama Jamak (Plural -s/-es) | negara |
+| 24 | `cows` | `cow` | Kata Nama Jamak (Plural -s/-es) | lembu |
+| 25 | `deadlines` | `deadline` | Kata Nama Jamak (Plural -s/-es) | tarikh akhir |
+| 26 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 27 | `does` | `do` | Present Tense (3rd Person) | buat / lakukan |
+| 28 | `dogs` | `dog` | Kata Nama Jamak (Plural -s/-es) | anjing |
+| 29 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 30 | `eating` | `eat` | Continuous / Gerund (-ing) | makan |
+| 31 | `entered` | `enter` | Past Participle (V3) | masuk |
+| 32 | `essentials` | `essential` | Kata Nama Jamak (Plural -s/-es) | penting |
+| 33 | `farming` | `farm` | Continuous / Gerund (-ing) | ladang |
+| 34 | `filled` | `fill` | Past Participle (V3) | isi |
+| 35 | `filling` | `fill` | Continuous / Gerund (-ing) | isi |
+| 36 | `finished` | `finish` | Past Tense (V2) | selesai |
+| 37 | `flying` | `fly` | Continuous / Gerund (-ing) | terbang |
+| 38 | `forgot` | `forget` | Past Tense (V2) | lupa / terlupa |
+| 39 | `fueling` | `fuel` | Continuous / Gerund (-ing) | bahan api |
+| 40 | `getting` | `get` | Continuous / Gerund (-ing) | dapat / mengambil |
+| 41 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 42 | `got` | `get` | Past Tense / Participle | dapat / mengambil |
+| 43 | `grades` | `grade` | Kata Nama Jamak (Plural -s/-es) | gred |
+| 44 | `guys` | `guy` | Kata Kerja Present (-s/-es) | lelaki |
+| 45 | `had` | `have` | Past Tense / Participle | ada / mempunyai |
+| 46 | `hairs` | `hair` | Kata Nama Jamak (Plural -s/-es) | rambut |
+| 47 | `headed` | `head` | Past Participle (V3) | kepala / menuju |
+| 48 | `heading` | `head` | Continuous / Gerund (-ing) | kepala / menuju |
+| 49 | `heating` | `heat` | Continuous / Gerund (-ing) | panas |
+| 50 | `helping` | `help` | Continuous / Gerund (-ing) | bantu / tolong |
+| 51 | `herded` | `herd` | Past Participle (V3) | kawanan |
+| 52 | `hospitals` | `hospital` | Kata Nama Jamak (Plural -s/-es) | hospital |
+| 53 | `kids` | `kid` | Kata Nama Jamak (Plural -s/-es) | nak |
+| 54 | `landed` | `land` | Past Tense (V2) | tanah |
+| 55 | `left` | `leave` | Past Tense / Participle | tinggalkan / keluar |
+| 56 | `legs` | `leg` | Kata Nama Jamak (Plural -s/-es) | kaki |
+| 57 | `locked` | `lock` | Past Tense / Participle (-ed) | kunci / mengunci |
+| 58 | `looked` | `look` | Past Tense (V2) | tengok / kelihatan |
+| 59 | `looks` | `look` | Kata Kerja Present (-s/-es) | tengok / kelihatan |
+| 60 | `machines` | `machine` | Kata Nama Jamak (Plural -s/-es) | mesin |
+| 61 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
+| 62 | `means` | `mean` | Kata Kerja Present (-s/-es) | maksud / berniat |
+| 63 | `missed` | `miss` | Past Tense (V2) | rindu |
+| 64 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 65 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 66 | `oldest` | `old` | Paling / Tertinggi (Superlative -est) | lama |
+| 67 | `opening` | `open` | Continuous / Gerund (-ing) | buka / terbuka |
+| 68 | `paid` | `pay` | Past Tense / Participle | bayar |
+| 69 | `pickles` | `pickle` | Kata Nama Jamak (Plural -s/-es) | jeruk |
+| 70 | `played` | `play` | Past Tense (V2) | main / memainkan |
+| 71 | `potholes` | `pothole` | Kata Nama Jamak (Plural -s/-es) | jalan berlubang |
+| 72 | `pulling` | `pull` | Continuous / Gerund (-ing) | tarik / menarik |
+| 73 | `pumps` | `pump` | Kata Nama Jamak (Plural -s/-es) | pam |
+| 74 | `putting` | `put` | Continuous / Gerund (-ing) | letak / meletakkan |
+| 75 | `raining` | `rain` | Continuous / Gerund (-ing) | hujan |
+| 76 | `resurfacing` | `resurface` | Continuous / Gerund (-ing) | timbul semula |
+| 77 | `roads` | `road` | Kata Nama Jamak (Plural -s/-es) | jalan raya |
+| 78 | `schools` | `school` | Kata Nama Jamak (Plural -s/-es) | sekolah |
+| 79 | `scraping` | `scrap` | Continuous / Gerund (-ing) | sekerap |
+| 80 | `seasoned` | `season` | Past Tense (V2) | musim |
+| 81 | `seen` | `see` | Past Participle (V3) | lihat / nampak / tengok |
+| 82 | `selfs` | `self` | Kata Nama Jamak (Plural -s/-es) | diri sendiri |
+| 83 | `shopping` | `shop` | Continuous / Gerund (-ing) | kedai |
+| 84 | `shops` | `shop` | Kata Nama Jamak (Plural -s/-es) | kedai |
+| 85 | `smaller` | `small` | Perbandingan (Comparative -er) | kecil |
+| 86 | `stations` | `station` | Kata Nama Jamak (Plural -s/-es) | stesen |
+| 87 | `tanks` | `tank` | Kata Nama Jamak (Plural -s/-es) | tangki |
+| 88 | `tastes` | `taste` | Kata Kerja Present (-s/-es) | rasa |
+| 89 | `things` | `thing` | Kata Nama Jamak (Plural -s/-es) | benda / perkara |
+| 90 | `thought` | `think` | Past Tense / Participle | fikir / berfikir |
+| 91 | `training` | `train` | Continuous / Gerund (-ing) | kereta api |
+| 92 | `traveling` | `travel` | Continuous / Gerund (-ing) | melancong |
+| 93 | `universities` | `university` | Kata Nama Jamak (Plural -s/-es) | universiti |
+| 94 | `used` | `use` | Past Participle (V3) | guna / menggunakan |
+| 95 | `users` | `user` | Kata Nama Jamak (Plural -s/-es) | pengguna |
+| 96 | `vehicles` | `vehicle` | Kata Nama Jamak (Plural -s/-es) | kenderaan |
+| 97 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 98 | `wants` | `want` | Kata Kerja Present (-s/-es) | mahu / nak |
+| 99 | `warming` | `warm` | Continuous / Gerund (-ing) | hangat / suam |
+| 100 | `went` | `go` | Past Tense (V2) | pergi |
+| 101 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
+| 102 | `working` | `work` | Continuous / Gerund (-ing) | kerja / berfungsi |
+| 103 | `worried` | `worry` | Past Tense / Participle (-ed) | risau |
+| 104 | `worst` | `bad` | Paling / Tertinggi (Superlative -est) | teruk / buruk |
+| 105 | `years` | `year` | Kata Nama Jamak (Plural -s/-es) | tahun |
+| 106 | `youngest` | `young` | Paling / Tertinggi (Superlative -est) | muda |
+
 ---
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word

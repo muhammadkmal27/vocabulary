@@ -431,6 +431,70 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 61 | `you just` | 1x | ✅ Ada (`phraseDictionary`) | awak cuma |
 | 62 | `your left` | 1x | ✅ Ada (`phraseDictionary`) | kiri anda |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 58 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `allows` | `allow` | Kata Kerja Present (-s/-es) | membenarkan / membolehkan |
+| 2 | `answered` | `answer` | Past Tense (V2) | jawapan / menjawab |
+| 3 | `answering` | `answer` | Continuous / Gerund (-ing) | jawapan / menjawab |
+| 4 | `answers` | `answer` | Kata Nama Jamak (Plural -s/-es) | jawapan / menjawab |
+| 5 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 6 | `asked` | `ask` | Past Tense (V2) | bertanya |
+| 7 | `asking` | `ask` | Continuous / Gerund (-ing) | bertanya |
+| 8 | `becoming` | `become` | Continuous / Gerund (-ing) | menjadi |
+| 9 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 10 | `biggest` | `big` | Paling / Tertinggi (Superlative -est) | besar |
+| 11 | `brothers` | `brother` | Kata Nama Jamak (Plural -s/-es) | abang |
+| 12 | `built` | `build` | Past Tense / Participle | membina |
+| 13 | `conversations` | `conversation` | Kata Nama Jamak (Plural -s/-es) | perbualan |
+| 14 | `definitions` | `definition` | Kata Nama Jamak (Plural -s/-es) | takrifan |
+| 15 | `designed` | `design` | Past Participle (V3) | reka bentuk |
+| 16 | `does` | `do` | Present Tense (3rd Person) | buat / lakukan |
+| 17 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 18 | `enjoying` | `enjoy` | Continuous / Gerund (-ing) | nikmatilah |
+| 19 | `examples` | `example` | Kata Nama Jamak (Plural -s/-es) | contoh |
+| 20 | `feels` | `feel` | Kata Kerja Present (-s/-es) | rasa / merasa |
+| 21 | `getting` | `get` | Continuous / Gerund (-ing) | dapat / mengambil |
+| 22 | `giving` | `give` | Continuous / Gerund (-ing) | beri / memberikan |
+| 23 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 24 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 25 | `hesitating` | `hesitate` | Continuous / Gerund (-ing) | teragak-agak |
+| 26 | `improving` | `improve` | Continuous / Gerund (-ing) | bertambah baik |
+| 27 | `introductions` | `introduction` | Kata Nama Jamak (Plural -s/-es) | pengenalan |
+| 28 | `left` | `leave` | Past Tense / Participle | tinggalkan / keluar |
+| 29 | `lessons` | `lesson` | Kata Nama Jamak (Plural -s/-es) | pelajaran |
+| 30 | `looking` | `look` | Continuous / Gerund (-ing) | tengok / kelihatan |
+| 31 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 32 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 33 | `playing` | `play` | Continuous / Gerund (-ing) | main / memainkan |
+| 34 | `practiced` | `practice` | Past Participle (V3) | berlatih / latihan |
+| 35 | `practicing` | `practice` | Continuous / Gerund (-ing) | berlatih / latihan |
+| 36 | `problems` | `problem` | Kata Nama Jamak (Plural -s/-es) | masalah |
+| 37 | `questions` | `question` | Kata Nama Jamak (Plural -s/-es) | soalan |
+| 38 | `reading` | `read` | Continuous / Gerund (-ing) | membaca |
+| 39 | `running` | `run` | Continuous / Gerund (-ing) | berlari / mengalir |
+| 40 | `shoes` | `shoe` | Kata Nama Jamak (Plural -s/-es) | kasut |
+| 41 | `shopping` | `shop` | Continuous / Gerund (-ing) | kedai |
+| 42 | `shows` | `show` | Kata Kerja Present (-s/-es) | tunjuk / menunjukkan |
+| 43 | `sisters` | `sister` | Kata Nama Jamak (Plural -s/-es) | kakak |
+| 44 | `snowboarding` | `snowboard` | Continuous / Gerund (-ing) | papan salji |
+| 45 | `socializing` | `socialize` | Continuous / Gerund (-ing) | bersosial |
+| 46 | `speaking` | `speak` | Continuous / Gerund (-ing) | bercakap |
+| 47 | `spelled` | `spell` | Past Tense / Participle (-ed) | mengeja |
+| 48 | `spoken` | `speak` | Past Participle (V3) | bercakap |
+| 49 | `sports` | `sport` | Kata Nama Jamak (Plural -s/-es) | sukan |
+| 50 | `started` | `start` | Past Participle (V3) | mula / memulakan |
+| 51 | `starting` | `start` | Continuous / Gerund (-ing) | mula / memulakan |
+| 52 | `swimming` | `swim` | Continuous / Gerund (-ing) | berenang |
+| 53 | `traveling` | `travel` | Continuous / Gerund (-ing) | melancong |
+| 54 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 55 | `wants` | `want` | Kata Kerja Present (-s/-es) | mahu / nak |
+| 56 | `ways` | `way` | Kata Nama Jamak (Plural -s/-es) | jalan / cara |
+| 57 | `words` | `word` | Kata Nama Jamak (Plural -s/-es) | perkataan |
+| 58 | `years` | `year` | Kata Nama Jamak (Plural -s/-es) | tahun |
+
 ---
 
 

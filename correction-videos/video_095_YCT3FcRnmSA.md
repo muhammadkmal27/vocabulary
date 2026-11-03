@@ -666,6 +666,121 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 115 | `you get` | 1x | ✅ Ada (`phraseDictionary`) | awak dapat |
 | 116 | `you just` | 1x | ✅ Ada (`phraseDictionary`) | awak cuma |
 
+### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 109 Bentuk Kata)
+Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
+
+| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+|:---:|:---|:---|:---|:---|
+| 1 | `airplanes` | `airplane` | Kata Nama Jamak (Plural -s/-es) | kapal terbang |
+| 2 | `amazing` | `amaze` | Continuous / Gerund (-ing) | memukau |
+| 3 | `animals` | `animal` | Kata Nama Jamak (Plural -s/-es) | haiwan |
+| 4 | `appears` | `appear` | Kata Kerja Present (-s/-es) | muncul |
+| 5 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 6 | `attacked` | `attack` | Past Participle (V3) | menyerang |
+| 7 | `attacking` | `attack` | Continuous / Gerund (-ing) | menyerang |
+| 8 | `beaches` | `beach` | Kata Nama Jamak (Plural -s/-es) | pantai |
+| 9 | `bears` | `bear` | Kata Kerja Present (-s/-es) | beruang |
+| 10 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 11 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
+| 12 | `bikes` | `bike` | Kata Nama Jamak (Plural -s/-es) | basikal |
+| 13 | `boats` | `boat` | Kata Nama Jamak (Plural -s/-es) | bot |
+| 14 | `bored` | `bore` | Past Participle (V3) | membosankan |
+| 15 | `boring` | `bore` | Continuous / Gerund (-ing) | membosankan |
+| 16 | `called` | `call` | Past Participle (V3) | panggil / hubungi |
+| 17 | `calls` | `call` | Kata Kerja Present (-s/-es) | panggil / hubungi |
+| 18 | `cars` | `car` | Kata Nama Jamak (Plural -s/-es) | kereta |
+| 19 | `cliffs` | `cliff` | Kata Nama Jamak (Plural -s/-es) | tebing |
+| 20 | `climbed` | `climb` | Past Tense (V2) | mendaki |
+| 21 | `climbing` | `climb` | Continuous / Gerund (-ing) | mendaki |
+| 22 | `closed` | `close` | Past Participle (V3) | tutup / dekat |
+| 23 | `comments` | `comment` | Kata Nama Jamak (Plural -s/-es) | komen |
+| 24 | `cows` | `cow` | Kata Nama Jamak (Plural -s/-es) | lembu |
+| 25 | `depended` | `depend` | Past Tense (V2) | bergantung |
+| 26 | `depends` | `depend` | Kata Kerja Present (-s/-es) | bergantung |
+| 27 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 28 | `dishes` | `dish` | Kata Nama Jamak (Plural -s/-es) | hidangan |
+| 29 | `dogs` | `dog` | Kata Nama Jamak (Plural -s/-es) | anjing |
+| 30 | `draws` | `draw` | Kata Kerja Present (-s/-es) | melukis |
+| 31 | `drinking` | `drink` | Continuous / Gerund (-ing) | minum |
+| 32 | `drunk` | `drink` | Past Participle (V3) | minum |
+| 33 | `ears` | `ear` | Kata Nama Jamak (Plural -s/-es) | telinga |
+| 34 | `encounters` | `encounter` | Kata Nama Jamak (Plural -s/-es) | perjumpaan |
+| 35 | `engaging` | `engage` | Continuous / Gerund (-ing) | terlibat |
+| 36 | `fastest` | `fast` | Paling / Tertinggi (Superlative -est) | cepat |
+| 37 | `feet` | `foot` | Kata Nama Jamak (Plural Noun) | kaki |
+| 38 | `forgot` | `forget` | Past Tense (V2) | lupa / terlupa |
+| 39 | `getting` | `get` | Continuous / Gerund (-ing) | dapat / mengambil |
+| 40 | `gives` | `give` | Kata Kerja Present (-s/-es) | beri / memberikan |
+| 41 | `goats` | `goat` | Kata Nama Jamak (Plural -s/-es) | kambing |
+| 42 | `goes` | `go` | Kata Kerja Present (-s/-es) | pergi |
+| 43 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 44 | `got` | `get` | Past Tense / Participle | dapat / mengambil |
+| 45 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 46 | `had` | `have` | Past Tense / Participle | ada / mempunyai |
+| 47 | `hardest` | `hard` | Paling / Tertinggi (Superlative -est) | keras |
+| 48 | `heard` | `hear` | Past Tense / Participle | dengar |
+| 49 | `heats` | `heat` | Kata Kerja Present (-s/-es) | panas |
+| 50 | `hiking` | `hike` | Continuous / Gerund (-ing) | mendaki |
+| 51 | `horns` | `horn` | Kata Nama Jamak (Plural -s/-es) | tanduk |
+| 52 | `kept` | `keep` | Past Participle (V3) | simpan / teruskan |
+| 53 | `learned` | `learn` | Past Tense (V2) | belajar |
+| 54 | `learning` | `learn` | Continuous / Gerund (-ing) | belajar |
+| 55 | `least` | `little` | Paling / Tertinggi (Superlative) | kecil / sedikit |
+| 56 | `leaves` | `leaf` | Kata Nama Jamak (Plural -s/-es) | daun |
+| 57 | `legs` | `leg` | Kata Nama Jamak (Plural -s/-es) | kaki |
+| 58 | `locked` | `lock` | Past Participle (V3) | kunci / mengunci |
+| 59 | `looks` | `look` | Kata Kerja Present (-s/-es) | tengok / kelihatan |
+| 60 | `lost` | `lose` | Past Tense / Participle | kalah |
+| 61 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
+| 62 | `makes` | `make` | Kata Kerja Present (-s/-es) | buat / menghasilkan |
+| 63 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 64 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 65 | `motorcycles` | `motorcycle` | Kata Nama Jamak (Plural -s/-es) | motosikal |
+| 66 | `mountains` | `mountain` | Kata Nama Jamak (Plural -s/-es) | gunung |
+| 67 | `nicest` | `nice` | Paling / Tertinggi (Superlative -est) | bagus / cantik / selesa |
+| 68 | `opening` | `open` | Continuous / Gerund (-ing) | buka / terbuka |
+| 69 | `panting` | `pant` | Continuous / Gerund (-ing) | seluar |
+| 70 | `people` | `person` | Kata Nama Jamak (Plural Noun) | orang |
+| 71 | `places` | `place` | Kata Nama Jamak (Plural -s/-es) | tempat |
+| 72 | `planes` | `plane` | Kata Nama Jamak (Plural -s/-es) | kapal terbang |
+| 73 | `prepared` | `prepare` | Past Tense / Participle (-ed) | sediakan |
+| 74 | `prints` | `print` | Kata Nama Jamak (Plural -s/-es) | cetak |
+| 75 | `raining` | `rain` | Continuous / Gerund (-ing) | hujan |
+| 76 | `related` | `relate` | Past Participle (V3) | kaitkan |
+| 77 | `relaxing` | `relax` | Continuous / Gerund (-ing) | berehat / santai |
+| 78 | `runs` | `run` | Kata Kerja Present (-s/-es) | berlari / mengalir |
+| 79 | `sandals` | `sandal` | Kata Nama Jamak (Plural -s/-es) | sandal |
+| 80 | `scratched` | `scratch` | Past Participle (V3) | calar |
+| 81 | `seen` | `see` | Past Participle (V3) | lihat / nampak / tengok |
+| 82 | `ships` | `ship` | Kata Nama Jamak (Plural -s/-es) | kapal |
+| 83 | `shoes` | `shoe` | Kata Nama Jamak (Plural -s/-es) | kasut |
+| 84 | `slides` | `slide` | Kata Nama Jamak (Plural -s/-es) | slaid |
+| 85 | `spending` | `spend` | Continuous / Gerund (-ing) | luangkan / belanjakan |
+| 86 | `subtitles` | `subtitle` | Kata Nama Jamak (Plural -s/-es) | sari kata |
+| 87 | `taking` | `take` | Continuous / Gerund (-ing) | ambil / memerlukan masa |
+| 88 | `talking` | `talk` | Continuous / Gerund (-ing) | bercakap / berborak |
+| 89 | `taught` | `teach` | Past Participle (V3) | mengajar |
+| 90 | `things` | `thing` | Kata Nama Jamak (Plural -s/-es) | benda / perkara |
+| 91 | `times` | `time` | Kata Nama Jamak (Plural -s/-es) | masa / waktu |
+| 92 | `tinted` | `tint` | Past Participle (V3) | warna |
+| 93 | `tired` | `tire` | Past Participle (V3) | tayar |
+| 94 | `traveling` | `travel` | Continuous / Gerund (-ing) | melancong |
+| 95 | `trees` | `tree` | Kata Nama Jamak (Plural -s/-es) | pokok |
+| 96 | `trying` | `try` | Continuous / Gerund (-ing) | cuba / mencuba |
+| 97 | `types` | `type` | Kata Nama Jamak (Plural -s/-es) | taip |
+| 98 | `unlocked` | `unlock` | Past Tense / Participle (-ed) | buka kunci |
+| 99 | `untying` | `untie` | Continuous / Gerund (-ing) | membuka ikatan |
+| 100 | `videos` | `video` | Kata Nama Jamak (Plural -s/-es) | video |
+| 101 | `walked` | `walk` | Past Tense (V2) | berjalan |
+| 102 | `walking` | `walk` | Continuous / Gerund (-ing) | berjalan |
+| 103 | `went` | `go` | Past Tense (V2) | pergi |
+| 104 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
+| 105 | `windows` | `window` | Kata Nama Jamak (Plural -s/-es) | tingkap |
+| 106 | `words` | `word` | Kata Nama Jamak (Plural -s/-es) | perkataan |
+| 107 | `worked` | `work` | Past Tense (V2) | kerja / berfungsi |
+| 108 | `worst` | `bad` | Paling / Tertinggi (Superlative -est) | teruk / buruk |
+| 109 | `years` | `year` | Kata Nama Jamak (Plural -s/-es) | tahun |
+
 ---
 
 ## 📝 Bahagian 2: Senarai Semakan Subtitle & Word by Word
