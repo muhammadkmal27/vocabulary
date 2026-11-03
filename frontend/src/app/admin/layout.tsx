@@ -17,6 +17,7 @@ import {
   LogOut,
   ChevronLeft,
   Video,
+  Sparkles,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
@@ -26,6 +27,7 @@ const NAV_ITEMS = [
   { href: "/admin/levels", label: "Level", icon: Layers },
   { href: "/admin/sentences", label: "Ayat", icon: BookOpen },
   { href: "/admin/videos", label: "Video YouTube", icon: Video },
+  { href: "/admin/special", label: "Video Khas", icon: Sparkles },
   { href: "/admin/plans", label: "Plan Harga", icon: CreditCard },
   { href: "/admin/coupons", label: "Kupon", icon: Ticket },
   { href: "/admin/users", label: "Pengguna", icon: Users },
