@@ -927,8 +927,8 @@ Senarai mengikut abjad (A–Z) bagi memudahkan semakan dan penambahan ke dalam k
 
 ---
 
-### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 41 Frasa)
-Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam video ini yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*):
+### 🗣️ Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 295 Frasa)
+Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam Video #3 yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*). Ciri ini membolehkan paparan dwipetak (*tooltip*) di mana apabila pengguna menekan mana-mana perkataan di dalam frasa ini, sistem akan menterjemahkan keseluruhan frasa ayat mengikut konteks perbualan:
 
 | No | Frasa / Vocarb Ayat (English) | Kekerapan | Status Kamus | Maksud Konteks Frasa (Bahasa Melayu) |
 |:---:|:---|:---:|:---:|:---|
@@ -938,42 +938,297 @@ Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simp
 | 4 | `i don't` | 15x | ✅ Ada (`phraseDictionary`) | saya tidak |
 | 5 | `can see` | 12x | ✅ Ada (`phraseDictionary`) | boleh nampak |
 | 6 | `a lot of` | 11x | ✅ Ada (`phraseDictionary`) | banyak / pelbagai |
-| 7 | `i think` | 10x | ✅ Ada (`phraseDictionary`) | saya rasa |
-| 8 | `throne room` | 10x | ✅ Ada (`phraseDictionary`) | bilik pelamin |
-| 9 | `there are` | 9x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
-| 10 | `a little` | 8x | ✅ Ada (`phraseDictionary`) | agak / sedikit |
-| 11 | `i would` | 8x | ✅ Ada (`phraseDictionary`) | saya akan |
-| 12 | `it's just` | 8x | ✅ Ada (`phraseDictionary`) | ia hanya |
-| 13 | `let's go` | 8x | ✅ Ada (`phraseDictionary`) | jom pergi / mari kita pergi |
-| 14 | `look at` | 8x | ✅ Ada (`phraseDictionary`) | lihat / tengok |
-| 15 | `it's like` | 7x | ✅ Ada (`phraseDictionary`) | ia seperti |
-| 16 | `just like` | 7x | ✅ Ada (`phraseDictionary`) | sama seperti |
-| 17 | `right now` | 7x | ✅ Ada (`phraseDictionary`) | sekarang juga |
-| 18 | `up to` | 7x | ✅ Ada (`phraseDictionary`) | sehingga / sampai |
-| 19 | `what do` | 6x | ✅ Ada (`phraseDictionary`) | buat apa |
-| 20 | `a little bit` | 5x | ✅ Ada (`phraseDictionary`) | sedikit / sikit |
-| 21 | `in front of` | 5x | ✅ Ada (`phraseDictionary`) | di hadapan / di depan |
-| 22 | `kind of` | 5x | ✅ Ada (`phraseDictionary`) | agak / macam |
-| 23 | `let me know` | 5x | ✅ Ada (`phraseDictionary`) | beritahu saya |
-| 24 | `there is` | 5x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
-| 25 | `as well` | 4x | ✅ Ada (`phraseDictionary`) | juga / sekali |
-| 26 | `you know` | 4x | ✅ Ada (`phraseDictionary`) | awak tahu / seperti yang anda tahu |
-| 27 | `have to` | 3x | ✅ Ada (`phraseDictionary`) | kena / perlu / terpaksa |
-| 28 | `comprehensible input` | 2x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
-| 29 | `make sure` | 2x | ✅ Ada (`phraseDictionary`) | pastikan |
-| 30 | `shadowing segment` | 2x | ✅ Ada (`phraseDictionary`) | segmen latihan sebutan (shadowing) |
-| 31 | `all the way` | 1x | ✅ Ada (`phraseDictionary`) | sepenuhnya / sampai habis |
-| 32 | `don't have to` | 1x | ✅ Ada (`phraseDictionary`) | tidak perlu / tak payah |
-| 33 | `first time` | 1x | ✅ Ada (`phraseDictionary`) | kali pertama |
-| 34 | `i'll be` | 1x | ✅ Ada (`phraseDictionary`) | saya akan |
-| 35 | `out of` | 1x | ✅ Ada (`phraseDictionary`) | keluar dari / kehabisan |
-| 36 | `over there` | 1x | ✅ Ada (`phraseDictionary`) | di sebelah sana |
-| 37 | `right here` | 1x | ✅ Ada (`phraseDictionary`) | di sebelah sini / betul-betul di sini |
-| 38 | `take a look` | 1x | ✅ Ada (`phraseDictionary`) | tengok / lihat sebentar |
-| 39 | `this right here` | 1x | ✅ Ada (`phraseDictionary`) | yang di sini / bahagian ini |
-| 40 | `we'll be` | 1x | ✅ Ada (`phraseDictionary`) | kami akan / kita akan |
-| 41 | `welcome back` | 1x | ✅ Ada (`phraseDictionary`) | selamat kembali / selamat pulang |
+| 7 | `going to` | 10x | ✅ Ada (`phraseDictionary`) | akan / sedang menuju ke |
+| 8 | `i think` | 10x | ✅ Ada (`phraseDictionary`) | saya rasa |
+| 9 | `throne room` | 10x | ✅ Ada (`phraseDictionary`) | bilik pelamin |
+| 10 | `there are` | 9x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 11 | `a little` | 8x | ✅ Ada (`phraseDictionary`) | agak / sedikit |
+| 12 | `i would` | 8x | ✅ Ada (`phraseDictionary`) | saya akan |
+| 13 | `it's just` | 8x | ✅ Ada (`phraseDictionary`) | ia hanya |
+| 14 | `let's go` | 8x | ✅ Ada (`phraseDictionary`) | jom pergi / mari kita pergi |
+| 15 | `look at` | 8x | ✅ Ada (`phraseDictionary`) | lihat / tengok |
+| 16 | `it's like` | 7x | ✅ Ada (`phraseDictionary`) | ia seperti |
+| 17 | `just like` | 7x | ✅ Ada (`phraseDictionary`) | sama seperti |
+| 18 | `right now` | 7x | ✅ Ada (`phraseDictionary`) | sekarang juga |
+| 19 | `up to` | 7x | ✅ Ada (`phraseDictionary`) | sehingga / sampai |
+| 20 | `want to` | 6x | ✅ Ada (`phraseDictionary`) | mahu |
+| 21 | `was like` | 6x | ✅ Ada (`phraseDictionary`) | adalah seperti |
+| 22 | `what do` | 6x | ✅ Ada (`phraseDictionary`) | buat apa |
+| 23 | `you could` | 6x | ✅ Ada (`phraseDictionary`) | anda boleh |
+| 24 | `you guys` | 6x | ✅ Ada (`phraseDictionary`) | kamu semua |
+| 25 | `a little bit` | 5x | ✅ Ada (`phraseDictionary`) | sedikit / sikit |
+| 26 | `but it's` | 5x | ✅ Ada (`phraseDictionary`) | tetapi ia adalah |
+| 27 | `in front of` | 5x | ✅ Ada (`phraseDictionary`) | di hadapan / di depan |
+| 28 | `kind of` | 5x | ✅ Ada (`phraseDictionary`) | agak / macam |
+| 29 | `let me know` | 5x | ✅ Ada (`phraseDictionary`) | beritahu saya |
+| 30 | `little bit` | 5x | ✅ Ada (`phraseDictionary`) | sikit-sikit |
+| 31 | `looks like` | 5x | ✅ Ada (`phraseDictionary`) | nampak macam |
+| 32 | `me know` | 5x | ✅ Ada (`phraseDictionary`) | saya tahu |
+| 33 | `now we're` | 5x | ✅ Ada (`phraseDictionary`) | sekarang kita |
+| 34 | `there is` | 5x | ✅ Ada (`phraseDictionary`) | ada / terdapat |
+| 35 | `they were` | 5x | ✅ Ada (`phraseDictionary`) | mereka |
+| 36 | `we have` | 5x | ✅ Ada (`phraseDictionary`) | kita ada |
+| 37 | `you can't` | 5x | ✅ Ada (`phraseDictionary`) | anda tidak boleh |
+| 38 | `you think` | 5x | ✅ Ada (`phraseDictionary`) | anda fikir |
+| 39 | `as well` | 4x | ✅ Ada (`phraseDictionary`) | juga / sekali |
+| 40 | `because it's` | 4x | ✅ Ada (`phraseDictionary`) | kerana ia adalah |
+| 41 | `don't know` | 4x | ✅ Ada (`phraseDictionary`) | tidak tahu |
+| 42 | `i guess` | 4x | ✅ Ada (`phraseDictionary`) | saya rasa |
+| 43 | `i'm going` | 4x | ✅ Ada (`phraseDictionary`) | saya akan pergi |
+| 44 | `it's not` | 4x | ✅ Ada (`phraseDictionary`) | ia tidak |
+| 45 | `like you` | 4x | ✅ Ada (`phraseDictionary`) | macam awak |
+| 46 | `or something` | 4x | ✅ Ada (`phraseDictionary`) | atau sesuatu |
+| 47 | `that's where` | 4x | ✅ Ada (`phraseDictionary`) | di situlah |
+| 48 | `what do you think` | 4x | ✅ Ada (`phraseDictionary`) | apa pandangan anda mengenainya |
+| 49 | `where we` | 4x | ✅ Ada (`phraseDictionary`) | di mana kita |
+| 50 | `you don't` | 4x | ✅ Ada (`phraseDictionary`) | anda tidak |
+| 51 | `you know` | 4x | ✅ Ada (`phraseDictionary`) | awak tahu / seperti yang anda tahu |
+| 52 | `check it out` | 3x | ✅ Ada (`phraseDictionary`) | tengoklah ini / cubalah lihat |
+| 53 | `don't have` | 3x | ✅ Ada (`phraseDictionary`) | tidak mempunyai |
+| 54 | `feel like` | 3x | ✅ Ada (`phraseDictionary`) | rasa macam |
+| 55 | `go in` | 3x | ✅ Ada (`phraseDictionary`) | masuk ke dalam |
+| 56 | `have to` | 3x | ✅ Ada (`phraseDictionary`) | kena / perlu / terpaksa |
+| 57 | `i really` | 3x | ✅ Ada (`phraseDictionary`) | saya betul-betul |
+| 58 | `i'm pretty` | 3x | ✅ Ada (`phraseDictionary`) | saya cantik |
+| 59 | `it's really` | 3x | ✅ Ada (`phraseDictionary`) | ia benar-benar |
+| 60 | `know in` | 3x | ✅ Ada (`phraseDictionary`) | tahu dalam |
+| 61 | `know what` | 3x | ✅ Ada (`phraseDictionary`) | tahu apa |
+| 62 | `like it's` | 3x | ✅ Ada (`phraseDictionary`) | seperti itu |
+| 63 | `really nice` | 3x | ✅ Ada (`phraseDictionary`) | sangat bagus |
+| 64 | `see on` | 3x | ✅ Ada (`phraseDictionary`) | lihat pada |
+| 65 | `so far` | 3x | ✅ Ada (`phraseDictionary`) | setakat ini |
+| 66 | `soaking wet` | 3x | ✅ Ada (`phraseDictionary`) | basah kuyup |
+| 67 | `there's no` | 3x | ✅ Ada (`phraseDictionary`) | tidak ada |
+| 68 | `these are` | 3x | ✅ Ada (`phraseDictionary`) | ini adalah |
+| 69 | `up there` | 3x | ✅ Ada (`phraseDictionary`) | di atas sana |
+| 70 | `walk down` | 3x | ✅ Ada (`phraseDictionary`) | berjalan menyusuri ke bawah / menyusuri jalan |
+| 71 | `we're going` | 3x | ✅ Ada (`phraseDictionary`) | kita akan pergi |
+| 72 | `when you` | 3x | ✅ Ada (`phraseDictionary`) | apabila anda |
+| 73 | `would say` | 3x | ✅ Ada (`phraseDictionary`) | akan berkata |
+| 74 | `you see` | 3x | ✅ Ada (`phraseDictionary`) | awak nampak |
+| 75 | `are just` | 2x | ✅ Ada (`phraseDictionary`) | adalah adil |
+| 76 | `are walking` | 2x | ✅ Ada (`phraseDictionary`) | sedang berjalan |
+| 77 | `are you` | 2x | ✅ Ada (`phraseDictionary`) | adakah awak |
+| 78 | `asked for` | 2x | ✅ Ada (`phraseDictionary`) | diminta |
+| 79 | `but yeah` | 2x | ✅ Ada (`phraseDictionary`) | tapi ya |
+| 80 | `but you` | 2x | ✅ Ada (`phraseDictionary`) | tapi awak |
+| 81 | `can just` | 2x | ✅ Ada (`phraseDictionary`) | boleh saja |
+| 82 | `can say` | 2x | ✅ Ada (`phraseDictionary`) | boleh kata |
+| 83 | `common english` | 2x | ✅ Ada (`phraseDictionary`) | bahasa inggeris biasa |
+| 84 | `comprehensible input` | 2x | ✅ Ada (`phraseDictionary`) | input yang mudah difahami |
+| 85 | `did you` | 2x | ✅ Ada (`phraseDictionary`) | adakah awak |
+| 86 | `don't really` | 2x | ✅ Ada (`phraseDictionary`) | jangan sangat |
+| 87 | `don't think` | 2x | ✅ Ada (`phraseDictionary`) | jangan fikir |
+| 88 | `don't want` | 2x | ✅ Ada (`phraseDictionary`) | tidak mahu |
+| 89 | `english words` | 2x | ✅ Ada (`phraseDictionary`) | perkataan bahasa inggeris |
+| 90 | `filled with` | 2x | ✅ Ada (`phraseDictionary`) | diisi dengan |
+| 91 | `go to` | 2x | ✅ Ada (`phraseDictionary`) | pergi ke / menuju ke |
+| 92 | `go up` | 2x | ✅ Ada (`phraseDictionary`) | naik ke atas / meningkat |
+| 93 | `have like` | 2x | ✅ Ada (`phraseDictionary`) | mempunyai suka |
+| 94 | `help you` | 2x | ✅ Ada (`phraseDictionary`) | tolong awak |
+| 95 | `i mean` | 2x | ✅ Ada (`phraseDictionary`) | maksud saya ialah |
+| 96 | `i've never` | 2x | ✅ Ada (`phraseDictionary`) | saya tidak pernah |
+| 97 | `it's nice` | 2x | ✅ Ada (`phraseDictionary`) | memang bagus |
+| 98 | `it's so` | 2x | ✅ Ada (`phraseDictionary`) | memang begitu |
+| 99 | `it's very` | 2x | ✅ Ada (`phraseDictionary`) | ia sangat |
+| 100 | `keep on` | 2x | ✅ Ada (`phraseDictionary`) | terus menerus melakukan |
+| 101 | `let's try` | 2x | ✅ Ada (`phraseDictionary`) | jom cuba |
+| 102 | `look like` | 2x | ✅ Ada (`phraseDictionary`) | nampak macam |
+| 103 | `looked at` | 2x | ✅ Ada (`phraseDictionary`) | telah melihat / memandang |
+| 104 | `make sure` | 2x | ✅ Ada (`phraseDictionary`) | pastikan |
+| 105 | `most common` | 2x | ✅ Ada (`phraseDictionary`) | paling biasa |
+| 106 | `need to` | 2x | ✅ Ada (`phraseDictionary`) | perlu |
+| 107 | `not like` | 2x | ✅ Ada (`phraseDictionary`) | tidak suka |
+| 108 | `now i'm` | 2x | ✅ Ada (`phraseDictionary`) | sekarang saya |
+| 109 | `one thing` | 2x | ✅ Ada (`phraseDictionary`) | satu perkara |
+| 110 | `people are` | 2x | ✅ Ada (`phraseDictionary`) | orang adalah |
+| 111 | `pretty sure` | 2x | ✅ Ada (`phraseDictionary`) | cukup pasti |
+| 112 | `put it on` | 2x | ✅ Ada (`phraseDictionary`) | memakaikannya / mengenakannya |
+| 113 | `put that on` | 2x | ✅ Ada (`phraseDictionary`) | letakkan itu |
+| 114 | `right there` | 2x | ✅ Ada (`phraseDictionary`) | di sana |
+| 115 | `see what` | 2x | ✅ Ada (`phraseDictionary`) | tengok apa |
+| 116 | `shadowing segment` | 2x | ✅ Ada (`phraseDictionary`) | segmen latihan sebutan (shadowing) |
+| 117 | `so they` | 2x | ✅ Ada (`phraseDictionary`) | jadi mereka |
+| 118 | `taking photos` | 2x | ✅ Ada (`phraseDictionary`) | sedang mengambil gambar |
+| 119 | `thing i` | 2x | ✅ Ada (`phraseDictionary`) | perkara i |
+| 120 | `think i` | 2x | ✅ Ada (`phraseDictionary`) | fikir i |
+| 121 | `think it's` | 2x | ✅ Ada (`phraseDictionary`) | fikir ia |
+| 122 | `think of` | 2x | ✅ Ada (`phraseDictionary`) | memikirkan tentang / teringat |
+| 123 | `walk up` | 2x | ✅ Ada (`phraseDictionary`) | berjalan menghampiri / naik tangga |
+| 124 | `walking around` | 2x | ✅ Ada (`phraseDictionary`) | berjalan-jalan |
+| 125 | `walking through` | 2x | ✅ Ada (`phraseDictionary`) | berjalan melalui |
+| 126 | `warm it up` | 2x | ✅ Ada (`phraseDictionary`) | memanaskannya |
+| 127 | `was just` | 2x | ✅ Ada (`phraseDictionary`) | adalah adil |
+| 128 | `was really` | 2x | ✅ Ada (`phraseDictionary`) | adalah benar-benar |
+| 129 | `we just` | 2x | ✅ Ada (`phraseDictionary`) | kita cuma |
+| 130 | `we were` | 2x | ✅ Ada (`phraseDictionary`) | kami |
+| 131 | `what are` | 2x | ✅ Ada (`phraseDictionary`) | apa yang |
+| 132 | `what you` | 2x | ✅ Ada (`phraseDictionary`) | apa awak |
+| 133 | `working on` | 2x | ✅ Ada (`phraseDictionary`) | bekerja pada |
+| 134 | `would you` | 2x | ✅ Ada (`phraseDictionary`) | adakah anda |
+| 135 | `you just` | 2x | ✅ Ada (`phraseDictionary`) | awak cuma |
+| 136 | `you want` | 2x | ✅ Ada (`phraseDictionary`) | awak nak |
+| 137 | `a high of` | 1x | ✅ Ada (`phraseDictionary`) | yang tinggi daripada |
+| 138 | `all the way` | 1x | ✅ Ada (`phraseDictionary`) | sepenuhnya / sampai habis |
+| 139 | `allow you to` | 1x | ✅ Ada (`phraseDictionary`) | membolehkan anda untuk |
+| 140 | `also see` | 1x | ✅ Ada (`phraseDictionary`) | juga lihat |
+| 141 | `are all` | 1x | ✅ Ada (`phraseDictionary`) | adalah semua |
+| 142 | `are like` | 1x | ✅ Ada (`phraseDictionary`) | adalah seperti |
+| 143 | `as well to` | 1x | ✅ Ada (`phraseDictionary`) | juga kepada |
+| 144 | `ask for` | 1x | ✅ Ada (`phraseDictionary`) | meminta pertolongan / meminta |
+| 145 | `ask you for` | 1x | ✅ Ada (`phraseDictionary`) | meminta anda untuk |
+| 146 | `asking for` | 1x | ✅ Ada (`phraseDictionary`) | meminta |
+| 147 | `at first` | 1x | ✅ Ada (`phraseDictionary`) | pada mulanya / peringkat awal |
+| 148 | `at the same time` | 1x | ✅ Ada (`phraseDictionary`) | pada masa yang sama |
+| 149 | `be like` | 1x | ✅ Ada (`phraseDictionary`) | jadilah seperti |
+| 150 | `because i` | 1x | ✅ Ada (`phraseDictionary`) | kerana saya |
+| 151 | `because we` | 1x | ✅ Ada (`phraseDictionary`) | kerana kita |
+| 152 | `but i'm` | 1x | ✅ Ada (`phraseDictionary`) | tetapi saya |
+| 153 | `but we're` | 1x | ✅ Ada (`phraseDictionary`) | tetapi kita |
+| 154 | `came out` | 1x | ✅ Ada (`phraseDictionary`) | telah keluar / muncul |
+| 155 | `came over` | 1x | ✅ Ada (`phraseDictionary`) | telah singgah / bertandang |
+| 156 | `can get` | 1x | ✅ Ada (`phraseDictionary`) | boleh dapat |
+| 157 | `can you` | 1x | ✅ Ada (`phraseDictionary`) | boleh awak |
+| 158 | `can't go` | 1x | ✅ Ada (`phraseDictionary`) | tak boleh pergi |
+| 159 | `check out` | 1x | ✅ Ada (`phraseDictionary`) | daftar keluar |
+| 160 | `climbing up` | 1x | ✅ Ada (`phraseDictionary`) | mendaki |
+| 161 | `come on` | 1x | ✅ Ada (`phraseDictionary`) | ayuh / cepatlah / jangan bergurau |
+| 162 | `comes in` | 1x | ✅ Ada (`phraseDictionary`) | masuk |
+| 163 | `coming out` | 1x | ✅ Ada (`phraseDictionary`) | sedang keluar |
+| 164 | `coming out from` | 1x | ✅ Ada (`phraseDictionary`) | keluar dari |
+| 165 | `coming up` | 1x | ✅ Ada (`phraseDictionary`) | akan datang |
+| 166 | `decided to` | 1x | ✅ Ada (`phraseDictionary`) | memutuskan untuk |
+| 167 | `do it in` | 1x | ✅ Ada (`phraseDictionary`) | buat dalam |
+| 168 | `don't have to` | 1x | ✅ Ada (`phraseDictionary`) | tidak perlu / tak payah |
+| 169 | `drop off` | 1x | ✅ Ada (`phraseDictionary`) | menghantar / menurunkan penumpang |
+| 170 | `dropped off` | 1x | ✅ Ada (`phraseDictionary`) | telah menurunkan / menghantar |
+| 171 | `first time` | 1x | ✅ Ada (`phraseDictionary`) | kali pertama |
+| 172 | `focus on` | 1x | ✅ Ada (`phraseDictionary`) | memberi tumpuan kepada |
+| 173 | `get in` | 1x | ✅ Ada (`phraseDictionary`) | masuk (ke dalam rumah / kenderaan) |
+| 174 | `get it in` | 1x | ✅ Ada (`phraseDictionary`) | masukkannya |
+| 175 | `get them from` | 1x | ✅ Ada (`phraseDictionary`) | dapatkan mereka daripada |
+| 176 | `get up` | 1x | ✅ Ada (`phraseDictionary`) | bangun (dari tempat tidur / duduk) |
+| 177 | `give back` | 1x | ✅ Ada (`phraseDictionary`) | mengembalikan / memulangkan |
+| 178 | `go around` | 1x | ✅ Ada (`phraseDictionary`) | pergi sekeliling |
+| 179 | `go back` | 1x | ✅ Ada (`phraseDictionary`) | pulang / kembali ke tempat asal |
+| 180 | `go back to` | 1x | ✅ Ada (`phraseDictionary`) | kembali ke |
+| 181 | `go up to` | 1x | ✅ Ada (`phraseDictionary`) | naik ke |
+| 182 | `going for` | 1x | ✅ Ada (`phraseDictionary`) | pergi untuk |
+| 183 | `going up` | 1x | ✅ Ada (`phraseDictionary`) | naik |
+| 184 | `guys want` | 1x | ✅ Ada (`phraseDictionary`) | lelaki mahu |
+| 185 | `have you` | 1x | ✅ Ada (`phraseDictionary`) | ada awak |
+| 186 | `he also` | 1x | ✅ Ada (`phraseDictionary`) | dia juga |
+| 187 | `he's like` | 1x | ✅ Ada (`phraseDictionary`) | dia macam |
+| 188 | `here you` | 1x | ✅ Ada (`phraseDictionary`) | sini awak |
+| 189 | `how would` | 1x | ✅ Ada (`phraseDictionary`) | bagaimana akan |
+| 190 | `i can't` | 1x | ✅ Ada (`phraseDictionary`) | saya tidak boleh |
+| 191 | `i could` | 1x | ✅ Ada (`phraseDictionary`) | saya boleh |
+| 192 | `i didn't` | 1x | ✅ Ada (`phraseDictionary`) | saya tidak |
+| 193 | `i thought` | 1x | ✅ Ada (`phraseDictionary`) | saya fikir |
+| 194 | `i wonder` | 1x | ✅ Ada (`phraseDictionary`) | saya tertanya-tanya |
+| 195 | `i'll be` | 1x | ✅ Ada (`phraseDictionary`) | saya akan |
+| 196 | `i'm not` | 1x | ✅ Ada (`phraseDictionary`) | saya tidak |
+| 197 | `ice cream` | 1x | ✅ Ada (`phraseDictionary`) | aiskrim |
+| 198 | `if they` | 1x | ✅ Ada (`phraseDictionary`) | jika mereka |
+| 199 | `if you want to` | 1x | ✅ Ada (`phraseDictionary`) | jika anda mahu |
+| 200 | `in the middle of` | 1x | ✅ Ada (`phraseDictionary`) | di tengah-tengah |
+| 201 | `it's funny` | 1x | ✅ Ada (`phraseDictionary`) | memang kelakar |
+| 202 | `just in case` | 1x | ✅ Ada (`phraseDictionary`) | sebagai langkah berjaga-jaga |
+| 203 | `know if` | 1x | ✅ Ada (`phraseDictionary`) | tahu jika |
+| 204 | `left side` | 1x | ✅ Ada (`phraseDictionary`) | sebelah kiri |
+| 205 | `let's bounce` | 1x | ✅ Ada (`phraseDictionary`) | mari melantun |
+| 206 | `let's get` | 1x | ✅ Ada (`phraseDictionary`) | jom dapatkan |
+| 207 | `like in` | 1x | ✅ Ada (`phraseDictionary`) | seperti dalam |
+| 208 | `like there` | 1x | ✅ Ada (`phraseDictionary`) | seperti di sana |
+| 209 | `like very` | 1x | ✅ Ada (`phraseDictionary`) | suka sangat |
+| 210 | `look in` | 1x | ✅ Ada (`phraseDictionary`) | tengok masuk |
+| 211 | `looking at` | 1x | ✅ Ada (`phraseDictionary`) | sedang melihat kepada |
+| 212 | `looks very` | 1x | ✅ Ada (`phraseDictionary`) | nampak sangat |
+| 213 | `makes me` | 1x | ✅ Ada (`phraseDictionary`) | membuatkan saya |
+| 214 | `me take` | 1x | ✅ Ada (`phraseDictionary`) | saya ambil |
+| 215 | `means in` | 1x | ✅ Ada (`phraseDictionary`) | bermakna dalam |
+| 216 | `my clothes` | 1x | ✅ Ada (`phraseDictionary`) | pakaian saya |
+| 217 | `my favorite` | 1x | ✅ Ada (`phraseDictionary`) | kegemaran saya |
+| 218 | `my hair` | 1x | ✅ Ada (`phraseDictionary`) | rambut saya |
+| 219 | `native english` | 1x | ✅ Ada (`phraseDictionary`) | bahasa inggeris asli |
+| 220 | `never seen` | 1x | ✅ Ada (`phraseDictionary`) | tak pernah nampak |
+| 221 | `not going` | 1x | ✅ Ada (`phraseDictionary`) | tidak pergi |
+| 222 | `not very` | 1x | ✅ Ada (`phraseDictionary`) | bukan sangat |
+| 223 | `oh yeah` | 1x | ✅ Ada (`phraseDictionary`) | oh ya |
+| 224 | `or more` | 1x | ✅ Ada (`phraseDictionary`) | atau lebih |
+| 225 | `out here in` | 1x | ✅ Ada (`phraseDictionary`) | keluar sini masuk |
+| 226 | `out of` | 1x | ✅ Ada (`phraseDictionary`) | keluar dari / kehabisan |
+| 227 | `over there` | 1x | ✅ Ada (`phraseDictionary`) | di sebelah sana |
+| 228 | `put down` | 1x | ✅ Ada (`phraseDictionary`) | meletakkan ke bawah / mencatat |
+| 229 | `put this on` | 1x | ✅ Ada (`phraseDictionary`) | letakkan ini |
+| 230 | `really good` | 1x | ✅ Ada (`phraseDictionary`) | sangat bagus |
+| 231 | `really like` | 1x | ✅ Ada (`phraseDictionary`) | sangat suka |
+| 232 | `really want` | 1x | ✅ Ada (`phraseDictionary`) | teringin sangat |
+| 233 | `right here` | 1x | ✅ Ada (`phraseDictionary`) | di sebelah sini / betul-betul di sini |
+| 234 | `run away` | 1x | ✅ Ada (`phraseDictionary`) | melarikan diri |
+| 235 | `should i` | 1x | ✅ Ada (`phraseDictionary`) | patutkah saya |
+| 236 | `shuttle bus` | 1x | ✅ Ada (`phraseDictionary`) | bas ulang-alik |
+| 237 | `sitting on` | 1x | ✅ Ada (`phraseDictionary`) | duduk di atas |
+| 238 | `so beautiful` | 1x | ✅ Ada (`phraseDictionary`) | sangat cantik |
+| 239 | `so many` | 1x | ✅ Ada (`phraseDictionary`) | begitu ramai |
+| 240 | `something i` | 1x | ✅ Ada (`phraseDictionary`) | sesuatu i |
+| 241 | `speaking with` | 1x | ✅ Ada (`phraseDictionary`) | bercakap dengan |
+| 242 | `standing in` | 1x | ✅ Ada (`phraseDictionary`) | berdiri dalam |
+| 243 | `standing on` | 1x | ✅ Ada (`phraseDictionary`) | berdiri di atas |
+| 244 | `start with` | 1x | ✅ Ada (`phraseDictionary`) | mulakan dengan |
+| 245 | `step by` | 1x | ✅ Ada (`phraseDictionary`) | langkah demi langkah |
+| 246 | `step by step` | 1x | ✅ Ada (`phraseDictionary`) | langkah demi langkah / berperingkat |
+| 247 | `take a look` | 1x | ✅ Ada (`phraseDictionary`) | tengok / lihat sebentar |
+| 248 | `take it off` | 1x | ✅ Ada (`phraseDictionary`) | menanggalkannya |
+| 249 | `take photos` | 1x | ✅ Ada (`phraseDictionary`) | mengambil gambar |
+| 250 | `take to` | 1x | ✅ Ada (`phraseDictionary`) | bawa ke |
+| 251 | `tell on` | 1x | ✅ Ada (`phraseDictionary`) | beritahu pada |
+| 252 | `that's just` | 1x | ✅ Ada (`phraseDictionary`) | itu sahaja |
+| 253 | `that's like` | 1x | ✅ Ada (`phraseDictionary`) | itu seperti |
+| 254 | `that's what` | 1x | ✅ Ada (`phraseDictionary`) | itulah yang |
+| 255 | `then we` | 1x | ✅ Ada (`phraseDictionary`) | kemudian kita |
+| 256 | `there's like` | 1x | ✅ Ada (`phraseDictionary`) | ada seperti |
+| 257 | `they do` | 1x | ✅ Ada (`phraseDictionary`) | mereka lakukan |
+| 258 | `they don't` | 1x | ✅ Ada (`phraseDictionary`) | mereka tidak |
+| 259 | `they have` | 1x | ✅ Ada (`phraseDictionary`) | mereka ada |
+| 260 | `think about` | 1x | ✅ Ada (`phraseDictionary`) | merenungkan / menimbang tara |
+| 261 | `think we` | 1x | ✅ Ada (`phraseDictionary`) | fikir kita |
+| 262 | `this right here` | 1x | ✅ Ada (`phraseDictionary`) | yang di sini / bahagian ini |
+| 263 | `those are` | 1x | ✅ Ada (`phraseDictionary`) | itu adalah |
+| 264 | `too bad` | 1x | ✅ Ada (`phraseDictionary`) | terlalu teruk |
+| 265 | `tree trunk` | 1x | ✅ Ada (`phraseDictionary`) | batang pokok |
+| 266 | `turns out` | 1x | ✅ Ada (`phraseDictionary`) | ternyata |
+| 267 | `very good` | 1x | ✅ Ada (`phraseDictionary`) | sangat baik |
+| 268 | `very sweet` | 1x | ✅ Ada (`phraseDictionary`) | sangat manis |
+| 269 | `walk around` | 1x | ✅ Ada (`phraseDictionary`) | berjalan-jalan |
+| 270 | `walk through` | 1x | ✅ Ada (`phraseDictionary`) | berjalan melalui |
+| 271 | `walked up` | 1x | ✅ Ada (`phraseDictionary`) | telah menghampiri |
+| 272 | `walking along` | 1x | ✅ Ada (`phraseDictionary`) | berjalan bersama |
+| 273 | `walking for` | 1x | ✅ Ada (`phraseDictionary`) | berjalan untuk |
+| 274 | `walking in` | 1x | ✅ Ada (`phraseDictionary`) | berjalan masuk |
+| 275 | `walking on` | 1x | ✅ Ada (`phraseDictionary`) | berjalan terus |
+| 276 | `want you` | 1x | ✅ Ada (`phraseDictionary`) | mahu awak |
+| 277 | `wanted to` | 1x | ✅ Ada (`phraseDictionary`) | mahu |
+| 278 | `wanting to` | 1x | ✅ Ada (`phraseDictionary`) | mahu |
+| 279 | `we also` | 1x | ✅ Ada (`phraseDictionary`) | kami juga |
+| 280 | `we took` | 1x | ✅ Ada (`phraseDictionary`) | kami ambil |
+| 281 | `we went` | 1x | ✅ Ada (`phraseDictionary`) | kami pergi |
+| 282 | `we'll be` | 1x | ✅ Ada (`phraseDictionary`) | kami akan / kita akan |
+| 283 | `we're just` | 1x | ✅ Ada (`phraseDictionary`) | kami cuma |
+| 284 | `welcome back` | 1x | ✅ Ada (`phraseDictionary`) | selamat kembali / selamat pulang |
+| 285 | `went up` | 1x | ✅ Ada (`phraseDictionary`) | naik |
+| 286 | `what about` | 1x | ✅ Ada (`phraseDictionary`) | bagaimana pula |
+| 287 | `where you` | 1x | ✅ Ada (`phraseDictionary`) | di mana anda |
+| 288 | `will become` | 1x | ✅ Ada (`phraseDictionary`) | akan menjadi |
+| 289 | `you buy` | 1x | ✅ Ada (`phraseDictionary`) | awak beli |
+| 290 | `you call` | 1x | ✅ Ada (`phraseDictionary`) | awak panggil |
+| 291 | `you describe` | 1x | ✅ Ada (`phraseDictionary`) | awak huraikan |
+| 292 | `you have` | 1x | ✅ Ada (`phraseDictionary`) | awak ada |
+| 293 | `you like` | 1x | ✅ Ada (`phraseDictionary`) | awak suka |
+| 294 | `you speak` | 1x | ✅ Ada (`phraseDictionary`) | awak bercakap |
+| 295 | `you will` | 1x | ✅ Ada (`phraseDictionary`) | anda akan |
 
+---
 ### 🔄 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 211 Bentuk Kata)
 Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta maksudnya:
 
