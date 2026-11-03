@@ -51,9 +51,17 @@ class VideoController extends Controller
             }
         }
 
-        $videos = YoutubeVideo::where('is_active', true)
-            ->orderBy('order')
-            ->get();
+        $query = YoutubeVideo::where('is_active', true);
+
+        if ($request->query('category') === 'Special') {
+            $query->where('category', 'Special');
+        } else {
+            $query->where(function ($q) {
+                $q->whereNull('category')->orWhere('category', '!=', 'Special');
+            });
+        }
+
+        $videos = $query->orderBy('order')->get();
 
         // Map premium status and user progress
         $videos = $videos->map(function ($video) use ($hasActiveSubscription, $progressMap) {

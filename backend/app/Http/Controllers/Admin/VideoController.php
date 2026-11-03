@@ -8,12 +8,21 @@ use Illuminate\Http\Request;
 
 class VideoController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        return YoutubeVideo::with('language')
+        $query = YoutubeVideo::with('language')
             ->withCount('subtitles')
-            ->orderBy('order')
-            ->get();
+            ->orderBy('order');
+
+        if ($request->query('category') === 'Special') {
+            $query->where('category', 'Special');
+        } elseif ($request->query('exclude_special')) {
+            $query->where(function ($q) {
+                $q->whereNull('category')->orWhere('category', '!=', 'Special');
+            });
+        }
+
+        return $query->get();
     }
 
     public function store(Request $request)
@@ -71,6 +80,12 @@ class VideoController extends Controller
         $video = YoutubeVideo::findOrFail($id);
         $youtubeVideoId = $video->youtube_video_id;
 
+        // Mirror mapping for videos whose subtitles are hosted on official mirror uploads
+        $mirrorMap = [
+            'L6QE6Vp7Oa4' => 'J3w-UX18l6s',
+        ];
+        $fetchId = $mirrorMap[$youtubeVideoId] ?? $youtubeVideoId;
+
         // Use a fixed filename to avoid Windows shell % variable expansion
         $tmpDir  = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'yt_subs_' . uniqid();
         mkdir($tmpDir, 0755, true);
@@ -81,7 +96,7 @@ class VideoController extends Controller
             $cmd = sprintf(
                 'python -m yt_dlp --skip-download --write-auto-sub --sub-langs en --sub-format json3 --extractor-args "youtube:player_client=android" --output %s %s 2>&1',
                 escapeshellarg($outFile),
-                escapeshellarg('https://www.youtube.com/watch?v=' . $youtubeVideoId)
+                escapeshellarg('https://www.youtube.com/watch?v=' . $fetchId)
             );
 
             $output = shell_exec($cmd);
