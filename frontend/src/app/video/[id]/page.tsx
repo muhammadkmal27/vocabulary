@@ -10,6 +10,7 @@ import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import { localDictionary } from "@/lib/localDictionary";
 import { findMatchingPhrase, cleanToken } from "@/lib/phraseDictionary";
+import { findBaseForm, type BaseFormInfo } from "@/lib/baseFormDictionary";
 
 // Extend window object for YouTube API
 declare global {
@@ -86,6 +87,7 @@ export default function InteractivePlayerPage() {
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
   const [wordTranslation, setWordTranslation] = useState<string>("");
   const [detectedPhrase, setDetectedPhrase] = useState<{ phrase: string; translation: string } | null>(null);
+  const [detectedBaseForm, setDetectedBaseForm] = useState<BaseFormInfo | null>(null);
   const [loadingWord, setLoadingWord] = useState(false);
   const [popupPos, setPopupPos] = useState<{
     x: number;
@@ -135,6 +137,10 @@ export default function InteractivePlayerPage() {
     const sentenceTokens = fullSentence.split(/\s+/).filter(Boolean);
     const phraseMatch = findMatchingPhrase(sentenceTokens, wordIndex);
     setDetectedPhrase(phraseMatch);
+
+    // 3. Detect base form / kata asal (Bahagian 1C)
+    const baseFormMatch = findBaseForm(cleanWord);
+    setDetectedBaseForm(baseFormMatch);
 
     const rect = (e.target as HTMLElement).getBoundingClientRect();
     const viewportWidth = window.innerWidth;
@@ -207,6 +213,7 @@ export default function InteractivePlayerPage() {
     setHoveredWord(null);
     setWordTranslation("");
     setDetectedPhrase(null);
+    setDetectedBaseForm(null);
     setPopupPos(null);
 
     // Resume video playback when user leaves word / unhover
@@ -987,6 +994,22 @@ export default function InteractivePlayerPage() {
                 </button>
               )}
             </div>
+
+            {/* Petak 3 (Bahagian 1C): Bentuk Asal / Kata Dasar Tatabahasa */}
+            {detectedBaseForm && (
+              <div className="bg-emerald-950/90 border-t border-emerald-500/30 px-3 py-2 text-left">
+                <div className="text-[10px] text-emerald-400 font-bold uppercase tracking-wider mb-0.5 flex items-center gap-1.5 flex-wrap">
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 inline-block animate-pulse" />
+                  <span>Kata Asal (1C): {detectedBaseForm.base}</span>
+                  <span className="text-emerald-300/80 font-normal normal-case text-[9px] bg-emerald-900/60 px-1.5 py-0.5 rounded border border-emerald-500/20">
+                    {detectedBaseForm.category}
+                  </span>
+                </div>
+                <div className="text-xs font-bold text-emerald-100 leading-snug">
+                  {detectedBaseForm.meaning}
+                </div>
+              </div>
+            )}
           </div>
 
           {/* Panah Penunjuk Tooltip (Menunjuk tepat ke perkataan yang ditekan) */}
@@ -999,7 +1022,9 @@ export default function InteractivePlayerPage() {
             />
           ) : (
             <div
-              className="absolute top-full transform -translate-x-1/2 -translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-slate-950"
+              className={`absolute top-full transform -translate-x-1/2 -translate-y-[1px] w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] ${
+                detectedBaseForm ? "border-t-emerald-950" : "border-t-slate-950"
+              }`}
               style={{ left: `${popupPos.arrowX}px` }}
             />
           )}
