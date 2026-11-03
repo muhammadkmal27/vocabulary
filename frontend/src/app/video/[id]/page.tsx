@@ -1000,7 +1000,7 @@ export default function InteractivePlayerPage() {
               <div className="bg-emerald-950/90 border-t border-emerald-500/30 px-3 py-2 text-left">
                 <div className="text-[10px] text-emerald-400 font-bold uppercase tracking-wider mb-0.5 flex items-center gap-1.5 flex-wrap">
                   <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 inline-block animate-pulse" />
-                  <span>Kata Asal (1C): {detectedBaseForm.base}</span>
+                  <span>Kata Asal: {detectedBaseForm.base}</span>
                   <span className="text-emerald-300/80 font-normal normal-case text-[9px] bg-emerald-900/60 px-1.5 py-0.5 rounded border border-emerald-500/20">
                     {detectedBaseForm.category}
                   </span>
