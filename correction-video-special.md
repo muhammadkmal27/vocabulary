@@ -18,3 +18,4 @@ Bahagian ini memuatkan siri video ceramah agama bertaraf antarabangsa yang dibin
 | # | Video ID | Tajuk Video | Kategori | Akses | Jumlah Subtitle | Fail Terperinci (.md) |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|
 | 1 | `L6QE6Vp7Oa4` | Lessons from African Roads & Safari \| Mufti Menk - Cape Town | Special | Percuma (Free) | 817 | [Buka Subtitle & Kosa Kata (1,260 Kata + 235 Frasa + 245 Kata Asal)](file:///c:/Users/mypc/Desktop/Vocabulary/correction-videos-special/video_001_L6QE6Vp7Oa4.md) |
+| 2 | `Ivb_Nnop4xs` | NEW \| Lessons from the Prophetic Household \| Mufti Menk \| Light Upon Light - Tanzania 2026 | Special | Percuma (Free) | 472 | [Buka Subtitle & Kosa Kata (1,014 Kata + 212 Frasa + 235 Kata Asal)](file:///c:/Users/mypc/Desktop/Vocabulary/correction-videos-special/video_002_Ivb_Nnop4xs.md) |

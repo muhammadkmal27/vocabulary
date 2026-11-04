@@ -879,5 +879,8 @@ class SpecialVideoSeeder extends Seeder
             }
             DB::table('video_subtitles')->insert($insertData);
         }
+
+        // Call Special Video #2 (Tanzania 2026 - Mufti Menk) Seeder
+        $this->call(SpecialVideo2Seeder::class);
     }
 }

@@ -83,6 +83,7 @@ class VideoController extends Controller
         // Mirror mapping for videos whose subtitles are hosted on official mirror uploads
         $mirrorMap = [
             'L6QE6Vp7Oa4' => 'J3w-UX18l6s',
+            'Ivb_Nnop4xs' => 'nypCTvsWu8g',
         ];
         $fetchId = $mirrorMap[$youtubeVideoId] ?? $youtubeVideoId;
 

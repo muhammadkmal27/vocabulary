@@ -4,6 +4,10 @@
 **Direktori Fail Terperinci:** [`correction-videos/`](file:///c:/Users/mypc/Desktop/Vocabulary/correction-videos/)
 **Disediakan oleh:** Abu Hanifah
 
+> [!NOTE]
+> **🌟 Bahagian Khas (Special Religious Bilingual Videos):**
+> Untuk senarai video ceramah agama dwibahasa (Special), sila rujuk [Master Hub Video Khas (correction-video-special.md)](file:///c:/Users/mypc/Desktop/Vocabulary/correction-video-special.md).
+
 ---
 
 ## 🔍 Analisis Fasa AI & Tarikh Penambahan Video
