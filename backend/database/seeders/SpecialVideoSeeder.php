@@ -885,5 +885,8 @@ class SpecialVideoSeeder extends Seeder
 
         // Call Special Video #3 (Zimbabwe - Mufti Menk) Seeder
         $this->call(SpecialVideo3Seeder::class);
+
+        // Call Special Video #4 (The Ummah Can’t Heal Without This One Thing - Mufti Menk) Seeder
+        $this->call(SpecialVideo4Seeder::class);
     }
 }
