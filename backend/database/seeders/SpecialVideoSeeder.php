@@ -882,5 +882,8 @@ class SpecialVideoSeeder extends Seeder
 
         // Call Special Video #2 (Tanzania 2026 - Mufti Menk) Seeder
         $this->call(SpecialVideo2Seeder::class);
+
+        // Call Special Video #3 (Zimbabwe - Mufti Menk) Seeder
+        $this->call(SpecialVideo3Seeder::class);
     }
 }
