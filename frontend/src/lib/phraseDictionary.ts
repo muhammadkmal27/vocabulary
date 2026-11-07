@@ -1978,6 +1978,32 @@ export const phraseDictionary: Record<string, string> = {
   "your video": "video anda",
   "youtube shorts": "seluar pendek youtube",
   "zip ties": "ikatan zip",
+
+  // --- Video 5 Special: Aberdeen (6rXG_fPTbl8) Phrases ---
+  "allahu musta'an": "hanya kepada Allah tempat memohon pertolongan",
+  "come forward": "tampil ke hadapan menyumbang",
+  "day in day out": "siang dan malam / hari demi hari",
+  "dress code": "etika menutup aurat / tatacara berpakaian",
+  "feel bad": "berasa kecil hati / tersinggung",
+  "free of charge": "percuma tanpa sebarang bayaran",
+  "gift aid": "bantuan pelepasan cukai derma (Gift Aid)",
+  "hasbunallahu wa ni'mal wakil": "cukuplah Allah bagi kami dan Dia sebaik-baik pelindung",
+  "head over heels": "jatuh cinta teramat sangat / tergila-gila",
+  "innama ya'rifu": "sesungguhnya hanya mengenali keutamaan",
+  "kalb means dog": "kalb bermaksud anjing",
+  "let alone": "apatah lagi / jauh sekali",
+  "make excuses": "mencari-cari alasan",
+  "mustajab ud-dawah": "doa yang sentiasa dimakbulkan Allah",
+  "qalb means heart": "qalb bermaksud hati",
+  "rock star": "bintang terkenal / selebriti masyhur",
+  "saying kalb": "menyebut perkataan anjing",
+  "seek forgiveness": "memohon keampunan daripada Allah",
+  "shadow banning": "sekatan halimunan di media sosial",
+  "shake hands": "bersalaman tangan",
+  "side by side": "bersebelahan / bergandingan",
+  "tip the scale": "memberatkan neraca timbangan",
+  "tip the scales": "memberatkan daun neraca timbangan",
+  "trip over": "tersasul lidah / tersilap langkah",
 };
 
 /**
