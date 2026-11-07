@@ -319,7 +319,7 @@ export default function SpecialVideoPage() {
                           </Link>
                         ) : (
                           <>
-                            <Link href={`/video/${video.id}`} className="w-full">
+                            <Link href={`/special/${video.id}`} className="w-full">
                               <Button size="sm" className="w-full gap-2 text-xs">
                                 <Play className="w-3.5 h-3.5 fill-current" /> Tonton Sekarang
                               </Button>

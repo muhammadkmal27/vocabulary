@@ -144,16 +144,27 @@ class VideoController extends Controller
         }
 
         // Attach next video in sequence
-        $nextVideo = YoutubeVideo::where('is_active', true)
-            ->where('language_id', $video->language_id)
+        $isSpecial = ($video->category === 'Special');
+
+        $nextVideoQuery = YoutubeVideo::where('is_active', true)
+            ->where('language_id', $video->language_id);
+
+        if ($isSpecial) {
+            $nextVideoQuery->where('category', 'Special');
+        } else {
+            $nextVideoQuery->where(function ($q) {
+                $q->whereNull('category')->orWhere('category', '!=', 'Special');
+            });
+        }
+
+        $nextVideo = (clone $nextVideoQuery)
             ->where('order', '>', $video->order)
             ->orderBy('order', 'asc')
             ->first(['id', 'title']);
 
         if (!$nextVideo) {
             // Loop back to first video if reached end of list
-            $nextVideo = YoutubeVideo::where('is_active', true)
-                ->where('language_id', $video->language_id)
+            $nextVideo = (clone $nextVideoQuery)
                 ->where('id', '!=', $video->id)
                 ->orderBy('order', 'asc')
                 ->first(['id', 'title']);
