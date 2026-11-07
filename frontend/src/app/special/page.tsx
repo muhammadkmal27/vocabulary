@@ -114,49 +114,6 @@ export default function SpecialVideoPage() {
     }
   };
 
-  const handleResetProgress = async (e: React.MouseEvent, videoId: string) => {
-    e.preventDefault();
-    e.stopPropagation();
-
-    if (!token) return;
-    setTogglingId(videoId);
-
-    setVideos((prev) =>
-      prev.map((v) => {
-        if (v.id === videoId) {
-          return {
-            ...v,
-            user_progress: {
-              is_completed: false,
-              last_watched_seconds: 0,
-              duration_seconds: v.user_progress?.duration_seconds || 0,
-              progress_percent: 0,
-              last_watched_at: null,
-            },
-          };
-        }
-        return v;
-      })
-    );
-
-    try {
-      const res = await fetch(`/api/videos/${videoId}/reset-progress`, {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          Accept: "application/json",
-        },
-      });
-      if (!res.ok) {
-        toast("Gagal menetapkan semula kemajuan video.", "error");
-      }
-    } catch {
-      toast("Ralat menyambung ke pelayan.", "error");
-    } finally {
-      setTogglingId(null);
-    }
-  };
-
   return (
     <div className="min-h-screen bg-background flex flex-col">
       {/* HEADER SECTION */}
@@ -295,48 +252,44 @@ export default function SpecialVideoPage() {
                     </div>
 
                     {/* CONTENT */}
-                    <CardContent className="p-4 flex-1 flex flex-col justify-between space-y-3">
+                    <CardContent className="p-4 flex flex-col justify-between flex-grow gap-4">
                       <div className="space-y-1.5">
-                        <div className="flex items-center justify-between text-xs text-muted-foreground">
-                          <span className="font-medium text-primary">{video.category || "Special"}</span>
+                        <div className="flex items-center justify-between text-xs text-muted-foreground font-semibold">
+                          <span className="uppercase tracking-wider">{video.category || "Special"}</span>
                           {hasWatchedSome && (
-                            <span className="text-xs font-semibold text-amber-400">
-                              {progressPercent}%
+                            <span className="text-primary text-[11px]">
+                              {progressPercent}% ditonton
                             </span>
                           )}
                         </div>
-                        <h4 className="font-semibold text-sm line-clamp-2 leading-snug group-hover:text-primary transition-colors">
+                        <h4 className="font-bold text-base leading-snug line-clamp-2">
                           {video.title}
                         </h4>
                       </div>
 
-                      <div className="pt-2 flex items-center justify-between gap-2 border-t border-border/50">
+                      <div className="space-y-2">
                         {video.is_locked ? (
-                          <Link href="/pricing" className="w-full">
-                            <Button size="sm" variant="secondary" className="w-full gap-2 text-xs">
-                              <Lock className="w-3.5 h-3.5" /> Langgan untuk Buka
+                          <Link href="/pricing" className="w-full block">
+                            <Button className="w-full bg-amber-600 hover:bg-amber-700 text-black font-semibold gap-2">
+                              <Lock className="w-4 h-4" /> Buka dengan Premium
                             </Button>
                           </Link>
                         ) : (
-                          <>
-                            <Link href={`/special/${video.id}`} className="w-full">
-                              <Button size="sm" className="w-full gap-2 text-xs">
-                                <Play className="w-3.5 h-3.5 fill-current" /> Tonton Sekarang
+                          <Link href={`/special/${video.id}`} className="w-full block">
+                            {isCompleted ? (
+                              <Button variant="outline" className="w-full gap-2 border-emerald-500/40 text-emerald-400 hover:bg-emerald-500/10">
+                                <RotateCcw className="w-4 h-4" /> Tonton Semula
                               </Button>
-                            </Link>
-                            {token && (isCompleted || hasWatchedSome) && (
-                              <Button
-                                size="sm"
-                                variant="outline"
-                                className="px-2 text-muted-foreground hover:text-foreground shrink-0"
-                                onClick={(e) => handleResetProgress(e, video.id)}
-                                disabled={togglingId === video.id}
-                                title="Set semula kemajuan"
-                              >
-                                <RotateCcw className="w-3.5 h-3.5" />
+                            ) : hasWatchedSome ? (
+                              <Button className="w-full gap-2">
+                                <Play className="w-4 h-4 fill-current" /> Sambung Tonton ({progressPercent}%)
+                              </Button>
+                            ) : (
+                              <Button className="w-full gap-2">
+                                <Play className="w-4 h-4 fill-current" /> Mula Belajar
                               </Button>
                             )}
-                          </>
+                          </Link>
                         )}
                       </div>
                     </CardContent>
