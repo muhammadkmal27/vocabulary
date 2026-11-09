@@ -18,6 +18,7 @@ import {
   ChevronLeft,
   Video,
   Sparkles,
+  Mail,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
@@ -31,6 +32,7 @@ const NAV_ITEMS = [
   { href: "/admin/plans", label: "Plan Harga", icon: CreditCard },
   { href: "/admin/coupons", label: "Kupon", icon: Ticket },
   { href: "/admin/users", label: "Pengguna", icon: Users },
+  { href: "/admin/emails", label: "Hantar Emel", icon: Mail },
   { href: "/admin/transactions", label: "Transaksi", icon: Receipt },
 ];
 

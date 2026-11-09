@@ -7,6 +7,7 @@ use App\Http\Controllers\Admin\PlanController;
 use App\Http\Controllers\Admin\SentenceController;
 use App\Http\Controllers\Admin\TransactionController;
 use App\Http\Controllers\Admin\UserController;
+use App\Http\Controllers\Admin\EmailBroadcastController;
 use App\Http\Controllers\Api\AuthController;
 use App\Http\Controllers\Api\GoogleAuthController;
 use App\Http\Controllers\Api\SubscriptionController;
@@ -125,4 +126,8 @@ Route::middleware(['auth:sanctum', 'admin'])->prefix('admin')->group(function ()
     
     Route::get('transactions', [TransactionController::class, 'index']);
     Route::get('transactions/{transaction}', [TransactionController::class, 'show']);
+
+    Route::get('emails/recipients', [EmailBroadcastController::class, 'recipients']);
+    Route::post('emails/send', [EmailBroadcastController::class, 'send']);
+    Route::get('emails/history', [EmailBroadcastController::class, 'history']);
 });
