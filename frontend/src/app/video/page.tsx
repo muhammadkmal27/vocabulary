@@ -138,6 +138,12 @@ export default function VideoPage() {
             <Link href="/video">
               <Button variant="secondary" size="sm">Video</Button>
             </Link>
+            <Link href="/special">
+              <Button variant="ghost" size="sm" className="gap-1.5 text-emerald-400 hover:text-emerald-300 hover:bg-emerald-500/10">
+                <Sparkles className="w-3.5 h-3.5 fill-current" />
+                Special
+              </Button>
+            </Link>
             <Link href="/subscription">
               <Button variant="ghost" size="sm">Langganan</Button>
             </Link>

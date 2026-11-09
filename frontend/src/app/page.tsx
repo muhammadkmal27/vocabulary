@@ -19,6 +19,7 @@ import {
   ChevronLeft,
   ChevronRight,
   Loader2,
+  Sparkles,
 } from "lucide-react";
 import { TheoryBanner } from "@/components/TheoryBanner";
 import BottomNav from "@/components/BottomNav";
@@ -134,6 +135,12 @@ export default function DashboardPage() {
             )}
             <Link href="/video">
               <Button variant="ghost" size="sm">Video</Button>
+            </Link>
+            <Link href="/special">
+              <Button variant="ghost" size="sm" className="gap-1.5 text-emerald-400 hover:text-emerald-300 hover:bg-emerald-500/10">
+                <Sparkles className="w-3.5 h-3.5 fill-current" />
+                Special
+              </Button>
             </Link>
             {token ? (
               <>

@@ -15,7 +15,7 @@ import { Label } from "@/components/ui/label";
 import { Badge } from "@/components/ui/badge";
 import { useTheme } from "next-themes";
 import { Separator } from "@/components/ui/separator";
-import { User, Lock, Save, Globe, LogOut, ArrowLeft, Home, BookOpenCheck, Settings, Sun, Moon, Loader2, Eye, EyeOff } from "lucide-react";
+import { User, Lock, Save, Globe, LogOut, ArrowLeft, Home, BookOpenCheck, Settings, Sun, Moon, Loader2, Eye, EyeOff, Sparkles } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import api from "@/lib/api";
@@ -220,6 +220,26 @@ export default function ProfilePage() {
             <ArrowLeft className="w-5 h-5" />
             <span className="text-lg font-bold">Vocabulary</span>
           </Link>
+          <div className="hidden lg:flex items-center gap-2">
+            <Link href="/">
+              <Button variant="ghost" size="sm">Rumah</Button>
+            </Link>
+            <Link href="/video">
+              <Button variant="ghost" size="sm">Video</Button>
+            </Link>
+            <Link href="/special">
+              <Button variant="ghost" size="sm" className="gap-1.5 text-emerald-400 hover:text-emerald-300 hover:bg-emerald-500/10">
+                <Sparkles className="w-3.5 h-3.5 fill-current" />
+                Special
+              </Button>
+            </Link>
+            <Link href="/subscription">
+              <Button variant="ghost" size="sm">Langganan</Button>
+            </Link>
+            <Link href="/profile">
+              <Button variant="secondary" size="sm">Profil</Button>
+            </Link>
+          </div>
           <Button
             variant="ghost"
             size="sm"

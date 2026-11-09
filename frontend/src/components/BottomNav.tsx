@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Home, BookOpenCheck, Video, Settings, User } from "lucide-react";
+import { Home, BookOpenCheck, Video, Sparkles, Settings, User } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 
 export default function BottomNav() {
@@ -67,7 +67,13 @@ export default function BottomNav() {
       label: "Video",
       href: "/video",
       icon: Video,
-      active: pathname.startsWith("/video"),
+      active: pathname.startsWith("/video") && !pathname.startsWith("/special"),
+    },
+    {
+      label: "Special",
+      href: "/special",
+      icon: Sparkles,
+      active: pathname.startsWith("/special"),
     },
     {
       label: "Langganan",
@@ -94,7 +100,9 @@ export default function BottomNav() {
               href={item.href}
               className={`flex-1 flex flex-col items-center justify-center gap-1 transition-colors text-center min-w-0 ${
                 item.active
-                  ? "text-primary"
+                  ? item.label === "Special"
+                    ? "text-emerald-400 font-bold"
+                    : "text-primary font-bold"
                   : "text-muted-foreground hover:text-foreground"
               }`}
             >

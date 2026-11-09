@@ -130,6 +130,26 @@ export default function SpecialVideoPage() {
               <p className="text-xs text-muted-foreground mt-1">Siri Ceramah Agama Dwi-Bahasa</p>
             </div>
           </div>
+          <div className="hidden lg:flex items-center gap-2">
+            <Link href="/">
+              <Button variant="ghost" size="sm">Rumah</Button>
+            </Link>
+            <Link href="/video">
+              <Button variant="ghost" size="sm">Video</Button>
+            </Link>
+            <Link href="/special">
+              <Button variant="secondary" size="sm" className="gap-1.5 border border-emerald-500/30 text-emerald-400">
+                <Sparkles className="w-3.5 h-3.5 fill-current" />
+                Special
+              </Button>
+            </Link>
+            <Link href="/subscription">
+              <Button variant="ghost" size="sm">Langganan</Button>
+            </Link>
+            <Link href="/profile">
+              <Button variant="ghost" size="sm">Profil</Button>
+            </Link>
+          </div>
           <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1">
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
             Edisi Khas

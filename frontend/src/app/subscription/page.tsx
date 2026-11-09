@@ -27,6 +27,7 @@ import {
   AlertCircle,
   ArrowRight,
   CheckCircle2,
+  Sparkles,
 } from "lucide-react";
 import BottomNav from "@/components/BottomNav";
 import { useAuth } from "@/lib/auth";
@@ -263,7 +264,27 @@ function SubscriptionContent() {
             <Brain className="w-6 h-6 text-primary" />
             <span className="text-lg font-bold">Vocabulary</span>
           </Link>
-          <Link href="/profile">
+          <div className="hidden lg:flex items-center gap-2">
+            <Link href="/">
+              <Button variant="ghost" size="sm">Rumah</Button>
+            </Link>
+            <Link href="/video">
+              <Button variant="ghost" size="sm">Video</Button>
+            </Link>
+            <Link href="/special">
+              <Button variant="ghost" size="sm" className="gap-1.5 text-emerald-400 hover:text-emerald-300 hover:bg-emerald-500/10">
+                <Sparkles className="w-3.5 h-3.5 fill-current" />
+                Special
+              </Button>
+            </Link>
+            <Link href="/subscription">
+              <Button variant="secondary" size="sm">Langganan</Button>
+            </Link>
+            <Link href="/profile">
+              <Button variant="ghost" size="sm">Profil</Button>
+            </Link>
+          </div>
+          <Link href="/profile" className="lg:hidden">
             <Button variant="ghost" size="sm">
               Profil
             </Button>
