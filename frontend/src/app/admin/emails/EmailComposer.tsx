@@ -122,12 +122,12 @@ export default function EmailComposer({
             className="font-sans text-sm leading-relaxed"
           />
         ) : (
-          <div className="border rounded-xl p-5 bg-background space-y-4">
+          <div className="border rounded-xl p-5 bg-background space-y-4 max-w-2xl mx-auto">
             <div className="border-b pb-3 text-sm">
               <span className="text-muted-foreground">Subjek: </span>
-              <strong>{subject || "(Tiada subjek)"}</strong>
+              <strong className="text-foreground">{subject || "(Tiada subjek)"}</strong>
             </div>
-            <div className="text-sm leading-relaxed text-foreground space-y-3">
+            <div className="text-[14px] leading-[1.55] text-foreground space-y-3 font-sans">
               {body ? (
                 body
                   .trim()
