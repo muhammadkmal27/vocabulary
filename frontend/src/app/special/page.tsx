@@ -37,7 +37,7 @@ export default function SpecialVideoPage() {
   const [videos, setVideos] = useState<YoutubeVideoData[]>([]);
   const [loading, setLoading] = useState(true);
   const [togglingId, setTogglingId] = useState<string | null>(null);
-  const [showNoticeModal, setShowNoticeModal] = useState(true);
+  const [showNoticeModal, setShowNoticeModal] = useState(false);
 
   useEffect(() => {
     if (authLoading) return;

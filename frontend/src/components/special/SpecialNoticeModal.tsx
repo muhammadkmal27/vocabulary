@@ -20,7 +20,7 @@ interface SpecialNoticeModalProps {
 }
 
 export default function SpecialNoticeModal({
-  isOpen = true,
+  isOpen = false,
   onClose,
 }: SpecialNoticeModalProps) {
   const [open, setOpen] = useState(isOpen);
