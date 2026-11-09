@@ -8,69 +8,61 @@
         body {
             margin: 0;
             padding: 0;
-            font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
-            background-color: #f8f9fa;
+            background-color: #ffffff;
+            font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
             color: #202124;
-            line-height: 1.55;
+            line-height: 1.6;
             -webkit-font-smoothing: antialiased;
         }
         .wrapper {
             width: 100%;
-            background-color: #f8f9fa;
-            padding: 12px 6px;
+            background-color: #ffffff;
+            padding: 16px 0;
             box-sizing: border-box;
         }
         .container {
-            max-width: 600px;
+            max-width: 580px;
             margin: 0 auto;
             background-color: #ffffff;
             border-radius: 8px;
-            overflow: hidden;
-            border: 1px solid #e0e0e0;
-            box-shadow: 0 1px 3px rgba(60, 64, 67, 0.08);
+            border: 1px solid #eaedf0;
         }
-        .header {
-            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-            padding: 20px 20px;
+        .logo-header {
             text-align: center;
+            padding: 24px 20px 16px 20px;
         }
-        .header h1 {
-            margin: 0;
-            color: #ffffff;
-            font-size: 19px;
-            font-weight: 700;
-            letter-spacing: -0.3px;
-        }
-        .header p {
-            margin: 4px 0 0;
-            color: rgba(255, 255, 255, 0.92);
-            font-size: 12.5px;
+        .divider {
+            height: 1px;
+            background-color: #f1f3f4;
+            margin: 0 0 20px 0;
         }
         .content {
-            padding: 24px 20px;
+            padding: 0 24px;
             font-size: 14px;
             color: #202124;
-            line-height: 1.55;
+            line-height: 1.6;
             word-break: break-word;
         }
         .content p {
-            margin: 0 0 14px 0;
+            margin: 0 0 16px 0;
             padding: 0;
             font-size: 14px;
-            line-height: 1.55;
+            line-height: 1.6;
             color: #202124;
         }
         .content p:last-child {
             margin-bottom: 0;
         }
+        .footer-divider {
+            height: 1px;
+            background-color: #f1f3f4;
+            margin: 24px 0 16px 0;
+        }
         .footer {
-            background-color: #f8f9fa;
-            padding: 18px 20px;
-            border-top: 1px solid #e8eaed;
-            text-align: center;
-            font-size: 12px;
+            padding: 0 24px 24px 24px;
+            font-size: 12.5px;
             color: #5f6368;
-            line-height: 1.5;
+            line-height: 1.6;
         }
         .footer a {
             color: #059669;
@@ -78,25 +70,24 @@
             font-weight: 500;
         }
         .footer p {
-            margin: 4px 0;
+            margin: 0 0 6px 0;
         }
         @media only screen and (max-width: 600px) {
             .wrapper {
-                padding: 4px 0 !important;
+                padding: 0 !important;
             }
             .container {
-                border-radius: 6px !important;
-                border-left: none !important;
-                border-right: none !important;
+                border-radius: 0 !important;
+                border: none !important;
+            }
+            .logo-header {
+                padding: 20px 16px 14px 16px !important;
             }
             .content {
-                padding: 20px 16px !important;
-            }
-            .header {
-                padding: 18px 16px !important;
+                padding: 0 16px !important;
             }
             .footer {
-                padding: 16px 16px !important;
+                padding: 0 16px 20px 16px !important;
             }
         }
     </style>
@@ -104,11 +95,28 @@
 <body>
     <div class="wrapper">
         <div class="container">
-            <div class="header">
-                <h1>Bijak English</h1>
-                <p>Platform Pembelajaran Bahasa Inggeris Interaktif</p>
+            <!-- HEADER / LOGO (Clean Shopee-style on pure white) -->
+            <div class="logo-header">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+                    <tr>
+                        <td style="vertical-align: middle; padding-right: 8px;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border-radius: 8px; text-align: center; line-height: 32px; font-size: 16px; color: #ffffff;">
+                                ✨
+                            </div>
+                        </td>
+                        <td style="vertical-align: middle;">
+                            <span style="font-size: 21px; font-weight: 800; color: #111827; letter-spacing: -0.4px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                                Bijak <span style="color: #059669;">English</span>
+                            </span>
+                        </td>
+                    </tr>
+                </table>
             </div>
-            <div class="content" style="padding: 22px 18px; font-size: 14px; color: #202124; line-height: 1.55; font-family: Roboto, Helvetica, Arial, sans-serif; word-break: break-word;">
+
+            <div class="divider"></div>
+
+            <!-- CONTENT BODY -->
+            <div class="content" style="padding: 0 20px; font-size: 14px; color: #202124; line-height: 1.6; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; word-break: break-word;">
                 @php
                     $paragraphs = preg_split('/(\r\n|\n|\r){2,}/', trim($emailBody));
                 @endphp
@@ -122,16 +130,22 @@
                         );
                         $formatted = nl2br($linked);
                     @endphp
-                    <p style="margin: 0 0 14px 0; padding: 0; font-size: 14px; line-height: 1.55; color: #202124; font-family: Roboto, Helvetica, Arial, sans-serif;">
+                    <p style="margin: 0 0 16px 0; padding: 0; font-size: 14px; line-height: 1.6; color: #202124; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;">
                         {!! $formatted !!}
                     </p>
                 @endforeach
             </div>
-            <div class="footer">
-                <p>Emel ini dihantar secara rasmi daripada <strong>Pasukan Bijak English</strong>.</p>
-                <p>Sebarang maklum balas atau pertanyaan boleh terus diemel ke <a href="mailto:saashouse.mail@gmail.com">saashouse.mail@gmail.com</a>.</p>
-                <p style="margin-top: 8px;">
-                    <a href="https://bijakenglish.imat.my" target="_blank">Layari Bijak English</a>
+
+            <div class="footer-divider"></div>
+
+            <!-- FOOTER -->
+            <div class="footer" style="padding: 0 20px 24px 20px; font-size: 12.5px; color: #5f6368; line-height: 1.6; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;">
+                <p style="margin: 0 0 4px 0; color: #202124; font-weight: 600;">Pasukan Bijak English</p>
+                <p style="margin: 0 0 6px 0; color: #5f6368;">
+                    Sebarang pertanyaan: <a href="mailto:saashouse.mail@gmail.com" style="color: #059669; text-decoration: underline;">saashouse.mail@gmail.com</a>
+                </p>
+                <p style="margin: 0;">
+                    <a href="https://bijakenglish.imat.my" target="_blank" style="color: #059669; text-decoration: none; font-weight: 600;">https://bijakenglish.imat.my</a>
                 </p>
             </div>
         </div>

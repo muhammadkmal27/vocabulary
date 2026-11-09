@@ -155,8 +155,12 @@ class EmailBroadcastController extends Controller
 
         foreach ($recipients as $recipient) {
             try {
+                $subjectToSend = $recipientType === 'test'
+                    ? $subject . ' [Ujian ' . now()->format('h:i A') . ']'
+                    : $subject;
+
                 Mail::to($recipient->email)->send(
-                    new BroadcastEmail($subject, $body, $recipient->name ?? null)
+                    new BroadcastEmail($subjectToSend, $body, $recipient->name ?? null)
                 );
                 $sentCount++;
             } catch (\Throwable $e) {
