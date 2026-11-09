@@ -25,6 +25,7 @@
             margin: 0 auto;
             background-color: #ffffff;
             border-radius: 8px;
+            overflow: hidden;
             border: 1px solid #eaedf0;
         }
         .logo-header {
@@ -37,7 +38,7 @@
             margin: 0 0 20px 0;
         }
         .content {
-            padding: 0 24px;
+            padding: 0 24px 24px 24px;
             font-size: 14px;
             color: #202124;
             line-height: 1.6;
@@ -53,16 +54,14 @@
         .content p:last-child {
             margin-bottom: 0;
         }
-        .footer-divider {
-            height: 1px;
-            background-color: #f1f3f4;
-            margin: 24px 0 16px 0;
-        }
         .footer {
-            padding: 0 24px 24px 24px;
-            font-size: 12.5px;
+            background-color: #f8f9fa;
+            padding: 20px 24px;
+            border-top: 1px solid #e8eaed;
+            text-align: center;
+            font-size: 12px;
             color: #5f6368;
-            line-height: 1.6;
+            line-height: 1.55;
         }
         .footer a {
             color: #059669;
@@ -71,6 +70,9 @@
         }
         .footer p {
             margin: 0 0 6px 0;
+        }
+        .footer p:last-child {
+            margin-bottom: 0;
         }
         @media only screen and (max-width: 600px) {
             .wrapper {
@@ -84,10 +86,10 @@
                 padding: 20px 16px 14px 16px !important;
             }
             .content {
-                padding: 0 16px !important;
+                padding: 0 16px 20px 16px !important;
             }
             .footer {
-                padding: 0 16px 20px 16px !important;
+                padding: 18px 16px !important;
             }
         }
     </style>
@@ -115,8 +117,8 @@
 
             <div class="divider"></div>
 
-            <!-- CONTENT BODY -->
-            <div class="content" style="padding: 0 20px; font-size: 14px; color: #202124; line-height: 1.6; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; word-break: break-word;">
+            <!-- CONTENT BODY (Spacious, Clean Typography) -->
+            <div class="content" style="padding: 0 20px 24px 20px; font-size: 14px; color: #202124; line-height: 1.6; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; word-break: break-word;">
                 @php
                     $paragraphs = preg_split('/(\r\n|\n|\r){2,}/', trim($emailBody));
                 @endphp
@@ -136,16 +138,12 @@
                 @endforeach
             </div>
 
-            <div class="footer-divider"></div>
-
-            <!-- FOOTER -->
-            <div class="footer" style="padding: 0 20px 24px 20px; font-size: 12.5px; color: #5f6368; line-height: 1.6; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;">
-                <p style="margin: 0 0 4px 0; color: #202124; font-weight: 600;">Pasukan Bijak English</p>
-                <p style="margin: 0 0 6px 0; color: #5f6368;">
-                    Sebarang pertanyaan: <a href="mailto:saashouse.mail@gmail.com" style="color: #059669; text-decoration: underline;">saashouse.mail@gmail.com</a>
-                </p>
+            <!-- FOOTER (Versi Asal yang digemari Tuan: Kotak Kelabu Lembut Berpusat) -->
+            <div class="footer" style="background-color: #f8f9fa; padding: 20px 20px; border-top: 1px solid #e8eaed; text-align: center; font-size: 12px; color: #5f6368; line-height: 1.55; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;">
+                <p style="margin: 0 0 6px 0;">Emel ini dihantar secara rasmi daripada <strong>Pasukan Bijak English</strong>.</p>
+                <p style="margin: 0 0 10px 0;">Sebarang maklum balas atau pertanyaan boleh terus diemel ke <a href="mailto:saashouse.mail@gmail.com" style="color: #059669; text-decoration: underline;">saashouse.mail@gmail.com</a>.</p>
                 <p style="margin: 0;">
-                    <a href="https://bijakenglish.imat.my" target="_blank" style="color: #059669; text-decoration: none; font-weight: 600;">https://bijakenglish.imat.my</a>
+                    <a href="https://bijakenglish.imat.my" target="_blank" style="color: #059669; text-decoration: underline; font-weight: 600;">Layari Bijak English</a>
                 </p>
             </div>
         </div>
