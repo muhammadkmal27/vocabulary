@@ -31,8 +31,8 @@ class SpecialVideo2Seeder extends Seeder
                 'title'         => 'NEW | Lessons from the Prophetic Household | Mufti Menk | Light Upon Light - Tanzania 2026',
                 'thumbnail_url' => 'https://img.youtube.com/vi/Ivb_Nnop4xs/0.jpg',
                 'category'      => 'Special',
-                'is_premium'    => false,
-                'is_free'       => true,
+                'is_premium'    => true,
+                'is_free'       => false,
                 'is_active'     => true,
                 'order'         => 2,
             ]

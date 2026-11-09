@@ -31,8 +31,8 @@ class SpecialVideo5Seeder extends Seeder
                 'title'         => 'NEW | Allah Knows What\'s in Your Heart, But… | Mufti Menk - Aberdeen | 2026',
                 'thumbnail_url' => 'https://img.youtube.com/vi/6rXG_fPTbl8/0.jpg',
                 'category'      => 'Special',
-                'is_premium'    => false,
-                'is_free'       => true,
+                'is_premium'    => true,
+                'is_free'       => false,
                 'is_active'     => true,
                 'order'         => 5,
             ]
