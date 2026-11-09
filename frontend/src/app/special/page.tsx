@@ -130,21 +130,10 @@ export default function SpecialVideoPage() {
               <p className="text-xs text-muted-foreground mt-1">Siri Ceramah Agama Dwi-Bahasa</p>
             </div>
           </div>
-          <div className="flex items-center gap-2">
-            <button
-              type="button"
-              onClick={() => setShowNoticeModal(true)}
-              className="text-xs font-semibold text-emerald-400 hover:text-emerald-300 bg-emerald-500/10 hover:bg-emerald-500/20 border border-emerald-500/30 px-2.5 py-1 rounded-full transition-all flex items-center gap-1.5 shadow-sm"
-              title="Lihat info pengumuman ciri khas"
-            >
-              <Sparkles className="w-3.5 h-3.5 fill-current" />
-              <span>Info Ciri Khas</span>
-            </button>
-            <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1">
-              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-              Edisi Khas
-            </Badge>
-          </div>
+          <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1">
+            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
+            Edisi Khas
+          </Badge>
         </div>
       </header>
 
@@ -313,6 +302,28 @@ export default function SpecialVideoPage() {
           )}
         </section>
       </main>
+
+      {/* FLOATING ACTION BUTTON (NOTIS) - TERAPUNG DI KANAN BAWAH */}
+      <div className="fixed bottom-20 right-4 sm:right-6 lg:bottom-6 lg:right-8 z-40">
+        <button
+          type="button"
+          onClick={() => setShowNoticeModal(true)}
+          aria-label="Buka notis makluman ciri khas"
+          title="Buka Notis Ciri Khas"
+          className="group relative flex items-center justify-center w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-gradient-to-tr from-purple-600 via-indigo-600 to-purple-500 text-white shadow-xl shadow-purple-600/40 hover:shadow-purple-600/60 border-2 border-white/20 hover:scale-105 active:scale-95 transition-all duration-300 focus:outline-none focus:ring-4 focus:ring-purple-500/40"
+        >
+          {/* Notification pulse badge on top corner */}
+          <span className="absolute -top-1 -right-1 flex h-3.5 w-3.5">
+            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75" />
+            <span className="relative inline-flex rounded-full h-3.5 w-3.5 bg-amber-500 border border-slate-900" />
+          </span>
+
+          {/* Text 'Notis' inside */}
+          <span className="font-black text-xs sm:text-sm tracking-wider uppercase select-none drop-shadow-sm group-hover:scale-105 transition-transform">
+            Notis
+          </span>
+        </button>
+      </div>
 
       {/* POPUP NOTIS CIRI KHAS (DIPAPARKAN SETIAP KALI USER BUKA PAGE INI) */}
       <SpecialNoticeModal
