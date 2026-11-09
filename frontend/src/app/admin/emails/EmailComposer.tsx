@@ -127,8 +127,19 @@ export default function EmailComposer({
               <span className="text-muted-foreground">Subjek: </span>
               <strong>{subject || "(Tiada subjek)"}</strong>
             </div>
-            <div className="whitespace-pre-line text-sm leading-relaxed text-foreground">
-              {body || "(Tiada kandungan)"}
+            <div className="text-sm leading-relaxed text-foreground space-y-3">
+              {body ? (
+                body
+                  .trim()
+                  .split(/\n\s*\n/)
+                  .map((para, i) => (
+                    <p key={i} className="whitespace-pre-line m-0">
+                      {para}
+                    </p>
+                  ))
+              ) : (
+                <span className="text-muted-foreground italic">(Tiada kandungan)</span>
+              )}
             </div>
           </div>
         )}
@@ -162,3 +173,4 @@ export default function EmailComposer({
     </div>
   );
 }
+
