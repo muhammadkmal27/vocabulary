@@ -9,6 +9,7 @@ import { Play, Lock, Sparkles, Loader2, Video, CheckCircle2, Circle, RotateCcw }
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import BottomNav from "@/components/BottomNav";
+import SpecialNoticeModal from "@/components/special/SpecialNoticeModal";
 
 interface UserVideoProgress {
   is_completed: boolean;
@@ -36,6 +37,7 @@ export default function SpecialVideoPage() {
   const [videos, setVideos] = useState<YoutubeVideoData[]>([]);
   const [loading, setLoading] = useState(true);
   const [togglingId, setTogglingId] = useState<string | null>(null);
+  const [showNoticeModal, setShowNoticeModal] = useState(true);
 
   useEffect(() => {
     if (authLoading) return;
@@ -128,10 +130,21 @@ export default function SpecialVideoPage() {
               <p className="text-xs text-muted-foreground mt-1">Siri Ceramah Agama Dwi-Bahasa</p>
             </div>
           </div>
-          <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1">
-            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-            Edisi Khas
-          </Badge>
+          <div className="flex items-center gap-2">
+            <button
+              type="button"
+              onClick={() => setShowNoticeModal(true)}
+              className="text-xs font-semibold text-emerald-400 hover:text-emerald-300 bg-emerald-500/10 hover:bg-emerald-500/20 border border-emerald-500/30 px-2.5 py-1 rounded-full transition-all flex items-center gap-1.5 shadow-sm"
+              title="Lihat info pengumuman ciri khas"
+            >
+              <Sparkles className="w-3.5 h-3.5 fill-current" />
+              <span>Info Ciri Khas</span>
+            </button>
+            <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
+              Edisi Khas
+            </Badge>
+          </div>
         </div>
       </header>
 
@@ -300,6 +313,12 @@ export default function SpecialVideoPage() {
           )}
         </section>
       </main>
+
+      {/* POPUP NOTIS CIRI KHAS (DIPAPARKAN SETIAP KALI USER BUKA PAGE INI) */}
+      <SpecialNoticeModal
+        isOpen={showNoticeModal}
+        onClose={() => setShowNoticeModal(false)}
+      />
 
       <BottomNav />
     </div>
