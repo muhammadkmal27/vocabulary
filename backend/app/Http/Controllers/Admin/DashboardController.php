@@ -64,4 +64,34 @@ class DashboardController extends Controller
             'active_toyyibpay_count' => $activeToyyibpay,
         ]);
     }
+
+    /**
+     * Endpoint ringan khas untuk penstriman data pelawat masa nyata (Realtime Live Stream)
+     */
+    public function live()
+    {
+        $liveNow = SiteVisitor::where('last_seen_at', '>=', now()->subMinutes(5))->count();
+        $totalVisitors = SiteVisitor::count();
+
+        $liveVisitors = SiteVisitor::with('user:id,name,email')
+            ->where('last_seen_at', '>=', now()->subMinutes(5))
+            ->orderByDesc('last_seen_at')
+            ->take(5)
+            ->get()
+            ->map(function ($v) {
+                return [
+                    'id'                    => $v->id,
+                    'user_name'             => $v->user?->name ?? 'Pelawat Tetamu',
+                    'user_email'            => $v->user?->email,
+                    'last_page'             => $v->last_page ?? '/',
+                    'last_seen_seconds_ago' => max(0, (int) now()->diffInSeconds($v->last_seen_at)),
+                ];
+            });
+
+        return response()->json([
+            'live_now'       => $liveNow,
+            'total_visitors' => $totalVisitors,
+            'live_visitors'  => $liveVisitors,
+        ]);
+    }
 }

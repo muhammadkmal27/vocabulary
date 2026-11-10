@@ -75,13 +75,13 @@ export function VisitorTracker() {
     sendPing(pathname);
   }, [pathname, token]);
 
-  // Heartbeat berkala (setiap 60 saat) apabila tab pelayar aktif
+  // Heartbeat berkala (setiap 25 saat) apabila tab pelayar aktif
   useEffect(() => {
     const interval = setInterval(() => {
       if (typeof document !== "undefined" && document.visibilityState === "visible") {
         sendPing();
       }
-    }, 60000);
+    }, 25000);
 
     const handleVisibilityChange = () => {
       if (document.visibilityState === "visible") {
@@ -99,3 +99,4 @@ export function VisitorTracker() {
 
   return null;
 }
+

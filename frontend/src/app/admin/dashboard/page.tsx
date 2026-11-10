@@ -47,10 +47,13 @@ export default function AdminDashboardPage() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    const fetchStats = async (isBackground = false) => {
+    let isMounted = true;
+
+    // 1. Muatkan data penuh statistik dashboard kali pertama
+    const fetchFullStats = async () => {
       if (!token) return;
       try {
-        if (!isBackground) setLoading(true);
+        setLoading(true);
         setError("");
         const res = await fetch("/api/admin/dashboard", {
           headers: {
@@ -60,22 +63,59 @@ export default function AdminDashboardPage() {
         });
         if (!res.ok) throw new Error("Gagal memuatkan statistik dashboard.");
         const data = await res.json();
-        setStats(data);
+        if (isMounted) setStats(data);
       } catch (err: any) {
-        if (!isBackground) setError(err.message || "Ralat sambungan pelayan.");
+        if (isMounted) setError(err.message || "Ralat sambungan pelayan.");
       } finally {
-        if (!isBackground) setLoading(false);
+        if (isMounted) setLoading(false);
       }
     };
 
-    fetchStats();
+    fetchFullStats();
 
-    // Auto-refresh metrik masa nyata setiap 15 saat
-    const interval = setInterval(() => {
-      fetchStats(true);
-    }, 15000);
+    // 2. Penstriman kemaskini langsung (Real-time live stream) setiap 2.5 saat
+    const fetchLiveStats = async () => {
+      if (!token || document.visibilityState !== "visible") return;
+      try {
+        const res = await fetch("/api/admin/dashboard/live", {
+          headers: {
+            Authorization: `Bearer ${token}`,
+            Accept: "application/json",
+          },
+        });
+        if (res.ok) {
+          const liveData = await res.json();
+          if (isMounted) {
+            setStats((prev) => {
+              if (!prev) return prev;
+              return {
+                ...prev,
+                live_now: liveData.live_now,
+                total_visitors: liveData.total_visitors,
+                live_visitors: liveData.live_visitors,
+              };
+            });
+          }
+        }
+      } catch {
+        // Senyapkan ralat sekunder agar tidak mengganggu paparan UI
+      }
+    };
 
-    return () => clearInterval(interval);
+    const liveInterval = setInterval(fetchLiveStats, 2500);
+
+    const handleVisibility = () => {
+      if (document.visibilityState === "visible") {
+        fetchLiveStats();
+      }
+    };
+    document.addEventListener("visibilitychange", handleVisibility);
+
+    return () => {
+      isMounted = false;
+      clearInterval(liveInterval);
+      document.removeEventListener("visibilitychange", handleVisibility);
+    };
   }, [token]);
 
   if (loading) {
@@ -140,57 +180,65 @@ export default function AdminDashboardPage() {
         </div>
       </div>
 
-      {/* 🟢 Live now & 👥 Total visitors Card (Exact visual match) */}
-      <div className="bg-[#18181b] text-white rounded-2xl p-6 border border-zinc-800 shadow-xl relative overflow-hidden">
-        {/* Ambient background glow */}
-        <div className="absolute -top-12 -right-12 w-48 h-48 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
-
-        <div className="grid grid-cols-2 gap-6 relative z-10">
-          {/* Live now */}
-          <div className="space-y-1">
-            <div className="flex items-center gap-2 text-zinc-400 text-sm font-medium">
-              <span className="relative flex h-2.5 w-2.5">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
-              </span>
-              <span>Live now</span>
-            </div>
-            <div className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight text-white flex items-baseline gap-2">
-              {(stats.live_now || 0).toLocaleString()}
-              <span className="text-[11px] font-normal text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded-full border border-emerald-500/20 hidden sm:inline-block">
-                aktif masa nyata
-              </span>
-            </div>
-          </div>
-
-          {/* Total visitors */}
-          <div className="space-y-1">
-            <div className="flex items-center gap-2 text-zinc-400 text-sm font-medium">
-              <Users className="w-4 h-4 text-zinc-400" />
-              <span>Total visitors</span>
-            </div>
-            <div className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight text-white">
-              {(stats.total_visitors || 0).toLocaleString()}
-            </div>
-          </div>
-        </div>
-
-        {/* Live Visitor Details Bar */}
-        {stats.live_visitors && stats.live_visitors.length > 0 && (
-          <div className="mt-4 pt-4 border-t border-zinc-800/80 flex flex-wrap items-center justify-between text-xs text-zinc-400 gap-2 relative z-10">
-            <span className="flex items-center gap-1.5 flex-wrap">
-              <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 shrink-0"></span>
-              <span className="font-medium text-zinc-300">Pelawat aktif:</span>{" "}
-              {stats.live_visitors.map((v) => (
-                <span key={v.id} className="bg-zinc-800/80 px-2 py-0.5 rounded text-zinc-300">
-                  {v.user_name} <span className="text-zinc-500">({v.last_page})</span>
+      {/* 🟢 Live now & 👥 Total visitors Card (Warna diselaraskan dengan tema sekeliling) */}
+      <Card className="border-border bg-card shadow-sm overflow-hidden">
+        <CardContent className="p-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:divide-x divide-border">
+            {/* Live now */}
+            <div className="flex items-center gap-4">
+              <div className="w-14 h-14 rounded-2xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center shrink-0">
+                <span className="relative flex h-3.5 w-3.5">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-3.5 w-3.5 bg-emerald-500"></span>
                 </span>
-              ))}
-            </span>
-            <span className="text-zinc-500 shrink-0">Auto-refresh setiap 15s</span>
+              </div>
+              <div className="space-y-0.5">
+                <div className="flex items-center gap-2">
+                  <span className="text-sm font-medium text-muted-foreground">Live now</span>
+                  <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-semibold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
+                    Masa Nyata
+                  </span>
+                </div>
+                <div className="text-3xl sm:text-4xl font-extrabold tracking-tight text-foreground">
+                  {(stats.live_now || 0).toLocaleString()}
+                </div>
+              </div>
+            </div>
+
+            {/* Total visitors */}
+            <div className="flex items-center gap-4 sm:pl-6">
+              <div className="w-14 h-14 rounded-2xl bg-primary/10 border border-primary/20 flex items-center justify-center shrink-0">
+                <Users className="w-7 h-7 text-primary" />
+              </div>
+              <div className="space-y-0.5">
+                <div className="text-sm font-medium text-muted-foreground">Total visitors</div>
+                <div className="text-3xl sm:text-4xl font-extrabold tracking-tight text-foreground">
+                  {(stats.total_visitors || 0).toLocaleString()}
+                </div>
+              </div>
+            </div>
           </div>
-        )}
-      </div>
+
+          {/* Live Visitor Details Bar */}
+          {stats.live_visitors && stats.live_visitors.length > 0 && (
+            <div className="mt-5 pt-4 border-t border-border flex flex-wrap items-center justify-between text-xs text-muted-foreground gap-2">
+              <div className="flex items-center gap-1.5 flex-wrap">
+                <span className="w-2 h-2 rounded-full bg-emerald-500 shrink-0 animate-pulse"></span>
+                <span className="font-semibold text-foreground">Pelawat aktif di laman:</span>
+                {stats.live_visitors.map((v) => (
+                  <span key={v.id} className="bg-muted px-2 py-0.5 rounded text-foreground border border-border/60">
+                    {v.user_name} <span className="text-muted-foreground font-mono text-[10px]">({v.last_page})</span>
+                  </span>
+                ))}
+              </div>
+              <div className="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400 font-medium">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                Penstriman Langsung Aktif
+              </div>
+            </div>
+          )}
+        </CardContent>
+      </Card>
 
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         {cardItems.map(({ icon: Icon, label, value, color }) => (

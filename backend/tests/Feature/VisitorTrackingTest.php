@@ -110,4 +110,32 @@ class VisitorTrackingTest extends TestCase
         $this->assertEquals(2, $data['live_now']);
         $this->assertGreaterThanOrEqual(3, $data['total_visitors']);
     }
+
+    public function test_admin_dashboard_live_endpoint_returns_realtime_counts(): void
+    {
+        $admin = User::factory()->create(['role' => 'admin']);
+
+        SiteVisitor::create([
+            'visitor_id'   => 'v_realtime_active',
+            'user_id'      => null,
+            'last_page'    => '/video',
+            'visits_count' => 1,
+            'last_seen_at' => now()->subMinutes(1),
+        ]);
+
+        $response = $this->actingAs($admin)
+            ->getJson('/api/admin/dashboard/live');
+
+        $response->assertStatus(200)
+            ->assertJsonStructure([
+                'live_now',
+                'total_visitors',
+                'live_visitors',
+            ]);
+
+        $data = $response->json();
+        $this->assertGreaterThanOrEqual(1, $data['live_now']);
+        $this->assertGreaterThanOrEqual(1, $data['total_visitors']);
+    }
 }
+

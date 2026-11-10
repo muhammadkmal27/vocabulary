@@ -105,6 +105,7 @@ Route::middleware('auth:sanctum')->group(function () {
 // Admin (auth:sanctum + admin middleware)
 Route::middleware(['auth:sanctum', 'admin'])->prefix('admin')->group(function () {
     Route::get('/dashboard', [DashboardController::class, 'index']);
+    Route::get('/dashboard/live', [DashboardController::class, 'live']);
     
     Route::apiResource('languages', LanguageController::class);
     Route::apiResource('languages.levels', LevelController::class)->shallow();
