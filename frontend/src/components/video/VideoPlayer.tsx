@@ -853,7 +853,7 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
                     <p className="text-xs font-medium text-muted-foreground">
                       Dwi-sari kata selepas 10 minit dihadkan kepada pengguna Premium
                     </p>
-                    <Link href="/pricing" target="_blank" rel="noopener noreferrer">
+                    <Link href="/pricing">
                       <button
                         type="button"
                         className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-amber-600 hover:bg-amber-700 text-black font-extrabold text-sm shadow-md transition-all active:scale-95 cursor-pointer"
