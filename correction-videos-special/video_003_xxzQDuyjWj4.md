@@ -3,7 +3,7 @@
 **Platform:** Bijak English / Vocabulary (Edisi Khas Ceramah Agama)
 **Video ID:** `xxzQDuyjWj4` *(Mirror Subtitle Sync: `H2Ya4EyMiDA`)*
 **Kategori:** Special
-**Akses:** Premium (`is_premium = true`, `is_free = false`)
+**Akses:** Percuma (`is_premium = false`, `is_free = true`)
 **Jumlah Baris Subtitle:** 570 Baris
 **Jumlah Kosa Kata Kata Tunggal:** 995 Perkataan
 **Jumlah Vocarb Ayat (Frasa & Collocations):** 204 Frasa

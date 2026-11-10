@@ -65,8 +65,8 @@ export default function AdminVideosPage() {
   const [youtubeVideoId, setYoutubeVideoId] = useState("");
   const [languageId, setLanguageId] = useState("");
   const [category, setCategory] = useState("Beginner");
-  const [isPremium, setIsPremium] = useState(true);
-  const [isFree, setIsFree] = useState(false);
+  const [isPremium, setIsPremium] = useState(false);
+  const [isFree, setIsFree] = useState(true);
   const [isActive, setIsActive] = useState(true);
   const [order, setOrder] = useState("0");
   const [submitting, setSubmitting] = useState(false);

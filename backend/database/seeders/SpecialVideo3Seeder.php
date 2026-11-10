@@ -31,8 +31,8 @@ class SpecialVideo3Seeder extends Seeder
                 'title'         => 'NEW | Special Talk on the Favours of Allah - Zimbabwe - Mufti Menk',
                 'thumbnail_url' => 'https://img.youtube.com/vi/xxzQDuyjWj4/0.jpg',
                 'category'      => 'Special',
-                'is_premium'    => true,
-                'is_free'       => false,
+                'is_premium'    => false,
+                'is_free'       => true,
                 'is_active'     => true,
                 'order'         => 3,
             ]

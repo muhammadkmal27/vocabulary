@@ -31,8 +31,8 @@ class SpecialVideo4Seeder extends Seeder
                 'title'         => 'The Ummah Can’t Heal Without This One Thing | Mufti Menk',
                 'thumbnail_url' => 'https://img.youtube.com/vi/uZT3McCJHzQ/0.jpg',
                 'category'      => 'Special',
-                'is_premium'    => true,
-                'is_free'       => false,
+                'is_premium'    => false,
+                'is_free'       => true,
                 'is_active'     => true,
                 'order'         => 4,
             ]
