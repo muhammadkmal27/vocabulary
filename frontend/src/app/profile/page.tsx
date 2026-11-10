@@ -216,11 +216,14 @@ export default function ProfilePage() {
       {/* Navbar */}
       <header className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
         <nav className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <ArrowLeft className="w-5 h-5" />
-            <span className="text-lg font-bold">Vocabulary</span>
-          </Link>
-          <div className="hidden lg:flex items-center gap-2">
+          <div className="flex-1 flex items-center justify-start min-w-0">
+            <Link href="/" className="flex items-center gap-2 text-foreground hover:opacity-80 transition-opacity">
+              <ArrowLeft className="w-5 h-5 shrink-0" />
+              <span className="text-lg font-bold">Vocabulary</span>
+            </Link>
+          </div>
+
+          <div className="hidden lg:flex items-center justify-center gap-2 shrink-0">
             <Link href="/">
               <Button variant="ghost" size="sm">Rumah</Button>
             </Link>
@@ -240,13 +243,17 @@ export default function ProfilePage() {
               <Button variant="secondary" size="sm">Profil</Button>
             </Link>
           </div>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={logout}
-          >
-            <LogOut className="w-4 h-4 mr-1" /> Log Keluar
-          </Button>
+
+          <div className="flex-1 flex items-center justify-end min-w-0">
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={logout}
+              className="text-muted-foreground hover:text-foreground shrink-0"
+            >
+              <LogOut className="w-4 h-4 mr-1" /> Log Keluar
+            </Button>
+          </div>
         </nav>
       </header>
 

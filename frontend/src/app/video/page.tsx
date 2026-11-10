@@ -125,13 +125,16 @@ export default function VideoPage() {
   return (
     <div className="min-h-screen bg-background">
       {/* HEADER */}
-      <header className="border-b border-border bg-card px-4 py-4 sticky top-0 z-40">
-        <div className="max-w-5xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Video className="w-6 h-6 text-primary" />
-            <h1 className="text-xl font-bold">Vocabulary Video</h1>
-          </Link>
-          <div className="hidden lg:flex items-center gap-2">
+      <header className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
+        <nav className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
+          <div className="flex-1 flex items-center justify-start min-w-0">
+            <Link href="/" className="flex items-center gap-2 text-foreground hover:opacity-80 transition-opacity">
+              <Video className="w-6 h-6 text-primary shrink-0" />
+              <h1 className="text-lg font-bold truncate">Vocabulary Video</h1>
+            </Link>
+          </div>
+
+          <div className="hidden lg:flex items-center justify-center gap-2 shrink-0">
             <Link href="/">
               <Button variant="ghost" size="sm">Rumah</Button>
             </Link>
@@ -151,10 +154,13 @@ export default function VideoPage() {
               <Button variant="ghost" size="sm">Profil</Button>
             </Link>
           </div>
-          <Badge variant="outline" className="border-primary/30 text-primary lg:hidden">
-            Dwi-Sari Kata
-          </Badge>
-        </div>
+
+          <div className="flex-1 flex items-center justify-end min-w-0">
+            <Badge variant="outline" className="border-primary/30 text-primary shrink-0">
+              Dwi-Sari Kata
+            </Badge>
+          </div>
+        </nav>
       </header>
 
       <main className="max-w-5xl mx-auto px-4 py-6 space-y-8 pb-24 lg:pb-8">

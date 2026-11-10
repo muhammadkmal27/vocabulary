@@ -119,18 +119,21 @@ export default function SpecialVideoPage() {
   return (
     <div className="min-h-screen bg-background flex flex-col">
       {/* HEADER SECTION */}
-      <header className="border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-40">
-        <div className="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="p-2 bg-primary/10 rounded-xl text-primary">
-              <Video className="w-5 h-5" />
-            </div>
-            <div>
-              <h1 className="font-bold text-lg leading-none">Video Khas</h1>
-              <p className="text-xs text-muted-foreground mt-1">Siri Ceramah Agama Dwi-Bahasa</p>
+      <header className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
+        <nav className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
+          <div className="flex-1 flex items-center justify-start min-w-0">
+            <div className="flex items-center gap-3 min-w-0">
+              <div className="p-2 bg-primary/10 rounded-xl text-primary shrink-0">
+                <Video className="w-5 h-5" />
+              </div>
+              <div className="min-w-0">
+                <h1 className="font-bold text-lg leading-none truncate">Video Khas</h1>
+                <p className="text-xs text-muted-foreground mt-1 hidden sm:block truncate">Siri Ceramah Agama Dwi-Bahasa</p>
+              </div>
             </div>
           </div>
-          <div className="hidden lg:flex items-center gap-2">
+
+          <div className="hidden lg:flex items-center justify-center gap-2 shrink-0">
             <Link href="/">
               <Button variant="ghost" size="sm">Rumah</Button>
             </Link>
@@ -150,11 +153,14 @@ export default function SpecialVideoPage() {
               <Button variant="ghost" size="sm">Profil</Button>
             </Link>
           </div>
-          <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1">
-            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-            Edisi Khas
-          </Badge>
-        </div>
+
+          <div className="flex-1 flex items-center justify-end min-w-0">
+            <Badge variant="outline" className="border-primary/20 text-primary gap-1.5 py-1 shrink-0">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
+              Edisi Khas
+            </Badge>
+          </div>
+        </nav>
       </header>
 
       <main className="max-w-5xl mx-auto px-4 py-6 space-y-8 pb-24 lg:pb-8 flex-1 w-full">

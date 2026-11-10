@@ -28,6 +28,7 @@ import {
   ArrowRight,
   CheckCircle2,
   Sparkles,
+  LogOut,
 } from "lucide-react";
 import BottomNav from "@/components/BottomNav";
 import { useAuth } from "@/lib/auth";
@@ -260,11 +261,14 @@ function SubscriptionContent() {
     <div className="min-h-screen bg-background pb-20 lg:pb-8">
       <header className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
         <nav className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Brain className="w-6 h-6 text-primary" />
-            <span className="text-lg font-bold">Vocabulary</span>
-          </Link>
-          <div className="hidden lg:flex items-center gap-2">
+          <div className="flex-1 flex items-center justify-start min-w-0">
+            <Link href="/" className="flex items-center gap-2 text-foreground hover:opacity-80 transition-opacity">
+              <Brain className="w-6 h-6 text-primary shrink-0" />
+              <span className="text-lg font-bold">Vocabulary</span>
+            </Link>
+          </div>
+
+          <div className="hidden lg:flex items-center justify-center gap-2 shrink-0">
             <Link href="/">
               <Button variant="ghost" size="sm">Rumah</Button>
             </Link>
@@ -284,11 +288,24 @@ function SubscriptionContent() {
               <Button variant="ghost" size="sm">Profil</Button>
             </Link>
           </div>
-          <Link href="/profile" className="lg:hidden">
-            <Button variant="ghost" size="sm">
-              Profil
-            </Button>
-          </Link>
+
+          <div className="flex-1 flex items-center justify-end min-w-0 gap-2">
+            {token && (
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={logout}
+                className="hidden lg:flex items-center text-muted-foreground hover:text-foreground shrink-0"
+              >
+                <LogOut className="w-4 h-4 mr-1" /> Log Keluar
+              </Button>
+            )}
+            <Link href="/profile" className="lg:hidden shrink-0">
+              <Button variant="ghost" size="sm">
+                Profil
+              </Button>
+            </Link>
+          </div>
         </nav>
       </header>
 

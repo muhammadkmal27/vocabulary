@@ -20,12 +20,13 @@ import {
   ChevronRight,
   Loader2,
   Sparkles,
+  LogOut,
 } from "lucide-react";
 import { TheoryBanner } from "@/components/TheoryBanner";
 import BottomNav from "@/components/BottomNav";
 
 export default function DashboardPage() {
-  const { token, user } = useAuth();
+  const { token, user, logout } = useAuth();
   const [currentIdx, setCurrentIdx] = useState(0);
   
   const [languages, setLanguages] = useState<any[]>([]);
@@ -118,21 +119,19 @@ export default function DashboardPage() {
     <div className="min-h-screen bg-background">
       {/* NAVBAR */}
       <header className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
-        <nav className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <Brain className="w-6 h-6 text-primary" />
-            <span className="text-lg font-bold">Vocabulary</span>
-          </div>
-          {/* Desktop Nav */}
-          <div className="hidden lg:flex items-center gap-1">
-            <Link href="/">
-              <Button variant="ghost" size="sm">Rumah</Button>
+        <nav className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
+          <div className="flex-1 flex items-center justify-start min-w-0">
+            <Link href="/" className="flex items-center gap-2 text-foreground hover:opacity-80 transition-opacity">
+              <Brain className="w-6 h-6 text-primary shrink-0" />
+              <span className="text-lg font-bold">Vocabulary</span>
             </Link>
-            {currentLevel && (
-              <Link href={`/quiz/${selectedLanguage?.code}/${currentLevel.id}`}>
-                <Button variant="ghost" size="sm">Quiz</Button>
-              </Link>
-            )}
+          </div>
+
+          {/* Desktop Nav */}
+          <div className="hidden lg:flex items-center justify-center gap-2 shrink-0">
+            <Link href="/">
+              <Button variant="secondary" size="sm">Rumah</Button>
+            </Link>
             <Link href="/video">
               <Button variant="ghost" size="sm">Video</Button>
             </Link>
@@ -142,47 +141,60 @@ export default function DashboardPage() {
                 Special
               </Button>
             </Link>
+            <Link href={token ? "/subscription" : "/pricing"}>
+              <Button variant="ghost" size="sm">Langganan</Button>
+            </Link>
             {token ? (
-              <>
-                <Link href="/subscription">
-                  <Button variant="ghost" size="sm">Langganan</Button>
-                </Link>
-                <Link href="/profile">
-                  <Button variant="ghost" size="sm">Profil</Button>
-                </Link>
-              </>
+              <Link href="/profile">
+                <Button variant="ghost" size="sm">Profil</Button>
+              </Link>
             ) : (
-              <>
-                <Link href="/pricing">
-                  <Button variant="ghost" size="sm">Langganan</Button>
-                </Link>
-                <Link href="/login">
-                  <Button size="sm">Log Masuk</Button>
-                </Link>
-              </>
+              <Link href="/login">
+                <Button variant="ghost" size="sm">Profil</Button>
+              </Link>
             )}
           </div>
-          {/* Mobile Nav */}
-          <div className="flex lg:hidden items-center gap-1">
+
+          {/* Right Action (Desktop logout/login & Mobile nav) */}
+          <div className="flex-1 flex items-center justify-end min-w-0 gap-2">
+            {/* Desktop Auth Action */}
             {token ? (
-              <>
-                <Link href="/subscription">
-                  <Button variant="ghost" size="sm">Langganan</Button>
-                </Link>
-                <Link href="/profile">
-                  <Button variant="ghost" size="sm">Profil</Button>
-                </Link>
-              </>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={logout}
+                className="hidden lg:flex items-center text-muted-foreground hover:text-foreground shrink-0"
+              >
+                <LogOut className="w-4 h-4 mr-1" /> Log Keluar
+              </Button>
             ) : (
-              <>
-                <Link href="/pricing">
-                  <Button variant="ghost" size="sm">Langganan</Button>
-                </Link>
-                <Link href="/login">
-                  <Button size="sm">Log Masuk</Button>
-                </Link>
-              </>
+              <Link href="/login" className="hidden lg:flex items-center shrink-0">
+                <Button size="sm">Log Masuk</Button>
+              </Link>
             )}
+
+            {/* Mobile Nav */}
+            <div className="flex lg:hidden items-center gap-1 shrink-0">
+              {token ? (
+                <>
+                  <Link href="/subscription">
+                    <Button variant="ghost" size="sm">Langganan</Button>
+                  </Link>
+                  <Link href="/profile">
+                    <Button variant="ghost" size="sm">Profil</Button>
+                  </Link>
+                </>
+              ) : (
+                <>
+                  <Link href="/pricing">
+                    <Button variant="ghost" size="sm">Langganan</Button>
+                  </Link>
+                  <Link href="/login">
+                    <Button size="sm">Log Masuk</Button>
+                  </Link>
+                </>
+              )}
+            </div>
           </div>
         </nav>
       </header>
