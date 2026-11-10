@@ -81,12 +81,39 @@ class VideoApiTest extends TestCase
             ->assertJsonFragment(['target_text' => 'Hello']);
     }
 
-    public function test_unsubscribed_user_cannot_access_premium_video()
+    public function test_unsubscribed_user_receives_freemium_access_for_video()
     {
         $response = $this->actingAs($this->user)
             ->getJson("/api/videos/{$this->premiumVideo->id}");
 
-        $response->assertStatus(403);
+        $response->assertStatus(200)
+            ->assertJsonPath('title', 'Premium Video')
+            ->assertJsonPath('is_user_premium', false);
+    }
+
+    public function test_subscribed_user_receives_full_premium_access_for_video()
+    {
+        $plan = \App\Models\SubscriptionPlan::create([
+            'name' => 'Monthly Plan',
+            'slug' => 'monthly',
+            'price_myr' => 29.00,
+            'is_active' => true,
+        ]);
+
+        $this->user->subscriptions()->create([
+            'plan_id' => $plan->id,
+            'stripe_status' => 'active',
+            'stripe_subscription_id' => 'sub_test_123',
+            'stripe_price_id' => 'price_test_123',
+            'payment_gateway' => 'stripe',
+        ]);
+
+        $response = $this->actingAs($this->user)
+            ->getJson("/api/videos/{$this->premiumVideo->id}");
+
+        $response->assertStatus(200)
+            ->assertJsonPath('title', 'Premium Video')
+            ->assertJsonPath('is_user_premium', true);
     }
 
     public function test_admin_user_can_create_video()

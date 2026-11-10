@@ -14,21 +14,12 @@ class VideoController extends Controller
     {
         $user = auth('sanctum')->user();
 
-        // Check if user is premium
-        $hasActiveSubscription = false;
+        // Check if user is premium / subscribed
+        $isUserPremium = false;
         $progressMap = [];
 
         if ($user) {
-            $hasActiveSubscription = $user->subscriptions()
-                ->where('stripe_status', 'active')
-                ->where(function ($q) { $q->whereNull('ends_at')->orWhere('ends_at', '>', now()); })
-                ->exists();
-
-            if (!$hasActiveSubscription) {
-                $hasActiveSubscription = CouponRedemption::where('user_id', $user->id)
-                    ->whereHas('coupon', fn($q) => $q->where('is_active', true))
-                    ->exists();
-            }
+            $isUserPremium = $user->isAdmin() || (bool) $user->subscribed;
 
             // Fetch all progress records for current user
             $progressRecords = UserVideoProgress::where('user_id', $user->id)->get();
@@ -63,9 +54,11 @@ class VideoController extends Controller
 
         $videos = $query->orderBy('order')->get();
 
-        // Map premium status and user progress
-        $videos = $videos->map(function ($video) use ($hasActiveSubscription, $progressMap) {
-            $video->is_locked = $video->is_premium && !$hasActiveSubscription && !$video->is_free;
+        // Freemium model: All videos are open to view without card-level lock.
+        // First 10 minutes of subtitles are accessible to all; full subtitles unlocked for premium.
+        $videos = $videos->map(function ($video) use ($isUserPremium, $progressMap) {
+            $video->is_locked = false;
+            $video->is_user_premium = $isUserPremium;
             $video->user_progress = $progressMap[$video->id] ?? [
                 'is_completed'          => false,
                 'last_watched_seconds' => 0,
@@ -84,31 +77,15 @@ class VideoController extends Controller
         $user = auth('sanctum')->user();
         $video = YoutubeVideo::with('subtitles')->findOrFail($id);
 
-        // Check subscription for premium videos
-        if ($video->is_premium && !$video->is_free) {
-            if (!$user) {
-                return response()->json([
-                    'message' => 'Sila log masuk untuk menonton video premium.'
-                ], 401);
-            }
-
-            $hasActiveSubscription = $user->subscriptions()
-                ->where('stripe_status', 'active')
-                ->where(function ($q) { $q->whereNull('ends_at')->orWhere('ends_at', '>', now()); })
-                ->exists();
-
-            if (!$hasActiveSubscription) {
-                $hasActiveSubscription = CouponRedemption::where('user_id', $user->id)
-                    ->whereHas('coupon', fn($q) => $q->where('is_active', true))
-                    ->exists();
-            }
-
-            if (!$hasActiveSubscription) {
-                return response()->json([
-                    'message' => 'Akses terhad kepada video percuma sahaja. Sila langgan untuk membuka video premium ini.'
-                ], 403);
-            }
+        $isUserPremium = false;
+        if ($user) {
+            $isUserPremium = $user->isAdmin() || (bool) $user->subscribed;
         }
+
+        // Freemium access: Video playback and first 10 minutes of subtitles are free for everyone.
+        // Subtitles after 10 minutes are gated for premium users on the client side.
+        $video->is_locked = false;
+        $video->is_user_premium = $isUserPremium;
 
         // Attach user progress if logged in
         if ($user) {

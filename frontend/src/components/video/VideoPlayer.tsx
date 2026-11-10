@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle, ChevronRight, ChevronUp, ChevronDown } from "lucide-react";
+import { ArrowLeft, Play, Pause, RotateCcw, Volume2, Plus, Loader2, Sparkles, AlertTriangle, CheckCircle2, Circle, ChevronRight, ChevronUp, ChevronDown, Lock } from "lucide-react";
 import { useAuth } from "@/lib/auth";
 import { useAlert } from "@/components/ui/AlertConfirmProvider";
 import { localDictionary } from "@/lib/localDictionary";
@@ -43,6 +43,9 @@ interface YoutubeVideoData {
   youtube_video_id: string;
   category: string;
   subtitles: Subtitle[];
+  is_premium?: boolean;
+  is_free?: boolean;
+  is_user_premium?: boolean;
   user_progress?: UserVideoProgress;
   next_video_id?: string | null;
   next_video_title?: string | null;
@@ -56,12 +59,17 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
   const params = useParams();
   const router = useRouter();
   const videoId = params?.id as string;
-  const { token, isLoading: authLoading } = useAuth();
+  const { user, token, isLoading: authLoading } = useAuth();
   const { toast } = useAlert();
 
   const [videoData, setVideoData] = useState<YoutubeVideoData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+
+  // Freemium video logic: 10 minutes (600s) free subtitle preview; full subtitles require premium
+  const TEN_MINUTES_SECONDS = 600;
+  const isUserPremium = Boolean(videoData?.is_user_premium || user?.subscribed || user?.role === "admin");
+  const isTimeLocked = (seconds: number) => !isUserPremium && seconds >= TEN_MINUTES_SECONDS;
 
   const [player, setPlayer] = useState<any>(null);
   const [currentTime, setCurrentTime] = useState(0);
@@ -119,6 +127,9 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
     e: React.MouseEvent,
     isClick = false
   ) => {
+    // Sekiranya feature dwi-sari kata terkunci selepas 10 minit untuk bukan premium, abaikan klik kamus
+    if (isTimeLocked(currentTime)) return;
+
     // 1. Pause video automatically
     if (playerObjRef.current && typeof playerObjRef.current.pauseVideo === "function") {
       playerObjRef.current.pauseVideo();
@@ -823,16 +834,46 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
           </div>
 
           {/* DUAL SUBTITLE DISPLAY */}
-          <div className="min-h-[140px] lg:h-[140px] shrink-0 rounded-xl border border-amber-500/20 bg-amber-500/5 flex items-center justify-center px-4 py-3 text-center overflow-y-auto">
+          <div className="min-h-[140px] lg:h-[140px] shrink-0 rounded-xl border border-amber-500/20 bg-amber-500/5 flex items-center justify-center px-4 py-3 text-center overflow-hidden relative">
             {activeSubtitle ? (
-              <div className="space-y-1.5 w-full">
-                <p className="text-base sm:text-lg lg:text-xl font-extrabold text-primary leading-snug break-words">
-                  {renderInteractiveText(activeSubtitle.target_text)}
-                </p>
-                <p className="text-xs sm:text-sm text-muted-foreground font-medium break-words">
-                  {activeSubtitle.source_text}
-                </p>
-              </div>
+              isTimeLocked(currentTime) ? (
+                <div className="relative w-full h-full flex flex-col items-center justify-center">
+                  {/* Blurred text behind */}
+                  <div className="space-y-1.5 w-full filter blur-[5px] opacity-35 select-none pointer-events-none">
+                    <p className="text-base sm:text-lg lg:text-xl font-extrabold text-primary leading-snug break-words">
+                      {activeSubtitle.target_text}
+                    </p>
+                    <p className="text-xs sm:text-sm text-muted-foreground font-medium break-words">
+                      {activeSubtitle.source_text}
+                    </p>
+                  </div>
+
+                  {/* Lock overlay with button matching uploaded image */}
+                  <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 bg-background/60 backdrop-blur-[2px] rounded-lg p-2 z-10">
+                    <p className="text-xs font-medium text-muted-foreground">
+                      Dwi-sari kata selepas 10 minit dihadkan kepada pengguna Premium
+                    </p>
+                    <Link href="/pricing" target="_blank" rel="noopener noreferrer">
+                      <button
+                        type="button"
+                        className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-amber-600 hover:bg-amber-700 text-black font-extrabold text-sm shadow-md transition-all active:scale-95 cursor-pointer"
+                      >
+                        <Lock className="w-4 h-4 text-black stroke-[2.5]" />
+                        <span>Buka dengan Premium</span>
+                      </button>
+                    </Link>
+                  </div>
+                </div>
+              ) : (
+                <div className="space-y-1.5 w-full">
+                  <p className="text-base sm:text-lg lg:text-xl font-extrabold text-primary leading-snug break-words">
+                    {renderInteractiveText(activeSubtitle.target_text)}
+                  </p>
+                  <p className="text-xs sm:text-sm text-muted-foreground font-medium break-words">
+                    {activeSubtitle.source_text}
+                  </p>
+                </div>
+              )
             ) : (
               <div className="space-y-1 text-muted-foreground/60">
                 <Volume2 className="w-6 h-6 mx-auto opacity-50 mb-1" />
@@ -881,55 +922,89 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
             </div>
           </div>
           <div ref={transcriptContainerRef} className="flex-1 overflow-y-auto p-4 space-y-3 relative">
-            {videoData?.subtitles.map((sub) => {
+            {videoData?.subtitles.map((sub, index) => {
               const isActive = activeSubtitle?.id === sub.id;
-              return (
-                <div
-                  key={sub.id}
-                  ref={(el) => {
-                    transcriptRefs.current[sub.id] = el;
-                  }}
-                  onClick={() => {
-                    manualNavLockRef.current = Date.now() + 800;
-                    currentSubIndexRef.current = subtitlesRef.current.findIndex((s) => s.id === sub.id);
-                    setActiveSubtitle(sub);
-                    if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
-                      playerObjRef.current.seekTo(sub.start_time, true);
-                    } else if (player && typeof player.seekTo === "function") {
-                      player.seekTo(sub.start_time, true);
-                    }
-                  }}
-                  className={`p-3 rounded-lg border text-left cursor-pointer transition-all space-y-1.5 group relative ${isActive
-                      ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02]"
-                      : "border-border hover:border-muted-foreground/30 hover:bg-muted/50"
-                    }`}
-                >
-                  <div className="flex justify-between items-start gap-2">
-                    <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
-                      {sub.target_text}
-                    </p>
-                    <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
-                      {Math.floor(sub.start_time / 60)}:
-                      {String(Math.floor(sub.start_time % 60)).padStart(2, "0")}
-                    </Badge>
-                  </div>
-                  <p className="text-xs text-muted-foreground leading-normal">
-                    {sub.source_text}
-                  </p>
+              const isLocked = isTimeLocked(sub.start_time);
+              const isFirstLocked = isLocked && (index === 0 || (videoData.subtitles[index - 1] && videoData.subtitles[index - 1].start_time < TEN_MINUTES_SECONDS));
 
-                  <div className="pt-1.5 flex justify-end lg:opacity-0 lg:group-hover:opacity-100 transition-opacity">
-                    <Button
-                      size="sm"
-                      variant="ghost"
-                      className="h-7 text-[10px] gap-1 hover:text-primary"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        handleAddSentence(sub);
-                      }}
-                    >
-                      <Plus className="w-3 h-3" />
-                      Hafal Ayat
-                    </Button>
+              return (
+                <div key={sub.id} className="space-y-3">
+                  {isFirstLocked && (
+                    <div className="sticky top-0 z-20 my-3 p-4 rounded-xl border border-amber-500/40 bg-card/95 shadow-xl backdrop-blur-md text-center space-y-2.5">
+                      <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-500 text-xs font-bold">
+                        <Sparkles className="w-3.5 h-3.5 fill-current" />
+                        <span>Feature Terbatas (Selepas 10 Minit)</span>
+                      </div>
+                      <p className="text-xs text-muted-foreground leading-relaxed">
+                        Transkrip interaktif & dwi-sari kata penuh selepas minit ke-10 dikhaskan untuk pengguna Premium.
+                      </p>
+                      <Link href="/pricing" className="block w-full" target="_blank" rel="noopener noreferrer">
+                        <button
+                          type="button"
+                          className="w-full inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-amber-600 hover:bg-amber-700 text-black font-extrabold text-sm shadow-md transition-all active:scale-95 cursor-pointer"
+                        >
+                          <Lock className="w-4 h-4 text-black stroke-[2.5]" />
+                          <span>Buka dengan Premium</span>
+                        </button>
+                      </Link>
+                    </div>
+                  )}
+
+                  <div
+                    ref={(el) => {
+                      transcriptRefs.current[sub.id] = el;
+                    }}
+                    onClick={() => {
+                      if (isLocked) {
+                        toast("Dwi-sari kata dan transkrip selepas 10 minit memerlukan langganan Premium.", "info");
+                        return;
+                      }
+                      manualNavLockRef.current = Date.now() + 800;
+                      currentSubIndexRef.current = subtitlesRef.current.findIndex((s) => s.id === sub.id);
+                      setActiveSubtitle(sub);
+                      if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
+                        playerObjRef.current.seekTo(sub.start_time, true);
+                      } else if (player && typeof player.seekTo === "function") {
+                        player.seekTo(sub.start_time, true);
+                      }
+                    }}
+                    className={`p-3 rounded-lg border text-left transition-all space-y-1.5 group relative ${
+                      isLocked
+                        ? "border-border/60 filter blur-[3.5px] opacity-40 select-none pointer-events-none cursor-not-allowed"
+                        : isActive
+                        ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02] cursor-pointer"
+                        : "border-border hover:border-muted-foreground/30 hover:bg-muted/50 cursor-pointer"
+                    }`}
+                  >
+                    <div className="flex justify-between items-start gap-2">
+                      <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
+                        {sub.target_text}
+                      </p>
+                      <Badge variant={isActive ? "default" : "secondary"} className="text-[9px] px-1 py-0 h-4 font-mono shrink-0">
+                        {Math.floor(sub.start_time / 60)}:
+                        {String(Math.floor(sub.start_time % 60)).padStart(2, "0")}
+                      </Badge>
+                    </div>
+                    <p className="text-xs text-muted-foreground leading-normal">
+                      {sub.source_text}
+                    </p>
+
+                    {!isLocked && (
+                      <div className="pt-1.5 flex justify-end lg:opacity-0 lg:group-hover:opacity-100 transition-opacity">
+                        <Button
+                          size="sm"
+                          variant="ghost"
+                          className="h-7 text-[10px] gap-1 hover:text-primary"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            handleAddSentence(sub);
+                          }}
+                        >
+                          <Plus className="w-3 h-3" />
+                          Hafal Ayat
+                        </Button>
+                      </div>
+                    )}
                   </div>
                 </div>
               );

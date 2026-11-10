@@ -221,21 +221,17 @@ export default function SpecialVideoPage() {
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                       />
                       <div className="absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-                        {video.is_locked ? (
-                          <Lock className="w-10 h-10 text-white" />
-                        ) : (
-                          <Play className="w-10 h-10 text-white fill-white" />
-                        )}
+                        <Play className="w-10 h-10 text-white fill-white" />
                       </div>
 
-                      {/* BADGES KIRI (Percuma / Premium) */}
-                      <div className="absolute top-2 left-2 flex gap-1 z-10">
-                        {video.is_free && (
-                          <Badge className="bg-green-600 hover:bg-green-600 text-white text-[11px] px-2 py-0.5">Percuma</Badge>
-                        )}
-                        {video.is_premium && (
-                          <Badge className="bg-amber-600 hover:bg-amber-600 text-black font-semibold text-[11px] px-2 py-0.5">Premium</Badge>
-                        )}
+                      {/* BADGES KIRI (Percuma & Feature Terbatas di bawahnya) */}
+                      <div className="absolute top-2 left-2 flex flex-col items-start gap-1 z-10">
+                        <Badge className="bg-green-600 hover:bg-green-600 text-white text-[11px] px-2 py-0.5 font-semibold shadow-sm">
+                          Percuma
+                        </Badge>
+                        <Badge className="bg-amber-600 hover:bg-amber-600 text-black text-[10px] px-2 py-0.5 font-bold shadow-sm border border-amber-500/30">
+                          Feature Terbatas
+                        </Badge>
                       </div>
 
                       {/* BADGES KANAN (Status Selesai / Tick box) */}
@@ -245,7 +241,7 @@ export default function SpecialVideoPage() {
                             <CheckCircle2 className="w-3.5 h-3.5" /> Selesai
                           </Badge>
                         )}
-                        {token && !video.is_locked && (
+                        {token && (
                           <button
                             type="button"
                             onClick={(e) => handleToggleComplete(e, video.id)}
@@ -296,29 +292,21 @@ export default function SpecialVideoPage() {
                       </div>
 
                       <div className="space-y-2">
-                        {video.is_locked ? (
-                          <Link href="/pricing" className="w-full block">
-                            <Button className="w-full bg-amber-600 hover:bg-amber-700 text-black font-semibold gap-2">
-                              <Lock className="w-4 h-4" /> Buka dengan Premium
+                        <Link href={`/special/${video.id}`} className="w-full block">
+                          {isCompleted ? (
+                            <Button variant="outline" className="w-full gap-2 border-emerald-500/40 text-emerald-400 hover:bg-emerald-500/10">
+                              <RotateCcw className="w-4 h-4" /> Tonton Semula
                             </Button>
-                          </Link>
-                        ) : (
-                          <Link href={`/special/${video.id}`} className="w-full block">
-                            {isCompleted ? (
-                              <Button variant="outline" className="w-full gap-2 border-emerald-500/40 text-emerald-400 hover:bg-emerald-500/10">
-                                <RotateCcw className="w-4 h-4" /> Tonton Semula
-                              </Button>
-                            ) : hasWatchedSome ? (
-                              <Button className="w-full gap-2">
-                                <Play className="w-4 h-4 fill-current" /> Sambung Tonton ({progressPercent}%)
-                              </Button>
-                            ) : (
-                              <Button className="w-full gap-2">
-                                <Play className="w-4 h-4 fill-current" /> Mula Belajar
-                              </Button>
-                            )}
-                          </Link>
-                        )}
+                          ) : hasWatchedSome ? (
+                            <Button className="w-full gap-2">
+                              <Play className="w-4 h-4 fill-current" /> Sambung Tonton ({progressPercent}%)
+                            </Button>
+                          ) : (
+                            <Button className="w-full gap-2">
+                              <Play className="w-4 h-4 fill-current" /> Mula Belajar
+                            </Button>
+                          )}
+                        </Link>
                       </div>
                     </CardContent>
                   </Card>
