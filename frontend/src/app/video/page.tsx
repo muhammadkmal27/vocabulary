@@ -27,11 +27,12 @@ interface YoutubeVideoData {
   is_premium: boolean;
   is_free: boolean;
   is_locked: boolean;
+  is_user_premium?: boolean;
   user_progress?: UserVideoProgress;
 }
 
 export default function VideoPage() {
-  const { token, isLoading: authLoading } = useAuth();
+  const { user, token, isLoading: authLoading } = useAuth();
   const { toast } = useAlert();
   const [videos, setVideos] = useState<YoutubeVideoData[]>([]);
   const [loading, setLoading] = useState(true);
@@ -209,6 +210,7 @@ export default function VideoPage() {
                 const isCompleted = video.user_progress?.is_completed || false;
                 const progressPercent = video.user_progress?.progress_percent || 0;
                 const hasWatchedSome = progressPercent > 0 && !isCompleted;
+                const isUserPremium = Boolean(user?.subscribed || user?.role === "admin" || video.is_user_premium);
 
                 return (
                   <Card key={video.id} className="overflow-hidden border-border bg-card group hover:border-primary/50 transition-all flex flex-col h-full relative">
@@ -224,14 +226,22 @@ export default function VideoPage() {
                         <Play className="w-10 h-10 text-white fill-white" />
                       </div>
 
-                      {/* BADGES KIRI (Percuma & Feature Terbatas di bawahnya) */}
+                      {/* BADGES KIRI (Percuma & Feature Terbatas untuk bukan premium, Premium untuk langganan aktif) */}
                       <div className="absolute top-2 left-2 flex flex-col items-start gap-1 z-10">
-                        <Badge className="bg-green-600 hover:bg-green-600 text-white text-[11px] px-2 py-0.5 font-semibold shadow-sm">
-                          Percuma
-                        </Badge>
-                        <Badge className="bg-amber-600 hover:bg-amber-600 text-black text-[10px] px-2 py-0.5 font-bold shadow-sm border border-amber-500/30">
-                          Feature Terbatas
-                        </Badge>
+                        {isUserPremium ? (
+                          <Badge className="bg-amber-600 hover:bg-amber-600 text-black font-semibold text-[11px] px-2 py-0.5 shadow-sm">
+                            Premium
+                          </Badge>
+                        ) : (
+                          <>
+                            <Badge className="bg-green-600 hover:bg-green-600 text-white text-[11px] px-2 py-0.5 font-semibold shadow-sm">
+                              Percuma
+                            </Badge>
+                            <Badge className="bg-amber-600 hover:bg-amber-600 text-black text-[10px] px-2 py-0.5 font-bold shadow-sm border border-amber-500/30">
+                              Feature Terbatas
+                            </Badge>
+                          </>
+                        )}
                       </div>
 
                       {/* BADGES KANAN (Status Selesai / Tick box) */}
