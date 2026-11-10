@@ -210,7 +210,7 @@ export default function SpecialVideoPage() {
                 const isCompleted = video.user_progress?.is_completed || false;
                 const progressPercent = video.user_progress?.progress_percent || 0;
                 const hasWatchedSome = progressPercent > 0 && !isCompleted;
-                const isUserPremium = Boolean(user?.subscribed || user?.role === "admin" || video.is_user_premium);
+                const isFullAccess = Boolean(video.is_user_premium || user?.subscribed || user?.role === "admin");
 
                 return (
                   <Card key={video.id} className="overflow-hidden border-border bg-card group hover:border-primary/50 transition-all flex flex-col h-full relative">
@@ -226,11 +226,12 @@ export default function SpecialVideoPage() {
                         <Play className="w-10 h-10 text-white fill-white" />
                       </div>
 
-                      {/* BADGES KIRI (Percuma & Feature Terbatas untuk bukan premium, Premium untuk langganan aktif) */}
-                      <div className="absolute top-2 left-2 flex flex-col items-start gap-1 z-10">
-                        {isUserPremium ? (
-                          <Badge className="bg-amber-600 hover:bg-amber-600 text-black font-semibold text-[11px] px-2 py-0.5 shadow-sm">
-                            Premium
+                      {/* BADGES KIRI: "Feature Penuh" jika Langganan Aktif, atau "Percuma" + "Feature Terbatas" jika Percuma */}
+                      <div className="absolute top-2 left-2 z-10 flex flex-col items-start gap-1">
+                        {isFullAccess ? (
+                          <Badge className="bg-amber-500 hover:bg-amber-500 text-black text-[11px] px-2 py-0.5 font-bold shadow-sm border border-amber-400/40 flex items-center gap-1">
+                            <Sparkles className="w-3 h-3 fill-current" />
+                            Feature Penuh
                           </Badge>
                         ) : (
                           <>
