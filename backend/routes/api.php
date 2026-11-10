@@ -42,6 +42,9 @@ Route::get('/plans', function () {
 Route::get('/videos', [\App\Http\Controllers\Api\VideoController::class, 'index']);
 Route::get('/videos/{id}', [\App\Http\Controllers\Api\VideoController::class, 'show']);
 
+// Visitor Real-time Tracking Ping
+Route::post('/track/ping', [\App\Http\Controllers\Api\VisitorTrackingController::class, 'ping']);
+
 // Dashboard & Profile (authenticated)
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('/profile', [\App\Http\Controllers\Api\ProfileController::class, 'show']);

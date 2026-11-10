@@ -26,8 +26,7 @@ class QuizEngineTest extends TestCase
 
         $this->user = User::factory()->create();
 
-        $this->language = Language::create([
-            'code' => 'en',
+        $this->language = Language::firstOrCreate(['code' => 'en'], [
             'name' => 'English',
             'flag' => '🇬🇧',
             'is_active' => true,

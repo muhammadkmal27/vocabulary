@@ -102,7 +102,7 @@ class QuizService
             return array_values(array_unique($results));
         }
         
-        return $results;
+        return [$text];
     }
 
     public function submitAnswer(string $userId, string $sessionId, string $answerId, string $userAnswer): QuizAnswer

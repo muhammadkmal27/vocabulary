@@ -4,6 +4,7 @@ import { ThemeProvider } from "next-themes";
 import { AuthProvider } from "@/lib/auth";
 import { AlertConfirmProvider } from "@/components/ui/AlertConfirmProvider";
 import { FacebookPixel } from "@/components/FacebookPixel";
+import { VisitorTracker } from "@/components/VisitorTracker";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -71,6 +72,7 @@ export default function RootLayout({
           <AuthProvider>
             <AlertConfirmProvider>
               <FacebookPixel />
+              <VisitorTracker />
               {children}
             </AlertConfirmProvider>
           </AuthProvider>
