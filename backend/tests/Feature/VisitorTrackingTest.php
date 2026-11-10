@@ -68,31 +68,31 @@ class VisitorTrackingTest extends TestCase
     {
         $admin = User::factory()->create(['role' => 'admin']);
 
-        // Visitor 1: Active now
+        // Visitor 1: Active now (seen 10 seconds ago)
         SiteVisitor::create([
             'visitor_id'   => 'v_active_1',
             'user_id'      => null,
             'last_page'    => '/video',
             'visits_count' => 1,
-            'last_seen_at' => now()->subMinutes(2),
+            'last_seen_at' => now()->subSeconds(10),
         ]);
 
-        // Visitor 2: Active now
+        // Visitor 2: Active now (seen 5 seconds ago)
         SiteVisitor::create([
             'visitor_id'   => 'v_active_2',
             'user_id'      => null,
             'last_page'    => '/special',
             'visits_count' => 1,
-            'last_seen_at' => now()->subMinute(),
+            'last_seen_at' => now()->subSeconds(5),
         ]);
 
-        // Visitor 3: Inactive (seen 15 minutes ago)
+        // Visitor 3: Inactive (seen 2 minutes ago)
         SiteVisitor::create([
             'visitor_id'   => 'v_inactive',
             'user_id'      => null,
             'last_page'    => '/',
             'visits_count' => 1,
-            'last_seen_at' => now()->subMinutes(15),
+            'last_seen_at' => now()->subMinutes(2),
         ]);
 
         $response = $this->actingAs($admin)
@@ -120,7 +120,7 @@ class VisitorTrackingTest extends TestCase
             'user_id'      => null,
             'last_page'    => '/video',
             'visits_count' => 1,
-            'last_seen_at' => now()->subMinutes(1),
+            'last_seen_at' => now()->subSeconds(5),
         ]);
 
         $response = $this->actingAs($admin)
@@ -136,6 +136,33 @@ class VisitorTrackingTest extends TestCase
         $data = $response->json();
         $this->assertGreaterThanOrEqual(1, $data['live_now']);
         $this->assertGreaterThanOrEqual(1, $data['total_visitors']);
+    }
+
+    public function test_visitor_leave_instantly_drops_from_live_now(): void
+    {
+        $admin = User::factory()->create(['role' => 'admin']);
+
+        // 1. Visitor arrives and is active
+        SiteVisitor::create([
+            'visitor_id'   => 'v_closing_tab',
+            'user_id'      => null,
+            'last_page'    => '/subscription',
+            'visits_count' => 1,
+            'last_seen_at' => now(),
+        ]);
+
+        $resBefore = $this->actingAs($admin)->getJson('/api/admin/dashboard/live');
+        $this->assertEquals(1, $resBefore->json('live_now'));
+
+        // 2. Visitor closes browser tab (sends leave beacon)
+        $leaveRes = $this->postJson('/api/track/leave', [
+            'visitor_id' => 'v_closing_tab',
+        ]);
+        $leaveRes->assertStatus(200)->assertJson(['status' => 'left']);
+
+        // 3. Immediately checked on admin live stream -> drops to 0 instantly!
+        $resAfter = $this->actingAs($admin)->getJson('/api/admin/dashboard/live');
+        $this->assertEquals(0, $resAfter->json('live_now'));
     }
 }
 

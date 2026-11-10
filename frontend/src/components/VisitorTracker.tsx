@@ -75,13 +75,13 @@ export function VisitorTracker() {
     sendPing(pathname);
   }, [pathname, token]);
 
-  // Heartbeat berkala (setiap 25 saat) apabila tab pelayar aktif
+  // Heartbeat berkala pantas (setiap 12 saat) apabila tab pelayar aktif
   useEffect(() => {
     const interval = setInterval(() => {
       if (typeof document !== "undefined" && document.visibilityState === "visible") {
         sendPing();
       }
-    }, 25000);
+    }, 12000);
 
     const handleVisibilityChange = () => {
       if (document.visibilityState === "visible") {
@@ -89,11 +89,37 @@ export function VisitorTracker() {
       }
     };
 
+    // Fungsi pelepasan segera (instant leave) apabila pengguna menutup tab / pelayar
+    const sendLeave = () => {
+      const vid = visitorIdRef.current;
+      if (!vid) return;
+
+      const payload = JSON.stringify({ visitor_id: vid });
+
+      if (typeof navigator !== "undefined" && navigator.sendBeacon) {
+        const blob = new Blob([payload], { type: "application/json" });
+        navigator.sendBeacon("/api/track/leave", blob);
+      } else {
+        try {
+          fetch("/api/track/leave", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: payload,
+            keepalive: true,
+          }).catch(() => {});
+        } catch {}
+      }
+    };
+
     document.addEventListener("visibilitychange", handleVisibilityChange);
+    window.addEventListener("pagehide", sendLeave);
+    window.addEventListener("beforeunload", sendLeave);
 
     return () => {
       clearInterval(interval);
       document.removeEventListener("visibilitychange", handleVisibilityChange);
+      window.removeEventListener("pagehide", sendLeave);
+      window.removeEventListener("beforeunload", sendLeave);
     };
   }, [token]);
 

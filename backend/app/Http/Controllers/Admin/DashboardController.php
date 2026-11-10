@@ -27,15 +27,15 @@ class DashboardController extends Controller
             ->where('payment_gateway', 'toyyibpay')
             ->count();
 
-        // 1. Live Now: Pelawat aktif dalam tempoh 5 minit terakhir
-        $liveNow = SiteVisitor::where('last_seen_at', '>=', now()->subMinutes(5))->count();
+        // 1. Live Now: Pelawat aktif dalam tempoh 35 saat terakhir (pantas & peka terhadap penutupan pelayar)
+        $liveNow = SiteVisitor::where('last_seen_at', '>=', now()->subSeconds(35))->count();
 
         // 2. Total Visitors: Jumlah pelawat unik keseluruhan
         $totalVisitors = SiteVisitor::count();
 
         // Senarai ringkas pelawat aktif terkini untuk pemantauan pentadbir
         $liveVisitors = SiteVisitor::with('user:id,name,email')
-            ->where('last_seen_at', '>=', now()->subMinutes(5))
+            ->where('last_seen_at', '>=', now()->subSeconds(35))
             ->orderByDesc('last_seen_at')
             ->take(5)
             ->get()
@@ -70,11 +70,11 @@ class DashboardController extends Controller
      */
     public function live()
     {
-        $liveNow = SiteVisitor::where('last_seen_at', '>=', now()->subMinutes(5))->count();
+        $liveNow = SiteVisitor::where('last_seen_at', '>=', now()->subSeconds(35))->count();
         $totalVisitors = SiteVisitor::count();
 
         $liveVisitors = SiteVisitor::with('user:id,name,email')
-            ->where('last_seen_at', '>=', now()->subMinutes(5))
+            ->where('last_seen_at', '>=', now()->subSeconds(35))
             ->orderByDesc('last_seen_at')
             ->take(5)
             ->get()

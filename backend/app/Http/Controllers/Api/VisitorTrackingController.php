@@ -54,5 +54,26 @@ class VisitorTrackingController extends Controller
             'status' => 'ok',
         ]);
     }
+
+    /**
+     * Handle immediate departure when browser/tab is closed or navigated away.
+     */
+    public function leave(Request $request)
+    {
+        $validated = $request->validate([
+            'visitor_id' => 'required|string|max:64|regex:/^[a-zA-Z0-9_\-]+$/',
+        ]);
+
+        $visitorId = $validated['visitor_id'];
+
+        // Sejurus pelawat tutup pelayar, tolak masa last_seen_at ke masa lalu supaya terus terkeluar dari 'Live now'
+        SiteVisitor::where('visitor_id', $visitorId)->update([
+            'last_seen_at' => now()->subMinutes(5),
+        ]);
+
+        return response()->json([
+            'status' => 'left',
+        ]);
+    }
 }
 
