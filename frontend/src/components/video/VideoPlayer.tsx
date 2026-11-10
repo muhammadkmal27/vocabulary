@@ -922,60 +922,38 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
             </div>
           </div>
           <div ref={transcriptContainerRef} className="flex-1 overflow-y-auto p-4 space-y-3 relative">
-            {videoData?.subtitles.map((sub, index) => {
+            {videoData?.subtitles.map((sub) => {
               const isActive = activeSubtitle?.id === sub.id;
               const isLocked = isTimeLocked(sub.start_time);
-              const isFirstLocked = isLocked && (index === 0 || (videoData.subtitles[index - 1] && videoData.subtitles[index - 1].start_time < TEN_MINUTES_SECONDS));
 
               return (
-                <div key={sub.id} className="space-y-3">
-                  {isFirstLocked && (
-                    <div className="sticky top-0 z-20 my-3 p-4 rounded-xl border border-amber-500/40 bg-card/95 shadow-xl backdrop-blur-md text-center space-y-2.5">
-                      <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-500 text-xs font-bold">
-                        <Sparkles className="w-3.5 h-3.5 fill-current" />
-                        <span>Feature Terbatas (Selepas 10 Minit)</span>
-                      </div>
-                      <p className="text-xs text-muted-foreground leading-relaxed">
-                        Transkrip interaktif & dwi-sari kata penuh selepas minit ke-10 dikhaskan untuk pengguna Premium.
-                      </p>
-                      <Link href="/pricing" className="block w-full" target="_blank" rel="noopener noreferrer">
-                        <button
-                          type="button"
-                          className="w-full inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-amber-600 hover:bg-amber-700 text-black font-extrabold text-sm shadow-md transition-all active:scale-95 cursor-pointer"
-                        >
-                          <Lock className="w-4 h-4 text-black stroke-[2.5]" />
-                          <span>Buka dengan Premium</span>
-                        </button>
-                      </Link>
-                    </div>
-                  )}
-
-                  <div
-                    ref={(el) => {
-                      transcriptRefs.current[sub.id] = el;
-                    }}
-                    onClick={() => {
-                      if (isLocked) {
-                        toast("Dwi-sari kata dan transkrip selepas 10 minit memerlukan langganan Premium.", "info");
-                        return;
-                      }
-                      manualNavLockRef.current = Date.now() + 800;
-                      currentSubIndexRef.current = subtitlesRef.current.findIndex((s) => s.id === sub.id);
-                      setActiveSubtitle(sub);
-                      if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
-                        playerObjRef.current.seekTo(sub.start_time, true);
-                      } else if (player && typeof player.seekTo === "function") {
-                        player.seekTo(sub.start_time, true);
-                      }
-                    }}
-                    className={`p-3 rounded-lg border text-left transition-all space-y-1.5 group relative ${
-                      isLocked
-                        ? "border-border/60 filter blur-[3.5px] opacity-40 select-none pointer-events-none cursor-not-allowed"
-                        : isActive
-                        ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02] cursor-pointer"
-                        : "border-border hover:border-muted-foreground/30 hover:bg-muted/50 cursor-pointer"
-                    }`}
-                  >
+                <div
+                  key={sub.id}
+                  ref={(el) => {
+                    transcriptRefs.current[sub.id] = el;
+                  }}
+                  onClick={() => {
+                    if (isLocked) {
+                      toast("Dwi-sari kata dan transkrip selepas 10 minit memerlukan langganan Premium.", "info");
+                      return;
+                    }
+                    manualNavLockRef.current = Date.now() + 800;
+                    currentSubIndexRef.current = subtitlesRef.current.findIndex((s) => s.id === sub.id);
+                    setActiveSubtitle(sub);
+                    if (playerObjRef.current && typeof playerObjRef.current.seekTo === "function") {
+                      playerObjRef.current.seekTo(sub.start_time, true);
+                    } else if (player && typeof player.seekTo === "function") {
+                      player.seekTo(sub.start_time, true);
+                    }
+                  }}
+                  className={`p-3 rounded-lg border text-left transition-all space-y-1.5 group relative ${
+                    isLocked
+                      ? "border-border/60 filter blur-[3.5px] opacity-40 select-none pointer-events-none cursor-not-allowed"
+                      : isActive
+                      ? "border-primary bg-primary/10 ring-2 ring-primary/30 shadow-md scale-[1.02] cursor-pointer"
+                      : "border-border hover:border-muted-foreground/30 hover:bg-muted/50 cursor-pointer"
+                  }`}
+                >
                     <div className="flex justify-between items-start gap-2">
                       <p className={`text-sm font-semibold leading-tight ${isActive ? "text-primary font-bold" : ""}`}>
                         {sub.target_text}
@@ -1006,7 +984,6 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
                       </div>
                     )}
                   </div>
-                </div>
               );
             })}
           </div>
