@@ -88,6 +88,7 @@ class VideoController extends Controller
             'uZT3McCJHzQ' => 'NsSc32yYsk4',
             '6rXG_fPTbl8' => 'kd9Dy56OjHg',
             '6M-NQKRdNuM' => 'HFCSuHqHP4k',
+            'ntv3dJv8wqQ' => 'M8jT8spkNgY',
         ];
         $fetchId = $mirrorMap[$youtubeVideoId] ?? $youtubeVideoId;
 
@@ -178,7 +179,7 @@ class VideoController extends Controller
 
                     foreach ($event['segs'] as $seg) {
                         $utf8 = $seg['utf8'] ?? '';
-                        if ($utf8 === "\n" || trim($utf8) === '') continue;
+                        if ($utf8 === "\n" || trim($utf8) === '' || preg_match('/^\[music\]$/i', trim($utf8)) || trim($utf8) === '>>') continue;
                         // Ensure words from different events are separated by a space
                         // (some segs already start with space, some don't)
                         $allWords[] = [

@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **12 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g) = ✅ SIAP**
+> Video Siap Sedia di Web: **13 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ) = ✅ SIAP**
 
 ---
 
@@ -251,7 +251,7 @@
 | 5 | ✅ SIAP | xUqhH8gHdJw | The Silence Before Revelation \| Life of the Final Messenger ﷺ \| Ep.5 \| Mufti Menk \| Ramadan Series |
 | 6 | ✅ SIAP | 6M-NQKRdNuM | Iqra — When the Heavens Opened \| Life of the Final Messenger ﷺ \| Ep.6 \| Mufti Menk \| Ramadan Series |
 | 7 | ✅ SIAP | l1Zwj51KF9g | The First People to Believe \| Life of the Final Messenger ﷺ \| Ep.7 \| Mufti Menk \| Ramadan Series |
-| 8 | ⬜ BELUM | ntv3dJv8wqQ | The Message Goes Public \| Life of the Final Messenger ﷺ \| Ep.8 \| Mufti Menk \| Ramadan Series |
+| 8 | ✅ SIAP | ntv3dJv8wqQ | The Message Goes Public \| Life of the Final Messenger ﷺ \| Ep.8 \| Mufti Menk \| Ramadan Series |
 | 9 | ⬜ BELUM | qMmn1Lqh95M | The Migration to Abyssinia \| Life of the Final Messenger ﷺ \| Ep.9 \| Mufti Menk \| Ramadan Series |
 | 10 | ⬜ BELUM | butrsoKNPz4 | The Conversion of Umar (RA)  \| Life of the Final Messenger ﷺ \| Ep.10 \| Mufti Menk \| Ramadan Series |
 | 11 | ⬜ BELUM | EiuTxK2MbAo | The Night of Ascension \| Life of the Final Messenger ﷺ \| Ep.11 \| Mufti Menk \| Ramadan Series |
@@ -458,4 +458,4 @@
 
 ---
 
-**Progress: 12/185 selesai** — Siri 1 (Ep.1 PH61HNWHCyU, Ep.2 VgHWqe0ltxs, Ep.3 kzIu3hrdqRM, Ep.4 Vdug1pNex54, Ep.5 xUqhH8gHdJw, Ep.6 6M-NQKRdNuM, Ep.7 l1Zwj51KF9g) & 5 Video Perintis Khas sudah dimasukkan sari kata Bahasa Melayu & Inggeris secara rasmi ✅
+**Progress: 13/185 selesai** — Siri 1 (Ep.1 PH61HNWHCyU, Ep.2 VgHWqe0ltxs, Ep.3 kzIu3hrdqRM, Ep.4 Vdug1pNex54, Ep.5 xUqhH8gHdJw, Ep.6 6M-NQKRdNuM, Ep.7 l1Zwj51KF9g, Ep.8 ntv3dJv8wqQ) & 5 Video Perintis Khas sudah dimasukkan sari kata Bahasa Melayu & Inggeris secara rasmi ✅
