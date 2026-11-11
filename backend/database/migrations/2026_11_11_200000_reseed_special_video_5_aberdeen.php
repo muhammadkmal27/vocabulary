@@ -1,19 +1,20 @@
 <?php
 
 use Illuminate\Database\Migrations\Migration;
-use Database\Seeders\SpecialVideo5Seeder;
+use Illuminate\Support\Facades\Artisan;
 
 return new class extends Migration
 {
     /**
      * Run the migrations.
-     * Re-seeds Special Video #5 (6rXG_fPTbl8 - Aberdeen) with 1099 verified subtitles from mirror Vhif2JMvK1g
-     * with authentic word-for-word audio sync and 1:1 Malay translations.
      */
     public function up(): void
     {
-        $seeder = new SpecialVideo5Seeder();
-        $seeder->run();
+        // Reseed Special Video #5 with perfectly synced authentic verbatim subtitles
+        Artisan::call('db:seed', [
+            '--class' => 'Database\\Seeders\\SpecialVideo5Seeder',
+            '--force' => true,
+        ]);
     }
 
     /**
@@ -21,6 +22,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        // No down action needed for reseed
+        // No-op rollback
     }
 };

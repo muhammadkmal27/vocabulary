@@ -93,6 +93,12 @@ class VideoController extends Controller
         ];
         $fetchId = $mirrorMap[$youtubeVideoId] ?? $youtubeVideoId;
 
+        // Time offset adjustment for mirror videos with intro bumpers (in seconds)
+        $mirrorOffsetMap = [
+            '6rXG_fPTbl8' => -3.105,
+        ];
+        $timeOffset = $mirrorOffsetMap[$youtubeVideoId] ?? 0.0;
+
         // Use a fixed filename to avoid Windows shell % variable expansion
         $tmpDir  = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'yt_subs_' . uniqid();
         mkdir($tmpDir, 0755, true);
@@ -264,6 +270,15 @@ class VideoController extends Controller
 
             if (empty($subtitleLines)) {
                 return response()->json(['message' => 'Tiada baris sari kata dijumpai.'], 400);
+            }
+
+            // Apply mirror offset if applicable (e.g. intro bumper difference)
+            if ($timeOffset != 0.0) {
+                foreach ($subtitleLines as &$line) {
+                    $line['start_time'] = round(max(0.0, $line['start_time'] + $timeOffset), 3);
+                    $line['end_time']   = round(max($line['start_time'] + 0.3, $line['end_time'] + $timeOffset), 3);
+                }
+                unset($line);
             }
 
             // Final pass: guarantee zero overlaps (handles floating-point edge cases)
