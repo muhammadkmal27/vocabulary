@@ -96,9 +96,9 @@ class VideoController extends Controller
         $outFile = $tmpDir . DIRECTORY_SEPARATOR . 'subtitle';
 
         try {
-            // yt-dlp: download auto-subtitles in json3 format
+            // yt-dlp: download subtitles in json3 format (supports both auto-generated and manual subtitles)
             $cmd = sprintf(
-                'python -m yt_dlp --skip-download --write-auto-sub --sub-langs en --sub-format json3 --extractor-args "youtube:player_client=android" --output %s %s 2>&1',
+                'python -m yt_dlp --skip-download --write-auto-sub --write-sub --sub-langs en --sub-format json3 --output %s %s 2>&1',
                 escapeshellarg($outFile),
                 escapeshellarg('https://www.youtube.com/watch?v=' . $fetchId)
             );
@@ -123,95 +123,136 @@ class VideoController extends Controller
                 return response()->json(['message' => 'Format sari kata tidak sah.'], 400);
             }
 
-            // ---------------------------------------------------------------
-            // WORD-LEVEL TIMING
-            // json3 segs contain tOffsetMs (ms relative to event tStartMs).
-            // Extract every word with its ABSOLUTE timestamp so subtitles
-            // are perfectly aligned — no manual timing adjustment needed.
-            // ---------------------------------------------------------------
-            $allWords = [];
+            // Check if events have sub-word offsets (auto-captions) or full-line events (manual subtitles)
+            $hasWordOffsets = false;
             foreach ($data['events'] as $event) {
                 if (!isset($event['segs'])) continue;
-                $eventStartMs = (int)($event['tStartMs'] ?? 0);
-
                 foreach ($event['segs'] as $seg) {
-                    $utf8 = $seg['utf8'] ?? '';
-                    if ($utf8 === "\n" || trim($utf8) === '') continue;
-                    // Ensure words from different events are separated by a space
-                    // (some segs already start with space, some don't)
-                    $allWords[] = [
-                        'text'    => $utf8,
-                        'time_ms' => $eventStartMs + (int)($seg['tOffsetMs'] ?? 0),
-                    ];
+                    if (isset($seg['tOffsetMs'])) {
+                        $hasWordOffsets = true;
+                        break 2;
+                    }
                 }
             }
 
-            // Sort by absolute timestamp (rolling-window CC events can overlap)
-            usort($allWords, fn($a, $b) => $a['time_ms'] <=> $b['time_ms']);
+            $subtitleLines = [];
 
-            // Deduplicate: same word within 150 ms = rolling-window duplicate
-            $uniqueWords = [];
-            $prevTime    = -9999;
-            $prevText    = '';
-            foreach ($allWords as $w) {
-                $t = trim($w['text']);
-                if ($t === $prevText && abs($w['time_ms'] - $prevTime) < 150) continue;
-                $uniqueWords[] = $w;
-                $prevTime = $w['time_ms'];
-                $prevText = $t;
-            }
-
-            // ---------------------------------------------------------------
-            // GROUP WORDS INTO CLEAN SENTENCES (non-overlapping)
-            // Sentence boundary: punctuation (.!?) OR line >90 chars
-            //                    OR silence gap >1500 ms to next word
-            // ---------------------------------------------------------------
-            $subtitleLines   = [];
-            $currentText     = '';
-            $sentenceStartMs = null;
-            $total           = count($uniqueWords);
-
-            foreach ($uniqueWords as $i => $word) {
-                if ($sentenceStartMs === null) {
-                    $sentenceStartMs = $word['time_ms'];
-                }
-                // Insert space if current text is non-empty and next word doesn't begin with space or punctuation
-                $wordText = $word['text'];
-                if ($currentText !== '' && !str_starts_with($wordText, ' ') && !preg_match('/^[,.:!?]/', $wordText)) {
-                    $wordText = ' ' . $wordText;
-                }
-                $currentText .= $wordText;
-
-                $isLast      = ($i === $total - 1);
-                $endsPunct   = (bool) preg_match('/[.!?]$/', rtrim($word['text']));
-                $isTooLong   = mb_strlen(trim($currentText)) > 120;
-
-                // Long silence gap → treat as sentence break
-                $silenceBreak = false;
-                if (!$isLast) {
-                    $silenceBreak = ($uniqueWords[$i + 1]['time_ms'] - $word['time_ms']) > 1500;
-                }
-
-                if ($endsPunct || $isLast || $isTooLong || $silenceBreak) {
-                    $text = trim(preg_replace('/\s+/', ' ', $currentText));
-
-                    if (!empty($text)) {
-                        // End = last word + 1.8 s, strictly capped at (next word − 100 ms)
-                        $endMs = $word['time_ms'] + 1800;
-                        if (!$isLast) {
-                            $endMs = min($endMs, $uniqueWords[$i + 1]['time_ms'] - 100);
+            if (!$hasWordOffsets) {
+                // ---------------------------------------------------------------
+                // MANUAL SUBTITLES: events already contain clean phrases with
+                // tStartMs and dDurationMs precisely aligned on YouTube
+                // ---------------------------------------------------------------
+                foreach ($data['events'] as $event) {
+                    if (!isset($event['segs'])) continue;
+                    $startMs = (int)($event['tStartMs'] ?? 0);
+                    $durMs   = (int)($event['dDurationMs'] ?? 0);
+                    $endMs   = $startMs + $durMs;
+                    $textParts = [];
+                    foreach ($event['segs'] as $seg) {
+                        $utf8 = $seg['utf8'] ?? '';
+                        if ($utf8 !== "\n" && trim($utf8) !== '') {
+                            $textParts[] = $utf8;
                         }
-                        $endMs = max($endMs, $sentenceStartMs + 400); // min 0.4 s
-
+                    }
+                    $text = trim(preg_replace('/\s+/', ' ', implode('', $textParts)));
+                    if (!empty($text)) {
                         $subtitleLines[] = [
-                            'start_time' => round($sentenceStartMs / 1000, 3),
-                            'end_time'   => round($endMs / 1000, 3),
+                            'start_time' => round($startMs / 1000, 3),
+                            'end_time'   => round(max($endMs, $startMs + 400) / 1000, 3),
                             'text'       => $text,
                         ];
                     }
+                }
+            } else {
+                // ---------------------------------------------------------------
+                // WORD-LEVEL TIMING (AUTO-CAPTIONS)
+                // json3 segs contain tOffsetMs (ms relative to event tStartMs).
+                // Extract every word with its ABSOLUTE timestamp so subtitles
+                // are perfectly aligned — no manual timing adjustment needed.
+                // ---------------------------------------------------------------
+                $allWords = [];
+                foreach ($data['events'] as $event) {
+                    if (!isset($event['segs'])) continue;
+                    $eventStartMs = (int)($event['tStartMs'] ?? 0);
 
-                    $currentText     = '';
-                    $sentenceStartMs = null;
+                    foreach ($event['segs'] as $seg) {
+                        $utf8 = $seg['utf8'] ?? '';
+                        if ($utf8 === "\n" || trim($utf8) === '') continue;
+                        // Ensure words from different events are separated by a space
+                        // (some segs already start with space, some don't)
+                        $allWords[] = [
+                            'text'    => $utf8,
+                            'time_ms' => $eventStartMs + (int)($seg['tOffsetMs'] ?? 0),
+                        ];
+                    }
+                }
+
+                // Sort by absolute timestamp (rolling-window CC events can overlap)
+                usort($allWords, fn($a, $b) => $a['time_ms'] <=> $b['time_ms']);
+
+                // Deduplicate: same word within 150 ms = rolling-window duplicate
+                $uniqueWords = [];
+                $prevTime    = -9999;
+                $prevText    = '';
+                foreach ($allWords as $w) {
+                    $t = trim($w['text']);
+                    if ($t === $prevText && abs($w['time_ms'] - $prevTime) < 150) continue;
+                    $uniqueWords[] = $w;
+                    $prevTime = $w['time_ms'];
+                    $prevText = $t;
+                }
+
+                // ---------------------------------------------------------------
+                // GROUP WORDS INTO CLEAN SENTENCES (non-overlapping)
+                // Sentence boundary: punctuation (.!?) OR line >90 chars
+                //                    OR silence gap >1500 ms to next word
+                // ---------------------------------------------------------------
+                $currentText     = '';
+                $sentenceStartMs = null;
+                $total           = count($uniqueWords);
+
+                foreach ($uniqueWords as $i => $word) {
+                    if ($sentenceStartMs === null) {
+                        $sentenceStartMs = $word['time_ms'];
+                    }
+                    // Insert space if current text is non-empty and next word doesn't begin with space or punctuation
+                    $wordText = $word['text'];
+                    if ($currentText !== '' && !str_starts_with($wordText, ' ') && !preg_match('/^[,.:!?]/', $wordText)) {
+                        $wordText = ' ' . $wordText;
+                    }
+                    $currentText .= $wordText;
+
+                    $isLast      = ($i === $total - 1);
+                    $endsPunct   = (bool) preg_match('/[.!?]$/', rtrim($word['text']));
+                    $isTooLong   = mb_strlen(trim($currentText)) > 120;
+
+                    // Long silence gap → treat as sentence break
+                    $silenceBreak = false;
+                    if (!$isLast) {
+                        $silenceBreak = ($uniqueWords[$i + 1]['time_ms'] - $word['time_ms']) > 1500;
+                    }
+
+                    if ($endsPunct || $isLast || $isTooLong || $silenceBreak) {
+                        $text = trim(preg_replace('/\s+/', ' ', $currentText));
+
+                        if (!empty($text)) {
+                            // End = last word + 1.8 s, strictly capped at (next word − 100 ms)
+                            $endMs = $word['time_ms'] + 1800;
+                            if (!$isLast) {
+                                $endMs = min($endMs, $uniqueWords[$i + 1]['time_ms'] - 100);
+                            }
+                            $endMs = max($endMs, $sentenceStartMs + 400); // min 0.4 s
+
+                            $subtitleLines[] = [
+                                'start_time' => round($sentenceStartMs / 1000, 3),
+                                'end_time'   => round($endMs / 1000, 3),
+                                'text'       => $text,
+                            ];
+                        }
+
+                        $currentText     = '';
+                        $sentenceStartMs = null;
+                    }
                 }
             }
 

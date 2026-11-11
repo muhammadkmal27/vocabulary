@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **5 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8) = ✅ SIAP**
+> Video Siap Sedia di Web: **6 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU) = ✅ SIAP**
 
 ---
 
@@ -244,7 +244,7 @@
 
 | # | Status | Video ID | Tajuk |
 |---|---|---|---|
-| 1 | ⬜ BELUM | PH61HNWHCyU | The Year of the Elephant \| Life of the Final Messengerﷺ \| Ep.1 \| Mufti Menk \| Ramadan Series |
+| 1 | ✅ SIAP | PH61HNWHCyU | The Year of the Elephant \| Life of the Final Messengerﷺ \| Ep.1 \| Mufti Menk \| Ramadan Series |
 | 2 | ⬜ BELUM | VgHWqe0ltxs | The Vow of Sacrifice \| Life of the Final Messengerﷺ \| Ep.2 \| Mufti Menk \| Ramadan Series |
 | 3 | ⬜ BELUM | kzIu3hrdqRM | The Orphan of Makkah \| Life of the Final Messenger ﷺ \| Ep.3 \| Mufti Menk \| Ramadan Series |
 | 4 | ⬜ BELUM | Vdug1pNex54 | The Man Makkah Trusted \| Life of the Final Messenger ﷺ \| Ep.4 \| Mufti Menk \| Ramadan Series |
@@ -458,4 +458,4 @@
 
 ---
 
-**Progress: 5/185 selesai** — 5 Video Perintis Khas sudah dimasukkan sari kata Bahasa Melayu & Inggeris secara rasmi ✅
+**Progress: 6/185 selesai** — Siri 1 (Ep.1 PH61HNWHCyU) & 5 Video Perintis Khas sudah dimasukkan sari kata Bahasa Melayu & Inggeris secara rasmi ✅
