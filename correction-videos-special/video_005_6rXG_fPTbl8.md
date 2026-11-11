@@ -1,3275 +1,3312 @@
 # 🎬 Video #5 (Khas): NEW | Allah Knows What's in Your Heart, But… | Mufti Menk - Aberdeen | 2026
 
 **Platform:** Bijak English / Vocabulary (Edisi Khas Ceramah Agama)
-**Video ID:** `6rXG_fPTbl8` *(Mirror Subtitle Sync: `kd9Dy56OjHg`)*
+**Video ID:** `6rXG_fPTbl8` *(Mirror Subtitle Sync Sahih: `Vhif2JMvK1g` - Inspired by Menk)*
 **Kategori:** Special
 **Akses:** Percuma (`is_premium = false`, `is_free = true`)
-**Jumlah Baris Subtitle:** 1100 Baris
-**Jumlah Kosa Kata Kata Tunggal:** 1493 Perkataan
-**Jumlah Vocarb Ayat (Frasa & Collocations):** 277 Frasa
-**Jumlah Bentuk Asal Kata Tatabahasa:** 360 Bentuk Kata
-**Pautan YouTube Asal:** [Tonton di YouTube](https://youtu.be/6rXG_fPTbl8?si=fscgdGV-YexIjkZi)
-**Nota Pemasaan:** Subtitle diselaraskan tepat 1:1 mengikut timing YouTube rasmi melalui enjin pemasaan json3.
+**Jumlah Baris Subtitle:** 1099 Baris
+**Jumlah Kosa Kata Kata Tunggal:** 1445 Perkataan
+**Jumlah Vocarb Ayat (Frasa & Collocations):** 363 Frasa
+**Jumlah Bentuk Asal Kata Tatabahasa:** 351 Bentuk Kata
+**Pautan YouTube Asal:** [Tonton di YouTube (Mufti Menk Official)](https://youtu.be/6rXG_fPTbl8) | **Pautan Mirror Caption:** [Tonton Mirror (Inspired by Menk)](https://youtu.be/Vhif2JMvK1g)
+**Nota Pemasaan & Ketepatan Audio:**
+> [!IMPORTANT]
+> Video rasmi `6rXG_fPTbl8` di muat naik oleh saluran rasmi Mufti Menk tanpa sebarang sarikata (`captions: {}`). Sebelum ini, sistem tersilap memetakan kepada mirror `kd9Dy56OjHg` yang mengalami herotan teks (paraphrased), kelewatan masa 3.2 saat, serta disekat oleh YouTube (HTTP 429).
+> Kini, video telah dipetakan semula kepada mirror rasmi sahih **`Vhif2JMvK1g`** yang membawakan transkrip audio tepat 'word-for-word' mengikut ucapan sebenar Mufti Menk di Aberdeen (termasuk pembukaan rayuan kemanusiaan Nepal/Gaza sehingga pengisian utama *Al-Mizan* dan keikhlasan hati).
+> Selaras dengan ketetapan sistem, kesemua 1,099 baris telah diterjemahkan secara langsung 1:1 oleh AI Native BM tanpa interpolasi formula.
 
 ---
 
 ## 📚 Bahagian 1: Senarai Kosa Kata & Kamus Tempatan Video Khas (Local Dictionary)
 
-### 🔤 Bahagian 1A: Kosa Kata Kata Tunggal (Single Words - 1493 Perkataan)
+### 🔤 Bahagian 1A: Kosa Kata Kata Tunggal (Single Words - 1445 Perkataan)
+
 Senarai mengikut abjad (A–Z) bagi semakan dan pangkalan data kamus tempatan kata tunggal (*localDictionary.ts*):
 
 | No | Perkataan (English) | Kekerapan | Status Kamus | Maksud Bahasa Melayu (BM) |
 |:---:|:---|:---:|:---:|:---|
-| 1 | `a` | 213x | ✅ Ada | sebuah / seorang / satu |
-| 2 | `a'lamuhu` | 1x | ✅ Ada | aku ketahuinya |
-| 3 | `a'malu` | 1x | ✅ Ada | amalan-amalan |
-| 4 | `abadundee` | 1x | ✅ Ada | Aberdeen dan Dundee (gabungan nama) |
-| 5 | `abandon` | 1x | ✅ Ada | meninggalkan / mengabaikan |
-| 6 | `abdeen` | 1x | ✅ Ada | Aberdeen (singkatan mesra) |
-| 7 | `abdullah` | 4x | ✅ Ada | Abdullah (nama badan kebajikan) |
-| 8 | `abdur` | 2x | ✅ Ada | Abdur (sebahagian daripada nama hamba Yang Maha Pemurah) |
-| 9 | `aberdeen` | 6x | ✅ Ada | Aberdeen (bandar di Scotland) |
-| 10 | `abideen` | 3x | ✅ Ada | Aberdeen (sebutan dialek) |
-| 11 | `abideen's` | 1x | ✅ Ada | kepunyaan Aberdeen |
-| 12 | `ability` | 2x | ✅ Ada | kemampuan / kebolehan |
-| 13 | `able` | 2x | ✅ Ada | mampu / boleh |
-| 14 | `about` | 22x | ✅ Ada | tentang / sekitar |
-| 15 | `absolutely` | 2x | ✅ Ada | sama sekali / benar-benar |
-| 16 | `absurd` | 2x | ✅ Ada | mengarut / tidak masuk akal |
-| 17 | `accept` | 3x | ✅ Ada | terima / menerima |
-| 18 | `accepted` | 2x | ✅ Ada | terima |
-| 19 | `accepting` | 1x | ✅ Ada | terima |
-| 20 | `accompany` | 1x | ✅ Ada | mengiringi / menyertai |
-| 21 | `accordance` | 1x | ✅ Ada | selaras / bertepatan dengan |
-| 22 | `according` | 1x | ✅ Ada | sepakat |
-| 23 | `account` | 2x | ✅ Ada | akaun |
-| 24 | `acquiring` | 1x | ✅ Ada | memperoleh |
-| 25 | `act` | 1x | ✅ Ada | bertindak / kelakuan |
-| 26 | `action` | 3x | ✅ Ada | tindakan / perbuatan |
-| 27 | `actions` | 4x | ✅ Ada | tindakan / aksi |
-| 28 | `actually` | 1x | ✅ Ada | sebenarnya |
-| 29 | `adam` | 1x | ✅ Ada | Nabi Adam a.s. / manusia |
-| 30 | `add` | 1x | ✅ Ada | menambah / tambah |
-| 31 | `addicted` | 1x | ✅ Ada | penagih |
-| 32 | `addiction` | 2x | ✅ Ada | ketagihan |
-| 33 | `addictions` | 1x | ✅ Ada | ketagihan-ketagihan |
-| 34 | `additional` | 1x | ✅ Ada | tambahan |
-| 35 | `advice` | 3x | ✅ Ada | nasihat / teguran |
-| 36 | `advise` | 1x | ✅ Ada | menasihati / menegur |
-| 37 | `advises` | 1x | ✅ Ada | memberi nasihat |
-| 38 | `affiliated` | 1x | ✅ Ada | bergabung / bernaung di bawah |
-| 39 | `after` | 7x | ✅ Ada | selepas / sesudah |
-| 40 | `afterward` | 1x | ✅ Ada | selepas itu / kemudian |
-| 41 | `afterwards` | 1x | ✅ Ada | kemudiannya / setelah itu |
-| 42 | `again` | 1x | ✅ Ada | lagi / sekali lagi |
-| 43 | `against` | 1x | ✅ Ada | menentang / terhadap |
-| 44 | `age` | 1x | ✅ Ada | usia / umur |
-| 45 | `ago` | 1x | ✅ Ada | yang lalu / dahulu |
-| 46 | `agree` | 2x | ✅ Ada | setuju |
-| 47 | `ah` | 1x | ✅ Ada | ah / oh |
-| 48 | `aid` | 6x | ✅ Ada | bantuan / pertolongan |
-| 49 | `air` | 1x | ✅ Ada | udara / menganginkan |
-| 50 | `ajrun` | 1x | ✅ Ada | ganjaran pahala |
-| 51 | `akbar` | 14x | ✅ Ada | Maha Besar |
-| 52 | `akulu` | 1x | ✅ Ada | aku berkata |
-| 53 | `al` | 5x | ✅ Ada | kata penentu (Al-) |
-| 54 | `alaikum` | 2x | ✅ Ada | ke atas kamu |
-| 55 | `alayhi` | 1x | ✅ Ada | ke atasnya |
-| 56 | `alaykum` | 1x | ✅ Ada | ke atas kamu |
-| 57 | `alcohol` | 1x | ✅ Ada | arak / alkohol |
-| 58 | `algorithms` | 1x | ✅ Ada | algoritma |
-| 59 | `alhamdulillah` | 4x | ✅ Ada | segala puji bagi Allah |
-| 60 | `ali` | 2x | ✅ Ada | Saidina Ali (nama sahabat) |
-| 61 | `align` | 1x | ✅ Ada | menyelaraskan / menyatukan |
-| 62 | `all` | 47x | ✅ Ada | semua / seluruh |
-| 63 | `allah` | 169x | ✅ Ada | Allah Subhanahu wa Ta'ala |
-| 64 | `allah's` | 7x | ✅ Ada | milik Allah / kurniaan Allah |
-| 65 | `allahu` | 20x | ✅ Ada | Allah |
-| 66 | `allahul` | 1x | ✅ Ada | Allah yang Maha... |
-| 67 | `allahumma` | 1x | ✅ Ada | ya Allah |
-| 68 | `allow` | 1x | ✅ Ada | membenarkan / membolehkan |
-| 69 | `allowed` | 5x | ✅ Ada | membenarkan / membolehkan |
-| 70 | `almighty` | 11x | ✅ Ada | Yang Maha Berkuasa (Allah) |
-| 71 | `almost` | 2x | ✅ Ada | hampir |
-| 72 | `alone` | 2x | ✅ Ada | bersendirian / seorang diri |
-| 73 | `along` | 1x | ✅ Ada | sepanjang / bersama |
-| 74 | `already` | 4x | ✅ Ada | sudah / telah pun |
-| 75 | `also` | 4x | ✅ Ada | juga / selain itu |
-| 76 | `always` | 7x | ✅ Ada | sentiasa / selalu |
-| 77 | `am` | 14x | ✅ Ada | adalah / berada |
-| 78 | `amazing` | 1x | ✅ Ada | memukau |
-| 79 | `ambassador` | 1x | ✅ Ada | duta / wakil |
-| 80 | `amen` | 1x | ✅ Ada | aminkan / kabulkanlah |
-| 81 | `among` | 2x | ✅ Ada | antara / dalam kalangan |
-| 82 | `an` | 22x | ✅ Ada | sebuah / seorang / satu |
-| 83 | `and` | 297x | ✅ Ada | dan |
-| 84 | `angels` | 2x | ✅ Ada | para malaikat |
-| 85 | `angry` | 1x | ✅ Ada | marah |
-| 86 | `animal` | 1x | ✅ Ada | haiwan / binatang |
-| 87 | `animals` | 1x | ✅ Ada | haiwan |
-| 88 | `announced` | 1x | ✅ Ada | diisytiharkan / diumumkan |
-| 89 | `annoyed` | 1x | ✅ Ada | mengganggu |
-| 90 | `another` | 8x | ✅ Ada | satu lagi / lain |
-| 91 | `any` | 6x | ✅ Ada | sebarang / apa-apa |
-| 92 | `anyone` | 5x | ✅ Ada | sesiapa sahaja |
-| 93 | `anything` | 13x | ✅ Ada | apa-apa pun / sebarang perkara |
-| 94 | `anyway` | 1x | ✅ Ada | apa-apa pun / walau bagaimanapun |
-| 95 | `anywhere` | 3x | ✅ Ada | ke mana-mana pun |
-| 96 | `apologize` | 1x | ✅ Ada | memohon maaf |
-| 97 | `apology` | 1x | ✅ Ada | permohonan maaf |
-| 98 | `appear` | 1x | ✅ Ada | muncul / kelihatan |
-| 99 | `applicable` | 1x | ✅ Ada | terpakai / wajib dikenakan |
-| 100 | `applies` | 1x | ✅ Ada | memohon |
-| 101 | `apply` | 1x | ✅ Ada | mengenakan / menggunakan |
-| 102 | `approach` | 1x | ✅ Ada | mendekati / menghampiri |
-| 103 | `appropriately` | 2x | ✅ Ada | secara wajar / sesuai |
-| 104 | `arabian` | 1x | ✅ Ada | bangsa Arab / Semenanjung Arab |
-| 105 | `arabic` | 1x | ✅ Ada | bahasa Arab |
-| 106 | `are` | 91x | ✅ Ada | adalah / berada |
-| 107 | `arise` | 1x | ✅ Ada | timbul / muncul |
-| 108 | `around` | 3x | ✅ Ada | sekitar / di sekeliling |
-| 109 | `arrive` | 2x | ✅ Ada | tiba / sampai |
-| 110 | `arrived` | 2x | ✅ Ada | tiba |
-| 111 | `arrogance` | 1x | ✅ Ada | kesombongan / keangkuhan |
-| 112 | `arrogant` | 1x | ✅ Ada | sombong / takbur |
-| 113 | `as` | 23x | ✅ Ada | seperti / sebagai |
-| 114 | `ashamed` | 1x | ✅ Ada | segan / berasa aib |
-| 115 | `ashraf` | 1x | ✅ Ada | golongan bangsawan / orang ternama |
-| 116 | `aside` | 2x | ✅ Ada | ke tepi / selain |
-| 117 | `ask` | 17x | ✅ Ada | tanya / meminta |
-| 118 | `asked` | 3x | ✅ Ada | bertanya |
-| 119 | `asking` | 1x | ✅ Ada | bertanya |
-| 120 | `asleep` | 2x | ✅ Ada | tertidur / terlelap |
-| 121 | `aspect` | 1x | ✅ Ada | sudut / aspek |
-| 122 | `asr` | 1x | ✅ Ada | solat Asar |
-| 123 | `astaghfiruka` | 1x | ✅ Ada | aku memohon keampunan-Mu |
-| 124 | `astaghfirullah` | 2x | ✅ Ada | aku memohon ampun kepada Allah |
-| 125 | `astray` | 1x | ✅ Ada | sesat / terpesong |
-| 126 | `at` | 43x | ✅ Ada | di / pada |
-| 127 | `atom` | 1x | ✅ Ada | zarah / atom |
-| 128 | `attack` | 2x | ✅ Ada | menyerang / serangan |
-| 129 | `attended` | 1x | ✅ Ada | dihadiri / menyertai |
-| 130 | `attention` | 1x | ✅ Ada | perhatian / tumpuan |
-| 131 | `attract` | 1x | ✅ Ada | menarik minat / memikat |
-| 132 | `audience` | 1x | ✅ Ada | para hadirin / penonton |
-| 133 | `authority` | 1x | ✅ Ada | autoriti / kekuasaan |
-| 134 | `aware` | 2x | ✅ Ada | sedar / peka |
-| 135 | `away` | 2x | ✅ Ada | jauh / pergi |
-| 136 | `azim` | 1x | ✅ Ada | Maha Agung |
-| 137 | `ba` | 1x | ✅ Ada | huruf Ba |
-| 138 | `ba'ud` | 1x | ✅ Ada | nyamuk |
-| 139 | `back` | 4x | ✅ Ada | belakang / kembali |
-| 140 | `background` | 3x | ✅ Ada | latar belakang |
-| 141 | `bad` | 42x | ✅ Ada | teruk / buruk |
-| 142 | `badly` | 2x | ✅ Ada | teruk / sangat memerlukan |
-| 143 | `balance` | 1x | ✅ Ada | neraca timbangan / keseimbangan |
-| 144 | `banning` | 1x | ✅ Ada | penyekatan / pengharaman |
-| 145 | `banu` | 1x | ✅ Ada | keturunan / anak cucu |
-| 146 | `barik` | 1x | ✅ Ada | berkatilah |
-| 147 | `based` | 1x | ✅ Ada | asas |
-| 148 | `bashar` | 1x | ✅ Ada | manusia biasa |
-| 149 | `basically` | 1x | ✅ Ada | pada asasnya |
-| 150 | `be` | 60x | ✅ Ada | menjadi / berada |
-| 151 | `beards` | 1x | ✅ Ada | janggut-janggut |
-| 152 | `bearing` | 1x | ✅ Ada | menanggung / menyematkan |
-| 153 | `beautiful` | 12x | ✅ Ada | indah / cantik |
-| 154 | `because` | 51x | ✅ Ada | kerana / sebab |
-| 155 | `become` | 9x | ✅ Ada | menjadi |
-| 156 | `been` | 2x | ✅ Ada | telah / pernah |
-| 157 | `before` | 8x | ✅ Ada | sebelum |
-| 158 | `began` | 2x | ✅ Ada | bermula |
-| 159 | `begin` | 5x | ✅ Ada | mula / bermula |
-| 160 | `beginning` | 1x | ✅ Ada | permulaan |
-| 161 | `beginnings` | 1x | ✅ Ada | permulaan-permulaan |
-| 162 | `behavior` | 1x | ✅ Ada | tingkah laku / kelakuan |
-| 163 | `behind` | 3x | ✅ Ada | di belakang |
-| 164 | `being` | 9x | ✅ Ada | makhluk / insan |
-| 165 | `being's` | 2x | ✅ Ada | makhluk / keinsanan |
-| 166 | `beings` | 1x | ✅ Ada | makhluk / insan |
-| 167 | `believe` | 5x | ✅ Ada | percaya / meyakini |
-| 168 | `believed` | 1x | ✅ Ada | dipercayai / meyakini |
-| 169 | `believer` | 3x | ✅ Ada | orang beriman / mukmin |
-| 170 | `believers` | 1x | ✅ Ada | orang-orang yang beriman |
-| 171 | `belong` | 4x | ✅ Ada | kepunyaan / menjadi hak milik |
-| 172 | `belongs` | 1x | ✅ Ada | milik / tergolong dalam |
-| 173 | `beloved` | 9x | ✅ Ada | kekasih / yang dikasihi |
-| 174 | `best` | 7x | ✅ Ada | baik / bagus |
-| 175 | `better` | 6x | ✅ Ada | lebih baik |
-| 176 | `between` | 2x | ✅ Ada | antara / di antara |
-| 177 | `big` | 5x | ✅ Ada | besar |
-| 178 | `biggest` | 1x | ✅ Ada | besar |
-| 179 | `billah` | 2x | ✅ Ada | dengan Allah |
-| 180 | `bin` | 1x | ✅ Ada | anak lelaki kepada (bin) |
-| 181 | `bismillah` | 1x | ✅ Ada | dengan nama Allah |
-| 182 | `bit` | 2x | ✅ Ada | sedikit / sikit |
-| 183 | `bless` | 8x | ✅ Ada | merahmati / memberkati |
-| 184 | `blessing` | 1x | ✅ Ada | rahmat / keberkatan |
-| 185 | `blessings` | 3x | ✅ Ada | keberkatan / nikmat |
-| 186 | `bodies` | 1x | ✅ Ada | tubuh-tubuh badan |
-| 187 | `body` | 1x | ✅ Ada | badan / tubuh |
-| 188 | `book` | 1x | ✅ Ada | kitab suci / buku |
-| 189 | `boom` | 1x | ✅ Ada | ledakan / dentuman kuat |
-| 190 | `both` | 3x | ✅ Ada | kedua-dua |
-| 191 | `bother` | 1x | ✅ Ada | mengambil pusing / menyusahkan |
-| 192 | `bottle` | 1x | ✅ Ada | botol |
-| 193 | `bottom` | 1x | ✅ Ada | bahagian bawah |
-| 194 | `boys` | 2x | ✅ Ada | budak lelaki |
-| 195 | `breath` | 1x | ✅ Ada | nafas |
-| 196 | `bride` | 1x | ✅ Ada | pengantin perempuan |
-| 197 | `bring` | 2x | ✅ Ada | membawa |
-| 198 | `brings` | 2x | ✅ Ada | membawa |
-| 199 | `brother` | 15x | ✅ Ada | saudara lelaki |
-| 200 | `brothers` | 20x | ✅ Ada | saudara-saudara |
-| 201 | `brought` | 2x | ✅ Ada | membawa |
-| 202 | `build` | 1x | ✅ Ada | membina |
-| 203 | `buildings` | 1x | ✅ Ada | bangunan |
-| 204 | `busy` | 2x | ✅ Ada | sibuk |
-| 205 | `but` | 84x | ✅ Ada | tetapi / tapi |
-| 206 | `by` | 16x | ✅ Ada | oleh / dengan / menjelang |
-| 207 | `call` | 2x | ✅ Ada | memanggil / panggilan |
-| 208 | `called` | 5x | ✅ Ada | dipanggil / dinamakan |
-| 209 | `calls` | 1x | ✅ Ada | panggil / hubungi |
-| 210 | `came` | 6x | ✅ Ada | datang / mari |
-| 211 | `can` | 24x | ✅ Ada | boleh / dapat |
-| 212 | `can't` | 6x | ✅ Ada | tidak boleh / tak boleh (singkatan 'cannot') |
-| 213 | `cannot` | 1x | ✅ Ada | tidak boleh / tidak dapat |
-| 214 | `care` | 7x | ✅ Ada | peduli / prihatin |
-| 215 | `carry` | 2x | ✅ Ada | membawa diri / membawa |
-| 216 | `case` | 3x | ✅ Ada | kes / keadaan |
-| 217 | `cases` | 3x | ✅ Ada | kes |
-| 218 | `ceasefire` | 2x | ✅ Ada | gencatan senjata |
-| 219 | `certain` | 7x | ✅ Ada | tertentu / yakin |
-| 220 | `certainly` | 1x | ✅ Ada | sudah tentu / pasti |
-| 221 | `challenges` | 1x | ✅ Ada | cabaran-cabaran |
-| 222 | `challenging` | 1x | ✅ Ada | cabaran |
-| 223 | `chance` | 1x | ✅ Ada | peluang / kebarangkalian |
-| 224 | `change` | 7x | ✅ Ada | ubah / menukar |
-| 225 | `changed` | 4x | ✅ Ada | ubah / menukar |
-| 226 | `chaos` | 2x | ✅ Ada | kekecohan / huru-hara |
-| 227 | `charge` | 1x | ✅ Ada | caj / mengecas |
-| 228 | `charity` | 5x | ✅ Ada | sedekah |
-| 229 | `children` | 9x | ✅ Ada | anak |
-| 230 | `city` | 2x | ✅ Ada | kota / bandar |
-| 231 | `claim` | 2x | ✅ Ada | dakwaan / pengakuan |
-| 232 | `claimed` | 1x | ✅ Ada | tuntutan |
-| 233 | `clean` | 2x | ✅ Ada | bersih / membersihkan |
-| 234 | `clicks` | 1x | ✅ Ada | klik / perhatian maya |
-| 235 | `climate` | 1x | ✅ Ada | iklim / cuaca |
-| 236 | `close` | 2x | ✅ Ada | tutup / dekat |
-| 237 | `closer` | 3x | ✅ Ada | lebih dekat |
-| 238 | `closest` | 1x | ✅ Ada | tutup / dekat |
-| 239 | `clothes` | 1x | ✅ Ada | pakaian / baju |
-| 240 | `code` | 1x | ✅ Ada | kod etika / panduan |
-| 241 | `collapsed` | 1x | ✅ Ada | runtuh / menyembah bumi |
-| 242 | `combined` | 1x | ✅ Ada | menggabungkan |
-| 243 | `come` | 23x | ✅ Ada | datang / mari |
-| 244 | `comes` | 4x | ✅ Ada | datang / mari |
-| 245 | `coming` | 2x | ✅ Ada | sedang datang / menjelang |
-| 246 | `comment` | 1x | ✅ Ada | mengulas / meninggalkan komen |
-| 247 | `commitment` | 1x | ✅ Ada | iltizam / komitmen |
-| 248 | `committed` | 4x | ✅ Ada | komited |
-| 249 | `committee` | 1x | ✅ Ada | ahli jawatankuasa |
-| 250 | `communities` | 2x | ✅ Ada | masyarakat-masyarakat / komuniti |
-| 251 | `community` | 2x | ✅ Ada | masyarakat / komuniti |
-| 252 | `compete` | 1x | ✅ Ada | bersaing / berlumba-lumba |
-| 253 | `complains` | 1x | ✅ Ada | mengadu / merungut |
-| 254 | `completed` | 1x | ✅ Ada | lengkap |
-| 255 | `completely` | 1x | ✅ Ada | sepenuhnya / langsung |
-| 256 | `complicated` | 1x | ✅ Ada | merumitkan |
-| 257 | `compromise` | 2x | ✅ Ada | berkompromi |
-| 258 | `concerned` | 1x | ✅ Ada | bimbang / mengambil berat |
-| 259 | `condition` | 1x | ✅ Ada | keadaan / syarat |
-| 260 | `conditioning` | 1x | ✅ Ada | syarat |
-| 261 | `conferences` | 1x | ✅ Ada | persidangan-persidangan |
-| 262 | `confess` | 1x | ✅ Ada | mengaku kesalahan |
-| 263 | `confession` | 1x | ✅ Ada | pengakuan dosa |
-| 264 | `confused` | 1x | ✅ Ada | mengelirukan |
-| 265 | `confusion` | 1x | ✅ Ada | kekeliruan / kekusutan |
-| 266 | `connect` | 1x | ✅ Ada | menghubungkan / menyambung |
-| 267 | `connected` | 1x | ✅ Ada | menyambung |
-| 268 | `connection` | 4x | ✅ Ada | hubungan / ikatan |
-| 269 | `conscious` | 1x | ✅ Ada | sedar / beringat |
-| 270 | `consider` | 1x | ✅ Ada | mempertimbangkan / merenung |
-| 271 | `considering` | 1x | ✅ Ada | pertimbangkan |
-| 272 | `considers` | 1x | ✅ Ada | menganggap / menilai |
-| 273 | `consume` | 2x | ✅ Ada | memakan / mengambil |
-| 274 | `consuming` | 1x | ✅ Ada | memakan |
-| 275 | `contains` | 1x | ✅ Ada | mengandungi |
-| 276 | `content` | 1x | ✅ Ada | berasa puas / berpuas hati |
-| 277 | `contentment` | 2x | ✅ Ada | kepuasan hati / redha |
-| 278 | `continue` | 6x | ✅ Ada | teruskan / menyambung |
-| 279 | `continued` | 2x | ✅ Ada | teruskan / menyambung |
-| 280 | `continues` | 1x | ✅ Ada | teruskan / menyambung |
-| 281 | `continuing` | 1x | ✅ Ada | meneruskan / berterusan |
-| 282 | `contributes` | 1x | ✅ Ada | menyumbang / memberikan sumbangan |
-| 283 | `control` | 1x | ✅ Ada | kawalan / mengawal |
-| 284 | `controlled` | 1x | ✅ Ada | kawalan |
-| 285 | `cool` | 1x | ✅ Ada | sejuk / hebat / bergaya |
-| 286 | `cooler` | 3x | ✅ Ada | lebih dingin / lebih sejuk |
-| 287 | `coronavirus` | 1x | ✅ Ada | virus korona / wabak Covid-19 |
-| 288 | `correct` | 12x | ✅ Ada | betul / tepat |
-| 289 | `corrected` | 10x | ✅ Ada | betul / tepat |
-| 290 | `correction` | 4x | ✅ Ada | teguran pembetulan |
-| 291 | `corrects` | 6x | ✅ Ada | betul / tepat |
-| 292 | `costs` | 3x | ✅ Ada | kos |
-| 293 | `could` | 7x | ✅ Ada | boleh / dapat |
-| 294 | `country` | 1x | ✅ Ada | negara |
-| 295 | `cover` | 2x | ✅ Ada | menutup aurat |
-| 296 | `creation` | 1x | ✅ Ada | ciptaan |
-| 297 | `creator` | 1x | ✅ Ada | Pencipta (Allah) |
-| 298 | `creatures` | 1x | ✅ Ada | makhluk-makhluk ciptaan Allah |
-| 299 | `cross` | 1x | ✅ Ada | melintas |
-| 300 | `cruel` | 1x | ✅ Ada | kejam / zalim |
-| 301 | `cunning` | 1x | ✅ Ada | licik / penuh tipu muslihat |
-| 302 | `cure` | 1x | ✅ Ada | penawar / ubat |
-| 303 | `cuts` | 1x | ✅ Ada | potong |
-| 304 | `cycle` | 1x | ✅ Ada | kitaran / pusingan |
-| 305 | `damaged` | 1x | ✅ Ada | kerosakan |
-| 306 | `dawah` | 2x | ✅ Ada | dakwah / seruan Islam |
-| 307 | `day` | 32x | ✅ Ada | hari / siang |
-| 308 | `days` | 2x | ✅ Ada | hari / siang |
-| 309 | `deal` | 3x | ✅ Ada | perjanjian / urusan |
-| 310 | `dear` | 5x | ✅ Ada | yang dikasihi / yang disayangi |
-| 311 | `death` | 1x | ✅ Ada | kematian / ajal |
-| 312 | `deceived` | 4x | ✅ Ada | terpedaya / tertipu |
-| 313 | `decide` | 1x | ✅ Ada | membuat keputusan |
-| 314 | `decided` | 2x | ✅ Ada | memutuskan |
-| 315 | `dedicate` | 1x | ✅ Ada | mengabdikan / memperuntukkan |
-| 316 | `dedication` | 1x | ✅ Ada | pengabdian / dedikasi |
-| 317 | `deed` | 10x | ✅ Ada | amalan / perbuatan |
-| 318 | `deeds` | 33x | ✅ Ada | amalan-amalan |
-| 319 | `deeper` | 1x | ✅ Ada | dalam |
-| 320 | `definitely` | 3x | ✅ Ada | pasti / sememangnya |
-| 321 | `deflated` | 1x | ✅ Ada | mengempiskan |
-| 322 | `deliver` | 2x | ✅ Ada | menyampaikan amanah |
-| 323 | `delivered` | 3x | ✅ Ada | menyampaikan |
-| 324 | `depends` | 1x | ✅ Ada | bergantung |
-| 325 | `descendants` | 1x | ✅ Ada | keturunan / anak cucu |
-| 326 | `deserve` | 1x | ✅ Ada | layak / berhak menerima |
-| 327 | `destruction` | 1x | ✅ Ada | kemusnahan / kebinasaan |
-| 328 | `develop` | 1x | ✅ Ada | membina / membangunkan |
-| 329 | `dhuhr` | 1x | ✅ Ada | solat fardu Zuhur |
-| 330 | `did` | 28x | ✅ Ada | telah buat / adakah |
-| 331 | `didn't` | 18x | ✅ Ada | tidak / tak (singkatan 'did not') |
-| 332 | `die` | 2x | ✅ Ada | mati / meninggal dunia |
-| 333 | `died` | 1x | ✅ Ada | mati |
-| 334 | `difference` | 1x | ✅ Ada | perbezaan |
-| 335 | `different` | 3x | ✅ Ada | berbeza / kelainan |
-| 336 | `difficult` | 1x | ✅ Ada | susah / sukar |
-| 337 | `difficulties` | 1x | ✅ Ada | kesukaran |
-| 338 | `dignity` | 1x | ✅ Ada | maruah / kemuliaan |
-| 339 | `diplomatic` | 1x | ✅ Ada | diplomatik / penuh kebijaksanaan |
-| 340 | `direction` | 3x | ✅ Ada | arah |
-| 341 | `dirt` | 1x | ✅ Ada | debu tanah / kekotoran |
-| 342 | `disaster` | 1x | ✅ Ada | bencana |
-| 343 | `discussion` | 1x | ✅ Ada | perbincangan |
-| 344 | `displeasing` | 1x | ✅ Ada | memurkakan / tidak menyenangkan |
-| 345 | `distance` | 1x | ✅ Ada | jarak / kejauhan |
-| 346 | `distracted` | 1x | ✅ Ada | mengalih perhatian |
-| 347 | `distractions` | 1x | ✅ Ada | gangguan-gangguan |
-| 348 | `do` | 92x | ✅ Ada | buat / lakukan |
-| 349 | `does` | 12x | ✅ Ada | buat / melakukan |
-| 350 | `doesn't` | 8x | ✅ Ada | tidak / tak (singkatan 'does not') |
-| 351 | `dog` | 17x | ✅ Ada | anjing |
-| 352 | `dogs` | 3x | ✅ Ada | anjing-anjing |
-| 353 | `doing` | 8x | ✅ Ada | buat / lakukan |
-| 354 | `don't` | 56x | ✅ Ada | jangan / tidak (singkatan 'do not') |
-| 355 | `donate` | 2x | ✅ Ada | menderma / menyumbang |
-| 356 | `donation` | 1x | ✅ Ada | sumbangan derma |
-| 357 | `done` | 7x | ✅ Ada | buat / lakukan |
-| 358 | `doors` | 2x | ✅ Ada | pintu-pintu |
-| 359 | `doubt` | 3x | ✅ Ada | keraguan / syak wasangka |
-| 360 | `doubts` | 1x | ✅ Ada | keraguan-keraguan |
-| 361 | `down` | 12x | ✅ Ada | bawah / turun |
-| 362 | `downfall` | 1x | ✅ Ada | kejatuhan / kehancuran |
-| 363 | `downside` | 1x | ✅ Ada | keburukan / sisi negatif |
-| 364 | `draw` | 3x | ✅ Ada | menarik / mendekatkan |
-| 365 | `dress` | 3x | ✅ Ada | berpakaian / gaun |
-| 366 | `dressing` | 1x | ✅ Ada | berpakaian |
-| 367 | `drink` | 3x | ✅ Ada | minum arak |
-| 368 | `drinking` | 1x | ✅ Ada | minum |
-| 369 | `drop` | 1x | ✅ Ada | melepaskan / meninggalkan |
-| 370 | `drops` | 1x | ✅ Ada | jatuhkan |
-| 371 | `drugs` | 1x | ✅ Ada | dadah |
-| 372 | `drunk` | 1x | ✅ Ada | minum |
-| 373 | `dua` | 1x | ✅ Ada | doa |
-| 374 | `dude` | 1x | ✅ Ada | kawan / bro |
-| 375 | `due` | 1x | ✅ Ada | disebabkan oleh / wajar |
-| 376 | `dundee` | 2x | ✅ Ada | Dundee (bandar di Scotland) |
-| 377 | `dundee's` | 1x | ✅ Ada | kepunyaan Dundee |
-| 378 | `during` | 1x | ✅ Ada | sepanjang / semasa |
-| 379 | `duty` | 6x | ✅ Ada | kewajipan / tanggungjawab |
-| 380 | `dying` | 3x | ✅ Ada | mati |
-| 381 | `each` | 4x | ✅ Ada | setiap / masing-masing |
-| 382 | `early` | 2x | ✅ Ada | awal |
-| 383 | `earth` | 2x | ✅ Ada | bumi |
-| 384 | `earthquakes` | 1x | ✅ Ada | gempa bumi-gempa bumi |
-| 385 | `ease` | 2x | ✅ Ada | kemudahan / kelapangan |
-| 386 | `easy` | 5x | ✅ Ada | mudah / senang |
-| 387 | `eat` | 1x | ✅ Ada | makan |
-| 388 | `eating` | 1x | ✅ Ada | makan |
-| 389 | `education` | 1x | ✅ Ada | pendidikan |
-| 390 | `effect` | 1x | ✅ Ada | kesan / akibat |
-| 391 | `eh` | 1x | ✅ Ada | kan? / bukan begitu? |
-| 392 | `elders` | 1x | ✅ Ada | golongan tua / para sesepuh |
-| 393 | `elements` | 1x | ✅ Ada | unsur |
-| 394 | `eliminate` | 1x | ✅ Ada | menghapuskan / mengikis |
-| 395 | `else` | 9x | ✅ Ada | lain |
-| 396 | `else's` | 1x | ✅ Ada | kepunyaan orang lain |
-| 397 | `encourage` | 3x | ✅ Ada | menggalakkan / mendorong |
-| 398 | `encouraged` | 3x | ✅ Ada | digalakkan / amat dituntut |
-| 399 | `end` | 8x | ✅ Ada | hujung / tamat |
-| 400 | `ended` | 1x | ✅ Ada | hujung / tamat |
-| 401 | `enduring` | 1x | ✅ Ada | sabar bertahan / tabah |
-| 402 | `enjoy` | 1x | ✅ Ada | menikmati / berasa seronok |
-| 403 | `enlightened` | 3x | ✅ Ada | mendapat pencerahan ilmu |
-| 404 | `enormous` | 1x | ✅ Ada | teramat besar / dahsyat |
-| 405 | `enough` | 1x | ✅ Ada | cukup |
-| 406 | `enter` | 2x | ✅ Ada | masuk / melangkah masuk |
-| 407 | `entering` | 1x | ✅ Ada | masuk |
-| 408 | `enthusiastic` | 1x | ✅ Ada | bersemangat tinggi |
-| 409 | `entire` | 4x | ✅ Ada | seluruh / segenap |
-| 410 | `environment` | 1x | ✅ Ada | suasana / persekitaran |
-| 411 | `erase` | 1x | ✅ Ada | menghapuskan / memadamkan |
-| 412 | `erased` | 1x | ✅ Ada | memadam |
-| 413 | `especially` | 1x | ✅ Ada | terutamanya / khususnya |
-| 414 | `etc` | 3x | ✅ Ada | dan sebagainya (dan lain-lain) |
-| 415 | `even` | 35x | ✅ Ada | malah / pun |
-| 416 | `ever` | 2x | ✅ Ada | pernah |
-| 417 | `every` | 6x | ✅ Ada | setiap / tiap-tiap |
-| 418 | `everyone` | 11x | ✅ Ada | semua orang |
-| 419 | `everyone's` | 1x | ✅ Ada | semua orang punya |
-| 420 | `everything` | 7x | ✅ Ada | segalanya / semua perkara |
-| 421 | `everywhere` | 1x | ✅ Ada | di mana-mana sahaja |
-| 422 | `evil` | 6x | ✅ Ada | kejahatan / keburukan |
-| 423 | `exact` | 1x | ✅ Ada | tepat / persis |
-| 424 | `example` | 6x | ✅ Ada | contoh / teladan |
-| 425 | `except` | 2x | ✅ Ada | melainkan / kecuali |
-| 426 | `excited` | 1x | ✅ Ada | mengujakan |
-| 427 | `excuse` | 1x | ✅ Ada | alasan / kemaafan |
-| 428 | `excuses` | 2x | ✅ Ada | alasan-alasan |
-| 429 | `exists` | 2x | ✅ Ada | wujud / ada |
-| 430 | `explained` | 1x | ✅ Ada | terangkan |
-| 431 | `expose` | 1x | ✅ Ada | mendedahkan aib |
-| 432 | `external` | 1x | ✅ Ada | luaran / zahir |
-| 433 | `eyes` | 4x | ✅ Ada | mata |
-| 434 | `face` | 1x | ✅ Ada | muka / wajah |
-| 435 | `faces` | 2x | ✅ Ada | wajah-wajah |
-| 436 | `facilitating` | 1x | ✅ Ada | mempermudah / melancarkan |
-| 437 | `fact` | 1x | ✅ Ada | fakta / hakikat |
-| 438 | `fadlihi` | 1x | ✅ Ada | keutamaan-Nya / fadilatnya |
-| 439 | `fail` | 1x | ✅ Ada | gagal / kecundang |
-| 440 | `faith` | 8x | ✅ Ada | keimanan / akidah |
-| 441 | `fajr` | 3x | ✅ Ada | subuh |
-| 442 | `fall` | 1x | ✅ Ada | jatuh / gugur |
-| 443 | `fallen` | 1x | ✅ Ada | jatuh |
-| 444 | `falling` | 2x | ✅ Ada | sedang jatuh / gugur |
-| 445 | `falls` | 1x | ✅ Ada | jatuh |
-| 446 | `false` | 1x | ✅ Ada | palsu / salah |
-| 447 | `fame` | 2x | ✅ Ada | kemasyhuran / populariti |
-| 448 | `famous` | 6x | ✅ Ada | terkenal / masyhur |
-| 449 | `far` | 2x | ✅ Ada | jauh |
-| 450 | `fast` | 3x | ✅ Ada | pantas / cepat |
-| 451 | `faster` | 1x | ✅ Ada | lebih cepat |
-| 452 | `fasting` | 1x | ✅ Ada | berpuasa |
-| 453 | `favor` | 2x | ✅ Ada | nikmat / pertolongan |
-| 454 | `fear` | 2x | ✅ Ada | ketakutan / takut |
-| 455 | `feel` | 17x | ✅ Ada | rasa / merasa |
-| 456 | `feeling` | 3x | ✅ Ada | rasa / merasa |
-| 457 | `feels` | 3x | ✅ Ada | terasa / rasanya |
-| 458 | `felt` | 4x | ✅ Ada | rasa / merasa |
-| 459 | `few` | 7x | ✅ Ada | beberapa / sedikit |
-| 460 | `fidya` | 1x | ✅ Ada | fidyah |
-| 461 | `fight` | 1x | ✅ Ada | bergaduh / bertengkar |
-| 462 | `fill` | 1x | ✅ Ada | mengisi / memenuhi |
-| 463 | `find` | 2x | ✅ Ada | cari / menemui |
-| 464 | `fine` | 2x | ✅ Ada | baik-baik sahaja |
-| 465 | `finger` | 1x | ✅ Ada | jari |
-| 466 | `finish` | 2x | ✅ Ada | selesai / menamatkan |
-| 467 | `finished` | 1x | ✅ Ada | siap / selesai |
-| 468 | `firdaus` | 3x | ✅ Ada | Syurga Firdaus |
-| 469 | `fires` | 1x | ✅ Ada | kebakaran-kebakaran |
-| 470 | `first` | 6x | ✅ Ada | pertama / dulu |
-| 471 | `fit` | 1x | ✅ Ada | sesuai / cergas |
-| 472 | `five` | 7x | ✅ Ada | lima |
-| 473 | `flaunt` | 1x | ✅ Ada | menunjuk-nunjukkan |
-| 474 | `flooding` | 1x | ✅ Ada | banjir besar |
-| 475 | `fly` | 1x | ✅ Ada | lalat / terbang |
-| 476 | `focus` | 2x | ✅ Ada | fokus / tumpuan |
-| 477 | `follow` | 1x | ✅ Ada | ikut / mengikut |
-| 478 | `followed` | 3x | ✅ Ada | ikut |
-| 479 | `followers` | 9x | ✅ Ada | pengikut |
-| 480 | `food` | 2x | ✅ Ada | makanan |
-| 481 | `fooled` | 1x | ✅ Ada | terpedaya |
-| 482 | `for` | 58x | ✅ Ada | untuk / bagi |
-| 483 | `forbidden` | 1x | ✅ Ada | larangan / terlarang |
-| 484 | `force` | 1x | ✅ Ada | memaksa |
-| 485 | `foremost` | 1x | ✅ Ada | terpenting / paling utama |
-| 486 | `forest` | 1x | ✅ Ada | hutan rimba |
-| 487 | `forget` | 2x | ✅ Ada | lupa / terlupa |
-| 488 | `forgetfulness` | 1x | ✅ Ada | sifat pelupa / kealpaan |
-| 489 | `forgets` | 1x | ✅ Ada | terlupa |
-| 490 | `forgive` | 5x | ✅ Ada | mengampuni / memaafkan |
-| 491 | `forgiveness` | 10x | ✅ Ada | keampunan |
-| 492 | `forms` | 1x | ✅ Ada | bentuk |
-| 493 | `forsake` | 1x | ✅ Ada | meninggalkan / mengabaikan |
-| 494 | `forward` | 2x | ✅ Ada | maju ke hadapan |
-| 495 | `four` | 1x | ✅ Ada | empat |
-| 496 | `friends` | 1x | ✅ Ada | kawan-kawan |
-| 497 | `frightening` | 1x | ✅ Ada | menakutkan / menggerunkan |
-| 498 | `from` | 22x | ✅ Ada | dari / daripada |
-| 499 | `front` | 1x | ✅ Ada | depan / hadapan |
-| 500 | `fulfill` | 3x | ✅ Ada | menunaikan / menyempurnakan |
-| 501 | `fulfilled` | 2x | ✅ Ada | ditunaikan / dimakbulkan |
-| 502 | `full` | 3x | ✅ Ada | penuh |
-| 503 | `fully` | 1x | ✅ Ada | sepenuhnya / secara menyeluruh |
-| 504 | `fun` | 1x | ✅ Ada | keseronokan |
-| 505 | `furqan` | 1x | ✅ Ada | al-Furqan (pembeda kebenaran) |
-| 506 | `gain` | 1x | ✅ Ada | memperoleh / meraih |
-| 507 | `gates` | 1x | ✅ Ada | pintu pagar |
-| 508 | `gateway` | 1x | ✅ Ada | pintu gerbang |
-| 509 | `gave` | 6x | ✅ Ada | beri / memberikan |
-| 510 | `gaza` | 4x | ✅ Ada | Gaza (Palestin) |
-| 511 | `gaze` | 1x | ✅ Ada | pandangan mata |
-| 512 | `generates` | 1x | ✅ Ada | menjana / menghasilkan |
-| 513 | `generous` | 4x | ✅ Ada | pemurah / dermawan |
-| 514 | `genocide` | 1x | ✅ Ada | pembunuhan beramai-ramai / genosid |
-| 515 | `get` | 27x | ✅ Ada | dapat / mengambil |
-| 516 | `gets` | 1x | ✅ Ada | dapat / mengambil |
-| 517 | `gift` | 3x | ✅ Ada | hadiah kurniaan |
-| 518 | `give` | 11x | ✅ Ada | beri / memberikan |
-| 519 | `gives` | 2x | ✅ Ada | beri / memberikan |
-| 520 | `giving` | 4x | ✅ Ada | beri / memberikan |
-| 521 | `glad` | 1x | ✅ Ada | gembira / bersyukur |
-| 522 | `globally` | 1x | ✅ Ada | secara global / menyeluruh |
-| 523 | `go` | 14x | ✅ Ada | pergi |
-| 524 | `goes` | 4x | ✅ Ada | pergi |
-| 525 | `going` | 17x | ✅ Ada | sedang pergi / akan |
-| 526 | `gone` | 2x | ✅ Ada | pergi |
-| 527 | `good` | 54x | ✅ Ada | baik / bagus |
-| 528 | `goodness` | 3x | ✅ Ada | kebaikan / kebajikan |
-| 529 | `got` | 2x | ✅ Ada | dapat / sudah dapat |
-| 530 | `grace` | 1x | ✅ Ada | kurniaan rahmat |
-| 531 | `grade` | 1x | ✅ Ada | gred / markah penilaian |
-| 532 | `grant` | 9x | ✅ Ada | mengurniakan / memperkenankan |
-| 533 | `granting` | 1x | ✅ Ada | mengurniakan / memberikan |
-| 534 | `great` | 3x | ✅ Ada | hebat / besar |
-| 535 | `greet` | 1x | ✅ Ada | menyapa / memberi salam |
-| 536 | `greeted` | 1x | ✅ Ada | memberi salam / menyapa |
-| 537 | `greyhound` | 1x | ✅ Ada | anjing lumba jenis greyhound |
-| 538 | `groom` | 1x | ✅ Ada | pengantin lelaki |
-| 539 | `guarantee` | 1x | ✅ Ada | menjamin / kepastian |
-| 540 | `guess` | 11x | ✅ Ada | agak / meneka |
-| 541 | `guest` | 1x | ✅ Ada | tetamu |
-| 542 | `guide` | 1x | ✅ Ada | membimbing / memandu |
-| 543 | `guilty` | 1x | ✅ Ada | berasa bersalah |
-| 544 | `guy` | 5x | ✅ Ada | lelaki / orang itu |
-| 545 | `guys` | 8x | ✅ Ada | kawan-kawan / kalian |
-| 546 | `gym` | 1x | ✅ Ada | gimnasium |
-| 547 | `habibi` | 3x | ✅ Ada | wahai sahabatku / kekasihku |
-| 548 | `habit` | 1x | ✅ Ada | tabiat / kebiasaan |
-| 549 | `habits` | 2x | ✅ Ada | tabiat-tabiat |
-| 550 | `had` | 12x | ✅ Ada | mempunyai / telah ada |
-| 551 | `hadha` | 1x | ✅ Ada | ini |
-| 552 | `hadith` | 10x | ✅ Ada | hadis Rasulullah |
-| 553 | `hadn't` | 1x | ✅ Ada | belum / tidak ada (singkatan 'had not') |
-| 554 | `hafiz` | 1x | ✅ Ada | penghafal al-Quran |
-| 555 | `hajj` | 2x | ✅ Ada | ibadah Haji |
-| 556 | `halal` | 1x | ✅ Ada | halal (dibenarkan syarak) |
-| 557 | `half` | 1x | ✅ Ada | separuh / setengah |
-| 558 | `hand` | 7x | ✅ Ada | tangan |
-| 559 | `handle` | 1x | ✅ Ada | pemegang / mengendalikan |
-| 560 | `hands` | 3x | ✅ Ada | tangan-tangan |
-| 561 | `happen` | 5x | ✅ Ada | berlaku / terjadi |
-| 562 | `happened` | 12x | ✅ Ada | berlaku |
-| 563 | `happening` | 2x | ✅ Ada | berlaku |
-| 564 | `happens` | 6x | ✅ Ada | berlaku |
-| 565 | `happy` | 5x | ✅ Ada | gembira / bahagia |
-| 566 | `haqqin` | 1x | ✅ Ada | kebenaran yang hakiki |
-| 567 | `haram` | 10x | ✅ Ada | diharamkan / berdosa |
-| 568 | `hard` | 2x | ✅ Ada | sukar / kuat / gigih |
-| 569 | `has` | 9x | ✅ Ada | ada / mempunyai |
-| 570 | `hasbunallah` | 1x | ✅ Ada | cukuplah Allah bagi kami |
-| 571 | `hasbunallahu` | 4x | ✅ Ada | cukuplah Allah bagi kami |
-| 572 | `hate` | 1x | ✅ Ada | membenci / kebencian |
-| 573 | `have` | 90x | ✅ Ada | ada / mempunyai |
-| 574 | `haven't` | 3x | ✅ Ada | belum / tidak ada (singkatan 'have not') |
-| 575 | `hawla` | 2x | ✅ Ada | daya |
-| 576 | `he` | 34x | ✅ Ada | dia (lelaki) |
-| 577 | `he's` | 3x | ✅ Ada | dia adalah / dia (singkatan 'he is/has') |
-| 578 | `health` | 1x | ✅ Ada | kesihatan |
-| 579 | `healthily` | 1x | ✅ Ada | secara sihat |
-| 580 | `healthy` | 1x | ✅ Ada | sihat walafiat |
-| 581 | `hear` | 8x | ✅ Ada | mendengar |
-| 582 | `heard` | 4x | ✅ Ada | dengar |
-| 583 | `heart` | 29x | ✅ Ada | hati |
-| 584 | `hearts` | 6x | ✅ Ada | hati |
-| 585 | `heavier` | 2x | ✅ Ada | berat |
-| 586 | `heavy` | 1x | ✅ Ada | berat / membebankan |
-| 587 | `help` | 10x | ✅ Ada | bantu / tolong |
-| 588 | `helps` | 1x | ✅ Ada | membantu |
-| 589 | `her` | 3x | ✅ Ada | dia (wanita) / kepunyaannya |
-| 590 | `here` | 24x | ✅ Ada | di sini |
-| 591 | `hey` | 1x | ✅ Ada | hei |
-| 592 | `hide` | 1x | ✅ Ada | menyembunyikan |
-| 593 | `high` | 1x | ✅ Ada | tinggi |
-| 594 | `higher` | 1x | ✅ Ada | tinggi |
-| 595 | `highest` | 1x | ✅ Ada | tinggi |
-| 596 | `hijab` | 2x | ✅ Ada | tudung / hijab |
-| 597 | `him` | 9x | ✅ Ada | dia (lelaki) |
-| 598 | `his` | 10x | ✅ Ada | miliknya / kepunyaan dia |
-| 599 | `holding` | 1x | ✅ Ada | tahan |
-| 600 | `home` | 3x | ✅ Ada | rumah / kediaman |
-| 601 | `homes` | 1x | ✅ Ada | rumah / kediaman |
-| 602 | `honor` | 2x | ✅ Ada | menghormati / memuliakan |
-| 603 | `honorable` | 1x | ✅ Ada | mulia / terhormat |
-| 604 | `hope` | 9x | ✅ Ada | harapan / berharap |
-| 605 | `hot` | 1x | ✅ Ada | panas / pedas |
-| 606 | `house` | 3x | ✅ Ada | rumah |
-| 607 | `how` | 30x | ✅ Ada | bagaimana / macam mana |
-| 608 | `however` | 1x | ✅ Ada | walau bagaimanapun |
-| 609 | `huffaz` | 1x | ✅ Ada | para penghafal al-Quran |
-| 610 | `huge` | 1x | ✅ Ada | sangat besar |
-| 611 | `human` | 11x | ✅ Ada | manusia |
-| 612 | `humanitarian` | 1x | ✅ Ada | kemanusiaan |
-| 613 | `humanity` | 4x | ✅ Ada | kemanusiaan |
-| 614 | `humble` | 5x | ✅ Ada | tawaduk / rendah diri |
-| 615 | `huthaify` | 1x | ✅ Ada | al-Huthaify (nama imam tersohor) |
-| 616 | `i` | 265x | ✅ Ada | saya / aku |
-| 617 | `i'd` | 1x | ✅ Ada | saya akan / saya mahu (singkatan 'I would/had') |
-| 618 | `i'll` | 9x | ✅ Ada | saya akan (singkatan 'I will') |
-| 619 | `i'm` | 38x | ✅ Ada | saya / saya sedang (singkatan 'I am') |
-| 620 | `i've` | 6x | ✅ Ada | saya telah / saya dah (singkatan 'I have') |
-| 621 | `idawuhu` | 1x | ✅ Ada | orang-orang yang memiliki kedudukan |
-| 622 | `idea` | 1x | ✅ Ada | konsep / idea |
-| 623 | `identity` | 1x | ✅ Ada | identiti / jati diri |
-| 624 | `if` | 65x | ✅ Ada | jika / kalau |
-| 625 | `ijaza` | 2x | ✅ Ada | ijazah sanad keilmuan |
-| 626 | `ilaha` | 3x | ✅ Ada | tuhan yang disembah |
-| 627 | `ilayhi` | 1x | ✅ Ada | kepada-Nya |
-| 628 | `illa` | 2x | ✅ Ada | melainkan |
-| 629 | `illallah` | 3x | ✅ Ada | melainkan Allah |
-| 630 | `illness` | 1x | ✅ Ada | penyakit |
-| 631 | `imagine` | 9x | ✅ Ada | bayangkan |
-| 632 | `imam` | 6x | ✅ Ada | imam solat |
-| 633 | `imams` | 2x | ✅ Ada | para imam |
-| 634 | `immediately` | 1x | ✅ Ada | serta-merta / serta merta |
-| 635 | `important` | 2x | ✅ Ada | penting |
-| 636 | `impress` | 2x | ✅ Ada | mengagumkan orang lain |
-| 637 | `improve` | 2x | ✅ Ada | menambah baik / membaiki |
-| 638 | `in` | 93x | ✅ Ada | dalam / di dalam |
-| 639 | `included` | 1x | ✅ Ada | termasuk |
-| 640 | `including` | 2x | ✅ Ada | termasuklah |
-| 641 | `increasing` | 1x | ✅ Ada | semakin meningkat |
-| 642 | `indallah` | 1x | ✅ Ada | di sisi Allah |
-| 643 | `indisposed` | 1x | ✅ Ada | tidak sihat / berhalangan |
-| 644 | `indonesia` | 1x | ✅ Ada | negara Indonesia |
-| 645 | `informed` | 1x | ✅ Ada | maklumkan |
-| 646 | `injured` | 1x | ✅ Ada | mencederakan |
-| 647 | `inna` | 2x | ✅ Ada | sesungguhnya kami |
-| 648 | `innamal` | 2x | ✅ Ada | sesungguhnya hanya |
-| 649 | `innocent` | 1x | ✅ Ada | tidak bersalah / suci |
-| 650 | `inshallah` | 21x | ✅ Ada | insya-Allah |
-| 651 | `inside` | 3x | ✅ Ada | di dalam |
-| 652 | `instant` | 1x | ✅ Ada | serta-merta / sekelip mata |
-| 653 | `instantly` | 1x | ✅ Ada | secara serta-merta |
-| 654 | `instead` | 1x | ✅ Ada | sebaliknya |
-| 655 | `instruct` | 1x | ✅ Ada | menginstruksikan / memerintahkan |
-| 656 | `insult` | 1x | ✅ Ada | menghina / mencaci |
-| 657 | `integrity` | 1x | ✅ Ada | integriti / kejujuran |
-| 658 | `intelligent` | 2x | ✅ Ada | bijak / pintar |
-| 659 | `intended` | 1x | ✅ Ada | berniat |
-| 660 | `intention` | 8x | ✅ Ada | niat di dalam hati |
-| 661 | `intentions` | 1x | ✅ Ada | niat |
-| 662 | `interact` | 5x | ✅ Ada | berinteraksi |
-| 663 | `interacted` | 2x | ✅ Ada | bergaul / berinteraksi |
-| 664 | `interaction` | 1x | ✅ Ada | interaksi / perhubungan |
-| 665 | `interactions` | 1x | ✅ Ada | interaksi-interaksi |
-| 666 | `interest` | 1x | ✅ Ada | minat / keazaman |
-| 667 | `interested` | 1x | ✅ Ada | minat |
-| 668 | `interesting` | 1x | ✅ Ada | minat |
-| 669 | `international` | 1x | ✅ Ada | antarabangsa |
-| 670 | `into` | 9x | ✅ Ada | ke dalam |
-| 671 | `introduce` | 1x | ✅ Ada | memperkenalkan |
-| 672 | `invite` | 1x | ✅ Ada | menjemput / mengajak |
-| 673 | `invited` | 2x | ✅ Ada | menjemput |
-| 674 | `involved` | 1x | ✅ Ada | terlibat |
-| 675 | `irrelevant` | 1x | ✅ Ada | tidak berkaitan / tidak penting |
-| 676 | `irritate` | 1x | ✅ Ada | menjengkelkan / menyakitkan hati |
-| 677 | `is` | 153x | ✅ Ada | adalah / ialah |
-| 678 | `isha` | 1x | ✅ Ada | isyak |
-| 679 | `islam` | 12x | ✅ Ada | agama Islam |
-| 680 | `isn't` | 6x | ✅ Ada | bukan / tidak (singkatan 'is not') |
-| 681 | `issue` | 1x | ✅ Ada | isu / persoalan |
-| 682 | `it` | 138x | ✅ Ada | ia / itu |
-| 683 | `it's` | 51x | ✅ Ada | ia adalah / itu (singkatan 'it is/has') |
-| 684 | `itself` | 1x | ✅ Ada | dirinya sendiri / ia sendiri |
-| 685 | `jaber` | 1x | ✅ Ada | Jaber (nama syeikh / imam) |
-| 686 | `jahannam` | 1x | ✅ Ada | neraka (Jahannam) |
-| 687 | `janaha` | 1x | ✅ Ada | sayap |
-| 688 | `janaza` | 1x | ✅ Ada | sayap nyamuk / jenazah |
-| 689 | `jannah` | 3x | ✅ Ada | syurga (Jannah) |
-| 690 | `jannatul` | 3x | ✅ Ada | syurga (Jannatul Firdaus) |
-| 691 | `janzur` | 1x | ✅ Ada | melihat / memandang |
-| 692 | `jazakallah` | 1x | ✅ Ada | semoga Allah membalas kebaikanmu |
-| 693 | `jazakum` | 1x | ✅ Ada | semoga Allah membalas kamu semua |
-| 694 | `job` | 1x | ✅ Ada | pekerjaan / tugas |
-| 695 | `jobs` | 1x | ✅ Ada | pekerjaan |
-| 696 | `judge` | 1x | ✅ Ada | menghakimi / menilai |
-| 697 | `judgment` | 4x | ✅ Ada | penghakiman / pertimbangan |
-| 698 | `just` | 26x | ✅ Ada | hanya / sekadar / baru saja |
-| 699 | `justice` | 1x | ✅ Ada | keadilan |
-| 700 | `justify` | 1x | ✅ Ada | menjustifikasikan / menghalalkan |
-| 701 | `juz` | 1x | ✅ Ada | juzuk al-Quran |
-| 702 | `kabidin` | 1x | ✅ Ada | kesusahan / kelelahan payah |
-| 703 | `kalb` | 3x | ✅ Ada | anjing |
-| 704 | `kalimatul` | 1x | ✅ Ada | kalimah / perkataan |
-| 705 | `keep` | 3x | ✅ Ada | simpan / teruskan |
-| 706 | `keeps` | 2x | ✅ Ada | mengekalkan / menyimpan |
-| 707 | `kept` | 1x | ✅ Ada | simpan / teruskan |
-| 708 | `khair` | 2x | ✅ Ada | kebaikan yang banyak |
-| 709 | `kind` | 7x | ✅ Ada | jenis / baik hati |
-| 710 | `kindness` | 3x | ✅ Ada | kebaikan / ihsan |
-| 711 | `knew` | 4x | ✅ Ada | tahu / kenal |
-| 712 | `know` | 88x | ✅ Ada | tahu / kenal |
-| 713 | `known` | 3x | ✅ Ada | tahu / kenal |
-| 714 | `knows` | 16x | ✅ Ada | tahu / kenal |
-| 715 | `kulli` | 1x | ✅ Ada | setiap / seluruh |
-| 716 | `la` | 8x | ✅ Ada | tiada |
-| 717 | `land` | 1x | ✅ Ada | tanah air / daratan |
-| 718 | `landslides` | 2x | ✅ Ada | tanah-tanah runtuh |
-| 719 | `language` | 1x | ✅ Ada | bahasa |
-| 720 | `last` | 3x | ✅ Ada | terakhir / lepas |
-| 721 | `later` | 1x | ✅ Ada | kemudian / nanti |
-| 722 | `lead` | 1x | ✅ Ada | membawa / memimpin |
-| 723 | `learn` | 5x | ✅ Ada | belajar |
-| 724 | `learned` | 3x | ✅ Ada | sudah belajar / dipelajari |
-| 725 | `learning` | 1x | ✅ Ada | pembelajaran / sedang belajar |
-| 726 | `least` | 1x | ✅ Ada | kecil / sedikit |
-| 727 | `leave` | 8x | ✅ Ada | tinggalkan / keluar |
-| 728 | `left` | 12x | ✅ Ada | tinggalkan / keluar |
-| 729 | `legitimate` | 1x | ✅ Ada | sah / berdaftar rasmi |
-| 730 | `lend` | 1x | ✅ Ada | meminjamkan |
-| 731 | `less` | 2x | ✅ Ada | kecil / sedikit |
-| 732 | `let` | 6x | ✅ Ada | biarkan / membenarkan |
-| 733 | `let's` | 4x | ✅ Ada | jom / marilah kita (singkatan 'let us') |
-| 734 | `level` | 2x | ✅ Ada | tahap / paras |
-| 735 | `lie` | 1x | ✅ Ada | baring / berbohong |
-| 736 | `lies` | 1x | ✅ Ada | baring / berbohong |
-| 737 | `life` | 17x | ✅ Ada | kehidupan |
-| 738 | `lightning` | 1x | ✅ Ada | panahan kilat |
-| 739 | `like` | 14x | ✅ Ada | suka / seperti |
-| 740 | `liked` | 1x | ✅ Ada | suka / seperti |
-| 741 | `likes` | 10x | ✅ Ada | suka / seperti |
-| 742 | `lillahi` | 1x | ✅ Ada | milik Allah |
-| 743 | `lima` | 1x | ✅ Ada | terhadap apa yang |
-| 744 | `lines` | 1x | ✅ Ada | barisan |
-| 745 | `list` | 1x | ✅ Ada | senarai |
-| 746 | `listen` | 4x | ✅ Ada | dengar |
-| 747 | `listening` | 2x | ✅ Ada | dengar |
-| 748 | `little` | 12x | ✅ Ada | kecil / sedikit |
-| 749 | `live` | 6x | ✅ Ada | secara langsung / hidup |
-| 750 | `lives` | 2x | ✅ Ada | kehidupan |
-| 751 | `long` | 4x | ✅ Ada | panjang / lama |
-| 752 | `longer` | 1x | ✅ Ada | lebih panjang / lebih lama |
-| 753 | `look` | 19x | ✅ Ada | tengok / kelihatan |
-| 754 | `looking` | 2x | ✅ Ada | tengok / kelihatan |
-| 755 | `looks` | 11x | ✅ Ada | tengok / kelihatan |
-| 756 | `lord` | 3x | ✅ Ada | Tuhan |
-| 757 | `lose` | 1x | ✅ Ada | hilang / kehilangan |
-| 758 | `loss` | 1x | ✅ Ada | kerugian / kehilangan |
-| 759 | `lost` | 2x | ✅ Ada | kalah |
-| 760 | `lot` | 6x | ✅ Ada | banyak |
-| 761 | `love` | 6x | ✅ Ada | suka sangat / sayang |
-| 762 | `lovely` | 1x | ✅ Ada | menyenangkan / indah |
-| 763 | `loves` | 1x | ✅ Ada | suka sangat / sayang |
-| 764 | `lowered` | 1x | ✅ Ada | menundukkan pandangan |
-| 765 | `m` | 1x | ✅ Ada | huruf M / singkatan |
-| 766 | `made` | 11x | ✅ Ada | dibuat / menghasilkan |
-| 767 | `maghrib` | 2x | ✅ Ada | solat Maghrib |
-| 768 | `major` | 1x | ✅ Ada | besar / utama |
-| 769 | `make` | 20x | ✅ Ada | buat / menghasilkan |
-| 770 | `makes` | 4x | ✅ Ada | buat / menghasilkan |
-| 771 | `makhluqat` | 1x | ✅ Ada | sekalian makhluk ciptaan |
-| 772 | `making` | 4x | ✅ Ada | sedang membuat |
-| 773 | `man` | 8x | ✅ Ada | lelaki / orang |
-| 774 | `mandatory` | 1x | ✅ Ada | wajib / difardukan |
-| 775 | `manipulate` | 1x | ✅ Ada | memanipulasi |
-| 776 | `many` | 30x | ✅ Ada | banyak |
-| 777 | `marijuana` | 5x | ✅ Ada | ganja / dadah kanabis |
-| 778 | `married` | 2x | ✅ Ada | berkahwin |
-| 779 | `masha` | 7x | ✅ Ada | masya-Allah |
-| 780 | `masha'allah` | 10x | ✅ Ada | masya-Allah (kehendak Allah) |
-| 781 | `mashallah` | 11x | ✅ Ada | masya-Allah |
-| 782 | `massacred` | 1x | ✅ Ada | dibantai beramai-ramai |
-| 783 | `masses` | 1x | ✅ Ada | orang ramai / khalayak |
-| 784 | `material` | 1x | ✅ Ada | kebendaan / fizikal |
-| 785 | `matter` | 2x | ✅ Ada | hal / perkara penting |
-| 786 | `matters` | 1x | ✅ Ada | perkara penting / hal-hal |
-| 787 | `may` | 23x | ✅ Ada | semoga / moga-moga |
-| 788 | `maybe` | 4x | ✅ Ada | barangkali / mungkin |
-| 789 | `me` | 52x | ✅ Ada | saya / aku |
-| 790 | `mean` | 5x | ✅ Ada | maksud / berniat |
-| 791 | `means` | 13x | ✅ Ada | maksud / berniat |
-| 792 | `mecca` | 6x | ✅ Ada | Kota Makkah |
-| 793 | `media` | 1x | ✅ Ada | sederhana |
-| 794 | `medicine` | 1x | ✅ Ada | ubat-ubatan |
-| 795 | `melody` | 1x | ✅ Ada | alunan lagu / taranum |
-| 796 | `memorized` | 1x | ✅ Ada | menghafal |
-| 797 | `men` | 1x | ✅ Ada | lelaki (jamak) |
-| 798 | `mention` | 2x | ✅ Ada | menyebut / menyatakan |
-| 799 | `mentioned` | 1x | ✅ Ada | menyebut |
-| 800 | `merciful` | 1x | ✅ Ada | Maha Pengasih lagi Maha Penyayang |
-| 801 | `mercy` | 4x | ✅ Ada | rahmat |
-| 802 | `message` | 1x | ✅ Ada | mesej / pesanan |
-| 803 | `method` | 1x | ✅ Ada | kaedah / cara |
-| 804 | `might` | 12x | ✅ Ada | mungkin / daya |
-| 805 | `million` | 1x | ✅ Ada | juta |
-| 806 | `minan` | 1x | ✅ Ada | daripada golongan |
-| 807 | `mind` | 4x | ✅ Ada | fikiran / minda |
-| 808 | `minds` | 1x | ✅ Ada | akal fikiran / minda |
-| 809 | `minor` | 2x | ✅ Ada | kecil |
-| 810 | `minute` | 1x | ✅ Ada | minit |
-| 811 | `misplaced` | 1x | ✅ Ada | salah letak / tersasar |
-| 812 | `missed` | 1x | ✅ Ada | rindu |
-| 813 | `mistake` | 1x | ✅ Ada | kesilapan / ralat |
-| 814 | `mistakes` | 5x | ✅ Ada | kesilapan-kesilapan |
-| 815 | `moment` | 5x | ✅ Ada | saat / ketika |
-| 816 | `moments` | 1x | ✅ Ada | seketika |
-| 817 | `money` | 2x | ✅ Ada | wang / duit |
-| 818 | `month` | 1x | ✅ Ada | bulan |
-| 819 | `morals` | 2x | ✅ Ada | akhlak / nilai murni |
-| 820 | `more` | 26x | ✅ Ada | lebih banyak |
-| 821 | `morning` | 1x | ✅ Ada | pagi |
-| 822 | `mosque` | 12x | ✅ Ada | masjid / rumah Allah |
-| 823 | `most` | 10x | ✅ Ada | paling banyak / kebanyakan |
-| 824 | `mothers` | 1x | ✅ Ada | para ibu |
-| 825 | `mountain` | 1x | ✅ Ada | gunung-ganang |
-| 826 | `mouth` | 1x | ✅ Ada | mulut |
-| 827 | `move` | 4x | ✅ Ada | bergerak / berpindah |
-| 828 | `movement` | 2x | ✅ Ada | pergerakan |
-| 829 | `moves` | 1x | ✅ Ada | bergerak / berpindah |
-| 830 | `mu'im` | 1x | ✅ Ada | orang yang memberi nikmat |
-| 831 | `much` | 11x | ✅ Ada | banyak |
-| 832 | `muhadditheen` | 1x | ✅ Ada | para ahli hadis |
-| 833 | `muhammad` | 6x | ✅ Ada | Nabi Muhammad SAW |
-| 834 | `multiply` | 1x | ✅ Ada | melipatgandakan |
-| 835 | `murdered` | 1x | ✅ Ada | dibunuh dengan kejam |
-| 836 | `music` | 3x | ✅ Ada | alunan muzik / lagu |
-| 837 | `muslim` | 3x | ✅ Ada | orang Islam / Muslim |
-| 838 | `muslims` | 4x | ✅ Ada | orang-orang Islam |
-| 839 | `must` | 4x | ✅ Ada | mesti / wajib |
-| 840 | `musta'an` | 6x | ✅ Ada | tempat memohon pertolongan |
-| 841 | `mustajab` | 2x | ✅ Ada | makbul / dimakbulkan |
-| 842 | `mustard` | 1x | ✅ Ada | biji sawi |
-| 843 | `my` | 57x | ✅ Ada | saya punya / kepunyaan saya |
-| 844 | `myself` | 4x | ✅ Ada | diri saya sendiri |
-| 845 | `n't` | 7x | ✅ Ada | tidak / bukan |
-| 846 | `name` | 3x | ✅ Ada | nama |
-| 847 | `narration` | 1x | ✅ Ada | riwayat hadis / kisah |
-| 848 | `nas` | 1x | ✅ Ada | manusia sekalian |
-| 849 | `nasya` | 1x | ✅ Ada | terlupa |
-| 850 | `necessary` | 1x | ✅ Ada | perlu / mustahak |
-| 851 | `need` | 17x | ✅ Ada | perlu / memerlukan |
-| 852 | `needed` | 1x | ✅ Ada | perlu / memerlukan |
-| 853 | `needs` | 3x | ✅ Ada | perlu / memerlukan |
-| 854 | `negative` | 5x | ✅ Ada | negatif / buruk |
-| 855 | `nepal` | 2x | ✅ Ada | negara Nepal |
-| 856 | `never` | 10x | ✅ Ada | tidak pernah / tak pernah |
-| 857 | `nevertheless` | 3x | ✅ Ada | namun demikian |
-| 858 | `news` | 1x | ✅ Ada | berita / khabar |
-| 859 | `next` | 3x | ✅ Ada | seterusnya / sebelah |
-| 860 | `ni'mal` | 5x | ✅ Ada | sebaik-baik |
-| 861 | `night` | 1x | ✅ Ada | malam |
-| 862 | `niyah` | 1x | ✅ Ada | niat |
-| 863 | `niyyat` | 1x | ✅ Ada | niat-niat |
-| 864 | `no` | 33x | ✅ Ada | tidak / tiada |
-| 865 | `noblest` | 1x | ✅ Ada | paling mulia |
-| 866 | `nobody` | 5x | ✅ Ada | tiada sesiapa |
-| 867 | `noise` | 1x | ✅ Ada | bunyi bising / kekecohan |
-| 868 | `non` | 1x | ✅ Ada | bukan / tidak |
-| 869 | `none` | 1x | ✅ Ada | tiada satu pun |
-| 870 | `north` | 1x | ✅ Ada | bahagian utara |
-| 871 | `not` | 62x | ✅ Ada | bukan / tidak |
-| 872 | `nothing` | 13x | ✅ Ada | tiada apa-apa |
-| 873 | `notice` | 4x | ✅ Ada | memerhatikan / menyedari |
-| 874 | `notices` | 1x | ✅ Ada | perasan |
-| 875 | `now` | 17x | ✅ Ada | sekarang |
-| 876 | `nowadays` | 1x | ✅ Ada | zaman sekarang / pada masa kini |
-| 877 | `nowhere` | 1x | ✅ Ada | tiada di mana-mana |
-| 878 | `nudge` | 1x | ✅ Ada | menolak lembut / menyiku |
-| 879 | `number` | 3x | ✅ Ada | nombor / bilangan |
-| 880 | `numerous` | 1x | ✅ Ada | teramat banyak |
-| 881 | `o` | 6x | ✅ Ada | wahai |
-| 882 | `obligatory` | 3x | ✅ Ada | wajib / difardukan |
-| 883 | `obtained` | 1x | ✅ Ada | memperoleh / mendapat |
-| 884 | `obviously` | 1x | ✅ Ada | jelas sekali / sudah tentu |
-| 885 | `occur` | 1x | ✅ Ada | berlaku / terjadi |
-| 886 | `of` | 132x | ✅ Ada | daripada / tentang |
-| 887 | `off` | 6x | ✅ Ada | padam / mati / lepas |
-| 888 | `offended` | 1x | ✅ Ada | menyinggung perasaan |
-| 889 | `officiate` | 1x | ✅ Ada | merasmikan majlis |
-| 890 | `often` | 1x | ✅ Ada | kerap / sering kali |
-| 891 | `oh` | 5x | ✅ Ada | wahai / oh |
-| 892 | `okay` | 2x | ✅ Ada | baiklah / okey |
-| 893 | `old` | 2x | ✅ Ada | tua |
-| 894 | `older` | 1x | ✅ Ada | lama |
-| 895 | `on` | 34x | ✅ Ada | hidup / atas |
-| 896 | `once` | 2x | ✅ Ada | sekali / suatu ketika |
-| 897 | `one` | 28x | ✅ Ada | satu / seorang |
-| 898 | `ones` | 5x | ✅ Ada | yang itu (jamak) |
-| 899 | `online` | 1x | ✅ Ada | atas talian / alam maya |
-| 900 | `only` | 19x | ✅ Ada | hanya / sahaja |
-| 901 | `open` | 5x | ✅ Ada | buka / terbuka |
-| 902 | `opened` | 2x | ✅ Ada | buka / terbuka |
-| 903 | `opinion` | 1x | ✅ Ada | pandangan / pendapat |
-| 904 | `opportunity` | 1x | ✅ Ada | peluang keemasan |
-| 905 | `opposite` | 3x | ✅ Ada | lawan / bertentangan |
-| 906 | `oppressed` | 1x | ✅ Ada | orang yang dizalimi |
-| 907 | `or` | 33x | ✅ Ada | atau |
-| 908 | `organization` | 1x | ✅ Ada | penyusunan / organisasi |
-| 909 | `organizations` | 1x | ✅ Ada | organisasi-organisasi kebajikan |
-| 910 | `orphanages` | 1x | ✅ Ada | rumah-rumah anak yatim |
-| 911 | `other` | 11x | ✅ Ada | lain |
-| 912 | `others` | 8x | ✅ Ada | orang lain |
-| 913 | `otherwise` | 1x | ✅ Ada | sebaliknya |
-| 914 | `our` | 24x | ✅ Ada | kami punya / kita punya |
-| 915 | `ourselves` | 2x | ✅ Ada | diri kita sendiri |
-| 916 | `out` | 10x | ✅ Ada | keluar / di luar |
-| 917 | `outside` | 3x | ✅ Ada | di luar |
-| 918 | `over` | 2x | ✅ Ada | atas / tamat / lebih |
-| 919 | `overhead` | 2x | ✅ Ada | kos pengurusan / operasi |
-| 920 | `own` | 1x | ✅ Ada | sendiri / memiliki |
-| 921 | `owners` | 1x | ✅ Ada | para pemilik |
-| 922 | `palestine` | 3x | ✅ Ada | bumi Palestin |
-| 923 | `paracetamol` | 1x | ✅ Ada | ubat panadol / parasetamol |
-| 924 | `paradise` | 7x | ✅ Ada | syurga |
-| 925 | `part` | 2x | ✅ Ada | bahagian |
-| 926 | `particular` | 2x | ✅ Ada | tertentu / khusus |
-| 927 | `pass` | 1x | ✅ Ada | melepasi / memotong |
-| 928 | `path` | 1x | ✅ Ada | jalan kehidupan / laluan |
-| 929 | `pay` | 1x | ✅ Ada | membayar / bayaran |
-| 930 | `peace` | 3x | ✅ Ada | keamanan / kedamaian |
-| 931 | `peer` | 1x | ✅ Ada | rakan sebaya |
-| 932 | `penny` | 1x | ✅ Ada | satu sen / kepingan wang |
-| 933 | `people` | 42x | ✅ Ada | orang ramai / manusia |
-| 934 | `people's` | 1x | ✅ Ada | milik orang ramai |
-| 935 | `perform` | 1x | ✅ Ada | mendirikan / menunaikan |
-| 936 | `performed` | 2x | ✅ Ada | dilaksanakan / dilakukan |
-| 937 | `performing` | 1x | ✅ Ada | melaksanakan |
-| 938 | `performs` | 1x | ✅ Ada | melaksanakan |
-| 939 | `perhaps` | 9x | ✅ Ada | mungkin / barangkali |
-| 940 | `permissible` | 1x | ✅ Ada | diharuskan / dibenarkan (halal) |
-| 941 | `person` | 8x | ✅ Ada | orang / individu |
-| 942 | `pharmacy` | 1x | ✅ Ada | farmasi / kedai ubat |
-| 943 | `philippines` | 1x | ✅ Ada | filipina |
-| 944 | `photo` | 1x | ✅ Ada | gambar foto |
-| 945 | `picture` | 2x | ✅ Ada | gambar / potret |
-| 946 | `pictures` | 1x | ✅ Ada | gambar |
-| 947 | `pig` | 4x | ✅ Ada | babi |
-| 948 | `pigs` | 1x | ✅ Ada | babi |
-| 949 | `pile` | 1x | ✅ Ada | bertimbun / menimbun |
-| 950 | `piling` | 2x | ✅ Ada | longgokan |
-| 951 | `pillar` | 6x | ✅ Ada | rukun / tonggak utama |
-| 952 | `pillars` | 1x | ✅ Ada | tiang |
-| 953 | `place` | 7x | ✅ Ada | tempat / kedudukan |
-| 954 | `places` | 2x | ✅ Ada | tempat |
-| 955 | `plan` | 1x | ✅ Ada | rancangan / pelan |
-| 956 | `platform` | 1x | ✅ Ada | platform media sosial |
-| 957 | `playing` | 1x | ✅ Ada | sedang bermain |
-| 958 | `plea` | 1x | ✅ Ada | permohonan doa |
-| 959 | `please` | 2x | ✅ Ada | sila / tolong |
-| 960 | `pleased` | 2x | ✅ Ada | berasa reda / berpuas hati |
-| 961 | `pleasing` | 1x | ✅ Ada | tolonglah |
-| 962 | `pleasure` | 1x | ✅ Ada | keredhaan / kelazatan |
-| 963 | `point` | 9x | ✅ Ada | tujuan / makna |
-| 964 | `polite` | 1x | ✅ Ada | bersopan santun |
-| 965 | `popularity` | 1x | ✅ Ada | populariti / kemasyhuran |
-| 966 | `pork` | 1x | ✅ Ada | daging babi |
-| 967 | `position` | 1x | ✅ Ada | kedudukan / posisi |
-| 968 | `positive` | 2x | ✅ Ada | positif / membina |
-| 969 | `pounds` | 1x | ✅ Ada | pon |
-| 970 | `power` | 2x | ✅ Ada | kuasa / elektrik |
-| 971 | `pray` | 10x | ✅ Ada | berdoa / mendirikan solat |
-| 972 | `prayer` | 9x | ✅ Ada | solat / doa |
-| 973 | `prayers` | 1x | ✅ Ada | solat |
-| 974 | `preoccupied` | 1x | ✅ Ada | terlalu leka / sibuk |
-| 975 | `pressure` | 4x | ✅ Ada | tekanan |
-| 976 | `pretty` | 2x | ✅ Ada | agak / cantik |
-| 977 | `prevented` | 1x | ✅ Ada | dihalang / tersekat |
-| 978 | `pride` | 2x | ✅ Ada | sifat takbur / keangkuhan |
-| 979 | `prioritize` | 1x | ✅ Ada | mengutamakan / mendahulukan |
-| 980 | `pro` | 2x | ✅ Ada | menyokong teguh |
-| 981 | `probably` | 7x | ✅ Ada | mungkin / barangkali |
-| 982 | `problem` | 6x | ✅ Ada | masalah |
-| 983 | `progressing` | 1x | ✅ Ada | berkembang maju |
-| 984 | `project` | 3x | ✅ Ada | projek kebajikan |
-| 985 | `projects` | 1x | ✅ Ada | projek |
-| 986 | `promote` | 1x | ✅ Ada | mempromosikan / menaikkan |
-| 987 | `promoted` | 1x | ✅ Ada | dipromosikan |
-| 988 | `promotes` | 1x | ✅ Ada | menggalakkan / menyebarkan |
-| 989 | `promoting` | 1x | ✅ Ada | mempromosikan / mengangkat |
-| 990 | `pronounce` | 1x | ✅ Ada | menyebut / melafazkan |
-| 991 | `pronunciation` | 1x | ✅ Ada | sebutan perkataan |
-| 992 | `properly` | 1x | ✅ Ada | dengan betul / sebaiknya |
-| 993 | `prophet` | 5x | ✅ Ada | Nabi / Rasul |
-| 994 | `protect` | 2x | ✅ Ada | pelihara / lindungi |
-| 995 | `proud` | 2x | ✅ Ada | bangga |
-| 996 | `proudly` | 1x | ✅ Ada | dengan penuh bangga |
-| 997 | `prove` | 1x | ✅ Ada | membuktikan |
-| 998 | `punish` | 1x | ✅ Ada | menghukum / mengazab |
-| 999 | `punishment` | 1x | ✅ Ada | azab / hukuman |
-| 1000 | `pure` | 2x | ✅ Ada | suci murni |
-| 1001 | `purer` | 1x | ✅ Ada | lebih suci dan bersih |
-| 1002 | `purest` | 1x | ✅ Ada | paling suci murni |
-| 1003 | `push` | 1x | ✅ Ada | mendorong / mendesak |
-| 1004 | `pushing` | 1x | ✅ Ada | sedang menolak / menekan |
-| 1005 | `put` | 5x | ✅ Ada | letak / meletakkan |
-| 1006 | `qa` | 1x | ✅ Ada | huruf qaf |
-| 1007 | `qalb` | 2x | ✅ Ada | hati nurani |
-| 1008 | `qari` | 2x | ✅ Ada | qari pembaca al-Quran |
-| 1009 | `qawli` | 1x | ✅ Ada | perkataanku |
-| 1010 | `qiyamah` | 1x | ✅ Ada | Hari Kiamat |
-| 1011 | `quality` | 1x | ✅ Ada | kualiti |
-| 1012 | `quarter` | 1x | ✅ Ada | suku / satu perempat |
-| 1013 | `qudsi` | 1x | ✅ Ada | hadis Qudsi |
-| 1014 | `quenching` | 1x | ✅ Ada | menghilangkan dahaga |
-| 1015 | `question` | 1x | ✅ Ada | soalan |
-| 1016 | `quickly` | 2x | ✅ Ada | dengan pantas / cepat |
-| 1017 | `quit` | 1x | ✅ Ada | berhenti / meninggalkan |
-| 1018 | `quite` | 1x | ✅ Ada | agak / cukup |
-| 1019 | `quran` | 10x | ✅ Ada | Al-Quran |
-| 1020 | `quwwata` | 2x | ✅ Ada | kekuatan |
-| 1021 | `radiant` | 1x | ✅ Ada | berseri-seri / bercahaya |
-| 1022 | `rahman` | 2x | ✅ Ada | Maha Pemurah (ar-Rahman) |
-| 1023 | `raise` | 2x | ✅ Ada | mengangkat tangan |
-| 1024 | `raised` | 1x | ✅ Ada | menaikkan |
-| 1025 | `raji'un` | 1x | ✅ Ada | kami kembali |
-| 1026 | `ramadan` | 1x | ✅ Ada | bulan Ramadan |
-| 1027 | `rasul` | 4x | ✅ Ada | Rasul utusan Allah |
-| 1028 | `ratbatin` | 1x | ✅ Ada | basah / segar |
-| 1029 | `rather` | 1x | ✅ Ada | sebaliknya / agak |
-| 1030 | `reach` | 1x | ✅ Ada | mencapai / tiba |
-| 1031 | `read` | 3x | ✅ Ada | membaca |
-| 1032 | `reading` | 3x | ✅ Ada | membaca |
-| 1033 | `realize` | 3x | ✅ Ada | menyedari / insaf |
-| 1034 | `realized` | 1x | ✅ Ada | sedar |
-| 1035 | `realizing` | 1x | ✅ Ada | menyedari |
-| 1036 | `really` | 2x | ✅ Ada | betul-betul / sungguh |
-| 1037 | `reason` | 5x | ✅ Ada | sebab / alasan |
-| 1038 | `receive` | 7x | ✅ Ada | menerima |
-| 1039 | `recited` | 1x | ✅ Ada | membaca / mengalunkan |
-| 1040 | `recognize` | 1x | ✅ Ada | mengenali / mengakui |
-| 1041 | `recognized` | 1x | ✅ Ada | mengenali |
-| 1042 | `regarding` | 1x | ✅ Ada | berkenaan / mengenai |
-| 1043 | `regretting` | 1x | ✅ Ada | menyesali perbuatan |
-| 1044 | `regularly` | 1x | ✅ Ada | secara konsisten / kerap |
-| 1045 | `related` | 2x | ✅ Ada | kaitkan |
-| 1046 | `relax` | 1x | ✅ Ada | berehat / santai |
-| 1047 | `religion` | 3x | ✅ Ada | agama |
-| 1048 | `remain` | 1x | ✅ Ada | kekal / terus berada |
-| 1049 | `remains` | 1x | ✅ Ada | kekal berada |
-| 1050 | `remember` | 2x | ✅ Ada | ingat / mengingati |
-| 1051 | `remind` | 4x | ✅ Ada | mengingatkan |
-| 1052 | `reminded` | 2x | ✅ Ada | ingatkan |
-| 1053 | `reminder` | 2x | ✅ Ada | peringatan / tazkirah |
-| 1054 | `remorse` | 2x | ✅ Ada | penyesalan yang mendalam |
-| 1055 | `removal` | 1x | ✅ Ada | penyingkiran kandungan |
-| 1056 | `repeat` | 1x | ✅ Ada | mengulang |
-| 1057 | `repeating` | 1x | ✅ Ada | ulang |
-| 1058 | `repent` | 1x | ✅ Ada | bertaubat kepada Allah |
-| 1059 | `repentance` | 1x | ✅ Ada | taubat |
-| 1060 | `repented` | 1x | ✅ Ada | telah bertaubat |
-| 1061 | `reputation` | 1x | ✅ Ada | reputasi / nama baik |
-| 1062 | `resolution` | 1x | ✅ Ada | ketetapan azam |
-| 1063 | `respect` | 5x | ✅ Ada | menghormati / rasa hormat |
-| 1064 | `respectful` | 1x | ✅ Ada | penuh hormat / bersopan |
-| 1065 | `responsibility` | 4x | ✅ Ada | tanggungjawab |
-| 1066 | `rest` | 1x | ✅ Ada | rehat / selebihnya |
-| 1067 | `restaurant` | 1x | ✅ Ada | restoran makanan |
-| 1068 | `result` | 4x | ✅ Ada | keputusan / hasil |
-| 1069 | `resurrection` | 1x | ✅ Ada | hari kebangkitan |
-| 1070 | `return` | 2x | ✅ Ada | kembali / kepulangan |
-| 1071 | `returned` | 2x | ✅ Ada | kembali |
-| 1072 | `returning` | 1x | ✅ Ada | kembali |
-| 1073 | `revelation` | 1x | ✅ Ada | wahyu ilahi |
-| 1074 | `revenue` | 1x | ✅ Ada | hasil pulangan pendapatan |
-| 1075 | `reward` | 9x | ✅ Ada | ganjaran / pahala |
-| 1076 | `rewarded` | 1x | ✅ Ada | pahala |
-| 1077 | `right` | 29x | ✅ Ada | betul / kanan / tepat |
-| 1078 | `risen` | 1x | ✅ Ada | telah bangkit berdiri |
-| 1079 | `risky` | 1x | ✅ Ada | berisiko tinggi |
-| 1080 | `rock` | 1x | ✅ Ada | bintang rock / batu |
-| 1081 | `rotate` | 1x | ✅ Ada | bergilir-gilir |
-| 1082 | `ruined` | 1x | ✅ Ada | merosakkan / membinasakan |
-| 1083 | `rule` | 1x | ✅ Ada | peraturan |
-| 1084 | `rules` | 5x | ✅ Ada | peraturan |
-| 1085 | `rumor` | 1x | ✅ Ada | khabar angin / fitnah |
-| 1086 | `run` | 1x | ✅ Ada | berlari / mengalir |
-| 1087 | `s` | 7x | ✅ Ada | saf solat |
-| 1088 | `sad` | 1x | ✅ Ada | sedih / berduka |
-| 1089 | `sadaka` | 2x | ✅ Ada | sedekah |
-| 1090 | `sadaqat` | 2x | ✅ Ada | sedekah-sedekah |
-| 1091 | `sadness` | 1x | ✅ Ada | kesedihan |
-| 1092 | `said` | 21x | ✅ Ada | cakap / berkata |
-| 1093 | `salaam` | 3x | ✅ Ada | kesejahteraan / salam (Dar es Salaam) |
-| 1094 | `salah` | 5x | ✅ Ada | solat |
-| 1095 | `salat` | 2x | ✅ Ada | solat |
-| 1096 | `sallallahu` | 1x | ✅ Ada | semoga Allah berselawat |
-| 1097 | `sallam` | 1x | ✅ Ada | kesejahteraan |
-| 1098 | `same` | 9x | ✅ Ada | sama |
-| 1099 | `sat` | 2x | ✅ Ada | duduk |
-| 1100 | `satan` | 6x | ✅ Ada | syaitan |
-| 1101 | `satan's` | 1x | ✅ Ada | hasutan syaitan |
-| 1102 | `saving` | 1x | ✅ Ada | menyelamatkan |
-| 1103 | `saw` | 3x | ✅ Ada | lihat / nampak / tengok |
-| 1104 | `say` | 58x | ✅ Ada | cakap / berkata |
-| 1105 | `saying` | 15x | ✅ Ada | cakap / berkata |
-| 1106 | `says` | 30x | ✅ Ada | cakap / berkata |
-| 1107 | `scale` | 6x | ✅ Ada | penimbang / skala |
-| 1108 | `scales` | 4x | ✅ Ada | neraca timbangan (mizan) |
-| 1109 | `scholars` | 2x | ✅ Ada | para ulama |
-| 1110 | `school` | 1x | ✅ Ada | sekolah |
-| 1111 | `scottish` | 1x | ✅ Ada | masyarakat Scotland |
-| 1112 | `second` | 3x | ✅ Ada | kedua / saat |
-| 1113 | `secondly` | 1x | ✅ Ada | keduanya / kedua |
-| 1114 | `seconds` | 1x | ✅ Ada | kedua / saat |
-| 1115 | `secrets` | 2x | ✅ Ada | rahsia-rahsia tersembunyi |
-| 1116 | `see` | 16x | ✅ Ada | lihat / nampak / tengok |
-| 1117 | `seed` | 1x | ✅ Ada | biji benih |
-| 1118 | `seek` | 4x | ✅ Ada | mencari / memohon |
-| 1119 | `seeking` | 3x | ✅ Ada | mendambakan / mencari |
-| 1120 | `seems` | 2x | ✅ Ada | nampak |
-| 1121 | `seen` | 3x | ✅ Ada | lihat / nampak / tengok |
-| 1122 | `sees` | 2x | ✅ Ada | lihat / nampak / tengok |
-| 1123 | `seized` | 1x | ✅ Ada | dirampas dengan paksa |
-| 1124 | `selling` | 1x | ✅ Ada | jual |
-| 1125 | `sense` | 4x | ✅ Ada | deria / logik akal |
-| 1126 | `sensitive` | 1x | ✅ Ada | sensitif / mudah terusik |
-| 1127 | `sentences` | 1x | ✅ Ada | ayat-ayat |
-| 1128 | `serious` | 3x | ✅ Ada | serius / bersungguh-sungguh |
-| 1129 | `seriously` | 1x | ✅ Ada | secara bersungguh-sungguh |
-| 1130 | `serving` | 1x | ✅ Ada | berkhidmat |
-| 1131 | `set` | 4x | ✅ Ada | tetapkan / satu set |
-| 1132 | `sex` | 3x | ✅ Ada | hubungan kelamin / jantina |
-| 1133 | `shadow` | 1x | ✅ Ada | bayang-bayang / sekatan halimunan |
-| 1134 | `shahada` | 2x | ✅ Ada | kalimah syahadah |
-| 1135 | `shake` | 1x | ✅ Ada | berjabat tangan / goncang |
-| 1136 | `shaken` | 1x | ✅ Ada | bersalaman |
-| 1137 | `shaking` | 1x | ✅ Ada | goncang |
-| 1138 | `shall` | 1x | ✅ Ada | pasti akan |
-| 1139 | `shame` | 1x | ✅ Ada | keaiban / perasaan malu |
-| 1140 | `shameful` | 2x | ✅ Ada | memalukan / menjatuhkan maruah |
-| 1141 | `shared` | 1x | ✅ Ada | kongsi |
-| 1142 | `she` | 3x | ✅ Ada | dia (wanita) |
-| 1143 | `sheikh` | 7x | ✅ Ada | syeikh / alim ulama |
-| 1144 | `shifa` | 1x | ✅ Ada | kesembuhan penawar |
-| 1145 | `shift` | 1x | ✅ Ada | beralih arah |
-| 1146 | `shoe` | 1x | ✅ Ada | kasut |
-| 1147 | `shoot` | 1x | ✅ Ada | memanah / menembak |
-| 1148 | `short` | 1x | ✅ Ada | pendek / ringkas |
-| 1149 | `should` | 12x | ✅ Ada | patut / patutlah |
-| 1150 | `shouldn't` | 5x | ✅ Ada | tidak patut / jangan (singkatan 'should not') |
-| 1151 | `shoving` | 1x | ✅ Ada | tolak-menolak |
-| 1152 | `showing` | 2x | ✅ Ada | tunjuk / menunjukkan |
-| 1153 | `shukran` | 1x | ✅ Ada | terima kasih |
-| 1154 | `shut` | 1x | ✅ Ada | tutup / diam |
-| 1155 | `sick` | 2x | ✅ Ada | sakit |
-| 1156 | `side` | 8x | ✅ Ada | tepi / sisi |
-| 1157 | `sight` | 1x | ✅ Ada | pandangan mata |
-| 1158 | `sign` | 6x | ✅ Ada | tanda / isyarat |
-| 1159 | `similar` | 1x | ✅ Ada | serupa / hampir sama |
-| 1160 | `similarly` | 1x | ✅ Ada | begitu juga / sama halnya |
-| 1161 | `simple` | 1x | ✅ Ada | mudah / ringkas |
-| 1162 | `simply` | 3x | ✅ Ada | semata-mata / secara mudah |
-| 1163 | `sin` | 10x | ✅ Ada | dosa |
-| 1164 | `since` | 1x | ✅ Ada | sejak / memandangkan |
-| 1165 | `single` | 3x | ✅ Ada | satu / tunggal / bujang |
-| 1166 | `sinless` | 1x | ✅ Ada | bebas daripada dosa |
-| 1167 | `sinned` | 6x | ✅ Ada | melakukan dosa |
-| 1168 | `sinner` | 1x | ✅ Ada | orang yang berbuat dosa |
-| 1169 | `sinners` | 1x | ✅ Ada | golongan pendosa |
-| 1170 | `sins` | 12x | ✅ Ada | dosa-dosa |
-| 1171 | `sir` | 2x | ✅ Ada | tuan pegawai |
-| 1172 | `sister` | 4x | ✅ Ada | saudara perempuan |
-| 1173 | `sisters` | 15x | ✅ Ada | saudari-saudari |
-| 1174 | `sit` | 4x | ✅ Ada | duduk |
-| 1175 | `site` | 1x | ✅ Ada | lokasi kejadian / tapak |
-| 1176 | `sitting` | 5x | ✅ Ada | duduk |
-| 1177 | `situation` | 1x | ✅ Ada | keadaan / situasi |
-| 1178 | `slaves` | 1x | ✅ Ada | hamba-hamba abdi |
-| 1179 | `slowly` | 1x | ✅ Ada | secara perlahan |
-| 1180 | `small` | 2x | ✅ Ada | kecil |
-| 1181 | `smiling` | 1x | ✅ Ada | tersenyum |
-| 1182 | `smoked` | 1x | ✅ Ada | asap / merokok |
-| 1183 | `smoking` | 1x | ✅ Ada | merokok |
-| 1184 | `so` | 55x | ✅ Ada | jadi / sangat |
-| 1185 | `social` | 1x | ✅ Ada | sosial |
-| 1186 | `societal` | 1x | ✅ Ada | kemasyarakatan |
-| 1187 | `solve` | 1x | ✅ Ada | menyelesaikan masalah |
-| 1188 | `some` | 26x | ✅ Ada | beberapa / sedikit |
-| 1189 | `someone` | 20x | ✅ Ada | seseorang |
-| 1190 | `something` | 35x | ✅ Ada | sesuatu |
-| 1191 | `sometimes` | 15x | ✅ Ada | kadang-kadang |
-| 1192 | `somewhere` | 1x | ✅ Ada | di suatu tempat |
-| 1193 | `soon` | 1x | ✅ Ada | sebentar lagi |
-| 1194 | `sorry` | 1x | ✅ Ada | maaf / memohon maaf |
-| 1195 | `soul` | 2x | ✅ Ada | jiwa |
-| 1196 | `sound` | 1x | ✅ Ada | bunyi / suara |
-| 1197 | `sowing` | 1x | ✅ Ada | menyemai benih |
-| 1198 | `space` | 1x | ✅ Ada | ruang |
-| 1199 | `spark` | 1x | ✅ Ada | percikan api kebaikan |
-| 1200 | `speak` | 1x | ✅ Ada | bercakap |
-| 1201 | `speaks` | 1x | ✅ Ada | bercakap |
-| 1202 | `spend` | 1x | ✅ Ada | luangkan / belanjakan |
-| 1203 | `split` | 1x | ✅ Ada | memecahbelahkan |
-| 1204 | `spreads` | 1x | ✅ Ada | tersebar luas |
-| 1205 | `stampede` | 1x | ✅ Ada | rempuhan tolak-menolak |
-| 1206 | `standing` | 3x | ✅ Ada | sedang berdiri |
-| 1207 | `stands` | 1x | ✅ Ada | berdiri |
-| 1208 | `star` | 1x | ✅ Ada | bintang ternama |
-| 1209 | `start` | 9x | ✅ Ada | mula / memulakan |
-| 1210 | `started` | 2x | ✅ Ada | sudah bermula |
-| 1211 | `starting` | 1x | ✅ Ada | mula / memulakan |
-| 1212 | `starts` | 1x | ✅ Ada | mula / memulakan |
-| 1213 | `statement` | 4x | ✅ Ada | kenyataan / ulasan |
-| 1214 | `stations` | 1x | ✅ Ada | stesen |
-| 1215 | `status` | 2x | ✅ Ada | kedudukan / status |
-| 1216 | `stay` | 1x | ✅ Ada | tinggal / terus kekal |
-| 1217 | `still` | 5x | ✅ Ada | masih / tenang |
-| 1218 | `stop` | 1x | ✅ Ada | berhenti |
-| 1219 | `stopped` | 2x | ✅ Ada | berhenti |
-| 1220 | `street` | 1x | ✅ Ada | jalan raya |
-| 1221 | `strength` | 1x | ✅ Ada | kekuatan |
-| 1222 | `strengthen` | 4x | ✅ Ada | mengukuhkan / memperkuat |
-| 1223 | `stressful` | 1x | ✅ Ada | penuh tekanan jiwa |
-| 1224 | `strive` | 2x | ✅ Ada | berusaha sedaya upaya |
-| 1225 | `stronger` | 1x | ✅ Ada | kuat |
-| 1226 | `strongly` | 1x | ✅ Ada | dengan tegas / bersungguh-sungguh |
-| 1227 | `struggles` | 1x | ✅ Ada | cabaran-cabaran hidup |
-| 1228 | `struggling` | 4x | ✅ Ada | sedang bergelut |
-| 1229 | `subhan` | 1x | ✅ Ada | Maha Suci Allah |
-| 1230 | `subhana` | 1x | ✅ Ada | Maha Suci |
-| 1231 | `subhanahu` | 2x | ✅ Ada | Maha Suci Dia |
-| 1232 | `subhanallah` | 4x | ✅ Ada | Maha Suci Allah |
-| 1233 | `succeed` | 2x | ✅ Ada | mencapai kejayaan |
-| 1234 | `successful` | 1x | ✅ Ada | beroleh kejayaan |
-| 1235 | `such` | 1x | ✅ Ada | seperti / sedemikian rupa |
-| 1236 | `sudais` | 1x | ✅ Ada | al-Sudais (Imam Mekah) |
-| 1237 | `sudden` | 1x | ✅ Ada | tiba-tiba / mengejut |
-| 1238 | `suddenly` | 1x | ✅ Ada | tiba-tiba |
-| 1239 | `suffering` | 1x | ✅ Ada | menderita |
-| 1240 | `sujud` | 1x | ✅ Ada | bersujud / tunduk menyembah Allah |
-| 1241 | `summer` | 1x | ✅ Ada | musim panas |
-| 1242 | `sunnah` | 1x | ✅ Ada | Sunnah Rasulullah SAW |
-| 1243 | `supplication` | 2x | ✅ Ada | doa permohonan |
-| 1244 | `supposed` | 1x | ✅ Ada | andaikan |
-| 1245 | `surah` | 1x | ✅ Ada | surah al-Quran |
-| 1246 | `sure` | 7x | ✅ Ada | pasti / tentu |
-| 1247 | `surely` | 2x | ✅ Ada | sesungguhnya pasti |
-| 1248 | `surpass` | 1x | ✅ Ada | mengatasi / melangkaui |
-| 1249 | `surpasses` | 1x | ✅ Ada | melebihi / mengatasi |
-| 1250 | `surplus` | 1x | ✅ Ada | lebihan rezeki |
-| 1251 | `survival` | 1x | ✅ Ada | kelangsungan hidup |
-| 1252 | `sweating` | 2x | ✅ Ada | peluh |
-| 1253 | `ta'ala` | 4x | ✅ Ada | Maha Tinggi |
-| 1254 | `tabarak` | 1x | ✅ Ada | Maha Suci / Maha Berkat |
-| 1255 | `tahajud` | 1x | ✅ Ada | solat malam Tahajud |
-| 1256 | `tajweed` | 1x | ✅ Ada | hukum tajwid bacaan Quran |
-| 1257 | `takbir` | 1x | ✅ Ada | takbir (Allahu Akbar) |
-| 1258 | `take` | 9x | ✅ Ada | ambil / memerlukan masa |
-| 1259 | `taken` | 2x | ✅ Ada | ambil / memerlukan masa |
-| 1260 | `takes` | 1x | ✅ Ada | ambil / memerlukan masa |
-| 1261 | `taking` | 1x | ✅ Ada | sedang mengambil |
-| 1262 | `talk` | 10x | ✅ Ada | bercakap / berborak |
-| 1263 | `talking` | 1x | ✅ Ada | bercakap / berborak |
-| 1264 | `talks` | 1x | ✅ Ada | bercakap / berborak |
-| 1265 | `tap` | 1x | ✅ Ada | paip air / mengetuk perlahan |
-| 1266 | `tarawih` | 3x | ✅ Ada | solat sunat Tarawih |
-| 1267 | `taste` | 1x | ✅ Ada | rasa di lidah |
-| 1268 | `tastes` | 1x | ✅ Ada | rasa |
-| 1269 | `taught` | 3x | ✅ Ada | diajar |
-| 1270 | `teach` | 2x | ✅ Ada | mengajar / mendidik |
-| 1271 | `teacher` | 2x | ✅ Ada | guru pendidik |
-| 1272 | `teaches` | 1x | ✅ Ada | mengajar |
-| 1273 | `teams` | 1x | ✅ Ada | pasukan |
-| 1274 | `technical` | 1x | ✅ Ada | teknikal |
-| 1275 | `teenagers` | 1x | ✅ Ada | remaja-remaja |
-| 1276 | `tell` | 24x | ✅ Ada | beritahu / khabarkan |
-| 1277 | `telling` | 2x | ✅ Ada | memberitahu |
-| 1278 | `tells` | 2x | ✅ Ada | beritahu / khabarkan |
-| 1279 | `tend` | 1x | ✅ Ada | cenderung |
-| 1280 | `term` | 1x | ✅ Ada | istilah / perkataan |
-| 1281 | `test` | 1x | ✅ Ada | ujian |
-| 1282 | `than` | 18x | ✅ Ada | daripada |
-| 1283 | `thank` | 2x | ✅ Ada | terima kasih |
-| 1284 | `that` | 177x | ✅ Ada | itu / yang |
-| 1285 | `that's` | 29x | ✅ Ada | itu adalah / itu (singkatan 'that is') |
-| 1286 | `the` | 310x | ✅ Ada | kata penentu (itu / si) |
-| 1287 | `their` | 19x | ✅ Ada | mereka punya / kepunyaan mereka |
-| 1288 | `them` | 32x | ✅ Ada | mereka |
-| 1289 | `theme` | 1x | ✅ Ada | tema utama |
-| 1290 | `themselves` | 1x | ✅ Ada | diri mereka sendiri |
-| 1291 | `then` | 16x | ✅ Ada | kemudian / waktu itu |
-| 1292 | `theories` | 2x | ✅ Ada | teori-teori andaian |
-| 1293 | `there` | 56x | ✅ Ada | di sana / ada |
-| 1294 | `there's` | 10x | ✅ Ada | ada / terdapat (singkatan 'there is') |
-| 1295 | `therefore` | 1x | ✅ Ada | oleh itu / maka |
-| 1296 | `these` | 9x | ✅ Ada | semua ini |
-| 1297 | `they` | 88x | ✅ Ada | mereka |
-| 1298 | `they're` | 2x | ✅ Ada | mereka adalah / mereka (singkatan 'they are') |
-| 1299 | `they've` | 1x | ✅ Ada | mereka telah (singkatan 'they have') |
-| 1300 | `thing` | 9x | ✅ Ada | benda / perkara |
-| 1301 | `things` | 17x | ✅ Ada | benda-benda / perkara-perkara |
-| 1302 | `think` | 11x | ✅ Ada | fikir / berfikir |
-| 1303 | `third` | 4x | ✅ Ada | ketiga |
-| 1304 | `thirst` | 1x | ✅ Ada | kehausan / dahaga |
-| 1305 | `thirsty` | 1x | ✅ Ada | berasa dahaga |
-| 1306 | `this` | 48x | ✅ Ada | ini |
-| 1307 | `those` | 23x | ✅ Ada | semua itu |
-| 1308 | `though` | 3x | ✅ Ada | walaupun / biarpun |
-| 1309 | `thought` | 2x | ✅ Ada | fikir / berfikir |
-| 1310 | `three` | 6x | ✅ Ada | tiga |
-| 1311 | `through` | 3x | ✅ Ada | melalui / merentasi |
-| 1312 | `time` | 16x | ✅ Ada | masa / waktu |
-| 1313 | `times` | 7x | ✅ Ada | masa / waktu |
-| 1314 | `tip` | 4x | ✅ Ada | mencondongkan timbangan |
-| 1315 | `to` | 316x | ✅ Ada | ke / untuk |
-| 1316 | `today` | 9x | ✅ Ada | hari ini |
-| 1317 | `together` | 3x | ✅ Ada | bersama-sama |
-| 1318 | `told` | 5x | ✅ Ada | memberitahu |
-| 1319 | `tone` | 4x | ✅ Ada | nada suara |
-| 1320 | `tonight` | 2x | ✅ Ada | malam ini |
-| 1321 | `too` | 3x | ✅ Ada | juga / terlalu |
-| 1322 | `took` | 2x | ✅ Ada | mengambil / telah ambil |
-| 1323 | `tortured` | 1x | ✅ Ada | diseksa dengan zalim |
-| 1324 | `touch` | 1x | ✅ Ada | menyentuh / mengambil |
-| 1325 | `touched` | 1x | ✅ Ada | sentuh |
-| 1326 | `tour` | 1x | ✅ Ada | jelajah jelajahan |
-| 1327 | `towards` | 1x | ✅ Ada | ke arah / terhadap |
-| 1328 | `town` | 1x | ✅ Ada | bandar / pekan |
-| 1329 | `translate` | 1x | ✅ Ada | menterjemahkan |
-| 1330 | `travel` | 1x | ✅ Ada | bermusafir / mengembara |
-| 1331 | `treat` | 2x | ✅ Ada | melayan / memperlakukan |
-| 1332 | `treated` | 1x | ✅ Ada | dilayan dengan baik |
-| 1333 | `trends` | 1x | ✅ Ada | trend ikutan semasa |
-| 1334 | `tried` | 1x | ✅ Ada | cuba / mencuba |
-| 1335 | `tripping` | 1x | ✅ Ada | perjalanan |
-| 1336 | `true` | 7x | ✅ Ada | benar |
-| 1337 | `truly` | 4x | ✅ Ada | benar-benar / sesungguhnya |
-| 1338 | `truth` | 1x | ✅ Ada | kebenaran |
-| 1339 | `try` | 3x | ✅ Ada | cuba / mencuba |
-| 1340 | `trying` | 7x | ✅ Ada | cuba / mencuba |
-| 1341 | `tsunamis` | 1x | ✅ Ada | gelombang tsunami |
-| 1342 | `turn` | 3x | ✅ Ada | pusing / hidupkan (turn on) |
-| 1343 | `turned` | 1x | ✅ Ada | telah pusing / menjadi |
-| 1344 | `turns` | 1x | ✅ Ada | pusing / hidupkan (turn on) |
-| 1345 | `twice` | 1x | ✅ Ada | dua kali |
-| 1346 | `two` | 8x | ✅ Ada | dua |
-| 1347 | `ud` | 2x | ✅ Ada | daripada (sambungan frasa) |
-| 1348 | `uh` | 1x | ✅ Ada | err / uh |
-| 1349 | `uk` | 1x | ✅ Ada | United Kingdom (UK) |
-| 1350 | `ul` | 1x | ✅ Ada | yang (kata sandang al-) |
-| 1351 | `ultimate` | 1x | ✅ Ada | mutlak / kemuncak |
-| 1352 | `ummah` | 4x | ✅ Ada | ummah / umat Islam |
-| 1353 | `umrah` | 2x | ✅ Ada | ibadah umrah |
-| 1354 | `under` | 3x | ✅ Ada | di bawah |
-| 1355 | `underneath` | 1x | ✅ Ada | di bawahnya |
-| 1356 | `understand` | 3x | ✅ Ada | faham / memahami |
-| 1357 | `understanding` | 1x | ✅ Ada | faham / memahami |
-| 1358 | `unfair` | 1x | ✅ Ada | tidak adil |
-| 1359 | `unfortunately` | 1x | ✅ Ada | malangnya / sayangnya |
-| 1360 | `unimaginable` | 1x | ✅ Ada | tidak terbayangkan dek akal |
-| 1361 | `unite` | 1x | ✅ Ada | bersatu padu |
-| 1362 | `united` | 1x | ✅ Ada | bersatu |
-| 1363 | `university` | 1x | ✅ Ada | institusi universiti |
-| 1364 | `unknown` | 1x | ✅ Ada | dirahsiakan / tidak diketahui |
-| 1365 | `unless` | 3x | ✅ Ada | melainkan / kecuali |
-| 1366 | `until` | 3x | ✅ Ada | sehingga / sampai |
-| 1367 | `up` | 16x | ✅ Ada | atas / naik |
-| 1368 | `upon` | 3x | ✅ Ada | ke atas / di atas |
-| 1369 | `us` | 39x | ✅ Ada | kami / kita |
-| 1370 | `use` | 7x | ✅ Ada | guna / menggunakan |
-| 1371 | `used` | 8x | ✅ Ada | digunakan / pernah |
-| 1372 | `using` | 1x | ✅ Ada | guna / menggunakan |
-| 1373 | `values` | 2x | ✅ Ada | nilai-nilai murni |
-| 1374 | `various` | 1x | ✅ Ada | pelbagai jenis |
-| 1375 | `ve` | 1x | ✅ Ada | telah (singkatan have) |
-| 1376 | `verse` | 1x | ✅ Ada | ayat (Al-Quran) |
-| 1377 | `very` | 30x | ✅ Ada | sangat / amat |
-| 1378 | `victims` | 1x | ✅ Ada | mangsa-mangsa musibah |
-| 1379 | `video` | 1x | ✅ Ada | video / rakaman visual |
-| 1380 | `virtue` | 4x | ✅ Ada | fadilat keutamaan |
-| 1381 | `visit` | 1x | ✅ Ada | menziarahi / melawat |
-| 1382 | `visualize` | 1x | ✅ Ada | menggambarkan dalam fikiran |
-| 1383 | `voice` | 1x | ✅ Ada | suara / nada percakapan |
-| 1384 | `wa` | 13x | ✅ Ada | dan |
-| 1385 | `wait` | 1x | ✅ Ada | menunggu / nanti |
-| 1386 | `waiting` | 1x | ✅ Ada | tunggu |
-| 1387 | `wakeel` | 3x | ✅ Ada | wakil / pelindung (Al-Wakil) |
-| 1388 | `wakil` | 2x | ✅ Ada | Maha Memelihara |
-| 1389 | `wala` | 2x | ✅ Ada | dan tiada |
-| 1390 | `walk` | 1x | ✅ Ada | berjalan |
-| 1391 | `walked` | 1x | ✅ Ada | berjalan |
-| 1392 | `walking` | 2x | ✅ Ada | berjalan |
-| 1393 | `walks` | 1x | ✅ Ada | berjalan-jalan |
-| 1394 | `wallahi` | 13x | ✅ Ada | demi Allah |
-| 1395 | `want` | 38x | ✅ Ada | mahu / nak |
-| 1396 | `wanted` | 7x | ✅ Ada | mahu / nak |
-| 1397 | `wants` | 1x | ✅ Ada | mahu / nak |
-| 1398 | `waqf` | 4x | ✅ Ada | harta wakaf |
-| 1399 | `war` | 2x | ✅ Ada | peperangan |
-| 1400 | `warmth` | 2x | ✅ Ada | kehangatan kasih sayang |
-| 1401 | `was` | 31x | ✅ Ada | adalah / dulu berada |
-| 1402 | `wasn't` | 1x | ✅ Ada | bukan / tidak (singkatan 'was not') |
-| 1403 | `watching` | 1x | ✅ Ada | sedang menonton |
-| 1404 | `water` | 15x | ✅ Ada | air |
-| 1405 | `way` | 15x | ✅ Ada | jalan / cara |
-| 1406 | `ways` | 2x | ✅ Ada | jalan / cara |
-| 1407 | `we` | 148x | ✅ Ada | kami / kita |
-| 1408 | `we're` | 9x | ✅ Ada | kami / kita sedang (singkatan 'we are') |
-| 1409 | `we've` | 4x | ✅ Ada | kami telah / kita dah (singkatan 'we have') |
-| 1410 | `weak` | 3x | ✅ Ada | lemah |
-| 1411 | `weakness` | 2x | ✅ Ada | kelemahan |
-| 1412 | `weaknesses` | 3x | ✅ Ada | kelemahan-kelemahan |
-| 1413 | `wealth` | 1x | ✅ Ada | kekayaan |
-| 1414 | `wear` | 1x | ✅ Ada | memakai pakaian |
-| 1415 | `weather` | 2x | ✅ Ada | keadaan cuaca |
-| 1416 | `wedding` | 3x | ✅ Ada | berkahwin |
-| 1417 | `weddings` | 1x | ✅ Ada | perkahwinan |
-| 1418 | `weeks` | 1x | ✅ Ada | minggu |
-| 1419 | `weight` | 3x | ✅ Ada | berat |
-| 1420 | `welcome` | 1x | ✅ Ada | selamat datang |
-| 1421 | `well` | 7x | ✅ Ada | baiklah / elok / telaga |
-| 1422 | `went` | 11x | ✅ Ada | telah pergi |
-| 1423 | `were` | 22x | ✅ Ada | adalah / dulu berada |
-| 1424 | `weren't` | 2x | ✅ Ada | bukan / tidak (singkatan 'were not') |
-| 1425 | `what` | 117x | ✅ Ada | apa / apakah |
-| 1426 | `what's` | 7x | ✅ Ada | apa / apakah (singkatan 'what is/has') |
-| 1427 | `whatever` | 3x | ✅ Ada | apa jua / apa-apa pun |
-| 1428 | `when` | 48x | ✅ Ada | bila / apabila |
-| 1429 | `where` | 7x | ✅ Ada | di mana |
-| 1430 | `whether` | 5x | ✅ Ada | sama ada |
-| 1431 | `which` | 17x | ✅ Ada | yang mana |
-| 1432 | `while` | 2x | ✅ Ada | sementara / semasa |
-| 1433 | `who` | 49x | ✅ Ada | siapa / orang yang |
-| 1434 | `whoever` | 6x | ✅ Ada | sesiapa sahaja |
-| 1435 | `whole` | 4x | ✅ Ada | seluruh / keseluruhan |
-| 1436 | `whom` | 2x | ✅ Ada | siapa / yang mana |
-| 1437 | `whose` | 2x | ✅ Ada | yang mana / milik siapa |
-| 1438 | `why` | 36x | ✅ Ada | mengapa / kenapa |
-| 1439 | `will` | 77x | ✅ Ada | akan |
-| 1440 | `willing` | 2x | ✅ Ada | akan |
-| 1441 | `windows` | 3x | ✅ Ada | tingkap |
-| 1442 | `wiped` | 1x | ✅ Ada | lap |
-| 1443 | `with` | 50x | ✅ Ada | dengan / bersama |
-| 1444 | `within` | 2x | ✅ Ada | dalam lingkungan / di dalam |
-| 1445 | `without` | 8x | ✅ Ada | tanpa |
-| 1446 | `witness` | 1x | ✅ Ada | menyaksikan / melihat |
-| 1447 | `woman` | 2x | ✅ Ada | wanita / perempuan |
-| 1448 | `won't` | 4x | ✅ Ada | tidak akan / takkan (singkatan 'will not') |
-| 1449 | `wonder` | 2x | ✅ Ada | tertanya-tanya / keajaiban |
-| 1450 | `wonderful` | 3x | ✅ Ada | hebat / luar biasa |
-| 1451 | `word` | 3x | ✅ Ada | perkataan |
-| 1452 | `work` | 6x | ✅ Ada | kerja / berfungsi |
-| 1453 | `worked` | 2x | ✅ Ada | kerja / berfungsi |
-| 1454 | `works` | 1x | ✅ Ada | berfungsi / berkesan |
-| 1455 | `world` | 5x | ✅ Ada | dunia |
-| 1456 | `worldwide` | 1x | ✅ Ada | di seluruh dunia |
-| 1457 | `worry` | 1x | ✅ Ada | bimbang / risau |
-| 1458 | `worrying` | 1x | ✅ Ada | risau |
-| 1459 | `worshipping` | 1x | ✅ Ada | menyembah Allah |
-| 1460 | `worships` | 1x | ✅ Ada | beribadah |
-| 1461 | `worst` | 2x | ✅ Ada | teruk / buruk |
-| 1462 | `worth` | 2x | ✅ Ada | bernilai |
-| 1463 | `would` | 17x | ✅ Ada | akan / sudi |
-| 1464 | `wouldn't` | 3x | ✅ Ada | tidak akan / takkan (singkatan 'would not') |
-| 1465 | `wow` | 1x | ✅ Ada | wah (kagum) |
-| 1466 | `write` | 7x | ✅ Ada | mencatatkan / menulis |
-| 1467 | `wrong` | 11x | ✅ Ada | salah |
-| 1468 | `wronged` | 1x | ✅ Ada | dianiayai / dizalimi |
-| 1469 | `wudu` | 1x | ✅ Ada | wuduk bersuci |
-| 1470 | `ya'rifu` | 1x | ✅ Ada | mengenali / memahami |
-| 1471 | `yaswa` | 1x | ✅ Ada | bernilai / setaraf |
-| 1472 | `year` | 3x | ✅ Ada | tahun |
-| 1473 | `years` | 4x | ✅ Ada | tahun |
-| 1474 | `yes` | 7x | ✅ Ada | ya |
-| 1475 | `yesterday` | 3x | ✅ Ada | semalam / kelmarin |
-| 1476 | `you` | 365x | ✅ Ada | awak / anda |
-| 1477 | `you'd` | 2x | ✅ Ada | anda akan (singkatan 'you would/had') |
-| 1478 | `you'll` | 4x | ✅ Ada | anda akan / awak akan (singkatan 'you will') |
-| 1479 | `you're` | 16x | ✅ Ada | anda / awak adalah (singkatan 'you are') |
-| 1480 | `you've` | 3x | ✅ Ada | anda telah / awak dah (singkatan 'you have') |
-| 1481 | `young` | 10x | ✅ Ada | muda |
-| 1482 | `younger` | 1x | ✅ Ada | muda |
-| 1483 | `your` | 73x | ✅ Ada | awak punya / anda punya |
-| 1484 | `yourself` | 1x | ✅ Ada | diri anda |
-| 1485 | `youth` | 1x | ✅ Ada | masa muda |
-| 1486 | `yunus` | 1x | ✅ Ada | Yunus (nama jemaah) |
-| 1487 | `zakat` | 4x | ✅ Ada | ibadah zakat |
-| 1488 | `zamzam` | 7x | ✅ Ada | air zamzam |
-| 1489 | `zero` | 1x | ✅ Ada | sifar / kosong |
-| 1490 | `zimbabwe` | 2x | ✅ Ada | Zimbabwe (negara) |
-| 1491 | `zina` | 1x | ✅ Ada | perbuatan zina |
-| 1492 | `zionist` | 1x | ✅ Ada | fahaman zionis |
-| 1493 | `zionists` | 1x | ✅ Ada | golongan zionis |
+| 1 | `a` | 234x | ✅ Ada | sebuah / seorang / satu |
+| 2 | `a'malikum` | 1x | ✅ Ada | amalan-amalan perbuatan kamu |
+| 3 | `abdeen` | 2x | ✅ Ada | Aberdeen (singkatan mesra) |
+| 4 | `abdullah` | 4x | ✅ Ada | Abdullah (nama badan kebajikan) |
+| 5 | `abdur` | 2x | ✅ Ada | Abdur (sebahagian daripada nama hamba Yang Maha Pemurah) |
+| 6 | `aberdeen` | 10x | ✅ Ada | Aberdeen (bandar di Scotland) |
+| 7 | `ability` | 2x | ✅ Ada | kemampuan / kebolehan |
+| 8 | `able` | 4x | ✅ Ada | mampu / boleh |
+| 9 | `about` | 16x | ✅ Ada | tentang / sekitar |
+| 10 | `absolutely` | 1x | ✅ Ada | sama sekali / benar-benar |
+| 11 | `accept` | 2x | ✅ Ada | terima / menerima |
+| 12 | `accepted` | 2x | ✅ Ada | terima |
+| 13 | `accordance` | 1x | ✅ Ada | selaras / bertepatan dengan |
+| 14 | `account` | 1x | ✅ Ada | akaun |
+| 15 | `accountability` | 2x | ✅ Ada | kepekaan hisab / kebertanggungjawaban |
+| 16 | `across` | 2x | ✅ Ada | merentasi / di seberang |
+| 17 | `actually` | 2x | ✅ Ada | sebenarnya |
+| 18 | `adam` | 1x | ✅ Ada | Nabi Adam a.s. / manusia |
+| 19 | `added` | 1x | ✅ Ada | ditambah |
+| 20 | `addicted` | 1x | ✅ Ada | penagih |
+| 21 | `addiction` | 1x | ✅ Ada | ketagihan |
+| 22 | `addictions` | 2x | ✅ Ada | ketagihan-ketagihan |
+| 23 | `address` | 1x | ✅ Ada | menangani / berucap |
+| 24 | `advertised` | 1x | ✅ Ada | diwar-warkan / diiklankan |
+| 25 | `advice` | 3x | ✅ Ada | nasihat / teguran |
+| 26 | `advise` | 1x | ✅ Ada | menasihati / menegur |
+| 27 | `advises` | 1x | ✅ Ada | memberi nasihat |
+| 28 | `affiliated` | 1x | ✅ Ada | bergabung / bernaung di bawah |
+| 29 | `after` | 8x | ✅ Ada | selepas / sesudah |
+| 30 | `again` | 3x | ✅ Ada | lagi / sekali lagi |
+| 31 | `against` | 1x | ✅ Ada | menentang / terhadap |
+| 32 | `age` | 2x | ✅ Ada | usia / umur |
+| 33 | `ago` | 1x | ✅ Ada | yang lalu / dahulu |
+| 34 | `agree` | 1x | ✅ Ada | setuju |
+| 35 | `aid` | 6x | ✅ Ada | bantuan / pertolongan |
+| 36 | `air` | 1x | ✅ Ada | udara / menganginkan |
+| 37 | `ajrun` | 1x | ✅ Ada | ganjaran pahala |
+| 38 | `akbar` | 14x | ✅ Ada | Maha Besar |
+| 39 | `al` | 4x | ✅ Ada | kata penentu (Al-) |
+| 40 | `ala` | 1x | ✅ Ada | ke atas |
+| 41 | `alaihi` | 4x | ✅ Ada | ke atasnya |
+| 42 | `alaikum` | 1x | ✅ Ada | ke atas kamu |
+| 43 | `alas` | 1x | ✅ Ada | cukuplah / tiada apa lagi |
+| 44 | `alayhi` | 1x | ✅ Ada | ke atasnya |
+| 45 | `alaykum` | 2x | ✅ Ada | ke atas kamu |
+| 46 | `alcohol` | 1x | ✅ Ada | arak / alkohol |
+| 47 | `algorithms` | 1x | ✅ Ada | algoritma |
+| 48 | `alhamdulillah` | 3x | ✅ Ada | segala puji bagi Allah |
+| 49 | `ali` | 2x | ✅ Ada | Saidina Ali (nama sahabat) |
+| 50 | `align` | 1x | ✅ Ada | menyelaraskan / menyatukan |
+| 51 | `alive` | 1x | ✅ Ada | hidup bernyawa |
+| 52 | `aliyyil` | 1x | ✅ Ada | Maha Tinggi (sebahagian daripada sifat Allah) |
+| 53 | `all` | 48x | ✅ Ada | semua / seluruh |
+| 54 | `allah` | 180x | ✅ Ada | Allah Subhanahu wa Ta'ala |
+| 55 | `allahhi` | 1x | ✅ Ada | di sisi Allah (sebutan loghat) |
+| 56 | `allahu` | 19x | ✅ Ada | Allah |
+| 57 | `allahul` | 1x | ✅ Ada | Allah yang Maha... |
+| 58 | `allahumma` | 1x | ✅ Ada | ya Allah |
+| 59 | `allowed` | 5x | ✅ Ada | membenarkan / membolehkan |
+| 60 | `almighty` | 11x | ✅ Ada | Yang Maha Berkuasa (Allah) |
+| 61 | `almost` | 2x | ✅ Ada | hampir |
+| 62 | `alone` | 3x | ✅ Ada | bersendirian / seorang diri |
+| 63 | `already` | 4x | ✅ Ada | sudah / telah pun |
+| 64 | `also` | 4x | ✅ Ada | juga / selain itu |
+| 65 | `always` | 7x | ✅ Ada | sentiasa / selalu |
+| 66 | `am` | 10x | ✅ Ada | adalah / berada |
+| 67 | `amazing` | 1x | ✅ Ada | memukau |
+| 68 | `ambassador` | 1x | ✅ Ada | duta / wakil |
+| 69 | `amen` | 1x | ✅ Ada | aminkan / kabulkanlah |
+| 70 | `amila` | 1x | ✅ Ada | melakukan / beramal |
+| 71 | `among` | 2x | ✅ Ada | antara / dalam kalangan |
+| 72 | `an` | 17x | ✅ Ada | sebuah / seorang / satu |
+| 73 | `and` | 308x | ✅ Ada | dan |
+| 74 | `angels` | 2x | ✅ Ada | para malaikat |
+| 75 | `animal` | 1x | ✅ Ada | haiwan / binatang |
+| 76 | `animals` | 1x | ✅ Ada | haiwan |
+| 77 | `another` | 5x | ✅ Ada | satu lagi / lain |
+| 78 | `any` | 4x | ✅ Ada | sebarang / apa-apa |
+| 79 | `anyone` | 4x | ✅ Ada | sesiapa sahaja |
+| 80 | `anyone's` | 1x | ✅ Ada | kepunyaan sesiapa pun |
+| 81 | `anything` | 11x | ✅ Ada | apa-apa pun / sebarang perkara |
+| 82 | `anytime` | 1x | ✅ Ada | bila-bila masa |
+| 83 | `anyway` | 1x | ✅ Ada | apa-apa pun / walau bagaimanapun |
+| 84 | `anywhere` | 2x | ✅ Ada | ke mana-mana pun |
+| 85 | `applicable` | 2x | ✅ Ada | terpakai / wajib dikenakan |
+| 86 | `applies` | 1x | ✅ Ada | memohon |
+| 87 | `appropriately` | 3x | ✅ Ada | secara wajar / sesuai |
+| 88 | `aqulu` | 1x | ✅ Ada | aku mengucapkan (permulaan doa) |
+| 89 | `arabic` | 1x | ✅ Ada | bahasa Arab |
+| 90 | `are` | 102x | ✅ Ada | adalah / berada |
+| 91 | `around` | 2x | ✅ Ada | sekitar / di sekeliling |
+| 92 | `arrogance` | 1x | ✅ Ada | kesombongan / keangkuhan |
+| 93 | `arrogant` | 1x | ✅ Ada | sombong / takbur |
+| 94 | `as` | 27x | ✅ Ada | seperti / sebagai |
+| 95 | `aside` | 2x | ✅ Ada | ke tepi / selain |
+| 96 | `ask` | 12x | ✅ Ada | tanya / meminta |
+| 97 | `asked` | 1x | ✅ Ada | bertanya |
+| 98 | `asking` | 2x | ✅ Ada | bertanya |
+| 99 | `asr` | 1x | ✅ Ada | solat Asar |
+| 100 | `assistance` | 1x | ✅ Ada | bantuan / sokongan pertolongan |
+| 101 | `astaghfirullah` | 2x | ✅ Ada | aku memohon ampun kepada Allah |
+| 102 | `astaghfirullahal` | 1x | ✅ Ada | aku memohon ampun kepada Allah Yang Maha Agung |
+| 103 | `astray` | 1x | ✅ Ada | sesat / terpesong |
+| 104 | `at` | 44x | ✅ Ada | di / pada |
+| 105 | `atom's` | 1x | ✅ Ada | sebesar zarah / atom |
+| 106 | `attack` | 2x | ✅ Ada | menyerang / serangan |
+| 107 | `attended` | 1x | ✅ Ada | dihadiri / menyertai |
+| 108 | `attention` | 1x | ✅ Ada | perhatian / tumpuan |
+| 109 | `authority` | 1x | ✅ Ada | autoriti / kekuasaan |
+| 110 | `avid` | 1x | ✅ Ada | orang yang beribadah / ahli ibadah ('abid) |
+| 111 | `aw` | 1x | ✅ Ada | atau |
+| 112 | `away` | 7x | ✅ Ada | jauh / pergi |
+| 113 | `awkward` | 2x | ✅ Ada | janggal / kekok / tidak sesuai |
+| 114 | `awzarihim` | 1x | ✅ Ada | dosa-dosa pikulan mereka |
+| 115 | `azim` | 2x | ✅ Ada | Maha Agung |
+| 116 | `ba'udah` | 1x | ✅ Ada | seekor nyamuk (dalam hadis) |
+| 117 | `back` | 7x | ✅ Ada | belakang / kembali |
+| 118 | `background` | 3x | ✅ Ada | latar belakang |
+| 119 | `bad` | 52x | ✅ Ada | teruk / buruk |
+| 120 | `banning` | 1x | ✅ Ada | penyekatan / pengharaman |
+| 121 | `banu` | 1x | ✅ Ada | keturunan / anak cucu |
+| 122 | `barik` | 1x | ✅ Ada | berkatilah |
+| 123 | `based` | 1x | ✅ Ada | asas |
+| 124 | `bashar` | 1x | ✅ Ada | manusia biasa |
+| 125 | `basically` | 1x | ✅ Ada | pada asasnya |
+| 126 | `batil` | 1x | ✅ Ada | batil / sia-sia / salah |
+| 127 | `be` | 65x | ✅ Ada | menjadi / berada |
+| 128 | `beaming` | 1x | ✅ Ada | berseri-seri / bercahaya riang |
+| 129 | `bear` | 1x | ✅ Ada | menanggung / menyematkan |
+| 130 | `bearded` | 1x | ✅ Ada | berjanggut / berjanggut lebat |
+| 131 | `beautiful` | 12x | ✅ Ada | indah / cantik |
+| 132 | `because` | 53x | ✅ Ada | kerana / sebab |
+| 133 | `become` | 10x | ✅ Ada | menjadi |
+| 134 | `becomes` | 2x | ✅ Ada | menjadi |
+| 135 | `becoming` | 1x | ✅ Ada | menjadi |
+| 136 | `been` | 4x | ✅ Ada | telah / pernah |
+| 137 | `before` | 6x | ✅ Ada | sebelum |
+| 138 | `begin` | 1x | ✅ Ada | mula / bermula |
+| 139 | `beginning` | 1x | ✅ Ada | permulaan |
+| 140 | `beginnings` | 1x | ✅ Ada | permulaan-permulaan |
+| 141 | `behavior` | 1x | ✅ Ada | tingkah laku / kelakuan |
+| 142 | `being` | 7x | ✅ Ada | makhluk / insan |
+| 143 | `beings` | 1x | ✅ Ada | makhluk / insan |
+| 144 | `believe` | 4x | ✅ Ada | percaya / meyakini |
+| 145 | `believed` | 1x | ✅ Ada | dipercayai / meyakini |
+| 146 | `believer` | 3x | ✅ Ada | orang beriman / mukmin |
+| 147 | `believers` | 1x | ✅ Ada | orang-orang yang beriman |
+| 148 | `belong` | 4x | ✅ Ada | kepunyaan / menjadi hak milik |
+| 149 | `belongs` | 1x | ✅ Ada | milik / tergolong dalam |
+| 150 | `beloved` | 14x | ✅ Ada | kekasih / yang dikasihi |
+| 151 | `below` | 1x | ✅ Ada | di bawah |
+| 152 | `besides` | 3x | ✅ Ada | selain itu |
+| 153 | `best` | 7x | ✅ Ada | baik / bagus |
+| 154 | `better` | 8x | ✅ Ada | lebih baik |
+| 155 | `between` | 2x | ✅ Ada | antara / di antara |
+| 156 | `big` | 6x | ✅ Ada | besar |
+| 157 | `biggest` | 1x | ✅ Ada | besar |
+| 158 | `biha` | 2x | ✅ Ada | dengannya / padanya |
+| 159 | `billah` | 4x | ✅ Ada | dengan Allah |
+| 160 | `billahi` | 1x | ✅ Ada | kepada Allah |
+| 161 | `bis` | 1x | ✅ Ada | dengan / berserta |
+| 162 | `bismillah` | 1x | ✅ Ada | dengan nama Allah |
+| 163 | `bit` | 12x | ✅ Ada | sedikit / sikit |
+| 164 | `bless` | 7x | ✅ Ada | merahmati / memberkati |
+| 165 | `blessing` | 1x | ✅ Ada | rahmat / keberkatan |
+| 166 | `bodies` | 1x | ✅ Ada | tubuh-tubuh badan |
+| 167 | `body` | 1x | ✅ Ada | badan / tubuh |
+| 168 | `bonus` | 3x | ✅ Ada | bonus / ganjaran tambahan |
+| 169 | `book` | 1x | ✅ Ada | kitab suci / buku |
+| 170 | `boom` | 1x | ✅ Ada | ledakan / dentuman kuat |
+| 171 | `both` | 4x | ✅ Ada | kedua-dua |
+| 172 | `bottle` | 1x | ✅ Ada | botol |
+| 173 | `bottom` | 2x | ✅ Ada | bahagian bawah |
+| 174 | `boys` | 1x | ✅ Ada | budak lelaki |
+| 175 | `breath` | 1x | ✅ Ada | nafas |
+| 176 | `bride` | 1x | ✅ Ada | pengantin perempuan |
+| 177 | `bring` | 5x | ✅ Ada | membawa |
+| 178 | `brings` | 2x | ✅ Ada | membawa |
+| 179 | `bro` | 1x | ✅ Ada | saudaraku / bro (panggilan mesra) |
+| 180 | `brother` | 14x | ✅ Ada | saudara lelaki |
+| 181 | `brothers` | 20x | ✅ Ada | saudara-saudara |
+| 182 | `brought` | 1x | ✅ Ada | membawa |
+| 183 | `build` | 1x | ✅ Ada | membina |
+| 184 | `buildings` | 1x | ✅ Ada | bangunan |
+| 185 | `bulk` | 1x | ✅ Ada | sebahagian besar / majoriti |
+| 186 | `busy` | 2x | ✅ Ada | sibuk |
+| 187 | `but` | 83x | ✅ Ada | tetapi / tapi |
+| 188 | `butchered` | 1x | ✅ Ada | tukang sembelih |
+| 189 | `button` | 1x | ✅ Ada | butang |
+| 190 | `by` | 16x | ✅ Ada | oleh / dengan / menjelang |
+| 191 | `call` | 3x | ✅ Ada | memanggil / panggilan |
+| 192 | `called` | 4x | ✅ Ada | dipanggil / dinamakan |
+| 193 | `came` | 8x | ✅ Ada | datang / mari |
+| 194 | `can` | 19x | ✅ Ada | boleh / dapat |
+| 195 | `can't` | 5x | ✅ Ada | tidak boleh / tak boleh (singkatan 'cannot') |
+| 196 | `cannot` | 1x | ✅ Ada | tidak boleh / tidak dapat |
+| 197 | `capacity` | 1x | ✅ Ada | kapasiti / keupayaan |
+| 198 | `care` | 2x | ✅ Ada | peduli / prihatin |
+| 199 | `carried` | 1x | ✅ Ada | membawa |
+| 200 | `carry` | 1x | ✅ Ada | membawa diri / membawa |
+| 201 | `case` | 1x | ✅ Ada | kes / keadaan |
+| 202 | `cases` | 2x | ✅ Ada | kes |
+| 203 | `cause` | 1x | ✅ Ada | jalan perjuangan (sabilillah) |
+| 204 | `ceasefire` | 2x | ✅ Ada | gencatan senjata |
+| 205 | `certain` | 8x | ✅ Ada | tertentu / yakin |
+| 206 | `challenges` | 1x | ✅ Ada | cabaran-cabaran |
+| 207 | `challenging` | 1x | ✅ Ada | cabaran |
+| 208 | `chance` | 3x | ✅ Ada | peluang / kebarangkalian |
+| 209 | `chances` | 1x | ✅ Ada | peluang |
+| 210 | `change` | 9x | ✅ Ada | ubah / menukar |
+| 211 | `changed` | 3x | ✅ Ada | ubah / menukar |
+| 212 | `chaos` | 2x | ✅ Ada | kekecohan / huru-hara |
+| 213 | `charge` | 1x | ✅ Ada | caj / mengecas |
+| 214 | `charities` | 1x | ✅ Ada | badan-badan kebajikan |
+| 215 | `charity` | 5x | ✅ Ada | sedekah |
+| 216 | `chase` | 1x | ✅ Ada | mengejar / menghalau |
+| 217 | `children` | 6x | ✅ Ada | anak |
+| 218 | `circle` | 1x | ✅ Ada | halaqah / kelompok / bulatan |
+| 219 | `circuit` | 1x | ✅ Ada | litar (litar pintas) |
+| 220 | `city` | 2x | ✅ Ada | kota / bandar |
+| 221 | `claiming` | 1x | ✅ Ada | mendakwa / menuntut |
+| 222 | `clean` | 2x | ✅ Ada | bersih / membersihkan |
+| 223 | `clever` | 1x | ✅ Ada | pandai / bijak / licik |
+| 224 | `clicks` | 1x | ✅ Ada | klik / perhatian maya |
+| 225 | `close` | 1x | ✅ Ada | tutup / dekat |
+| 226 | `closer` | 4x | ✅ Ada | lebih dekat |
+| 227 | `closest` | 1x | ✅ Ada | tutup / dekat |
+| 228 | `closing` | 1x | ✅ Ada | menutup |
+| 229 | `clothing` | 1x | ✅ Ada | pakaian |
+| 230 | `code` | 1x | ✅ Ada | kod etika / panduan |
+| 231 | `come` | 27x | ✅ Ada | datang / mari |
+| 232 | `comes` | 4x | ✅ Ada | datang / mari |
+| 233 | `coming` | 1x | ✅ Ada | sedang datang / menjelang |
+| 234 | `comment` | 1x | ✅ Ada | mengulas / meninggalkan komen |
+| 235 | `committed` | 3x | ✅ Ada | komited |
+| 236 | `committee` | 1x | ✅ Ada | ahli jawatankuasa |
+| 237 | `committing` | 2x | ✅ Ada | melakukan (dosa/kesilapan) |
+| 238 | `communities` | 2x | ✅ Ada | masyarakat-masyarakat / komuniti |
+| 239 | `community` | 2x | ✅ Ada | masyarakat / komuniti |
+| 240 | `compel` | 1x | ✅ Ada | memaksa |
+| 241 | `compete` | 2x | ✅ Ada | bersaing / berlumba-lumba |
+| 242 | `complains` | 1x | ✅ Ada | mengadu / merungut |
+| 243 | `complete` | 3x | ✅ Ada | lengkap / menyempurnakan |
+| 244 | `completely` | 1x | ✅ Ada | sepenuhnya / langsung |
+| 245 | `compromise` | 3x | ✅ Ada | berkompromi |
+| 246 | `compulsory` | 4x | ✅ Ada | wajib / fardu |
+| 247 | `condition` | 2x | ✅ Ada | keadaan / syarat |
+| 248 | `conditioning` | 1x | ✅ Ada | syarat |
+| 249 | `confess` | 1x | ✅ Ada | mengaku kesalahan |
+| 250 | `confession` | 1x | ✅ Ada | pengakuan dosa |
+| 251 | `confused` | 1x | ✅ Ada | mengelirukan |
+| 252 | `confusion` | 1x | ✅ Ada | kekeliruan / kekusutan |
+| 253 | `connect` | 1x | ✅ Ada | menghubungkan / menyambung |
+| 254 | `connected` | 3x | ✅ Ada | menyambung |
+| 255 | `connection` | 4x | ✅ Ada | hubungan / ikatan |
+| 256 | `conscious` | 1x | ✅ Ada | sedar / beringat |
+| 257 | `consider` | 2x | ✅ Ada | mempertimbangkan / merenung |
+| 258 | `consume` | 1x | ✅ Ada | memakan / mengambil |
+| 259 | `content` | 1x | ✅ Ada | berasa puas / berpuas hati |
+| 260 | `contentment` | 2x | ✅ Ada | kepuasan hati / redha |
+| 261 | `continue` | 5x | ✅ Ada | teruskan / menyambung |
+| 262 | `continued` | 1x | ✅ Ada | teruskan / menyambung |
+| 263 | `continues` | 1x | ✅ Ada | teruskan / menyambung |
+| 264 | `continuing` | 1x | ✅ Ada | meneruskan / berterusan |
+| 265 | `continuous` | 1x | ✅ Ada | berterusan / berpanjangan |
+| 266 | `contributes` | 1x | ✅ Ada | menyumbang / memberikan sumbangan |
+| 267 | `control` | 1x | ✅ Ada | kawalan / mengawal |
+| 268 | `controlled` | 1x | ✅ Ada | kawalan |
+| 269 | `convert` | 1x | ✅ Ada | menukar / mengubah |
+| 270 | `cool` | 2x | ✅ Ada | sejuk / hebat / bergaya |
+| 271 | `cooler` | 3x | ✅ Ada | lebih dingin / lebih sejuk |
+| 272 | `corona` | 1x | ✅ Ada | wabak koronavirus (COVID-19) |
+| 273 | `correct` | 14x | ✅ Ada | betul / tepat |
+| 274 | `corrected` | 11x | ✅ Ada | betul / tepat |
+| 275 | `correction` | 4x | ✅ Ada | teguran pembetulan |
+| 276 | `corrects` | 6x | ✅ Ada | betul / tepat |
+| 277 | `could` | 2x | ✅ Ada | boleh / dapat |
+| 278 | `couldn't` | 1x | ✅ Ada | tidak boleh / tak dapat (singkatan 'could not') |
+| 279 | `country` | 1x | ✅ Ada | negara |
+| 280 | `cover` | 2x | ✅ Ada | menutup aurat |
+| 281 | `crack` | 1x | ✅ Ada | rekahan / retak (juga slanga belahan punggung) |
+| 282 | `cracking` | 1x | ✅ Ada | retak |
+| 283 | `crashing` | 1x | ✅ Ada | kemalangan |
+| 284 | `creature` | 1x | ✅ Ada | makhluk ciptaan |
+| 285 | `creatures` | 1x | ✅ Ada | makhluk-makhluk ciptaan Allah |
+| 286 | `cross` | 1x | ✅ Ada | melintas |
+| 287 | `cruel` | 1x | ✅ Ada | kejam / zalim |
+| 288 | `cure` | 1x | ✅ Ada | penawar / ubat |
+| 289 | `cuz` | 1x | ✅ Ada | sebab / kerana (singkatan 'because') |
+| 290 | `dawah` | 2x | ✅ Ada | dakwah / seruan Islam |
+| 291 | `day` | 31x | ✅ Ada | hari / siang |
+| 292 | `days` | 1x | ✅ Ada | hari / siang |
+| 293 | `deal` | 3x | ✅ Ada | perjanjian / urusan |
+| 294 | `dealing` | 1x | ✅ Ada | berurusan / muamalat |
+| 295 | `dean` | 1x | ✅ Ada | agama (ad-Din) |
+| 296 | `death` | 1x | ✅ Ada | kematian / ajal |
+| 297 | `deceived` | 4x | ✅ Ada | terpedaya / tertipu |
+| 298 | `decide` | 1x | ✅ Ada | membuat keputusan |
+| 299 | `decided` | 3x | ✅ Ada | memutuskan |
+| 300 | `dedication` | 1x | ✅ Ada | pengabdian / dedikasi |
+| 301 | `deed` | 16x | ✅ Ada | amalan / perbuatan |
+| 302 | `deeds` | 39x | ✅ Ada | amalan-amalan |
+| 303 | `definitely` | 7x | ✅ Ada | pasti / sememangnya |
+| 304 | `degree` | 1x | ✅ Ada | darjah / tahap / ijazah |
+| 305 | `deletion` | 1x | ✅ Ada | pemadaman / dihapuskan |
+| 306 | `delivered` | 1x | ✅ Ada | menyampaikan |
+| 307 | `depends` | 1x | ✅ Ada | bergantung |
+| 308 | `deserve` | 1x | ✅ Ada | layak / berhak menerima |
+| 309 | `destruction` | 1x | ✅ Ada | kemusnahan / kebinasaan |
+| 310 | `develop` | 1x | ✅ Ada | membina / membangunkan |
+| 311 | `dhakaraha` | 1x | ✅ Ada | dia mengingatinya (waktu solat) |
+| 312 | `dhalika` | 2x | ✅ Ada | demikian itu |
+| 313 | `dhikra` | 1x | ✅ Ada | mengingati |
+| 314 | `dhuhr` | 1x | ✅ Ada | solat fardu Zuhur |
+| 315 | `dicey` | 1x | ✅ Ada | meragukan / berisiko / tidak pasti |
+| 316 | `did` | 36x | ✅ Ada | telah buat / adakah |
+| 317 | `didn't` | 18x | ✅ Ada | tidak / tak (singkatan 'did not') |
+| 318 | `die` | 1x | ✅ Ada | mati / meninggal dunia |
+| 319 | `died` | 2x | ✅ Ada | mati |
+| 320 | `difference` | 1x | ✅ Ada | perbezaan |
+| 321 | `different` | 4x | ✅ Ada | berbeza / kelainan |
+| 322 | `dignity` | 1x | ✅ Ada | maruah / kemuliaan |
+| 323 | `diplomatic` | 1x | ✅ Ada | diplomatik / penuh kebijaksanaan |
+| 324 | `direction` | 2x | ✅ Ada | arah |
+| 325 | `dirt` | 1x | ✅ Ada | debu tanah / kekotoran |
+| 326 | `disagreeing` | 1x | ✅ Ada | tidak bersetuju |
+| 327 | `disaster` | 1x | ✅ Ada | bencana |
+| 328 | `discussion` | 1x | ✅ Ada | perbincangan |
+| 329 | `display` | 1x | ✅ Ada | mempamerkan / menayangkan |
+| 330 | `displeasing` | 1x | ✅ Ada | memurkakan / tidak menyenangkan |
+| 331 | `distant` | 1x | ✅ Ada | jauh / menjauhkan diri |
+| 332 | `distracted` | 1x | ✅ Ada | mengalih perhatian |
+| 333 | `distractions` | 1x | ✅ Ada | gangguan-gangguan |
+| 334 | `do` | 78x | ✅ Ada | buat / lakukan |
+| 335 | `does` | 10x | ✅ Ada | buat / melakukan |
+| 336 | `doesn't` | 9x | ✅ Ada | tidak / tak (singkatan 'does not') |
+| 337 | `dog` | 18x | ✅ Ada | anjing |
+| 338 | `dogs` | 2x | ✅ Ada | anjing-anjing |
+| 339 | `doing` | 11x | ✅ Ada | buat / lakukan |
+| 340 | `don` | 1x | ✅ Ada | memakai / mengenakan (pakaian/hijab) |
+| 341 | `don't` | 67x | ✅ Ada | jangan / tidak (singkatan 'do not') |
+| 342 | `donate` | 2x | ✅ Ada | menderma / menyumbang |
+| 343 | `donation` | 1x | ✅ Ada | sumbangan derma |
+| 344 | `done` | 6x | ✅ Ada | buat / lakukan |
+| 345 | `doors` | 3x | ✅ Ada | pintu-pintu |
+| 346 | `doubt` | 3x | ✅ Ada | keraguan / syak wasangka |
+| 347 | `down` | 7x | ✅ Ada | bawah / turun |
+| 348 | `downfall` | 1x | ✅ Ada | kejatuhan / kehancuran |
+| 349 | `draw` | 1x | ✅ Ada | menarik / mendekatkan |
+| 350 | `dress` | 3x | ✅ Ada | berpakaian / gaun |
+| 351 | `dressing` | 1x | ✅ Ada | berpakaian |
+| 352 | `drink` | 3x | ✅ Ada | minum arak |
+| 353 | `drinking` | 1x | ✅ Ada | minum |
+| 354 | `droplet` | 1x | ✅ Ada | titisan kecil / sekelumit |
+| 355 | `drops` | 1x | ✅ Ada | jatuhkan |
+| 356 | `drugs` | 1x | ✅ Ada | dadah |
+| 357 | `drunk` | 1x | ✅ Ada | minum |
+| 358 | `dua` | 4x | ✅ Ada | doa |
+| 359 | `dundee` | 3x | ✅ Ada | Dundee (bandar di Scotland) |
+| 360 | `dunya` | 1x | ✅ Ada | dunia |
+| 361 | `duped` | 1x | ✅ Ada | terpedaya / tertipu |
+| 362 | `duty` | 6x | ✅ Ada | kewajipan / tanggungjawab |
+| 363 | `dying` | 2x | ✅ Ada | mati |
+| 364 | `each` | 4x | ✅ Ada | setiap / masing-masing |
+| 365 | `early` | 2x | ✅ Ada | awal |
+| 366 | `earth` | 2x | ✅ Ada | bumi |
+| 367 | `earthquakes` | 1x | ✅ Ada | gempa bumi-gempa bumi |
+| 368 | `ease` | 2x | ✅ Ada | kemudahan / kelapangan |
+| 369 | `easy` | 6x | ✅ Ada | mudah / senang |
+| 370 | `eating` | 3x | ✅ Ada | makan |
+| 371 | `effect` | 1x | ✅ Ada | kesan / akibat |
+| 372 | `either` | 1x | ✅ Ada | sama ada / salah satu |
+| 373 | `elders` | 1x | ✅ Ada | golongan tua / para sesepuh |
+| 374 | `else` | 7x | ✅ Ada | lain |
+| 375 | `embarrassed` | 1x | ✅ Ada | malu / segan |
+| 376 | `embarrassing` | 2x | ✅ Ada | memalukan |
+| 377 | `encourage` | 3x | ✅ Ada | menggalakkan / mendorong |
+| 378 | `encouraged` | 3x | ✅ Ada | digalakkan / amat dituntut |
+| 379 | `encouragement` | 1x | ✅ Ada | dorongan / galakan semangat |
+| 380 | `end` | 7x | ✅ Ada | hujung / tamat |
+| 381 | `engage` | 1x | ✅ Ada | terlibat / berinteraksi |
+| 382 | `enjoy` | 1x | ✅ Ada | menikmati / berasa seronok |
+| 383 | `enlightened` | 3x | ✅ Ada | mendapat pencerahan ilmu |
+| 384 | `enough` | 2x | ✅ Ada | cukup |
+| 385 | `enslaved` | 1x | ✅ Ada | diperhambakan / menjadi hamba |
+| 386 | `ensure` | 1x | ✅ Ada | memastikan / menjamin |
+| 387 | `enter` | 2x | ✅ Ada | masuk / melangkah masuk |
+| 388 | `entire` | 2x | ✅ Ada | seluruh / segenap |
+| 389 | `entry` | 1x | ✅ Ada | kemasukan |
+| 390 | `environment` | 1x | ✅ Ada | suasana / persekitaran |
+| 391 | `especially` | 1x | ✅ Ada | terutamanya / khususnya |
+| 392 | `etc` | 3x | ✅ Ada | dan sebagainya (dan lain-lain) |
+| 393 | `even` | 35x | ✅ Ada | malah / pun |
+| 394 | `ever` | 6x | ✅ Ada | pernah |
+| 395 | `every` | 7x | ✅ Ada | setiap / tiap-tiap |
+| 396 | `everybody's` | 3x | ✅ Ada | semua orang |
+| 397 | `everyone` | 13x | ✅ Ada | semua orang |
+| 398 | `everything` | 4x | ✅ Ada | segalanya / semua perkara |
+| 399 | `exactly` | 1x | ✅ Ada | tepat / betul-betul |
+| 400 | `examination` | 1x | ✅ Ada | peperiksaan / ujian bertulis |
+| 401 | `example` | 6x | ✅ Ada | contoh / teladan |
+| 402 | `excited` | 2x | ✅ Ada | mengujakan |
+| 403 | `excuse` | 1x | ✅ Ada | alasan / kemaafan |
+| 404 | `explained` | 1x | ✅ Ada | terangkan |
+| 405 | `expose` | 1x | ✅ Ada | mendedahkan aib |
+| 406 | `external` | 1x | ✅ Ada | luaran / zahir |
+| 407 | `eyes` | 5x | ✅ Ada | mata |
+| 408 | `f` | 1x | ✅ Ada | huruf F / carutan kesat |
+| 409 | `fa` | 1x | ✅ Ada | maka / lalu |
+| 410 | `faces` | 2x | ✅ Ada | wajah-wajah |
+| 411 | `facilitation` | 1x | ✅ Ada | kemudahan / melancarkan urusan |
+| 412 | `fail` | 1x | ✅ Ada | gagal / kecundang |
+| 413 | `faith` | 5x | ✅ Ada | keimanan / akidah |
+| 414 | `fajr` | 3x | ✅ Ada | subuh |
+| 415 | `falahu` | 1x | ✅ Ada | maka baginya |
+| 416 | `falling` | 2x | ✅ Ada | sedang jatuh / gugur |
+| 417 | `false` | 1x | ✅ Ada | palsu / salah |
+| 418 | `fame` | 2x | ✅ Ada | kemasyhuran / populariti |
+| 419 | `famous` | 6x | ✅ Ada | terkenal / masyhur |
+| 420 | `far` | 4x | ✅ Ada | jauh |
+| 421 | `fast` | 2x | ✅ Ada | pantas / cepat |
+| 422 | `fasting` | 2x | ✅ Ada | berpuasa |
+| 423 | `father` | 1x | ✅ Ada | bapa / ayah |
+| 424 | `favor` | 2x | ✅ Ada | nikmat / pertolongan |
+| 425 | `fear` | 2x | ✅ Ada | ketakutan / takut |
+| 426 | `feel` | 20x | ✅ Ada | rasa / merasa |
+| 427 | `feeling` | 2x | ✅ Ada | rasa / merasa |
+| 428 | `feels` | 2x | ✅ Ada | terasa / rasanya |
+| 429 | `fellows` | 1x | ✅ Ada | sahabat / orang-orang / lelaki |
+| 430 | `felt` | 4x | ✅ Ada | rasa / merasa |
+| 431 | `few` | 10x | ✅ Ada | beberapa / sedikit |
+| 432 | `fi` | 1x | ✅ Ada | di dalam / pada |
+| 433 | `fidiya` | 1x | ✅ Ada | fidyah (bayaran ganti puasa) |
+| 434 | `fight` | 1x | ✅ Ada | bergaduh / bertengkar |
+| 435 | `filling` | 1x | ✅ Ada | isi |
+| 436 | `find` | 1x | ✅ Ada | cari / menemui |
+| 437 | `finish` | 1x | ✅ Ada | selesai / menamatkan |
+| 438 | `firdaus` | 3x | ✅ Ada | Syurga Firdaus |
+| 439 | `fire` | 1x | ✅ Ada | api / kebakaran |
+| 440 | `fires` | 2x | ✅ Ada | kebakaran-kebakaran |
+| 441 | `first` | 4x | ✅ Ada | pertama / dulu |
+| 442 | `firstly` | 2x | ✅ Ada | pertamanya / terlebih dahulu |
+| 443 | `fisabilillah` | 1x | ✅ Ada | pada jalan Allah |
+| 444 | `fit` | 1x | ✅ Ada | sesuai / cergas |
+| 445 | `five` | 7x | ✅ Ada | lima |
+| 446 | `flicker` | 1x | ✅ Ada | kelipan / sekelumit sinar |
+| 447 | `floods` | 1x | ✅ Ada | banjir / limpahan air |
+| 448 | `fly` | 1x | ✅ Ada | lalat / terbang |
+| 449 | `focus` | 2x | ✅ Ada | fokus / tumpuan |
+| 450 | `follow` | 2x | ✅ Ada | ikut / mengikut |
+| 451 | `followed` | 2x | ✅ Ada | ikut |
+| 452 | `followers` | 1x | ✅ Ada | pengikut |
+| 453 | `follows` | 8x | ✅ Ada | jumlah pengikut (media sosial) |
+| 454 | `food` | 2x | ✅ Ada | makanan |
+| 455 | `for` | 59x | ✅ Ada | untuk / bagi |
+| 456 | `forest` | 1x | ✅ Ada | hutan rimba |
+| 457 | `forget` | 2x | ✅ Ada | lupa / terlupa |
+| 458 | `forgetfulness` | 1x | ✅ Ada | sifat pelupa / kealpaan |
+| 459 | `forgive` | 5x | ✅ Ada | mengampuni / memaafkan |
+| 460 | `forgiveness` | 11x | ✅ Ada | keampunan |
+| 461 | `forgotten` | 1x | ✅ Ada | dilupakan |
+| 462 | `form` | 1x | ✅ Ada | bentuk rupa |
+| 463 | `forward` | 2x | ✅ Ada | maju ke hadapan |
+| 464 | `four` | 1x | ✅ Ada | empat |
+| 465 | `free` | 1x | ✅ Ada | percuma / bebas |
+| 466 | `friends` | 1x | ✅ Ada | kawan-kawan |
+| 467 | `from` | 22x | ✅ Ada | dari / daripada |
+| 468 | `front` | 2x | ✅ Ada | depan / hadapan |
+| 469 | `fulfill` | 2x | ✅ Ada | menunaikan / menyempurnakan |
+| 470 | `fulfilled` | 1x | ✅ Ada | ditunaikan / dimakbulkan |
+| 471 | `fulfilling` | 1x | ✅ Ada | memenuhi keperluan |
+| 472 | `fulfills` | 1x | ✅ Ada | menunaikan / menyempurnakan |
+| 473 | `full` | 3x | ✅ Ada | penuh |
+| 474 | `fully` | 1x | ✅ Ada | sepenuhnya / secara menyeluruh |
+| 475 | `fun` | 1x | ✅ Ada | keseronokan |
+| 476 | `furqan` | 1x | ✅ Ada | al-Furqan (pembeda kebenaran) |
+| 477 | `gain` | 1x | ✅ Ada | memperoleh / meraih |
+| 478 | `gave` | 6x | ✅ Ada | beri / memberikan |
+| 479 | `gaza` | 4x | ✅ Ada | Gaza (Palestin) |
+| 480 | `gaze` | 1x | ✅ Ada | pandangan mata |
+| 481 | `generous` | 4x | ✅ Ada | pemurah / dermawan |
+| 482 | `genocide` | 1x | ✅ Ada | pembunuhan beramai-ramai / genosid |
+| 483 | `get` | 29x | ✅ Ada | dapat / mengambil |
+| 484 | `getting` | 3x | ✅ Ada | semakin / sedang dapat |
+| 485 | `gift` | 2x | ✅ Ada | hadiah kurniaan |
+| 486 | `give` | 10x | ✅ Ada | beri / memberikan |
+| 487 | `gives` | 1x | ✅ Ada | beri / memberikan |
+| 488 | `giving` | 1x | ✅ Ada | beri / memberikan |
+| 489 | `glad` | 1x | ✅ Ada | gembira / bersyukur |
+| 490 | `global` | 1x | ✅ Ada | sedunia / global |
+| 491 | `globe` | 2x | ✅ Ada | dunia / muka bumi |
+| 492 | `go` | 23x | ✅ Ada | pergi |
+| 493 | `goes` | 2x | ✅ Ada | pergi |
+| 494 | `going` | 26x | ✅ Ada | sedang pergi / akan |
+| 495 | `gone` | 3x | ✅ Ada | pergi |
+| 496 | `good` | 52x | ✅ Ada | baik / bagus |
+| 497 | `goodness` | 6x | ✅ Ada | kebaikan / kebajikan |
+| 498 | `got` | 6x | ✅ Ada | dapat / sudah dapat |
+| 499 | `grant` | 9x | ✅ Ada | mengurniakan / memperkenankan |
+| 500 | `granting` | 1x | ✅ Ada | mengurniakan / memberikan |
+| 501 | `greater` | 1x | ✅ Ada | hebat |
+| 502 | `greet` | 1x | ✅ Ada | menyapa / memberi salam |
+| 503 | `greeted` | 1x | ✅ Ada | memberi salam / menyapa |
+| 504 | `greyhound` | 1x | ✅ Ada | anjing lumba jenis greyhound |
+| 505 | `groom` | 1x | ✅ Ada | pengantin lelaki |
+| 506 | `ground` | 1x | ✅ Ada | tanah / lantai |
+| 507 | `guarantee` | 1x | ✅ Ada | menjamin / kepastian |
+| 508 | `guess` | 11x | ✅ Ada | agak / meneka |
+| 509 | `guest` | 1x | ✅ Ada | tetamu |
+| 510 | `guide` | 1x | ✅ Ada | membimbing / memandu |
+| 511 | `guilty` | 1x | ✅ Ada | berasa bersalah |
+| 512 | `guy` | 7x | ✅ Ada | lelaki / orang itu |
+| 513 | `guys` | 9x | ✅ Ada | kawan-kawan / kalian |
+| 514 | `gym` | 1x | ✅ Ada | gimnasium |
+| 515 | `habibi` | 3x | ✅ Ada | wahai sahabatku / kekasihku |
+| 516 | `habit` | 1x | ✅ Ada | tabiat / kebiasaan |
+| 517 | `habits` | 2x | ✅ Ada | tabiat-tabiat |
+| 518 | `had` | 10x | ✅ Ada | mempunyai / telah ada |
+| 519 | `hadha` | 1x | ✅ Ada | ini |
+| 520 | `hadith` | 12x | ✅ Ada | hadis Rasulullah |
+| 521 | `hajj` | 2x | ✅ Ada | ibadah Haji |
+| 522 | `halal` | 1x | ✅ Ada | halal (dibenarkan syarak) |
+| 523 | `half` | 2x | ✅ Ada | separuh / setengah |
+| 524 | `halwa` | 1x | ✅ Ada | berkhalwat / manisan / berdua-duaan |
+| 525 | `hand` | 5x | ✅ Ada | tangan |
+| 526 | `hands` | 5x | ✅ Ada | tangan-tangan |
+| 527 | `happen` | 7x | ✅ Ada | berlaku / terjadi |
+| 528 | `happened` | 13x | ✅ Ada | berlaku |
+| 529 | `happening` | 5x | ✅ Ada | berlaku |
+| 530 | `happens` | 2x | ✅ Ada | berlaku |
+| 531 | `happy` | 5x | ✅ Ada | gembira / bahagia |
+| 532 | `haqqin` | 1x | ✅ Ada | kebenaran yang hakiki |
+| 533 | `haram` | 9x | ✅ Ada | diharamkan / berdosa |
+| 534 | `hard` | 3x | ✅ Ada | sukar / kuat / gigih |
+| 535 | `has` | 10x | ✅ Ada | ada / mempunyai |
+| 536 | `hasbunallahu` | 5x | ✅ Ada | cukuplah Allah bagi kami |
+| 537 | `hate` | 1x | ✅ Ada | membenci / kebencian |
+| 538 | `have` | 89x | ✅ Ada | ada / mempunyai |
+| 539 | `haven't` | 3x | ✅ Ada | belum / tidak ada (singkatan 'have not') |
+| 540 | `having` | 2x | ✅ Ada | ada / mempunyai |
+| 541 | `hawla` | 5x | ✅ Ada | daya |
+| 542 | `he` | 40x | ✅ Ada | dia (lelaki) |
+| 543 | `he's` | 6x | ✅ Ada | dia adalah / dia (singkatan 'he is/has') |
+| 544 | `health` | 1x | ✅ Ada | kesihatan |
+| 545 | `healthy` | 2x | ✅ Ada | sihat walafiat |
+| 546 | `hear` | 8x | ✅ Ada | mendengar |
+| 547 | `heard` | 4x | ✅ Ada | dengar |
+| 548 | `heart` | 29x | ✅ Ada | hati |
+| 549 | `hearts` | 6x | ✅ Ada | hati |
+| 550 | `heavier` | 3x | ✅ Ada | berat |
+| 551 | `heavy` | 1x | ✅ Ada | berat / membebankan |
+| 552 | `help` | 9x | ✅ Ada | bantu / tolong |
+| 553 | `helps` | 1x | ✅ Ada | membantu |
+| 554 | `her` | 3x | ✅ Ada | dia (wanita) / kepunyaannya |
+| 555 | `here` | 25x | ✅ Ada | di sini |
+| 556 | `hey` | 4x | ✅ Ada | hei |
+| 557 | `hide` | 1x | ✅ Ada | menyembunyikan |
+| 558 | `high` | 1x | ✅ Ada | tinggi |
+| 559 | `higher` | 1x | ✅ Ada | tinggi |
+| 560 | `highest` | 1x | ✅ Ada | tinggi |
+| 561 | `hijab` | 2x | ✅ Ada | tudung / hijab |
+| 562 | `him` | 7x | ✅ Ada | dia (lelaki) |
+| 563 | `his` | 11x | ✅ Ada | miliknya / kepunyaan dia |
+| 564 | `holding` | 1x | ✅ Ada | tahan |
+| 565 | `home` | 2x | ✅ Ada | rumah / kediaman |
+| 566 | `honor` | 2x | ✅ Ada | menghormati / memuliakan |
+| 567 | `honorable` | 1x | ✅ Ada | mulia / terhormat |
+| 568 | `hope` | 7x | ✅ Ada | harapan / berharap |
+| 569 | `hopeful` | 2x | ✅ Ada | penuh harapan / menaruh harapan |
+| 570 | `hot` | 1x | ✅ Ada | panas / pedas |
+| 571 | `house` | 4x | ✅ Ada | rumah |
+| 572 | `houses` | 1x | ✅ Ada | rumah |
+| 573 | `how` | 31x | ✅ Ada | bagaimana / macam mana |
+| 574 | `how's` | 1x | ✅ Ada | bagaimana / apa khabar (singkatan 'how is') |
+| 575 | `hudaifi` | 1x | ✅ Ada | al-Hudaifi (nama Sheikh imam Masjid Nabawi) |
+| 576 | `huffaz` | 1x | ✅ Ada | para penghafal al-Quran |
+| 577 | `huge` | 2x | ✅ Ada | sangat besar |
+| 578 | `huh` | 1x | ✅ Ada | kan / bukan? |
+| 579 | `human` | 11x | ✅ Ada | manusia |
+| 580 | `humanitarians` | 1x | ✅ Ada | insan yang berjiwa kemanusiaan |
+| 581 | `humanity` | 2x | ✅ Ada | kemanusiaan |
+| 582 | `humankind` | 2x | ✅ Ada | umat manusia |
+| 583 | `humble` | 4x | ✅ Ada | tawaduk / rendah diri |
+| 584 | `humbled` | 1x | ✅ Ada | merendah diri / ditundukkan |
+| 585 | `hurting` | 1x | ✅ Ada | sakit hati |
+| 586 | `i` | 278x | ✅ Ada | saya / aku |
+| 587 | `i'd` | 2x | ✅ Ada | saya akan / saya mahu (singkatan 'I would/had') |
+| 588 | `i'll` | 3x | ✅ Ada | saya akan (singkatan 'I will') |
+| 589 | `i'm` | 52x | ✅ Ada | saya / saya sedang (singkatan 'I am') |
+| 590 | `i've` | 7x | ✅ Ada | saya telah / saya dah (singkatan 'I have') |
+| 591 | `idea` | 1x | ✅ Ada | konsep / idea |
+| 592 | `identity` | 1x | ✅ Ada | identiti / jati diri |
+| 593 | `idha` | 1x | ✅ Ada | apabila / jika |
+| 594 | `if` | 60x | ✅ Ada | jika / kalau |
+| 595 | `ijaza` | 2x | ✅ Ada | ijazah sanad keilmuan |
+| 596 | `ila` | 2x | ✅ Ada | hingga / sampai |
+| 597 | `ilaha` | 3x | ✅ Ada | tuhan yang disembah |
+| 598 | `ill` | 1x | ✅ Ada | sakit / uzur |
+| 599 | `illa` | 5x | ✅ Ada | melainkan |
+| 600 | `illallah` | 3x | ✅ Ada | melainkan Allah |
+| 601 | `illuminata` | 1x | ✅ Ada | Illa man taba (potongan ayat al-Furqan) |
+| 602 | `imagine` | 7x | ✅ Ada | bayangkan |
+| 603 | `imam` | 6x | ✅ Ada | imam solat |
+| 604 | `imams` | 2x | ✅ Ada | para imam |
+| 605 | `iman` | 3x | ✅ Ada | iman / keimanan dan keyakinan |
+| 606 | `immediately` | 1x | ✅ Ada | serta-merta / serta merta |
+| 607 | `important` | 3x | ✅ Ada | penting |
+| 608 | `impress` | 2x | ✅ Ada | mengagumkan orang lain |
+| 609 | `in` | 111x | ✅ Ada | dalam / di dalam |
+| 610 | `included` | 1x | ✅ Ada | termasuk |
+| 611 | `including` | 1x | ✅ Ada | termasuklah |
+| 612 | `income` | 1x | ✅ Ada | pendapatan / hasil kewangan |
+| 613 | `indallahi` | 1x | ✅ Ada | di sisi Allah |
+| 614 | `indeed` | 1x | ✅ Ada | sesungguhnya |
+| 615 | `indillah` | 1x | ✅ Ada | di sisi Allah / dari sisi Allah |
+| 616 | `indonesia` | 1x | ✅ Ada | negara Indonesia |
+| 617 | `inna` | 1x | ✅ Ada | sesungguhnya kami |
+| 618 | `innocent` | 1x | ✅ Ada | tidak bersalah / suci |
+| 619 | `inshallah` | 19x | ✅ Ada | insya-Allah |
+| 620 | `inside` | 2x | ✅ Ada | di dalam |
+| 621 | `instance` | 1x | ✅ Ada | situasi / keadaan |
+| 622 | `instances` | 1x | ✅ Ada | keadaan / peristiwa / contoh |
+| 623 | `instantly` | 1x | ✅ Ada | secara serta-merta |
+| 624 | `instead` | 1x | ✅ Ada | sebaliknya |
+| 625 | `instill` | 1x | ✅ Ada | menanamkan dalam jiwa |
+| 626 | `instruct` | 1x | ✅ Ada | menginstruksikan / memerintahkan |
+| 627 | `insult` | 1x | ✅ Ada | menghina / mencaci |
+| 628 | `intelligent` | 2x | ✅ Ada | bijak / pintar |
+| 629 | `intend` | 1x | ✅ Ada | berniat / berhasrat |
+| 630 | `intended` | 1x | ✅ Ada | berniat |
+| 631 | `intention` | 8x | ✅ Ada | niat di dalam hati |
+| 632 | `intentions` | 1x | ✅ Ada | niat |
+| 633 | `interact` | 5x | ✅ Ada | berinteraksi |
+| 634 | `interacted` | 2x | ✅ Ada | bergaul / berinteraksi |
+| 635 | `interaction` | 1x | ✅ Ada | interaksi / perhubungan |
+| 636 | `interactions` | 1x | ✅ Ada | interaksi-interaksi |
+| 637 | `interest` | 1x | ✅ Ada | minat / keazaman |
+| 638 | `interested` | 1x | ✅ Ada | minat |
+| 639 | `interesting` | 1x | ✅ Ada | minat |
+| 640 | `international` | 1x | ✅ Ada | antarabangsa |
+| 641 | `into` | 10x | ✅ Ada | ke dalam |
+| 642 | `introduce` | 1x | ✅ Ada | memperkenalkan |
+| 643 | `invite` | 2x | ✅ Ada | menjemput / mengajak |
+| 644 | `invited` | 1x | ✅ Ada | menjemput |
+| 645 | `involved` | 1x | ✅ Ada | terlibat |
+| 646 | `irrelevant` | 1x | ✅ Ada | tidak berkaitan / tidak penting |
+| 647 | `irritate` | 1x | ✅ Ada | menjengkelkan / menyakitkan hati |
+| 648 | `is` | 156x | ✅ Ada | adalah / ialah |
+| 649 | `isha` | 1x | ✅ Ada | isyak |
+| 650 | `islam` | 12x | ✅ Ada | agama Islam |
+| 651 | `isn't` | 2x | ✅ Ada | bukan / tidak (singkatan 'is not') |
+| 652 | `issue` | 3x | ✅ Ada | isu / persoalan |
+| 653 | `it` | 120x | ✅ Ada | ia / itu |
+| 654 | `it's` | 63x | ✅ Ada | ia adalah / itu (singkatan 'it is/has') |
+| 655 | `itching` | 1x | ✅ Ada | berasa gatal / berkobar-kobar hendak berkata |
+| 656 | `items` | 1x | ✅ Ada | item |
+| 657 | `itself` | 1x | ✅ Ada | dirinya sendiri / ia sendiri |
+| 658 | `izruha` | 1x | ✅ Ada | dosanya / beban dosanya |
+| 659 | `jabir` | 1x | ✅ Ada | Jabir (nama Sheikh Ali Jabir) |
+| 660 | `jahannam` | 1x | ✅ Ada | neraka (Jahannam) |
+| 661 | `janaha` | 1x | ✅ Ada | sayap |
+| 662 | `jannah` | 4x | ✅ Ada | syurga (Jannah) |
+| 663 | `jannatul` | 3x | ✅ Ada | syurga (Jannatul Firdaus) |
+| 664 | `jazakallahu` | 3x | ✅ Ada | semoga Allah membalasmu |
+| 665 | `jews` | 1x | ✅ Ada | kaum Yahudi |
+| 666 | `job` | 2x | ✅ Ada | pekerjaan / tugas |
+| 667 | `judge` | 1x | ✅ Ada | menghakimi / menilai |
+| 668 | `judgement` | 3x | ✅ Ada | penghakiman / pengadilan (hari kiamat) |
+| 669 | `judgment` | 1x | ✅ Ada | penghakiman / pertimbangan |
+| 670 | `just` | 29x | ✅ Ada | hanya / sekadar / baru saja |
+| 671 | `justice` | 1x | ✅ Ada | keadilan |
+| 672 | `justify` | 3x | ✅ Ada | menjustifikasikan / menghalalkan |
+| 673 | `kabidin` | 1x | ✅ Ada | kesusahan / kelelahan payah |
+| 674 | `kalb` | 4x | ✅ Ada | anjing |
+| 675 | `kalimatu` | 1x | ✅ Ada | kalimah / perkataan |
+| 676 | `kana` | 1x | ✅ Ada | adalah ia / keadaan |
+| 677 | `keep` | 4x | ✅ Ada | simpan / teruskan |
+| 678 | `keeps` | 2x | ✅ Ada | mengekalkan / menyimpan |
+| 679 | `khairan` | 3x | ✅ Ada | kebaikan |
+| 680 | `kids` | 3x | ✅ Ada | nak |
+| 681 | `kind` | 6x | ✅ Ada | jenis / baik hati |
+| 682 | `knew` | 3x | ✅ Ada | tahu / kenal |
+| 683 | `know` | 93x | ✅ Ada | tahu / kenal |
+| 684 | `known` | 3x | ✅ Ada | tahu / kenal |
+| 685 | `knows` | 16x | ✅ Ada | tahu / kenal |
+| 686 | `kulli` | 1x | ✅ Ada | setiap / seluruh |
+| 687 | `la` | 9x | ✅ Ada | tiada |
+| 688 | `lady` | 1x | ✅ Ada | wanita / wanita muda |
+| 689 | `lahu` | 1x | ✅ Ada | baginya / kepunyaannya |
+| 690 | `land` | 1x | ✅ Ada | tanah air / daratan |
+| 691 | `landslides` | 1x | ✅ Ada | tanah-tanah runtuh |
+| 692 | `language` | 1x | ✅ Ada | bahasa |
+| 693 | `last` | 3x | ✅ Ada | terakhir / lepas |
+| 694 | `lasting` | 1x | ✅ Ada | berpanjangan / berkekalan |
+| 695 | `later` | 1x | ✅ Ada | kemudian / nanti |
+| 696 | `lead` | 2x | ✅ Ada | membawa / memimpin |
+| 697 | `learn` | 5x | ✅ Ada | belajar |
+| 698 | `learned` | 4x | ✅ Ada | sudah belajar / dipelajari |
+| 699 | `least` | 1x | ✅ Ada | kecil / sedikit |
+| 700 | `leave` | 3x | ✅ Ada | tinggalkan / keluar |
+| 701 | `lectures` | 1x | ✅ Ada | ceramah-ceramah |
+| 702 | `left` | 5x | ✅ Ada | tinggalkan / keluar |
+| 703 | `legitimate` | 1x | ✅ Ada | sah / berdaftar rasmi |
+| 704 | `less` | 2x | ✅ Ada | kecil / sedikit |
+| 705 | `let` | 5x | ✅ Ada | biarkan / membenarkan |
+| 706 | `let's` | 8x | ✅ Ada | jom / marilah kita (singkatan 'let us') |
+| 707 | `level` | 3x | ✅ Ada | tahap / paras |
+| 708 | `lie` | 1x | ✅ Ada | baring / berbohong |
+| 709 | `lies` | 1x | ✅ Ada | baring / berbohong |
+| 710 | `life` | 17x | ✅ Ada | kehidupan |
+| 711 | `like` | 22x | ✅ Ada | suka / seperti |
+| 712 | `likes` | 10x | ✅ Ada | suka / seperti |
+| 713 | `liman` | 1x | ✅ Ada | bagi orang yang |
+| 714 | `line` | 1x | ✅ Ada | barisan / garisan |
+| 715 | `lines` | 1x | ✅ Ada | barisan |
+| 716 | `list` | 1x | ✅ Ada | senarai |
+| 717 | `listen` | 3x | ✅ Ada | dengar |
+| 718 | `listening` | 2x | ✅ Ada | dengar |
+| 719 | `little` | 14x | ✅ Ada | kecil / sedikit |
+| 720 | `live` | 5x | ✅ Ada | secara langsung / hidup |
+| 721 | `lives` | 2x | ✅ Ada | kehidupan |
+| 722 | `long` | 9x | ✅ Ada | panjang / lama |
+| 723 | `look` | 17x | ✅ Ada | tengok / kelihatan |
+| 724 | `looked` | 1x | ✅ Ada | tengok / kelihatan |
+| 725 | `looking` | 2x | ✅ Ada | tengok / kelihatan |
+| 726 | `looks` | 12x | ✅ Ada | tengok / kelihatan |
+| 727 | `lord` | 3x | ✅ Ada | Tuhan |
+| 728 | `lose` | 1x | ✅ Ada | hilang / kehilangan |
+| 729 | `loss` | 1x | ✅ Ada | kerugian / kehilangan |
+| 730 | `lost` | 2x | ✅ Ada | kalah |
+| 731 | `lot` | 12x | ✅ Ada | banyak |
+| 732 | `lots` | 3x | ✅ Ada | banyak |
+| 733 | `love` | 6x | ✅ Ada | suka sangat / sayang |
+| 734 | `lovely` | 1x | ✅ Ada | menyenangkan / indah |
+| 735 | `loves` | 1x | ✅ Ada | suka sangat / sayang |
+| 736 | `lowered` | 1x | ✅ Ada | menundukkan pandangan |
+| 737 | `made` | 11x | ✅ Ada | dibuat / menghasilkan |
+| 738 | `maghrib` | 2x | ✅ Ada | solat Maghrib |
+| 739 | `major` | 1x | ✅ Ada | besar / utama |
+| 740 | `make` | 18x | ✅ Ada | buat / menghasilkan |
+| 741 | `maker` | 1x | ✅ Ada | Pencipta |
+| 742 | `makes` | 4x | ✅ Ada | buat / menghasilkan |
+| 743 | `making` | 1x | ✅ Ada | sedang membuat |
+| 744 | `man` | 8x | ✅ Ada | lelaki / orang |
+| 745 | `man's` | 1x | ✅ Ada | kepunyaan manusia / milik seorang lelaki |
+| 746 | `many` | 20x | ✅ Ada | banyak |
+| 747 | `marked` | 1x | ✅ Ada | menandakan |
+| 748 | `married` | 2x | ✅ Ada | berkahwin |
+| 749 | `masajid` | 1x | ✅ Ada | masjid-masjid (jamak) |
+| 750 | `masha` | 19x | ✅ Ada | masya-Allah |
+| 751 | `masha'allah` | 3x | ✅ Ada | masya-Allah (kehendak Allah) |
+| 752 | `mashallah` | 6x | ✅ Ada | masya-Allah |
+| 753 | `masjid` | 12x | ✅ Ada | masjid / rumah ibadat |
+| 754 | `massive` | 1x | ✅ Ada | teramat besar / besar-besaran |
+| 755 | `material` | 1x | ✅ Ada | kebendaan / fizikal |
+| 756 | `matter` | 3x | ✅ Ada | hal / perkara penting |
+| 757 | `may` | 26x | ✅ Ada | semoga / moga-moga |
+| 758 | `maybe` | 7x | ✅ Ada | barangkali / mungkin |
+| 759 | `me` | 51x | ✅ Ada | saya / aku |
+| 760 | `mean` | 5x | ✅ Ada | maksud / berniat |
+| 761 | `meaning` | 2x | ✅ Ada | maksud / berniat |
+| 762 | `means` | 10x | ✅ Ada | maksud / berniat |
+| 763 | `mecca` | 6x | ✅ Ada | Kota Makkah |
+| 764 | `media` | 1x | ✅ Ada | sederhana |
+| 765 | `medication` | 1x | ✅ Ada | ubat-ubatan / rawatan ubat |
+| 766 | `meet` | 2x | ✅ Ada | bertemu / mencukupi |
+| 767 | `memorized` | 1x | ✅ Ada | menghafal |
+| 768 | `men` | 1x | ✅ Ada | lelaki (jamak) |
+| 769 | `mention` | 2x | ✅ Ada | menyebut / menyatakan |
+| 770 | `mentioned` | 1x | ✅ Ada | menyebut |
+| 771 | `merciful` | 1x | ✅ Ada | Maha Pengasih lagi Maha Penyayang |
+| 772 | `mercy` | 4x | ✅ Ada | rahmat |
+| 773 | `messed` | 1x | ✅ Ada | kacau bilau |
+| 774 | `method` | 1x | ✅ Ada | kaedah / cara |
+| 775 | `might` | 18x | ✅ Ada | mungkin / daya |
+| 776 | `million` | 1x | ✅ Ada | juta |
+| 777 | `min` | 2x | ✅ Ada | daripada |
+| 778 | `mind` | 6x | ✅ Ada | fikiran / minda |
+| 779 | `minds` | 1x | ✅ Ada | akal fikiran / minda |
+| 780 | `minor` | 2x | ✅ Ada | kecil |
+| 781 | `minute` | 1x | ✅ Ada | minit |
+| 782 | `mistake` | 1x | ✅ Ada | kesilapan / ralat |
+| 783 | `mistakes` | 3x | ✅ Ada | kesilapan-kesilapan |
+| 784 | `moment` | 4x | ✅ Ada | saat / ketika |
+| 785 | `moments` | 1x | ✅ Ada | seketika |
+| 786 | `money` | 2x | ✅ Ada | wang / duit |
+| 787 | `month` | 1x | ✅ Ada | bulan |
+| 788 | `morals` | 2x | ✅ Ada | akhlak / nilai murni |
+| 789 | `more` | 28x | ✅ Ada | lebih banyak |
+| 790 | `morning` | 1x | ✅ Ada | pagi |
+| 791 | `most` | 7x | ✅ Ada | paling banyak / kebanyakan |
+| 792 | `mothers` | 1x | ✅ Ada | para ibu |
+| 793 | `mountain` | 1x | ✅ Ada | gunung-ganang |
+| 794 | `mouth` | 1x | ✅ Ada | mulut |
+| 795 | `move` | 4x | ✅ Ada | bergerak / berpindah |
+| 796 | `movement` | 2x | ✅ Ada | pergerakan |
+| 797 | `moving` | 3x | ✅ Ada | sedang bergerak / berpindah |
+| 798 | `much` | 11x | ✅ Ada | banyak |
+| 799 | `mudslides` | 1x | ✅ Ada | tanah runtuh berlumpur |
+| 800 | `muhaddithin` | 1x | ✅ Ada | para ulama hadis |
+| 801 | `muhammad` | 2x | ✅ Ada | Nabi Muhammad SAW |
+| 802 | `multiply` | 1x | ✅ Ada | melipatgandakan |
+| 803 | `murdered` | 1x | ✅ Ada | dibunuh dengan kejam |
+| 804 | `music` | 3x | ✅ Ada | alunan muzik / lagu |
+| 805 | `muslim` | 2x | ✅ Ada | orang Islam / Muslim |
+| 806 | `muslims` | 5x | ✅ Ada | orang-orang Islam |
+| 807 | `must` | 4x | ✅ Ada | mesti / wajib |
+| 808 | `musta'an` | 6x | ✅ Ada | tempat memohon pertolongan |
+| 809 | `mustajabud` | 2x | ✅ Ada | yang dimakbulkan (doa) |
+| 810 | `mustard` | 1x | ✅ Ada | biji sawi |
+| 811 | `my` | 60x | ✅ Ada | saya punya / kepunyaan saya |
+| 812 | `myself` | 2x | ✅ Ada | diri saya sendiri |
+| 813 | `nabi` | 1x | ✅ Ada | Nabi / utusan Allah |
+| 814 | `nabiyina` | 1x | ✅ Ada | Nabi kita |
+| 815 | `nama` | 1x | ✅ Ada | tidur / tertidur |
+| 816 | `name` | 3x | ✅ Ada | nama |
+| 817 | `narration` | 1x | ✅ Ada | riwayat hadis / kisah |
+| 818 | `nasiya` | 1x | ✅ Ada | terlupa / lupa |
+| 819 | `need` | 30x | ✅ Ada | perlu / memerlukan |
+| 820 | `needed` | 1x | ✅ Ada | perlu / memerlukan |
+| 821 | `needs` | 2x | ✅ Ada | perlu / memerlukan |
+| 822 | `negative` | 5x | ✅ Ada | negatif / buruk |
+| 823 | `negatives` | 1x | ✅ Ada | negatif |
+| 824 | `nepal` | 2x | ✅ Ada | negara Nepal |
+| 825 | `never` | 7x | ✅ Ada | tidak pernah / tak pernah |
+| 826 | `news` | 1x | ✅ Ada | berita / khabar |
+| 827 | `next` | 3x | ✅ Ada | seterusnya / sebelah |
+| 828 | `ni'mal` | 5x | ✅ Ada | sebaik-baik |
+| 829 | `night` | 1x | ✅ Ada | malam |
+| 830 | `niya` | 1x | ✅ Ada | niat / keikhlasan hati |
+| 831 | `no` | 39x | ✅ Ada | tidak / tiada |
+| 832 | `noble` | 1x | ✅ Ada | mulia / berakhlak terpuji |
+| 833 | `nobody` | 2x | ✅ Ada | tiada sesiapa |
+| 834 | `noise` | 1x | ✅ Ada | bunyi bising / kekecohan |
+| 835 | `non` | 1x | ✅ Ada | bukan / tidak |
+| 836 | `none` | 1x | ✅ Ada | tiada satu pun |
+| 837 | `nonetheless` | 4x | ✅ Ada | walau bagaimanapun |
+| 838 | `north` | 1x | ✅ Ada | bahagian utara |
+| 839 | `not` | 76x | ✅ Ada | bukan / tidak |
+| 840 | `note` | 1x | ✅ Ada | nota / perkara penting |
+| 841 | `nothing` | 12x | ✅ Ada | tiada apa-apa |
+| 842 | `notice` | 4x | ✅ Ada | memerhatikan / menyedari |
+| 843 | `now` | 19x | ✅ Ada | sekarang |
+| 844 | `nowadays` | 2x | ✅ Ada | zaman sekarang / pada masa kini |
+| 845 | `nowhere` | 2x | ✅ Ada | tiada di mana-mana |
+| 846 | `number` | 2x | ✅ Ada | nombor / bilangan |
+| 847 | `numbers` | 1x | ✅ Ada | nombor |
+| 848 | `obligatory` | 1x | ✅ Ada | wajib / difardukan |
+| 849 | `obviously` | 1x | ✅ Ada | jelas sekali / sudah tentu |
+| 850 | `occupied` | 1x | ✅ Ada | menduduki |
+| 851 | `of` | 169x | ✅ Ada | daripada / tentang |
+| 852 | `off` | 8x | ✅ Ada | padam / mati / lepas |
+| 853 | `offended` | 1x | ✅ Ada | menyinggung perasaan |
+| 854 | `officiate` | 1x | ✅ Ada | merasmikan majlis |
+| 855 | `offspring` | 1x | ✅ Ada | anak keturunan |
+| 856 | `oh` | 10x | ✅ Ada | wahai / oh |
+| 857 | `okay` | 4x | ✅ Ada | baiklah / okey |
+| 858 | `old` | 1x | ✅ Ada | tua |
+| 859 | `older` | 1x | ✅ Ada | lama |
+| 860 | `on` | 45x | ✅ Ada | hidup / atas |
+| 861 | `once` | 2x | ✅ Ada | sekali / suatu ketika |
+| 862 | `one` | 37x | ✅ Ada | satu / seorang |
+| 863 | `ones` | 2x | ✅ Ada | yang itu (jamak) |
+| 864 | `online` | 1x | ✅ Ada | atas talian / alam maya |
+| 865 | `only` | 19x | ✅ Ada | hanya / sahaja |
+| 866 | `onto` | 1x | ✅ Ada | ke atas |
+| 867 | `open` | 7x | ✅ Ada | buka / terbuka |
+| 868 | `opinion` | 1x | ✅ Ada | pandangan / pendapat |
+| 869 | `opportunity` | 1x | ✅ Ada | peluang keemasan |
+| 870 | `opposite` | 3x | ✅ Ada | lawan / bertentangan |
+| 871 | `oppressed` | 1x | ✅ Ada | orang yang dizalimi |
+| 872 | `or` | 26x | ✅ Ada | atau |
+| 873 | `order` | 3x | ✅ Ada | susunan / ketenteraman / pesanan |
+| 874 | `organization` | 1x | ✅ Ada | penyusunan / organisasi |
+| 875 | `orphanages` | 1x | ✅ Ada | rumah-rumah anak yatim |
+| 876 | `other` | 13x | ✅ Ada | lain |
+| 877 | `others` | 6x | ✅ Ada | orang lain |
+| 878 | `otherwise` | 1x | ✅ Ada | sebaliknya |
+| 879 | `our` | 24x | ✅ Ada | kami punya / kita punya |
+| 880 | `ours` | 1x | ✅ Ada | kepunyaan kita |
+| 881 | `ourselves` | 1x | ✅ Ada | diri kita sendiri |
+| 882 | `out` | 17x | ✅ Ada | keluar / di luar |
+| 883 | `outshine` | 1x | ✅ Ada | mengatasi / melakar kecemerlangan lebih hebat |
+| 884 | `outside` | 3x | ✅ Ada | di luar |
+| 885 | `over` | 5x | ✅ Ada | atas / tamat / lebih |
+| 886 | `overheads` | 3x | ✅ Ada | kos operasi pengurusan / kos pentadbiran |
+| 887 | `own` | 2x | ✅ Ada | sendiri / memiliki |
+| 888 | `owners` | 1x | ✅ Ada | para pemilik |
+| 889 | `packed` | 1x | ✅ Ada | bungkus |
+| 890 | `palestine` | 4x | ✅ Ada | bumi Palestin |
+| 891 | `paracetamol` | 1x | ✅ Ada | ubat panadol / parasetamol |
+| 892 | `paradise` | 4x | ✅ Ada | syurga |
+| 893 | `particular` | 2x | ✅ Ada | tertentu / khusus |
+| 894 | `passes` | 1x | ✅ Ada | melepasi / pas |
+| 895 | `past` | 1x | ✅ Ada | masa lalu / zaman silam |
+| 896 | `peers` | 1x | ✅ Ada | rakan sebaya / teman-teman |
+| 897 | `penny` | 1x | ✅ Ada | satu sen / kepingan wang |
+| 898 | `people` | 40x | ✅ Ada | orang ramai / manusia |
+| 899 | `perhaps` | 5x | ✅ Ada | mungkin / barangkali |
+| 900 | `person` | 11x | ✅ Ada | orang / individu |
+| 901 | `pharmacy` | 1x | ✅ Ada | farmasi / kedai ubat |
+| 902 | `philippines` | 1x | ✅ Ada | filipina |
+| 903 | `photo` | 4x | ✅ Ada | gambar foto |
+| 904 | `photos` | 1x | ✅ Ada | foto |
+| 905 | `picture` | 3x | ✅ Ada | gambar / potret |
+| 906 | `piece` | 3x | ✅ Ada | seketul / sekeping |
+| 907 | `pig` | 4x | ✅ Ada | babi |
+| 908 | `pigs` | 1x | ✅ Ada | babi |
+| 909 | `pile` | 3x | ✅ Ada | bertimbun / menimbun |
+| 910 | `piling` | 1x | ✅ Ada | longgokan |
+| 911 | `pillar` | 6x | ✅ Ada | rukun / tonggak utama |
+| 912 | `pillars` | 1x | ✅ Ada | tiang |
+| 913 | `place` | 7x | ✅ Ada | tempat / kedudukan |
+| 914 | `places` | 2x | ✅ Ada | tempat |
+| 915 | `planning` | 1x | ✅ Ada | rancangan |
+| 916 | `platform` | 1x | ✅ Ada | platform media sosial |
+| 917 | `playing` | 1x | ✅ Ada | sedang bermain |
+| 918 | `please` | 2x | ✅ Ada | sila / tolong |
+| 919 | `pleased` | 2x | ✅ Ada | berasa reda / berpuas hati |
+| 920 | `pleasing` | 1x | ✅ Ada | tolonglah |
+| 921 | `pleasure` | 1x | ✅ Ada | keredhaan / kelazatan |
+| 922 | `point` | 7x | ✅ Ada | tujuan / makna |
+| 923 | `polite` | 1x | ✅ Ada | bersopan santun |
+| 924 | `politeness` | 1x | ✅ Ada | kesopanan / kesantunan budi pekerti |
+| 925 | `popularity` | 1x | ✅ Ada | populariti / kemasyhuran |
+| 926 | `pork` | 1x | ✅ Ada | daging babi |
+| 927 | `portion` | 2x | ✅ Ada | bahagian / habuan |
+| 928 | `position` | 2x | ✅ Ada | kedudukan / posisi |
+| 929 | `positive` | 2x | ✅ Ada | positif / membina |
+| 930 | `pounds` | 1x | ✅ Ada | pon |
+| 931 | `power` | 2x | ✅ Ada | kuasa / elektrik |
+| 932 | `pray` | 8x | ✅ Ada | berdoa / mendirikan solat |
+| 933 | `prayer` | 7x | ✅ Ada | solat / doa |
+| 934 | `prayers` | 2x | ✅ Ada | solat |
+| 935 | `preference` | 1x | ✅ Ada | keutamaan / pilihan lebih suka |
+| 936 | `pressure` | 1x | ✅ Ada | tekanan |
+| 937 | `pressurizing` | 1x | ✅ Ada | penuh tekanan / mendesak |
+| 938 | `pride` | 2x | ✅ Ada | sifat takbur / keangkuhan |
+| 939 | `pro` | 3x | ✅ Ada | menyokong teguh |
+| 940 | `probably` | 7x | ✅ Ada | mungkin / barangkali |
+| 941 | `problem` | 3x | ✅ Ada | masalah |
+| 942 | `project` | 3x | ✅ Ada | projek kebajikan |
+| 943 | `projects` | 1x | ✅ Ada | projek |
+| 944 | `promote` | 1x | ✅ Ada | mempromosikan / menaikkan |
+| 945 | `promoted` | 1x | ✅ Ada | dipromosikan |
+| 946 | `promotes` | 1x | ✅ Ada | menggalakkan / menyebarkan |
+| 947 | `promoting` | 1x | ✅ Ada | mempromosikan / mengangkat |
+| 948 | `pronounce` | 1x | ✅ Ada | menyebut / melafazkan |
+| 949 | `pronunciation` | 1x | ✅ Ada | sebutan perkataan |
+| 950 | `proper` | 2x | ✅ Ada | sempurna / wajar |
+| 951 | `prophet` | 4x | ✅ Ada | Nabi / Rasul |
+| 952 | `protect` | 2x | ✅ Ada | pelihara / lindungi |
+| 953 | `proud` | 2x | ✅ Ada | bangga |
+| 954 | `proudly` | 1x | ✅ Ada | dengan penuh bangga |
+| 955 | `prove` | 1x | ✅ Ada | membuktikan |
+| 956 | `public` | 1x | ✅ Ada | khalayak ramai / umum |
+| 957 | `punctured` | 1x | ✅ Ada | bocor / kempis semangat |
+| 958 | `punish` | 1x | ✅ Ada | menghukum / mengazab |
+| 959 | `punishment` | 1x | ✅ Ada | azab / hukuman |
+| 960 | `pure` | 2x | ✅ Ada | suci murni |
+| 961 | `purer` | 1x | ✅ Ada | lebih suci dan bersih |
+| 962 | `purest` | 1x | ✅ Ada | paling suci murni |
+| 963 | `push` | 1x | ✅ Ada | mendorong / mendesak |
+| 964 | `put` | 9x | ✅ Ada | letak / meletakkan |
+| 965 | `qaf` | 1x | ✅ Ada | huruf Qaf (dalam abjad Arab) |
+| 966 | `qalb` | 2x | ✅ Ada | hati nurani |
+| 967 | `qari` | 2x | ✅ Ada | qari pembaca al-Quran |
+| 968 | `qawli` | 1x | ✅ Ada | perkataanku |
+| 969 | `qiyamah` | 2x | ✅ Ada | Hari Kiamat |
+| 970 | `qiyamati` | 1x | ✅ Ada | hari kiamat |
+| 971 | `quality` | 1x | ✅ Ada | kualiti |
+| 972 | `quarter` | 1x | ✅ Ada | suku / satu perempat |
+| 973 | `qudsi` | 1x | ✅ Ada | hadis Qudsi |
+| 974 | `quenching` | 2x | ✅ Ada | menghilangkan dahaga |
+| 975 | `question` | 1x | ✅ Ada | soalan |
+| 976 | `quicker` | 1x | ✅ Ada | lebih cepat |
+| 977 | `quickly` | 1x | ✅ Ada | dengan pantas / cepat |
+| 978 | `quiet` | 1x | ✅ Ada | sunyi / senyap |
+| 979 | `quit` | 6x | ✅ Ada | berhenti / meninggalkan |
+| 980 | `quite` | 3x | ✅ Ada | agak / cukup |
+| 981 | `qulubikum` | 1x | ✅ Ada | hati-hati kamu sekalian |
+| 982 | `quran` | 9x | ✅ Ada | Al-Quran |
+| 983 | `quwwata` | 5x | ✅ Ada | kekuatan |
+| 984 | `rahman` | 2x | ✅ Ada | Maha Pemurah (ar-Rahman) |
+| 985 | `raising` | 3x | ✅ Ada | menaikkan |
+| 986 | `ramadan` | 1x | ✅ Ada | bulan Ramadan |
+| 987 | `ratbatin` | 1x | ✅ Ada | basah / segar |
+| 988 | `rather` | 1x | ✅ Ada | sebaliknya / agak |
+| 989 | `rays` | 1x | ✅ Ada | sinaran pancaran nur |
+| 990 | `reach` | 3x | ✅ Ada | mencapai / tiba |
+| 991 | `reaching` | 1x | ✅ Ada | mencapai / menghampiri |
+| 992 | `read` | 7x | ✅ Ada | membaca |
+| 993 | `readily` | 1x | ✅ Ada | dengan mudah / serta-merta |
+| 994 | `reading` | 1x | ✅ Ada | membaca |
+| 995 | `realize` | 5x | ✅ Ada | menyedari / insaf |
+| 996 | `realized` | 1x | ✅ Ada | sedar |
+| 997 | `realizing` | 1x | ✅ Ada | menyedari |
+| 998 | `really` | 6x | ✅ Ada | betul-betul / sungguh |
+| 999 | `reason` | 5x | ✅ Ada | sebab / alasan |
+| 1000 | `receive` | 2x | ✅ Ada | menerima |
+| 1001 | `reckon` | 1x | ✅ Ada | menganggap / berpendapat |
+| 1002 | `recognize` | 1x | ✅ Ada | mengenali / mengakui |
+| 1003 | `recognized` | 1x | ✅ Ada | mengenali |
+| 1004 | `regarding` | 1x | ✅ Ada | berkenaan / mengenai |
+| 1005 | `regret` | 4x | ✅ Ada | menyesal / penyesalan |
+| 1006 | `regretting` | 1x | ✅ Ada | menyesali perbuatan |
+| 1007 | `regularly` | 1x | ✅ Ada | secara konsisten / kerap |
+| 1008 | `relax` | 1x | ✅ Ada | berehat / santai |
+| 1009 | `religion` | 2x | ✅ Ada | agama |
+| 1010 | `remain` | 2x | ✅ Ada | kekal / terus berada |
+| 1011 | `remains` | 2x | ✅ Ada | kekal berada |
+| 1012 | `remember` | 2x | ✅ Ada | ingat / mengingati |
+| 1013 | `remind` | 4x | ✅ Ada | mengingatkan |
+| 1014 | `reminded` | 2x | ✅ Ada | ingatkan |
+| 1015 | `reminder` | 2x | ✅ Ada | peringatan / tazkirah |
+| 1016 | `remove` | 2x | ✅ Ada | menghapuskan / mengangkat |
+| 1017 | `removed` | 1x | ✅ Ada | keluarkan |
+| 1018 | `repented` | 1x | ✅ Ada | telah bertaubat |
+| 1019 | `reputation` | 1x | ✅ Ada | reputasi / nama baik |
+| 1020 | `requested` | 1x | ✅ Ada | permintaan |
+| 1021 | `resolution` | 1x | ✅ Ada | ketetapan azam |
+| 1022 | `resolve` | 1x | ✅ Ada | menyelesaikan / merungkaikan |
+| 1023 | `respect` | 5x | ✅ Ada | menghormati / rasa hormat |
+| 1024 | `respectful` | 1x | ✅ Ada | penuh hormat / bersopan |
+| 1025 | `responsibility` | 2x | ✅ Ada | tanggungjawab |
+| 1026 | `rest` | 1x | ✅ Ada | rehat / selebihnya |
+| 1027 | `restaurant` | 1x | ✅ Ada | restoran makanan |
+| 1028 | `result` | 4x | ✅ Ada | keputusan / hasil |
+| 1029 | `return` | 1x | ✅ Ada | kembali / kepulangan |
+| 1030 | `revelation` | 1x | ✅ Ada | wahyu ilahi |
+| 1031 | `reward` | 7x | ✅ Ada | ganjaran / pahala |
+| 1032 | `rewarded` | 1x | ✅ Ada | pahala |
+| 1033 | `right` | 32x | ✅ Ada | betul / kanan / tepat |
+| 1034 | `rock` | 1x | ✅ Ada | bintang rock / batu |
+| 1035 | `rotate` | 1x | ✅ Ada | bergilir-gilir |
+| 1036 | `rules` | 5x | ✅ Ada | peraturan |
+| 1037 | `rumor` | 1x | ✅ Ada | khabar angin / fitnah |
+| 1038 | `sad` | 2x | ✅ Ada | sedih / berduka |
+| 1039 | `sadaka` | 2x | ✅ Ada | sedekah |
+| 1040 | `sadaqat` | 2x | ✅ Ada | sedekah-sedekah |
+| 1041 | `said` | 18x | ✅ Ada | cakap / berkata |
+| 1042 | `salaam` | 2x | ✅ Ada | kesejahteraan / salam (Dar es Salaam) |
+| 1043 | `salah` | 6x | ✅ Ada | solat |
+| 1044 | `salamu` | 1x | ✅ Ada | salam sejahtera / keselamatan |
+| 1045 | `salatin` | 1x | ✅ Ada | solat fardu |
+| 1046 | `salatul` | 1x | ✅ Ada | solat |
+| 1047 | `sallallahu` | 6x | ✅ Ada | semoga Allah berselawat |
+| 1048 | `sama` | 1x | ✅ Ada | langit / awan |
+| 1049 | `same` | 9x | ✅ Ada | sama |
+| 1050 | `sat` | 1x | ✅ Ada | duduk |
+| 1051 | `save` | 1x | ✅ Ada | menyelamatkan |
+| 1052 | `saw` | 1x | ✅ Ada | lihat / nampak / tengok |
+| 1053 | `say` | 59x | ✅ Ada | cakap / berkata |
+| 1054 | `saying` | 15x | ✅ Ada | cakap / berkata |
+| 1055 | `says` | 28x | ✅ Ada | cakap / berkata |
+| 1056 | `sayyi'atan` | 1x | ✅ Ada | yang buruk / kemungkaran |
+| 1057 | `scale` | 9x | ✅ Ada | penimbang / skala |
+| 1058 | `scales` | 1x | ✅ Ada | neraca timbangan (mizan) |
+| 1059 | `scary` | 1x | ✅ Ada | menakutkan / menggerunkan |
+| 1060 | `scholars` | 2x | ✅ Ada | para ulama |
+| 1061 | `school` | 1x | ✅ Ada | sekolah |
+| 1062 | `scottish` | 1x | ✅ Ada | masyarakat Scotland |
+| 1063 | `seasons` | 1x | ✅ Ada | musim-musim |
+| 1064 | `seat` | 1x | ✅ Ada | pusat / tempat bertapak |
+| 1065 | `seated` | 1x | ✅ Ada | duduk di tempat |
+| 1066 | `second` | 3x | ✅ Ada | kedua / saat |
+| 1067 | `secondly` | 1x | ✅ Ada | keduanya / kedua |
+| 1068 | `secrets` | 2x | ✅ Ada | rahsia-rahsia tersembunyi |
+| 1069 | `see` | 20x | ✅ Ada | lihat / nampak / tengok |
+| 1070 | `seeds` | 1x | ✅ Ada | benih |
+| 1071 | `seeing` | 1x | ✅ Ada | lihat / nampak / tengok |
+| 1072 | `seek` | 9x | ✅ Ada | mencari / memohon |
+| 1073 | `seeking` | 3x | ✅ Ada | mendambakan / mencari |
+| 1074 | `seems` | 2x | ✅ Ada | nampak |
+| 1075 | `seen` | 3x | ✅ Ada | lihat / nampak / tengok |
+| 1076 | `sees` | 1x | ✅ Ada | lihat / nampak / tengok |
+| 1077 | `sending` | 1x | ✅ Ada | hantar |
+| 1078 | `sense` | 4x | ✅ Ada | deria / logik akal |
+| 1079 | `serious` | 4x | ✅ Ada | serius / bersungguh-sungguh |
+| 1080 | `serve` | 1x | ✅ Ada | berkhidmat untuk agama |
+| 1081 | `serving` | 1x | ✅ Ada | berkhidmat |
+| 1082 | `set` | 4x | ✅ Ada | tetapkan / satu set |
+| 1083 | `sex` | 3x | ✅ Ada | hubungan kelamin / jantina |
+| 1084 | `sha` | 2x | ✅ Ada | kehendak (in sha Allah) |
+| 1085 | `shadow` | 1x | ✅ Ada | bayang-bayang / sekatan halimunan |
+| 1086 | `shahada` | 2x | ✅ Ada | kalimah syahadah |
+| 1087 | `shaitan` | 6x | ✅ Ada | syaitan |
+| 1088 | `shake` | 3x | ✅ Ada | berjabat tangan / goncang |
+| 1089 | `shaken` | 1x | ✅ Ada | bersalaman |
+| 1090 | `shaking` | 1x | ✅ Ada | goncang |
+| 1091 | `shall` | 2x | ✅ Ada | pasti akan |
+| 1092 | `shapes` | 1x | ✅ Ada | bentuk |
+| 1093 | `shay` | 1x | ✅ Ada | sesuatu / sedikit pun |
+| 1094 | `shaytan` | 1x | ✅ Ada | syaitan / iblis |
+| 1095 | `she` | 3x | ✅ Ada | dia (wanita) |
+| 1096 | `sheikh` | 7x | ✅ Ada | syeikh / alim ulama |
+| 1097 | `shifa` | 1x | ✅ Ada | kesembuhan penawar |
+| 1098 | `shoe` | 1x | ✅ Ada | kasut |
+| 1099 | `short` | 1x | ✅ Ada | pendek / ringkas |
+| 1100 | `shortcoming` | 1x | ✅ Ada | kelemahan / kekurangan diri |
+| 1101 | `should` | 4x | ✅ Ada | patut / patutlah |
+| 1102 | `shouldn't` | 1x | ✅ Ada | tidak patut / jangan (singkatan 'should not') |
+| 1103 | `showing` | 2x | ✅ Ada | tunjuk / menunjukkan |
+| 1104 | `shukran` | 1x | ✅ Ada | terima kasih |
+| 1105 | `shut` | 1x | ✅ Ada | tutup / diam |
+| 1106 | `sick` | 2x | ✅ Ada | sakit |
+| 1107 | `sickness` | 1x | ✅ Ada | penyakit |
+| 1108 | `side` | 9x | ✅ Ada | tepi / sisi |
+| 1109 | `sign` | 6x | ✅ Ada | tanda / isyarat |
+| 1110 | `silliest` | 2x | ✅ Ada | paling bodoh / paling tidak masuk akal |
+| 1111 | `similar` | 1x | ✅ Ada | serupa / hampir sama |
+| 1112 | `similarly` | 1x | ✅ Ada | begitu juga / sama halnya |
+| 1113 | `simple` | 2x | ✅ Ada | mudah / ringkas |
+| 1114 | `simply` | 1x | ✅ Ada | semata-mata / secara mudah |
+| 1115 | `sin` | 12x | ✅ Ada | dosa |
+| 1116 | `sinful` | 2x | ✅ Ada | berdosa / penuh dengan dosa |
+| 1117 | `single` | 3x | ✅ Ada | satu / tunggal / bujang |
+| 1118 | `sinned` | 6x | ✅ Ada | melakukan dosa |
+| 1119 | `sinning` | 1x | ✅ Ada | melakukan maksiat / berbuat dosa |
+| 1120 | `sins` | 7x | ✅ Ada | dosa-dosa |
+| 1121 | `sir` | 2x | ✅ Ada | tuan pegawai |
+| 1122 | `sister` | 4x | ✅ Ada | saudara perempuan |
+| 1123 | `sisters` | 15x | ✅ Ada | saudari-saudari |
+| 1124 | `sit` | 2x | ✅ Ada | duduk |
+| 1125 | `sitting` | 7x | ✅ Ada | duduk |
+| 1126 | `sleeps` | 1x | ✅ Ada | tidur |
+| 1127 | `slept` | 1x | ✅ Ada | tidur |
+| 1128 | `slipped` | 2x | ✅ Ada | tergelincir |
+| 1129 | `slowly` | 1x | ✅ Ada | secara perlahan |
+| 1130 | `slumped` | 1x | ✅ Ada | jatuh merosot / lemah semangat |
+| 1131 | `small` | 2x | ✅ Ada | kecil |
+| 1132 | `smiling` | 1x | ✅ Ada | tersenyum |
+| 1133 | `smoked` | 1x | ✅ Ada | asap / merokok |
+| 1134 | `smoking` | 1x | ✅ Ada | merokok |
+| 1135 | `so` | 76x | ✅ Ada | jadi / sangat |
+| 1136 | `social` | 1x | ✅ Ada | sosial |
+| 1137 | `society` | 1x | ✅ Ada | masyarakat |
+| 1138 | `some` | 24x | ✅ Ada | beberapa / sedikit |
+| 1139 | `someone` | 16x | ✅ Ada | seseorang |
+| 1140 | `something` | 35x | ✅ Ada | sesuatu |
+| 1141 | `sometimes` | 16x | ✅ Ada | kadang-kadang |
+| 1142 | `somewhere` | 1x | ✅ Ada | di suatu tempat |
+| 1143 | `soon` | 1x | ✅ Ada | sebentar lagi |
+| 1144 | `sorry` | 1x | ✅ Ada | maaf / memohon maaf |
+| 1145 | `sought` | 1x | ✅ Ada | mencari (past tense) |
+| 1146 | `soul` | 2x | ✅ Ada | jiwa |
+| 1147 | `space` | 1x | ✅ Ada | ruang |
+| 1148 | `speak` | 2x | ✅ Ada | bercakap |
+| 1149 | `speaks` | 1x | ✅ Ada | bercakap |
+| 1150 | `spending` | 1x | ✅ Ada | luangkan / belanjakan |
+| 1151 | `split` | 1x | ✅ Ada | memecahbelahkan |
+| 1152 | `spoiled` | 1x | ✅ Ada | merosakkan / memanjakan |
+| 1153 | `spread` | 1x | ✅ Ada | menyebarkan / menularkan |
+| 1154 | `stampeding` | 2x | ✅ Ada | rempuhan / berasak-asak tolak-menolak |
+| 1155 | `standing` | 3x | ✅ Ada | sedang berdiri |
+| 1156 | `star` | 1x | ✅ Ada | bintang ternama |
+| 1157 | `start` | 11x | ✅ Ada | mula / memulakan |
+| 1158 | `started` | 4x | ✅ Ada | sudah bermula |
+| 1159 | `starts` | 1x | ✅ Ada | mula / memulakan |
+| 1160 | `state` | 2x | ✅ Ada | menyatakan / keadaan |
+| 1161 | `statement` | 4x | ✅ Ada | kenyataan / ulasan |
+| 1162 | `stations` | 1x | ✅ Ada | stesen |
+| 1163 | `status` | 2x | ✅ Ada | kedudukan / status |
+| 1164 | `still` | 5x | ✅ Ada | masih / tenang |
+| 1165 | `stood` | 1x | ✅ Ada | berdiri |
+| 1166 | `stop` | 1x | ✅ Ada | berhenti |
+| 1167 | `stopped` | 3x | ✅ Ada | berhenti |
+| 1168 | `straight` | 1x | ✅ Ada | lurus |
+| 1169 | `street` | 1x | ✅ Ada | jalan raya |
+| 1170 | `strength` | 1x | ✅ Ada | kekuatan |
+| 1171 | `strengthen` | 4x | ✅ Ada | mengukuhkan / memperkuat |
+| 1172 | `stronger` | 1x | ✅ Ada | kuat |
+| 1173 | `strongly` | 1x | ✅ Ada | dengan tegas / bersungguh-sungguh |
+| 1174 | `struggles` | 1x | ✅ Ada | cabaran-cabaran hidup |
+| 1175 | `struggling` | 5x | ✅ Ada | sedang bergelut |
+| 1176 | `subhanahu` | 3x | ✅ Ada | Maha Suci Dia |
+| 1177 | `subhanallah` | 5x | ✅ Ada | Maha Suci Allah |
+| 1178 | `successful` | 3x | ✅ Ada | beroleh kejayaan |
+| 1179 | `such` | 6x | ✅ Ada | seperti / sedemikian rupa |
+| 1180 | `sudais` | 1x | ✅ Ada | al-Sudais (Imam Mekah) |
+| 1181 | `suddenly` | 2x | ✅ Ada | tiba-tiba |
+| 1182 | `suffering` | 1x | ✅ Ada | menderita |
+| 1183 | `sujud` | 1x | ✅ Ada | bersujud / tunduk menyembah Allah |
+| 1184 | `sunna` | 1x | ✅ Ada | memulakan sunnah / contoh ikutan |
+| 1185 | `sunnah` | 1x | ✅ Ada | Sunnah Rasulullah SAW |
+| 1186 | `sunnatan` | 1x | ✅ Ada | suatu sunnah / teladan ikutan |
+| 1187 | `supplication` | 1x | ✅ Ada | doa permohonan |
+| 1188 | `supposed` | 2x | ✅ Ada | andaikan |
+| 1189 | `surat` | 1x | ✅ Ada | surah (dalam al-Quran) |
+| 1190 | `sure` | 7x | ✅ Ada | pasti / tentu |
+| 1191 | `surely` | 2x | ✅ Ada | sesungguhnya pasti |
+| 1192 | `surplus` | 1x | ✅ Ada | lebihan rezeki |
+| 1193 | `survival` | 1x | ✅ Ada | kelangsungan hidup |
+| 1194 | `sweating` | 2x | ✅ Ada | peluh |
+| 1195 | `ta'ala` | 3x | ✅ Ada | Maha Tinggi |
+| 1196 | `tabarak` | 1x | ✅ Ada | Maha Suci / Maha Berkat |
+| 1197 | `tahajjud` | 1x | ✅ Ada | solat Tahajjud |
+| 1198 | `tajweed` | 1x | ✅ Ada | hukum tajwid bacaan Quran |
+| 1199 | `takbir` | 1x | ✅ Ada | takbir (Allahu Akbar) |
+| 1200 | `take` | 6x | ✅ Ada | ambil / memerlukan masa |
+| 1201 | `taken` | 1x | ✅ Ada | ambil / memerlukan masa |
+| 1202 | `takes` | 2x | ✅ Ada | ambil / memerlukan masa |
+| 1203 | `talk` | 10x | ✅ Ada | bercakap / berborak |
+| 1204 | `talks` | 1x | ✅ Ada | bercakap / berborak |
+| 1205 | `tamper` | 1x | ✅ Ada | mengusik / memanipulasi |
+| 1206 | `tap` | 1x | ✅ Ada | paip air / mengetuk perlahan |
+| 1207 | `taps` | 1x | ✅ Ada | ketuk |
+| 1208 | `tarawih` | 3x | ✅ Ada | solat sunat Tarawih |
+| 1209 | `taste` | 1x | ✅ Ada | rasa di lidah |
+| 1210 | `tastes` | 2x | ✅ Ada | rasa |
+| 1211 | `taught` | 3x | ✅ Ada | diajar |
+| 1212 | `teach` | 2x | ✅ Ada | mengajar / mendidik |
+| 1213 | `teacher` | 3x | ✅ Ada | guru pendidik |
+| 1214 | `teaches` | 1x | ✅ Ada | mengajar |
+| 1215 | `teams` | 1x | ✅ Ada | pasukan |
+| 1216 | `technical` | 1x | ✅ Ada | teknikal |
+| 1217 | `teenagers` | 1x | ✅ Ada | remaja-remaja |
+| 1218 | `tell` | 21x | ✅ Ada | beritahu / khabarkan |
+| 1219 | `telling` | 6x | ✅ Ada | memberitahu |
+| 1220 | `tells` | 3x | ✅ Ada | beritahu / khabarkan |
+| 1221 | `tend` | 1x | ✅ Ada | cenderung |
+| 1222 | `term` | 1x | ✅ Ada | istilah / perkataan |
+| 1223 | `than` | 20x | ✅ Ada | daripada |
+| 1224 | `thank` | 2x | ✅ Ada | terima kasih |
+| 1225 | `that` | 145x | ✅ Ada | itu / yang |
+| 1226 | `that's` | 34x | ✅ Ada | itu adalah / itu (singkatan 'that is') |
+| 1227 | `the` | 365x | ✅ Ada | kata penentu (itu / si) |
+| 1228 | `their` | 10x | ✅ Ada | mereka punya / kepunyaan mereka |
+| 1229 | `them` | 25x | ✅ Ada | mereka |
+| 1230 | `theme` | 1x | ✅ Ada | tema utama |
+| 1231 | `then` | 12x | ✅ Ada | kemudian / waktu itu |
+| 1232 | `theories` | 2x | ✅ Ada | teori-teori andaian |
+| 1233 | `there` | 60x | ✅ Ada | di sana / ada |
+| 1234 | `there's` | 8x | ✅ Ada | ada / terdapat (singkatan 'there is') |
+| 1235 | `thereafter` | 1x | ✅ Ada | selepas daripada itu / kemudiannya |
+| 1236 | `these` | 9x | ✅ Ada | semua ini |
+| 1237 | `they` | 82x | ✅ Ada | mereka |
+| 1238 | `they're` | 10x | ✅ Ada | mereka adalah / mereka (singkatan 'they are') |
+| 1239 | `thing` | 11x | ✅ Ada | benda / perkara |
+| 1240 | `things` | 16x | ✅ Ada | benda-benda / perkara-perkara |
+| 1241 | `think` | 8x | ✅ Ada | fikir / berfikir |
+| 1242 | `thinking` | 1x | ✅ Ada | fikir / berfikir |
+| 1243 | `third` | 4x | ✅ Ada | ketiga |
+| 1244 | `thirst` | 1x | ✅ Ada | kehausan / dahaga |
+| 1245 | `this` | 48x | ✅ Ada | ini |
+| 1246 | `those` | 26x | ✅ Ada | semua itu |
+| 1247 | `though` | 4x | ✅ Ada | walaupun / biarpun |
+| 1248 | `thought` | 2x | ✅ Ada | fikir / berfikir |
+| 1249 | `three` | 7x | ✅ Ada | tiga |
+| 1250 | `through` | 1x | ✅ Ada | melalui / merentasi |
+| 1251 | `throw` | 1x | ✅ Ada | melempar / mencampakkan |
+| 1252 | `time` | 19x | ✅ Ada | masa / waktu |
+| 1253 | `times` | 7x | ✅ Ada | masa / waktu |
+| 1254 | `tip` | 2x | ✅ Ada | mencondongkan timbangan |
+| 1255 | `tipped` | 1x | ✅ Ada | condong / terbalik timbangan |
+| 1256 | `tipping` | 1x | ✅ Ada | mencondongkan timbangan / pemberian tip |
+| 1257 | `tips` | 1x | ✅ Ada | tip |
+| 1258 | `to` | 333x | ✅ Ada | ke / untuk |
+| 1259 | `today` | 10x | ✅ Ada | hari ini |
+| 1260 | `together` | 5x | ✅ Ada | bersama-sama |
+| 1261 | `told` | 7x | ✅ Ada | memberitahu |
+| 1262 | `tone` | 1x | ✅ Ada | nada suara |
+| 1263 | `tonight` | 2x | ✅ Ada | malam ini |
+| 1264 | `too` | 1x | ✅ Ada | juga / terlalu |
+| 1265 | `took` | 3x | ✅ Ada | mengambil / telah ambil |
+| 1266 | `topic` | 2x | ✅ Ada | tajuk / topik perbincangan |
+| 1267 | `tortured` | 1x | ✅ Ada | diseksa dengan zalim |
+| 1268 | `touch` | 1x | ✅ Ada | menyentuh / mengambil |
+| 1269 | `touched` | 2x | ✅ Ada | sentuh |
+| 1270 | `tour` | 1x | ✅ Ada | jelajah jelajahan |
+| 1271 | `towards` | 4x | ✅ Ada | ke arah / terhadap |
+| 1272 | `translate` | 1x | ✅ Ada | menterjemahkan |
+| 1273 | `treat` | 2x | ✅ Ada | melayan / memperlakukan |
+| 1274 | `treated` | 1x | ✅ Ada | dilayan dengan baik |
+| 1275 | `trends` | 1x | ✅ Ada | trend ikutan semasa |
+| 1276 | `tricky` | 1x | ✅ Ada | rumit / sukar / sensitif |
+| 1277 | `tried` | 1x | ✅ Ada | cuba / mencuba |
+| 1278 | `true` | 6x | ✅ Ada | benar |
+| 1279 | `trust` | 1x | ✅ Ada | percaya / amanah |
+| 1280 | `truth` | 1x | ✅ Ada | kebenaran |
+| 1281 | `try` | 1x | ✅ Ada | cuba / mencuba |
+| 1282 | `trying` | 6x | ✅ Ada | cuba / mencuba |
+| 1283 | `tsunamis` | 1x | ✅ Ada | gelombang tsunami |
+| 1284 | `tune` | 3x | ✅ Ada | alunan lagu / rentak taranum |
+| 1285 | `turn` | 2x | ✅ Ada | pusing / hidupkan (turn on) |
+| 1286 | `twice` | 1x | ✅ Ada | dua kali |
+| 1287 | `two` | 8x | ✅ Ada | dua |
+| 1288 | `type` | 1x | ✅ Ada | jenis / ragam |
+| 1289 | `uh` | 2x | ✅ Ada | err / uh |
+| 1290 | `uk` | 1x | ✅ Ada | United Kingdom (UK) |
+| 1291 | `ultimate` | 1x | ✅ Ada | mutlak / kemuncak |
+| 1292 | `ummah` | 4x | ✅ Ada | ummah / umat Islam |
+| 1293 | `umrah` | 2x | ✅ Ada | ibadah umrah |
+| 1294 | `unapologetically` | 1x | ✅ Ada | tanpa sekelumit rasa malu / dengan bangga |
+| 1295 | `uncle` | 1x | ✅ Ada | pak cik |
+| 1296 | `understand` | 1x | ✅ Ada | faham / memahami |
+| 1297 | `unfair` | 1x | ✅ Ada | tidak adil |
+| 1298 | `unfortunately` | 1x | ✅ Ada | malangnya / sayangnya |
+| 1299 | `unimaginable` | 1x | ✅ Ada | tidak terbayangkan dek akal |
+| 1300 | `university` | 1x | ✅ Ada | institusi universiti |
+| 1301 | `unknown` | 1x | ✅ Ada | dirahsiakan / tidak diketahui |
+| 1302 | `unless` | 3x | ✅ Ada | melainkan / kecuali |
+| 1303 | `until` | 2x | ✅ Ada | sehingga / sampai |
+| 1304 | `unto` | 2x | ✅ Ada | kepada / menuju ke arah |
+| 1305 | `unwell` | 1x | ✅ Ada | tidak sihat / uzur |
+| 1306 | `up` | 25x | ✅ Ada | atas / naik |
+| 1307 | `upright` | 1x | ✅ Ada | istiqamah / teguh berprinsip lurus |
+| 1308 | `upset` | 3x | ✅ Ada | kecewa / marah |
+| 1309 | `urida` | 1x | ✅ Ada | diniatkan / dimaksudkan |
+| 1310 | `us` | 38x | ✅ Ada | kami / kita |
+| 1311 | `use` | 6x | ✅ Ada | guna / menggunakan |
+| 1312 | `used` | 11x | ✅ Ada | digunakan / pernah |
+| 1313 | `values` | 2x | ✅ Ada | nilai-nilai murni |
+| 1314 | `various` | 1x | ✅ Ada | pelbagai jenis |
+| 1315 | `verse` | 1x | ✅ Ada | ayat (Al-Quran) |
+| 1316 | `very` | 23x | ✅ Ada | sangat / amat |
+| 1317 | `victim` | 1x | ✅ Ada | mangsa |
+| 1318 | `video` | 1x | ✅ Ada | video / rakaman visual |
+| 1319 | `village` | 1x | ✅ Ada | kampung / perkampungan |
+| 1320 | `virtue` | 4x | ✅ Ada | fadilat keutamaan |
+| 1321 | `visit` | 1x | ✅ Ada | menziarahi / melawat |
+| 1322 | `voice` | 1x | ✅ Ada | suara / nada percakapan |
+| 1323 | `wa` | 12x | ✅ Ada | dan |
+| 1324 | `waiting` | 1x | ✅ Ada | tunggu |
+| 1325 | `wakeel` | 4x | ✅ Ada | wakil / pelindung (Al-Wakil) |
+| 1326 | `wakil` | 1x | ✅ Ada | Maha Memelihara |
+| 1327 | `wala` | 7x | ✅ Ada | dan tiada |
+| 1328 | `walakin` | 1x | ✅ Ada | akan tetapi / namun demikian |
+| 1329 | `walk` | 4x | ✅ Ada | berjalan |
+| 1330 | `walked` | 3x | ✅ Ada | berjalan |
+| 1331 | `walking` | 1x | ✅ Ada | berjalan |
+| 1332 | `walks` | 1x | ✅ Ada | berjalan-jalan |
+| 1333 | `wallahi` | 9x | ✅ Ada | demi Allah |
+| 1334 | `want` | 41x | ✅ Ada | mahu / nak |
+| 1335 | `wanted` | 5x | ✅ Ada | mahu / nak |
+| 1336 | `wants` | 1x | ✅ Ada | mahu / nak |
+| 1337 | `waqf` | 3x | ✅ Ada | harta wakaf |
+| 1338 | `war` | 1x | ✅ Ada | peperangan |
+| 1339 | `warfare` | 1x | ✅ Ada | peperangan / pertempuran bersenjata |
+| 1340 | `warmth` | 2x | ✅ Ada | kehangatan kasih sayang |
+| 1341 | `was` | 32x | ✅ Ada | adalah / dulu berada |
+| 1342 | `wasallam` | 5x | ✅ Ada | dan kesejahteraan ke atas baginda |
+| 1343 | `wasn't` | 1x | ✅ Ada | bukan / tidak (singkatan 'was not') |
+| 1344 | `watch` | 1x | ✅ Ada | tonton / tengok / jam tangan |
+| 1345 | `watching` | 1x | ✅ Ada | sedang menonton |
+| 1346 | `water` | 16x | ✅ Ada | air |
+| 1347 | `way` | 14x | ✅ Ada | jalan / cara |
+| 1348 | `ways` | 2x | ✅ Ada | jalan / cara |
+| 1349 | `we` | 149x | ✅ Ada | kami / kita |
+| 1350 | `we're` | 7x | ✅ Ada | kami / kita sedang (singkatan 'we are') |
+| 1351 | `we've` | 5x | ✅ Ada | kami telah / kita dah (singkatan 'we have') |
+| 1352 | `weak` | 3x | ✅ Ada | lemah |
+| 1353 | `weakness` | 3x | ✅ Ada | kelemahan |
+| 1354 | `weaknesses` | 2x | ✅ Ada | kelemahan-kelemahan |
+| 1355 | `wealth` | 1x | ✅ Ada | kekayaan |
+| 1356 | `wear` | 1x | ✅ Ada | memakai pakaian |
+| 1357 | `weather` | 3x | ✅ Ada | keadaan cuaca |
+| 1358 | `wedding` | 3x | ✅ Ada | berkahwin |
+| 1359 | `weddings` | 1x | ✅ Ada | perkahwinan |
+| 1360 | `weed` | 5x | ✅ Ada | ganja / rumpai |
+| 1361 | `weeks` | 1x | ✅ Ada | minggu |
+| 1362 | `weight` | 3x | ✅ Ada | berat |
+| 1363 | `welcome` | 1x | ✅ Ada | selamat datang |
+| 1364 | `well` | 7x | ✅ Ada | baiklah / elok / telaga |
+| 1365 | `went` | 16x | ✅ Ada | telah pergi |
+| 1366 | `were` | 25x | ✅ Ada | adalah / dulu berada |
+| 1367 | `whacking` | 1x | ✅ Ada | menyerang bertubi-tubi / memukul laju |
+| 1368 | `what` | 103x | ✅ Ada | apa / apakah |
+| 1369 | `what's` | 12x | ✅ Ada | apa / apakah (singkatan 'what is/has') |
+| 1370 | `whatever` | 8x | ✅ Ada | apa jua / apa-apa pun |
+| 1371 | `when` | 49x | ✅ Ada | bila / apabila |
+| 1372 | `where` | 6x | ✅ Ada | di mana |
+| 1373 | `wherever` | 1x | ✅ Ada | di mana jua |
+| 1374 | `whether` | 2x | ✅ Ada | sama ada |
+| 1375 | `which` | 18x | ✅ Ada | yang mana |
+| 1376 | `while` | 2x | ✅ Ada | sementara / semasa |
+| 1377 | `who` | 43x | ✅ Ada | siapa / orang yang |
+| 1378 | `who's` | 1x | ✅ Ada | siapa / siapakah (singkatan 'who is/has') |
+| 1379 | `whoever` | 8x | ✅ Ada | sesiapa sahaja |
+| 1380 | `whoever's` | 1x | ✅ Ada | sesiapa sahaja yang punya |
+| 1381 | `whole` | 5x | ✅ Ada | seluruh / keseluruhan |
+| 1382 | `whom` | 3x | ✅ Ada | siapa / yang mana |
+| 1383 | `whose` | 2x | ✅ Ada | yang mana / milik siapa |
+| 1384 | `why` | 32x | ✅ Ada | mengapa / kenapa |
+| 1385 | `will` | 72x | ✅ Ada | akan |
+| 1386 | `willing` | 2x | ✅ Ada | akan |
+| 1387 | `windows` | 3x | ✅ Ada | tingkap |
+| 1388 | `wipe` | 1x | ✅ Ada | menyapu / memadamkan |
+| 1389 | `wiped` | 2x | ✅ Ada | lap |
+| 1390 | `with` | 50x | ✅ Ada | dengan / bersama |
+| 1391 | `within` | 2x | ✅ Ada | dalam lingkungan / di dalam |
+| 1392 | `without` | 3x | ✅ Ada | tanpa |
+| 1393 | `witness` | 1x | ✅ Ada | menyaksikan / melihat |
+| 1394 | `wizru` | 1x | ✅ Ada | dosa / bebanan dosa |
+| 1395 | `woman` | 2x | ✅ Ada | wanita / perempuan |
+| 1396 | `won't` | 2x | ✅ Ada | tidak akan / takkan (singkatan 'will not') |
+| 1397 | `wonder` | 2x | ✅ Ada | tertanya-tanya / keajaiban |
+| 1398 | `wonderful` | 3x | ✅ Ada | hebat / luar biasa |
+| 1399 | `wonders` | 1x | ✅ Ada | tertanya-tanya / keajaiban |
+| 1400 | `word` | 4x | ✅ Ada | perkataan |
+| 1401 | `work` | 7x | ✅ Ada | kerja / berfungsi |
+| 1402 | `worked` | 1x | ✅ Ada | kerja / berfungsi |
+| 1403 | `working` | 1x | ✅ Ada | sedang berfungsi / bekerja |
+| 1404 | `world` | 4x | ✅ Ada | dunia |
+| 1405 | `worried` | 3x | ✅ Ada | risau |
+| 1406 | `worry` | 2x | ✅ Ada | bimbang / risau |
+| 1407 | `worshipping` | 1x | ✅ Ada | menyembah Allah |
+| 1408 | `worships` | 1x | ✅ Ada | beribadah |
+| 1409 | `worst` | 2x | ✅ Ada | teruk / buruk |
+| 1410 | `worth` | 3x | ✅ Ada | bernilai |
+| 1411 | `would` | 20x | ✅ Ada | akan / sudi |
+| 1412 | `wouldn't` | 3x | ✅ Ada | tidak akan / takkan (singkatan 'would not') |
+| 1413 | `wow` | 1x | ✅ Ada | wah (kagum) |
+| 1414 | `write` | 7x | ✅ Ada | mencatatkan / menulis |
+| 1415 | `wrong` | 11x | ✅ Ada | salah |
+| 1416 | `wronged` | 1x | ✅ Ada | dianiayai / dizalimi |
+| 1417 | `wudu` | 1x | ✅ Ada | wuduk bersuci |
+| 1418 | `yanqusu` | 1x | ✅ Ada | berkurang / menyusut |
+| 1419 | `yanzuru` | 1x | ✅ Ada | memandang / melihat |
+| 1420 | `yaswa` | 1x | ✅ Ada | bernilai / setaraf |
+| 1421 | `yawmil` | 1x | ✅ Ada | pada hari (hari kiamat) |
+| 1422 | `yeah` | 1x | ✅ Ada | ya / betul |
+| 1423 | `year` | 3x | ✅ Ada | tahun |
+| 1424 | `years` | 3x | ✅ Ada | tahun |
+| 1425 | `yes` | 7x | ✅ Ada | ya |
+| 1426 | `yesterday` | 3x | ✅ Ada | semalam / kelmarin |
+| 1427 | `you` | 403x | ✅ Ada | awak / anda |
+| 1428 | `you're` | 18x | ✅ Ada | anda / awak adalah (singkatan 'you are') |
+| 1429 | `you've` | 3x | ✅ Ada | anda telah / awak dah (singkatan 'you have') |
+| 1430 | `young` | 6x | ✅ Ada | muda |
+| 1431 | `younger` | 1x | ✅ Ada | muda |
+| 1432 | `youngsters` | 3x | ✅ Ada | anak-anak muda |
+| 1433 | `your` | 77x | ✅ Ada | awak punya / anda punya |
+| 1434 | `yourself` | 3x | ✅ Ada | diri anda |
+| 1435 | `youth` | 1x | ✅ Ada | masa muda |
+| 1436 | `yunus` | 1x | ✅ Ada | Yunus (nama jemaah) |
+| 1437 | `yusalliha` | 1x | ✅ Ada | hendaklah dia mendirikannya (solat) |
+| 1438 | `zakat` | 3x | ✅ Ada | ibadah zakat |
+| 1439 | `zakawat` | 1x | ✅ Ada | zakat-zakat (jamak) |
+| 1440 | `zamzam` | 7x | ✅ Ada | air zamzam |
+| 1441 | `zero` | 1x | ✅ Ada | sifar / kosong |
+| 1442 | `zimbabwe` | 2x | ✅ Ada | Zimbabwe (negara) |
+| 1443 | `zina` | 1x | ✅ Ada | perbuatan zina |
+| 1444 | `zionist` | 1x | ✅ Ada | fahaman zionis |
+| 1445 | `zionistic` | 1x | ✅ Ada | bersifat zionis / menyokong fahaman zionis |
 
 ---
 
-### 💬 Bahagian 1B: Senarai Kosa Kata Frasa / "Vocarb Ayat" (Collocations & Phrases - 277 Frasa)
-Senarai ungkapan dua perkataan atau lebih (*collocations*, *phrasal verbs*, simpulan bahasa) dalam video ceramah khas ini yang didaftarkan ke dalam kamus frasa (*phraseDictionary.ts*). Ciri ini membolehkan paparan dwipetak (*tooltip*) di mana apabila pengguna menekan perkataan di dalam frasa ini, sistem memaparkan maksud keseluruhan frasa mengikut konteks perbualan:
+### 💬 Bahagian 1B: Kosa Kata Frasa, Ungkapan & Collocations (363 Frasa)
 
-| No | Frasa / Vocarb Ayat (English) | Kekerapan | Maksud Bahasa Melayu (BM) |
-|:---:|:---|:---:|:---|
-| 1 | `a little` | 12x | agak / sedikit |
-| 2 | `a little bit` | 1x | sedikit / sikit |
-| 3 | `a lot` | 6x | banyak |
-| 4 | `a lot of` | 5x | banyak / pelbagai |
-| 5 | `a very good` | 2x | yang sangat baik |
-| 6 | `according to` | 1x | menurut / mengikut kenyataan |
-| 7 | `air conditioning` | 1x | penghawa dingin |
-| 8 | `all of a sudden` | 1x | secara tiba-tiba / mendadak |
-| 9 | `all these` | 1x | semua ini |
-| 10 | `allahu musta'an` | 1x | hanya kepada Allah tempat memohon pertolongan |
-| 11 | `allowed to` | 3x | dibenarkan untuk |
-| 12 | `are all` | 2x | adalah semua |
-| 13 | `are going` | 2x | sedang pergi |
-| 14 | `are many` | 1x | adalah banyak |
-| 15 | `are sitting` | 3x | sedang duduk |
-| 16 | `are some` | 2x | adalah beberapa |
-| 17 | `are very` | 2x | adalah sangat |
-| 18 | `are you` | 5x | adakah awak |
-| 19 | `as long as` | 3x | selagi mana / asalkan memenuhi |
-| 20 | `ask for` | 3x | meminta pertolongan / meminta |
-| 21 | `ask you a question` | 1x | mengajukan soalan kepada anda |
-| 22 | `asked for` | 1x | diminta |
-| 23 | `at least` | 1x | sekurang-kurangnya |
-| 24 | `at the end` | 2x | di penghujung / di akhir |
-| 25 | `at the same time` | 2x | pada masa yang sama |
-| 26 | `be able to` | 1x | mampu untuk melakukan |
-| 27 | `bear in mind` | 1x | ingatlah dalam fikiran / sematkan di hati |
-| 28 | `because i` | 6x | kerana saya |
-| 29 | `because of` | 7x | disebabkan oleh |
-| 30 | `because we` | 4x | kerana kita |
-| 31 | `big deal` | 2x | masalah besar |
-| 32 | `but now` | 1x | tapi sekarang |
-| 33 | `but they` | 1x | tetapi mereka |
-| 34 | `but you` | 6x | tapi awak |
-| 35 | `came back` | 1x | telah pulang / kembali |
-| 36 | `came in` | 1x | telah masuk ke dalam |
-| 37 | `can you` | 3x | boleh awak |
-| 38 | `care of` | 2x | menjaga |
-| 39 | `carry on` | 2x | teruskan perjalanan / teruskan usaha |
-| 40 | `close to` | 2x | berdekatan dengan |
-| 41 | `come around` | 1x | datanglah |
-| 42 | `come forward` | 1x | tampil ke hadapan menyumbang |
-| 43 | `come on` | 2x | ayuh / berpada-padalah |
-| 44 | `come to` | 5x | datang ke |
-| 45 | `comes to` | 2x | datang ke |
-| 46 | `comes up` | 1x | timbul |
-| 47 | `could you` | 2x | boleh awak |
-| 48 | `day in day out` | 1x | siang dan malam / hari demi hari |
-| 49 | `day of judgment` | 2x | hari kiamat / hari pembalasan |
-| 50 | `day of qiyamah` | 1x | hari kiamat |
-| 51 | `deal with` | 1x | menangani masalah / menguruskan hal |
-| 52 | `did you` | 9x | adakah awak |
-| 53 | `dress code` | 1x | etika menutup aurat / tatacara berpakaian |
-| 54 | `each other` | 1x | antara satu sama lain |
-| 55 | `end up` | 1x | akhirnya menjadi / berkesudahan di |
-| 56 | `every day` | 5x | setiap hari |
-| 57 | `feel bad` | 1x | berasa kecil hati / tersinggung |
-| 58 | `feel happy` | 1x | rasa gembira |
-| 59 | `feel like` | 1x | rasa macam |
-| 60 | `for example` | 2x | sebagai contoh / misalannya |
-| 61 | `for you to` | 1x | untuk anda |
-| 62 | `free of charge` | 1x | percuma tanpa sebarang bayaran |
-| 63 | `get into` | 3x | masuk ke dalam / mula meminati |
-| 64 | `get to` | 1x | sampai ke |
-| 65 | `get up` | 2x | bangun (dari tempat tidur / duduk) |
-| 66 | `gift aid` | 1x | bantuan pelepasan cukai derma (Gift Aid) |
-| 67 | `give advice` | 1x | memberikan nasihat yang berguna |
-| 68 | `give up` | 1x | berputus asa / mengalah |
-| 69 | `give you` | 4x | berikan awak |
-| 70 | `go in` | 1x | masuk ke dalam |
-| 71 | `go on` | 1x | meneruskan / berlaku / apa sedang jadi |
-| 72 | `go through` | 1x | melalui proses / meneliti |
-| 73 | `go to` | 5x | pergi ke / menuju ke |
-| 74 | `goes on` | 2x | berterusan |
-| 75 | `goes to` | 1x | pergi ke |
-| 76 | `going on` | 1x | sedang berlaku / sedang terjadi |
-| 77 | `going through` | 1x | sedang melalui |
-| 78 | `going to` | 13x | akan / sedang menuju ke |
-| 79 | `going up` | 1x | naik |
-| 80 | `good morning` | 1x | selamat pagi |
-| 81 | `guess what` | 11x | cuba teka apa |
-| 82 | `has been` | 1x | telah |
-| 83 | `hasbunallahu wa ni'mal wakil` | 1x | cukuplah Allah bagi kami dan Dia sebaik-baik pelindung |
-| 84 | `have to` | 14x | kena / perlu / terpaksa |
-| 85 | `have you` | 1x | ada awak |
-| 86 | `he said` | 2x | katanya |
-| 87 | `head over heels` | 1x | jatuh cinta teramat sangat / tergila-gila |
-| 88 | `heard of` | 1x | didengari |
-| 89 | `here are` | 1x | di sini adalah |
-| 90 | `house of allah` | 1x | rumah Allah / masjid |
-| 91 | `how are` | 1x | apa khabar |
-| 92 | `how does` | 1x | bagaimanakah |
-| 93 | `how many` | 6x | berapa ramai |
-| 94 | `how much` | 1x | berapa banyak |
-| 95 | `how to` | 2x | cara untuk / bagaimana nak |
-| 96 | `i always` | 4x | saya selalu |
-| 97 | `i believe` | 3x | saya percaya |
-| 98 | `i could` | 1x | saya boleh |
-| 99 | `i mean` | 1x | maksud saya ialah |
-| 100 | `i think` | 3x | saya rasa |
-| 101 | `i thought` | 1x | saya fikir |
-| 102 | `i would` | 6x | saya akan |
-| 103 | `if they` | 4x | jika mereka |
-| 104 | `if you want to` | 1x | jika anda mahu |
-| 105 | `in fact` | 1x | malah / sebenarnya pada hakikatnya |
-| 106 | `innama ya'rifu` | 1x | sesungguhnya hanya mengenali keutamaan |
-| 107 | `instead of` | 1x | daripada / berbanding melakukan |
-| 108 | `is up` | 1x | sudah bangun |
-| 109 | `just like` | 1x | sama seperti |
-| 110 | `kalb means dog` | 1x | kalb bermaksud anjing |
-| 111 | `kind of` | 2x | agak / macam |
-| 112 | `know if` | 1x | tahu jika |
-| 113 | `know what` | 20x | tahu apa |
-| 114 | `left side` | 2x | sebelah kiri |
-| 115 | `let alone` | 1x | apatah lagi / jauh sekali |
-| 116 | `lie down` | 1x | baring / baringkan badan |
-| 117 | `like to` | 3x | suka |
-| 118 | `like you` | 2x | macam awak |
-| 119 | `listen to` | 2x | mendengar kepada |
-| 120 | `listening to` | 2x | sedang mendengar |
-| 121 | `little bit` | 1x | sikit-sikit |
-| 122 | `live in` | 1x | tinggal menetap di |
-| 123 | `look at` | 5x | melihat kepada / meneliti |
-| 124 | `look for` | 1x | cari / mencari |
-| 125 | `look over` | 1x | memeriksa sepintas lalu / meneliti |
-| 126 | `looking at` | 1x | sedang melihat kepada |
-| 127 | `looking for` | 1x | sedang mencari |
-| 128 | `make excuses` | 1x | mencari-cari alasan |
-| 129 | `make it easy` | 2x | memudahkan urusan |
-| 130 | `make sure` | 4x | pastikan |
-| 131 | `might be` | 3x | mungkin |
-| 132 | `more or less` | 1x | lebih kurang / anggaran kasar |
-| 133 | `more than` | 4x | lebih daripada |
-| 134 | `move on` | 2x | teruskan |
-| 135 | `move on to` | 1x | teruskan ke |
-| 136 | `mustajab ud-dawah` | 1x | doa yang sentiasa dimakbulkan Allah |
-| 137 | `my brother` | 3x | abang saya |
-| 138 | `my brothers and sisters` | 1x | saudara-saudaraku sekalian |
-| 139 | `my life` | 3x | hidup saya |
-| 140 | `my name` | 1x | nama saya |
-| 141 | `need to` | 10x | perlu |
-| 142 | `needed to` | 1x | diperlukan untuk |
-| 143 | `needs to` | 2x | perlu |
-| 144 | `next to` | 1x | di sebelah / bersebelahan |
-| 145 | `not at all` | 2x | sama sekali tidak / tidak mengapa |
-| 146 | `not going` | 3x | tidak pergi |
-| 147 | `not like` | 3x | tidak suka |
-| 148 | `on earth` | 2x | di atas muka bumi ini |
-| 149 | `one another` | 2x | satu sama lain (kelompok ramai) |
-| 150 | `or something` | 3x | atau sesuatu |
-| 151 | `out of` | 2x | keluar dari / kehabisan |
-| 152 | `over there` | 1x | di sebelah sana |
-| 153 | `people are` | 2x | orang adalah |
-| 154 | `point of` | 1x | titik |
-| 155 | `pretty good` | 2x | cukup bagus |
-| 156 | `qalb means heart` | 1x | qalb bermaksud hati |
-| 157 | `rest of` | 1x | selebihnya |
-| 158 | `right now` | 1x | sekarang juga |
-| 159 | `rock star` | 1x | bintang terkenal / selebriti masyhur |
-| 160 | `sallallahu alayhi wa sallam` | 1x | semoga Allah melimpahkan selawat dan salam ke atasnya |
-| 161 | `sat down` | 2x | telah duduk |
-| 162 | `say it in` | 1x | katakan dalam |
-| 163 | `say what` | 1x | cakap apa |
-| 164 | `saying kalb` | 1x | menyebut perkataan anjing |
-| 165 | `see what` | 2x | tengok apa |
-| 166 | `seek forgiveness` | 1x | memohon keampunan daripada Allah |
-| 167 | `seems to` | 1x | nampaknya |
-| 168 | `shadow banning` | 1x | sekatan halimunan di media sosial |
-| 169 | `shake hands` | 1x | bersalaman tangan |
-| 170 | `should i` | 1x | patutkah saya |
-| 171 | `side by side` | 1x | bersebelahan / bergandingan |
-| 172 | `sit down` | 2x | duduk berbincang |
-| 173 | `sitting in` | 1x | duduk dalam |
-| 174 | `so many` | 6x | begitu ramai |
-| 175 | `social media` | 1x | media sosial |
-| 176 | `some people` | 3x | beberapa orang |
-| 177 | `something i` | 3x | sesuatu i |
-| 178 | `standing up` | 1x | sedang berdiri |
-| 179 | `start to` | 1x | mula ke |
-| 180 | `start with` | 1x | mulakan dengan |
-| 181 | `starting to` | 1x | bermula untuk |
-| 182 | `stay in` | 1x | duduk di rumah / kekal di dalam |
-| 183 | `step by step` | 1x | langkah demi langkah / beransur-ansur |
-| 184 | `take care` | 2x | jaga diri / hati-hati |
-| 185 | `take care of` | 2x | menjaga / menguruskan |
-| 186 | `take out` | 1x | keluarkan / buang |
-| 187 | `take pictures` | 1x | mengambil foto / gambar |
-| 188 | `talk about` | 4x | bercakap tentang / bercerita pasal |
-| 189 | `talk to` | 1x | bercakap dengan |
-| 190 | `talking about` | 1x | bercakap tentang |
-| 191 | `tap water` | 1x | air paip mentah |
-| 192 | `tells you` | 1x | memberitahu anda |
-| 193 | `thank you` | 2x | terima kasih |
-| 194 | `thank you very much` | 2x | terima kasih banyak-banyak |
-| 195 | `then they` | 1x | kemudian mereka |
-| 196 | `then we` | 1x | kemudian kita |
-| 197 | `then you` | 2x | kemudian awak |
-| 198 | `there are` | 9x | ada / terdapat |
-| 199 | `there is` | 14x | ada / terdapat |
-| 200 | `there will be` | 3x | akan ada |
-| 201 | `they are` | 13x | mereka adalah |
-| 202 | `they do` | 2x | mereka lakukan |
-| 203 | `they have` | 3x | mereka ada |
-| 204 | `they want` | 2x | mereka mahu |
-| 205 | `they were` | 6x | mereka |
-| 206 | `they would` | 1x | mereka akan |
-| 207 | `think i` | 1x | fikir i |
-| 208 | `think of` | 1x | memikirkan tentang / teringat |
-| 209 | `think they` | 1x | fikir mereka |
-| 210 | `think we` | 1x | fikir kita |
-| 211 | `think you` | 1x | fikir awak |
-| 212 | `those are` | 1x | itu adalah |
-| 213 | `tip the scale` | 1x | memberatkan neraca timbangan |
-| 214 | `tip the scales` | 1x | memberatkan daun neraca timbangan |
-| 215 | `told me` | 2x | memberitahu saya |
-| 216 | `tried to` | 1x | cuba untuk |
-| 217 | `trip over` | 1x | tersasul lidah / tersilap langkah |
-| 218 | `try to` | 2x | cuba untuk |
-| 219 | `trying to` | 7x | cuba untuk |
-| 220 | `turn to` | 1x | berpaling kepada / merujuk |
-| 221 | `turned off` | 1x | telah dimatikan / ditutup |
-| 222 | `up and down` | 1x | atas dan bawah |
-| 223 | `up to` | 4x | sehingga / sampai |
-| 224 | `use it to` | 1x | gunakannya untuk |
-| 225 | `used to` | 8x | biasa / pernah |
-| 226 | `very good` | 3x | sangat baik |
-| 227 | `very sad` | 1x | sangat sedih |
-| 228 | `waiting for` | 1x | sedang menantikan |
-| 229 | `walk out` | 1x | berjalan keluar |
-| 230 | `walking down` | 1x | sedang berjalan menyusuri |
-| 231 | `want me to` | 1x | mahu saya |
-| 232 | `want to` | 32x | mahu |
-| 233 | `want you` | 1x | mahu awak |
-| 234 | `want you to` | 1x | mahu anda |
-| 235 | `wanted to` | 7x | mahu |
-| 236 | `wants to` | 1x | mahu |
-| 237 | `was like` | 1x | adalah seperti |
-| 238 | `we have` | 21x | kita ada |
-| 239 | `we just` | 1x | kita cuma |
-| 240 | `we need` | 2x | kita perlukan |
-| 241 | `we went` | 1x | kami pergi |
-| 242 | `we were` | 1x | kami |
-| 243 | `went in` | 1x | telah masuk |
-| 244 | `went through` | 1x | telah melalui |
-| 245 | `went to` | 8x | telah pergi ke |
-| 246 | `what are` | 2x | apa yang |
-| 247 | `what did` | 6x | apa yang dilakukan |
-| 248 | `what do` | 5x | buat apa |
-| 249 | `what does` | 3x | apa yang dilakukan |
-| 250 | `what you` | 4x | apa awak |
-| 251 | `when we` | 6x | apabila kita |
-| 252 | `when you` | 19x | apabila anda |
-| 253 | `where i` | 1x | di mana i |
-| 254 | `which i` | 1x | yang i |
-| 255 | `will be` | 7x | akan menjadi |
-| 256 | `would be` | 5x | akan menjadi |
-| 257 | `would you` | 1x | adakah anda |
-| 258 | `you are` | 19x | awak adalah |
-| 259 | `you ask` | 1x | awak tanya |
-| 260 | `you can` | 11x | awak boleh |
-| 261 | `you feel` | 6x | awak rasa |
-| 262 | `you get` | 3x | awak dapat |
-| 263 | `you got` | 1x | awak dapat |
-| 264 | `you guys` | 1x | kamu semua |
-| 265 | `you have` | 21x | awak ada |
-| 266 | `you hear` | 1x | awak dengar |
-| 267 | `you just` | 1x | awak cuma |
-| 268 | `you know` | 54x | awak tahu / seperti yang anda tahu |
-| 269 | `you must` | 2x | anda mesti |
-| 270 | `you say` | 8x | awak cakap |
-| 271 | `you see` | 4x | awak nampak |
-| 272 | `you think` | 3x | anda fikir |
-| 273 | `you want` | 10x | awak nak |
-| 274 | `you will` | 6x | anda akan |
-| 275 | `you would` | 2x | anda akan |
-| 276 | `your left` | 1x | kiri anda |
-| 277 | `your name` | 2x | nama awak |
+Senarai frasa penting yang dikesan di dalam ucapan ini dan didaftarkan ke dalam *phraseDictionary.ts*:
+
+| No | Frasa (English) | Maksud Bahasa Melayu (BM) |
+|:---:|:---|:---|
+| 1 | `a little` | agak / sedikit |
+| 2 | `a little bit` | sedikit / sikit |
+| 3 | `a lot` | banyak |
+| 4 | `a lot of` | banyak / pelbagai |
+| 5 | `a piece of` | sekeping / secebis |
+| 6 | `a very good` | yang sangat baik |
+| 7 | `across the globe` | di seluruh pelosok dunia |
+| 8 | `air conditioning` | penghawa dingin |
+| 9 | `all over the world` | di seluruh dunia |
+| 10 | `all these` | semua ini |
+| 11 | `allahu musta'an` | hanya kepada Allah tempat memohon pertolongan |
+| 12 | `allowed to` | dibenarkan untuk |
+| 13 | `also see` | juga lihat |
+| 14 | `are all` | adalah semua |
+| 15 | `are going` | sedang pergi |
+| 16 | `are just` | adalah adil |
+| 17 | `are sitting` | sedang duduk |
+| 18 | `are some` | adalah beberapa |
+| 19 | `are very` | adalah sangat |
+| 20 | `are you` | adakah awak |
+| 21 | `as for` | adapun mengenai |
+| 22 | `as long as` | selagi mana / asalkan memenuhi |
+| 23 | `as well` | juga / sekali |
+| 24 | `ask you a question` | mengajukan soalan kepada anda |
+| 25 | `at least` | sekurang-kurangnya |
+| 26 | `at the back` | di belakang |
+| 27 | `at the end` | di penghujung / di akhir |
+| 28 | `at the same time` | pada masa yang sama |
+| 29 | `at this time` | pada kali ini |
+| 30 | `atom's weight` | seberat zarah |
+| 31 | `away from` | menjauhi daripada |
+| 32 | `be able to` | mampu untuk melakukan |
+| 33 | `be up` | bangun |
+| 34 | `bear in mind` | sentiasa sematkan dalam ingatan |
+| 35 | `because i` | kerana saya |
+| 36 | `because it's` | kerana ia adalah |
+| 37 | `because of` | disebabkan oleh |
+| 38 | `because we` | kerana kita |
+| 39 | `big deal` | masalah besar |
+| 40 | `brings us back` | memimpin kita kembali |
+| 41 | `but i'm` | tetapi saya |
+| 42 | `but it's` | tetapi ia adalah |
+| 43 | `but now` | tapi sekarang |
+| 44 | `but they` | tetapi mereka |
+| 45 | `but you` | tapi awak |
+| 46 | `came back` | telah pulang / kembali |
+| 47 | `came crashing` | runtuh menyembah bumi |
+| 48 | `came in` | telah masuk ke dalam |
+| 49 | `can you` | boleh awak |
+| 50 | `carry on` | teruskan perjalanan / teruskan usaha |
+| 51 | `close to` | berdekatan dengan |
+| 52 | `come back` | kembali semula |
+| 53 | `come in` | masuk ke dalam / silakan masuk |
+| 54 | `come on` | ayuh / berpada-padalah |
+| 55 | `come to` | datang ke |
+| 56 | `come true` | menjadi satu kenyataan impian |
+| 57 | `comes to` | datang ke |
+| 58 | `comes up` | timbul |
+| 59 | `day of judgment` | hari kiamat / hari pembalasan |
+| 60 | `day of qiyamah` | hari kiamat |
+| 61 | `deal with` | menangani masalah / menguruskan hal |
+| 62 | `decided to` | memutuskan untuk |
+| 63 | `did you` | adakah awak |
+| 64 | `didn't have` | tidak mempunyai |
+| 65 | `do with` | lakukan dengan |
+| 66 | `don't have` | tidak mempunyai |
+| 67 | `don't have to` | tidak perlu / tak payah |
+| 68 | `don't know` | tidak tahu |
+| 69 | `don't like` | tak suka |
+| 70 | `don't think` | jangan fikir |
+| 71 | `don't want` | tidak mahu |
+| 72 | `don't worry` | jangan bimbang / usah risau |
+| 73 | `dress code` | etika menutup aurat / tatacara berpakaian |
+| 74 | `duty of ours` | kewajipan bagi kita |
+| 75 | `each other` | antara satu sama lain |
+| 76 | `eating in` | makan dalam |
+| 77 | `end result` | matlamat / hasil akhir |
+| 78 | `end to` | berakhir kepada |
+| 79 | `end up` | akhirnya menjadi / berkesudahan di |
+| 80 | `every day` | setiap hari |
+| 81 | `falling in` | jatuh ke dalam |
+| 82 | `feel bad` | berasa kecil hati / tersinggung |
+| 83 | `feel happy` | rasa gembira |
+| 84 | `feel like` | rasa macam |
+| 85 | `filling up` | sedang mengisi hingga penuh |
+| 86 | `flicker of iman` | sekelumit sinar iman |
+| 87 | `for a long` | untuk masa yang lama |
+| 88 | `for example` | sebagai contoh / misalannya |
+| 89 | `for me to` | untuk saya |
+| 90 | `for us to` | untuk kita |
+| 91 | `for you to` | untuk anda |
+| 92 | `get in` | masuk (ke dalam rumah / kenderaan) |
+| 93 | `get into` | masuk ke dalam / mula meminati |
+| 94 | `get to` | sampai ke |
+| 95 | `get up` | bangun (dari tempat tidur / duduk) |
+| 96 | `getting in` | masuk |
+| 97 | `gift aid` | bantuan pelepasan cukai derma (Gift Aid) |
+| 98 | `give up` | berputus asa / mengalah |
+| 99 | `give you` | berikan awak |
+| 100 | `go around` | pergi sekeliling |
+| 101 | `go back` | pulang / kembali ke tempat asal |
+| 102 | `go back to` | kembali ke |
+| 103 | `go easy on` | berlemah-lembut sesama kamu |
+| 104 | `go from` | pergi dari |
+| 105 | `go in` | masuk ke dalam |
+| 106 | `go into` | masuk ke dalam |
+| 107 | `go on` | meneruskan / berlaku / apa sedang jadi |
+| 108 | `go to` | pergi ke / menuju ke |
+| 109 | `goes to` | pergi ke |
+| 110 | `going down` | akan turun |
+| 111 | `going on` | sedang berlaku / sedang terjadi |
+| 112 | `going to` | akan / sedang menuju ke |
+| 113 | `good enough` | cukup elok / memadai |
+| 114 | `good sign` | petanda yang baik |
+| 115 | `got to` | kena |
+| 116 | `got up` | telah bangun |
+| 117 | `guess what` | cuba teka apa |
+| 118 | `happened to` | berlaku kepada |
+| 119 | `hasbunallahu wa ni'mal wakil` | cukuplah Allah bagi kami dan Dia sebaik-baik pelindung |
+| 120 | `have some` | mempunyai beberapa |
+| 121 | `have to` | kena / perlu / terpaksa |
+| 122 | `have you` | ada awak |
+| 123 | `he said` | katanya |
+| 124 | `he would` | dia akan |
+| 125 | `heard of` | didengari |
+| 126 | `help you` | tolong awak |
+| 127 | `here are` | di sini adalah |
+| 128 | `here we` | di sini kita |
+| 129 | `house of allah` | rumah Allah / masjid |
+| 130 | `how are` | apa khabar |
+| 131 | `how many` | berapa ramai |
+| 132 | `how much` | berapa banyak |
+| 133 | `how to` | cara untuk / bagaimana nak |
+| 134 | `how would` | bagaimana akan |
+| 135 | `i always` | saya selalu |
+| 136 | `i believe` | saya percaya |
+| 137 | `i can't` | saya tidak boleh |
+| 138 | `i could` | saya boleh |
+| 139 | `i didn't` | saya tidak |
+| 140 | `i don't` | saya tidak |
+| 141 | `i mean` | maksud saya ialah |
+| 142 | `i really` | saya betul-betul |
+| 143 | `i think` | saya rasa |
+| 144 | `i thought` | saya fikir |
+| 145 | `i would` | saya akan |
+| 146 | `i'm going` | saya akan pergi |
+| 147 | `i'm like` | saya seperti |
+| 148 | `i'm not` | saya tidak |
+| 149 | `i'm sure` | saya pasti |
+| 150 | `if they` | jika mereka |
+| 151 | `if you're` | jika anda |
+| 152 | `in front of` | di hadapan / di depan |
+| 153 | `in one of` | dalam salah satu |
+| 154 | `in order to` | untuk tujuan / bagi membolehkan |
+| 155 | `in the back` | di belakang |
+| 156 | `in the background` | sebagai latar belakang |
+| 157 | `instead of` | daripada / berbanding melakukan |
+| 158 | `it's good` | ia bagus |
+| 159 | `it's not` | ia tidak |
+| 160 | `it's so` | memang begitu |
+| 161 | `it's very` | ia sangat |
+| 162 | `jazakallahu khairan` | semoga Allah membalasmu dengan kebaikan |
+| 163 | `just have` | hanya mempunyai |
+| 164 | `just like` | sama seperti |
+| 165 | `keep on` | terus menerus melakukan |
+| 166 | `know what` | tahu apa |
+| 167 | `led by` | diketuai oleh |
+| 168 | `left side` | sebelah kiri |
+| 169 | `let's go` | jom pergi / mari kita pergi |
+| 170 | `let's try` | jom cuba |
+| 171 | `lie down` | baring / baringkan badan |
+| 172 | `like of` | seperti daripada |
+| 173 | `like to` | suka |
+| 174 | `like you` | macam awak |
+| 175 | `listen to` | mendengar kepada |
+| 176 | `listening to` | sedang mendengar |
+| 177 | `little bit` | sikit-sikit |
+| 178 | `live in` | tinggal menetap di |
+| 179 | `look at` | melihat kepada / meneliti |
+| 180 | `look out` | berhati-hati / awas |
+| 181 | `look out for` | berwaspada terhadap / mengawasi |
+| 182 | `looking at` | sedang melihat kepada |
+| 183 | `looking for` | sedang mencari |
+| 184 | `lose hope` | berputus asa |
+| 185 | `lots of` | banyak |
+| 186 | `lowered our gaze` | menundukkan pandangan kami |
+| 187 | `make it easy` | memudahkan urusan |
+| 188 | `make sure` | pastikan |
+| 189 | `means in` | bermakna dalam |
+| 190 | `might be` | mungkin |
+| 191 | `more like` | lebih suka |
+| 192 | `more or less` | lebih kurang / anggaran kasar |
+| 193 | `more than` | lebih daripada |
+| 194 | `my brother` | abang saya |
+| 195 | `my brothers and sisters` | saudara-saudaraku sekalian |
+| 196 | `my life` | hidup saya |
+| 197 | `my name` | nama saya |
+| 198 | `need to` | perlu |
+| 199 | `needed to` | diperlukan untuk |
+| 200 | `needs to` | perlu |
+| 201 | `next to` | di sebelah / bersebelahan |
+| 202 | `not at all` | sama sekali tidak / tidak mengapa |
+| 203 | `not going` | tidak pergi |
+| 204 | `not like` | tidak suka |
+| 205 | `not really` | tidak sangat |
+| 206 | `now i'm` | sekarang saya |
+| 207 | `now we're` | sekarang kita |
+| 208 | `on earth` | di muka bumi |
+| 209 | `on the ground` | di lokasi kejadian / di lapangan |
+| 210 | `one more` | lagi satu |
+| 211 | `open the windows` | membuka tingkap |
+| 212 | `opposite sex` | jantina berlainan |
+| 213 | `or something` | atau sesuatu |
+| 214 | `order to` | pesanan kepada |
+| 215 | `out of` | keluar dari / kehabisan |
+| 216 | `people are` | orang adalah |
+| 217 | `point of` | titik |
+| 218 | `put them on` | letakkan mereka |
+| 219 | `put together` | mencantumkan / memasang / menyusun |
+| 220 | `quit this habit` | meninggalkan tabiat ini |
+| 221 | `reach out to` | menghulurkan bantuan kepada |
+| 222 | `really good` | sangat bagus |
+| 223 | `remain in charge` | kekal berkuasa |
+| 224 | `rest of` | selebihnya |
+| 225 | `right here` | di sebelah sini / betul-betul di sini |
+| 226 | `right now` | sekarang juga |
+| 227 | `right place` | tempat yang tepat |
+| 228 | `rock star` | bintang terkenal / selebriti masyhur |
+| 229 | `sallallahu alaihi wasallam` | selawat dan salam ke atas baginda |
+| 230 | `say it in` | katakan dalam |
+| 231 | `say to` | katakan kepada |
+| 232 | `say what` | cakap apa |
+| 233 | `saying i` | berkata i |
+| 234 | `saying in` | berkata dalam |
+| 235 | `saying kalb` | menyebut perkataan anjing |
+| 236 | `see what` | tengok apa |
+| 237 | `seek forgiveness` | memohon keampunan daripada Allah |
+| 238 | `seems to` | nampaknya |
+| 239 | `shadow banning` | sekatan halimunan di media sosial |
+| 240 | `shake hands` | bersalaman tangan |
+| 241 | `should i` | patutkah saya |
+| 242 | `shut off` | dipadamkan / ditutup |
+| 243 | `sitting in` | duduk dalam |
+| 244 | `slipped up` | terlanjur / tergelincir kesilapan |
+| 245 | `so far` | setakat ini |
+| 246 | `so many` | begitu ramai |
+| 247 | `social media` | media sosial |
+| 248 | `some people` | beberapa orang |
+| 249 | `something i` | sesuatu i |
+| 250 | `standing in` | berdiri dalam |
+| 251 | `start with` | mulakan dengan |
+| 252 | `started to` | mula untuk |
+| 253 | `stood up` | telah berdiri |
+| 254 | `subhanahu wa ta'ala` | Maha Suci lagi Maha Tinggi |
+| 255 | `take a guess` | cuba teka |
+| 256 | `take photos` | mengambil gambar |
+| 257 | `take you to` | membawa anda ke |
+| 258 | `talk about` | bercakap tentang / bercerita pasal |
+| 259 | `talk to` | bercakap dengan |
+| 260 | `tamper with` | memanipulasi / mengusik |
+| 261 | `tap water` | air paip mentah |
+| 262 | `tastes like` | rasa macam |
+| 263 | `tells you` | memberitahu anda |
+| 264 | `thank you` | terima kasih |
+| 265 | `thank you very much` | terima kasih banyak-banyak |
+| 266 | `that's just` | itu sahaja |
+| 267 | `that's what` | itulah yang |
+| 268 | `that's why` | sebab tu |
+| 269 | `then they` | kemudian mereka |
+| 270 | `then we` | kemudian kita |
+| 271 | `then you` | kemudian awak |
+| 272 | `there are` | ada / terdapat |
+| 273 | `there is` | ada / terdapat |
+| 274 | `there will be` | akan ada |
+| 275 | `there's no` | tidak ada |
+| 276 | `they are` | mereka adalah |
+| 277 | `they do` | mereka lakukan |
+| 278 | `they don't` | mereka tidak |
+| 279 | `they get` | mereka dapat |
+| 280 | `they have` | mereka ada |
+| 281 | `they use` | mereka gunakan |
+| 282 | `they want` | mereka mahu |
+| 283 | `they were` | mereka |
+| 284 | `they would` | mereka akan |
+| 285 | `thing i` | perkara i |
+| 286 | `think i` | fikir i |
+| 287 | `think it's` | fikir ia |
+| 288 | `think we` | fikir kita |
+| 289 | `think you` | fikir awak |
+| 290 | `those are` | itu adalah |
+| 291 | `tip the scale` | memberatkan neraca timbangan |
+| 292 | `told him` | memberitahunya |
+| 293 | `told me` | memberitahu saya |
+| 294 | `tried to` | cuba untuk |
+| 295 | `trying to` | cuba untuk |
+| 296 | `turn off` | padamkan / matikan (suis) |
+| 297 | `turn to` | berpaling kepada / merujuk |
+| 298 | `up to` | sehingga / sampai |
+| 299 | `use it to` | gunakannya untuk |
+| 300 | `used to` | biasa / pernah |
+| 301 | `very good` | sangat baik |
+| 302 | `very sad` | sangat sedih |
+| 303 | `waiting for` | sedang menantikan |
+| 304 | `walk away` | beredar / melangkah pergi |
+| 305 | `walk out` | berjalan keluar |
+| 306 | `walked in` | berjalan masuk |
+| 307 | `walking on` | berjalan terus |
+| 308 | `want me to` | mahu saya |
+| 309 | `want to` | mahu |
+| 310 | `want you` | mahu awak |
+| 311 | `want you to` | mahu anda |
+| 312 | `wanted to` | mahu |
+| 313 | `wants to` | mahu |
+| 314 | `was not` | tidak |
+| 315 | `watch out` | berjaga-jaga |
+| 316 | `we don't` | kita tidak |
+| 317 | `we have` | kita ada |
+| 318 | `we just` | kita cuma |
+| 319 | `we need` | kita perlukan |
+| 320 | `we went` | kami pergi |
+| 321 | `we were` | kami |
+| 322 | `went in` | telah masuk |
+| 323 | `went into` | masuk ke dalam |
+| 324 | `went through` | telah melalui |
+| 325 | `went to` | telah pergi ke |
+| 326 | `what are` | apa yang |
+| 327 | `what did` | apa yang dilakukan |
+| 328 | `what do` | buat apa |
+| 329 | `what does` | apa yang dilakukan |
+| 330 | `what you` | apa awak |
+| 331 | `when we` | apabila kita |
+| 332 | `when you` | apabila anda |
+| 333 | `where i` | di mana i |
+| 334 | `which i` | yang i |
+| 335 | `who knows` | siapa yang tahu |
+| 336 | `will be` | akan menjadi |
+| 337 | `wiped out` | dilenyapkan / dimusnahkan |
+| 338 | `worry about` | bimbang tentang |
+| 339 | `would be` | akan menjadi |
+| 340 | `would say` | akan berkata |
+| 341 | `would you` | adakah anda |
+| 342 | `you are` | awak adalah |
+| 343 | `you call` | awak panggil |
+| 344 | `you can` | awak boleh |
+| 345 | `you can't` | anda tidak boleh |
+| 346 | `you don't` | anda tidak |
+| 347 | `you feel` | awak rasa |
+| 348 | `you get` | awak dapat |
+| 349 | `you got` | awak dapat |
+| 350 | `you guys` | kamu semua |
+| 351 | `you have` | awak ada |
+| 352 | `you hear` | awak dengar |
+| 353 | `you just` | awak cuma |
+| 354 | `you know` | awak tahu / seperti yang anda tahu |
+| 355 | `you like` | awak suka |
+| 356 | `you must` | anda mesti |
+| 357 | `you say` | awak cakap |
+| 358 | `you see` | awak nampak |
+| 359 | `you think` | anda fikir |
+| 360 | `you want` | awak nak |
+| 361 | `you will` | anda akan |
+| 362 | `you would` | anda akan |
+| 363 | `your name` | nama awak |
 
 ---
 
-### 🧬 Bahagian 1C: Bentuk Asal Kosa Kata Tatabahasa (Base Form / Lemma & Inflections - 360 Bentuk Kata)
-Senarai perkataan berimbuhan tatabahasa dalam video ini (past tense, continuous -ing, past participle, bentuk jamak, atau kata kerja orang ketiga) yang dipetakan kepada perkataan asal (*base form / lemma*) berserta kategori tatabahasa dan maksudnya:
+### 🔤 Bahagian 1C: Kosa Kata Bentuk Asal & Tatabahasa (Base Forms - 351 Kata)
 
-| No | Perkataan dalam Video (Inflected Form) | Bentuk Asal (Base Form) | Kategori Tatabahasa | Maksud Bentuk Asal (BM) |
+Senarai pengesanan bentuk asal kata kerja/nama (inflection/lemmatization) dalam *baseFormDictionary.ts*:
+
+| No | Kata Terbitan (Inflected) | Kata Dasar (Base) | Kategori Tatabahasa | Maksud BM |
 |:---:|:---|:---|:---|:---|
 | 1 | `accepted` | `accept` | Past Tense (V2) | terima |
-| 2 | `accepting` | `accept` | Continuous / Gerund (-ing) | terima |
-| 3 | `according` | `accord` | Continuous / Gerund (-ing) | sepakat |
-| 4 | `acquiring` | `acquire` | Continuous / Gerund (-ing) | memperoleh |
-| 5 | `actions` | `action` | Kata Nama Jamak (Plural -s/-es) | tindakan / aksi |
-| 6 | `addicted` | `addict` | Past Tense / Participle (-ed) | penagih |
-| 7 | `addictions` | `addiction` | Noun (Plural) | ketagihan-ketagihan |
-| 8 | `algorithms` | `algorithm` | Kata Nama Jamak (Plural -s/-es) | algoritma |
-| 9 | `allowed` | `allow` | Past Participle (V3) | membenarkan / membolehkan |
-| 10 | `amazing` | `amaze` | Continuous / Gerund (-ing) | memukau |
-| 11 | `angels` | `angel` | Kata Nama Jamak (Plural -s/-es) | malaikat |
-| 12 | `animals` | `animal` | Kata Nama Jamak (Plural -s/-es) | haiwan |
-| 13 | `annoyed` | `annoy` | Past Participle (V3) | mengganggu |
-| 14 | `applies` | `apply` | Kata Kerja Present (-s/-es) | memohon |
-| 15 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
-| 16 | `arrived` | `arrive` | Past Tense (V2) | tiba |
-| 17 | `asked` | `ask` | Past Tense (V2) | bertanya |
-| 18 | `asking` | `ask` | Continuous / Gerund (-ing) | bertanya |
-| 19 | `based` | `base` | Past Participle (V3) | asas |
-| 20 | `been` | `be` | Past Participle (V3) | menjadi / berada |
-| 21 | `began` | `begin` | Past Tense (V2) | bermula |
-| 22 | `beginning` | `begin` | Continuous / Gerund (-ing) | bermula |
-| 23 | `beginnings` | `beginning` | Noun (Plural) | permulaan-permulaan |
-| 24 | `being` | `be` | Continuous / Gerund (-ing) | menjadi / berada |
-| 25 | `beings` | `being` | Kata Nama Jamak (Plural -s/-es) | makhluk / insan |
-| 26 | `believers` | `believer` | Plural Noun (-s) | orang-orang yang beriman |
-| 27 | `belongs` | `belong` | 3rd Person Singular (-s) | tergolong / kepunyaan |
-| 28 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
-| 29 | `better` | `good` | Perbandingan (Comparative -er) | baik / bagus |
-| 30 | `biggest` | `big` | Paling / Tertinggi (Superlative -est) | besar |
-| 31 | `bit` | `bite` | Past Participle (V3) | menggigit |
-| 32 | `blessings` | `blessing` | Kata Nama Jamak (Plural -s/-es) | keberkatan |
-| 33 | `bodies` | `body` | Noun (Plural) | tubuh-tubuh badan |
-| 34 | `boys` | `boy` | Kata Nama Jamak (Plural -s/-es) | budak lelaki |
-| 35 | `brings` | `bring` | Kata Kerja Present (-s/-es) | membawa |
-| 36 | `brothers` | `brother` | Kata Nama Jamak (Plural -s/-es) | abang |
-| 37 | `brought` | `bring` | Past Tense / Participle | membawa |
-| 38 | `buildings` | `building` | Kata Nama Jamak (Plural -s/-es) | bangunan |
-| 39 | `called` | `call` | Past Participle (V3) | panggil / hubungi |
-| 40 | `calls` | `call` | Kata Nama Jamak (Plural -s/-es) | panggil / hubungi |
-| 41 | `came` | `come` | Past Tense (V2) | datang / mari |
-| 42 | `cases` | `case` | Kata Nama Jamak (Plural -s/-es) | kes |
-| 43 | `challenges` | `challenge` | Noun (Plural) | cabaran-cabaran |
-| 44 | `challenging` | `challenge` | Continuous / Gerund (-ing) | cabaran |
-| 45 | `changed` | `change` | Past Tense (V2) | ubah / menukar |
-| 46 | `children` | `child` | Kata Nama Jamak (Plural Noun) | anak |
-| 47 | `claimed` | `claim` | Past Tense (V2) | tuntutan |
-| 48 | `clicks` | `click` | Noun (Plural) | klik-klik maya |
-| 49 | `closer` | `close` | Perbandingan (Comparative -er) | tutup / dekat |
-| 50 | `closest` | `close` | Paling / Tertinggi (Superlative -est) | tutup / dekat |
-| 51 | `clothes` | `clothe` | Kata Kerja Present (-s/-es) | pakaian |
-| 52 | `collapsed` | `collapse` | Verb (Past Tense) | runtuh menyembah bumi |
-| 53 | `combined` | `combine` | Past Participle (V3) | menggabungkan |
-| 54 | `comes` | `come` | Kata Kerja Present (-s/-es) | datang / mari |
-| 55 | `coming` | `come` | Continuous / Gerund (-ing) | datang / mari |
-| 56 | `committed` | `commit` | Past Tense (V2) | komited |
-| 57 | `complains` | `complain` | Verb (3rd Person Singular) | mengadu / merungut |
-| 58 | `completed` | `complete` | Past Participle (V3) | lengkap |
-| 59 | `complicated` | `complicate` | Past Participle (V3) | merumitkan |
-| 60 | `conditioning` | `condition` | Continuous / Gerund (-ing) | syarat |
-| 61 | `conferences` | `conference` | Noun (Plural) | persidangan-persidangan |
-| 62 | `confused` | `confuse` | Past Tense / Participle (-ed) | mengelirukan |
-| 63 | `connected` | `connect` | Past Participle (V3) | menyambung |
-| 64 | `considering` | `consider` | Continuous / Gerund (-ing) | pertimbangkan |
-| 65 | `considers` | `consider` | Verb (3rd Person Singular) | menganggap / menilai |
-| 66 | `consuming` | `consume` | Continuous / Gerund (-ing) | memakan |
-| 67 | `contains` | `contain` | Kata Kerja Present (-s/-es) | mengandungi |
-| 68 | `continued` | `continue` | Past Participle (V3) | teruskan / menyambung |
-| 69 | `continues` | `continue` | Kata Kerja Present (-s/-es) | teruskan / menyambung |
-| 70 | `continuing` | `continue` | Verb (Present Participle) | meneruskan perbuatan |
-| 71 | `contributes` | `contribute` | Verb (3rd Person Singular) | memberikan sumbangan |
-| 72 | `controlled` | `control` | Past Participle (V3) | kawalan |
-| 73 | `cooler` | `cool` | Adjective (Comparative) | lebih dingin / nyaman |
-| 74 | `corrected` | `correct` | Past Tense (V2) | betul / tepat |
-| 75 | `corrects` | `correct` | Kata Kerja Present (-s/-es) | betul / tepat |
-| 76 | `costs` | `cost` | Kata Kerja Present (-s/-es) | kos |
-| 77 | `creatures` | `creature` | Noun (Plural) | makhluk-makhluk ciptaan |
-| 78 | `cuts` | `cut` | Kata Kerja Present (-s/-es) | potong |
-| 79 | `damaged` | `damage` | Past Participle (V3) | kerosakan |
-| 80 | `days` | `day` | Kata Nama Jamak (Plural -s/-es) | hari / siang |
-| 81 | `deceived` | `deceive` | Verb (Past Tense / Passive) | terpedaya / tertipu |
-| 82 | `decided` | `decide` | Past Tense (V2) | memutuskan |
-| 83 | `deeds` | `deed` | Plural Noun (-s) | amalan-amalan |
-| 84 | `deeper` | `deep` | Perbandingan (Comparative -er) | dalam |
-| 85 | `deflated` | `deflate` | Past Participle (V3) | mengempiskan |
-| 86 | `delivered` | `deliver` | Past Tense (V2) | menyampaikan |
-| 87 | `depends` | `depend` | Kata Kerja Present (-s/-es) | bergantung |
-| 88 | `descendants` | `descendant` | Noun (Plural) | keturunan / anak cucu |
-| 89 | `did` | `do` | Past Tense (V2) | buat / lakukan |
-| 90 | `died` | `die` | Past Tense (V2) | mati |
-| 91 | `difficulties` | `difficulty` | Kata Nama Jamak (Plural -s/-es) | kesukaran |
-| 92 | `distracted` | `distract` | Past Participle (V3) | mengalih perhatian |
-| 93 | `distractions` | `distraction` | Noun (Plural) | gangguan-gangguan |
-| 94 | `does` | `do` | Present Tense (3rd Person) | buat / lakukan |
-| 95 | `dogs` | `dog` | Kata Nama Jamak (Plural -s/-es) | anjing |
-| 96 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
-| 97 | `done` | `do` | Past Participle (V3) | buat / lakukan |
-| 98 | `doors` | `door` | Kata Nama Jamak (Plural -s/-es) | pintu |
-| 99 | `doubts` | `doubt` | Noun (Plural) | keraguan-keraguan |
-| 100 | `dressing` | `dress` | Continuous / Gerund (-ing) | berpakaian |
-| 101 | `drinking` | `drink` | Continuous / Gerund (-ing) | minum |
-| 102 | `drops` | `drop` | Kata Nama Jamak (Plural -s/-es) | jatuhkan |
-| 103 | `drugs` | `drug` | Kata Nama Jamak (Plural -s/-es) | dadah |
-| 104 | `drunk` | `drink` | Past Participle (V3) | minum |
-| 105 | `dying` | `die` | Continuous / Gerund (-ing) | mati |
-| 106 | `earthquakes` | `earthquake` | Noun (Plural) | gempa bumi-gempa bumi |
-| 107 | `eating` | `eat` | Continuous / Gerund (-ing) | makan |
-| 108 | `elders` | `elder` | Noun (Plural) | orang-orang tua / sesepuh |
-| 109 | `elements` | `element` | Kata Nama Jamak (Plural -s/-es) | unsur |
-| 110 | `ended` | `end` | Past Tense (V2) | hujung / tamat |
-| 111 | `entering` | `enter` | Continuous / Gerund (-ing) | masuk |
-| 112 | `erased` | `erase` | Past Tense (V2) | memadam |
-| 113 | `excited` | `excite` | Past Participle (V3) | mengujakan |
-| 114 | `excuses` | `excuse` | Noun (Plural) | alasan-alasan berdalih |
-| 115 | `exists` | `exist` | Verb (3rd Person Singular) | wujud / ada |
-| 116 | `explained` | `explain` | Past Tense (V2) | terangkan |
-| 117 | `eyes` | `eye` | Kata Nama Jamak (Plural -s/-es) | mata |
-| 118 | `facilitating` | `facilitate` | Verb (Present Participle) | mempermudah urusan |
-| 119 | `fallen` | `fall` | Past Participle (V3) | jatuh |
-| 120 | `falling` | `fall` | Continuous / Gerund (-ing) | jatuh |
-| 121 | `falls` | `fall` | Kata Kerja Present (-s/-es) | jatuh |
-| 122 | `faster` | `fast` | Perbandingan (Comparative -er) | cepat |
-| 123 | `feeling` | `feel` | Continuous / Gerund (-ing) | rasa / merasa |
-| 124 | `feels` | `feel` | Kata Kerja Present (-s/-es) | rasa / merasa |
-| 125 | `felt` | `feel` | Past Tense / Participle | rasa / merasa |
-| 126 | `finished` | `finish` | Past Tense (V2) | selesai |
-| 127 | `fires` | `fire` | Noun (Plural) | kebakaran-kebakaran |
-| 128 | `flooding` | `flood` | Noun (Gerund) | banjir yang melanda |
-| 129 | `followed` | `follow` | Past Participle (V3) | ikut |
-| 130 | `followers` | `follower` | Kata Nama Jamak (Plural -s/-es) | pengikut |
-| 131 | `forgets` | `forget` | Verb (3rd Person Singular) | terlupa |
-| 132 | `forms` | `form` | Kata Kerja Present (-s/-es) | bentuk |
-| 133 | `friends` | `friend` | Kata Nama Jamak (Plural -s/-es) | kawan / rakan |
-| 134 | `gates` | `gate` | Kata Kerja Present (-s/-es) | pintu pagar |
-| 135 | `gave` | `give` | Past Tense (V2) | beri / memberikan |
-| 136 | `generates` | `generate` | Verb (3rd Person Singular) | menjana hasil |
-| 137 | `gets` | `get` | Kata Kerja Present (-s/-es) | dapat / mengambil |
-| 138 | `gives` | `give` | Kata Kerja Present (-s/-es) | beri / memberikan |
-| 139 | `giving` | `give` | Continuous / Gerund (-ing) | beri / memberikan |
-| 140 | `goes` | `go` | Kata Kerja Present (-s/-es) | pergi |
-| 141 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
-| 142 | `gone` | `go` | Past Participle (V3) | pergi |
-| 143 | `got` | `get` | Past Tense / Participle | dapat / mengambil |
-| 144 | `greeted` | `greet` | Past Tense / Participle (-ed) | memberi salam |
-| 145 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
-| 146 | `habits` | `habit` | Kata Nama Jamak (Plural -s/-es) | tabiat |
-| 147 | `had` | `have` | Past Tense / Participle | ada / mempunyai |
-| 148 | `hands` | `hand` | Kata Nama Jamak (Plural -s/-es) | tangan |
-| 149 | `happened` | `happen` | Past Tense (V2) | berlaku |
-| 150 | `happening` | `happen` | Continuous / Gerund (-ing) | berlaku |
-| 151 | `happens` | `happen` | Kata Kerja Present (-s/-es) | berlaku |
-| 152 | `heard` | `hear` | Past Tense / Participle | dengar |
-| 153 | `hearts` | `heart` | Kata Nama Jamak (Plural -s/-es) | hati |
-| 154 | `heavier` | `heavy` | Perbandingan (Comparative -er) | berat |
-| 155 | `helps` | `help` | Kata Kerja Present (-s/-es) | bantu / tolong |
-| 156 | `higher` | `high` | Perbandingan (Comparative -er) | tinggi |
-| 157 | `highest` | `high` | Paling / Tertinggi (Superlative -est) | tinggi |
-| 158 | `holding` | `hold` | Continuous / Gerund (-ing) | tahan |
-| 159 | `homes` | `home` | Kata Nama Jamak (Plural -s/-es) | rumah / kediaman |
-| 160 | `imams` | `imam` | Noun (Plural) | para imam |
-| 161 | `included` | `include` | Past Participle (V3) | termasuk |
-| 162 | `including` | `include` | Continuous / Gerund (-ing) | termasuk |
-| 163 | `increasing` | `increase` | Verb (Present Participle) | semakin bertambah |
-| 164 | `informed` | `inform` | Past Tense / Participle (-ed) | maklumkan |
-| 165 | `injured` | `injure` | Past Participle (V3) | mencederakan |
-| 166 | `intended` | `intend` | Past Tense (V2) | berniat |
-| 167 | `intentions` | `intention` | Kata Nama Jamak (Plural -s/-es) | niat |
-| 168 | `interacted` | `interact` | Past Tense / Participle (-ed) | berinteraksi |
-| 169 | `interactions` | `interaction` | Noun (Plural) | interaksi-interaksi |
-| 170 | `interested` | `interest` | Past Tense / Participle (-ed) | minat |
-| 171 | `interesting` | `interest` | Continuous / Gerund (-ing) | minat |
-| 172 | `jobs` | `job` | Kata Nama Jamak (Plural -s/-es) | pekerjaan / tugas |
-| 173 | `keeps` | `keep` | Kata Kerja Present (-s/-es) | simpan / teruskan |
-| 174 | `kept` | `keep` | Past Tense (V2) | simpan / teruskan |
-| 175 | `knew` | `know` | Past Tense (V2) | tahu / kenal |
-| 176 | `known` | `know` | Past Participle (V3) | tahu / kenal |
-| 177 | `knows` | `know` | Kata Kerja Present (-s/-es) | tahu / kenal |
-| 178 | `landslides` | `landslide` | Noun (Plural) | tanah-tanah runtuh |
-| 179 | `later` | `late` | Perbandingan (Comparative -er) | lewat |
-| 180 | `learned` | `learn` | Past Tense (V2) | belajar |
-| 181 | `learning` | `learn` | Continuous / Gerund (-ing) | belajar |
-| 182 | `least` | `little` | Paling / Tertinggi (Superlative) | kecil / sedikit |
-| 183 | `left` | `leave` | Past Tense / Participle | tinggalkan / keluar |
-| 184 | `less` | `little` | Perbandingan (Comparative) | kecil / sedikit |
-| 185 | `lies` | `lie` | Kata Kerja Present (-s/-es) | baring / berbohong |
-| 186 | `liked` | `like` | Past Tense (V2) | suka / seperti |
-| 187 | `likes` | `like` | Kata Nama Jamak (Plural -s/-es) | suka / seperti |
-| 188 | `lines` | `line` | Kata Nama Jamak (Plural -s/-es) | barisan |
-| 189 | `listening` | `listen` | Continuous / Gerund (-ing) | dengar |
-| 190 | `lives` | `life` | Kata Nama Jamak (Plural Noun) | kehidupan |
-| 191 | `longer` | `long` | Perbandingan (Comparative -er) | panjang / lama |
-| 192 | `looking` | `look` | Continuous / Gerund (-ing) | tengok / kelihatan |
-| 193 | `looks` | `look` | Kata Kerja Present (-s/-es) | tengok / kelihatan |
-| 194 | `lost` | `lose` | Past Tense / Participle | kalah |
-| 195 | `loves` | `love` | Kata Kerja Present (-s/-es) | suka sangat / sayang |
-| 196 | `lowered` | `lower` | Verb (Past Tense) | menundukkan pandangan |
-| 197 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
-| 198 | `makes` | `make` | Kata Kerja Present (-s/-es) | buat / menghasilkan |
-| 199 | `making` | `make` | Continuous / Gerund (-ing) | buat / menghasilkan |
-| 200 | `married` | `marry` | Past Participle (V3) | kahwin |
-| 201 | `massacred` | `massacre` | Verb (Past Tense / Passive) | dibantai dengan kejam |
-| 202 | `matters` | `matter` | Kata Nama Jamak (Plural -s/-es) | perkara |
-| 203 | `means` | `mean` | Kata Kerja Present (-s/-es) | maksud / berniat |
-| 204 | `media` | `medium` | Kata Nama Jamak (Plural -s/-es) | sederhana |
-| 205 | `memorized` | `memorize` | Verb (Past Tense) | telah menghafal |
-| 206 | `men` | `man` | Kata Nama Jamak (Plural Noun) | lelaki / orang |
-| 207 | `mentioned` | `mention` | Past Tense (V2) | menyebut |
-| 208 | `missed` | `miss` | Past Participle (V3) | rindu |
-| 209 | `mistakes` | `mistake` | Kata Nama Jamak (Plural -s/-es) | kesilapan / ralat |
-| 210 | `moments` | `moment` | Kata Nama Jamak (Plural -s/-es) | seketika |
-| 211 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
-| 212 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
-| 213 | `mothers` | `mother` | Noun (Plural) | para ibu |
-| 214 | `moves` | `move` | Kata Nama Jamak (Plural -s/-es) | bergerak / berpindah |
-| 215 | `murdered` | `murder` | Verb (Past Tense / Passive) | dibunuh dengan zalim |
-| 216 | `needed` | `need` | Past Tense (V2) | perlu / memerlukan |
-| 217 | `needs` | `need` | Kata Kerja Present (-s/-es) | perlu / memerlukan |
-| 218 | `notices` | `notice` | Kata Nama Jamak (Plural -s/-es) | perasan |
-| 219 | `obtained` | `obtain` | Verb (Past Tense) | telah memperoleh |
-| 220 | `offended` | `offend` | Past Participle (V3) | menyinggung perasaan |
-| 221 | `older` | `old` | Perbandingan (Comparative -er) | lama |
-| 222 | `ones` | `one` | Kata Nama Jamak (Plural -s/-es) | satu / seorang |
-| 223 | `opened` | `open` | Past Tense (V2) | buka / terbuka |
-| 224 | `organizations` | `organization` | Noun (Plural) | organisasi-organisasi |
-| 225 | `orphanages` | `orphanage` | Noun (Plural) | rumah-rumah anak yatim |
-| 226 | `owners` | `owner` | Noun (Plural) | para pemilik |
-| 227 | `people` | `person` | Kata Nama Jamak (Plural Noun) | orang |
-| 228 | `performed` | `perform` | Verb (Past Tense) | telah melaksanakan ibadah |
-| 229 | `performing` | `perform` | Continuous / Gerund (-ing) | melaksanakan |
-| 230 | `performs` | `perform` | Kata Kerja Present (-s/-es) | melaksanakan |
-| 231 | `philippines` | `philippine` | Kata Nama Jamak (Plural -s/-es) | filipina |
-| 232 | `pictures` | `picture` | Kata Nama Jamak (Plural -s/-es) | gambar |
-| 233 | `pigs` | `pig` | Kata Nama Jamak (Plural -s/-es) | babi |
-| 234 | `piling` | `pile` | Continuous / Gerund (-ing) | longgokan |
-| 235 | `pillars` | `pillar` | Kata Nama Jamak (Plural -s/-es) | tiang |
-| 236 | `places` | `place` | Kata Nama Jamak (Plural -s/-es) | tempat |
-| 237 | `playing` | `play` | Continuous / Gerund (-ing) | main / memainkan |
-| 238 | `pleasing` | `please` | Continuous / Gerund (-ing) | tolonglah |
-| 239 | `pounds` | `pound` | Kata Nama Jamak (Plural -s/-es) | pon |
-| 240 | `prayers` | `prayer` | Kata Nama Jamak (Plural -s/-es) | solat / doa |
-| 241 | `prevented` | `prevent` | Verb (Past Tense / Passive) | dihalang daripada hadir |
-| 242 | `progressing` | `progress` | Verb (Present Participle) | sedang berkembang |
-| 243 | `projects` | `project` | Kata Nama Jamak (Plural -s/-es) | projek |
-| 244 | `promotes` | `promote` | Verb (3rd Person Singular) | menggalakkan kebaikan |
-| 245 | `promoting` | `promote` | Verb (Present Participle) | sedang mempromosikan |
-| 246 | `purest` | `pure` | Adjective (Superlative) | paling suci murni |
-| 247 | `pushing` | `push` | Continuous / Gerund (-ing) | tolak |
-| 248 | `quenching` | `quench` | Verb (Present Participle) | menghilangkan dahaga |
-| 249 | `raised` | `raise` | Past Tense (V2) | menaikkan |
-| 250 | `reading` | `read` | Continuous / Gerund (-ing) | membaca |
-| 251 | `realized` | `realize` | Past Tense (V2) | sedar |
-| 252 | `realizing` | `realize` | Continuous / Gerund (-ing) | menyedari |
-| 253 | `recited` | `recite` | Past Participle (V3) | mengalunkan |
-| 254 | `recognized` | `recognize` | Past Tense (V2) | mengenali |
-| 255 | `regretting` | `regret` | Verb (Present Participle) | sedang menyesali |
-| 256 | `related` | `relate` | Past Participle (V3) | kaitkan |
-| 257 | `remains` | `remain` | Verb (3rd Person Singular) | kekal berada |
-| 258 | `reminded` | `remind` | Past Tense (V2) | ingatkan |
-| 259 | `repeating` | `repeat` | Continuous / Gerund (-ing) | ulang |
-| 260 | `repented` | `repent` | Verb (Past Tense) | telah bertaubat |
-| 261 | `returned` | `return` | Past Tense (V2) | kembali |
-| 262 | `returning` | `return` | Continuous / Gerund (-ing) | kembali |
-| 263 | `rewarded` | `reward` | Past Participle (V3) | pahala |
-| 264 | `risen` | `rise` | Verb (Past Participle) | telah bangkit berdiri |
-| 265 | `ruined` | `ruin` | Verb (Past Tense) | telah membinasakan |
-| 266 | `rules` | `rule` | Kata Nama Jamak (Plural -s/-es) | peraturan |
-| 267 | `said` | `say` | Past Tense / Participle | cakap / berkata |
-| 268 | `sat` | `sit` | Past Tense / Participle | duduk |
-| 269 | `saw` | `see` | Past Tense (V2) | lihat / nampak / tengok |
-| 270 | `saying` | `say` | Continuous / Gerund (-ing) | cakap / berkata |
-| 271 | `says` | `say` | Kata Kerja Present (-s/-es) | cakap / berkata |
-| 272 | `scales` | `scale` | Kata Nama Jamak (Plural -s/-es) | penimbang / skala |
-| 273 | `seconds` | `second` | Kata Nama Jamak (Plural -s/-es) | kedua / saat |
-| 274 | `seeking` | `seek` | Continuous / Gerund (-ing) | mencari / mendambakan |
-| 275 | `seems` | `seem` | Kata Kerja Present (-s/-es) | nampak |
-| 276 | `seen` | `see` | Past Participle (V3) | lihat / nampak / tengok |
-| 277 | `sees` | `see` | Kata Kerja Present (-s/-es) | lihat / nampak / tengok |
-| 278 | `selling` | `sell` | Continuous / Gerund (-ing) | jual |
-| 279 | `sentences` | `sentence` | Kata Nama Jamak (Plural -s/-es) | ayat |
-| 280 | `serving` | `serve` | Continuous / Gerund (-ing) | berkhidmat |
-| 281 | `shaking` | `shake` | Continuous / Gerund (-ing) | goncang |
-| 282 | `shared` | `share` | Past Tense (V2) | kongsi |
-| 283 | `showing` | `show` | Continuous / Gerund (-ing) | tunjuk / menunjukkan |
-| 284 | `sisters` | `sister` | Kata Nama Jamak (Plural -s/-es) | kakak |
-| 285 | `sitting` | `sit` | Continuous / Gerund (-ing) | duduk |
-| 286 | `smiling` | `smile` | Continuous / Gerund (-ing) | tersenyum |
-| 287 | `smoked` | `smoke` | Past Tense / Participle (-ed) | asap / merokok |
-| 288 | `smoking` | `smoke` | Continuous / Gerund (-ing) | asap / merokok |
-| 289 | `speaks` | `speak` | Kata Kerja Present (-s/-es) | bercakap |
-| 290 | `spreads` | `spread` | Verb (3rd Person Singular) | merebak tersebar |
-| 291 | `standing` | `stand` | Continuous / Gerund (-ing) | berdiri |
-| 292 | `stands` | `stand` | Kata Kerja Present (-s/-es) | berdiri |
-| 293 | `started` | `start` | Past Participle (V3) | mula / memulakan |
-| 294 | `starting` | `start` | Continuous / Gerund (-ing) | mula / memulakan |
-| 295 | `starts` | `start` | Kata Nama Jamak (Plural -s/-es) | mula / memulakan |
-| 296 | `stations` | `station` | Kata Nama Jamak (Plural -s/-es) | stesen |
-| 297 | `stopped` | `stop` | Past Tense (V2) | berhenti |
-| 298 | `stronger` | `strong` | Perbandingan (Comparative -er) | kuat |
-| 299 | `struggling` | `struggle` | Continuous / Gerund (-ing) | perjuangan |
-| 300 | `suffering` | `suffer` | Continuous / Gerund (-ing) | menderita |
-| 301 | `supposed` | `suppose` | Past Participle (V3) | andaikan |
-| 302 | `surpasses` | `surpass` | Verb (3rd Person Singular) | mengatasi timbangan |
-| 303 | `sweating` | `sweat` | Continuous / Gerund (-ing) | peluh |
-| 304 | `taken` | `take` | Past Participle (V3) | ambil / memerlukan masa |
-| 305 | `takes` | `take` | Kata Kerja Present (-s/-es) | ambil / memerlukan masa |
-| 306 | `taking` | `take` | Continuous / Gerund (-ing) | ambil / memerlukan masa |
-| 307 | `talking` | `talk` | Continuous / Gerund (-ing) | bercakap / berborak |
-| 308 | `talks` | `talk` | Kata Kerja Present (-s/-es) | bercakap / berborak |
-| 309 | `tastes` | `taste` | Kata Kerja Present (-s/-es) | rasa |
-| 310 | `taught` | `teach` | Past Tense (V2) | mengajar |
-| 311 | `teaches` | `teach` | Kata Kerja Present (-s/-es) | mengajar |
-| 312 | `teams` | `team` | Kata Nama Jamak (Plural -s/-es) | pasukan |
-| 313 | `teenagers` | `teenager` | Noun (Plural) | para remaja |
-| 314 | `telling` | `tell` | Continuous / Gerund (-ing) | beritahu / khabarkan |
-| 315 | `tells` | `tell` | Kata Kerja Present (-s/-es) | beritahu / khabarkan |
-| 316 | `theories` | `theory` | Noun (Plural) | teori-teori andaian |
-| 317 | `things` | `thing` | Kata Nama Jamak (Plural -s/-es) | benda / perkara |
-| 318 | `thought` | `think` | Past Tense / Participle | fikir / berfikir |
-| 319 | `times` | `time` | Kata Nama Jamak (Plural -s/-es) | masa / waktu |
-| 320 | `told` | `tell` | Past Tense / Participle | beritahu / khabarkan |
-| 321 | `took` | `take` | Past Tense (V2) | ambil / memerlukan masa |
-| 322 | `tortured` | `torture` | Verb (Past Tense / Passive) | diseksa dengan zalim |
-| 323 | `touched` | `touch` | Past Tense (V2) | sentuh |
-| 324 | `trends` | `trend` | Noun (Plural) | trend ikutan semasa |
-| 325 | `tried` | `try` | Past Participle (V3) | cuba / mencuba |
-| 326 | `tripping` | `trip` | Continuous / Gerund (-ing) | perjalanan |
-| 327 | `trying` | `try` | Continuous / Gerund (-ing) | cuba / mencuba |
-| 328 | `tsunamis` | `tsunami` | Noun (Plural) | gelombang-gelombang tsunami |
-| 329 | `turned` | `turn` | Past Tense (V2) | pusing / hidupkan (turn on) |
-| 330 | `turns` | `turn` | Kata Kerja Present (-s/-es) | pusing / hidupkan (turn on) |
-| 331 | `understanding` | `understand` | Continuous / Gerund (-ing) | faham / memahami |
-| 332 | `united` | `unite` | Past Tense / Participle (-ed) | bersatu |
-| 333 | `used` | `use` | Past Participle (V3) | guna / menggunakan |
-| 334 | `using` | `use` | Continuous / Gerund (-ing) | guna / menggunakan |
-| 335 | `victims` | `victim` | Noun (Plural) | mangsa-mangsa musibah |
-| 336 | `waiting` | `wait` | Continuous / Gerund (-ing) | tunggu |
-| 337 | `walked` | `walk` | Past Participle (V3) | berjalan |
-| 338 | `walking` | `walk` | Continuous / Gerund (-ing) | berjalan |
-| 339 | `walks` | `walk` | Verb (3rd Person Singular) | berjalan melangkah |
-| 340 | `wanted` | `want` | Past Tense (V2) | mahu / nak |
-| 341 | `wants` | `want` | Kata Kerja Present (-s/-es) | mahu / nak |
-| 342 | `watching` | `watch` | Continuous / Gerund (-ing) | tonton / tengok / jam tangan |
-| 343 | `ways` | `way` | Kata Nama Jamak (Plural -s/-es) | jalan / cara |
-| 344 | `wedding` | `wed` | Continuous / Gerund (-ing) | berkahwin |
-| 345 | `weddings` | `wedding` | Kata Nama Jamak (Plural -s/-es) | perkahwinan |
-| 346 | `weeks` | `week` | Kata Nama Jamak (Plural -s/-es) | minggu |
-| 347 | `went` | `go` | Past Tense (V2) | pergi |
-| 348 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
-| 349 | `willing` | `will` | Continuous / Gerund (-ing) | akan |
-| 350 | `windows` | `window` | Kata Nama Jamak (Plural -s/-es) | tingkap |
-| 351 | `wiped` | `wipe` | Past Tense (V2) | lap |
-| 352 | `worked` | `work` | Past Tense (V2) | kerja / berfungsi |
-| 353 | `works` | `work` | Kata Kerja Present (-s/-es) | kerja / berfungsi |
-| 354 | `worrying` | `worry` | Continuous / Gerund (-ing) | risau |
-| 355 | `worshipping` | `worship` | Verb (Present Participle) | sedang beribadah |
-| 356 | `worships` | `worship` | Verb (3rd Person Singular) | menyembah Allah |
-| 357 | `worst` | `bad` | Paling / Tertinggi (Superlative -est) | teruk / buruk |
-| 358 | `wronged` | `wrong` | Verb (Past Tense / Passive) | dizalimi haknya |
-| 359 | `years` | `year` | Kata Nama Jamak (Plural -s/-es) | tahun |
-| 360 | `younger` | `young` | Perbandingan (Comparative -er) | muda |
+| 2 | `added` | `add` | Past Participle (V3) | tambah |
+| 3 | `addicted` | `addict` | Past Tense / Participle (-ed) | penagih |
+| 4 | `addictions` | `addiction` | Noun (Plural) | ketagihan-ketagihan |
+| 5 | `algorithms` | `algorithm` | Kata Nama Jamak (Plural -s/-es) | algoritma |
+| 6 | `allowed` | `allow` | Past Participle (V3) | membenarkan / membolehkan |
+| 7 | `amazing` | `amaze` | Continuous / Gerund (-ing) | memukau |
+| 8 | `angels` | `angel` | Kata Nama Jamak (Plural -s/-es) | malaikat |
+| 9 | `animals` | `animal` | Kata Nama Jamak (Plural -s/-es) | haiwan |
+| 10 | `applies` | `apply` | Kata Kerja Present (-s/-es) | memohon |
+| 11 | `are` | `be` | Present Tense (Plural) | menjadi / berada |
+| 12 | `asked` | `ask` | Past Tense (V2) | bertanya |
+| 13 | `asking` | `ask` | Continuous / Gerund (-ing) | bertanya |
+| 14 | `based` | `base` | Past Participle (V3) | asas |
+| 15 | `becomes` | `become` | Kata Kerja Present (-s/-es) | menjadi |
+| 16 | `becoming` | `become` | Continuous / Gerund (-ing) | menjadi |
+| 17 | `been` | `be` | Past Participle (V3) | menjadi / berada |
+| 18 | `beginning` | `begin` | Continuous / Gerund (-ing) | bermula |
+| 19 | `beginnings` | `beginning` | Noun (Plural) | permulaan-permulaan |
+| 20 | `being` | `be` | Continuous / Gerund (-ing) | menjadi / berada |
+| 21 | `beings` | `being` | Kata Nama Jamak (Plural -s/-es) | makhluk / insan |
+| 22 | `believers` | `believer` | Plural Noun (-s) | orang-orang yang beriman |
+| 23 | `belongs` | `belong` | 3rd Person Singular (-s) | tergolong / kepunyaan |
+| 24 | `best` | `good` | Paling / Tertinggi (Superlative -est) | baik / bagus |
+| 25 | `better` | `good` | Perbandingan (Comparative -er) | baik / bagus |
+| 26 | `biggest` | `big` | Paling / Tertinggi (Superlative -est) | besar |
+| 27 | `bit` | `bite` | Past Participle (V3) | menggigit |
+| 28 | `bodies` | `body` | Noun (Plural) | tubuh-tubuh badan |
+| 29 | `boys` | `boy` | Kata Nama Jamak (Plural -s/-es) | budak lelaki |
+| 30 | `brings` | `bring` | Kata Kerja Present (-s/-es) | membawa |
+| 31 | `brothers` | `brother` | Kata Nama Jamak (Plural -s/-es) | abang |
+| 32 | `brought` | `bring` | Past Tense / Participle | membawa |
+| 33 | `buildings` | `building` | Kata Nama Jamak (Plural -s/-es) | bangunan |
+| 34 | `butchered` | `butcher` | Past Tense (V2) | tukang sembelih |
+| 35 | `called` | `call` | Past Participle (V3) | panggil / hubungi |
+| 36 | `came` | `come` | Past Tense (V2) | datang / mari |
+| 37 | `carried` | `carry` | Past Tense (V2) | membawa |
+| 38 | `cases` | `case` | Kata Nama Jamak (Plural -s/-es) | kes |
+| 39 | `challenges` | `challenge` | Noun (Plural) | cabaran-cabaran |
+| 40 | `challenging` | `challenge` | Continuous / Gerund (-ing) | cabaran |
+| 41 | `chances` | `chance` | Kata Nama Jamak (Plural -s/-es) | peluang |
+| 42 | `changed` | `change` | Past Tense (V2) | ubah / menukar |
+| 43 | `charities` | `charity` | Kata Nama Jamak (Plural -s/-es) | kebajikan / badan amal |
+| 44 | `children` | `child` | Kata Nama Jamak (Plural Noun) | anak |
+| 45 | `claiming` | `claim` | Continuous / Gerund (-ing) | mendakwa / menuntut |
+| 46 | `clicks` | `click` | Noun (Plural) | klik-klik maya |
+| 47 | `closer` | `close` | Perbandingan (Comparative -er) | tutup / dekat |
+| 48 | `closest` | `close` | Paling / Tertinggi (Superlative -est) | tutup / dekat |
+| 49 | `closing` | `close` | Continuous / Gerund (-ing) | tutup / dekat |
+| 50 | `clothing` | `clothe` | Continuous / Gerund (-ing) | pakaian |
+| 51 | `comes` | `come` | Kata Kerja Present (-s/-es) | datang / mari |
+| 52 | `coming` | `come` | Continuous / Gerund (-ing) | datang / mari |
+| 53 | `committed` | `commit` | Past Tense (V2) | komited |
+| 54 | `committing` | `commit` | Continuous / Gerund (-ing) | melakukan |
+| 55 | `communities` | `community` | Kata Nama Jamak (Plural -s/-es) | komuniti |
+| 56 | `complains` | `complain` | Verb (3rd Person Singular) | mengadu / merungut |
+| 57 | `conditioning` | `condition` | Continuous / Gerund (-ing) | syarat |
+| 58 | `confused` | `confuse` | Past Tense / Participle (-ed) | mengelirukan |
+| 59 | `connected` | `connect` | Past Participle (V3) | menyambung |
+| 60 | `continued` | `continue` | Past Participle (V3) | teruskan / menyambung |
+| 61 | `continues` | `continue` | Kata Kerja Present (-s/-es) | teruskan / menyambung |
+| 62 | `continuing` | `continue` | Verb (Present Participle) | meneruskan perbuatan |
+| 63 | `contributes` | `contribute` | Verb (3rd Person Singular) | memberikan sumbangan |
+| 64 | `controlled` | `control` | Past Participle (V3) | kawalan |
+| 65 | `cooler` | `cool` | Adjective (Comparative) | lebih dingin / nyaman |
+| 66 | `corrected` | `correct` | Past Tense (V2) | betul / tepat |
+| 67 | `corrects` | `correct` | Kata Kerja Present (-s/-es) | betul / tepat |
+| 68 | `cracking` | `crack` | Continuous / Gerund (-ing) | retak |
+| 69 | `crashing` | `crash` | Continuous / Gerund (-ing) | kemalangan |
+| 70 | `creatures` | `creature` | Kata Nama Jamak (Plural -s/-es) | makhluk |
+| 71 | `days` | `day` | Kata Nama Jamak (Plural -s/-es) | hari / siang |
+| 72 | `deceived` | `deceive` | Verb (Past Tense / Passive) | terpedaya / tertipu |
+| 73 | `decided` | `decide` | Past Tense (V2) | memutuskan |
+| 74 | `deeds` | `deed` | Plural Noun (-s) | amalan-amalan |
+| 75 | `delivered` | `deliver` | Past Tense (V2) | menyampaikan |
+| 76 | `depends` | `depend` | Kata Kerja Present (-s/-es) | bergantung |
+| 77 | `did` | `do` | Past Tense (V2) | buat / lakukan |
+| 78 | `died` | `die` | Past Tense (V2) | mati |
+| 79 | `disagreeing` | `disagree` | Continuous / Gerund (-ing) | tidak bersetuju |
+| 80 | `displeasing` | `displease` | Continuous / Gerund (-ing) | membuat tidak senang |
+| 81 | `distracted` | `distract` | Past Participle (V3) | mengalih perhatian |
+| 82 | `distractions` | `distraction` | Noun (Plural) | gangguan-gangguan |
+| 83 | `does` | `do` | Present Tense (3rd Person) | buat / lakukan |
+| 84 | `dogs` | `dog` | Kata Nama Jamak (Plural -s/-es) | anjing |
+| 85 | `doing` | `do` | Continuous / Gerund (-ing) | buat / lakukan |
+| 86 | `done` | `do` | Past Participle (V3) | buat / lakukan |
+| 87 | `doors` | `door` | Kata Nama Jamak (Plural -s/-es) | pintu |
+| 88 | `dressing` | `dress` | Continuous / Gerund (-ing) | berpakaian |
+| 89 | `drinking` | `drink` | Continuous / Gerund (-ing) | minum |
+| 90 | `drops` | `drop` | Kata Nama Jamak (Plural -s/-es) | jatuhkan |
+| 91 | `drugs` | `drug` | Kata Nama Jamak (Plural -s/-es) | dadah |
+| 92 | `drunk` | `drink` | Past Participle (V3) | minum |
+| 93 | `duped` | `dupe` | Past Tense / Passive (V2/V3) | dipedaya / diperdaya |
+| 94 | `dying` | `die` | Continuous / Gerund (-ing) | mati |
+| 95 | `earthquakes` | `earthquake` | Noun (Plural) | gempa bumi-gempa bumi |
+| 96 | `eating` | `eat` | Continuous / Gerund (-ing) | makan |
+| 97 | `elders` | `elder` | Noun (Plural) | orang-orang tua / sesepuh |
+| 98 | `embarrassed` | `embarrass` | Past Participle (V3) | memalukan |
+| 99 | `embarrassing` | `embarrass` | Continuous / Gerund (-ing) | memalukan |
+| 100 | `enslaved` | `enslave` | Past Tense / Passive (V2/V3) | diperhambakan |
+| 101 | `excited` | `excite` | Past Participle (V3) | mengujakan |
+| 102 | `explained` | `explain` | Past Tense (V2) | terangkan |
+| 103 | `eyes` | `eye` | Kata Nama Jamak (Plural -s/-es) | mata |
+| 104 | `falling` | `fall` | Continuous / Gerund (-ing) | jatuh |
+| 105 | `feeling` | `feel` | Continuous / Gerund (-ing) | rasa / merasa |
+| 106 | `feels` | `feel` | Kata Kerja Present (-s/-es) | rasa / merasa |
+| 107 | `felt` | `feel` | Past Tense / Participle | rasa / merasa |
+| 108 | `filling` | `fill` | Continuous / Gerund (-ing) | isi |
+| 109 | `fires` | `fire` | Noun (Plural) | kebakaran-kebakaran |
+| 110 | `floods` | `flood` | Kata Nama Jamak (Plural -s/-es) | banjir |
+| 111 | `followed` | `follow` | Past Participle (V3) | ikut |
+| 112 | `followers` | `follower` | Kata Nama Jamak (Plural -s/-es) | pengikut |
+| 113 | `forgotten` | `forget` | Past Participle (V3) | dilupakan |
+| 114 | `friends` | `friend` | Kata Nama Jamak (Plural -s/-es) | kawan / rakan |
+| 115 | `fulfilling` | `fulfill` | Continuous / Gerund (-ing) | memenuhi |
+| 116 | `gave` | `give` | Past Tense (V2) | beri / memberikan |
+| 117 | `getting` | `get` | Continuous / Gerund (-ing) | dapat / mengambil |
+| 118 | `gives` | `give` | Kata Kerja Present (-s/-es) | beri / memberikan |
+| 119 | `giving` | `give` | Continuous / Gerund (-ing) | beri / memberikan |
+| 120 | `goes` | `go` | Kata Kerja Present (-s/-es) | pergi |
+| 121 | `going` | `go` | Continuous / Gerund (-ing) | pergi |
+| 122 | `gone` | `go` | Past Participle (V3) | pergi |
+| 123 | `got` | `get` | Past Tense / Participle | dapat / mengambil |
+| 124 | `greater` | `great` | Perbandingan (Comparative -er) | hebat |
+| 125 | `greeted` | `greet` | Past Tense / Participle (-ed) | memberi salam |
+| 126 | `guys` | `guy` | Kata Nama Jamak (Plural -s/-es) | lelaki |
+| 127 | `habits` | `habit` | Kata Nama Jamak (Plural -s/-es) | tabiat |
+| 128 | `had` | `have` | Past Tense / Participle | ada / mempunyai |
+| 129 | `hands` | `hand` | Kata Nama Jamak (Plural -s/-es) | tangan |
+| 130 | `happened` | `happen` | Past Tense (V2) | berlaku |
+| 131 | `happening` | `happen` | Continuous / Gerund (-ing) | berlaku |
+| 132 | `happens` | `happen` | Kata Kerja Present (-s/-es) | berlaku |
+| 133 | `having` | `have` | Continuous / Gerund (-ing) | ada / mempunyai |
+| 134 | `heard` | `hear` | Past Tense / Participle | dengar |
+| 135 | `hearts` | `heart` | Kata Nama Jamak (Plural -s/-es) | hati |
+| 136 | `heavier` | `heavy` | Perbandingan (Comparative -er) | berat |
+| 137 | `helps` | `help` | Kata Kerja Present (-s/-es) | bantu / tolong |
+| 138 | `higher` | `high` | Perbandingan (Comparative -er) | tinggi |
+| 139 | `highest` | `high` | Paling / Tertinggi (Superlative -est) | tinggi |
+| 140 | `holding` | `hold` | Continuous / Gerund (-ing) | tahan |
+| 141 | `houses` | `house` | Kata Nama Jamak (Plural -s/-es) | rumah |
+| 142 | `humanitarians` | `humanitarian` | Kata Nama Jamak (Plural -s/-es) | sukarelawan kemanusiaan |
+| 143 | `hurting` | `hurt` | Continuous / Gerund (-ing) | sakit hati |
+| 144 | `imams` | `imam` | Noun (Plural) | para imam |
+| 145 | `included` | `include` | Past Participle (V3) | termasuk |
+| 146 | `including` | `include` | Continuous / Gerund (-ing) | termasuk |
+| 147 | `instances` | `instance` | Kata Nama Jamak (Plural -s/-es) | keadaan / contoh |
+| 148 | `intended` | `intend` | Past Tense (V2) | berniat |
+| 149 | `intentions` | `intention` | Kata Nama Jamak (Plural -s/-es) | niat |
+| 150 | `interacted` | `interact` | Past Tense / Participle (-ed) | berinteraksi |
+| 151 | `interactions` | `interaction` | Noun (Plural) | interaksi-interaksi |
+| 152 | `interested` | `interest` | Past Tense / Participle (-ed) | minat |
+| 153 | `interesting` | `interest` | Continuous / Gerund (-ing) | minat |
+| 154 | `items` | `item` | Kata Nama Jamak (Plural -s/-es) | item |
+| 155 | `jews` | `jew` | Kata Nama Jamak (Plural -s/-es) | kaum Yahudi |
+| 156 | `keeps` | `keep` | Kata Kerja Present (-s/-es) | simpan / teruskan |
+| 157 | `kids` | `kid` | Kata Nama Jamak (Plural -s/-es) | nak |
+| 158 | `knew` | `know` | Past Tense (V2) | tahu / kenal |
+| 159 | `known` | `know` | Past Participle (V3) | tahu / kenal |
+| 160 | `knows` | `know` | Kata Kerja Present (-s/-es) | tahu / kenal |
+| 161 | `landslides` | `landslide` | Noun (Plural) | tanah-tanah runtuh |
+| 162 | `later` | `late` | Perbandingan (Comparative -er) | lewat |
+| 163 | `learned` | `learn` | Past Tense (V2) | belajar |
+| 164 | `least` | `little` | Paling / Tertinggi (Superlative) | kecil / sedikit |
+| 165 | `lectures` | `lecture` | Kata Nama Jamak (Plural -s/-es) | ceramah |
+| 166 | `left` | `leave` | Past Tense / Participle | tinggalkan / keluar |
+| 167 | `less` | `little` | Perbandingan (Comparative) | kecil / sedikit |
+| 168 | `lies` | `lie` | Kata Kerja Present (-s/-es) | baring / berbohong |
+| 169 | `likes` | `like` | Kata Nama Jamak (Plural -s/-es) | suka / seperti |
+| 170 | `lines` | `line` | Kata Nama Jamak (Plural -s/-es) | barisan |
+| 171 | `listening` | `listen` | Continuous / Gerund (-ing) | dengar |
+| 172 | `lives` | `life` | Kata Nama Jamak (Plural Noun) | kehidupan |
+| 173 | `looked` | `look` | Past Tense (V2) | tengok / kelihatan |
+| 174 | `looking` | `look` | Continuous / Gerund (-ing) | tengok / kelihatan |
+| 175 | `looks` | `look` | Kata Kerja Present (-s/-es) | tengok / kelihatan |
+| 176 | `lost` | `lose` | Past Tense / Participle | kalah |
+| 177 | `lots` | `lot` | Kata Nama Jamak (Plural -s/-es) | banyak |
+| 178 | `loves` | `love` | Kata Kerja Present (-s/-es) | suka sangat / sayang |
+| 179 | `lowered` | `lower` | Verb (Past Tense) | menundukkan pandangan |
+| 180 | `made` | `make` | Past Tense / Participle | buat / menghasilkan |
+| 181 | `makes` | `make` | Kata Kerja Present (-s/-es) | buat / menghasilkan |
+| 182 | `making` | `make` | Continuous / Gerund (-ing) | buat / menghasilkan |
+| 183 | `marked` | `mark` | Past Tense (V2) | menandakan |
+| 184 | `married` | `marry` | Past Participle (V3) | kahwin |
+| 185 | `meaning` | `mean` | Continuous / Gerund (-ing) | maksud / berniat |
+| 186 | `means` | `mean` | Kata Kerja Present (-s/-es) | maksud / berniat |
+| 187 | `media` | `medium` | Kata Nama Jamak (Plural -s/-es) | sederhana |
+| 188 | `memorized` | `memorize` | Verb (Past Tense) | telah menghafal |
+| 189 | `men` | `man` | Kata Nama Jamak (Plural Noun) | lelaki / orang |
+| 190 | `mentioned` | `mention` | Past Tense (V2) | menyebut |
+| 191 | `messed` | `mess` | Past Participle (V3) | kacau bilau |
+| 192 | `mistakes` | `mistake` | Kata Nama Jamak (Plural -s/-es) | kesilapan / ralat |
+| 193 | `moments` | `moment` | Kata Nama Jamak (Plural -s/-es) | seketika |
+| 194 | `more` | `much / many` | Perbandingan (Comparative) | banyak/banyak |
+| 195 | `most` | `much / many` | Paling / Tertinggi (Superlative) | banyak/banyak |
+| 196 | `mothers` | `mother` | Noun (Plural) | para ibu |
+| 197 | `moving` | `move` | Continuous / Gerund (-ing) | bergerak / berpindah |
+| 198 | `mudslides` | `mudslide` | Kata Nama Jamak (Plural -s/-es) | tanah runtuh |
+| 199 | `murdered` | `murder` | Verb (Past Tense / Passive) | dibunuh dengan zalim |
+| 200 | `needed` | `need` | Past Tense (V2) | perlu / memerlukan |
+| 201 | `needs` | `need` | Kata Kerja Present (-s/-es) | perlu / memerlukan |
+| 202 | `negatives` | `negative` | Kata Nama Jamak (Plural -s/-es) | negatif |
+| 203 | `numbers` | `number` | Kata Nama Jamak (Plural -s/-es) | nombor |
+| 204 | `occupied` | `occupy` | Past Participle (V3) | menduduki |
+| 205 | `offended` | `offend` | Past Participle (V3) | menyinggung perasaan |
+| 206 | `older` | `old` | Perbandingan (Comparative -er) | lama |
+| 207 | `ones` | `one` | Kata Nama Jamak (Plural -s/-es) | satu / seorang |
+| 208 | `orphanages` | `orphanage` | Noun (Plural) | rumah-rumah anak yatim |
+| 209 | `overheads` | `overhead` | Kata Nama Jamak (Plural -s/-es) | kos operasi / perbelanjaan |
+| 210 | `owners` | `owner` | Noun (Plural) | para pemilik |
+| 211 | `packed` | `pack` | Past Tense / Participle (-ed) | bungkus |
+| 212 | `passes` | `pass` | Kata Nama Jamak (Plural -s/-es) | lulus |
+| 213 | `peers` | `peer` | Kata Nama Jamak (Plural -s/-es) | rakan sebaya |
+| 214 | `people` | `person` | Kata Nama Jamak (Plural Noun) | orang |
+| 215 | `philippines` | `philippine` | Kata Nama Jamak (Plural -s/-es) | filipina |
+| 216 | `photos` | `photo` | Kata Nama Jamak (Plural -s/-es) | foto |
+| 217 | `pigs` | `pig` | Kata Nama Jamak (Plural -s/-es) | babi |
+| 218 | `piling` | `pile` | Continuous / Gerund (-ing) | longgokan |
+| 219 | `pillars` | `pillar` | Kata Nama Jamak (Plural -s/-es) | tiang-tiang |
+| 220 | `places` | `place` | Kata Nama Jamak (Plural -s/-es) | tempat |
+| 221 | `planning` | `plan` | Continuous / Gerund (-ing) | rancangan |
+| 222 | `playing` | `play` | Continuous / Gerund (-ing) | main / memainkan |
+| 223 | `pleasing` | `please` | Continuous / Gerund (-ing) | tolonglah |
+| 224 | `pounds` | `pound` | Kata Nama Jamak (Plural -s/-es) | pon |
+| 225 | `prayers` | `prayer` | Kata Nama Jamak (Plural -s/-es) | solat / doa |
+| 226 | `pressurizing` | `pressurize` | Continuous / Gerund (-ing) | memberi tekanan |
+| 227 | `projects` | `project` | Kata Nama Jamak (Plural -s/-es) | projek |
+| 228 | `promotes` | `promote` | Verb (3rd Person Singular) | menggalakkan kebaikan |
+| 229 | `promoting` | `promote` | Verb (Present Participle) | sedang mempromosikan |
+| 230 | `punctured` | `puncture` | Past Tense / Passive (V2/V3) | bocor / ditebuk |
+| 231 | `purest` | `pure` | Adjective (Superlative) | paling suci murni |
+| 232 | `quenching` | `quench` | Verb (Present Participle) | menghilangkan dahaga |
+| 233 | `raising` | `raise` | Continuous / Gerund (-ing) | menaikkan |
+| 234 | `rays` | `ray` | Kata Nama Jamak (Plural -s/-es) | sinaran-sinaran cahaya |
+| 235 | `reaching` | `reach` | Continuous / Participle (-ing) | mencapai |
+| 236 | `reading` | `read` | Continuous / Gerund (-ing) | membaca |
+| 237 | `realized` | `realize` | Past Tense (V2) | sedar |
+| 238 | `realizing` | `realize` | Continuous / Gerund (-ing) | menyedari |
+| 239 | `recognized` | `recognize` | Past Tense (V2) | mengenali |
+| 240 | `regretting` | `regret` | Verb (Present Participle) | sedang menyesali |
+| 241 | `remains` | `remain` | Verb (3rd Person Singular) | kekal berada |
+| 242 | `reminded` | `remind` | Past Tense (V2) | ingatkan |
+| 243 | `removed` | `remove` | Past Tense (V2) | mengeluarkan / membuang |
+| 244 | `repented` | `repent` | Verb (Past Tense) | telah bertaubat |
+| 245 | `requested` | `request` | Past Tense (V2) | permintaan |
+| 246 | `rewarded` | `reward` | Past Participle (V3) | pahala |
+| 247 | `rules` | `rule` | Kata Nama Jamak (Plural -s/-es) | peraturan |
+| 248 | `said` | `say` | Past Tense / Participle | cakap / berkata |
+| 249 | `sat` | `sit` | Past Tense / Participle | duduk |
+| 250 | `saw` | `see` | Past Tense (V2) | lihat / nampak / tengok |
+| 251 | `saying` | `say` | Continuous / Gerund (-ing) | cakap / berkata |
+| 252 | `says` | `say` | Kata Kerja Present (-s/-es) | cakap / berkata |
+| 253 | `scales` | `scale` | Kata Nama Jamak (Plural -s/-es) | penimbang / skala |
+| 254 | `scholars` | `scholar` | Kata Nama Jamak (Plural -s/-es) | ilmuwan / ulama |
+| 255 | `seasons` | `season` | Kata Nama Jamak (Plural -s/-es) | musim |
+| 256 | `seated` | `seat` | Past Participle (V3) | mendudukkan |
+| 257 | `secrets` | `secret` | Kata Nama Jamak (Plural -s/-es) | rahsia |
+| 258 | `seeds` | `seed` | Kata Nama Jamak (Plural -s/-es) | benih |
+| 259 | `seeing` | `see` | Continuous / Gerund (-ing) | lihat / nampak / tengok |
+| 260 | `seeking` | `seek` | Continuous / Gerund (-ing) | mencari / mendambakan |
+| 261 | `seems` | `seem` | Kata Kerja Present (-s/-es) | nampak |
+| 262 | `seen` | `see` | Past Participle (V3) | lihat / nampak / tengok |
+| 263 | `sees` | `see` | Kata Kerja Present (-s/-es) | lihat / nampak / tengok |
+| 264 | `sending` | `send` | Continuous / Gerund (-ing) | hantar |
+| 265 | `serving` | `serve` | Continuous / Gerund (-ing) | berkhidmat |
+| 266 | `shaking` | `shake` | Continuous / Gerund (-ing) | goncang |
+| 267 | `shapes` | `shape` | Kata Kerja Present (-s/-es) | mencorakkan |
+| 268 | `showing` | `show` | Continuous / Gerund (-ing) | tunjuk / menunjukkan |
+| 269 | `sinned` | `sin` | Past Tense (V2) | berbuat dosa |
+| 270 | `sinning` | `sin` | Continuous / Gerund (-ing) | melakukan dosa |
+| 271 | `sisters` | `sister` | Kata Nama Jamak (Plural -s/-es) | kakak |
+| 272 | `sitting` | `sit` | Continuous / Gerund (-ing) | duduk |
+| 273 | `sleeps` | `sleep` | Kata Kerja Present (-s/-es) | tidur |
+| 274 | `slept` | `sleep` | Past Tense / Participle | tidur |
+| 275 | `slipped` | `slip` | Past Tense (V2) | tergelincir |
+| 276 | `slumped` | `slump` | Past Tense (V2) | merosot / jatuh tersembam |
+| 277 | `smiling` | `smile` | Continuous / Gerund (-ing) | tersenyum |
+| 278 | `smoked` | `smoke` | Past Tense / Participle (-ed) | asap / merokok |
+| 279 | `smoking` | `smoke` | Continuous / Gerund (-ing) | asap / merokok |
+| 280 | `speaks` | `speak` | Kata Kerja Present (-s/-es) | bercakap |
+| 281 | `spending` | `spend` | Continuous / Gerund (-ing) | luangkan / belanjakan |
+| 282 | `spoiled` | `spoil` | Past Tense / Passive (V2/V3) | merosakkan / dimanjakan |
+| 283 | `stampeding` | `stampede` | Continuous / Gerund (-ing) | merempuh / bersesak |
+| 284 | `standing` | `stand` | Continuous / Gerund (-ing) | berdiri |
+| 285 | `started` | `start` | Past Participle (V3) | mula / memulakan |
+| 286 | `starts` | `start` | Kata Nama Jamak (Plural -s/-es) | mula / memulakan |
+| 287 | `stations` | `station` | Kata Nama Jamak (Plural -s/-es) | stesen |
+| 288 | `stood` | `stand` | Past Tense / Participle | berdiri |
+| 289 | `stopped` | `stop` | Past Tense (V2) | berhenti |
+| 290 | `stronger` | `strong` | Perbandingan (Comparative -er) | kuat |
+| 291 | `struggling` | `struggle` | Continuous / Gerund (-ing) | perjuangan |
+| 292 | `suffering` | `suffer` | Continuous / Gerund (-ing) | menderita |
+| 293 | `supposed` | `suppose` | Past Participle (V3) | andaikan |
+| 294 | `sweating` | `sweat` | Continuous / Gerund (-ing) | peluh |
+| 295 | `taken` | `take` | Past Participle (V3) | ambil / memerlukan masa |
+| 296 | `takes` | `take` | Kata Kerja Present (-s/-es) | ambil / memerlukan masa |
+| 297 | `talks` | `talk` | Kata Kerja Present (-s/-es) | bercakap / berborak |
+| 298 | `taps` | `tap` | Kata Nama Jamak (Plural -s/-es) | ketuk |
+| 299 | `tastes` | `taste` | Kata Kerja Present (-s/-es) | rasa |
+| 300 | `taught` | `teach` | Past Tense (V2) | mengajar |
+| 301 | `teaches` | `teach` | Kata Kerja Present (-s/-es) | mengajar |
+| 302 | `teams` | `team` | Kata Nama Jamak (Plural -s/-es) | pasukan |
+| 303 | `teenagers` | `teenager` | Noun (Plural) | para remaja |
+| 304 | `telling` | `tell` | Continuous / Gerund (-ing) | beritahu / khabarkan |
+| 305 | `tells` | `tell` | Kata Kerja Present (-s/-es) | beritahu / khabarkan |
+| 306 | `theories` | `theory` | Noun (Plural) | teori-teori andaian |
+| 307 | `things` | `thing` | Kata Nama Jamak (Plural -s/-es) | benda / perkara |
+| 308 | `thinking` | `think` | Continuous / Gerund (-ing) | fikir / berfikir |
+| 309 | `thought` | `think` | Past Tense / Participle | fikir / berfikir |
+| 310 | `times` | `time` | Kata Nama Jamak (Plural -s/-es) | masa / waktu |
+| 311 | `tipped` | `tip` | Past Tense (V2) | memberatkan (timbangan) |
+| 312 | `tipping` | `tip` | Continuous / Gerund (-ing) | memberatkan (timbangan) |
+| 313 | `tips` | `tip` | Kata Nama Jamak (Plural -s/-es) | tip |
+| 314 | `told` | `tell` | Past Tense / Participle | beritahu / khabarkan |
+| 315 | `took` | `take` | Past Tense (V2) | ambil / memerlukan masa |
+| 316 | `tortured` | `torture` | Verb (Past Tense / Passive) | diseksa dengan zalim |
+| 317 | `touched` | `touch` | Past Tense (V2) | sentuh |
+| 318 | `trends` | `trend` | Noun (Plural) | trend ikutan semasa |
+| 319 | `tried` | `try` | Past Participle (V3) | cuba / mencuba |
+| 320 | `trying` | `try` | Continuous / Gerund (-ing) | cuba / mencuba |
+| 321 | `tsunamis` | `tsunami` | Noun (Plural) | gelombang-gelombang tsunami |
+| 322 | `used` | `use` | Past Participle (V3) | guna / menggunakan |
+| 323 | `values` | `value` | Kata Nama Jamak (Plural -s/-es) | nilai-nilai murni |
+| 324 | `waiting` | `wait` | Continuous / Gerund (-ing) | tunggu |
+| 325 | `walked` | `walk` | Past Tense (V2) | berjalan |
+| 326 | `walking` | `walk` | Continuous / Gerund (-ing) | berjalan |
+| 327 | `walks` | `walk` | Verb (3rd Person Singular) | berjalan melangkah |
+| 328 | `wanted` | `want` | Past Tense (V2) | mahu / nak |
+| 329 | `wants` | `want` | Kata Kerja Present (-s/-es) | mahu / nak |
+| 330 | `watching` | `watch` | Continuous / Gerund (-ing) | tonton / tengok / jam tangan |
+| 331 | `ways` | `way` | Kata Nama Jamak (Plural -s/-es) | jalan / cara |
+| 332 | `weaknesses` | `weakness` | Kata Nama Jamak (Plural -s/-es) | kelemahan |
+| 333 | `wedding` | `wed` | Continuous / Gerund (-ing) | berkahwin |
+| 334 | `weddings` | `wedding` | Kata Nama Jamak (Plural -s/-es) | perkahwinan |
+| 335 | `weeks` | `week` | Kata Nama Jamak (Plural -s/-es) | minggu |
+| 336 | `went` | `go` | Past Tense (V2) | pergi |
+| 337 | `were` | `be` | Past Tense (Plural) | menjadi / berada |
+| 338 | `whacking` | `whack` | Continuous / Gerund (-ing) | memukul / membantai |
+| 339 | `willing` | `will` | Continuous / Gerund (-ing) | akan |
+| 340 | `windows` | `window` | Kata Nama Jamak (Plural -s/-es) | tingkap |
+| 341 | `wiped` | `wipe` | Past Tense (V2) | lap |
+| 342 | `worked` | `work` | Past Tense (V2) | kerja / berfungsi |
+| 343 | `working` | `work` | Continuous / Gerund (-ing) | kerja / berfungsi |
+| 344 | `worried` | `worry` | Past Tense (V2) | risau |
+| 345 | `worshipping` | `worship` | Verb (Present Participle) | sedang beribadah |
+| 346 | `worships` | `worship` | Verb (3rd Person Singular) | menyembah Allah |
+| 347 | `worst` | `bad` | Paling / Tertinggi (Superlative -est) | teruk / buruk |
+| 348 | `wronged` | `wrong` | Verb (Past Tense / Passive) | dizalimi haknya |
+| 349 | `years` | `year` | Kata Nama Jamak (Plural -s/-es) | tahun |
+| 350 | `younger` | `young` | Perbandingan (Comparative -er) | muda |
+| 351 | `youngsters` | `youngster` | Kata Nama Jamak (Plural -s/-es) | anak-anak muda |
 
 ---
 
-## 📜 Bahagian 2: Senarai Semakan Subtitle & Word by Word (1100 Baris Tepat 1:1)
+## 📝 Bahagian 2: Jadual Penuh 1:1 Subtitle & Terjemahan Sebenar (1,099 Baris)
 
-| No | Masa | Ayat Bahasa Inggeris (Target Text) | Terjemahan Ayat (BM) | Kosa Kata / Word by Word (English → BM) |
-|:---:|:---:|:---|:---|:---|
-| 1 | 00:08 - 00:19 | My beloved brothers and sisters, did you see the news about the landslides in Nepal? | Wahai saudara-saudariku yang dikasihi, adakah anda melihat berita mengenai kejadian tanah runtuh di Nepal? | My: [saya punya / kepunyaan saya] • beloved: [kekasih / yang dikasihi] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] • did (asal: do): [telah buat / adakah] • you: [awak / anda] • see: [lihat / nampak / tengok] • the: [kata penentu (itu / si)] • news: [berita / khabar] • about: [tentang / sekitar] • landslides (asal: landslide): [tanah-tanah runtuh] • in: [dalam / di dalam] • Nepal: [negara Nepal] |
-| 2 | 00:19 - 00:25 | Did you see how everything was left? | Adakah anda melihat bagaimana segala-galanya musnah ditinggalkan? | Did (asal: do): [telah buat / adakah] • you: [awak / anda] • see: [lihat / nampak / tengok] • how: [bagaimana / macam mana] • everything: [segalanya / semua perkara] • was: [adalah / dulu berada] • left (asal: leave): [tinggalkan / keluar] |
-| 3 | 00:25 - 00:34 | Actually, this happened just a day ago, where entire communities were wiped out because, basically, a mountain | Sebenarnya, peristiwa ini berlaku baru sehari yang lalu, di mana seluruh komuniti telah lenyap kerana sebuah gunung | Actually: [sebenarnya] • this: [ini] • happened (asal: happen): [berlaku] • just: [hanya / sekadar / baru saja] • a: [sebuah / seorang / satu] • day: [hari / siang] • ago: [yang lalu / dahulu] • where: [di mana] • entire: [seluruh / segenap] • communities: [masyarakat-masyarakat / komuniti] • were (asal: be): [adalah / dulu berada] • wiped (asal: wipe): [lap] • out: [keluar / di luar] • because: [kerana / sebab] • basically: [pada asasnya] • mountain: [gunung-ganang] |
-| 4 | 00:35 - 00:35 | collapsed. | runtuh menyembah bumi. | collapsed (asal: collapse): [runtuh / menyembah bumi] |
-| 5 | 00:35 - 00:42 | And subhanallah, it is up to us to lend them a hand. | Dan subhanallah, terpulang kepada kita untuk menghulurkan tangan membantu mereka. | And: [dan] • subhanallah: [Maha Suci Allah] • it: [ia / itu] • is: [adalah / ialah] • up: [atas / naik] • to: [ke / untuk] • us: [kami / kita] • lend: [meminjamkan] • them: [mereka] • a: [sebuah / seorang / satu] • hand: [tangan] |
-| 6 | 00:42 - 00:48 | When we witness something like this, it is our duty, first and foremost, to pray for them. | Apabila kita menyaksikan musibah sebegini, kewajipan kita yang pertama dan paling utama adalah mendoakan mereka. | When: [bila / apabila] • we: [kami / kita] • witness: [menyaksikan / melihat] • something: [sesuatu] • like: [suka / seperti] • this: [ini] • it: [ia / itu] • is: [adalah / ialah] • our: [kami punya / kita punya] • duty: [kewajipan / tanggungjawab] • first: [pertama / dulu] • and: [dan] • foremost: [terpenting / paling utama] • to: [ke / untuk] • pray: [berdoa / mendirikan solat] • for: [untuk / bagi] • them: [mereka] |
-| 7 | 00:49 - 00:58 | We say inna lillahi wa inna ilayhi raji'un because we all belong to Allah and to Him we shall return. | Kita mengucapkan inna lillahi wa inna ilayhi raji'un kerana kita semua adalah milik Allah dan kepada-Nya jua kita kembali. | We: [kami / kita] • say: [cakap / berkata] • inna: [sesungguhnya kami] • lillahi: [milik Allah] • wa: [dan] • ilayhi: [kepada-Nya] • raji'un: [kami kembali] • because: [kerana / sebab] • all: [semua / seluruh] • belong: [kepunyaan / menjadi hak milik] • to: [ke / untuk] • Allah: [Allah Subhanahu wa Ta'ala] • and: [dan] • Him: [dia (lelaki)] • shall: [pasti akan] • return: [kembali / kepulangan] |
-| 8 | 00:58 - 01:07 | And at the same time, we must consider how we can best help them. | Dan pada masa yang sama, kita perlu memikirkan cara terbaik untuk kita membantu mereka. | And: [dan] • at: [di / pada] • the: [kata penentu (itu / si)] • same: [sama] • time: [masa / waktu] • we: [kami / kita] • must: [mesti / wajib] • consider: [mempertimbangkan / merenung] • how: [bagaimana / macam mana] • can: [boleh / dapat] • best (asal: good): [baik / bagus] • help: [bantu / tolong] • them: [mereka] |
-| 9 | 01:07 - 01:12 | And inshallah, our teams are already on site. | Dan insya-Allah, pasukan bantuan kita sudah pun berada di lokasi kejadian. | And: [dan] • inshallah: [insya-Allah] • our: [kami punya / kita punya] • teams (asal: team): [pasukan] • are (asal: be): [adalah / berada] • already: [sudah / telah pun] • on: [hidup / atas] • site: [lokasi kejadian / tapak] |
-| 10 | 01:12 - 01:21 | But as an ummah, we care about everyone in the world, about whoever is struggling and suffering. | Tetapi sebagai satu ummah, kita mengambil berat tentang setiap insan di dunia ini, sesiapa jua yang sedang bergelut dan menderita. | But: [tetapi / tapi] • as: [seperti / sebagai] • an: [sebuah / seorang / satu] • ummah: [ummah / umat Islam] • we: [kami / kita] • care: [peduli / prihatin] • about: [tentang / sekitar] • everyone: [semua orang] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • world: [dunia] • whoever: [sesiapa sahaja] • is: [adalah / ialah] • struggling (asal: struggle): [sedang bergelut] • and: [dan] • suffering (asal: suffer): [menderita] |
-| 11 | 01:22 - 01:28 | The biggest problem, which is probably the most enduring and which we have not been able to solve, but inshallah | Masalah terbesar yang mungkin paling berpanjangan dan masih belum mampu kita selesaikan, tetapi insya-Allah | The: [kata penentu (itu / si)] • biggest (asal: big): [besar] • problem: [masalah] • which: [yang mana] • is: [adalah / ialah] • probably: [mungkin / barangkali] • most (asal: much / many): [paling banyak / kebanyakan] • enduring: [sabar bertahan / tabah] • and: [dan] • we: [kami / kita] • have: [ada / mempunyai] • not: [bukan / tidak] • been (asal: be): [telah / pernah] • able: [mampu / boleh] • to: [ke / untuk] • solve: [menyelesaikan masalah] • but: [tetapi / tapi] • inshallah: [insya-Allah] |
-| 12 | 01:28 - 01:35 | there is hope that the resolution will come very, very soon with the help of Allah, is the problem of Palestine. | ada harapan bahawa penyelesaiannya akan tiba tidak lama lagi dengan pertolongan Allah, adalah isu Palestin. | there: [di sana / ada] • is: [adalah / ialah] • hope: [harapan / berharap] • that: [itu / yang] • the: [kata penentu (itu / si)] • resolution: [ketetapan azam] • will: [akan] • come: [datang / mari] • very: [sangat / amat] • soon: [sebentar lagi] • with: [dengan / bersama] • help: [bantu / tolong] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] • problem: [masalah] • Palestine: [bumi Palestin] |
-| 13 | 01:36 - 01:39 | Gaza is in our hearts. | Gaza sentiasa terpahat di dalam hati kita. | Gaza: [Gaza (Palestin)] • is: [adalah / ialah] • in: [dalam / di dalam] • our: [kami punya / kita punya] • hearts (asal: heart): [hati] |
-| 14 | 01:39 - 01:41 | We have worked there for many years. | Kami telah berkhidmat dan berbakti di sana selama bertahun-tahun. | We: [kami / kita] • have: [ada / mempunyai] • worked (asal: work): [kerja / berfungsi] • there: [di sana / ada] • for: [untuk / bagi] • many: [banyak] • years (asal: year): [tahun] |
-| 15 | 01:41 - 01:45 | We have orphanages there, and we used to have a lot of them. | Kami mempunyai rumah-rumah anak yatim di sana, dan dahulu kami memiliki banyak cawangan. | We: [kami / kita] • have: [ada / mempunyai] • orphanages (asal: orphanage): [rumah-rumah anak yatim] • there: [di sana / ada] • and: [dan] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • them: [mereka] |
-| 16 | 01:45 - 01:52 | Unfortunately, right now we're just trying to get them some kind of help for their survival, more than anything | Malangnya, pada saat ini kita sekadar berusaha menyalurkan bantuan asas untuk kelangsungan hidup mereka, melebihi apa jua | Unfortunately: [malangnya / sayangnya] • right: [betul / kanan / tepat] • now: [sekarang] • we're: [kami / kita sedang (singkatan 'we are')] • just: [hanya / sekadar / baru saja] • trying (asal: try): [cuba / mencuba] • to: [ke / untuk] • get: [dapat / mengambil] • them: [mereka] • some: [beberapa / sedikit] • kind: [jenis / baik hati] • of: [daripada / tentang] • help: [bantu / tolong] • for: [untuk / bagi] • their: [mereka punya / kepunyaan mereka] • survival: [kelangsungan hidup] • more (asal: much / many): [lebih banyak] • than: [daripada] • anything: [apa-apa pun / sebarang perkara] |
-| 17 | 01:52 - 01:53 | else. | perkara lain. | else: [lain] |
-| 18 | 01:53 - 01:58 | But nevertheless, we have great hope because Allah Almighty is our Lord. | Namun begitu, kita tetap menaruh harapan yang amat besar kerana Allah Yang Maha Berkuasa adalah Tuhan kita. | But: [tetapi / tapi] • nevertheless: [namun demikian] • we: [kami / kita] • have: [ada / mempunyai] • great: [hebat / besar] • hope: [harapan / berharap] • because: [kerana / sebab] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • is: [adalah / ialah] • our: [kami punya / kita punya] • Lord: [Tuhan] |
-| 19 | 01:58 - 02:02 | If we had no faith, we would have no hope at all. | Sekiranya kita tiada iman, kita pasti tidak akan mempunyai sekelumit harapan pun. | If: [jika / kalau] • we: [kami / kita] • had (asal: have): [mempunyai / telah ada] • no: [tidak / tiada] • faith: [keimanan / akidah] • would: [akan / sudi] • have: [ada / mempunyai] • hope: [harapan / berharap] • at: [di / pada] • all: [semua / seluruh] |
-| 20 | 02:02 - 02:05 | But because we have faith, we know that Allah is there. | Tetapi kerana kita memiliki iman, kita yakin bahawa Allah sentiasa ada bersama kita. | But: [tetapi / tapi] • because: [kerana / sebab] • we: [kami / kita] • have: [ada / mempunyai] • faith: [keimanan / akidah] • know: [tahu / kenal] • that: [itu / yang] • Allah: [Allah Subhanahu wa Ta'ala] • is: [adalah / ialah] • there: [di sana / ada] |
-| 21 | 02:05 - 02:09 | Allah gives, and Allah can change the situation in an instant. | Allah yang memberi, dan Allah mampu mengubah situasi dalam sekelip mata. | Allah: [Allah Subhanahu wa Ta'ala] • gives (asal: give): [beri / memberikan] • and: [dan] • can: [boleh / dapat] • change: [ubah / menukar] • the: [kata penentu (itu / si)] • situation: [keadaan / situasi] • in: [dalam / di dalam] • an: [sebuah / seorang / satu] • instant: [serta-merta / sekelip mata] |
-| 22 | 02:09 - 02:15 | In the same way that positive things can become negative, negative things can also become positive. | Sebagaimana perkara positif boleh berubah menjadi negatif, perkara negatif juga mampu bertukar menjadi positif. | In: [dalam / di dalam] • the: [kata penentu (itu / si)] • same: [sama] • way: [jalan / cara] • that: [itu / yang] • positive: [positif / membina] • things (asal: thing): [benda-benda / perkara-perkara] • can: [boleh / dapat] • become: [menjadi] • negative: [negatif / buruk] • also: [juga / selain itu] |
-| 23 | 02:15 - 02:21 | I have people who sometimes come to me saying, "You know, I'm going through some difficulties." I don't have | Ada orang yang kadangkala datang kepada saya dan berkata, "Tuan tahu, saya sedang melalui pelbagai kesukaran hidup." Saya tiada | I: [saya / aku] • have: [ada / mempunyai] • people (asal: person): [orang ramai / manusia] • who: [siapa / orang yang] • sometimes: [kadang-kadang] • come: [datang / mari] • to: [ke / untuk] • me: [saya / aku] • saying (asal: say): [cakap / berkata] • You: [awak / anda] • know: [tahu / kenal] • I'm: [saya / saya sedang (singkatan 'I am')] • going (asal: go): [sedang pergi / akan] • through: [melalui / merentasi] • some: [beberapa / sedikit] • difficulties (asal: difficulty): [kesukaran] • don't: [jangan / tidak (singkatan 'do not')] |
-| 24 | 02:21 - 02:21 | a job. | pekerjaan. | a: [sebuah / seorang / satu] • job: [pekerjaan / tugas] |
-| 25 | 02:22 - 02:23 | I can't get married. | Saya belum mampu berkahwin. | I: [saya / aku] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • get: [dapat / mengambil] • married (asal: marry): [berkahwin] |
-| 26 | 02:23 - 02:27 | I'm really struggling with my health, and this is happening, and that too. | Saya benar-benar bergelut dengan masalah kesihatan, masalah ini menimpa dan masalah itu juga berlaku. | I'm: [saya / saya sedang (singkatan 'I am')] • really: [betul-betul / sungguh] • struggling (asal: struggle): [sedang bergelut] • with: [dengan / bersama] • my: [saya punya / kepunyaan saya] • health: [kesihatan] • and: [dan] • this: [ini] • is: [adalah / ialah] • happening (asal: happen): [berlaku] • that: [itu / yang] • too: [juga / terlalu] |
-| 27 | 02:27 - 02:32 | And after a year, I find them and, mashallah, they are married, they have jobs, they have children and much | Dan selepas setahun, saya bertemu mereka kembali dan masya-Allah, mereka sudah berkahwin, mendapat pekerjaan, mempunyai zuriat dan banyak | And: [dan] • after: [selepas / sesudah] • a: [sebuah / seorang / satu] • year: [tahun] • I: [saya / aku] • find: [cari / menemui] • them: [mereka] • mashallah: [masya-Allah] • they: [mereka] • are (asal: be): [adalah / berada] • married (asal: marry): [berkahwin] • have: [ada / mempunyai] • jobs (asal: job): [pekerjaan] • children (asal: child): [anak] • much: [banyak] |
-| 28 | 02:32 - 02:33 | more. | lagi nikmat. | more (asal: much / many): [lebih banyak] |
-| 29 | 02:33 - 02:35 | And this is all by the grace of Allah. | Dan semua ini adalah semata-mata dengan limpah kurnia Allah. | And: [dan] • this: [ini] • is: [adalah / ialah] • all: [semua / seluruh] • by: [oleh / dengan / menjelang] • the: [kata penentu (itu / si)] • grace: [kurniaan rahmat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 30 | 02:35 - 02:38 | So let us not lose hope in the mercy of Allah. | Oleh itu janganlah sesekali kita berputus asa daripada rahmat Allah. | So: [jadi / sangat] • let: [biarkan / membenarkan] • us: [kami / kita] • not: [bukan / tidak] • lose: [hilang / kehilangan] • hope: [harapan / berharap] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • mercy: [rahmat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 31 | 02:38 - 02:43 | The theme of this tour is, without a doubt, hope for the ummah. | Tema siri jelajah ini, tanpa sebarang keraguan, adalah menyemai harapan buat ummah. | The: [kata penentu (itu / si)] • theme: [tema utama] • of: [daripada / tentang] • this: [ini] • tour: [jelajah jelajahan] • is: [adalah / ialah] • without: [tanpa] • a: [sebuah / seorang / satu] • doubt: [keraguan / syak wasangka] • hope: [harapan / berharap] • for: [untuk / bagi] • ummah: [ummah / umat Islam] |
-| 32 | 02:43 - 02:45 | We need to have hope. | Kita wajib memiliki harapan. | We: [kami / kita] • need: [perlu / memerlukan] • to: [ke / untuk] • have: [ada / mempunyai] • hope: [harapan / berharap] |
-| 33 | 02:46 - 02:52 | But there is something I want to say today, being one of our last conferences in this beautiful city of Aberdeen. | Tetapi ada sesuatu yang ingin saya sampaikan pada hari ini, memandangkan ini salah satu persidangan terakhir kita di bandar Aberdeen yang indah ini. | But: [tetapi / tapi] • there: [di sana / ada] • is: [adalah / ialah] • something: [sesuatu] • I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • say: [cakap / berkata] • today: [hari ini] • being (asal: be): [makhluk / insan] • one: [satu / seorang] • of: [daripada / tentang] • our: [kami punya / kita punya] • last: [terakhir / lepas] • conferences (asal: conference): [persidangan-persidangan] • in: [dalam / di dalam] • this: [ini] • beautiful: [indah / cantik] • city: [kota / bandar] • Aberdeen: [Aberdeen (bandar di Scotland)] |
-| 34 | 02:52 - 02:56 | It's quite far, to the north, isn't it? | Ia agak jauh di sebelah utara, bukan? | It's: [ia adalah / itu (singkatan 'it is/has')] • quite: [agak / cukup] • far: [jauh] • to: [ke / untuk] • the: [kata penentu (itu / si)] • north: [bahagian utara] • isn't: [bukan / tidak (singkatan 'is not')] • it: [ia / itu] |
-| 35 | 02:56 - 03:01 | Masha'Allah, but it 's good in a way, you know, only serious people come here. | Masya-Allah, namun ada kebaikannya juga, hanya mereka yang benar-benar bersungguh-sungguh akan hadir ke sini. | Masha'Allah: [masya-Allah (kehendak Allah)] • but: [tetapi / tapi] • it: [ia / itu] • s: [saf solat] • good: [baik / bagus] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • way: [jalan / cara] • you: [awak / anda] • know: [tahu / kenal] • only: [hanya / sahaja] • serious: [serius / bersungguh-sungguh] • people (asal: person): [orang ramai / manusia] • come: [datang / mari] • here: [di sini] |
-| 36 | 03:01 - 03:03 | Those who are not serious, you won't find them in Aberdeen. | Mereka yang tidak bersungguh-sungguh tidak akan anda jumpai di Aberdeen. | Those: [semua itu] • who: [siapa / orang yang] • are (asal: be): [adalah / berada] • not: [bukan / tidak] • serious: [serius / bersungguh-sungguh] • you: [awak / anda] • won't: [tidak akan / takkan (singkatan 'will not')] • find: [cari / menemui] • them: [mereka] • in: [dalam / di dalam] • Aberdeen: [Aberdeen (bandar di Scotland)] |
-| 37 | 03:03 - 03:08 | Look at all these wonderful and beautiful faces that fill this beautiful mosque, brothers and sisters. | Lihatlah wajah-wajah yang begitu indah dan berseri yang memenuhkan masjid yang cantik ini, wahai saudaraku sekalian. | Look: [tengok / kelihatan] • at: [di / pada] • all: [semua / seluruh] • these: [semua ini] • wonderful: [hebat / luar biasa] • and: [dan] • beautiful: [indah / cantik] • faces: [wajah-wajah] • that: [itu / yang] • fill: [mengisi / memenuhi] • this: [ini] • mosque: [masjid / rumah Allah] • brothers (asal: brother): [saudara-saudara] • sisters (asal: sister): [saudari-saudari] |
-| 38 | 03:08 - 03:14 | And when I hear young children making a lot of what we call noise, wallahi, it's a good sign. | Dan apabila saya mendengar anak-anak kecil membuat bising di dalam masjid, demi Allah, ia adalah petanda yang sangat baik. | And: [dan] • when: [bila / apabila] • I: [saya / aku] • hear: [mendengar] • young: [muda] • children (asal: child): [anak] • making (asal: make): [sedang membuat] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • what: [apa / apakah] • we: [kami / kita] • call: [memanggil / panggilan] • noise: [bunyi bising / kekecohan] • wallahi: [demi Allah] • it's: [ia adalah / itu (singkatan 'it is/has')] • good: [baik / bagus] • sign: [tanda / isyarat] |
-| 39 | 03:14 - 03:16 | That's a very good sign. | Itu merupakan petanda yang amat positif. | That's: [itu adalah / itu (singkatan 'that is')] • a: [sebuah / seorang / satu] • very: [sangat / amat] • good: [baik / bagus] • sign: [tanda / isyarat] |
-| 40 | 03:16 - 03:18 | It doesn't irritate me at all. | Ia langsung tidak mengganggu atau merimaskan saya. | It: [ia / itu] • doesn't: [tidak / tak (singkatan 'does not')] • irritate: [menjengkelkan / menyakitkan hati] • me: [saya / aku] • at: [di / pada] • all: [semua / seluruh] |
-| 41 | 03:18 - 03:20 | The reason is that they are our children. | Alasannya adalah kerana mereka merupakan anak-anak generasi kita. | The: [kata penentu (itu / si)] • reason: [sebab / alasan] • is: [adalah / ialah] • that: [itu / yang] • they: [mereka] • are (asal: be): [adalah / berada] • our: [kami punya / kita punya] • children (asal: child): [anak] |
-| 42 | 03:21 - 03:27 | Let them come to the mosque and enjoy their days, because there will come a time when who knows what might | Biarkanlah mereka datang ke masjid dan menikmati zaman kanak-kanak mereka, kerana akan tiba suatu masa di mana kita tidak tahu apa yang bakal | Let: [biarkan / membenarkan] • them: [mereka] • come: [datang / mari] • to: [ke / untuk] • the: [kata penentu (itu / si)] • mosque: [masjid / rumah Allah] • and: [dan] • enjoy: [menikmati / berasa seronok] • their: [mereka punya / kepunyaan mereka] • days (asal: day): [hari / siang] • because: [kerana / sebab] • there: [di sana / ada] • will: [akan] • a: [sebuah / seorang / satu] • time: [masa / waktu] • when: [bila / apabila] • who: [siapa / orang yang] • knows (asal: know): [tahu / kenal] • what: [apa / apakah] • might: [mungkin / daya] |
-| 43 | 03:27 - 03:28 | happen. | berlaku. | happen: [berlaku / terjadi] |
-| 44 | 03:28 - 03:35 | May Allah grant us the continued ability to visit their homes and, inshallah, our children and descendants. | Semoga Allah sentiasa memberi kita keupayaan untuk memakmurkan rumah-Nya bersama anak-anak dan keturunan kita insya-Allah. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] • the: [kata penentu (itu / si)] • continued (asal: continue): [teruskan / menyambung] • ability: [kemampuan / kebolehan] • to: [ke / untuk] • visit: [menziarahi / melawat] • their: [mereka punya / kepunyaan mereka] • homes (asal: home): [rumah / kediaman] • and: [dan] • inshallah: [insya-Allah] • our: [kami punya / kita punya] • children (asal: child): [anak] • descendants (asal: descendant): [keturunan / anak cucu] |
-| 45 | 03:35 - 03:36 | Amen. | Amin. | Amen: [aminkan / kabulkanlah] |
-| 46 | 03:36 - 03:41 | But my brothers and sisters, you and I know that the world out there is very challenging. | Tetapi wahai saudaraku, anda dan saya maklum bahawa dunia di luar sana amat mencabar. | But: [tetapi / tapi] • my: [saya punya / kepunyaan saya] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] • you: [awak / anda] • I: [saya / aku] • know: [tahu / kenal] • that: [itu / yang] • the: [kata penentu (itu / si)] • world: [dunia] • out: [keluar / di luar] • there: [di sana / ada] • is: [adalah / ialah] • very: [sangat / amat] • challenging (asal: challenge): [cabaran] |
-| 47 | 03:41 - 03:50 | There are challenges we face globally, whether from a man-made disaster like war, or something less related to | Terdapat pelbagai cabaran yang kita hadapi di peringkat global, sama ada bencana akibat perbuatan manusia seperti peperangan, atau perkara yang kurang berkait dengan | There: [di sana / ada] • are (asal: be): [adalah / berada] • challenges (asal: challenge): [cabaran-cabaran] • we: [kami / kita] • face: [muka / wajah] • globally: [secara global / menyeluruh] • whether: [sama ada] • from: [dari / daripada] • a: [sebuah / seorang / satu] • man: [lelaki / orang] • made (asal: make): [dibuat / menghasilkan] • disaster: [bencana] • like: [suka / seperti] • war: [peperangan] • or: [atau] • something: [sesuatu] • less (asal: little): [kecil / sedikit] • related (asal: relate): [kaitkan] • to: [ke / untuk] |
-| 48 | 03:50 - 03:53 | man, perhaps the climate. | manusia, mungkin faktor perubahan iklim. | man: [lelaki / orang] • perhaps: [mungkin / barangkali] • the: [kata penentu (itu / si)] • climate: [iklim / cuaca] |
-| 49 | 03:53 - 03:57 | These days, they say that even the weather—you never know why it happens. | Kebelakangan ini, mereka berkata cuaca sekalipun—kita tidak lagi tahu mengapa ia berlaku sebegitu rupa. | These: [semua ini] • days (asal: day): [hari / siang] • they: [mereka] • say: [cakap / berkata] • that: [itu / yang] • even: [malah / pun] • the: [kata penentu (itu / si)] • weather: [keadaan cuaca] • you: [awak / anda] • never: [tidak pernah / tak pernah] • know: [tahu / kenal] • why: [mengapa / kenapa] • it: [ia / itu] • happens (asal: happen): [berlaku] |
-| 50 | 03:57 - 03:58 | Who knows? | Siapa yang tahu? | Who: [siapa / orang yang] • knows (asal: know): [tahu / kenal] |
-| 51 | 03:58 - 04:02 | I read some theories that claim there are people trying to manipulate the weather. | Saya ada membaca beberapa teori yang mendakwa wujud pihak yang cuba memanipulasi cuaca dunia. | I: [saya / aku] • read: [membaca] • some: [beberapa / sedikit] • theories (asal: theory): [teori-teori andaian] • that: [itu / yang] • claim: [dakwaan / pengakuan] • there: [di sana / ada] • are (asal: be): [adalah / berada] • people (asal: person): [orang ramai / manusia] • trying (asal: try): [cuba / mencuba] • to: [ke / untuk] • manipulate: [memanipulasi] • the: [kata penentu (itu / si)] • weather: [keadaan cuaca] |
-| 52 | 04:02 - 04:11 | I've even read theories that claim forest fires are controlled by lightning from space stations. | Malah saya pernah terbaca teori yang mendakwa kebakaran hutan dikawal oleh pancaran kilat dari stesen angkasa lepas. | I've: [saya telah / saya dah (singkatan 'I have')] • even: [malah / pun] • read: [membaca] • theories (asal: theory): [teori-teori andaian] • that: [itu / yang] • claim: [dakwaan / pengakuan] • forest: [hutan rimba] • fires (asal: fire): [kebakaran-kebakaran] • are (asal: be): [adalah / berada] • controlled (asal: control): [kawalan] • by: [oleh / dengan / menjelang] • lightning: [panahan kilat] • from: [dari / daripada] • space: [ruang] • stations (asal: station): [stesen] |
-| 53 | 04:12 - 04:16 | I don't even know if that's true or not, but it's very risky. | Saya sendiri tidak tahu sama ada dakwaan itu benar atau tidak, tetapi ia kedengaran amat berisiko. | I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • know: [tahu / kenal] • if: [jika / kalau] • that's: [itu adalah / itu (singkatan 'that is')] • true: [benar] • or: [atau] • not: [bukan / tidak] • but: [tetapi / tapi] • it's: [ia adalah / itu (singkatan 'it is/has')] • very: [sangat / amat] • risky: [berisiko tinggi] |
-| 54 | 04:16 - 04:24 | I wouldn't rule anything out from those who truly have no respect for humanity, and you and I know who they | Saya tidak menolak sebarang kemungkinan daripada mereka yang langsung tidak mempunyai rasa hormat terhadap kemanusiaan, dan kita semua tahu siapakah mereka | I: [saya / aku] • wouldn't: [tidak akan / takkan (singkatan 'would not')] • rule: [peraturan] • anything: [apa-apa pun / sebarang perkara] • out: [keluar / di luar] • from: [dari / daripada] • those: [semua itu] • who: [siapa / orang yang] • truly: [benar-benar / sesungguhnya] • have: [ada / mempunyai] • no: [tidak / tiada] • respect: [menghormati / rasa hormat] • for: [untuk / bagi] • humanity: [kemanusiaan] • and: [dan] • you: [awak / anda] • know: [tahu / kenal] • they: [mereka] |
-| 55 | 04:24 - 04:24 | are. | itu. | are (asal: be): [adalah / berada] |
-| 56 | 04:24 - 04:25 | Without respect for humanity. | Golongan yang tiada secebis rasa hormat terhadap nilai kemanusiaan. | Without: [tanpa] • respect: [menghormati / rasa hormat] • for: [untuk / bagi] • humanity: [kemanusiaan] |
-| 57 | 04:25 - 04:30 | They would do anything to stay in charge. | Mereka sanggup melakukan apa sahaja demi mengekalkan kekuasaan. | They: [mereka] • would: [akan / sudi] • do: [buat / lakukan] • anything: [apa-apa pun / sebarang perkara] • to: [ke / untuk] • stay: [tinggal / terus kekal] • in: [dalam / di dalam] • charge: [caj / mengecas] |
-| 58 | 04:31 - 04:32 | May Allah protect us. | Semoga Allah melindungi kita semua. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • protect: [pelihara / lindungi] • us: [kami / kita] |
-| 59 | 04:33 - 04:33 | Wallahi, we are Muslims. | Demi Allah, kita adalah orang Islam. | Wallahi: [demi Allah] • we: [kami / kita] • are (asal: be): [adalah / berada] • Muslims: [orang-orang Islam] |
-| 60 | 04:33 - 04:35 | We are taught to be humanitarian. | Kita dididik untuk memiliki sifat perikemanusiaan yang tinggi. | We: [kami / kita] • are (asal: be): [adalah / berada] • taught (asal: teach): [diajar] • to: [ke / untuk] • be: [menjadi / berada] • humanitarian: [kemanusiaan] |
-| 61 | 04:35 - 04:39 | We are taught to be people who care about every life. | Kita diajar untuk menjadi insan yang mengambil berat tentang setiap nyawa. | We: [kami / kita] • are (asal: be): [adalah / berada] • taught (asal: teach): [diajar] • to: [ke / untuk] • be: [menjadi / berada] • people (asal: person): [orang ramai / manusia] • who: [siapa / orang yang] • care: [peduli / prihatin] • about: [tentang / sekitar] • every: [setiap / tiap-tiap] • life: [kehidupan] |
-| 62 | 04:39 - 04:41 | Fī kulli kabidin ratbatin ajrun. | Fi kulli kabidin ratbatin ajrun (Pada setiap hati yang basah bernyawa ada ganjarannya). | kulli: [setiap / seluruh] • kabidin: [kesusahan / kelelahan payah] • ratbatin: [basah / segar] • ajrun: [ganjaran pahala] |
-| 63 | 04:41 - 04:48 | The Prophet, peace and blessings be upon him, teaches us that in everything that has life, if we use that | Rasulullah SAW mengajar kita bahawa dalam setiap makhluk bernyawa, sekiranya kita menggunakan bahasa | The: [kata penentu (itu / si)] • Prophet: [Nabi / Rasul] • peace: [keamanan / kedamaian] • and: [dan] • blessings (asal: blessing): [keberkatan / nikmat] • be: [menjadi / berada] • upon: [ke atas / di atas] • him: [dia (lelaki)] • teaches (asal: teach): [mengajar] • us: [kami / kita] • that: [itu / yang] • in: [dalam / di dalam] • everything: [segalanya / semua perkara] • has: [ada / mempunyai] • life: [kehidupan] • if: [jika / kalau] • we: [kami / kita] • use: [guna / menggunakan] |
-| 64 | 04:48 - 04:52 | language to translate it, there is a reward for saving and serving it. | itu untuk menterjemahkannya, terdapat pahala yang besar bagi mereka yang menyelamatkan dan membantunya. | language: [bahasa] • to: [ke / untuk] • translate: [menterjemahkan] • it: [ia / itu] • there: [di sana / ada] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • reward: [ganjaran / pahala] • for: [untuk / bagi] • saving: [menyelamatkan] • and: [dan] • serving (asal: serve): [berkhidmat] |
-| 65 | 04:52 - 04:55 | I always talk about the dog. | Saya sering menceritakan tentang kisah anjing. | I: [saya / aku] • always: [sentiasa / selalu] • talk: [bercakap / berborak] • about: [tentang / sekitar] • the: [kata penentu (itu / si)] • dog: [anjing] |
-| 66 | 04:55 - 04:56 | Do you know which dog? | Adakah anda tahu kisah anjing yang mana satu? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • which: [yang mana] • dog: [anjing] |
-| 67 | 04:56 - 04:57 | Guess what. | Cuba teka. | Guess: [agak / meneka] • what: [apa / apakah] |
-| 68 | 04:57 - 05:00 | Which dog am I talking about? | Kisah anjing manakah yang sedang saya bincangkan? | Which: [yang mana] • dog: [anjing] • am: [adalah / berada] • I: [saya / aku] • talking (asal: talk): [bercakap / berborak] • about: [tentang / sekitar] |
-| 69 | 05:00 - 05:02 | The one that...? | Anjing yang...? | The: [kata penentu (itu / si)] • one: [satu / seorang] • that: [itu / yang] |
-| 70 | 05:02 - 05:04 | Which one? | Yang mana satu? | Which: [yang mana] • one: [satu / seorang] |
-| 71 | 05:04 - 05:07 | The greyhound? | Anjing pemburu greyhound? | The: [kata penentu (itu / si)] • greyhound: [anjing lumba jenis greyhound] |
-| 72 | 05:07 - 05:08 | The water dog. | Anjing yang kehausan air. | The: [kata penentu (itu / si)] • water: [air] • dog: [anjing] |
-| 73 | 05:08 - 05:08 | Correct, habibi. | Tepat sekali, sahabatku. | Correct: [betul / tepat] • habibi: [wahai sahabatku / kekasihku] |
-| 74 | 05:09 - 05:09 | That's right, you're correct. | Betul, jawapan anda sangat tepat. | That's: [itu adalah / itu (singkatan 'that is')] • right: [betul / kanan / tepat] • you're: [anda / awak adalah (singkatan 'you are')] • correct: [betul / tepat] |
-| 75 | 05:09 - 05:11 | I always talk about the water dog. | Saya selalu berkongsi tentang kisah anjing yang dahagakan air itu. | I: [saya / aku] • always: [sentiasa / selalu] • talk: [bercakap / berborak] • about: [tentang / sekitar] • the: [kata penentu (itu / si)] • water: [air] • dog: [anjing] |
-| 76 | 05:11 - 05:12 | Why do I say that? | Mengapakah saya sering menyebut kisah itu? | Why: [mengapa / kenapa] • do: [buat / lakukan] • I: [saya / aku] • say: [cakap / berkata] • that: [itu / yang] |
-| 77 | 05:12 - 05:14 | Because I want to say it again. | Kerana saya ingin mengulanginya sekali lagi di sini. | Because: [kerana / sebab] • I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • say: [cakap / berkata] • it: [ia / itu] • again: [lagi / sekali lagi] |
-| 78 | 05:14 - 05:15 | Abideen, masha Allah. | Warga Aberdeen, masya-Allah. | Abideen: [Aberdeen (sebutan dialek)] • masha: [masya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 79 | 05:15 - 05:16 | You guys have good water, man. | Kualiti air di tempat anda sangat baik. | You: [awak / anda] • guys (asal: guy): [kawan-kawan / kalian] • have: [ada / mempunyai] • good: [baik / bagus] • water: [air] • man: [lelaki / orang] |
-| 80 | 05:17 - 05:19 | The tap water here tastes a little different. | Air paip di sini rasanya sedikit berbeza dan sedap. | The: [kata penentu (itu / si)] • tap: [paip air / mengetuk perlahan] • water: [air] • here: [di sini] • tastes (asal: taste): [rasa] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • different: [berbeza / kelainan] |
-| 81 | 05:19 - 05:21 | Am I right? | Betul tak apa yang saya katakan? | Am: [adalah / berada] • I: [saya / aku] • right: [betul / kanan / tepat] |
-| 82 | 05:21 - 05:22 | Subhan Allah. | Subhanallah. | Subhan: [Maha Suci Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 83 | 05:22 - 05:27 | Yesterday in Dundee they told me: " We have the best water." But I think Abideen could compete, right? | Semalam di Dundee mereka beritahu saya: "Kami ada air yang terbaik." Namun saya rasa Aberdeen mampu menyainginya, bukan? | Yesterday: [semalam / kelmarin] • in: [dalam / di dalam] • Dundee: [Dundee (bandar di Scotland)] • they: [mereka] • told (asal: tell): [memberitahu] • me: [saya / aku] • We: [kami / kita] • have: [ada / mempunyai] • the: [kata penentu (itu / si)] • best (asal: good): [baik / bagus] • water: [air] • But: [tetapi / tapi] • I: [saya / aku] • think: [fikir / berfikir] • Abideen: [Aberdeen (sebutan dialek)] • could: [boleh / dapat] • compete: [bersaing / berlumba-lumba] • right: [betul / kanan / tepat] |
-| 84 | 05:27 - 05:30 | Which is better, Abideen's water or Dundee's? | Mana yang lebih enak, air di Aberdeen atau air di Dundee? | Which: [yang mana] • is: [adalah / ialah] • better (asal: good): [lebih baik] • Abideen's: [kepunyaan Aberdeen] • water: [air] • or: [atau] • Dundee's: [kepunyaan Dundee] |
-| 85 | 05:30 - 05:32 | Both. | Kedua-duanya sekali. | Both: [kedua-dua] |
-| 86 | 05:32 - 05:33 | Okay, | Baiklah, | Okay: [baiklah / okey] |
-| 87 | 05:34 - 05:34 | masha Allah. | masya-Allah. | masha: [masya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 88 | 05:34 - 05:36 | Come, the sheikh knows how to unite people. | Tengoklah, syeikh kita ini tahu bagaimana hendak menyatukan hati manusia. | Come: [datang / mari] • the: [kata penentu (itu / si)] • sheikh: [syeikh / alim ulama] • knows (asal: know): [tahu / kenal] • how: [bagaimana / macam mana] • to: [ke / untuk] • unite: [bersatu padu] • people (asal: person): [orang ramai / manusia] |
-| 89 | 05:36 - 05:37 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 90 | 05:37 - 05:39 | If we say Abideen, we have a problem. | Kalau kita pilih Aberdeen, kita akan timbulkan masalah. | If: [jika / kalau] • we: [kami / kita] • say: [cakap / berkata] • Abideen: [Aberdeen (sebutan dialek)] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • problem: [masalah] |
-| 91 | 05:39 - 05:40 | If we say Dundee, we have a problem. | Kalau kita pilih Dundee pula, kita juga timbulkan masalah. | If: [jika / kalau] • we: [kami / kita] • say: [cakap / berkata] • Dundee: [Dundee (bandar di Scotland)] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • problem: [masalah] |
-| 92 | 05:41 - 05:44 | I think we should say Abadundee. | Saya rasa kita patut sebut 'Abadundee' sahaja. | I: [saya / aku] • think: [fikir / berfikir] • we: [kami / kita] • should: [patut / patutlah] • say: [cakap / berkata] • Abadundee: [Aberdeen dan Dundee (gabungan nama)] |
-| 93 | 05:44 - 05:45 | TRUE? | Betul tak? | TRUE: [benar] |
-| 94 | 05:45 - 05:45 | Mashallah. | Masya-Allah. | Mashallah: [masya-Allah] |
-| 95 | 05:45 - 05:47 | May Allah make it easy. | Semoga Allah memudahkan urusan kita. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • make: [buat / menghasilkan] • it: [ia / itu] • easy: [mudah / senang] |
-| 96 | 05:47 - 05:51 | It's Scottish water, but mashallah, it's good, pure, and clean. | Ia sememangnya air Scotland, tetapi masya-Allah, ia sangat enak, murni, dan bersih. | It's: [ia adalah / itu (singkatan 'it is/has')] • Scottish: [masyarakat Scotland] • water: [air] • but: [tetapi / tapi] • mashallah: [masya-Allah] • good: [baik / bagus] • pure: [suci murni] • and: [dan] • clean: [bersih / membersihkan] |
-| 97 | 05:51 - 05:56 | But look, there was a man who gave water from a well that wasn't clean in the sense that, you know, when | Tetapi lihatlah, ada seorang lelaki yang memberi minum air dari sebuah perigi yang tidaklah begitu bersih dalam erti kata, | But: [tetapi / tapi] • look: [tengok / kelihatan] • there: [di sana / ada] • was: [adalah / dulu berada] • a: [sebuah / seorang / satu] • man: [lelaki / orang] • who: [siapa / orang yang] • gave (asal: give): [beri / memberikan] • water: [air] • from: [dari / daripada] • well: [baiklah / elok / telaga] • that: [itu / yang] • wasn't: [bukan / tidak (singkatan 'was not')] • clean: [bersih / membersihkan] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • sense: [deria / logik akal] • you: [awak / anda] • know: [tahu / kenal] • when: [bila / apabila] |
-| 98 | 05:56 - 06:01 | you draw water from a well with your shoe, it has a little bit of dirt in it, right? | apabila anda menceduk air telaga menggunakan kasut anda, pasti ada sedikit debu tanah di dalamnya, betul? | you: [awak / anda] • draw: [menarik / mendekatkan] • water: [air] • from: [dari / daripada] • a: [sebuah / seorang / satu] • well: [baiklah / elok / telaga] • with: [dengan / bersama] • your: [awak punya / anda punya] • shoe: [kasut] • it: [ia / itu] • has: [ada / mempunyai] • little: [kecil / sedikit] • bit (asal: bite): [sedikit / sikit] • of: [daripada / tentang] • dirt: [debu tanah / kekotoran] • in: [dalam / di dalam] • right: [betul / kanan / tepat] |
-| 99 | 06:01 - 06:03 | It's not like the one we have today. | Itu tidaklah sebersih bekalan air yang kita nikmati hari ini. | It's: [ia adalah / itu (singkatan 'it is/has')] • not: [bukan / tidak] • like: [suka / seperti] • the: [kata penentu (itu / si)] • one: [satu / seorang] • we: [kami / kita] • have: [ada / mempunyai] • today: [hari ini] |
-| 100 | 06:03 - 06:05 | And he was giving that water to a dog. | Dan dia memberikan air itu kepada seekor anjing yang kehausan. | And: [dan] • he: [dia (lelaki)] • was: [adalah / dulu berada] • giving (asal: give): [beri / memberikan] • that: [itu / yang] • water: [air] • to: [ke / untuk] • a: [sebuah / seorang / satu] • dog: [anjing] |
-| 101 | 06:05 - 06:06 | What is a dog? | Apakah itu anjing? | What: [apa / apakah] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • dog: [anjing] |
-| 102 | 06:06 - 06:08 | A dog is not a human. | Seekor anjing bukanlah manusia. | A: [sebuah / seorang / satu] • dog: [anjing] • is: [adalah / ialah] • not: [bukan / tidak] • human: [manusia] |
-| 103 | 06:08 - 06:13 | A dog has no bearing on a human being's status in the eyes of Allah. | Haiwan anjing tidak menentukan darjat seorang manusia di sisi Allah. | A: [sebuah / seorang / satu] • dog: [anjing] • has: [ada / mempunyai] • no: [tidak / tiada] • bearing: [menanggung / menyematkan] • on: [hidup / atas] • human: [manusia] • being's: [makhluk / keinsanan] • status: [kedudukan / status] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • eyes (asal: eye): [mata] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 104 | 06:13 - 06:15 | But a dog is simply a creation of Allah. | Namun anjing itu sememangnya salah satu daripada makhluk ciptaan Allah. | But: [tetapi / tapi] • a: [sebuah / seorang / satu] • dog: [anjing] • is: [adalah / ialah] • simply: [semata-mata / secara mudah] • creation: [ciptaan] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 105 | 06:15 - 06:20 | Perhaps there is a connection between us and a dog, which is why there are some additional rules regarding | Mungkin ada kaitan tertentu antara kita dengan haiwan ini, sebab itulah terdapat beberapa peraturan tambahan mengenai | Perhaps: [mungkin / barangkali] • there: [di sana / ada] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • connection: [hubungan / ikatan] • between: [antara / di antara] • us: [kami / kita] • and: [dan] • dog: [anjing] • which: [yang mana] • why: [mengapa / kenapa] • are (asal: be): [adalah / berada] • some: [beberapa / sedikit] • additional: [tambahan] • rules (asal: rule): [peraturan] • regarding: [berkenaan / mengenai] |
-| 106 | 06:20 - 06:22 | interaction with dogs in Islam. | interaksi dengan anjing di dalam Islam. | interaction: [interaksi / perhubungan] • with: [dengan / bersama] • dogs (asal: dog): [anjing-anjing] • in: [dalam / di dalam] • Islam: [agama Islam] |
-| 107 | 06:22 - 06:28 | It's a very sensitive issue because people ask: "Is it permissible to interact with dogs as a Muslim?" It's | Ia merupakan isu yang sangat sensitif kerana orang selalu bertanya: "Bolehkah seorang Muslim berinteraksi dengan anjing?" Ia | It's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • very: [sangat / amat] • sensitive: [sensitif / mudah terusik] • issue: [isu / persoalan] • because: [kerana / sebab] • people (asal: person): [orang ramai / manusia] • ask: [tanya / meminta] • Is: [adalah / ialah] • it: [ia / itu] • permissible: [diharuskan / dibenarkan (halal)] • to: [ke / untuk] • interact: [berinteraksi] • with: [dengan / bersama] • dogs (asal: dog): [anjing-anjing] • as: [seperti / sebagai] • Muslim: [orang Islam / Muslim] |
-| 108 | 06:29 - 06:31 | definitely allowed, but there are some rules you should know. | sememangnya dibenarkan, tetapi terdapat hukum dan adab tertentu yang perlu anda ketahui. | definitely: [pasti / sememangnya] • allowed (asal: allow): [membenarkan / membolehkan] • but: [tetapi / tapi] • there: [di sana / ada] • are (asal: be): [adalah / berada] • some: [beberapa / sedikit] • rules (asal: rule): [peraturan] • you: [awak / anda] • should: [patut / patutlah] • know: [tahu / kenal] |
-| 109 | 06:31 - 06:32 | That's what it's all about. | Itulah intipati ketetapan yang digariskan. | That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • it's: [ia adalah / itu (singkatan 'it is/has')] • all: [semua / seluruh] • about: [tentang / sekitar] |
-| 110 | 06:32 - 06:34 | It's not that we hate dogs. | Bukannya bermakna kita membenci anjing. | It's: [ia adalah / itu (singkatan 'it is/has')] • not: [bukan / tidak] • that: [itu / yang] • we: [kami / kita] • hate: [membenci / kebencian] • dogs (asal: dog): [anjing-anjing] |
-| 111 | 06:34 - 06:35 | No, we don't. | Tidak, kita sama sekali tidak membencinya. | No: [tidak / tiada] • we: [kami / kita] • don't: [jangan / tidak (singkatan 'do not')] |
-| 112 | 06:35 - 06:40 | To the point that even if you saw pigs, it is haram to be mean and cruel to a pig. | Malah sehingga ke tahap sekiranya anda melihat khinzir sekalipun, hukumnya haram bersikap zalim dan kejam terhadap haiwan tersebut. | To: [ke / untuk] • the: [kata penentu (itu / si)] • point: [tujuan / makna] • that: [itu / yang] • even: [malah / pun] • if: [jika / kalau] • you: [awak / anda] • saw (asal: see): [lihat / nampak / tengok] • pigs (asal: pig): [babi] • it: [ia / itu] • is: [adalah / ialah] • haram: [diharamkan / berdosa] • be: [menjadi / berada] • mean: [maksud / berniat] • and: [dan] • cruel: [kejam / zalim] • a: [sebuah / seorang / satu] • pig: [babi] |
-| 113 | 06:40 - 06:42 | You're not allowed to consume it, right? | Anda memang diharamkan memakannya, bukan? | You're: [anda / awak adalah (singkatan 'you are')] • not: [bukan / tidak] • allowed (asal: allow): [membenarkan / membolehkan] • to: [ke / untuk] • consume: [memakan / mengambil] • it: [ia / itu] • right: [betul / kanan / tepat] |
-| 114 | 06:42 - 06:43 | But you have to be kind. | Namun anda tetap dituntut untuk berbuat ihsan. | But: [tetapi / tapi] • you: [awak / anda] • have: [ada / mempunyai] • to: [ke / untuk] • be: [menjadi / berada] • kind: [jenis / baik hati] |
-| 115 | 06:43 - 06:44 | It's an animal. | Ia tetap makhluk bernyawa. | It's: [ia adalah / itu (singkatan 'it is/has')] • an: [sebuah / seorang / satu] • animal: [haiwan / binatang] |
-| 116 | 06:44 - 06:49 | If you give water to a pig, I am sure you would be rewarded by Allah in an unimaginable way. | Sekiranya anda memberi minum air kepada seekor khinzir yang kehausan, saya yakin Allah pasti akan memberi ganjaran pahala yang tidak terbayang besarnya. | If: [jika / kalau] • you: [awak / anda] • give: [beri / memberikan] • water: [air] • to: [ke / untuk] • a: [sebuah / seorang / satu] • pig: [babi] • I: [saya / aku] • am: [adalah / berada] • sure: [pasti / tentu] • would: [akan / sudi] • be: [menjadi / berada] • rewarded (asal: reward): [pahala] • by: [oleh / dengan / menjelang] • Allah: [Allah Subhanahu wa Ta'ala] • in: [dalam / di dalam] • an: [sebuah / seorang / satu] • unimaginable: [tidak terbayangkan dek akal] • way: [jalan / cara] |
-| 117 | 06:50 - 06:52 | May Allah Almighty grant us ease. | Semoga Allah Yang Maha Berkuasa mengurniakan kemudahan kepada kita. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] • ease: [kemudahan / kelapangan] |
-| 118 | 06:52 - 06:59 | But who has a higher status in the eyes of Allah, a human or a dog? | Namun siapakah yang memiliki darjat yang jauh lebih mulia di sisi Allah, manusia atau anjing? | But: [tetapi / tapi] • who: [siapa / orang yang] • has: [ada / mempunyai] • a: [sebuah / seorang / satu] • higher (asal: high): [tinggi] • status: [kedudukan / status] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • eyes (asal: eye): [mata] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] • human: [manusia] • or: [atau] • dog: [anjing] |
-| 119 | 06:59 - 07:00 | A human. | Tentulah manusia. | A: [sebuah / seorang / satu] • human: [manusia] |
-| 120 | 07:00 - 07:01 | Ashraf ul Makhluqat. | Asyraf al-Makhluqat (Sebaik-baik makhluk ciptaan). | Ashraf: [golongan bangsawan / orang ternama] • ul: [yang (kata sandang al-)] • Makhluqat: [sekalian makhluk ciptaan] |
-| 121 | 07:01 - 07:06 | Humanity is the noblest of Allah's creatures. | Umat manusia merupakan makhluk yang paling mulia di sisi Allah. | Humanity: [kemanusiaan] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • noblest: [paling mulia] • of: [daripada / tentang] • Allah's: [milik Allah / kurniaan Allah] • creatures (asal: creature): [makhluk-makhluk ciptaan Allah] |
-| 122 | 07:06 - 07:13 | And then, imagine if you're quenching a human being's thirst, will you get more or less of a reward? | Oleh itu bayangkan jika anda menghilangkan dahaga seorang manusia, adakah anda akan mendapat ganjaran yang lebih besar atau lebih kecil? | And: [dan] • then: [kemudian / waktu itu] • imagine: [bayangkan] • if: [jika / kalau] • you're: [anda / awak adalah (singkatan 'you are')] • quenching (asal: quench): [menghilangkan dahaga] • a: [sebuah / seorang / satu] • human: [manusia] • being's: [makhluk / keinsanan] • thirst: [kehausan / dahaga] • will: [akan] • you: [awak / anda] • get: [dapat / mengambil] • more (asal: much / many): [lebih banyak] • or: [atau] • less (asal: little): [kecil / sedikit] • of: [daripada / tentang] • reward: [ganjaran / pahala] |
-| 123 | 07:13 - 07:14 | You're going to get more. | Anda pasti akan mendapat pahala yang jauh lebih besar. | You're: [anda / awak adalah (singkatan 'you are')] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • get: [dapat / mengambil] • more (asal: much / many): [lebih banyak] |
-| 124 | 07:14 - 07:16 | It depends on your intention, obviously. | Ia bergantung kepada niat keikhlasan anda, sudah semestinya. | It: [ia / itu] • depends (asal: depend): [bergantung] • on: [hidup / atas] • your: [awak punya / anda punya] • intention: [niat di dalam hati] • obviously: [jelas sekali / sudah tentu] |
-| 125 | 07:16 - 07:20 | Innamal a'malu bin niyyat, but you are giving Zamzam. | Innamal a'malu bin niyyat (Setiap amalan bergantung pada niat), apatah lagi jika anda memberi minum air Zamzam. | Innamal: [sesungguhnya hanya] • a'malu: [amalan-amalan] • bin: [anak lelaki kepada (bin)] • niyyat: [niat-niat] • but: [tetapi / tapi] • you: [awak / anda] • are (asal: be): [adalah / berada] • giving (asal: give): [beri / memberikan] • Zamzam: [air zamzam] |
-| 126 | 07:20 - 07:23 | Zamzam is the purest water that exists on Earth. | Air Zamzam adalah air yang paling suci dan murni yang wujud di atas muka bumi ini. | Zamzam: [air zamzam] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • purest (asal: pure): [paling suci murni] • water: [air] • that: [itu / yang] • exists (asal: exist): [wujud / ada] • on: [hidup / atas] • Earth: [bumi] |
-| 127 | 07:24 - 07:27 | We're not going to get anything purer than Zamzam, are we? | Kita tidak akan dapat menjumpai air yang lebih murni daripada air Zamzam, bukan? | We're: [kami / kita sedang (singkatan 'we are')] • not: [bukan / tidak] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • get: [dapat / mengambil] • anything: [apa-apa pun / sebarang perkara] • purer: [lebih suci dan bersih] • than: [daripada] • Zamzam: [air zamzam] • are (asal: be): [adalah / berada] • we: [kami / kita] |
-| 128 | 07:27 - 07:32 | Zamzam will arise; the hadith says that Zamzam is so pure that it will have an effect for any reason and | Air Zamzam mempunyai keistimewaan luar biasa; hadis menyebut bahawa khasiat air Zamzam adalah mengikut apa jua tujuan dan | Zamzam: [air zamzam] • will: [akan] • arise: [timbul / muncul] • the: [kata penentu (itu / si)] • hadith: [hadis Rasulullah] • says (asal: say): [cakap / berkata] • that: [itu / yang] • is: [adalah / ialah] • so: [jadi / sangat] • pure: [suci murni] • it: [ia / itu] • have: [ada / mempunyai] • an: [sebuah / seorang / satu] • effect: [kesan / akibat] • for: [untuk / bagi] • any: [sebarang / apa-apa] • reason: [sebab / alasan] • and: [dan] |
-| 129 | 07:32 - 07:34 | intention for which it is drunk. | niat orang yang meminumnya. | intention: [niat di dalam hati] • for: [untuk / bagi] • which: [yang mana] • it: [ia / itu] • is: [adalah / ialah] • drunk (asal: drink): [minum] |
-| 130 | 07:34 - 07:39 | We drink it with a certain Niyah, inshallah Allah will give you that. | Kita meminumnya dengan niat tertentu, insya-Allah Allah akan mengurniakan hajat tersebut kepada anda. | We: [kami / kita] • drink: [minum arak] • it: [ia / itu] • with: [dengan / bersama] • a: [sebuah / seorang / satu] • certain: [tertentu / yakin] • Niyah: [niat] • inshallah: [insya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • give: [beri / memberikan] • you: [awak / anda] • that: [itu / yang] |
-| 131 | 07:39 - 07:41 | Especially Shifa, it contains a cure. | Terutamanya niat untuk syifa', kerana ia mengandungi penawar penyakit. | Especially: [terutamanya / khususnya] • Shifa: [kesembuhan penawar] • it: [ia / itu] • contains (asal: contain): [mengandungi] • a: [sebuah / seorang / satu] • cure: [penawar / ubat] |
-| 132 | 07:41 - 07:43 | We drink Zamzam, mashallah. | Kita meminum air Zamzam, masya-Allah. | We: [kami / kita] • drink: [minum arak] • Zamzam: [air zamzam] • mashallah: [masya-Allah] |
-| 133 | 07:43 - 07:48 | And many of us have Zamzam at home, even if it 's just a few drops, mashallah. | Dan ramai antara kita menyimpan air Zamzam di rumah masing-masing, walaupun sekadar beberapa titis sahaja. | And: [dan] • many: [banyak] • of: [daripada / tentang] • us: [kami / kita] • have: [ada / mempunyai] • Zamzam: [air zamzam] • at: [di / pada] • home: [rumah / kediaman] • even: [malah / pun] • if: [jika / kalau] • it: [ia / itu] • s: [saf solat] • just: [hanya / sekadar / baru saja] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • drops (asal: drop): [jatuhkan] • mashallah: [masya-Allah] |
-| 134 | 07:48 - 07:50 | Even if it's just a little. | Walaupun hanya sedikit. | Even: [malah / pun] • if: [jika / kalau] • it's: [ia adalah / itu (singkatan 'it is/has')] • just: [hanya / sekadar / baru saja] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] |
-| 135 | 07:50 - 07:57 | But sometimes, brothers and sisters, we tend to forget that our duty is to be good and kind to one another. | Namun kadangkala, wahai saudara-saudariku, kita sering terlupa bahawa kewajipan utama kita adalah berbuat baik dan berkasih sayang sesama kita. | But: [tetapi / tapi] • sometimes: [kadang-kadang] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] • we: [kami / kita] • tend: [cenderung] • to: [ke / untuk] • forget: [lupa / terlupa] • that: [itu / yang] • our: [kami punya / kita punya] • duty: [kewajipan / tanggungjawab] • is: [adalah / ialah] • be: [menjadi / berada] • good: [baik / bagus] • kind: [jenis / baik hati] • one: [satu / seorang] • another: [satu lagi / lain] |
-| 136 | 07:57 - 08:04 | We must come closer to one another and make sure we understand the Hadith of the dog in a much deeper way, | Kita perlu merapatkan ukhuwah sesama kita dan memastikan kita memahami hadis tentang anjing itu dengan kefahaman yang jauh lebih mendalam, | We: [kami / kita] • must: [mesti / wajib] • come: [datang / mari] • closer (asal: close): [lebih dekat] • to: [ke / untuk] • one: [satu / seorang] • another: [satu lagi / lain] • and: [dan] • make: [buat / menghasilkan] • sure: [pasti / tentu] • understand: [faham / memahami] • the: [kata penentu (itu / si)] • Hadith: [hadis Rasulullah] • of: [daripada / tentang] • dog: [anjing] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • much: [banyak] • deeper (asal: deep): [dalam] • way: [jalan / cara] |
-| 137 | 08:05 - 08:12 | saying that if that man was kind to a dog by giving it water that today we might not even drink. | iaitu apabila lelaki itu mengasihi seekor anjing dengan memberinya air telaga yang mungkin hari ini kita sendiri tidak sanggup meminumnya. | saying (asal: say): [cakap / berkata] • that: [itu / yang] • if: [jika / kalau] • man: [lelaki / orang] • was: [adalah / dulu berada] • kind: [jenis / baik hati] • to: [ke / untuk] • a: [sebuah / seorang / satu] • dog: [anjing] • by: [oleh / dengan / menjelang] • giving (asal: give): [beri / memberikan] • it: [ia / itu] • water: [air] • today: [hari ini] • we: [kami / kita] • might: [mungkin / daya] • not: [bukan / tidak] • even: [malah / pun] • drink: [minum arak] |
-| 138 | 08:12 - 08:18 | Imagine what the reward would be for you and me if we gave drinking water in a bottle to another human being, | Bayangkan betapa besarnya ganjaran buat anda dan saya sekiranya kita menghadiahkan sebotol air minuman bersih kepada seorang insan lain, | Imagine: [bayangkan] • what: [apa / apakah] • the: [kata penentu (itu / si)] • reward: [ganjaran / pahala] • would: [akan / sudi] • be: [menjadi / berada] • for: [untuk / bagi] • you: [awak / anda] • and: [dan] • me: [saya / aku] • if: [jika / kalau] • we: [kami / kita] • gave (asal: give): [beri / memberikan] • drinking (asal: drink): [minum] • water: [air] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • bottle: [botol] • to: [ke / untuk] • another: [satu lagi / lain] • human: [manusia] • being (asal: be): [makhluk / insan] |
-| 139 | 08:18 - 08:24 | even more so to a thirsty human being, someone who worships Allah, if that were the case. | terutamanya kepada insan yang dahaga, yang menyembah dan beriman kepada Allah. | even: [malah / pun] • more (asal: much / many): [lebih banyak] • so: [jadi / sangat] • to: [ke / untuk] • a: [sebuah / seorang / satu] • thirsty: [berasa dahaga] • human: [manusia] • being (asal: be): [makhluk / insan] • someone: [seseorang] • who: [siapa / orang yang] • worships (asal: worship): [beribadah] • Allah: [Allah Subhanahu wa Ta'ala] • if: [jika / kalau] • that: [itu / yang] • were (asal: be): [adalah / dulu berada] • the: [kata penentu (itu / si)] • case: [kes / keadaan] |
-| 140 | 08:24 - 08:25 | So, be understanding with each other. | Maka, bersikap toleransi dan saling memahamilah antara satu sama lain. | So: [jadi / sangat] • be: [menjadi / berada] • understanding (asal: understand): [faham / memahami] • with: [dengan / bersama] • each: [setiap / masing-masing] • other: [lain] |
-| 141 | 08:25 - 08:33 | They never know which of their actions will tip the scales, inshallah, granting Jannatul Firdaus to you and | Kita tidak pernah tahu amalan kebajikan manakah yang bakal memberatkan timbangan mizan, seterusnya melayakkan anda dan saya memasuki Jannatul Firdaus, | They: [mereka] • never: [tidak pernah / tak pernah] • know: [tahu / kenal] • which: [yang mana] • of: [daripada / tentang] • their: [mereka punya / kepunyaan mereka] • actions (asal: action): [tindakan / aksi] • will: [akan] • tip: [mencondongkan timbangan] • the: [kata penentu (itu / si)] • scales (asal: scale): [neraca timbangan (mizan)] • inshallah: [insya-Allah] • granting: [mengurniakan / memberikan] • Jannatul: [syurga (Jannatul Firdaus)] • Firdaus: [Syurga Firdaus] • to: [ke / untuk] • you: [awak / anda] • and: [dan] |
-| 142 | 08:33 - 08:34 | me. | insya-Allah. | me: [saya / aku] |
-| 143 | 08:34 - 08:36 | But now we have a problem. | Tetapi sekarang kita menghadapi satu persoalan. | But: [tetapi / tapi] • now: [sekarang] • we: [kami / kita] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • problem: [masalah] |
-| 144 | 08:36 - 08:37 | What's the problem? | Apakah persoalannya? | What's: [apa / apakah (singkatan 'what is/has')] • the: [kata penentu (itu / si)] • problem: [masalah] |
-| 145 | 08:37 - 08:38 | I'm very busy at work. | Saya sangat sibuk di tempat kerja. | I'm: [saya / saya sedang (singkatan 'I am')] • very: [sangat / amat] • busy: [sibuk] • at: [di / pada] • work: [kerja / berfungsi] |
-| 146 | 08:38 - 08:41 | I interact with people of the opposite sex. | Saya perlu berurusan dengan orang berlainan jantina. | I: [saya / aku] • interact: [berinteraksi] • with: [dengan / bersama] • people (asal: person): [orang ramai / manusia] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • opposite: [lawan / bertentangan] • sex: [hubungan kelamin / jantina] |
-| 147 | 08:41 - 08:44 | Is it haram to interact with the opposite sex? | Adakah haram berurusan dengan individu berlainan jantina? | Is: [adalah / ialah] • it: [ia / itu] • haram: [diharamkan / berdosa] • to: [ke / untuk] • interact: [berinteraksi] • with: [dengan / bersama] • the: [kata penentu (itu / si)] • opposite: [lawan / bertentangan] • sex: [hubungan kelamin / jantina] |
-| 148 | 08:44 - 08:45 | Is it haram? | Adakah ia haram? | Is: [adalah / ialah] • it: [ia / itu] • haram: [diharamkan / berdosa] |
-| 149 | 08:45 - 08:47 | No, not at all. | Tidak, sama sekali tidak haram mutlak. | No: [tidak / tiada] • not: [bukan / tidak] • at: [di / pada] • all: [semua / seluruh] |
-| 150 | 08:47 - 08:53 | If I'm allowed to interact with a dog under certain rules, I'm definitely allowed to interact with the opposite | Jika saya dibenarkan berinteraksi dengan anjing di bawah peraturan syarak tertentu, maka sudah pasti saya dibenarkan berurusan dengan orang yang berlainan | If: [jika / kalau] • I'm: [saya / saya sedang (singkatan 'I am')] • allowed (asal: allow): [membenarkan / membolehkan] • to: [ke / untuk] • interact: [berinteraksi] • with: [dengan / bersama] • a: [sebuah / seorang / satu] • dog: [anjing] • under: [di bawah] • certain: [tertentu / yakin] • rules (asal: rule): [peraturan] • definitely: [pasti / sememangnya] • the: [kata penentu (itu / si)] • opposite: [lawan / bertentangan] |
-| 151 | 08:53 - 08:57 | sex under some rules, some things that need to be taken into account. | jantina berlandaskan adab dan batas yang telah ditetapkan. | sex: [hubungan kelamin / jantina] • under: [di bawah] • some: [beberapa / sedikit] • rules (asal: rule): [peraturan] • things (asal: thing): [benda-benda / perkara-perkara] • that: [itu / yang] • need: [perlu / memerlukan] • to: [ke / untuk] • be: [menjadi / berada] • taken (asal: take): [ambil / memerlukan masa] • into: [ke dalam] • account: [akaun] |
-| 152 | 08:57 - 08:59 | You know, you shouldn't cross certain lines. | Anda maklum, anda dilarang melangkaui batas-batas tertentu. | You: [awak / anda] • know: [tahu / kenal] • shouldn't: [tidak patut / jangan (singkatan 'should not')] • cross: [melintas] • certain: [tertentu / yakin] • lines (asal: line): [barisan] |
-| 153 | 08:59 - 09:00 | That exists. | Garis panduan itu memang ada. | That: [itu / yang] • exists (asal: exist): [wujud / ada] |
-| 154 | 09:00 - 09:07 | Then people say, " Sheikh, why did you talk to this woman?" "Why not?" "What did I do?" Nothing was forbidden. | Lalu ada yang menegur, "Syeikh, kenapa bercakap dengan wanita ini?" Saya jawab, "Mengapa tidak? Apa salahnya?" Tiada batas haram yang dilanggar. | Then: [kemudian / waktu itu] • people (asal: person): [orang ramai / manusia] • say: [cakap / berkata] • Sheikh: [syeikh / alim ulama] • why: [mengapa / kenapa] • did (asal: do): [telah buat / adakah] • you: [awak / anda] • talk: [bercakap / berborak] • to: [ke / untuk] • this: [ini] • woman: [wanita / perempuan] • not: [bukan / tidak] • What: [apa / apakah] • I: [saya / aku] • do: [buat / lakukan] • Nothing: [tiada apa-apa] • was: [adalah / dulu berada] • forbidden: [larangan / terlarang] |
-| 155 | 09:07 - 09:08 | There was respect. | Interaksi itu berlangsung dengan penuh rasa hormat. | There: [di sana / ada] • was: [adalah / dulu berada] • respect: [menghormati / rasa hormat] |
-| 156 | 09:08 - 09:10 | We treated her with kindness and dignity. | Kami melayannya dengan sopan dan menjaga maruah. | We: [kami / kita] • treated: [dilayan dengan baik] • her: [dia (wanita) / kepunyaannya] • with: [dengan / bersama] • kindness: [kebaikan / ihsan] • and: [dan] • dignity: [maruah / kemuliaan] |
-| 157 | 09:11 - 09:13 | We tried to do what we had to do. | Kami sekadar menjalankan urusan yang perlu diselesaikan. | We: [kami / kita] • tried (asal: try): [cuba / mencuba] • to: [ke / untuk] • do: [buat / lakukan] • what: [apa / apakah] • had (asal: have): [mempunyai / telah ada] |
-| 158 | 09:13 - 09:15 | We lowered our gaze, we did what we had to do. | Kami menundukkan pandangan dan menjaga batasan sewajarnya. | We: [kami / kita] • lowered (asal: lower): [menundukkan pandangan] • our: [kami punya / kita punya] • gaze: [pandangan mata] • did (asal: do): [telah buat / adakah] • what: [apa / apakah] • had (asal: have): [mempunyai / telah ada] • to: [ke / untuk] • do: [buat / lakukan] |
-| 159 | 09:15 - 09:19 | All those rules were followed, but we interacted. | Segala adab syariah dipatuhi, tetapi urusan muamalat tetap berjalan. | All: [semua / seluruh] • those: [semua itu] • rules (asal: rule): [peraturan] • were (asal: be): [adalah / dulu berada] • followed (asal: follow): [ikut] • but: [tetapi / tapi] • we: [kami / kita] • interacted (asal: interact): [bergaul / berinteraksi] |
-| 160 | 09:19 - 09:25 | You go to a pharmacy, you need to look for medicine, there's a young woman there and she 's looking at you. | Anda pergi ke farmasi untuk membeli ubat, di kaunter ada seorang wanita muda bertugas dan dia menyapa anda. | You: [awak / anda] • go: [pergi] • to: [ke / untuk] • a: [sebuah / seorang / satu] • pharmacy: [farmasi / kedai ubat] • need: [perlu / memerlukan] • look: [tengok / kelihatan] • for: [untuk / bagi] • medicine: [ubat-ubatan] • there's: [ada / terdapat (singkatan 'there is')] • young: [muda] • woman: [wanita / perempuan] • there: [di sana / ada] • and: [dan] • she: [dia (wanita)] • s: [saf solat] • looking (asal: look): [tengok / kelihatan] • at: [di / pada] |
-| 161 | 09:25 - 09:26 | Good morning, sir. | Selamat pagi, encik. | Good: [baik / bagus] • morning: [pagi] • sir: [tuan pegawai] |
-| 162 | 09:26 - 09:27 | How are you, sir? | Apa khabar, encik? | How: [bagaimana / macam mana] • are (asal: be): [adalah / berada] • you: [awak / anda] • sir: [tuan pegawai] |
-| 163 | 09:27 - 09:30 | Are you going to say Allahu Akbar? | Adakah anda terus menjerit Allahu Akbar kerana panik? | Are (asal: be): [adalah / berada] • you: [awak / anda] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • say: [cakap / berkata] • Allahu: [Allah] • Akbar: [Maha Besar] |
-| 164 | 09:30 - 09:36 | Right in your heart and mind, you are conscious of Allah. | Di dalam hati dan fikiran anda, anda sentiasa mengingati Allah. | Right: [betul / kanan / tepat] • in: [dalam / di dalam] • your: [awak punya / anda punya] • heart: [hati] • and: [dan] • mind: [fikiran / minda] • you: [awak / anda] • are (asal: be): [adalah / berada] • conscious: [sedar / beringat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 165 | 09:37 - 09:41 | So you say, "Sister, I'm looking for paracetamol." This is what I need. | Maka anda menjawab dengan sopan, "Cik, saya sedang mencari parasetamol." Inilah ubat yang saya perlukan. | So: [jadi / sangat] • you: [awak / anda] • say: [cakap / berkata] • Sister: [saudara perempuan] • I'm: [saya / saya sedang (singkatan 'I am')] • looking (asal: look): [tengok / kelihatan] • for: [untuk / bagi] • paracetamol: [ubat panadol / parasetamol] • This: [ini] • is: [adalah / ialah] • what: [apa / apakah] • I: [saya / aku] • need: [perlu / memerlukan] |
-| 166 | 09:41 - 09:43 | "And so on." And what did you do? | "Dan sebagainya." Dan apakah sebenarnya yang telah anda lakukan? | And: [dan] • so: [jadi / sangat] • on: [hidup / atas] • what: [apa / apakah] • did (asal: do): [telah buat / adakah] • you: [awak / anda] • do: [buat / lakukan] |
-| 167 | 09:43 - 09:46 | You called her sister and interacted with her in a beautiful way. | Anda memanggilnya dengan panggilan hormat dan berurusan dengannya secara sangat berbudi bahasa. | You: [awak / anda] • called (asal: call): [dipanggil / dinamakan] • her: [dia (wanita) / kepunyaannya] • sister: [saudara perempuan] • and: [dan] • interacted (asal: interact): [bergaul / berinteraksi] • with: [dengan / bersama] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • beautiful: [indah / cantik] • way: [jalan / cara] |
-| 168 | 09:46 - 09:47 | And guess what? | Dan cuba teka apa kesannya? | And: [dan] • guess: [agak / meneka] • what: [apa / apakah] |
-| 169 | 09:47 - 09:50 | She might even become interested in the religion of Allah. | Dia mungkin tertarik untuk mengenali keindahan agama Allah. | She: [dia (wanita)] • might: [mungkin / daya] • even: [malah / pun] • become: [menjadi] • interested (asal: interest): [minat] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • religion: [agama] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 170 | 09:50 - 09:51 | Right or wrong? | Betul atau salah? | Right: [betul / kanan / tepat] • or: [atau] • wrong: [salah] |
-| 171 | 09:51 - 09:58 | She will say, "These people are very, very respectful and polite." "That's what Islam is." Respect, education, | Dia akan berkata, "Orang Islam sangat beradab, berakhlak dan bersopan santun." Itulah keperibadian Islam yang sebenar: hormat, berilmu, | She: [dia (wanita)] • will: [akan] • say: [cakap / berkata] • These: [semua ini] • people (asal: person): [orang ramai / manusia] • are (asal: be): [adalah / berada] • very: [sangat / amat] • respectful: [penuh hormat / bersopan] • and: [dan] • polite: [bersopan santun] • That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • Islam: [agama Islam] • is: [adalah / ialah] • Respect: [menghormati / rasa hormat] • education: [pendidikan] |
-| 172 | 09:58 - 10:00 | kindness, while worshipping only Allah. | dan berbuat ihsan, sambil mengabdikan diri hanya kepada Allah. | kindness: [kebaikan / ihsan] • while: [sementara / semasa] • worshipping (asal: worship): [menyembah Allah] • only: [hanya / sahaja] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 173 | 10:00 - 10:05 | What you should be concerned about is making sure that Allah is pleased. | Perkara utama yang patut anda utamakan adalah memastikan keredhaan Allah terpelihara. | What: [apa / apakah] • you: [awak / anda] • should: [patut / patutlah] • be: [menjadi / berada] • concerned: [bimbang / mengambil berat] • about: [tentang / sekitar] • is: [adalah / ialah] • making (asal: make): [sedang membuat] • sure: [pasti / tentu] • that: [itu / yang] • Allah: [Allah Subhanahu wa Ta'ala] • pleased: [berasa reda / berpuas hati] |
-| 174 | 10:05 - 10:08 | If Allah is pleased, what more do you want? | Sekiranya Allah redha kepada anda, apa lagi yang anda dambakan? | If: [jika / kalau] • Allah: [Allah Subhanahu wa Ta'ala] • is: [adalah / ialah] • pleased: [berasa reda / berpuas hati] • what: [apa / apakah] • more (asal: much / many): [lebih banyak] • do: [buat / lakukan] • you: [awak / anda] • want: [mahu / nak] |
-| 175 | 10:08 - 10:10 | I did something good. | Saya telah melakukan suatu kebaikan. | I: [saya / aku] • did (asal: do): [telah buat / adakah] • something: [sesuatu] • good: [baik / bagus] |
-| 176 | 10:10 - 10:13 | Now, in my interactions, perhaps I've made a few mistakes, haven't I? | Kini, dalam urusan pergaulan saya, mungkin saya ada melakukan sedikit kesilapan, bukan? | Now: [sekarang] • in: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • interactions (asal: interaction): [interaksi-interaksi] • perhaps: [mungkin / barangkali] • I've: [saya telah / saya dah (singkatan 'I have')] • made (asal: make): [dibuat / menghasilkan] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • mistakes (asal: mistake): [kesilapan-kesilapan] • haven't: [belum / tidak ada (singkatan 'have not')] • I: [saya / aku] |
-| 177 | 10:13 - 10:16 | I went to work, I made a few mistakes. | Saya keluar bekerja, saya mungkin terbuat beberapa kesilapan kecil. | I: [saya / aku] • went (asal: go): [telah pergi] • to: [ke / untuk] • work: [kerja / berfungsi] • made (asal: make): [dibuat / menghasilkan] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • mistakes (asal: mistake): [kesilapan-kesilapan] |
-| 178 | 10:16 - 10:18 | Perhaps I was a little distracted. | Mungkin fikiran saya sedikit terleka. | Perhaps: [mungkin / barangkali] • I: [saya / aku] • was: [adalah / dulu berada] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • distracted (asal: distract): [mengalih perhatian] |
-| 179 | 10:18 - 10:21 | The other day, we went to a restaurant. | Hari itu, kami pergi menjamu selera di sebuah restoran. | The: [kata penentu (itu / si)] • other: [lain] • day: [hari / siang] • we: [kami / kita] • went (asal: go): [telah pergi] • to: [ke / untuk] • a: [sebuah / seorang / satu] • restaurant: [restoran makanan] |
-| 180 | 10:21 - 10:26 | And mashallah, alhamdulillah, la ilaha illallah, the owners were Muslims. | Dan masya-Allah, alhamdulillah, la ilaha illallah, pemilik restoran itu beragama Islam. | And: [dan] • mashallah: [masya-Allah] • alhamdulillah: [segala puji bagi Allah] • la: [tiada] • ilaha: [tuhan yang disembah] • illallah: [melainkan Allah] • the: [kata penentu (itu / si)] • owners (asal: owner): [para pemilik] • were (asal: be): [adalah / dulu berada] • Muslims: [orang-orang Islam] |
-| 181 | 10:26 - 10:27 | TRUE? | Betul? | TRUE: [benar] |
-| 182 | 10:27 - 10:30 | And there was some background music. | Dan ketika itu ada alunan muzik latar berkumandang. | And: [dan] • there: [di sana / ada] • was: [adalah / dulu berada] • some: [beberapa / sedikit] • background: [latar belakang] • music: [alunan muzik / lagu] |
-| 183 | 10:30 - 10:31 | We didn't say anything. | Kami tidak menegur atau berkata apa-apa. | We: [kami / kita] • didn't: [tidak / tak (singkatan 'did not')] • say: [cakap / berkata] • anything: [apa-apa pun / sebarang perkara] |
-| 184 | 10:31 - 10:33 | We just went in and said salaam alaikum. | Kami hanya melangkah masuk dan memberi salam secara mesra. | We: [kami / kita] • just: [hanya / sekadar / baru saja] • went (asal: go): [telah pergi] • in: [dalam / di dalam] • and: [dan] • said (asal: say): [cakap / berkata] • salaam: [kesejahteraan / salam (Dar es Salaam)] • alaikum: [ke atas kamu] |
-| 185 | 10:33 - 10:35 | We sat down. | Kami pun duduk. | We: [kami / kita] • sat (asal: sit): [duduk] • down: [bawah / turun] |
-| 186 | 10:35 - 10:38 | In a short time, there was no more background music. | Tidak lama kemudian, alunan muzik latar tersebut terus dihentikan. | In: [dalam / di dalam] • a: [sebuah / seorang / satu] • short: [pendek / ringkas] • time: [masa / waktu] • there: [di sana / ada] • was: [adalah / dulu berada] • no: [tidak / tiada] • more (asal: much / many): [lebih banyak] • background: [latar belakang] • music: [alunan muzik / lagu] |
-| 187 | 10:38 - 10:39 | What happened? | Apakah yang berlaku? | What: [apa / apakah] • happened (asal: happen): [berlaku] |
-| 188 | 10:39 - 10:40 | What happened? | Apa sebenarnya yang telah berlaku? | What: [apa / apakah] • happened (asal: happen): [berlaku] |
-| 189 | 10:40 - 10:46 | Just out of respect, I think they decided, you know, these guys with beards came in, maybe we should turn | Semata-mata atas rasa hormat, saya fikir pemiliknya berkata, mereka yang berjanggut ini masuk, mungkin elok kita matikan | Just: [hanya / sekadar / baru saja] • out: [keluar / di luar] • of: [daripada / tentang] • respect: [menghormati / rasa hormat] • I: [saya / aku] • think: [fikir / berfikir] • they: [mereka] • decided (asal: decide): [memutuskan] • you: [awak / anda] • know: [tahu / kenal] • these: [semua ini] • guys (asal: guy): [kawan-kawan / kalian] • with: [dengan / bersama] • beards: [janggut-janggut] • came (asal: come): [datang / mari] • in: [dalam / di dalam] • maybe: [barangkali / mungkin] • we: [kami / kita] • should: [patut / patutlah] • turn: [pusing / hidupkan (turn on)] |
-| 190 | 10:46 - 10:47 | this off. | muzik ini. | this: [ini] • off: [padam / mati / lepas] |
-| 191 | 10:47 - 10:51 | I would have thought that perhaps the Quran would start playing in a little while. | Saya menjangkakan mungkin selepas itu bacaan ayat Al-Quran akan dimainkan menggantikannya. | I: [saya / aku] • would: [akan / sudi] • have: [ada / mempunyai] • thought (asal: think): [fikir / berfikir] • that: [itu / yang] • perhaps: [mungkin / barangkali] • the: [kata penentu (itu / si)] • Quran: [Al-Quran] • start: [mula / memulakan] • playing (asal: play): [sedang bermain] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • while: [sementara / semasa] |
-| 192 | 10:52 - 10:53 | But that did n't happen. | Tetapi perkara itu tidak berlaku. | But: [tetapi / tapi] • that: [itu / yang] • did (asal: do): [telah buat / adakah] • n't: [tidak / bukan] • happen: [berlaku / terjadi] |
-| 193 | 10:53 - 10:53 | The food arrived. | Makanan yang dipesan pun sampai. | The: [kata penentu (itu / si)] • food: [makanan] • arrived (asal: arrive): [tiba] |
-| 194 | 10:53 - 10:55 | It was pretty good. | Rasanya sungguh enak. | It: [ia / itu] • was: [adalah / dulu berada] • pretty: [agak / cantik] • good: [baik / bagus] |
-| 195 | 10:55 - 10:56 | I didn't ask anything. | Saya tidak meminta atau menuntut apa-apa. | I: [saya / aku] • didn't: [tidak / tak (singkatan 'did not')] • ask: [tanya / meminta] • anything: [apa-apa pun / sebarang perkara] |
-| 196 | 10:56 - 10:59 | Nobody asked for anything to be turned off. | Tiada siapa pun antara kami yang menyuruh muzik itu dimatikan. | Nobody: [tiada sesiapa] • asked (asal: ask): [bertanya] • for: [untuk / bagi] • anything: [apa-apa pun / sebarang perkara] • to: [ke / untuk] • be: [menjadi / berada] • turned (asal: turn): [telah pusing / menjadi] • off: [padam / mati / lepas] |
-| 197 | 10:59 - 11:04 | Often, we don't even notice the background music until someone says, " Can you hear what's going on?" I said | Kerap kali kita sendiri tidak menyedari adanya muzik latar sehingga ada orang berkata, "Kamu dengar tak lagu apa yang sedang berkumandang?" Saya menjawab, | Often: [kerap / sering kali] • we: [kami / kita] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • notice: [memerhatikan / menyedari] • the: [kata penentu (itu / si)] • background: [latar belakang] • music: [alunan muzik / lagu] • until: [sehingga / sampai] • someone: [seseorang] • says (asal: say): [cakap / berkata] • Can: [boleh / dapat] • you: [awak / anda] • hear: [mendengar] • what's: [apa / apakah (singkatan 'what is/has')] • going (asal: go): [sedang pergi / akan] • on: [hidup / atas] • I: [saya / aku] • said (asal: say): [cakap / berkata] |
-| 198 | 11:04 - 11:09 | , "Brother, why did you say that?" I didn't hear it until you told me, you know? | "Saudaraku, mengapa kamu bangkitkan perkara itu? Saya tidak perasan langsung sehinggalah kamu beritahu saya." | Brother: [saudara lelaki] • why: [mengapa / kenapa] • did (asal: do): [telah buat / adakah] • you: [awak / anda] • say: [cakap / berkata] • that: [itu / yang] • I: [saya / aku] • didn't: [tidak / tak (singkatan 'did not')] • hear: [mendengar] • it: [ia / itu] • until: [sehingga / sampai] • told (asal: tell): [memberitahu] • me: [saya / aku] • know: [tahu / kenal] |
-| 199 | 11:09 - 11:10 | "Our minds are preoccupied with something. | Fikiran kita sebenarnya sedang menumpukan perhatian kepada perkara lain. | Our: [kami punya / kita punya] • minds: [akal fikiran / minda] • are (asal: be): [adalah / berada] • preoccupied: [terlalu leka / sibuk] • with: [dengan / bersama] • something: [sesuatu] |
-| 200 | 11:10 - 11:12 | Many times we don't hear things. | Sering kali kita langsung tidak menghiraukan bunyi di sekeliling. | Many: [banyak] • times (asal: time): [masa / waktu] • we: [kami / kita] • don't: [jangan / tidak (singkatan 'do not')] • hear: [mendengar] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 201 | 11:12 - 11:18 | And when you draw our attention to it, then we notice it." Oh, oh, why did you tell me that? | Dan apabila kamu menarik perhatian kami kepadanya, barulah kami tersedar." Wahai sahabat, kenapalah kamu beritahu saya hal itu? | And: [dan] • when: [bila / apabila] • you: [awak / anda] • draw: [menarik / mendekatkan] • our: [kami punya / kita punya] • attention: [perhatian / tumpuan] • to: [ke / untuk] • it: [ia / itu] • then: [kemudian / waktu itu] • we: [kami / kita] • notice: [memerhatikan / menyedari] • Oh: [wahai / oh] • why: [mengapa / kenapa] • did (asal: do): [telah buat / adakah] • tell: [beritahu / khabarkan] • me: [saya / aku] • that: [itu / yang] |
-| 202 | 11:18 - 11:19 | "That's right. | "Betul juga kata tuan. | That's: [itu adalah / itu (singkatan 'that is')] • right: [betul / kanan / tepat] |
-| 203 | 11:19 - 11:24 | But in all of that, some people sometimes, due to peer | Namun di sebalik semua itu, sesetengah insan kadangkala akibat terpengaruh dengan rakan | But: [tetapi / tapi] • in: [dalam / di dalam] • all: [semua / seluruh] • of: [daripada / tentang] • that: [itu / yang] • some: [beberapa / sedikit] • people (asal: person): [orang ramai / manusia] • sometimes: [kadang-kadang] • due: [disebabkan oleh / wajar] • to: [ke / untuk] • peer: [rakan sebaya] |
-| 204 | 11:25 - 11:29 | pressure, societal pressure, community pressure, or pressure from those around them, end up doing bad things | sebaya, tekanan masyarakat, komuniti, atau desakan orang sekeliling, akhirnya terjerumus melakukan perbuatan mungkar | pressure: [tekanan] • societal: [kemasyarakatan] • community: [masyarakat / komuniti] • or: [atau] • from: [dari / daripada] • those: [semua itu] • around: [sekitar / di sekeliling] • them: [mereka] • end: [hujung / tamat] • up: [atas / naik] • doing (asal: do): [buat / lakukan] • bad: [teruk / buruk] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 205 | 11:29 - 11:37 | like falling into drugs, falling into addiction, acquiring bad habits, and the list goes on. | seperti terjebak dengan dadah, ketagihan arak, tabiat buruk, dan pelbagai lagi senarai keburukan. | like: [suka / seperti] • falling (asal: fall): [sedang jatuh / gugur] • into: [ke dalam] • drugs (asal: drug): [dadah] • addiction: [ketagihan] • acquiring (asal: acquire): [memperoleh] • bad: [teruk / buruk] • habits (asal: habit): [tabiat-tabiat] • and: [dan] • the: [kata penentu (itu / si)] • list: [senarai] • goes (asal: go): [pergi] • on: [hidup / atas] |
-| 206 | 11:37 - 11:43 | But Allah Almighty, when He loves us, gives us a nudge and brings us back to Him. | Namun Allah Yang Maha Kuasa, apabila Dia menyayangi hamba-Nya, Dia memberi teguran halus dan menarik kita kembali kepada-Nya. | But: [tetapi / tapi] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • when: [bila / apabila] • He: [dia (lelaki)] • loves (asal: love): [suka sangat / sayang] • us: [kami / kita] • gives (asal: give): [beri / memberikan] • a: [sebuah / seorang / satu] • nudge: [menolak lembut / menyiku] • and: [dan] • brings (asal: bring): [membawa] • back: [belakang / kembali] • to: [ke / untuk] • Him: [dia (lelaki)] |
-| 207 | 11:44 - 11:46 | Today we are sitting here in this place. | Hari ini kita sedang duduk bersama di tempat yang mulia ini. | Today: [hari ini] • we: [kami / kita] • are (asal: be): [adalah / berada] • sitting (asal: sit): [duduk] • here: [di sini] • in: [dalam / di dalam] • this: [ini] • place: [tempat / kedudukan] |
-| 208 | 11:46 - 11:48 | Is n't it known as the House of Allah? | Bukankah tempat ini dikenali sebagai Rumah Allah (masjid)? | Is: [adalah / ialah] • n't: [tidak / bukan] • it: [ia / itu] • known (asal: know): [tahu / kenal] • as: [seperti / sebagai] • the: [kata penentu (itu / si)] • House: [rumah] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 209 | 11:48 - 11:51 | You are sitting here, you are more than welcome. | Anda berada di sini, dan kehadiran anda amat dialu-alukan. | You: [awak / anda] • are (asal: be): [adalah / berada] • sitting (asal: sit): [duduk] • here: [di sini] • more (asal: much / many): [lebih banyak] • than: [daripada] • welcome: [selamat datang] |
-| 210 | 11:51 - 11:53 | You are a guest of Allah. | Anda adalah tetamu Allah yang dimuliakan. | You: [awak / anda] • are (asal: be): [adalah / berada] • a: [sebuah / seorang / satu] • guest: [tetamu] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 211 | 11:54 - 11:58 | We are here, mashallah, not to push you away, but to tell you that this is the right place. | Kami berada di sini, masya-Allah, bukan untuk menjauhkan anda, tetapi untuk menegaskan bahawa inilah tempat yang sebenar buat anda. | We: [kami / kita] • are (asal: be): [adalah / berada] • here: [di sini] • mashallah: [masya-Allah] • not: [bukan / tidak] • to: [ke / untuk] • push: [mendorong / mendesak] • you: [awak / anda] • away: [jauh / pergi] • but: [tetapi / tapi] • tell: [beritahu / khabarkan] • that: [itu / yang] • this: [ini] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • right: [betul / kanan / tepat] • place: [tempat / kedudukan] |
-| 212 | 11:58 - 12:00 | If you want to come, come here. | Jika anda ingin mencari ketenangan, datanglah ke sini. | If: [jika / kalau] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • come: [datang / mari] • here: [di sini] |
-| 213 | 12:00 - 12:06 | If I could change anything here and now, I would just ask everyone to open their windows, but don't worry, | Jika ada sesuatu yang ingin saya minta ubah di sini sekarang, saya cuma ingin meminta agar tingkap dibuka, tetapi jangan risau, | If: [jika / kalau] • I: [saya / aku] • could: [boleh / dapat] • change: [ubah / menukar] • anything: [apa-apa pun / sebarang perkara] • here: [di sini] • and: [dan] • now: [sekarang] • would: [akan / sudi] • just: [hanya / sekadar / baru saja] • ask: [tanya / meminta] • everyone: [semua orang] • to: [ke / untuk] • open: [buka / terbuka] • their: [mereka punya / kepunyaan mereka] • windows (asal: window): [tingkap] • but: [tetapi / tapi] • don't: [jangan / tidak (singkatan 'do not')] • worry: [bimbang / risau] |
-| 214 | 12:06 - 12:07 | it's not my place. | ini bukan rumah saya peribadi. | it's: [ia adalah / itu (singkatan 'it is/has')] • not: [bukan / tidak] • my: [saya punya / kepunyaan saya] • place: [tempat / kedudukan] |
-| 215 | 12:07 - 12:08 | It's your place. | Ini adalah masjid anda bersama. | It's: [ia adalah / itu (singkatan 'it is/has')] • your: [awak punya / anda punya] • place: [tempat / kedudukan] |
-| 216 | 12:08 - 12:10 | It's up to you to decide what you want to do. | Terpulang kepada anda untuk membuat keputusan terbaik. | It's: [ia adalah / itu (singkatan 'it is/has')] • up: [atas / naik] • to: [ke / untuk] • you: [awak / anda] • decide: [membuat keputusan] • what: [apa / apakah] • want: [mahu / nak] • do: [buat / lakukan] |
-| 217 | 12:10 - 12:12 | But may Allah Almighty grant us... | Namun semoga Allah Yang Maha Kuasa mengurniakan kita... | But: [tetapi / tapi] • may: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] |
-| 218 | 12:12 - 12:15 | What did you think of my way of saying, 'Guys, it's a little hot in here?'" | Bagaimana pandangan anda tentang cara halus saya menyatakan, 'Tuan-tuan, ruang di sini agak panas sedikit?'" | What: [apa / apakah] • did (asal: do): [telah buat / adakah] • you: [awak / anda] • think: [fikir / berfikir] • of: [daripada / tentang] • my: [saya punya / kepunyaan saya] • way: [jalan / cara] • saying (asal: say): [cakap / berkata] • Guys (asal: guy): [kawan-kawan / kalian] • it's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • hot: [panas / pedas] • in: [dalam / di dalam] • here: [di sini] |
-| 219 | 12:16 - 12:17 | "Masha | "Masya- | Masha: [masya-Allah] |
-| 220 | 12:17 - 12:18 | Allah. | Allah. | Allah: [Allah Subhanahu wa Ta'ala] |
-| 221 | 12:19 - 12:20 | Brother, you walked Zimbabwe. | Saudaraku, anda pernah menjelajah negara Zimbabwe. | Brother: [saudara lelaki] • you: [awak / anda] • walked (asal: walk): [berjalan] • Zimbabwe: [Zimbabwe (negara)] |
-| 222 | 12:21 - 12:23 | Yes, Zimbabwe is much cooler than this, my dear brother. | Ya, cuaca di Zimbabwe jauh lebih sejuk dan nyaman berbanding di sini, saudaraku yang dikasihi. | Yes: [ya] • Zimbabwe: [Zimbabwe (negara)] • is: [adalah / ialah] • much: [banyak] • cooler (asal: cool): [lebih dingin / lebih sejuk] • than: [daripada] • this: [ini] • my: [saya punya / kepunyaan saya] • dear: [yang dikasihi / yang disayangi] • brother: [saudara lelaki] |
-| 223 | 12:24 - 12:29 | Now, uh, the inside of buildings, masha Allah, is much, much cooler. | Sekarang, suasana di dalam bangunan di sana, masya-Allah, jauh lebih sejuk. | Now: [sekarang] • uh: [err / uh] • the: [kata penentu (itu / si)] • inside: [di dalam] • of: [daripada / tentang] • buildings (asal: building): [bangunan] • masha: [masya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] • is: [adalah / ialah] • much: [banyak] • cooler (asal: cool): [lebih dingin / lebih sejuk] |
-| 224 | 12:29 - 12:30 | Allahumma barik. | Allahumma barik (Semoga Allah memberkati). | Allahumma: [ya Allah] • barik: [berkatilah] |
-| 225 | 12:30 - 12:32 | But the outside is a bit... | Tetapi suasana di luar pula agak... | But: [tetapi / tapi] • the: [kata penentu (itu / si)] • outside: [di luar] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • bit (asal: bite): [sedikit / sikit] |
-| 226 | 12:32 - 12:37 | it 's cooler outside here, but what good is it to be so cool outside at this time of night when we're sweating | udara di luar Aberdeen ini memang sejuk, namun apa gunanya sejuk di luar pada waktu malam begini jika kita berpeluh | it: [ia / itu] • s: [saf solat] • cooler (asal: cool): [lebih dingin / lebih sejuk] • outside: [di luar] • here: [di sini] • but: [tetapi / tapi] • what: [apa / apakah] • good: [baik / bagus] • is: [adalah / ialah] • to: [ke / untuk] • be: [menjadi / berada] • so: [jadi / sangat] • cool: [sejuk / hebat / bergaya] • at: [di / pada] • this: [ini] • time: [masa / waktu] • of: [daripada / tentang] • night: [malam] • when: [bila / apabila] • we're: [kami / kita sedang (singkatan 'we are')] • sweating (asal: sweat): [peluh] |
-| 227 | 12:38 - 12:38 | inside? | di bahagian dalam masjid? | inside: [di dalam] |
-| 228 | 12:38 - 12:39 | Allahul musta'an. | Allahul musta'an (Kepada Allah jua tempat memohon pertolongan). | Allahul: [Allah yang Maha...] • musta'an: [tempat memohon pertolongan] |
-| 229 | 12:39 - 12:41 | Because of the number of people, and do you know why we're sweating? | Ini kerana ramainya para jemaah yang hadir, dan tahukah anda mengapa kita berpeluh? | Because: [kerana / sebab] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • number: [nombor / bilangan] • people (asal: person): [orang ramai / manusia] • and: [dan] • do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • why: [mengapa / kenapa] • we're: [kami / kita sedang (singkatan 'we are')] • sweating (asal: sweat): [peluh] |
-| 230 | 12:42 - 12:43 | Let me tell you why. | Biar saya beritahu puncanya. | Let: [biarkan / membenarkan] • me: [saya / aku] • tell: [beritahu / khabarkan] • you: [awak / anda] • why: [mengapa / kenapa] |
-| 231 | 12:43 - 12:46 | Because of the warmth of our hearts. | Kerana kehangatan kasih sayang yang terpancar dari hati kita semua. | Because: [kerana / sebab] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • warmth: [kehangatan kasih sayang] • our: [kami punya / kita punya] • hearts (asal: heart): [hati] |
-| 232 | 12:46 - 12:47 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 233 | 12:47 - 12:49 | Warmth of hearts. | Kehangatan tautan hati. | Warmth: [kehangatan kasih sayang] • of: [daripada / tentang] • hearts (asal: heart): [hati] |
-| 234 | 12:49 - 12:51 | Lovely people, radiant faces. | Masyarakat yang penyayang, wajah-wajah yang berseri keimanan. | Lovely: [menyenangkan / indah] • people (asal: person): [orang ramai / manusia] • radiant: [berseri-seri / bercahaya] • faces: [wajah-wajah] |
-| 235 | 12:51 - 12:53 | Did that make a difference, boys? | Adakah tiupan angin itu memberi perbezaan yang selesa, anak-anak muda sekalian? | Did (asal: do): [telah buat / adakah] • that: [itu / yang] • make: [buat / menghasilkan] • a: [sebuah / seorang / satu] • difference: [perbezaan] • boys (asal: boy): [budak lelaki] |
-| 236 | 12:53 - 12:56 | Air conditioning in the Arabian summer. | Bagaikan pendingin hawa di tengah musim panas padang pasir. | Air: [udara / menganginkan] • conditioning (asal: condition): [syarat] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • Arabian: [bangsa Arab / Semenanjung Arab] • summer: [musim panas] |
-| 237 | 12:57 - 12:57 | Eh? | Bukan? | Eh: [kan? / bukan begitu?] |
-| 238 | 12:57 - 12:58 | Beautiful. | Alhamdulillah sangat menyamankan. | Beautiful: [indah / cantik] |
-| 239 | 12:58 - 12:58 | Masha Allah. | Masya-Allah. | Masha: [masya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 240 | 12:58 - 12:59 | Tabarak Allah. | Tabarakallah. | Tabarak: [Maha Suci / Maha Berkat] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 241 | 12:59 - 13:01 | Now, why did I say what I said? | Sekarang, mengapakah saya menyampaikan teguran dengan cara sebegitu? | Now: [sekarang] • why: [mengapa / kenapa] • did (asal: do): [telah buat / adakah] • I: [saya / aku] • say: [cakap / berkata] • what: [apa / apakah] • said (asal: say): [cakap / berkata] |
-| 242 | 13:01 - 13:02 | Do you know? | Tahukah anda sebabnya? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] |
-| 243 | 13:02 - 13:03 | Because I'm your brother. | Kerana saya adalah saudara anda. | Because: [kerana / sebab] • I'm: [saya / saya sedang (singkatan 'I am')] • your: [awak punya / anda punya] • brother: [saudara lelaki] |
-| 244 | 13:03 - 13:05 | In some cases, your younger brother. | Bagi sesetengah anda, saya adalah adik anda. | In: [dalam / di dalam] • some: [beberapa / sedikit] • cases (asal: case): [kes] • your: [awak punya / anda punya] • younger (asal: young): [muda] • brother: [saudara lelaki] |
-| 245 | 13:05 - 13:07 | In other cases, your older brother. | Bagi sesetengah yang lain, saya adalah abang anda. | In: [dalam / di dalam] • other: [lain] • cases (asal: case): [kes] • your: [awak punya / anda punya] • older (asal: old): [lama] • brother: [saudara lelaki] |
-| 246 | 13:07 - 13:12 | If I hadn't opened my mouth, I would have finished the whole talk regretting why I didn't say that They opened | Sekiranya saya tidak bersuara, saya mungkin menamatkan seluruh ceramah ini dalam keadaan menyesal mengapa saya tidak meminta agar mereka membuka | If: [jika / kalau] • I: [saya / aku] • hadn't: [belum / tidak ada (singkatan 'had not')] • opened (asal: open): [buka / terbuka] • my: [saya punya / kepunyaan saya] • mouth: [mulut] • would: [akan / sudi] • have: [ada / mempunyai] • finished (asal: finish): [siap / selesai] • the: [kata penentu (itu / si)] • whole: [seluruh / keseluruhan] • talk: [bercakap / berborak] • regretting (asal: regret): [menyesali perbuatan] • why: [mengapa / kenapa] • didn't: [tidak / tak (singkatan 'did not')] • say: [cakap / berkata] • that: [itu / yang] • They: [mereka] |
-| 247 | 13:12 - 13:12 | the windows. | tingkap masjid. | the: [kata penentu (itu / si)] • windows (asal: window): [tingkap] |
-| 248 | 13:12 - 13:16 | So I had to say it in a very diplomatic way. | Maka saya perlu menyampaikannya secara sangat berhemah dan diplomasi. | So: [jadi / sangat] • I: [saya / aku] • had (asal: have): [mempunyai / telah ada] • to: [ke / untuk] • say: [cakap / berkata] • it: [ia / itu] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • very: [sangat / amat] • diplomatic: [diplomatik / penuh kebijaksanaan] • way: [jalan / cara] |
-| 249 | 13:16 - 13:17 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 250 | 13:17 - 13:18 | Very technical. | Pendekatan yang sangat halus. | Very: [sangat / amat] • technical: [teknikal] |
-| 251 | 13:18 - 13:21 | But didn't it make them open the windows? | Namun bukankah akhirnya mereka membuka tingkap tersebut? | But: [tetapi / tapi] • didn't: [tidak / tak (singkatan 'did not')] • it: [ia / itu] • make: [buat / menghasilkan] • them: [mereka] • open: [buka / terbuka] • the: [kata penentu (itu / si)] • windows (asal: window): [tingkap] |
-| 252 | 13:22 - 13:22 | Alhamdulillah. | Alhamdulillah. | Alhamdulillah: [segala puji bagi Allah] |
-| 253 | 13:22 - 13:24 | So it worked. | Maka kaedah itu membuahkan hasil. | So: [jadi / sangat] • it: [ia / itu] • worked (asal: work): [kerja / berfungsi] |
-| 254 | 13:24 - 13:29 | That's why I say that sometimes when we tell them something, they may not realize how we're saying it, but | Sebab itulah saya katakan bahawa kadangkala apabila kita menegur seseorang, mereka mungkin tidak sedar bagaimana cara kita menyampaikannya, tetapi | That's: [itu adalah / itu (singkatan 'that is')] • why: [mengapa / kenapa] • I: [saya / aku] • say: [cakap / berkata] • that: [itu / yang] • sometimes: [kadang-kadang] • when: [bila / apabila] • we: [kami / kita] • tell: [beritahu / khabarkan] • them: [mereka] • something: [sesuatu] • they: [mereka] • may: [semoga / moga-moga] • not: [bukan / tidak] • realize: [menyedari / insaf] • how: [bagaimana / macam mana] • we're: [kami / kita sedang (singkatan 'we are')] • saying (asal: say): [cakap / berkata] • it: [ia / itu] • but: [tetapi / tapi] |
-| 255 | 13:29 - 13:31 | we arrive at the same end result. | kita berjaya mencapai matlamat dan keputusan akhir yang sama. | we: [kami / kita] • arrive: [tiba / sampai] • at: [di / pada] • the: [kata penentu (itu / si)] • same: [sama] • end: [hujung / tamat] • result: [keputusan / hasil] |
-| 256 | 13:31 - 13:32 | That's what's important. | Itulah perkara yang paling penting. | That's: [itu adalah / itu (singkatan 'that is')] • what's: [apa / apakah (singkatan 'what is/has')] • important: [penting] |
-| 257 | 13:33 - 13:34 | The end result is what matters. | Hasil akhir dan natijah yang dicapai itulah yang utama. | The: [kata penentu (itu / si)] • end: [hujung / tamat] • result: [keputusan / hasil] • is: [adalah / ialah] • what: [apa / apakah] • matters (asal: matter): [perkara penting / hal-hal] |
-| 258 | 13:34 - 13:35 | How I said it is different. | Kaedah penyampaian saya mungkin berbeza. | How: [bagaimana / macam mana] • I: [saya / aku] • said (asal: say): [cakap / berkata] • it: [ia / itu] • is: [adalah / ialah] • different: [berbeza / kelainan] |
-| 259 | 13:35 - 13:40 | You'll hear from all the scholars and from those who want to remind you to Allah that you should pray five | Anda akan mendengar daripada seluruh para alim ulama dan pendakwah yang mengingatkan anda kepada Allah tentang kewajipan solat lima | You'll: [anda akan / awak akan (singkatan 'you will')] • hear: [mendengar] • from: [dari / daripada] • all: [semua / seluruh] • the: [kata penentu (itu / si)] • scholars: [para ulama] • and: [dan] • those: [semua itu] • who: [siapa / orang yang] • want: [mahu / nak] • to: [ke / untuk] • remind: [mengingatkan] • you: [awak / anda] • Allah: [Allah Subhanahu wa Ta'ala] • that: [itu / yang] • should: [patut / patutlah] • pray: [berdoa / mendirikan solat] • five: [lima] |
-| 260 | 13:40 - 13:41 | times a day. | waktu sehari semalam. | times (asal: time): [masa / waktu] • a: [sebuah / seorang / satu] • day: [hari / siang] |
-| 261 | 13:41 - 13:45 | But each one will use a different method to tell you the exact same thing. | Namun setiap seorang daripada mereka menggunakan pendekatan berbeza untuk menyampaikan mesej yang sama persis. | But: [tetapi / tapi] • each: [setiap / masing-masing] • one: [satu / seorang] • will: [akan] • use: [guna / menggunakan] • a: [sebuah / seorang / satu] • different: [berbeza / kelainan] • method: [kaedah / cara] • to: [ke / untuk] • tell: [beritahu / khabarkan] • you: [awak / anda] • the: [kata penentu (itu / si)] • exact: [tepat / persis] • same: [sama] • thing: [benda / perkara] |
-| 262 | 13:45 - 13:47 | The idea is to arrive at the end result. | Tujuannya adalah memastikan matlamat akhir itu tercapai. | The: [kata penentu (itu / si)] • idea: [konsep / idea] • is: [adalah / ialah] • to: [ke / untuk] • arrive: [tiba / sampai] • at: [di / pada] • end: [hujung / tamat] • result: [keputusan / hasil] |
-| 263 | 13:47 - 13:50 | Do you know what the ultimate end result is for a moment? | Tahukah anda apakah kemuncak matlamat akhir bagi setiap insan beriman? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • the: [kata penentu (itu / si)] • ultimate: [mutlak / kemuncak] • end: [hujung / tamat] • result: [keputusan / hasil] • is: [adalah / ialah] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • moment: [saat / ketika] |
-| 264 | 13:50 - 13:51 | Say it. | Sebutlah ia bersama-sama. | Say: [cakap / berkata] • it: [ia / itu] |
-| 265 | 13:51 - 13:52 | Jannatul Firdaus. | Jannatul Firdaus. | Jannatul: [syurga (Jannatul Firdaus)] • Firdaus: [Syurga Firdaus] |
-| 266 | 13:52 - 13:56 | Jannatul Firdaus, one of the only places better than Aberdeen. | Jannatul Firdaus, satu-satunya tempat yang jauh lebih indah dan hebat daripada Aberdeen. | Jannatul: [syurga (Jannatul Firdaus)] • Firdaus: [Syurga Firdaus] • one: [satu / seorang] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • only: [hanya / sahaja] • places (asal: place): [tempat] • better (asal: good): [lebih baik] • than: [daripada] • Aberdeen: [Aberdeen (bandar di Scotland)] |
-| 267 | 13:56 - 13:56 | Masha Allah. | Masya-Allah. | Masha: [masya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 268 | 13:56 - 13:58 | May Allah protect you. | Semoga Allah sentiasa merahmati dan memelihara anda. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • protect: [pelihara / lindungi] • you: [awak / anda] |
-| 269 | 13:58 - 14:02 | I see the boys are smiling because they don't agree with me, right? | Saya nampak anak-anak muda tersenyum kerana mungkin kurang bersetuju dengan gurauan saya, bukan? | I: [saya / aku] • see: [lihat / nampak / tengok] • the: [kata penentu (itu / si)] • boys (asal: boy): [budak lelaki] • are (asal: be): [adalah / berada] • smiling (asal: smile): [tersenyum] • because: [kerana / sebab] • they: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • agree: [setuju] • with: [dengan / bersama] • me: [saya / aku] • right: [betul / kanan / tepat] |
-| 270 | 14:02 - 14:05 | There are many other more beautiful places, but inshallah, for me, it's something great. | Banyak lagi tempat yang indah di dunia ini, tetapi insya-Allah bagi saya, berada di sini bersama anda adalah sesuatu yang amat bermakna. | There: [di sana / ada] • are (asal: be): [adalah / berada] • many: [banyak] • other: [lain] • more (asal: much / many): [lebih banyak] • beautiful: [indah / cantik] • places (asal: place): [tempat] • but: [tetapi / tapi] • inshallah: [insya-Allah] • for: [untuk / bagi] • me: [saya / aku] • it's: [ia adalah / itu (singkatan 'it is/has')] • something: [sesuatu] • great: [hebat / besar] |
-| 271 | 14:05 - 14:08 | Because it's not like I come to Aberdeen all the time. | Kerana bukannya selalu saya berpeluang menjejakkan kaki ke Aberdeen ini. | Because: [kerana / sebab] • it's: [ia adalah / itu (singkatan 'it is/has')] • not: [bukan / tidak] • like: [suka / seperti] • I: [saya / aku] • come: [datang / mari] • to: [ke / untuk] • Aberdeen: [Aberdeen (bandar di Scotland)] • all: [semua / seluruh] • the: [kata penentu (itu / si)] • time: [masa / waktu] |
-| 272 | 14:08 - 14:09 | Masha Allah. | Masya-Allah. | Masha: [masya-Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 273 | 14:09 - 14:17 | But, nevertheless, I was saying that sometimes we develop bad habits and get into things we're not happy with, | Namun demikian, tadi saya ada menyebut bahawa kadangkala kita terjebak dengan tabiat buruk dan terjerumus ke dalam perkara yang kita sesali, | But: [tetapi / tapi] • nevertheless: [namun demikian] • I: [saya / aku] • was: [adalah / dulu berada] • saying (asal: say): [cakap / berkata] • that: [itu / yang] • sometimes: [kadang-kadang] • we: [kami / kita] • develop: [membina / membangunkan] • bad: [teruk / buruk] • habits (asal: habit): [tabiat-tabiat] • and: [dan] • get: [dapat / mengambil] • into: [ke dalam] • things (asal: thing): [benda-benda / perkara-perkara] • we're: [kami / kita sedang (singkatan 'we are')] • not: [bukan / tidak] • happy: [gembira / bahagia] • with: [dengan / bersama] |
-| 274 | 14:17 - 14:18 | as time goes on. | seiring berlalunya masa. | as: [seperti / sebagai] • time: [masa / waktu] • goes (asal: go): [pergi] • on: [hidup / atas] |
-| 275 | 14:18 - 14:24 | At some point, because of our friends who might be involved in addictions and various other distractions, we | Pada satu saat, akibat pengaruh rakan-rakan yang mungkin terjebak dengan ketagihan dan pelbagai kelalaian dunia, kita | At: [di / pada] • some: [beberapa / sedikit] • point: [tujuan / makna] • because: [kerana / sebab] • of: [daripada / tentang] • our: [kami punya / kita punya] • friends (asal: friend): [kawan-kawan] • who: [siapa / orang yang] • might: [mungkin / daya] • be: [menjadi / berada] • involved: [terlibat] • in: [dalam / di dalam] • addictions (asal: addiction): [ketagihan-ketagihan] • and: [dan] • various: [pelbagai jenis] • other: [lain] • distractions (asal: distraction): [gangguan-gangguan] • we: [kami / kita] |
-| 276 | 14:24 - 14:25 | get happy. | menyangka diri kita bahagia berseronok. | get: [dapat / mengambil] • happy: [gembira / bahagia] |
-| 277 | 14:25 - 14:35 | And we don't realize that Allah Almighty, by His favor and mercy, will bring us back to His home because we | Dan kita tidak menyedari bahawa Allah Yang Maha Esa, dengan limpah kurnia dan rahmat-Nya, akan memimpin kita kembali ke rumah-Nya kerana kita | And: [dan] • we: [kami / kita] • don't: [jangan / tidak (singkatan 'do not')] • realize: [menyedari / insaf] • that: [itu / yang] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • by: [oleh / dengan / menjelang] • His: [miliknya / kepunyaan dia] • favor: [nikmat / pertolongan] • mercy: [rahmat] • will: [akan] • bring: [membawa] • us: [kami / kita] • back: [belakang / kembali] • to: [ke / untuk] • home: [rumah / kediaman] • because: [kerana / sebab] |
-| 278 | 14:35 - 14:38 | have a spark of faith in our hearts. | masih mempunyai sekelumit bibit keimanan di dalam sanubari. | have: [ada / mempunyai] • a: [sebuah / seorang / satu] • spark: [percikan api kebaikan] • of: [daripada / tentang] • faith: [keimanan / akidah] • in: [dalam / di dalam] • our: [kami punya / kita punya] • hearts (asal: heart): [hati] |
-| 279 | 14:39 - 14:45 | You know there's a Hadith where the Prophet, peace and blessings of Allah be upon him, says that a time will | Tahukah anda terdapat sebuah hadis di mana Rasulullah SAW bersabda bahawa akan tiba suatu saat di mana... | You: [awak / anda] • know: [tahu / kenal] • there's: [ada / terdapat (singkatan 'there is')] • a: [sebuah / seorang / satu] • Hadith: [hadis Rasulullah] • where: [di mana] • the: [kata penentu (itu / si)] • Prophet: [Nabi / Rasul] • peace: [keamanan / kedamaian] • and: [dan] • blessings (asal: blessing): [keberkatan / nikmat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] • be: [menjadi / berada] • upon: [ke atas / di atas] • him: [dia (lelaki)] • says (asal: say): [cakap / berkata] • that: [itu / yang] • time: [masa / waktu] • will: [akan] |
-| 280 | 14:46 - 14:46 | come when... | ketika... | come: [datang / mari] • when: [bila / apabila] |
-| 281 | 14:46 - 14:47 | could you move aside a little? | bolehkah anda beralih sedikit ke tepi? | could: [boleh / dapat] • you: [awak / anda] • move: [bergerak / berpindah] • aside: [ke tepi / selain] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] |
-| 282 | 14:47 - 14:51 | Because every day we deal with this movement, and everyone complains that the video cuts out. | Kerana setiap hari kami menghadapi masalah pergerakan ini, dan para penonton mengadu rakaman video terhalang. | Because: [kerana / sebab] • every: [setiap / tiap-tiap] • day: [hari / siang] • we: [kami / kita] • deal: [perjanjian / urusan] • with: [dengan / bersama] • this: [ini] • movement: [pergerakan] • and: [dan] • everyone: [semua orang] • complains (asal: complain): [mengadu / merungut] • that: [itu / yang] • the: [kata penentu (itu / si)] • video: [video / rakaman visual] • cuts (asal: cut): [potong] • out: [keluar / di luar] |
-| 283 | 14:51 - 14:53 | So you have to move aside a little. | Oleh itu anda perlu beralih sedikit ke tepi. | So: [jadi / sangat] • you: [awak / anda] • have: [ada / mempunyai] • to: [ke / untuk] • move: [bergerak / berpindah] • aside: [ke tepi / selain] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] |
-| 284 | 14:53 - 15:03 | But my beloved brothers, there's a Hadith that says that Allah Almighty will instruct the angels at that time | Tetapi wahai saudaraku yang dikasihi, ada sebuah hadis yang menyatakan bahawa Allah Yang Maha Kuasa akan memerintahkan para malaikat pada hari kiamat | But: [tetapi / tapi] • my: [saya punya / kepunyaan saya] • beloved: [kekasih / yang dikasihi] • brothers (asal: brother): [saudara-saudara] • there's: [ada / terdapat (singkatan 'there is')] • a: [sebuah / seorang / satu] • Hadith: [hadis Rasulullah] • that: [itu / yang] • says (asal: say): [cakap / berkata] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • will: [akan] • instruct: [menginstruksikan / memerintahkan] • the: [kata penentu (itu / si)] • angels (asal: angel): [para malaikat] • at: [di / pada] • time: [masa / waktu] |
-| 285 | 15:03 - 15:10 | to say: Take out of Jahannam anyone who has even the weight of an atom of faith. | dengan berfirman: Keluarkanlah dari neraka Jahanam sesiapa sahaja yang di dalam hatinya ada iman walau sebesar zarah. | to: [ke / untuk] • say: [cakap / berkata] • Take: [ambil / memerlukan masa] • out: [keluar / di luar] • of: [daripada / tentang] • Jahannam: [neraka (Jahannam)] • anyone: [sesiapa sahaja] • who: [siapa / orang yang] • has: [ada / mempunyai] • even: [malah / pun] • the: [kata penentu (itu / si)] • weight: [berat] • an: [sebuah / seorang / satu] • atom: [zarah / atom] • faith: [keimanan / akidah] |
-| 286 | 15:10 - 15:16 | So We have faith, Allah will bring us to His House according to His will. | Maka selagi kita memiliki iman, Allah pasti memandu kita kembali ke rumah-Nya mengikut kehendak dan izin-Nya. | So: [jadi / sangat] • We: [kami / kita] • have: [ada / mempunyai] • faith: [keimanan / akidah] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • bring: [membawa] • us: [kami / kita] • to: [ke / untuk] • His: [miliknya / kepunyaan dia] • House: [rumah] • according (asal: accord): [sepakat] |
-| 287 | 15:16 - 15:21 | And I always say, my brother, when you do something wrong, my beloved sister, when you have sinned against | Dan saya sering berpesan, saudaraku, apabila anda terlanjur melakukan kesilapan, dan saudariku yang dikasihi, apabila anda berdosa kepada | And: [dan] • I: [saya / aku] • always: [sentiasa / selalu] • say: [cakap / berkata] • my: [saya punya / kepunyaan saya] • brother: [saudara lelaki] • when: [bila / apabila] • you: [awak / anda] • do: [buat / lakukan] • something: [sesuatu] • wrong: [salah] • beloved: [kekasih / yang dikasihi] • sister: [saudara perempuan] • have: [ada / mempunyai] • sinned: [melakukan dosa] • against: [menentang / terhadap] |
-| 288 | 15:21 - 15:25 | Allah, if you have a feeling of remorse in your heart, it is a sign that you are a believer. | Allah, sekiranya timbul rasa penyesalan di dalam hati anda, ketahuilah bahawa itu petanda kukuh bahawa anda seorang yang beriman. | Allah: [Allah Subhanahu wa Ta'ala] • if: [jika / kalau] • you: [awak / anda] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • feeling (asal: feel): [rasa / merasa] • of: [daripada / tentang] • remorse: [penyesalan yang mendalam] • in: [dalam / di dalam] • your: [awak punya / anda punya] • heart: [hati] • it: [ia / itu] • is: [adalah / ialah] • sign: [tanda / isyarat] • that: [itu / yang] • are (asal: be): [adalah / berada] • believer: [orang beriman / mukmin] |
-| 289 | 15:25 - 15:30 | Because if you were not a believer, why would you repent? | Kerana jika anda bukan seorang mukmin, mengapakah hati anda terdorong untuk bertaubat? | Because: [kerana / sebab] • if: [jika / kalau] • you: [awak / anda] • were (asal: be): [adalah / dulu berada] • not: [bukan / tidak] • a: [sebuah / seorang / satu] • believer: [orang beriman / mukmin] • why: [mengapa / kenapa] • would: [akan / sudi] • repent: [bertaubat kepada Allah] |
-| 290 | 15:30 - 15:31 | What | Apakah | What: [apa / apakah] |
-| 291 | 15:32 - 15:33 | is | itu | is: [adalah / ialah] |
-| 292 | 15:33 - 15:35 | repentance? | penyesalan taubat? | repentance: [taubat] |
-| 293 | 15:35 - 15:37 | Mu'im. | Ciri seorang mukmin sejati. | Mu'im: [orang yang memberi nikmat] |
-| 294 | 15:37 - 15:43 | If your good deed makes you a little happy, you know, when you get up early for Fajr prayer, Tahajud, you | Sekiranya amalan kebajikan anda membahagiakan hati anda, contohnya apabila anda bangun awal menunaikan solat Subuh, solat Tahajud, anda | If: [jika / kalau] • your: [awak punya / anda punya] • good: [baik / bagus] • deed: [amalan / perbuatan] • makes (asal: make): [buat / menghasilkan] • you: [awak / anda] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • happy: [gembira / bahagia] • know: [tahu / kenal] • when: [bila / apabila] • get: [dapat / mengambil] • up: [atas / naik] • early: [awal] • for: [untuk / bagi] • Fajr: [subuh] • prayer: [solat / doa] • Tahajud: [solat malam Tahajud] |
-| 295 | 15:43 - 15:46 | did something good, you gave charity, you went to Mecca for Umrah, etc. | melakukan kebaikan, bersedekah, menunaikan umrah di Makkah, dan sebagainya. | did (asal: do): [telah buat / adakah] • something: [sesuatu] • good: [baik / bagus] • you: [awak / anda] • gave (asal: give): [beri / memberikan] • charity: [sedekah] • went (asal: go): [telah pergi] • to: [ke / untuk] • Mecca: [Kota Makkah] • for: [untuk / bagi] • Umrah: [ibadah umrah] • etc: [dan sebagainya (dan lain-lain)] |
-| 296 | 15:46 - 15:53 | If that makes you feel happy inside, content and fulfilled, and your bad deed makes you feel remorse and sadness, | Sekiranya perkara itu membuatkan hati anda berasa lapang, tenang dan gembira, manakala perbuatan dosa menimbulkan rasa sesal dan dukacita, | If: [jika / kalau] • that: [itu / yang] • makes (asal: make): [buat / menghasilkan] • you: [awak / anda] • feel: [rasa / merasa] • happy: [gembira / bahagia] • inside: [di dalam] • content: [berasa puas / berpuas hati] • and: [dan] • fulfilled: [ditunaikan / dimakbulkan] • your: [awak punya / anda punya] • bad: [teruk / buruk] • deed: [amalan / perbuatan] • remorse: [penyesalan yang mendalam] • sadness: [kesedihan] |
-| 297 | 15:53 - 15:55 | that is a sign that you are a believer. | maka itulah bukti jelas bahawa anda adalah seorang yang beriman. | that: [itu / yang] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • sign: [tanda / isyarat] • you: [awak / anda] • are (asal: be): [adalah / berada] • believer: [orang beriman / mukmin] |
-| 298 | 15:56 - 15:57 | There is responsibility within you. | Wujud rasa tanggungjawab keimanan yang hidup di dalam jiwa anda. | There: [di sana / ada] • is: [adalah / ialah] • responsibility: [tanggungjawab] • within: [dalam lingkungan / di dalam] • you: [awak / anda] |
-| 299 | 15:57 - 15:59 | That is why you feel that way. | Itulah sebabnya anda merasai getaran perasaan tersebut. | That: [itu / yang] • is: [adalah / ialah] • why: [mengapa / kenapa] • you: [awak / anda] • feel: [rasa / merasa] • way: [jalan / cara] |
-| 300 | 15:59 - 16:04 | If there were no responsibility within you, Subhanallah, you would not need to feel good or bad about anything. | Jika tiada secebis keimanan dan tanggungjawab di dalam jiwa anda, subhanallah, anda tidak akan peduli sama ada perbuatan anda baik atau buruk. | If: [jika / kalau] • there: [di sana / ada] • were (asal: be): [adalah / dulu berada] • no: [tidak / tiada] • responsibility: [tanggungjawab] • within: [dalam lingkungan / di dalam] • you: [awak / anda] • Subhanallah: [Maha Suci Allah] • would: [akan / sudi] • not: [bukan / tidak] • need: [perlu / memerlukan] • to: [ke / untuk] • feel: [rasa / merasa] • good: [baik / bagus] • or: [atau] • bad: [teruk / buruk] • about: [tentang / sekitar] • anything: [apa-apa pun / sebarang perkara] |
-| 301 | 16:04 - 16:10 | So, my beloved brothers and sisters, Allah brings you to His House and you are sitting here with all the | Maka, wahai saudara-saudariku yang dikasihi, Allah telah memimpin anda ke Rumah-Nya dan anda duduk bersama di sini dengan semua | So: [jadi / sangat] • my: [saya punya / kepunyaan saya] • beloved: [kekasih / yang dikasihi] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] • Allah: [Allah Subhanahu wa Ta'ala] • brings (asal: bring): [membawa] • you: [awak / anda] • to: [ke / untuk] • His: [miliknya / kepunyaan dia] • House: [rumah] • are (asal: be): [adalah / berada] • sitting (asal: sit): [duduk] • here: [di sini] • with: [dengan / bersama] • all: [semua / seluruh] • the: [kata penentu (itu / si)] |
-| 302 | 16:11 - 16:14 | people of the same City or town and mashallah, what are we listening to? | penduduk dari bandar yang sama ini, dan masya-Allah, apakah yang sedang kita dengarkan bersama? | people (asal: person): [orang ramai / manusia] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • same: [sama] • City: [kota / bandar] • or: [atau] • town: [bandar / pekan] • and: [dan] • mashallah: [masya-Allah] • what: [apa / apakah] • are (asal: be): [adalah / berada] • we: [kami / kita] • listening (asal: listen): [dengar] • to: [ke / untuk] |
-| 303 | 16:14 - 16:18 | We are listening to someone saying to us, " Come, let's go to Allah together." Come. | Kita sedang mendengar seseorang menyeru kepada kita, "Marilah kita kembali kepada Allah bersama-sama." Marilah. | We: [kami / kita] • are (asal: be): [adalah / berada] • listening (asal: listen): [dengar] • to: [ke / untuk] • someone: [seseorang] • saying (asal: say): [cakap / berkata] • us: [kami / kita] • Come: [datang / mari] • let's: [jom / marilah kita (singkatan 'let us')] • go: [pergi] • Allah: [Allah Subhanahu wa Ta'ala] • together: [bersama-sama] |
-| 304 | 16:19 - 16:20 | I have weaknesses, you have weaknesses. | Saya ada kelemahan diri, anda juga ada kelemahan diri. | I: [saya / aku] • have: [ada / mempunyai] • weaknesses: [kelemahan-kelemahan] • you: [awak / anda] |
-| 305 | 16:20 - 16:26 | I have sinned, you have sinned, but surely, shouldn't | Saya pernah melakukan dosa, anda juga pernah berbuat dosa, namun wajarkah | I: [saya / aku] • have: [ada / mempunyai] • sinned: [melakukan dosa] • you: [awak / anda] • but: [tetapi / tapi] • surely: [sesungguhnya pasti] • shouldn't: [tidak patut / jangan (singkatan 'should not')] |
-| 306 | 16:27 - 16:29 | we | kita | we: [kami / kita] |
-| 307 | 16:30 - 16:32 | stop | menghentikan | stop: [berhenti] |
-| 308 | 16:33 - 16:35 | that | dosa itu | that: [itu / yang] |
-| 309 | 16:37 - 16:38 | now? | sekarang juga? | now: [sekarang] |
-| 310 | 16:40 - 16:41 | Is n't it time? | Bukankah sudah tiba masanya? | Is: [adalah / ialah] • n't: [tidak / bukan] • it: [ia / itu] • time: [masa / waktu] |
-| 311 | 16:42 - 16:48 | Isn't it time for believers, for their hearts to turn to Allah, to revelation and truth? | Bukankah sudah sampai waktunya bagi orang-orang yang beriman, agar hati mereka tunduk mengingati Allah, wahyu dan kebenaran? | Isn't: [bukan / tidak (singkatan 'is not')] • it: [ia / itu] • time: [masa / waktu] • for: [untuk / bagi] • believers (asal: believer): [orang-orang yang beriman] • their: [mereka punya / kepunyaan mereka] • hearts (asal: heart): [hati] • to: [ke / untuk] • turn: [pusing / hidupkan (turn on)] • Allah: [Allah Subhanahu wa Ta'ala] • revelation: [wahyu ilahi] • and: [dan] • truth: [kebenaran] |
-| 312 | 16:48 - 16:49 | Is n't it time? | Bukankah sudah tiba ketikanya? | Is: [adalah / ialah] • n't: [tidak / bukan] • it: [ia / itu] • time: [masa / waktu] |
-| 313 | 16:49 - 16:51 | What are you waiting for? | Apakah lagi yang anda tunggu-tunggukan? | What: [apa / apakah] • are (asal: be): [adalah / berada] • you: [awak / anda] • waiting (asal: wait): [tunggu] • for: [untuk / bagi] |
-| 314 | 16:51 - 16:54 | How much longer do you want to wait before returning to Allah? | Berapa lama lagi anda mahu bertangguh sebelum kembali bertaubat kepada Allah? | How: [bagaimana / macam mana] • much: [banyak] • longer (asal: long): [lebih panjang / lebih lama] • do: [buat / lakukan] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • wait: [menunggu / nanti] • before: [sebelum] • returning (asal: return): [kembali] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 315 | 16:54 - 17:00 | Come slowly but surely if necessary, but make sure that the movement is in the right direction, not the wrong | Melangkahlah perlahan-lahan tetapi pasti sekiranya perlu, namun pastikan langkah itu menuju ke arah yang benar, bukan ke arah | Come: [datang / mari] • slowly: [secara perlahan] • but: [tetapi / tapi] • surely: [sesungguhnya pasti] • if: [jika / kalau] • necessary: [perlu / mustahak] • make: [buat / menghasilkan] • sure: [pasti / tentu] • that: [itu / yang] • the: [kata penentu (itu / si)] • movement: [pergerakan] • is: [adalah / ialah] • in: [dalam / di dalam] • right: [betul / kanan / tepat] • direction: [arah] • not: [bukan / tidak] • wrong: [salah] |
-| 316 | 17:00 - 17:01 | direction. | yang salah. | direction: [arah] |
-| 317 | 17:01 - 17:03 | You are struggling with your prayer, guess what? | Anda sedang bergelut untuk menjaga solat fardu anda, cuba teka apa hakikatnya? | You: [awak / anda] • are (asal: be): [adalah / berada] • struggling (asal: struggle): [sedang bergelut] • with: [dengan / bersama] • your: [awak punya / anda punya] • prayer: [solat / doa] • guess: [agak / meneka] • what: [apa / apakah] |
-| 318 | 17:03 - 17:06 | We all have our struggles. | Kita semua ada ujian dan kepayahan masing-masing. | We: [kami / kita] • all: [semua / seluruh] • have: [ada / mempunyai] • our: [kami punya / kita punya] • struggles: [cabaran-cabaran hidup] |
-| 319 | 17:06 - 17:12 | But weakness would be going from four to three and from three to two—that is a loss. | Tetapi kelemahan yang nyata adalah apabila daripada empat waktu merosot ke tiga waktu, dan dari tiga waktu turun ke dua waktu—itu adalah satu kerugian besar. | But: [tetapi / tapi] • weakness: [kelemahan] • would: [akan / sudi] • be: [menjadi / berada] • going (asal: go): [sedang pergi / akan] • from: [dari / daripada] • four: [empat] • to: [ke / untuk] • three: [tiga] • and: [dan] • two: [dua] • that: [itu / yang] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • loss: [kerugian / kehilangan] |
-| 320 | 17:12 - 17:19 | Successful is the one who, from two, when struggling, goes to three because of their dedication and love of | Orang yang berjaya adalah mereka yang bermula daripada dua waktu, walau bersusah-payah, meningkat ke tiga waktu atas dasar iltizam dan kecintaan kepada | Successful: [beroleh kejayaan] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • one: [satu / seorang] • who: [siapa / orang yang] • from: [dari / daripada] • two: [dua] • when: [bila / apabila] • struggling (asal: struggle): [sedang bergelut] • goes (asal: go): [pergi] • to: [ke / untuk] • three: [tiga] • because: [kerana / sebab] • of: [daripada / tentang] • their: [mereka punya / kepunyaan mereka] • dedication: [pengabdian / dedikasi] • and: [dan] • love: [suka sangat / sayang] |
-| 321 | 17:19 - 17:20 | Allah. | Allah. | Allah: [Allah Subhanahu wa Ta'ala] |
-| 322 | 17:20 - 17:27 | My beloved children, my beloved youth, my mothers, my sisters, my brothers, My elders, whoever they may be, | Wahai anak-anakku, para pemuda, para ibu, saudara-saudariku, dan para warga emas sekalian, | My: [saya punya / kepunyaan saya] • beloved: [kekasih / yang dikasihi] • children (asal: child): [anak] • youth: [masa muda] • mothers (asal: mother): [para ibu] • sisters (asal: sister): [saudari-saudari] • brothers (asal: brother): [saudara-saudara] • elders (asal: elder): [golongan tua / para sesepuh] • whoever: [sesiapa sahaja] • they: [mereka] • may: [semoga / moga-moga] • be: [menjadi / berada] |
-| 323 | 17:27 - 17:29 | let us do better than yesterday. | marilah kita berusaha menjadi lebih baik daripada hari kelmarin. | let: [biarkan / membenarkan] • us: [kami / kita] • do: [buat / lakukan] • better (asal: good): [lebih baik] • than: [daripada] • yesterday: [semalam / kelmarin] |
-| 324 | 17:29 - 17:31 | Let us always strive to be stronger. | Marilah kita sentiasa bertekad membina kekuatan iman. | Let: [biarkan / membenarkan] • us: [kami / kita] • always: [sentiasa / selalu] • strive: [berusaha sedaya upaya] • to: [ke / untuk] • be: [menjadi / berada] • stronger (asal: strong): [kuat] |
-| 325 | 17:31 - 17:37 | It is very sad to see people sometimes; they are close to Allah and then they distance themselves. | Sungguh menyedihkan melihat ada insan yang pada mulanya begitu dekat dengan Allah, namun kemudian menjauhkan diri mereka. | It: [ia / itu] • is: [adalah / ialah] • very: [sangat / amat] • sad: [sedih / berduka] • to: [ke / untuk] • see: [lihat / nampak / tengok] • people (asal: person): [orang ramai / manusia] • sometimes: [kadang-kadang] • they: [mereka] • are (asal: be): [adalah / berada] • close: [tutup / dekat] • Allah: [Allah Subhanahu wa Ta'ala] • and: [dan] • then: [kemudian / waktu itu] • distance: [jarak / kejauhan] • themselves: [diri mereka sendiri] |
-| 326 | 17:37 - 17:39 | That is not a good sign. | Itu bukan petanda yang baik. | That: [itu / yang] • is: [adalah / ialah] • not: [bukan / tidak] • a: [sebuah / seorang / satu] • good: [baik / bagus] • sign: [tanda / isyarat] |
-| 327 | 17:39 - 17:45 | I say that if you are going to sin, do not encourage others to sin, because you might abandon the sin at | Saya berpesan sekiranya anda terlanjur berbuat dosa, jangan sesekali menghasut orang lain melakukan dosa yang sama, kerana anda mungkin bertaubat | I: [saya / aku] • say: [cakap / berkata] • that: [itu / yang] • if: [jika / kalau] • you: [awak / anda] • are (asal: be): [adalah / berada] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • sin: [dosa] • do: [buat / lakukan] • not: [bukan / tidak] • encourage: [menggalakkan / mendorong] • others: [orang lain] • because: [kerana / sebab] • might: [mungkin / daya] • abandon: [meninggalkan / mengabaikan] • the: [kata penentu (itu / si)] • at: [di / pada] |
-| 328 | 17:45 - 17:52 | some point, and those you encouraged might become a sadaka in the wrong sense. | pada suatu ketika nanti, sedangkan mereka yang anda hasut akan menjadi 'sedekah jariah' pada jalan yang salah. | some: [beberapa / sedikit] • point: [tujuan / makna] • and: [dan] • those: [semua itu] • you: [awak / anda] • encouraged: [digalakkan / amat dituntut] • might: [mungkin / daya] • become: [menjadi] • a: [sebuah / seorang / satu] • sadaka: [sedekah] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • wrong: [salah] • sense: [deria / logik akal] |
-| 329 | 17:53 - 17:54 | What is a sadaka in the wrong sense? | Apakah maksud 'sedekah jariah' pada jalan yang salah? | What: [apa / apakah] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • sadaka: [sedekah] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • wrong: [salah] • sense: [deria / logik akal] |
-| 330 | 17:54 - 18:00 | In the same way that I would receive a reward for doing a good deed, I will also be a sinner for doing | Sebagaimana saya beroleh pahala apabila melakukan amalan soleh, saya juga akan menanggung dosa apabila melakukan | In: [dalam / di dalam] • the: [kata penentu (itu / si)] • same: [sama] • way: [jalan / cara] • that: [itu / yang] • I: [saya / aku] • would: [akan / sudi] • receive: [menerima] • a: [sebuah / seorang / satu] • reward: [ganjaran / pahala] • for: [untuk / bagi] • doing (asal: do): [buat / lakukan] • good: [baik / bagus] • deed: [amalan / perbuatan] • will: [akan] • also: [juga / selain itu] • be: [menjadi / berada] • sinner: [orang yang berbuat dosa] |
-| 331 | 18:00 - 18:05 | a bad one, but if my good deed encouraged others to do good, I will continue to receive a good deed as long | kemungkaran. Namun jika amalan baik saya mendorong orang lain berbuat kebaikan, pahala kebaikan itu akan terus mengalir kepada saya selagi | a: [sebuah / seorang / satu] • bad: [teruk / buruk] • one: [satu / seorang] • but: [tetapi / tapi] • if: [jika / kalau] • my: [saya punya / kepunyaan saya] • good: [baik / bagus] • deed: [amalan / perbuatan] • encouraged: [digalakkan / amat dituntut] • others: [orang lain] • to: [ke / untuk] • do: [buat / lakukan] • I: [saya / aku] • will: [akan] • continue: [teruskan / menyambung] • receive: [menerima] • as: [seperti / sebagai] • long: [panjang / lama] |
-| 332 | 18:05 - 18:06 | as they do good. | mereka terus beramal soleh. | as: [seperti / sebagai] • they: [mereka] • do: [buat / lakukan] • good: [baik / bagus] |
-| 333 | 18:07 - 18:14 | And if my bad deed encouraged others to do bad, I will continue to receive a sin as long as they do bad | Dan sekiranya perbuatan maksiat saya mendorong orang lain berbuat jahat, dosa kejahatan itu akan terus mengalir selagi mereka melakukannya | And: [dan] • if: [jika / kalau] • my: [saya punya / kepunyaan saya] • bad: [teruk / buruk] • deed: [amalan / perbuatan] • encouraged: [digalakkan / amat dituntut] • others: [orang lain] • to: [ke / untuk] • do: [buat / lakukan] • I: [saya / aku] • will: [akan] • continue: [teruskan / menyambung] • receive: [menerima] • a: [sebuah / seorang / satu] • sin: [dosa] • as: [seperti / sebagai] • long: [panjang / lama] • they: [mereka] |
-| 334 | 18:14 - 18:17 | because they saw me. | kerana mereka mencontohi perbuatan saya. | because: [kerana / sebab] • they: [mereka] • saw (asal: see): [lihat / nampak / tengok] • me: [saya / aku] |
-| 335 | 18:27 - 18:32 | A very frightening hadith where the Prophet says, first, speaks of those who set a good example; they receive | Terdapat hadis yang sangat menggetarkan jiwa di mana Rasulullah SAW mula-mula menyebut tentang mereka yang memulakan sunnah teladan yang baik; mereka beroleh | A: [sebuah / seorang / satu] • very: [sangat / amat] • frightening: [menakutkan / menggerunkan] • hadith: [hadis Rasulullah] • where: [di mana] • the: [kata penentu (itu / si)] • Prophet: [Nabi / Rasul] • says (asal: say): [cakap / berkata] • first: [pertama / dulu] • speaks (asal: speak): [bercakap] • of: [daripada / tentang] • those: [semua itu] • who: [siapa / orang yang] • set: [tetapkan / satu set] • good: [baik / bagus] • example: [contoh / teladan] • they: [mereka] • receive: [menerima] |
-| 336 | 18:32 - 18:38 | a reward for the deed they performed and they receive a reward for all those who followed that good deed. | pahala amalan mereka sendiri berserta pahala semua orang yang mencontohi amalan kebajikan tersebut. | a: [sebuah / seorang / satu] • reward: [ganjaran / pahala] • for: [untuk / bagi] • the: [kata penentu (itu / si)] • deed: [amalan / perbuatan] • they: [mereka] • performed (asal: perform): [dilaksanakan / dilakukan] • and: [dan] • receive: [menerima] • all: [semua / seluruh] • those: [semua itu] • who: [siapa / orang yang] • followed (asal: follow): [ikut] • that: [itu / yang] • good: [baik / bagus] |
-| 337 | 18:38 - 18:41 | But those who set a bad example, they receive a sin. | Sebaliknya mereka yang memulakan contoh teladan yang buruk, mereka memikul dosa perbuatan mereka. | But: [tetapi / tapi] • those: [semua itu] • who: [siapa / orang yang] • set: [tetapkan / satu set] • a: [sebuah / seorang / satu] • bad: [teruk / buruk] • example: [contoh / teladan] • they: [mereka] • receive: [menerima] • sin: [dosa] |
-| 338 | 18:41 - 18:47 | Because of that particular example they set, they receive a sin for all who followed them. | Dan disebabkan teladan buruk yang dimulakan itu, mereka turut memikul dosa semua orang yang mengikutinya. | Because: [kerana / sebab] • of: [daripada / tentang] • that: [itu / yang] • particular: [tertentu / khusus] • example: [contoh / teladan] • they: [mereka] • set: [tetapkan / satu set] • receive: [menerima] • a: [sebuah / seorang / satu] • sin: [dosa] • for: [untuk / bagi] • all: [semua / seluruh] • who: [siapa / orang yang] • followed (asal: follow): [ikut] • them: [mereka] |
-| 339 | 18:47 - 18:55 | So I say, my brothers, when you're smoking your marijuana, feel in your heart: I need to quit this habit. | Oleh itu saya tegaskan, saudaraku, sekiranya anda sedang menghisap ganja, sematkanlah azam di dalam hati: Aku wajib meninggalkan tabiat buruk ini. | So: [jadi / sangat] • I: [saya / aku] • say: [cakap / berkata] • my: [saya punya / kepunyaan saya] • brothers (asal: brother): [saudara-saudara] • when: [bila / apabila] • you're: [anda / awak adalah (singkatan 'you are')] • smoking (asal: smoke): [merokok] • your: [awak punya / anda punya] • marijuana: [ganja / dadah kanabis] • feel: [rasa / merasa] • in: [dalam / di dalam] • heart: [hati] • need: [perlu / memerlukan] • to: [ke / untuk] • quit: [berhenti / meninggalkan] • this: [ini] • habit: [tabiat / kebiasaan] |
-| 340 | 18:55 - 18:59 | But never call out to other young people who are innocent and do nothing, saying, " Guys, do you know what | Namun jangan sesekali anda mengajak anak-anak muda lain yang suci dan tidak berdosa dengan berkata, "Kawan-kawan, kamu tahu tak | But: [tetapi / tapi] • never: [tidak pernah / tak pernah] • call: [memanggil / panggilan] • out: [keluar / di luar] • to: [ke / untuk] • other: [lain] • young: [muda] • people (asal: person): [orang ramai / manusia] • who: [siapa / orang yang] • are (asal: be): [adalah / berada] • innocent: [tidak bersalah / suci] • and: [dan] • do: [buat / lakukan] • nothing: [tiada apa-apa] • saying (asal: say): [cakap / berkata] • Guys (asal: guy): [kawan-kawan / kalian] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 341 | 18:59 - 19:00 | this is all about? | tentang kenikmatan benda ini? | this: [ini] • is: [adalah / ialah] • all: [semua / seluruh] • about: [tentang / sekitar] |
-| 342 | 19:00 - 19:01 | Let's try it, guys. | Marilah kita cuba bersama-sama. | Let's: [jom / marilah kita (singkatan 'let us')] • try: [cuba / mencuba] • it: [ia / itu] • guys (asal: guy): [kawan-kawan / kalian] |
-| 343 | 19:01 - 19:02 | It's pretty good. | Benda ini sangat menyeronokkan. | It's: [ia adalah / itu (singkatan 'it is/has')] • pretty: [agak / cantik] • good: [baik / bagus] |
-| 344 | 19:02 - 19:07 | You know, nobody who smoked marijuana died from the coronavirus." That's what they say. | Tahukah kamu, tiada seorang pun penghisap ganja yang mati akibat koronavirus." Itulah dakyah dusta yang mereka sebarkan. | You: [awak / anda] • know: [tahu / kenal] • nobody: [tiada sesiapa] • who: [siapa / orang yang] • smoked (asal: smoke): [asap / merokok] • marijuana: [ganja / dadah kanabis] • died (asal: die): [mati] • from: [dari / daripada] • the: [kata penentu (itu / si)] • coronavirus: [virus korona / wabak Covid-19] • That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • they: [mereka] • say: [cakap / berkata] |
-| 345 | 19:07 - 19:11 | "La hawla wala quwwata illa billah." Have you ever heard that? | "La hawla wa la quwwata illa billah." Pernahkah anda mendengar alasan karut sebegitu? | La: [tiada] • hawla: [daya] • wala: [dan tiada] • quwwata: [kekuatan] • illa: [melainkan] • billah: [dengan Allah] • Have: [ada / mempunyai] • you: [awak / anda] • ever: [pernah] • heard (asal: hear): [dengar] • that: [itu / yang] |
-| 346 | 19:11 - 19:13 | I'm glad you haven't. | Saya bersyukur sekiranya anda tidak pernah mendengarnya. | I'm: [saya / saya sedang (singkatan 'I am')] • glad: [gembira / bersyukur] • you: [awak / anda] • haven't: [belum / tidak ada (singkatan 'have not')] |
-| 347 | 19:13 - 19:15 | Because it's not true. | Kerana dakwaan itu sama sekali dusta. | Because: [kerana / sebab] • it's: [ia adalah / itu (singkatan 'it is/has')] • not: [bukan / tidak] • true: [benar] |
-| 348 | 19:15 - 19:18 | But that's what they claimed to get others to use marijuana. | Tetapi itulah tipu daya yang mereka gunakan untuk menjerumuskan orang lain menghisap ganja. | But: [tetapi / tapi] • that's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • they: [mereka] • claimed (asal: claim): [tuntutan] • to: [ke / untuk] • get: [dapat / mengambil] • others: [orang lain] • use: [guna / menggunakan] • marijuana: [ganja / dadah kanabis] |
-| 349 | 19:18 - 19:22 | I said, " But why are you using marijuana now all of a sudden?" "They used to hide it, now they say: 'Sheikh, | Saya bertanya, "Mengapakah kamu tiba-tiba menghisap ganja sekarang?" Dahulu mereka menyembunyikannya, kini mereka mengaku secara terbuka: 'Syeikh, | I: [saya / aku] • said (asal: say): [cakap / berkata] • But: [tetapi / tapi] • why: [mengapa / kenapa] • are (asal: be): [adalah / berada] • you: [awak / anda] • using (asal: use): [guna / menggunakan] • marijuana: [ganja / dadah kanabis] • now: [sekarang] • all: [semua / seluruh] • of: [daripada / tentang] • a: [sebuah / seorang / satu] • sudden: [tiba-tiba / mengejut] • They: [mereka] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • hide: [menyembunyikan] • it: [ia / itu] • say: [cakap / berkata] • Sheikh: [syeikh / alim ulama] |
-| 350 | 19:22 - 19:27 | you know, I have a weakness.'" "I only consume marijuana." "La ilaha illallah." " Keep it away. | tuan tahu saya ada satu kelemahan.' 'Saya cuma hisap ganja sahaja.' 'La ilaha illallah.' Jauhkanlah benda itu. | you: [awak / anda] • know: [tahu / kenal] • I: [saya / aku] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • weakness: [kelemahan] • only: [hanya / sahaja] • consume: [memakan / mengambil] • marijuana: [ganja / dadah kanabis] • La: [tiada] • ilaha: [tuhan yang disembah] • illallah: [melainkan Allah] • Keep: [simpan / teruskan] • it: [ia / itu] • away: [jauh / pergi] |
-| 351 | 19:27 - 19:28 | Who am I? | Siapakah saya? | Who: [siapa / orang yang] • am: [adalah / berada] • I: [saya / aku] |
-| 352 | 19:28 - 19:29 | I am not your Lord. | Saya bukannya Tuhan kamu. | I: [saya / aku] • am: [adalah / berada] • not: [bukan / tidak] • your: [awak punya / anda punya] • Lord: [Tuhan] |
-| 353 | 19:29 - 19:30 | Why do you have to tell me? | Mengapakah anda perlu menceritakan maksiat anda kepada saya? | Why: [mengapa / kenapa] • do: [buat / lakukan] • you: [awak / anda] • have: [ada / mempunyai] • to: [ke / untuk] • tell: [beritahu / khabarkan] • me: [saya / aku] |
-| 354 | 19:30 - 19:31 | You don't have to confess to me. | Anda tidak perlu membuat pengakuan dosa di hadapan saya. | You: [awak / anda] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • to: [ke / untuk] • confess: [mengaku kesalahan] • me: [saya / aku] |
-| 355 | 19:32 - 19:32 | This is Islam. | Inilah ajaran Islam. | This: [ini] • is: [adalah / ialah] • Islam: [agama Islam] |
-| 356 | 19:33 - 19:35 | In Islam, confession is only to your Lord, not to anyone else. | Di dalam Islam, pengakuan dosa dan taubat hanyalah ditujukan semata-mata kepada Tuhanmu, bukan kepada mana-mana manusia. | In: [dalam / di dalam] • Islam: [agama Islam] • confession: [pengakuan dosa] • is: [adalah / ialah] • only: [hanya / sahaja] • to: [ke / untuk] • your: [awak punya / anda punya] • Lord: [Tuhan] • not: [bukan / tidak] • anyone: [sesiapa sahaja] • else: [lain] |
-| 357 | 19:35 - 19:36 | You want help? | Adakah anda memerlukan bantuan rawatan? | You: [awak / anda] • want: [mahu / nak] • help: [bantu / tolong] |
-| 358 | 19:36 - 19:39 | Go and get it, but don't come around proudly saying, 'You know what? | Dapatkanlah rawatan pemulihan, tetapi janganlah datang dengan rasa megah sambil berkata, 'Tuan tahu apa? | Go: [pergi] • and: [dan] • get: [dapat / mengambil] • it: [ia / itu] • but: [tetapi / tapi] • don't: [jangan / tidak (singkatan 'do not')] • come: [datang / mari] • around: [sekitar / di sekeliling] • proudly: [dengan penuh bangga] • saying (asal: say): [cakap / berkata] • You: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 359 | 19:39 - 19:40 | I only have one addiction. | Saya cuma ada satu sahaja ketagihan. | I: [saya / aku] • only: [hanya / sahaja] • have: [ada / mempunyai] • one: [satu / seorang] • addiction: [ketagihan] |
-| 360 | 19:40 - 19:46 | I'm addicted to zina.' You don't have to say, 'I just did it.' That 'I just did it' is an insult to Allah. | Saya ketagih berzina.' Anda tidak wajar berkata, 'Saya cuma melakukannya secara suka-suka.' Ungkapan 'suka-suka' itu sendiri adalah satu penghinaan kepada Allah. | I'm: [saya / saya sedang (singkatan 'I am')] • addicted (asal: addict): [penagih] • to: [ke / untuk] • zina: [perbuatan zina] • You: [awak / anda] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • say: [cakap / berkata] • I: [saya / aku] • just: [hanya / sekadar / baru saja] • did (asal: do): [telah buat / adakah] • it: [ia / itu] • That: [itu / yang] • is: [adalah / ialah] • an: [sebuah / seorang / satu] • insult: [menghina / mencaci] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 361 | 19:46 - 19:47 | How can you say that? | Bagaimanakah tergamak anda berkata begitu? | How: [bagaimana / macam mana] • can: [boleh / dapat] • you: [awak / anda] • say: [cakap / berkata] • that: [itu / yang] |
-| 362 | 19:47 - 19:48 | It's a sin. | Ia adalah satu perbuatan dosa. | It's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • sin: [dosa] |
-| 363 | 19:48 - 19:50 | It's | Ia merupakan | It's: [ia adalah / itu (singkatan 'it is/has')] |
-| 364 | 19:51 - 19:52 | a huge sin. | suatu dosa yang teramat besar. | a: [sebuah / seorang / satu] • huge: [sangat besar] • sin: [dosa] |
-| 365 | 19:52 - 19:55 | You think it's small, but no, it's not. | Anda menyangka ia dosa kecil, walhal hakikatnya ia dosa yang sangat berat. | You: [awak / anda] • think: [fikir / berfikir] • it's: [ia adalah / itu (singkatan 'it is/has')] • small: [kecil] • but: [tetapi / tapi] • no: [tidak / tiada] • not: [bukan / tidak] |
-| 366 | 19:55 - 19:58 | That's why we ask Allah to strengthen us and grant us goodness. | Sebab itulah kita memohon kepada Allah agar meneguhkan hati kita dan mengurniakan kebaikan. | That's: [itu adalah / itu (singkatan 'that is')] • why: [mengapa / kenapa] • we: [kami / kita] • ask: [tanya / meminta] • Allah: [Allah Subhanahu wa Ta'ala] • to: [ke / untuk] • strengthen: [mengukuhkan / memperkuat] • us: [kami / kita] • and: [dan] • grant: [mengurniakan / memperkenankan] • goodness: [kebaikan / kebajikan] |
-| 367 | 19:58 - 20:02 | When you've taken off your hijab, for example, don't encourage others to do it. | Apabila anda misalnya telah menanggalkan hijab, jangan sesekali menghasut wanita lain untuk berbuat demikian. | When: [bila / apabila] • you've: [anda telah / awak dah (singkatan 'you have')] • taken (asal: take): [ambil / memerlukan masa] • off: [padam / mati / lepas] • your: [awak punya / anda punya] • hijab: [tudung / hijab] • for: [untuk / bagi] • example: [contoh / teladan] • don't: [jangan / tidak (singkatan 'do not')] • encourage: [menggalakkan / mendorong] • others: [orang lain] • to: [ke / untuk] • do: [buat / lakukan] • it: [ia / itu] |
-| 368 | 20:02 - 20:07 | Don't flaunt it or tell people, 'Guys, I took it off because, you know, I don't think this or that.' There | Jangan bermegah atau memberitahu orang lain, 'Saya membukanya kerana bagi saya begini dan begitu.' Kelak | Don't: [jangan / tidak (singkatan 'do not')] • flaunt: [menunjuk-nunjukkan] • it: [ia / itu] • or: [atau] • tell: [beritahu / khabarkan] • people (asal: person): [orang ramai / manusia] • Guys (asal: guy): [kawan-kawan / kalian] • I: [saya / aku] • took (asal: take): [mengambil / telah ambil] • off: [padam / mati / lepas] • because: [kerana / sebab] • you: [awak / anda] • know: [tahu / kenal] • think: [fikir / berfikir] • this: [ini] • that: [itu / yang] • There: [di sana / ada] |
-| 369 | 20:07 - 20:10 | will be people who had no doubts. | akan ada orang lain yang asalnya tidak ragu-ragu menjadi goyah. | will: [akan] • be: [menjadi / berada] • people (asal: person): [orang ramai / manusia] • who: [siapa / orang yang] • had (asal: have): [mempunyai / telah ada] • no: [tidak / tiada] • doubts (asal: doubt): [keraguan-keraguan] |
-| 370 | 20:10 - 20:16 | By sowing doubt, one day, 10 years later, and it I've seen it, when you put the hijab back on, but they | Dengan menyemai keraguan itu, suatu hari nanti 10 tahun kemudian—dan saya pernah menyaksikannya sendiri—apabila anda kembali memakai hijab, namun mereka | By: [oleh / dengan / menjelang] • sowing: [menyemai benih] • doubt: [keraguan / syak wasangka] • one: [satu / seorang] • day: [hari / siang] • years (asal: year): [tahun] • later (asal: late): [kemudian / nanti] • and: [dan] • it: [ia / itu] • I've: [saya telah / saya dah (singkatan 'I have')] • seen (asal: see): [lihat / nampak / tengok] • when: [bila / apabila] • you: [awak / anda] • put: [letak / meletakkan] • the: [kata penentu (itu / si)] • hijab: [tudung / hijab] • back: [belakang / kembali] • on: [hidup / atas] • but: [tetapi / tapi] • they: [mereka] |
-| 371 | 20:16 - 20:20 | all went astray because of you, what's going to happen? | semua telah tersesat akibat hasutan anda dahulu, apakah yang bakal menimpa anda? | all: [semua / seluruh] • went (asal: go): [telah pergi] • astray: [sesat / terpesong] • because: [kerana / sebab] • of: [daripada / tentang] • you: [awak / anda] • what's: [apa / apakah (singkatan 'what is/has')] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • happen: [berlaku / terjadi] |
-| 372 | 20:20 - 20:23 | We hope and pray that Allah will forgive you, and that Allah will forgive us all. | Kita sentiasa berharap dan berdoa semoga Allah mengampunkan anda, dan semoga Allah mengampunkan kita semua. | We: [kami / kita] • hope: [harapan / berharap] • and: [dan] • pray: [berdoa / mendirikan solat] • that: [itu / yang] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • forgive: [mengampuni / memaafkan] • you: [awak / anda] • us: [kami / kita] • all: [semua / seluruh] |
-| 373 | 20:23 - 20:28 | So I have a very, very interesting message for you tonight. | Malam ini saya ada satu pesanan yang sangat penting dan menarik buat anda semua. | So: [jadi / sangat] • I: [saya / aku] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • very: [sangat / amat] • interesting (asal: interest): [minat] • message: [mesej / pesanan] • for: [untuk / bagi] • you: [awak / anda] • tonight: [malam ini] |
-| 374 | 20:28 - 20:30 | I want to change my life. | Aku ingin mengubah kehidupanku. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • change: [ubah / menukar] • my: [saya punya / kepunyaan saya] • life: [kehidupan] |
-| 375 | 20:30 - 20:32 | I want to improve it. | Aku ingin memperbaiki diriku. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • improve: [menambah baik / membaiki] • it: [ia / itu] |
-| 376 | 20:32 - 20:34 | I want to get closer to Allah. | Aku ingin menghampirkan diri kepada Allah. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • get: [dapat / mengambil] • closer (asal: close): [lebih dekat] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 377 | 20:34 - 20:37 | Any of us could say this, and we should be saying it. | Setiap seorang daripada kita mampu mengucapkannya, dan memang sepatutnya kita melafazkannya. | Any: [sebarang / apa-apa] • of: [daripada / tentang] • us: [kami / kita] • could: [boleh / dapat] • say: [cakap / berkata] • this: [ini] • and: [dan] • we: [kami / kita] • should: [patut / patutlah] • be: [menjadi / berada] • saying (asal: say): [cakap / berkata] • it: [ia / itu] |
-| 378 | 20:37 - 20:39 | I want to be better. | Aku ingin menjadi insan yang lebih baik. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • be: [menjadi / berada] • better (asal: good): [lebih baik] |
-| 379 | 20:39 - 20:39 | I've committed sins. | Aku pernah bergelumang dengan dosa. | I've: [saya telah / saya dah (singkatan 'I have')] • committed (asal: commit): [komited] • sins: [dosa-dosa] |
-| 380 | 20:40 - 20:42 | I've done many bad things in my life. | Banyak kesilapan dan perkara buruk yang telah aku lakukan sepanjang hidupku. | I've: [saya telah / saya dah (singkatan 'I have')] • done (asal: do): [buat / lakukan] • many: [banyak] • bad: [teruk / buruk] • things (asal: thing): [benda-benda / perkara-perkara] • in: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • life: [kehidupan] |
-| 381 | 20:42 - 20:46 | I'm at a point in my life where I feel like I might die at any moment. | Kini aku berada pada satu fasa kehidupan di mana aku merasakan bahawa ajalku boleh tiba pada bila-bila masa sahaja. | I'm: [saya / saya sedang (singkatan 'I am')] • at: [di / pada] • a: [sebuah / seorang / satu] • point: [tujuan / makna] • in: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • life: [kehidupan] • where: [di mana] • I: [saya / aku] • feel: [rasa / merasa] • like: [suka / seperti] • might: [mungkin / daya] • die: [mati / meninggal dunia] • any: [sebarang / apa-apa] • moment: [saat / ketika] |
-| 382 | 20:47 - 20:48 | You never know. | Kita tidak pernah mengetahui bila saat kematian kita. | You: [awak / anda] • never: [tidak pernah / tak pernah] • know: [tahu / kenal] |
-| 383 | 20:48 - 20:53 | There are healthy, fit people who go to the gym regularly, who eat healthily, and suddenly, at 35, 40 years | Ada orang yang tubuhnya sangat sihat, cergas bersenam di gimnasium, menjaga pemakanan, namun secara tiba-tiba pada usia 35 atau 40 | There: [di sana / ada] • are (asal: be): [adalah / berada] • healthy: [sihat walafiat] • fit: [sesuai / cergas] • people (asal: person): [orang ramai / manusia] • who: [siapa / orang yang] • go: [pergi] • to: [ke / untuk] • the: [kata penentu (itu / si)] • gym: [gimnasium] • regularly: [secara konsisten / kerap] • eat: [makan] • healthily: [secara sihat] • and: [dan] • suddenly: [tiba-tiba] • at: [di / pada] • years (asal: year): [tahun] |
-| 384 | 20:53 - 20:58 | old, a heart attack, boom, and they've returned to Allah, and you wonder what their condition is. | tahun, terkena serangan jantung lalu menghembuskan nafas terakhir kembali kepada Allah, dan anda tertanya-tanya bagaimana keadaan pengakhiran mereka. | old: [tua] • a: [sebuah / seorang / satu] • heart: [hati] • attack: [menyerang / serangan] • boom: [ledakan / dentuman kuat] • and: [dan] • they've: [mereka telah (singkatan 'they have')] • returned (asal: return): [kembali] • to: [ke / untuk] • Allah: [Allah Subhanahu wa Ta'ala] • you: [awak / anda] • wonder: [tertanya-tanya / keajaiban] • what: [apa / apakah] • their: [mereka punya / kepunyaan mereka] • condition: [keadaan / syarat] • is: [adalah / ialah] |
-| 385 | 20:58 - 21:02 | May Allah make it easy for us on the day He calls us. | Semoga Allah memudahkan urusan kita pada hari Dia memanggil kita kembali. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • make: [buat / menghasilkan] • it: [ia / itu] • easy: [mudah / senang] • for: [untuk / bagi] • us: [kami / kita] • on: [hidup / atas] • the: [kata penentu (itu / si)] • day: [hari / siang] • He: [dia (lelaki)] • calls (asal: call): [panggil / hubungi] |
-| 386 | 21:02 - 21:10 | But I need to make sure I improve, because with your intention and the strength and power of your intention, | Tetapi saya mesti memastikan diri saya sentiasa bertambah baik, kerana dengan keikhlasan niat dan keteguhan tekad anda, | But: [tetapi / tapi] • I: [saya / aku] • need: [perlu / memerlukan] • to: [ke / untuk] • make: [buat / menghasilkan] • sure: [pasti / tentu] • improve: [menambah baik / membaiki] • because: [kerana / sebab] • with: [dengan / bersama] • your: [awak punya / anda punya] • intention: [niat di dalam hati] • and: [dan] • the: [kata penentu (itu / si)] • strength: [kekuatan] • power: [kuasa / elektrik] • of: [daripada / tentang] |
-| 387 | 21:10 - 21:17 | Allah will grant you Paradise even if you don't You have completed the cycle and the path you intended to | Allah akan mengurniakan syurga kepada anda sekalipun anda belum sempat menamatkan seluruh sasaran amalan yang anda niatkan | Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • grant: [mengurniakan / memperkenankan] • you: [awak / anda] • Paradise: [syurga] • even: [malah / pun] • if: [jika / kalau] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • completed (asal: complete): [lengkap] • the: [kata penentu (itu / si)] • cycle: [kitaran / pusingan] • and: [dan] • path: [jalan kehidupan / laluan] • intended (asal: intend): [berniat] • to: [ke / untuk] |
-| 388 | 21:18 - 21:18 | finish. | untuk disempurnakan. | finish: [selesai / menamatkan] |
-| 389 | 21:18 - 21:26 | If I try to become a Hafiz and I start today, learning a small part each day, progressing, and then one day | Sekiranya saya berniat menjadi seorang hafiz Al-Quran dan bermula hari ini, menghafal sedikit demi sedikit setiap hari secara istiqamah, lalu suatu hari nanti | If: [jika / kalau] • I: [saya / aku] • try: [cuba / mencuba] • to: [ke / untuk] • become: [menjadi] • a: [sebuah / seorang / satu] • Hafiz: [penghafal al-Quran] • and: [dan] • start: [mula / memulakan] • today: [hari ini] • learning (asal: learn): [pembelajaran / sedang belajar] • small: [kecil] • part: [bahagian] • each: [setiap / masing-masing] • day: [hari / siang] • progressing (asal: progress): [berkembang maju] • then: [kemudian / waktu itu] • one: [satu / seorang] |
-| 390 | 21:26 - 21:32 | I die, Allah will write my name among the Huffaz and those who memorized the Quran, even if I only did five | saya meninggal dunia, Allah tetap akan mencatat nama saya dalam kalangan para hafiz yang memelihara Al-Quran, sekalipun saya baru sempat menghafal lima | I: [saya / aku] • die: [mati / meninggal dunia] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • write: [mencatatkan / menulis] • my: [saya punya / kepunyaan saya] • name: [nama] • among: [antara / dalam kalangan] • the: [kata penentu (itu / si)] • Huffaz: [para penghafal al-Quran] • and: [dan] • those: [semua itu] • who: [siapa / orang yang] • memorized (asal: memorize): [menghafal] • Quran: [Al-Quran] • even: [malah / pun] • if: [jika / kalau] • only: [hanya / sahaja] • did (asal: do): [telah buat / adakah] • five: [lima] |
-| 391 | 21:32 - 21:33 | juz. | juzuk. | juz: [juzuk al-Quran] |
-| 392 | 21:33 - 21:40 | As long as the intention was there, I started it, I continued it, and the only thing that stopped me was | Selagi mana niat ikhlas itu wujud, saya telah memulakannya, saya meneruskannya secara berterusan, dan satu-satunya perkara yang menghentikan langkah saya hanyalah | As: [seperti / sebagai] • long: [panjang / lama] • the: [kata penentu (itu / si)] • intention: [niat di dalam hati] • was: [adalah / dulu berada] • there: [di sana / ada] • I: [saya / aku] • started (asal: start): [sudah bermula] • it: [ia / itu] • continued (asal: continue): [teruskan / menyambung] • and: [dan] • only: [hanya / sahaja] • thing: [benda / perkara] • that: [itu / yang] • stopped (asal: stop): [berhenti] • me: [saya / aku] |
-| 393 | 21:40 - 21:40 | death. | kematian. | death: [kematian / ajal] |
-| 394 | 21:41 - 21:42 | Allah will write it for you. | Allah pasti akan mencatatkannya sebagai ganjaran sempurna buat anda. | Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • write: [mencatatkan / menulis] • it: [ia / itu] • for: [untuk / bagi] • you: [awak / anda] |
-| 395 | 21:42 - 21:43 | There is no doubt. | Tiada sebarang keraguan padanya. | There: [di sana / ada] • is: [adalah / ialah] • no: [tidak / tiada] • doubt: [keraguan / syak wasangka] |
-| 396 | 21:43 - 21:47 | Because Allah says that He will judge you by your intentions, and this was the intention. | Kerana Allah menegaskan bahawa Dia menilai hamba-Nya berdasarkan niat mereka, dan itulah niat sebenar anda. | Because: [kerana / sebab] • Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • that: [itu / yang] • He: [dia (lelaki)] • will: [akan] • judge: [menghakimi / menilai] • you: [awak / anda] • by: [oleh / dengan / menjelang] • your: [awak punya / anda punya] • intentions (asal: intention): [niat] • and: [dan] • this: [ini] • was: [adalah / dulu berada] • the: [kata penentu (itu / si)] • intention: [niat di dalam hati] |
-| 397 | 21:47 - 21:53 | Similarly, when a person comes to salah every day and performs their prayer, say Fajr, in a certain place, | Demikian juga keadaannya bagi seseorang yang melazimi solat berjemaah setiap hari, katakan solat Subuh di masjid, | Similarly: [begitu juga / sama halnya] • when: [bila / apabila] • a: [sebuah / seorang / satu] • person: [orang / individu] • comes (asal: come): [datang / mari] • to: [ke / untuk] • salah: [solat] • every: [setiap / tiap-tiap] • day: [hari / siang] • and: [dan] • performs (asal: perform): [melaksanakan] • their: [mereka punya / kepunyaan mereka] • prayer: [solat / doa] • say: [cakap / berkata] • Fajr: [subuh] • in: [dalam / di dalam] • certain: [tertentu / yakin] • place: [tempat / kedudukan] |
-| 398 | 21:53 - 21:59 | on a day when they are sick or indisposed, they can do it somewhere else, at home or whatever, but guess | pada hari di mana dia jatuh sakit atau ada keuzuran lalu solat di rumah, cuba teka apa yang berlaku? | on: [hidup / atas] • a: [sebuah / seorang / satu] • day: [hari / siang] • when: [bila / apabila] • they: [mereka] • are (asal: be): [adalah / berada] • sick: [sakit] • or: [atau] • indisposed: [tidak sihat / berhalangan] • can: [boleh / dapat] • do: [buat / lakukan] • it: [ia / itu] • somewhere: [di suatu tempat] • else: [lain] • at: [di / pada] • home: [rumah / kediaman] • whatever: [apa jua / apa-apa pun] • but: [tetapi / tapi] • guess: [agak / meneka] |
-| 399 | 21:59 - 21:59 | what? | Tahukah anda? | what: [apa / apakah] |
-| 400 | 21:59 - 22:05 | The angels will write that they attended that particular salah in the mosque, simply because the only thing | Para malaikat tetap akan mencatat pahala solat berjemaah di masjid untuknya, semata-mata kerana satu-satunya perkara | The: [kata penentu (itu / si)] • angels (asal: angel): [para malaikat] • will: [akan] • write: [mencatatkan / menulis] • that: [itu / yang] • they: [mereka] • attended: [dihadiri / menyertai] • particular: [tertentu / khusus] • salah: [solat] • in: [dalam / di dalam] • mosque: [masjid / rumah Allah] • simply: [semata-mata / secara mudah] • because: [kerana / sebab] • only: [hanya / sahaja] • thing: [benda / perkara] |
-| 401 | 22:05 - 22:09 | that prevented them from coming was an illness over which they had no control. | yang menghalang mereka daripada hadir ialah penyakit yang di luar kawalan mereka. | that: [itu / yang] • prevented (asal: prevent): [dihalang / tersekat] • them: [mereka] • from: [dari / daripada] • coming (asal: come): [sedang datang / menjelang] • was: [adalah / dulu berada] • an: [sebuah / seorang / satu] • illness: [penyakit] • over: [atas / tamat / lebih] • which: [yang mana] • they: [mereka] • had (asal: have): [mempunyai / telah ada] • no: [tidak / tiada] • control: [kawalan / mengawal] |
-| 402 | 22:09 - 22:12 | Allah says, "We will write that deed for you." Who is Allah? | Allah berfirman, "Kami akan mencatat pahala amalan itu untukmu." Siapakah Allah? | Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • We: [kami / kita] • will: [akan] • write: [mencatatkan / menulis] • that: [itu / yang] • deed: [amalan / perbuatan] • for: [untuk / bagi] • you: [awak / anda] • Who: [siapa / orang yang] • is: [adalah / ialah] |
-| 403 | 22:13 - 22:15 | Allah is the most honorable. | Allah Maha Mulia. | Allah: [Allah Subhanahu wa Ta'ala] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • most (asal: much / many): [paling banyak / kebanyakan] • honorable: [mulia / terhormat] |
-| 404 | 22:15 - 22:16 | Allah is the most generous. | Allah Maha Pemurah. | Allah: [Allah Subhanahu wa Ta'ala] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • most (asal: much / many): [paling banyak / kebanyakan] • generous: [pemurah / dermawan] |
-| 405 | 22:16 - 22:17 | The most generous. | Maha Pemurah. | The: [kata penentu (itu / si)] • most (asal: much / many): [paling banyak / kebanyakan] • generous: [pemurah / dermawan] |
-| 406 | 22:18 - 22:18 | Do you think you are generous? | Adakah anda fikir anda seorang yang pemurah? | Do: [buat / lakukan] • you: [awak / anda] • think: [fikir / berfikir] • are (asal: be): [adalah / berada] • generous: [pemurah / dermawan] |
-| 407 | 22:19 - 22:20 | Do you know what Allah does? | Tahukah anda apa yang Allah lakukan? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • Allah: [Allah Subhanahu wa Ta'ala] • does (asal: do): [buat / melakukan] |
-| 408 | 22:20 - 22:25 | Allah says: "That's fine, you have sinned all your life." Then there came a time when you went to Hajj or | Allah berfirman: "Tidak mengapa, kamu telah berbuat dosa sepanjang hidup kamu." Kemudian tiba suatu masa apabila kamu pergi menunaikan Haji atau | Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • That's: [itu adalah / itu (singkatan 'that is')] • fine: [baik-baik sahaja] • you: [awak / anda] • have: [ada / mempunyai] • sinned: [melakukan dosa] • all: [semua / seluruh] • your: [awak punya / anda punya] • life: [kehidupan] • Then: [kemudian / waktu itu] • there: [di sana / ada] • came (asal: come): [datang / mari] • a: [sebuah / seorang / satu] • time: [masa / waktu] • when: [bila / apabila] • went (asal: go): [telah pergi] • to: [ke / untuk] • Hajj: [ibadah Haji] • or: [atau] |
-| 409 | 22:26 - 22:31 | Umrah, or something happened, whatever it was, and you changed your life, you came back and left your sins | Umrah, atau sesuatu telah berlaku, apa jua keadaannya, dan kamu mengubah hidup kamu, kamu kembali dan meninggalkan dosa-dosa kamu | Umrah: [ibadah umrah] • or: [atau] • something: [sesuatu] • happened (asal: happen): [berlaku] • whatever: [apa jua / apa-apa pun] • it: [ia / itu] • was: [adalah / dulu berada] • and: [dan] • you: [awak / anda] • changed (asal: change): [ubah / menukar] • your: [awak punya / anda punya] • life: [kehidupan] • came (asal: come): [datang / mari] • back: [belakang / kembali] • left (asal: leave): [tinggalkan / keluar] • sins: [dosa-dosa] |
-| 410 | 22:31 - 22:31 | behind. | di belakang. | behind: [di belakang] |
-| 411 | 22:31 - 22:35 | Nothing made you leave them except Me, that is, Allah. | Tiada apa yang membuatkan kamu meninggalkannya melainkan Aku, iaitu Allah. | Nothing: [tiada apa-apa] • made (asal: make): [dibuat / menghasilkan] • you: [awak / anda] • leave: [tinggalkan / keluar] • them: [mereka] • except: [melainkan / kecuali] • Me: [saya / aku] • that: [itu / yang] • is: [adalah / ialah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 412 | 22:35 - 22:36 | Nothing made you leave them except Allah. | Tiada apa yang membuatkan kamu meninggalkannya melainkan Allah. | Nothing: [tiada apa-apa] • made (asal: make): [dibuat / menghasilkan] • you: [awak / anda] • leave: [tinggalkan / keluar] • them: [mereka] • except: [melainkan / kecuali] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 413 | 22:37 - 22:40 | And you changed your life and began to do good works for My pleasure. | Dan kamu mengubah hidup kamu lalu mula melakukan amalan kebaikan demi keredaan-Ku. | And: [dan] • you: [awak / anda] • changed (asal: change): [ubah / menukar] • your: [awak punya / anda punya] • life: [kehidupan] • began (asal: begin): [bermula] • to: [ke / untuk] • do: [buat / lakukan] • good: [baik / bagus] • works (asal: work): [berfungsi / berkesan] • for: [untuk / bagi] • My: [saya punya / kepunyaan saya] • pleasure: [keredhaan / kelazatan] |
-| 414 | 22:40 - 22:42 | I want to tell you what I'm going to do for you, a reward. | Aku ingin memberitahu kamu apa yang akan Aku lakukan untuk kamu, sebuah ganjaran. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • tell: [beritahu / khabarkan] • you: [awak / anda] • what: [apa / apakah] • I'm: [saya / saya sedang (singkatan 'I am')] • going (asal: go): [sedang pergi / akan] • do: [buat / lakukan] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • reward: [ganjaran / pahala] |
-| 415 | 22:42 - 22:48 | "And in the Quran, Allah tells us: 'I will take those evil deeds and place them on the right side of the | "Dan di dalam al-Quran, Allah memberitahu kita: 'Aku akan mengambil amalan-amalan buruk itu dan meletakkannya di sebelah kanan timbangan, | And: [dan] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • Quran: [Al-Quran] • Allah: [Allah Subhanahu wa Ta'ala] • tells (asal: tell): [beritahu / khabarkan] • us: [kami / kita] • I: [saya / aku] • will: [akan] • take: [ambil / memerlukan masa] • those: [semua itu] • evil: [kejahatan / keburukan] • deeds (asal: deed): [amalan-amalan] • place: [tempat / kedudukan] • them: [mereka] • on: [hidup / atas] • right: [betul / kanan / tepat] • side: [tepi / sisi] • of: [daripada / tentang] |
-| 416 | 22:48 - 22:54 | balance, considering them as good deeds, even though they were done as evil.'" "Is there anyone more generous | menganggapnya sebagai amalan kebaikan, walaupun ia dahulunya dilakukan sebagai kejahatan.'" "Adakah sesiapa yang lebih pemurah | balance: [neraca timbangan / keseimbangan] • considering (asal: consider): [pertimbangkan] • them: [mereka] • as: [seperti / sebagai] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • even: [malah / pun] • though: [walaupun / biarpun] • they: [mereka] • were (asal: be): [adalah / dulu berada] • done (asal: do): [buat / lakukan] • evil: [kejahatan / keburukan] • Is: [adalah / ialah] • there: [di sana / ada] • anyone: [sesiapa sahaja] • more (asal: much / many): [lebih banyak] • generous: [pemurah / dermawan] |
-| 417 | 22:54 - 22:56 | than Allah? | daripada Allah? | than: [daripada] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 418 | 22:56 - 22:58 | No. | Tidak. | No: [tidak / tiada] |
-| 419 | 23:17 - 23:19 | What a beautiful verse. | Betapa indahnya ayat ini. | What: [apa / apakah] • a: [sebuah / seorang / satu] • beautiful: [indah / cantik] • verse: [ayat (Al-Quran)] |
-| 420 | 23:19 - 23:21 | Surah al-Furqan, right at the end. | Surah al-Furqan, betul-betul di bahagian akhir. | Surah: [surah al-Quran] • al: [kata penentu (Al-)] • Furqan: [al-Furqan (pembeda kebenaran)] • right: [betul / kanan / tepat] • at: [di / pada] • the: [kata penentu (itu / si)] • end: [hujung / tamat] |
-| 421 | 23:21 - 23:24 | Allah says: 'O Allah, We will punish those who do evil. | Allah berfirman: 'Wahai hamba-Ku, Kami akan menghukum mereka yang melakukan kejahatan. | Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • O: [wahai] • We: [kami / kita] • will: [akan] • punish: [menghukum / mengazab] • those: [semua itu] • who: [siapa / orang yang] • do: [buat / lakukan] • evil: [kejahatan / keburukan] |
-| 422 | 23:24 - 23:31 | We will multiply the punishment for some, but for those who repented and performed good deeds afterward, We | Kami akan melipatgandakan azab bagi sebahagian orang, namun bagi mereka yang bertaubat dan beramal soleh selepas itu, Kami | We: [kami / kita] • will: [akan] • multiply: [melipatgandakan] • the: [kata penentu (itu / si)] • punishment: [azab / hukuman] • for: [untuk / bagi] • some: [beberapa / sedikit] • but: [tetapi / tapi] • those: [semua itu] • who: [siapa / orang yang] • repented (asal: repent): [telah bertaubat] • and: [dan] • performed (asal: perform): [dilaksanakan / dilakukan] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • afterward: [selepas itu / kemudian] |
-| 423 | 23:31 - 23:34 | will turn their evil deeds into good deeds. | akan mengubah amalan buruk mereka menjadi amalan kebaikan. | will: [akan] • turn: [pusing / hidupkan (turn on)] • their: [mereka punya / kepunyaan mereka] • evil: [kejahatan / keburukan] • deeds (asal: deed): [amalan-amalan] • into: [ke dalam] • good: [baik / bagus] |
-| 424 | 23:34 - 23:37 | When you reach the Day of Resurrection, you will see so many good deeds. | Apabila kamu tiba di Hari Kebangkitan, kamu akan melihat begitu banyak amalan kebaikan. | When: [bila / apabila] • you: [awak / anda] • reach: [mencapai / tiba] • the: [kata penentu (itu / si)] • Day: [hari / siang] • of: [daripada / tentang] • Resurrection: [hari kebangkitan] • will: [akan] • see: [lihat / nampak / tengok] • so: [jadi / sangat] • many: [banyak] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] |
-| 425 | 23:37 - 23:44 | What is this, O Allah?" Allah says: 'You changed your life and returned to Me'." I had to change all your | Apakah ini, ya Allah?" Allah berfirman: 'Kamu telah mengubah hidupmu dan kembali kepada-Ku'." Aku perlu mengubah semua | What: [apa / apakah] • is: [adalah / ialah] • this: [ini] • O: [wahai] • Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • You: [awak / anda] • changed (asal: change): [ubah / menukar] • your: [awak punya / anda punya] • life: [kehidupan] • and: [dan] • returned (asal: return): [kembali] • to: [ke / untuk] • Me: [saya / aku] • I: [saya / aku] • had (asal: have): [mempunyai / telah ada] • change: [ubah / menukar] • all: [semua / seluruh] |
-| 426 | 23:44 - 23:49 | bad deeds into good ones, because the only thing that stopped you from continuing with that was My love and | amalan burukmu menjadi kebaikan, kerana satu-satunya perkara yang menghalangmu daripada meneruskannya adalah cinta-Ku dan | bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] • into: [ke dalam] • good: [baik / bagus] • ones (asal: one): [yang itu (jamak)] • because: [kerana / sebab] • the: [kata penentu (itu / si)] • only: [hanya / sahaja] • thing: [benda / perkara] • that: [itu / yang] • stopped (asal: stop): [berhenti] • you: [awak / anda] • from: [dari / daripada] • continuing (asal: continue): [meneruskan / berterusan] • with: [dengan / bersama] • was: [adalah / dulu berada] • My: [saya punya / kepunyaan saya] • love: [suka sangat / sayang] • and: [dan] |
-| 427 | 23:49 - 23:51 | My connection." That's all. | hubungan dengan-Ku." Itu sahaja. | My: [saya punya / kepunyaan saya] • connection: [hubungan / ikatan] • That's: [itu adalah / itu (singkatan 'that is')] • all: [semua / seluruh] |
-| 428 | 23:51 - 23:54 | That's why I give you the reward. | Itulah sebabnya Aku memberimu ganjaran. | That's: [itu adalah / itu (singkatan 'that is')] • why: [mengapa / kenapa] • I: [saya / aku] • give: [beri / memberikan] • you: [awak / anda] • the: [kata penentu (itu / si)] • reward: [ganjaran / pahala] |
-| 429 | 23:54 - 23:54 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 430 | 23:54 - 23:55 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 431 | 23:55 - 23:56 | That is Allah. | Itulah Allah. | That: [itu / yang] • is: [adalah / ialah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 432 | 23:56 - 23:58 | Now, wouldn't we love that? | Sekarang, tidakkah kita mahukan perkara itu? | Now: [sekarang] • wouldn't: [tidak akan / takkan (singkatan 'would not')] • we: [kami / kita] • love: [suka sangat / sayang] • that: [itu / yang] |
-| 433 | 23:58 - 23:59 | What is Allah asking of you? | Apakah yang Allah minta daripada anda? | What: [apa / apakah] • is: [adalah / ialah] • Allah: [Allah Subhanahu wa Ta'ala] • asking (asal: ask): [bertanya] • of: [daripada / tentang] • you: [awak / anda] |
-| 434 | 24:00 - 24:00 | What does Islam say? | Apakah yang dikatakan oleh Islam? | What: [apa / apakah] • does (asal: do): [buat / melakukan] • Islam: [agama Islam] • say: [cakap / berkata] |
-| 435 | 24:01 - 24:02 | Why is there an attack on Islam? | Mengapa wujud serangan terhadap Islam? | Why: [mengapa / kenapa] • is: [adalah / ialah] • there: [di sana / ada] • an: [sebuah / seorang / satu] • attack: [menyerang / serangan] • on: [hidup / atas] • Islam: [agama Islam] |
-| 436 | 24:02 - 24:08 | Because Islam is the only religion that promotes the highest values ​​ and morals. | Kerana Islam adalah satu-satunya agama yang mengangkat nilai dan akhlak yang paling tinggi. | Because: [kerana / sebab] • Islam: [agama Islam] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • only: [hanya / sahaja] • religion: [agama] • that: [itu / yang] • promotes (asal: promote): [menggalakkan / menyebarkan] • highest (asal: high): [tinggi] • values: [nilai-nilai murni] • and: [dan] • morals: [akhlak / nilai murni] |
-| 437 | 24:08 - 24:13 | And your connection with your Creator alone, and with the One to whom you will return. | Dan hubungan anda hanya dengan Pencipta anda semata-mata, dan dengan Dia yang kepada-Nya anda akan kembali. | And: [dan] • your: [awak punya / anda punya] • connection: [hubungan / ikatan] • with: [dengan / bersama] • Creator: [Pencipta (Allah)] • alone: [bersendirian / seorang diri] • the: [kata penentu (itu / si)] • One: [satu / seorang] • to: [ke / untuk] • whom: [siapa / yang mana] • you: [awak / anda] • will: [akan] • return: [kembali / kepulangan] |
-| 438 | 24:13 - 24:16 | Look, maybe I'm a famous person. | Lihatlah, mungkin saya seorang yang terkenal. | Look: [tengok / kelihatan] • maybe: [barangkali / mungkin] • I'm: [saya / saya sedang (singkatan 'I am')] • a: [sebuah / seorang / satu] • famous: [terkenal / masyhur] • person: [orang / individu] |
-| 439 | 24:16 - 24:17 | I want to tell you something. | Saya ingin memberitahu anda sesuatu. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • tell: [beritahu / khabarkan] • you: [awak / anda] • something: [sesuatu] |
-| 440 | 24:18 - 24:19 | Fame means nothing. | Kemasyhuran itu tidak membawa apa-apa erti. | Fame: [kemasyhuran / populariti] • means (asal: mean): [maksud / berniat] • nothing: [tiada apa-apa] |
-| 441 | 24:19 - 24:21 | It means zero. | Ia bermaksud sifar. | It: [ia / itu] • means (asal: mean): [maksud / berniat] • zero: [sifar / kosong] |
-| 442 | 24:21 - 24:24 | Probably the worst of humanity is also the most famous. | Mungkin manusia yang paling jahat juga adalah yang paling terkenal. | Probably: [mungkin / barangkali] • the: [kata penentu (itu / si)] • worst (asal: bad): [teruk / buruk] • of: [daripada / tentang] • humanity: [kemanusiaan] • is: [adalah / ialah] • also: [juga / selain itu] • most (asal: much / many): [paling banyak / kebanyakan] • famous: [terkenal / masyhur] |
-| 443 | 24:24 - 24:26 | Satan is absolutely famous. | Syaitan memang sangat terkenal. | Satan: [syaitan] • is: [adalah / ialah] • absolutely: [sama sekali / benar-benar] • famous: [terkenal / masyhur] |
-| 444 | 24:26 - 24:28 | Do you know that? | Tahukah anda tentang hal itu? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • that: [itu / yang] |
-| 445 | 24:28 - 24:30 | Hasbunallahu wa ni'mal wakil. | Hasbunallahu wa ni'mal wakil. | Hasbunallahu: [cukuplah Allah bagi kami] • wa: [dan] • ni'mal: [sebaik-baik] • wakil: [Maha Memelihara] |
-| 446 | 24:30 - 24:31 | How many of you have heard of Satan? | Berapa ramai daripada anda yang pernah mendengar tentang Syaitan? | How: [bagaimana / macam mana] • many: [banyak] • of: [daripada / tentang] • you: [awak / anda] • have: [ada / mempunyai] • heard (asal: hear): [dengar] • Satan: [syaitan] |
-| 447 | 24:32 - 24:33 | Raise your hand. | Angkat tangan anda. | Raise: [mengangkat tangan] • your: [awak punya / anda punya] • hand: [tangan] |
-| 448 | 24:33 - 24:34 | It's the whole mosque. | Seluruh masjid mengangkat tangan. | It's: [ia adalah / itu (singkatan 'it is/has')] • the: [kata penentu (itu / si)] • whole: [seluruh / keseluruhan] • mosque: [masjid / rumah Allah] |
-| 449 | 24:34 - 24:37 | Isn't Satan more famous than you and I? | Bukankah Syaitan lebih terkenal daripada anda dan saya? | Isn't: [bukan / tidak (singkatan 'is not')] • Satan: [syaitan] • more (asal: much / many): [lebih banyak] • famous: [terkenal / masyhur] • than: [daripada] • you: [awak / anda] • and: [dan] • I: [saya / aku] |
-| 450 | 24:37 - 24:40 | Does that make him a big rock star or something? | Adakah itu menjadikannya bintang rock yang hebat atau sesuatu? | Does (asal: do): [buat / melakukan] • that: [itu / yang] • make: [buat / menghasilkan] • him: [dia (lelaki)] • a: [sebuah / seorang / satu] • big: [besar] • rock: [bintang rock / batu] • star: [bintang ternama] • or: [atau] • something: [sesuatu] |
-| 451 | 24:40 - 24:40 | No. | Tidak. | No: [tidak / tiada] |
-| 452 | 24:40 - 24:44 | Some of the people The most famous are among the worst. | Sebahagian daripada orang yang paling terkenal adalah dalam kalangan yang paling jahat. | Some: [beberapa / sedikit] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • people (asal: person): [orang ramai / manusia] • most (asal: much / many): [paling banyak / kebanyakan] • famous: [terkenal / masyhur] • are (asal: be): [adalah / berada] • among: [antara / dalam kalangan] • worst (asal: bad): [teruk / buruk] |
-| 453 | 24:44 - 24:48 | Therefore, my being famous means nothing in the eyes of Allah. | Oleh itu, keterkenalan saya tidak membawa apa-apa erti di sisi Allah. | Therefore: [oleh itu / maka] • my: [saya punya / kepunyaan saya] • being (asal: be): [makhluk / insan] • famous: [terkenal / masyhur] • means (asal: mean): [maksud / berniat] • nothing: [tiada apa-apa] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • eyes (asal: eye): [mata] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 454 | 24:48 - 24:50 | La yaswa indallah janaha ba'ud. | La yaswa indallah janaha ba'ud (Tidak bernilai di sisi Allah walau sebesar sayap nyamuk). | La: [tiada] • yaswa: [bernilai / setaraf] • indallah: [di sisi Allah] • janaha: [sayap] • ba'ud: [nyamuk] |
-| 455 | 24:50 - 24:52 | Wallahi, I tell you it means nothing. | Wallahi, saya beritahu anda ia tidak membawa apa-apa erti. | Wallahi: [demi Allah] • I: [saya / aku] • tell: [beritahu / khabarkan] • you: [awak / anda] • it: [ia / itu] • means (asal: mean): [maksud / berniat] • nothing: [tiada apa-apa] |
-| 456 | 24:53 - 24:56 | If I sit here and attract you to me, I have lost. | Jika saya duduk di sini dan menarik perhatian anda kepada diri saya, saya telah rugi. | If: [jika / kalau] • I: [saya / aku] • sit: [duduk] • here: [di sini] • and: [dan] • attract: [menarik minat / memikat] • you: [awak / anda] • to: [ke / untuk] • me: [saya / aku] • have: [ada / mempunyai] • lost (asal: lose): [kalah] |
-| 457 | 24:56 - 25:03 | But if I sit here and remind you of Allah, only on the Day of Judgment will we see what happened. | Tetapi jika saya duduk di sini dan mengingatkan anda kepada Allah, hanya pada Hari Pembalasan kelak kita akan melihat hasilnya. | But: [tetapi / tapi] • if: [jika / kalau] • I: [saya / aku] • sit: [duduk] • here: [di sini] • and: [dan] • remind: [mengingatkan] • you: [awak / anda] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] • only: [hanya / sahaja] • on: [hidup / atas] • the: [kata penentu (itu / si)] • Day: [hari / siang] • Judgment: [penghakiman / pertimbangan] • will: [akan] • we: [kami / kita] • see: [lihat / nampak / tengok] • what: [apa / apakah] • happened (asal: happen): [berlaku] |
-| 458 | 25:03 - 25:04 | Only on the Day of Judgment. | Hanya pada Hari Pembalasan. | Only: [hanya / sahaja] • on: [hidup / atas] • the: [kata penentu (itu / si)] • Day: [hari / siang] • of: [daripada / tentang] • Judgment: [penghakiman / pertimbangan] |
-| 459 | 25:05 - 25:07 | Don't be deceived by likes and followers. | Jangan tertipu dengan tanda suka (likes) dan pengikut (followers). | Don't: [jangan / tidak (singkatan 'do not')] • be: [menjadi / berada] • deceived (asal: deceive): [terpedaya / tertipu] • by: [oleh / dengan / menjelang] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] |
-| 460 | 25:07 - 25:12 | I tell you this from the position of someone who has many likes and followers. | Saya bercakap ini daripada kedudukan seseorang yang mempunyai banyak tanda suka dan pengikut. | I: [saya / aku] • tell: [beritahu / khabarkan] • you: [awak / anda] • this: [ini] • from: [dari / daripada] • the: [kata penentu (itu / si)] • position: [kedudukan / posisi] • of: [daripada / tentang] • someone: [seseorang] • who: [siapa / orang yang] • has: [ada / mempunyai] • many: [banyak] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] |
-| 461 | 25:12 - 25:15 | And I want to tell you it means nothing. | Dan saya ingin memberitahu anda bahawa semua itu tidak membawa apa-apa erti. | And: [dan] • I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • tell: [beritahu / khabarkan] • you: [awak / anda] • it: [ia / itu] • means (asal: mean): [maksud / berniat] • nothing: [tiada apa-apa] |
-| 462 | 25:15 - 25:22 | Those who are slaves to likes and followers will never taste contentment on Earth, I guarantee you. | Mereka yang menjadi hamba kepada likes dan followers tidak akan pernah merasai ketenangan di muka bumi, saya jamin anda. | Those: [semua itu] • who: [siapa / orang yang] • are (asal: be): [adalah / berada] • slaves: [hamba-hamba abdi] • to: [ke / untuk] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] • will: [akan] • never: [tidak pernah / tak pernah] • taste: [rasa di lidah] • contentment: [kepuasan hati / redha] • on: [hidup / atas] • Earth: [bumi] • I: [saya / aku] • guarantee: [menjamin / kepastian] • you: [awak / anda] |
-| 463 | 25:22 - 25:29 | There is not a single moment when Allah says that His contentment lies in likes and followers. | Tidak ada satu detik pun di mana Allah menyatakan bahawa keredaan-Nya terletak pada likes dan followers. | There: [di sana / ada] • is: [adalah / ialah] • not: [bukan / tidak] • a: [sebuah / seorang / satu] • single: [satu / tunggal / bujang] • moment: [saat / ketika] • when: [bila / apabila] • Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • that: [itu / yang] • His: [miliknya / kepunyaan dia] • contentment: [kepuasan hati / redha] • lies (asal: lie): [baring / berbohong] • in: [dalam / di dalam] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] |
-| 464 | 25:29 - 25:31 | To get likes and followers, do you know what you have to do? | Untuk mendapatkan likes dan followers, tahukah anda apa yang perlu anda lakukan? | To: [ke / untuk] • get: [dapat / mengambil] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] • do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • have: [ada / mempunyai] |
-| 465 | 25:32 - 25:34 | You have to do the most absurd things. | Anda terpaksa melakukan perkara yang paling mengarut. | You: [awak / anda] • have: [ada / mempunyai] • to: [ke / untuk] • do: [buat / lakukan] • the: [kata penentu (itu / si)] • most (asal: much / many): [paling banyak / kebanyakan] • absurd: [mengarut / tidak masuk akal] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 466 | 25:34 - 25:35 | The most absurd things. | Perkara yang paling tidak masuk akal. | The: [kata penentu (itu / si)] • most (asal: much / many): [paling banyak / kebanyakan] • absurd: [mengarut / tidak masuk akal] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 467 | 25:35 - 25:42 | You have to follow trends that make no sense and dedicate your whole life to it. | Anda terpaksa mengikut trend yang langsung tidak masuk akal dan mengabdikan seluruh hidup anda untuknya. | You: [awak / anda] • have: [ada / mempunyai] • to: [ke / untuk] • follow: [ikut / mengikut] • trends (asal: trend): [trend ikutan semasa] • that: [itu / yang] • make: [buat / menghasilkan] • no: [tidak / tiada] • sense: [deria / logik akal] • and: [dan] • dedicate: [mengabdikan / memperuntukkan] • your: [awak punya / anda punya] • whole: [seluruh / keseluruhan] • life: [kehidupan] • it: [ia / itu] |
-| 468 | 25:42 - 25:44 | Hasbunallahu wa ni'mal Wakil. | Hasbunallahu wa ni'mal Wakil. | Hasbunallahu: [cukuplah Allah bagi kami] • wa: [dan] • ni'mal: [sebaik-baik] • Wakil: [Maha Memelihara] |
-| 469 | 25:44 - 25:45 | Look, the children knew what I was. | Lihatlah, kanak-kanak tahu apa yang saya sebutkan. | Look: [tengok / kelihatan] • the: [kata penentu (itu / si)] • children (asal: child): [anak] • knew (asal: know): [tahu / kenal] • what: [apa / apakah] • I: [saya / aku] • was: [adalah / dulu berada] |
-| 470 | 25:45 - 25:46 | What did I say? | Apa yang saya katakan? | What: [apa / apakah] • did (asal: do): [telah buat / adakah] • I: [saya / aku] • say: [cakap / berkata] |
-| 471 | 25:46 - 25:48 | 67 | 67 |  |
-| 472 | 25:48 - 25:49 | Allahu musta'an. | Allahu musta'an. | Allahu: [Allah] • musta'an: [tempat memohon pertolongan] |
-| 473 | 25:49 - 25:51 | Allahu musta'an. | Allahu musta'an. | Allahu: [Allah] • musta'an: [tempat memohon pertolongan] |
-| 474 | 25:51 - 25:52 | But what is that? | Tetapi apakah bendanya itu? | But: [tetapi / tapi] • what: [apa / apakah] • is: [adalah / ialah] • that: [itu / yang] |
-| 475 | 25:52 - 25:54 | If I ask them what 67 means, they don't know. | Jika saya tanya mereka apa maksud 67, mereka tidak tahu. | If: [jika / kalau] • I: [saya / aku] • ask: [tanya / meminta] • them: [mereka] • what: [apa / apakah] • means (asal: mean): [maksud / berniat] • they: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • know: [tahu / kenal] |
-| 476 | 25:55 - 25:55 | Nobody knows. | Tiada siapa yang tahu. | Nobody: [tiada sesiapa] • knows (asal: know): [tahu / kenal] |
-| 477 | 25:55 - 25:58 | Not even the ones who first said 67. | Malah mereka yang mula-mula menyebut 67 pun tidak tahu. | Not: [bukan / tidak] • even: [malah / pun] • the: [kata penentu (itu / si)] • ones (asal: one): [yang itu (jamak)] • who: [siapa / orang yang] • first: [pertama / dulu] • said (asal: say): [cakap / berkata] |
-| 478 | 25:58 - 25:59 | And guess what? | Dan teka apa? | And: [dan] • guess: [agak / meneka] • what: [apa / apakah] |
-| 479 | 25:59 - 26:02 | In 2027, they plan to say 78. | Pada tahun 2027, mereka merancang untuk menyebut 78 pula. | In: [dalam / di dalam] • they: [mereka] • plan: [rancangan / pelan] • to: [ke / untuk] • say: [cakap / berkata] |
-| 480 | 26:02 - 26:03 | Allahu musta'an. | Allahu musta'an. | Allahu: [Allah] • musta'an: [tempat memohon pertolongan] |
-| 481 | 26:03 - 26:04 | Allahu musta'an. | Allahu musta'an. | Allahu: [Allah] • musta'an: [tempat memohon pertolongan] |
-| 482 | 26:04 - 26:05 | And that's life. | Dan itulah kehidupan. | And: [dan] • that's: [itu adalah / itu (singkatan 'that is')] • life: [kehidupan] |
-| 483 | 26:05 - 26:07 | And that's how we will continue. | Dan begitulah keadaan kita akan berterusan. | And: [dan] • that's: [itu adalah / itu (singkatan 'that is')] • how: [bagaimana / macam mana] • we: [kami / kita] • will: [akan] • continue: [teruskan / menyambung] |
-| 484 | 26:07 - 26:12 | So, as fun as it is, never do it for likes and followers. | Maka, walaupun ia menyeronokkan, jangan sekali-kali melakukannya demi mengejar likes dan followers. | So: [jadi / sangat] • as: [seperti / sebagai] • fun: [keseronokan] • it: [ia / itu] • is: [adalah / ialah] • never: [tidak pernah / tak pernah] • do: [buat / lakukan] • for: [untuk / bagi] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] |
-| 485 | 26:12 - 26:17 | Another thing is, for us today, | Satu perkara lagi, bagi kita pada hari ini, | Another: [satu lagi / lain] • thing: [benda / perkara] • is: [adalah / ialah] • for: [untuk / bagi] • us: [kami / kita] • today: [hari ini] |
-| 486 | 26:18 - 26:27 | to gain likes and followers, many people have to be live for a very, very long time. | untuk meraih likes dan followers, ramai orang terpaksa bersiaran langsung (live) untuk tempoh masa yang sangat lama. | to: [ke / untuk] • gain: [memperoleh / meraih] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] • many: [banyak] • people (asal: person): [orang ramai / manusia] • have: [ada / mempunyai] • be: [menjadi / berada] • live: [secara langsung / hidup] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • very: [sangat / amat] • long: [panjang / lama] • time: [masa / waktu] |
-| 487 | 26:27 - 26:27 | But guess what? | Tetapi teka apa yang berlaku? | But: [tetapi / tapi] • guess: [agak / meneka] • what: [apa / apakah] |
-| 488 | 26:27 - 26:30 | You weren't live with Allah at the time of the salah. | Anda tidak bersiaran langsung (terhubung) dengan Allah pada waktu solat. | You: [awak / anda] • weren't: [bukan / tidak (singkatan 'were not')] • live: [secara langsung / hidup] • with: [dengan / bersama] • Allah: [Allah Subhanahu wa Ta'ala] • at: [di / pada] • the: [kata penentu (itu / si)] • time: [masa / waktu] • of: [daripada / tentang] • salah: [solat] |
-| 489 | 26:30 - 26:33 | You weren't live with Allah at the moment you needed to be. | Anda tidak terhubung secara langsung dengan Allah pada saat anda amat memerlukannya. | You: [awak / anda] • weren't: [bukan / tidak (singkatan 'were not')] • live: [secara langsung / hidup] • with: [dengan / bersama] • Allah: [Allah Subhanahu wa Ta'ala] • at: [di / pada] • the: [kata penentu (itu / si)] • moment: [saat / ketika] • needed (asal: need): [perlu / memerlukan] • to: [ke / untuk] • be: [menjadi / berada] |
-| 490 | 26:33 - 26:35 | But you were live with everyone else. | Sebaliknya anda bersiaran langsung dengan orang lain. | But: [tetapi / tapi] • you: [awak / anda] • were (asal: be): [adalah / dulu berada] • live: [secara langsung / hidup] • with: [dengan / bersama] • everyone: [semua orang] • else: [lain] |
-| 491 | 26:35 - 26:37 | Fine, you got a million followers. | Baiklah, anda dapat satu juta pengikut. | Fine: [baik-baik sahaja] • you: [awak / anda] • got (asal: get): [dapat / sudah dapat] • a: [sebuah / seorang / satu] • million: [juta] • followers (asal: follower): [pengikut] |
-| 492 | 26:37 - 26:41 | Big deal, a big deal for the Will that get you into Paradise? | Hebat sangatkah, adakah kejayaan besar itu akan memasukkan anda ke dalam Syurga? | Big: [besar] • deal: [perjanjian / urusan] • a: [sebuah / seorang / satu] • for: [untuk / bagi] • the: [kata penentu (itu / si)] • Will: [akan] • that: [itu / yang] • get: [dapat / mengambil] • you: [awak / anda] • into: [ke dalam] • Paradise: [syurga] |
-| 493 | 26:41 - 26:43 | Absolutely not. | Sama sekali tidak. | Absolutely: [sama sekali / benar-benar] • not: [bukan / tidak] |
-| 494 | 26:43 - 26:46 | Unless you reminded them of goodness. | Melainkan jika anda mengingatkan mereka kepada kebaikan. | Unless: [melainkan / kecuali] • you: [awak / anda] • reminded (asal: remind): [ingatkan] • them: [mereka] • of: [daripada / tentang] • goodness: [kebaikan / kebajikan] |
-| 495 | 26:46 - 26:48 | Unless you said something good. | Melainkan jika anda menyampaikan sesuatu yang bermanfaat. | Unless: [melainkan / kecuali] • you: [awak / anda] • said (asal: say): [cakap / berkata] • something: [sesuatu] • good: [baik / bagus] |
-| 496 | 26:48 - 26:51 | Unless you truly were a person of integrity. | Melainkan jika anda benar-benar seorang yang berintegriti. | Unless: [melainkan / kecuali] • you: [awak / anda] • truly: [benar-benar / sesungguhnya] • were (asal: be): [adalah / dulu berada] • a: [sebuah / seorang / satu] • person: [orang / individu] • of: [daripada / tentang] • integrity: [integriti / kejujuran] |
-| 497 | 26:51 - 26:52 | And you called people to Allah. | Dan anda menyeru manusia ke jalan Allah. | And: [dan] • you: [awak / anda] • called (asal: call): [dipanggil / dinamakan] • people (asal: person): [orang ramai / manusia] • to: [ke / untuk] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 498 | 26:52 - 26:55 | Whether they liked you or not is irrelevant. | Sama ada mereka menyukai anda atau tidak, itu langsung tidak penting. | Whether: [sama ada] • they: [mereka] • liked (asal: like): [suka / seperti] • you: [awak / anda] • or: [atau] • not: [bukan / tidak] • is: [adalah / ialah] • irrelevant: [tidak berkaitan / tidak penting] |
-| 499 | 26:55 - 26:59 | Allah will never ask you how many "likes" you had before entering Paradise. | Allah tidak akan sesekali bertanya kepada anda berapa banyak "likes" yang anda kumpul sebelum memasuki Syurga. | Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • never: [tidak pernah / tak pernah] • ask: [tanya / meminta] • you: [awak / anda] • how: [bagaimana / macam mana] • many: [banyak] • likes (asal: like): [suka / seperti] • had (asal: have): [mempunyai / telah ada] • before: [sebelum] • entering (asal: enter): [masuk] • Paradise: [syurga] |
-| 500 | 26:59 - 27:00 | Not at all. | Langsung tidak. | Not: [bukan / tidak] • at: [di / pada] • all: [semua / seluruh] |
-| 501 | 27:01 - 27:02 | Don't be deceived. | Janganlah terpedaya. | Don't: [jangan / tidak (singkatan 'do not')] • be: [menjadi / berada] • deceived (asal: deceive): [terpedaya / tertipu] |
-| 502 | 27:02 - 27:09 | My dear young people, even if they are unknown, some of the people closest to Allah don't even have a single | Wahai anak-anak muda yang dikasihi, walaupun mereka tidak dikenali, sebahagian insan yang paling dekat dengan Allah langsung tidak memiliki | My: [saya punya / kepunyaan saya] • dear: [yang dikasihi / yang disayangi] • young: [muda] • people (asal: person): [orang ramai / manusia] • even: [malah / pun] • if: [jika / kalau] • they: [mereka] • are (asal: be): [adalah / berada] • unknown: [dirahsiakan / tidak diketahui] • some: [beberapa / sedikit] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • closest (asal: close): [tutup / dekat] • to: [ke / untuk] • Allah: [Allah Subhanahu wa Ta'ala] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • single: [satu / tunggal / bujang] |
-| 503 | 27:09 - 27:11 | social media account. | akaun media sosial. | social: [sosial] • media (asal: medium): [sederhana] • account: [akaun] |
-| 504 | 27:11 - 27:12 | Wallahi al-Azim. | Wallahi al-Azim. | Wallahi: [demi Allah] • al: [kata penentu (Al-)] • Azim: [Maha Agung] |
-| 505 | 27:12 - 27:16 | And they are so close to Allah that if they were to make a supplication, it would be fulfilled almost instantly. | Dan mereka begitu dekat dengan Allah sehinggakan jika mereka berdoa, doa itu akan dimakbulkan hampir serta-merta. | And: [dan] • they: [mereka] • are (asal: be): [adalah / berada] • so: [jadi / sangat] • close: [tutup / dekat] • to: [ke / untuk] • Allah: [Allah Subhanahu wa Ta'ala] • that: [itu / yang] • if: [jika / kalau] • were (asal: be): [adalah / dulu berada] • make: [buat / menghasilkan] • a: [sebuah / seorang / satu] • supplication: [doa permohonan] • it: [ia / itu] • would: [akan / sudi] • be: [menjadi / berada] • fulfilled: [ditunaikan / dimakbulkan] • almost: [hampir] • instantly: [secara serta-merta] |
-| 506 | 27:16 - 27:20 | They are people with the gift of being mustajab ud-dawah. | Mereka adalah golongan yang dikurniakan keistimewaan mustajab ud-da'wah. | They: [mereka] • are (asal: be): [adalah / berada] • people (asal: person): [orang ramai / manusia] • with: [dengan / bersama] • the: [kata penentu (itu / si)] • gift: [hadiah kurniaan] • of: [daripada / tentang] • being (asal: be): [makhluk / insan] • mustajab: [makbul / dimakbulkan] • ud: [daripada (sambungan frasa)] • dawah: [dakwah / seruan Islam] |
-| 507 | 27:20 - 27:23 | Is there anyone whom Allah considers mustajab ud-dawah? | Adakah sesiapa yang Allah anggap sebagai mustajab ud-da'wah? | Is: [adalah / ialah] • there: [di sana / ada] • anyone: [sesiapa sahaja] • whom: [siapa / yang mana] • Allah: [Allah Subhanahu wa Ta'ala] • considers (asal: consider): [menganggap / menilai] • mustajab: [makbul / dimakbulkan] • ud: [daripada (sambungan frasa)] • dawah: [dakwah / seruan Islam] |
-| 508 | 27:23 - 27:28 | That means that when they make a supplication, it is accepted by Allah quickly. | Itu bermakna apabila mereka memanjatkan doa, ia diperkenankan oleh Allah dengan pantas. | That: [itu / yang] • means (asal: mean): [maksud / berniat] • when: [bila / apabila] • they: [mereka] • make: [buat / menghasilkan] • a: [sebuah / seorang / satu] • supplication: [doa permohonan] • it: [ia / itu] • is: [adalah / ialah] • accepted (asal: accept): [terima] • by: [oleh / dengan / menjelang] • Allah: [Allah Subhanahu wa Ta'ala] • quickly: [dengan pantas / cepat] |
-| 509 | 27:28 - 27:33 | Is there anyone with that quality who has been told that the more "likes" and followers they have, the faster | Adakah terdapat sesiapa yang memiliki sifat mulia itu diberitahu bahawa semakin banyak tanda "suka" dan pengikut yang mereka ada, semakin cepat | Is: [adalah / ialah] • there: [di sana / ada] • anyone: [sesiapa sahaja] • with: [dengan / bersama] • that: [itu / yang] • quality: [kualiti] • who: [siapa / orang yang] • has: [ada / mempunyai] • been (asal: be): [telah / pernah] • told (asal: tell): [memberitahu] • the: [kata penentu (itu / si)] • more (asal: much / many): [lebih banyak] • likes (asal: like): [suka / seperti] • and: [dan] • followers (asal: follower): [pengikut] • they: [mereka] • have: [ada / mempunyai] • faster (asal: fast): [lebih cepat] |
-| 510 | 27:33 - 27:34 | they will get into Paradise? | mereka akan masuk ke dalam Syurga? | they: [mereka] • will: [akan] • get: [dapat / mengambil] • into: [ke dalam] • Paradise: [syurga] |
-| 511 | 27:34 - 27:35 | Will He accept their plea? | Adakah Dia akan menerima permohonan mereka? | Will: [akan] • He: [dia (lelaki)] • accept: [terima / menerima] • their: [mereka punya / kepunyaan mereka] • plea: [permohonan doa] |
-| 512 | 27:35 - 27:36 | No way. | Sama sekali tidak. | No: [tidak / tiada] • way: [jalan / cara] |
-| 513 | 27:36 - 27:37 | No way. | Sama sekali tidak. | No: [tidak / tiada] • way: [jalan / cara] |
-| 514 | 27:37 - 27:39 | Don't be fooled or deceived. | Janganlah terpedaya atau tertipu. | Don't: [jangan / tidak (singkatan 'do not')] • be: [menjadi / berada] • fooled: [terpedaya] • or: [atau] • deceived (asal: deceive): [terpedaya / tertipu] |
-| 515 | 27:39 - 27:41 | It's an enormous responsibility. | Ia merupakan suatu tanggungjawab yang teramat besar. | It's: [ia adalah / itu (singkatan 'it is/has')] • an: [sebuah / seorang / satu] • enormous: [teramat besar / dahsyat] • responsibility: [tanggungjawab] |
-| 516 | 27:41 - 27:43 | Do you know why? | Tahukah anda mengapa? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • why: [mengapa / kenapa] |
-| 517 | 27:43 - 27:53 | My fear is that when you forward, like, comment, or promote something negative, it might be such a great responsibility | Kebimbangan saya ialah apabila anda memanjangkan (forward), menyukai, memberi komen, atau mempromosikan sesuatu yang negatif, ia mungkin menjadi tanggungjawab yang begitu berat | My: [saya punya / kepunyaan saya] • fear: [ketakutan / takut] • is: [adalah / ialah] • that: [itu / yang] • when: [bila / apabila] • you: [awak / anda] • forward: [maju ke hadapan] • like: [suka / seperti] • comment: [mengulas / meninggalkan komen] • or: [atau] • promote: [mempromosikan / menaikkan] • something: [sesuatu] • negative: [negatif / buruk] • it: [ia / itu] • might: [mungkin / daya] • be: [menjadi / berada] • such: [seperti / sedemikian rupa] • a: [sebuah / seorang / satu] • great: [hebat / besar] • responsibility: [tanggungjawab] |
-| 518 | 27:53 - 27:58 | that it could be our downfall. | sehingga boleh menyebabkan kebinasaan kita. | that: [itu / yang] • it: [ia / itu] • could: [boleh / dapat] • be: [menjadi / berada] • our: [kami punya / kita punya] • downfall: [kejatuhan / kehancuran] |
-| 519 | 27:58 - 28:00 | Look, I want to tell you something. | Lihatlah, saya ingin berkongsi sesuatu dengan anda. | Look: [tengok / kelihatan] • I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • tell: [beritahu / khabarkan] • you: [awak / anda] • something: [sesuatu] |
-| 520 | 28:00 - 28:02 | On Judgment Day, we will have a scale. | Pada Hari Pembalasan kelak, kita akan mempunyai sebuah neraca timbangan. | On: [hidup / atas] • Judgment: [penghakiman / pertimbangan] • Day: [hari / siang] • we: [kami / kita] • will: [akan] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • scale: [penimbang / skala] |
-| 521 | 28:02 - 28:04 | What kind of scale is that? | Neraca timbangan apakah itu? | What: [apa / apakah] • kind: [jenis / baik hati] • of: [daripada / tentang] • scale: [penimbang / skala] • is: [adalah / ialah] • that: [itu / yang] |
-| 522 | 28:04 - 28:05 | Can someone tell me? | Bolehkah sesiapa memberitahu saya? | Can: [boleh / dapat] • someone: [seseorang] • tell: [beritahu / khabarkan] • me: [saya / aku] |
-| 523 | 28:05 - 28:06 | What is the scale? | Apakah neraca timbangan tersebut? | What: [apa / apakah] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • scale: [penimbang / skala] |
-| 524 | 28:06 - 28:07 | Yes, tell me. | Ya, beritahu saya. | Yes: [ya] • tell: [beritahu / khabarkan] • me: [saya / aku] |
-| 525 | 28:07 - 28:08 | The scale of good and bad deeds. | Timbangan amalan baik dan amalan buruk. | The: [kata penentu (itu / si)] • scale: [penimbang / skala] • of: [daripada / tentang] • good: [baik / bagus] • and: [dan] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] |
-| 526 | 28:08 - 28:10 | Good deeds and bad deeds. | Amalan kebaikan dan amalan kejahatan. | Good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • and: [dan] • bad: [teruk / buruk] |
-| 527 | 28:10 - 28:12 | Which side is good and which side is bad? | Sebelah manakah kebaikan dan sebelah manakah kejahatan? | Which: [yang mana] • side: [tepi / sisi] • is: [adalah / ialah] • good: [baik / bagus] • and: [dan] • bad: [teruk / buruk] |
-| 528 | 28:13 - 28:13 | Yes. | Ya. | Yes: [ya] |
-| 529 | 28:14 - 28:16 | Right and left. | Kanan dan kiri. | Right: [betul / kanan / tepat] • and: [dan] • left (asal: leave): [tinggalkan / keluar] |
-| 530 | 28:16 - 28:18 | Right is good and left is bad, right? | Kanan adalah kebaikan dan kiri adalah kejahatan, betul? | Right: [betul / kanan / tepat] • is: [adalah / ialah] • good: [baik / bagus] • and: [dan] • left (asal: leave): [tinggalkan / keluar] • bad: [teruk / buruk] |
-| 531 | 28:18 - 28:19 | Correct. | Tepat sekali. | Correct: [betul / tepat] |
-| 532 | 28:19 - 28:21 | So, imagine you are standing before Allah. | Jadi, bayangkan anda sedang berdiri di hadapan Allah. | So: [jadi / sangat] • imagine: [bayangkan] • you: [awak / anda] • are (asal: be): [adalah / berada] • standing (asal: stand): [sedang berdiri] • before: [sebelum] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 533 | 28:21 - 28:23 | You are standing, there is a scale, right side, left side. | Anda sedang berdiri, di situ ada sebuah neraca, sebelah kanan dan sebelah kiri. | You: [awak / anda] • are (asal: be): [adalah / berada] • standing (asal: stand): [sedang berdiri] • there: [di sana / ada] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • scale: [penimbang / skala] • right: [betul / kanan / tepat] • side: [tepi / sisi] • left (asal: leave): [tinggalkan / keluar] |
-| 534 | 28:23 - 28:27 | On the right they will put all your good deeds, and on the left they will put your bad deeds. | Di sebelah kanan mereka akan meletakkan segala amalan kebaikan anda, dan di sebelah kiri mereka akan meletakkan amalan kejahatan anda. | On: [hidup / atas] • the: [kata penentu (itu / si)] • right: [betul / kanan / tepat] • they: [mereka] • will: [akan] • put: [letak / meletakkan] • all: [semua / seluruh] • your: [awak punya / anda punya] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • and: [dan] • left (asal: leave): [tinggalkan / keluar] • bad: [teruk / buruk] |
-| 535 | 28:27 - 28:32 | Now, there are so many bad deeds that appear one after another. | Sekarang, begitu banyak amalan buruk yang muncul berturut-turut satu demi satu. | Now: [sekarang] • there: [di sana / ada] • are (asal: be): [adalah / berada] • so: [jadi / sangat] • many: [banyak] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] • that: [itu / yang] • appear: [muncul / kelihatan] • one: [satu / seorang] • after: [selepas / sesudah] • another: [satu lagi / lain] |
-| 536 | 28:32 - 28:33 | What will it be? | Apakah amalannya itu? | What: [apa / apakah] • will: [akan] • it: [ia / itu] • be: [menjadi / berada] |
-| 537 | 28:33 - 28:38 | A like, you shared a Rumor spreads, you said something negative about someone you don't even know. | Satu tanda suka, anda menyebarkan khabar angin, anda mengatakan sesuatu yang buruk tentang seseorang yang langsung tidak anda kenali. | A: [sebuah / seorang / satu] • like: [suka / seperti] • you: [awak / anda] • shared (asal: share): [kongsi] • Rumor: [khabar angin / fitnah] • spreads (asal: spread): [tersebar luas] • said (asal: say): [cakap / berkata] • something: [sesuatu] • negative: [negatif / buruk] • about: [tentang / sekitar] • someone: [seseorang] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • know: [tahu / kenal] |
-| 538 | 28:38 - 28:41 | It happens every day online. | Perkara ini berlaku setiap hari di alam maya. | It: [ia / itu] • happens (asal: happen): [berlaku] • every: [setiap / tiap-tiap] • day: [hari / siang] • online: [atas talian / alam maya] |
-| 539 | 28:41 - 28:43 | You don't even know this person. | Anda sendiri pun tidak mengenali orang ini. | You: [awak / anda] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • know: [tahu / kenal] • this: [ini] • person: [orang / individu] |
-| 540 | 28:43 - 28:44 | You ruined their life. | Anda telah merosakkan kehidupan mereka. | You: [awak / anda] • ruined (asal: ruin): [merosakkan / membinasakan] • their: [mereka punya / kepunyaan mereka] • life: [kehidupan] |
-| 541 | 28:44 - 28:51 | You damaged their reputation, even though they were truly good people, or you promoted someone who isn't worth | Anda telah mencemarkan maruah mereka, walaupun hakikatnya mereka insan yang sangat baik, atau anda mempromosikan seseorang yang tidak layak | You: [awak / anda] • damaged (asal: damage): [kerosakan] • their: [mereka punya / kepunyaan mereka] • reputation: [reputasi / nama baik] • even: [malah / pun] • though: [walaupun / biarpun] • they: [mereka] • were (asal: be): [adalah / dulu berada] • truly: [benar-benar / sesungguhnya] • good: [baik / bagus] • people (asal: person): [orang ramai / manusia] • or: [atau] • promoted: [dipromosikan] • someone: [seseorang] • who: [siapa / orang yang] • isn't: [bukan / tidak (singkatan 'is not')] • worth: [bernilai] |
-| 542 | 28:51 - 28:59 | promoting because of their behavior, which doesn't live up to the morals and values ​​ we align ourselves with. | dipromosikan kerana kelakuannya yang tidak mencerminkan akhlak dan nilai yang kita pegang teguh. | promoting (asal: promote): [mempromosikan / mengangkat] • because: [kerana / sebab] • of: [daripada / tentang] • their: [mereka punya / kepunyaan mereka] • behavior: [tingkah laku / kelakuan] • which: [yang mana] • doesn't: [tidak / tak (singkatan 'does not')] • live: [secara langsung / hidup] • up: [atas / naik] • to: [ke / untuk] • the: [kata penentu (itu / si)] • morals: [akhlak / nilai murni] • and: [dan] • values: [nilai-nilai murni] • we: [kami / kita] • align: [menyelaraskan / menyatukan] • ourselves: [diri kita sendiri] • with: [dengan / bersama] |
-| 543 | 28:59 - 28:59 | Subhanallah. | Subhanallah. | Subhanallah: [Maha Suci Allah] |
-| 544 | 28:59 - 29:00 | So, what happens? | Jadi, apa yang berlaku? | So: [jadi / sangat] • what: [apa / apakah] • happens (asal: happen): [berlaku] |
-| 545 | 29:00 - 29:04 | You see all those bad deeds piling up and piling up. | Anda melihat semua amalan buruk itu semakin bertimbun-timbun. | You: [awak / anda] • see: [lihat / nampak / tengok] • all: [semua / seluruh] • those: [semua itu] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] • piling (asal: pile): [longgokan] • up: [atas / naik] • and: [dan] |
-| 546 | 29:04 - 29:05 | So, what's going to happen? | Jadi, apa yang akan terjadi? | So: [jadi / sangat] • what's: [apa / apakah (singkatan 'what is/has')] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • happen: [berlaku / terjadi] |
-| 547 | 29:05 - 29:07 | All the good | Segala amalan | All: [semua / seluruh] • the: [kata penentu (itu / si)] • good: [baik / bagus] |
-| 548 | 29:07 - 29:09 | deeds | kebaikan | deeds (asal: deed): [amalan-amalan] |
-| 549 | 29:09 - 29:10 | are | akan | are (asal: be): [adalah / berada] |
-| 550 | 29:11 - 29:12 | going | tiba | going (asal: go): [sedang pergi / akan] |
-| 551 | 29:12 - 29:14 | to | pada | to: [ke / untuk] |
-| 552 | 29:14 - 29:16 | come | saat | come: [datang / mari] |
-| 553 | 29:16 - 29:18 | to | ketikanya | to: [ke / untuk] |
-| 554 | 29:18 - 29:20 | pass. | kelak. | pass: [melepasi / memotong] |
-| 555 | 29:20 - 29:21 | Allah | Allah | Allah: [Allah Subhanahu wa Ta'ala] |
-| 556 | 29:21 - 29:25 | says that on that Day of Qiyamah, We will set the scales of justice. | berfirman bahawa pada Hari Kiamat itu, Kami akan meletakkan timbangan keadilan. | says (asal: say): [cakap / berkata] • that: [itu / yang] • on: [hidup / atas] • Day: [hari / siang] • of: [daripada / tentang] • Qiyamah: [Hari Kiamat] • We: [kami / kita] • will: [akan] • set: [tetapkan / satu set] • the: [kata penentu (itu / si)] • scales (asal: scale): [neraca timbangan (mizan)] • justice: [keadilan] |
-| 557 | 29:25 - 29:27 | No one will be oppressed. | Tiada seorang pun yang akan dizalimi. | No: [tidak / tiada] • one: [satu / seorang] • will: [akan] • be: [menjadi / berada] • oppressed: [orang yang dizalimi] |
-| 558 | 29:27 - 29:29 | No soul will be wronged. | Tiada satu jiwa pun yang akan dianiayai. | No: [tidak / tiada] • soul: [jiwa] • will: [akan] • be: [menjadi / berada] • wronged (asal: wrong): [dianiayai / dizalimi] |
-| 559 | 29:29 - 29:30 | Those are your deeds. | Itulah amalan-amalan anda. | Those: [semua itu] • are (asal: be): [adalah / berada] • your: [awak punya / anda punya] • deeds (asal: deed): [amalan-amalan] |
-| 560 | 29:30 - 29:32 | So, what is my duty? | Jadi, apakah kewajipan saya? | So: [jadi / sangat] • what: [apa / apakah] • is: [adalah / ialah] • my: [saya punya / kepunyaan saya] • duty: [kewajipan / tanggungjawab] |
-| 561 | 29:32 - 29:37 | I'm sitting here in the mosque in Abdeen trying to imagine it, and we won't be able to fully imagine it | Saya duduk di sini di masjid Aberdeen cuba membayangkannya, dan kita memang tidak akan mampu membayangkannya secara sempurna | I'm: [saya / saya sedang (singkatan 'I am')] • sitting (asal: sit): [duduk] • here: [di sini] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • mosque: [masjid / rumah Allah] • Abdeen: [Aberdeen (singkatan mesra)] • trying (asal: try): [cuba / mencuba] • to: [ke / untuk] • imagine: [bayangkan] • it: [ia / itu] • and: [dan] • we: [kami / kita] • won't: [tidak akan / takkan (singkatan 'will not')] • be: [menjadi / berada] • able: [mampu / boleh] • fully: [sepenuhnya / secara menyeluruh] |
-| 562 | 29:37 - 29:41 | because we do n't know, but just try to visualize it for a human mind. | kerana kita tidak tahu, tetapi cubalah menggambarkannya mengikut kemampuan akal manusia. | because: [kerana / sebab] • we: [kami / kita] • do: [buat / lakukan] • n't: [tidak / bukan] • know: [tahu / kenal] • but: [tetapi / tapi] • just: [hanya / sekadar / baru saja] • try: [cuba / mencuba] • to: [ke / untuk] • visualize: [menggambarkan dalam fikiran] • it: [ia / itu] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • human: [manusia] • mind: [fikiran / minda] |
-| 563 | 29:42 - 29:42 | Here are my deeds. | Inilah amalan-amalan saya. | Here: [di sini] • are (asal: be): [adalah / berada] • my: [saya punya / kepunyaan saya] • deeds (asal: deed): [amalan-amalan] |
-| 564 | 29:42 - 29:43 | All of them are bad. | Kesemuanya adalah buruk. | All: [semua / seluruh] • of: [daripada / tentang] • them: [mereka] • are (asal: be): [adalah / berada] • bad: [teruk / buruk] |
-| 565 | 29:43 - 29:44 | All bad. | Semuanya jahat. | All: [semua / seluruh] • bad: [teruk / buruk] |
-| 566 | 29:44 - 29:56 | Things I know, things I do n't know because Allah says whoever did good, Even if it's the weight of a mustard | Perkara yang saya sedari, perkara yang saya tidak sedari, kerana Allah berfirman sesiapa yang melakukan kebaikan walau seberat biji sawi, | Things (asal: thing): [benda-benda / perkara-perkara] • I: [saya / aku] • know: [tahu / kenal] • do: [buat / lakukan] • n't: [tidak / bukan] • because: [kerana / sebab] • Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • whoever: [sesiapa sahaja] • did (asal: do): [telah buat / adakah] • good: [baik / bagus] • Even: [malah / pun] • if: [jika / kalau] • it's: [ia adalah / itu (singkatan 'it is/has')] • the: [kata penentu (itu / si)] • weight: [berat] • of: [daripada / tentang] • a: [sebuah / seorang / satu] • mustard: [biji sawi] |
-| 567 | 29:56 - 29:59 | seed, He will see it, and evil will see it too. | dia akan melihatnya, dan kejahatan pun dia akan melihatnya juga. | seed: [biji benih] • He: [dia (lelaki)] • will: [akan] • see: [lihat / nampak / tengok] • it: [ia / itu] • and: [dan] • evil: [kejahatan / keburukan] • too: [juga / terlalu] |
-| 568 | 29:59 - 30:01 | So, it's all coming together. | Maka semuanya sedang dikumpulkan bersama. | So: [jadi / sangat] • it's: [ia adalah / itu (singkatan 'it is/has')] • all: [semua / seluruh] • coming (asal: come): [sedang datang / menjelang] • together: [bersama-sama] |
-| 569 | 30:01 - 30:03 | Now, my good deeds are starting to pile up. | Kini, amalan kebaikan saya mula bertimbun. | Now: [sekarang] • my: [saya punya / kepunyaan saya] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • are (asal: be): [adalah / berada] • starting (asal: start): [mula / memulakan] • to: [ke / untuk] • pile: [bertimbun / menimbun] • up: [atas / naik] |
-| 570 | 30:03 - 30:04 | And guess what? | Dan teka apa yang berlaku? | And: [dan] • guess: [agak / meneka] • what: [apa / apakah] |
-| 571 | 30:04 - 30:06 | There's still more evil than good. | Masih terdapat lebih banyak kejahatan daripada kebaikan. | There's: [ada / terdapat (singkatan 'there is')] • still: [masih / tenang] • more (asal: much / many): [lebih banyak] • evil: [kejahatan / keburukan] • than: [daripada] • good: [baik / bagus] |
-| 572 | 30:06 - 30:07 | And what am I doing? | Dan apakah yang sedang saya lakukan? | And: [dan] • what: [apa / apakah] • am: [adalah / berada] • I: [saya / aku] • doing (asal: do): [buat / lakukan] |
-| 573 | 30:07 - 30:11 | Maybe I'm holding my breath, and I'm just watching, wow, 1, 2, 3, and you say, inshallah, inshallah, inshallah, | Mungkin saya sedang menahan nafas, dan saya hanya memerhatikan, wah, 1, 2, 3, dan anda berkata, insya-Allah, insya-Allah, insya-Allah, | Maybe: [barangkali / mungkin] • I'm: [saya / saya sedang (singkatan 'I am')] • holding (asal: hold): [tahan] • my: [saya punya / kepunyaan saya] • breath: [nafas] • and: [dan] • just: [hanya / sekadar / baru saja] • watching (asal: watch): [sedang menonton] • wow: [wah (kagum)] • you: [awak / anda] • say: [cakap / berkata] • inshallah: [insya-Allah] |
-| 574 | 30:11 - 30:15 | I'll make it, inshallah, I'll make it, inshallah, I'll make it, inshallah, I'll make it. | aku akan berjaya, insya-Allah, aku akan berjaya, insya-Allah, aku akan selamat, insya-Allah, aku akan selamat. | I'll: [saya akan (singkatan 'I will')] • make: [buat / menghasilkan] • it: [ia / itu] • inshallah: [insya-Allah] |
-| 575 | 30:15 - 30:16 | And guess what? | Dan teka apa? | And: [dan] • guess: [agak / meneka] • what: [apa / apakah] |
-| 576 | 30:16 - 30:19 | It starts going up and down and down, which means it gets heavier and heavier. | Ia mula bergerak naik dan turun, yang bermaksud ia menjadi semakin berat dan semakin berat. | It: [ia / itu] • starts (asal: start): [mula / memulakan] • going (asal: go): [sedang pergi / akan] • up: [atas / naik] • and: [dan] • down: [bawah / turun] • which: [yang mana] • means (asal: mean): [maksud / berniat] • gets (asal: get): [dapat / mengambil] • heavier (asal: heavy): [berat] |
-| 577 | 30:20 - 30:21 | And you're so happy. | Dan anda berasa sangat gembira. | And: [dan] • you're: [anda / awak adalah (singkatan 'you are')] • so: [jadi / sangat] • happy: [gembira / bahagia] |
-| 578 | 30:21 - 30:22 | And it's almost there. | Dan ia hampir mencecah kejayaan. | And: [dan] • it's: [ia adalah / itu (singkatan 'it is/has')] • almost: [hampir] • there: [di sana / ada] |
-| 579 | 30:22 - 30:24 | And you need a few more deeds. | Dan anda memerlukan beberapa lagi amalan kebaikan. | And: [dan] • you: [awak / anda] • need: [perlu / memerlukan] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • more (asal: much / many): [lebih banyak] • deeds (asal: deed): [amalan-amalan] |
-| 580 | 30:24 - 30:26 | And guess what Allah says? | Dan teka apakah yang Allah firmankan? | And: [dan] • guess: [agak / meneka] • what: [apa / apakah] • Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] |
-| 581 | 30:26 - 30:31 | Allah says, "Wallahi, if your right side surpasses your left, We will forget the entire left side and give | Allah berfirman, "Wallahi, jika timbangan sebelah kananmu mengatasi sebelah kirimu, Kami akan melupakan seluruh sebelah kiri itu dan mengurniakan | Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • Wallahi: [demi Allah] • if: [jika / kalau] • your: [awak punya / anda punya] • right: [betul / kanan / tepat] • side: [tepi / sisi] • surpasses (asal: surpass): [melebihi / mengatasi] • left (asal: leave): [tinggalkan / keluar] • We: [kami / kita] • will: [akan] • forget: [lupa / terlupa] • the: [kata penentu (itu / si)] • entire: [seluruh / segenap] • and: [dan] • give: [beri / memberikan] |
-| 582 | 30:31 - 30:34 | you Paradise." How does that sound? | kepadamu Syurga." Bagaimana bunyinya itu? | you: [awak / anda] • Paradise: [syurga] • How: [bagaimana / macam mana] • does (asal: do): [buat / melakukan] • that: [itu / yang] • sound: [bunyi / suara] |
-| 583 | 30:34 - 30:35 | Imagine the mercy of Allah. | Bayangkan betapa luasnya rahmat Allah. | Imagine: [bayangkan] • the: [kata penentu (itu / si)] • mercy: [rahmat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 584 | 30:35 - 30:41 | Allah didn't say you have to be sinless to go to Paradise. | Allah tidak mengatakan anda mesti bebas dari dosa untuk memasuki Syurga. | Allah: [Allah Subhanahu wa Ta'ala] • didn't: [tidak / tak (singkatan 'did not')] • say: [cakap / berkata] • you: [awak / anda] • have: [ada / mempunyai] • to: [ke / untuk] • be: [menjadi / berada] • sinless: [bebas daripada dosa] • go: [pergi] • Paradise: [syurga] |
-| 585 | 30:41 - 30:42 | Jannah. | Jannah. | Jannah: [syurga (Jannah)] |
-| 586 | 30:43 - 30:50 | Allah says, "Those whose good deeds are more numerous, they will be the ones who succeed." So, yes, you have | Allah berfirman, "Mereka yang timbangan kebaikannya lebih berat, mereka itulah orang-orang yang berjaya." Jadi, ya, anda ada | Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • Those: [semua itu] • whose: [yang mana / milik siapa] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • are (asal: be): [adalah / berada] • more (asal: much / many): [lebih banyak] • numerous: [teramat banyak] • they: [mereka] • will: [akan] • be: [menjadi / berada] • the: [kata penentu (itu / si)] • ones (asal: one): [yang itu (jamak)] • who: [siapa / orang yang] • succeed: [mencapai kejayaan] • So: [jadi / sangat] • yes: [ya] • you: [awak / anda] • have: [ada / mempunyai] |
-| 587 | 30:50 - 30:51 | bad deeds. | amalan buruk. | bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] |
-| 588 | 30:51 - 30:52 | I have bad deeds. | Saya ada amalan buruk. | I: [saya / aku] • have: [ada / mempunyai] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] |
-| 589 | 30:52 - 30:53 | You have bad deeds. | Anda ada amalan buruk. | You: [awak / anda] • have: [ada / mempunyai] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] |
-| 590 | 30:53 - 30:54 | But guess what? | Tetapi teka apa? | But: [tetapi / tapi] • guess: [agak / meneka] • what: [apa / apakah] |
-| 591 | 30:54 - 30:56 | We have more good deeds than bad ones. | Kita mempunyai lebih banyak amalan kebaikan daripada amalan kejahatan. | We: [kami / kita] • have: [ada / mempunyai] • more (asal: much / many): [lebih banyak] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • than: [daripada] • bad: [teruk / buruk] • ones (asal: one): [yang itu (jamak)] |
-| 592 | 30:56 - 30:58 | That's what it is. | Itulah hakikatnya. | That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • it: [ia / itu] • is: [adalah / ialah] |
-| 593 | 30:58 - 31:03 | And we seek Allah's forgiveness as best we can for our bad deeds. | Dan kita memohon keampunan Allah sebaik mungkin atas amalan buruk kita. | And: [dan] • we: [kami / kita] • seek: [mencari / memohon] • Allah's: [milik Allah / kurniaan Allah] • forgiveness: [keampunan] • as: [seperti / sebagai] • best (asal: good): [baik / bagus] • can: [boleh / dapat] • for: [untuk / bagi] • our: [kami punya / kita punya] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] |
-| 594 | 31:03 - 31:05 | And Allah will erase them. | Dan Allah akan menghapuskannya. | And: [dan] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • erase: [menghapuskan / memadamkan] • them: [mereka] |
-| 595 | 31:05 - 31:08 | When you have more good deeds than bad ones, guess what happens? | Apabila anda mempunyai lebih banyak amalan kebaikan daripada kejahatan, teka apa yang berlaku? | When: [bila / apabila] • you: [awak / anda] • have: [ada / mempunyai] • more (asal: much / many): [lebih banyak] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • than: [daripada] • bad: [teruk / buruk] • ones (asal: one): [yang itu (jamak)] • guess: [agak / meneka] • what: [apa / apakah] • happens (asal: happen): [berlaku] |
-| 596 | 31:08 - 31:11 | You will succeed. | Anda akan beroleh kejayaan. | You: [awak / anda] • will: [akan] • succeed: [mencapai kejayaan] |
-| 597 | 31:15 - 31:20 | The hadith says, "Accompany your bad deed with good deeds, and it will be erased." Allahu Akbar. | Hadis menyatakan, "Iringilah perbuatan burukmu dengan perbuatan baik, nescaya ia akan menghapuskannya." Allahu Akbar. | The: [kata penentu (itu / si)] • hadith: [hadis Rasulullah] • says (asal: say): [cakap / berkata] • Accompany: [mengiringi / menyertai] • your: [awak punya / anda punya] • bad: [teruk / buruk] • deed: [amalan / perbuatan] • with: [dengan / bersama] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • and: [dan] • it: [ia / itu] • will: [akan] • be: [menjadi / berada] • erased (asal: erase): [memadam] • Allahu: [Allah] • Akbar: [Maha Besar] |
-| 598 | 31:20 - 31:20 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 599 | 31:21 - 31:23 | That is the mercy of Allah, the favor of Allah. | Itulah rahmat Allah, kurniaan Allah. | That: [itu / yang] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • mercy: [rahmat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] • favor: [nikmat / pertolongan] |
-| 600 | 31:23 - 31:27 | So, I want to invite you today to do as many good deeds as you can. | Maka, saya ingin mengajak anda hari ini untuk melakukan sebanyak mungkin amalan kebaikan. | So: [jadi / sangat] • I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • invite: [menjemput / mengajak] • you: [awak / anda] • today: [hari ini] • do: [buat / lakukan] • as: [seperti / sebagai] • many: [banyak] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • can: [boleh / dapat] |
-| 601 | 31:27 - 31:28 | Do you know why? | Tahukah anda mengapa? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • why: [mengapa / kenapa] |
-| 602 | 31:28 - 31:31 | Listen, you and I have many bad deeds that we are not proud of. | Dengarlah, anda dan saya mempunyai banyak amalan buruk yang langsung tidak kita banggakan. | Listen: [dengar] • you: [awak / anda] • and: [dan] • I: [saya / aku] • have: [ada / mempunyai] • many: [banyak] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] • that: [itu / yang] • we: [kami / kita] • are (asal: be): [adalah / berada] • not: [bukan / tidak] • proud: [bangga] • of: [daripada / tentang] |
-| 603 | 31:32 - 31:34 | You and I have many bad deeds. | Anda dan saya mempunyai banyak perbuatan dosa. | You: [awak / anda] • and: [dan] • I: [saya / aku] • have: [ada / mempunyai] • many: [banyak] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] |
-| 604 | 31:35 - 31:39 | We would be ashamed if people had to see what we have done in our lives. | Kita pasti akan merasa sangat malu sekiranya orang ramai dapat melihat apa yang telah kita lakukan dalam hidup kita. | We: [kami / kita] • would: [akan / sudi] • be: [menjadi / berada] • ashamed: [segan / berasa aib] • if: [jika / kalau] • people (asal: person): [orang ramai / manusia] • had (asal: have): [mempunyai / telah ada] • to: [ke / untuk] • see: [lihat / nampak / tengok] • what: [apa / apakah] • have: [ada / mempunyai] • done (asal: do): [buat / lakukan] • in: [dalam / di dalam] • our: [kami punya / kita punya] • lives (asal: life): [kehidupan] |
-| 605 | 31:39 - 31:39 | Do you agree? | Adakah anda bersetuju? | Do: [buat / lakukan] • you: [awak / anda] • agree: [setuju] |
-| 606 | 31:39 - 31:40 | All of us. | Kita semua begitu. | All: [semua / seluruh] • of: [daripada / tentang] • us: [kami / kita] |
-| 607 | 31:40 - 31:42 | We have so many secrets. | Kita mempunyai begitu banyak rahsia. | We: [kami / kita] • have: [ada / mempunyai] • so: [jadi / sangat] • many: [banyak] • secrets: [rahsia-rahsia tersembunyi] |
-| 608 | 31:42 - 31:44 | We have so many secrets. | Kita mempunyai terlalu banyak rahsia peribadi. | We: [kami / kita] • have: [ada / mempunyai] • so: [jadi / sangat] • many: [banyak] • secrets: [rahsia-rahsia tersembunyi] |
-| 609 | 31:44 - 31:47 | If Allah were not Merciful, it would expose us. | Sekiranya Allah tidak Maha Pengasih, sudah tentu Dia akan membuka aib kita. | If: [jika / kalau] • Allah: [Allah Subhanahu wa Ta'ala] • were (asal: be): [adalah / dulu berada] • not: [bukan / tidak] • Merciful: [Maha Pengasih lagi Maha Penyayang] • it: [ia / itu] • would: [akan / sudi] • expose: [mendedahkan aib] • us: [kami / kita] |
-| 610 | 31:47 - 31:50 | I'm sorry, I'm not trying to say I'm a bad person. | Maafkan saya, saya bukan cuba mengatakan bahawa saya seorang yang jahat. | I'm: [saya / saya sedang (singkatan 'I am')] • sorry: [maaf / memohon maaf] • not: [bukan / tidak] • trying (asal: try): [cuba / mencuba] • to: [ke / untuk] • say: [cakap / berkata] • a: [sebuah / seorang / satu] • bad: [teruk / buruk] • person: [orang / individu] |
-| 611 | 31:50 - 31:53 | But what I'm trying to say is that we all have sins. | Tetapi apa yang ingin saya sampaikan ialah kita semua pernah melakukan dosa. | But: [tetapi / tapi] • what: [apa / apakah] • I'm: [saya / saya sedang (singkatan 'I am')] • trying (asal: try): [cuba / mencuba] • to: [ke / untuk] • say: [cakap / berkata] • is: [adalah / ialah] • that: [itu / yang] • we: [kami / kita] • all: [semua / seluruh] • have: [ada / mempunyai] • sins: [dosa-dosa] |
-| 612 | 31:53 - 31:54 | We are sinners. | Kita semua insan yang berdosa. | We: [kami / kita] • are (asal: be): [adalah / berada] • sinners: [golongan pendosa] |
-| 613 | 31:54 - 31:55 | We are Banu Adam. | Kita adalah anak cucu Nabi Adam. | We: [kami / kita] • are (asal: be): [adalah / berada] • Banu: [keturunan / anak cucu] • Adam: [Nabi Adam a.s. / manusia] |
-| 614 | 31:55 - 31:56 | We are Bashar. | Kita hanyalah manusia biasa (basyar). | We: [kami / kita] • are (asal: be): [adalah / berada] • Bashar: [manusia biasa] |
-| 615 | 31:56 - 32:02 | How many of us have fallen asleep and missed a prayer for whatever reason? | Berapa ramai antara kita yang pernah terlelap tidur lalu terlepas waktu solat atas apa jua alasan? | How: [bagaimana / macam mana] • many: [banyak] • of: [daripada / tentang] • us: [kami / kita] • have: [ada / mempunyai] • fallen (asal: fall): [jatuh] • asleep: [tertidur / terlelap] • and: [dan] • missed (asal: miss): [rindu] • a: [sebuah / seorang / satu] • prayer: [solat / doa] • for: [untuk / bagi] • whatever: [apa jua / apa-apa pun] • reason: [sebab / alasan] |
-| 616 | 32:02 - 32:04 | May Allah never allow that to happen to us. | Semoga Allah tidak membiarkan perkara sedemikian berlaku kepada kita. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • never: [tidak pernah / tak pernah] • allow: [membenarkan / membolehkan] • that: [itu / yang] • to: [ke / untuk] • happen: [berlaku / terjadi] • us: [kami / kita] |
-| 617 | 32:04 - 32:06 | But it's a very heavy feeling. | Tetapi ia merupakan suatu perasaan yang amat berat. | But: [tetapi / tapi] • it's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • very: [sangat / amat] • heavy: [berat / membebankan] • feeling (asal: feel): [rasa / merasa] |
-| 618 | 32:06 - 32:11 | The good thing is that the Hadith says Salat or Nasya, whether it's Salat or the Quran. | Perkara yang melegakan ialah hadis menyebut tentang orang yang tertidur atau terlupa, sama ada tentang solat atau al-Quran. | The: [kata penentu (itu / si)] • good: [baik / bagus] • thing: [benda / perkara] • is: [adalah / ialah] • that: [itu / yang] • Hadith: [hadis Rasulullah] • says (asal: say): [cakap / berkata] • Salat: [solat] • or: [atau] • Nasya: [terlupa] • whether: [sama ada] • it's: [ia adalah / itu (singkatan 'it is/has')] • Quran: [Al-Quran] |
-| 619 | 32:12 - 32:18 | In a correct narration, the Prophet says that whoever falls asleep or forgets a prayer—sometimes forgetfulness | Dalam riwayat yang sahih, Rasulullah bersabda bahawa sesiapa yang tertidur atau terlupa menunaikan solat—kadangkala sifat lupa itu | In: [dalam / di dalam] • a: [sebuah / seorang / satu] • correct: [betul / tepat] • narration: [riwayat hadis / kisah] • the: [kata penentu (itu / si)] • Prophet: [Nabi / Rasul] • says (asal: say): [cakap / berkata] • that: [itu / yang] • whoever: [sesiapa sahaja] • falls (asal: fall): [jatuh] • asleep: [tertidur / terlelap] • or: [atau] • forgets (asal: forget): [terlupa] • prayer: [solat / doa] • sometimes: [kadang-kadang] • forgetfulness: [sifat pelupa / kealpaan] |
-| 620 | 32:19 - 32:19 | happens. | memang berlaku. | happens (asal: happen): [berlaku] |
-| 621 | 32:19 - 32:26 | Here in Aberdeen, one negative aspect is that at certain times of the year, the prayers fall at complicated | Di sini di Aberdeen, satu aspek cabarannya ialah pada waktu-waktu tertentu dalam setahun, waktu solat jatuh pada masa yang agak rumit, | Here: [di sini] • in: [dalam / di dalam] • Aberdeen: [Aberdeen (bandar di Scotland)] • one: [satu / seorang] • negative: [negatif / buruk] • aspect: [sudut / aspek] • is: [adalah / ialah] • that: [itu / yang] • at: [di / pada] • certain: [tertentu / yakin] • times (asal: time): [masa / waktu] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • year: [tahun] • prayers (asal: prayer): [solat] • fall: [jatuh / gugur] • complicated (asal: complicate): [merumitkan] |
-| 622 | 32:26 - 32:28 | times, difficult moments. | detik-detik yang mencabar. | times (asal: time): [masa / waktu] • difficult: [susah / sukar] • moments (asal: moment): [seketika] |
-| 623 | 32:28 - 32:34 | You do Fajr, then Dhuhr, and then you don't even know when Asr started and ended; before you know it, it's | Anda baru solat Subuh, kemudian Zuhur, dan selepas itu anda pun tidak perasan bila Asar bermula dan berakhir; sedar-sedar sahaja sudah masuk | You: [awak / anda] • do: [buat / lakukan] • Fajr: [subuh] • then: [kemudian / waktu itu] • Dhuhr: [solat fardu Zuhur] • and: [dan] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • know: [tahu / kenal] • when: [bila / apabila] • Asr: [solat Asar] • started (asal: start): [sudah bermula] • ended (asal: end): [hujung / tamat] • before: [sebelum] • it: [ia / itu] • it's: [ia adalah / itu (singkatan 'it is/has')] |
-| 624 | 32:34 - 32:38 | Maghrib, and then Maghrib and Isha, and you're confused about whether it's the same time or not. | Maghrib, dan kemudian antara Maghrib dan Isyak, anda berasa keliru sama ada ia berlaku pada waktu yang sama atau tidak. | Maghrib: [solat Maghrib] • and: [dan] • then: [kemudian / waktu itu] • Isha: [isyak] • you're: [anda / awak adalah (singkatan 'you are')] • confused (asal: confuse): [mengelirukan] • about: [tentang / sekitar] • whether: [sama ada] • it's: [ia adalah / itu (singkatan 'it is/has')] • the: [kata penentu (itu / si)] • same: [sama] • time: [masa / waktu] • or: [atau] • not: [bukan / tidak] |
-| 625 | 32:38 - 32:42 | Some scholars say you can pray these two together, and there's so much chaos. | Sebahagian ulama menyatakan anda boleh menjamakkan kedua-dua solat ini, dan timbul banyak kekeliruan. | Some: [beberapa / sedikit] • scholars: [para ulama] • say: [cakap / berkata] • you: [awak / anda] • can: [boleh / dapat] • pray: [berdoa / mendirikan solat] • these: [semua ini] • two: [dua] • together: [bersama-sama] • and: [dan] • there's: [ada / terdapat (singkatan 'there is')] • so: [jadi / sangat] • much: [banyak] • chaos: [kekecohan / huru-hara] |
-| 626 | 32:42 - 32:42 | And confusion. | Dan salah faham. | And: [dan] • confusion: [kekeliruan / kekusutan] |
-| 627 | 32:42 - 32:43 | How do we do it? | Bagaimanakah cara kita melaksanakannya? | How: [bagaimana / macam mana] • do: [buat / lakukan] • we: [kami / kita] • it: [ia / itu] |
-| 628 | 32:43 - 32:48 | Wallahi, we do the best we can and ask Allah to accept it and forgive our sins. | Wallahi, kita lakukan yang terbaik mengikut kemampuan kita dan memohon agar Allah menerimanya serta mengampunkan dosa-dosa kita. | Wallahi: [demi Allah] • we: [kami / kita] • do: [buat / lakukan] • the: [kata penentu (itu / si)] • best (asal: good): [baik / bagus] • can: [boleh / dapat] • and: [dan] • ask: [tanya / meminta] • Allah: [Allah Subhanahu wa Ta'ala] • to: [ke / untuk] • accept: [terima / menerima] • it: [ia / itu] • forgive: [mengampuni / memaafkan] • our: [kami punya / kita punya] • sins: [dosa-dosa] |
-| 629 | 32:48 - 32:53 | So, since I have done bad deeds and want to tip the scales in the right direction, how do I begin? | Jadi, memandangkan saya telah melakukan amalan buruk dan ingin memberatkan neraca timbangan ke arah kebaikan, bagaimanakah saya harus bermula? | So: [jadi / sangat] • since: [sejak / memandangkan] • I: [saya / aku] • have: [ada / mempunyai] • done (asal: do): [buat / lakukan] • bad: [teruk / buruk] • deeds (asal: deed): [amalan-amalan] • and: [dan] • want: [mahu / nak] • to: [ke / untuk] • tip: [mencondongkan timbangan] • the: [kata penentu (itu / si)] • scales (asal: scale): [neraca timbangan (mizan)] • in: [dalam / di dalam] • right: [betul / kanan / tepat] • direction: [arah] • how: [bagaimana / macam mana] • do: [buat / lakukan] • begin: [mula / bermula] |
-| 630 | 32:54 - 32:54 | I'll teach you something. | Saya akan ajarkan anda sesuatu. | I'll: [saya akan (singkatan 'I will')] • teach: [mengajar / mendidik] • you: [awak / anda] • something: [sesuatu] |
-| 631 | 32:54 - 32:56 | You begin by seeking Allah's forgiveness. | Anda bermula dengan memohon keampunan daripada Allah (istighfar). | You: [awak / anda] • begin: [mula / bermula] • by: [oleh / dengan / menjelang] • seeking (asal: seek): [mendambakan / mencari] • Allah's: [milik Allah / kurniaan Allah] • forgiveness: [keampunan] |
-| 632 | 32:56 - 32:58 | I | Saya | I: [saya / aku] |
-| 633 | 32:58 - 33:04 | once gave a talk at a school to some young people, some teenagers, and I told them: begin by seeking Allah's | pernah menyampaikan ceramah di sebuah sekolah kepada sekumpulan anak muda, beberapa remaja, dan saya berpesan kepada mereka: mulakan dengan memohon keampunan | once: [sekali / suatu ketika] • gave (asal: give): [beri / memberikan] • a: [sebuah / seorang / satu] • talk: [bercakap / berborak] • at: [di / pada] • school: [sekolah] • to: [ke / untuk] • some: [beberapa / sedikit] • young: [muda] • people (asal: person): [orang ramai / manusia] • teenagers (asal: teenager): [remaja-remaja] • and: [dan] • I: [saya / aku] • told (asal: tell): [memberitahu] • them: [mereka] • begin: [mula / bermula] • by: [oleh / dengan / menjelang] • seeking (asal: seek): [mendambakan / mencari] • Allah's: [milik Allah / kurniaan Allah] |
-| 634 | 33:04 - 33:05 | forgiveness. | daripada Allah. | forgiveness: [keampunan] |
-| 635 | 33:05 - 33:07 | They said, "We have not sinned." Why should we apologize? | Mereka berkata, "Kami tidak berbuat dosa. Mengapa kami perlu meminta maaf?" | They: [mereka] • said (asal: say): [cakap / berkata] • We: [kami / kita] • have: [ada / mempunyai] • not: [bukan / tidak] • sinned: [melakukan dosa] • Why: [mengapa / kenapa] • should: [patut / patutlah] • apologize: [memohon maaf] |
-| 636 | 33:07 - 33:10 | " I was like, 'Allahu Akbar. | Saya tergamam, 'Allahu Akbar. | I: [saya / aku] • was: [adalah / dulu berada] • like: [suka / seperti] • Allahu: [Allah] • Akbar: [Maha Besar] |
-| 637 | 33:10 - 33:10 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 638 | 33:11 - 33:12 | We haven't sinned. | Kami tidak berbuat dosa. | We: [kami / kita] • haven't: [belum / tidak ada (singkatan 'have not')] • sinned: [melakukan dosa] |
-| 639 | 33:12 - 33:15 | Why should I ask for forgiveness?' Wallahi, we do ask for forgiveness. | Mengapa saya perlu memohon ampun?' Wallahi, kita sememangnya wajib sentiasa memohon keampunan. | Why: [mengapa / kenapa] • should: [patut / patutlah] • I: [saya / aku] • ask: [tanya / meminta] • for: [untuk / bagi] • forgiveness: [keampunan] • Wallahi: [demi Allah] • we: [kami / kita] • do: [buat / lakukan] |
-| 640 | 33:15 - 33:16 | Do you know how you ask for forgiveness? | Tahukah anda bagaimana cara untuk memohon keampunan? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • how: [bagaimana / macam mana] • ask: [tanya / meminta] • for: [untuk / bagi] • forgiveness: [keampunan] |
-| 641 | 33:17 - 33:24 | 'Oh Allah, forgive me for the sins I know, the sins I don't know, the minor sins, the major sins, the sins | 'Ya Allah, ampunkanlah dosa-dosa yang aku ketahui, dosa-dosa yang tidak aku ketahui, dosa kecil, dosa besar, dosa | Oh: [wahai / oh] • Allah: [Allah Subhanahu wa Ta'ala] • forgive: [mengampuni / memaafkan] • me: [saya / aku] • for: [untuk / bagi] • the: [kata penentu (itu / si)] • sins: [dosa-dosa] • I: [saya / aku] • know: [tahu / kenal] • don't: [jangan / tidak (singkatan 'do not')] • minor: [kecil] • major: [besar / utama] |
-| 642 | 33:24 - 33:31 | I remember, the sins I don't remember, the sins I knew I committed, and the sins I committed without realizing | yang aku ingati, dosa yang tidak aku ingati, dosa yang aku sedar melakukannya, dan dosa yang aku lakukan tanpa aku sedari.' | I: [saya / aku] • remember: [ingat / mengingati] • the: [kata penentu (itu / si)] • sins: [dosa-dosa] • don't: [jangan / tidak (singkatan 'do not')] • knew (asal: know): [tahu / kenal] • committed (asal: commit): [komited] • and: [dan] • without: [tanpa] • realizing (asal: realize): [menyedari] |
-| 643 | 33:31 - 33:32 | it.' Allahu Akbar. | Allahu Akbar. | it: [ia / itu] • Allahu: [Allah] • Akbar: [Maha Besar] |
-| 644 | 33:32 - 33:34 | 'Wa astaghfiruka lima la a'lamuhu.' Allahu Akbar. | 'Wa astaghfiruka lima la a'lamuhu.' Allahu Akbar. | Wa: [dan] • astaghfiruka: [aku memohon keampunan-Mu] • lima: [terhadap apa yang] • la: [tiada] • a'lamuhu: [aku ketahuinya] • Allahu: [Allah] • Akbar: [Maha Besar] |
-| 645 | 33:34 - 33:37 | 'Oh Allah, I seek Your forgiveness for what I don't even know. | 'Ya Allah, aku memohon keampunan-Mu terhadap perkara yang langsung tidak aku ketahui. | Oh: [wahai / oh] • Allah: [Allah Subhanahu wa Ta'ala] • I: [saya / aku] • seek: [mencari / memohon] • Your: [awak punya / anda punya] • forgiveness: [keampunan] • for: [untuk / bagi] • what: [apa / apakah] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • know: [tahu / kenal] |
-| 646 | 33:37 - 33:40 | I'm not even aware of it.' | Yang aku sendiri tidak menyedarinya.' | I'm: [saya / saya sedang (singkatan 'I am')] • not: [bukan / tidak] • even: [malah / pun] • aware: [sedar / peka] • of: [daripada / tentang] • it: [ia / itu] |
-| 647 | 33:40 - 33:45 | Sometimes nowadays, you know how stressful the environment can be, you're walking down the street and you don't | Kadangkala pada zaman ini, anda tahu betapa tingginya tekanan persekitaran kita, anda berjalan di sepanjang jalan dan anda sendiri | Sometimes: [kadang-kadang] • nowadays: [zaman sekarang / pada masa kini] • you: [awak / anda] • know: [tahu / kenal] • how: [bagaimana / macam mana] • stressful: [penuh tekanan jiwa] • the: [kata penentu (itu / si)] • environment: [suasana / persekitaran] • can: [boleh / dapat] • be: [menjadi / berada] • you're: [anda / awak adalah (singkatan 'you are')] • walking (asal: walk): [berjalan] • down: [bawah / turun] • street: [jalan raya] • and: [dan] • don't: [jangan / tidak (singkatan 'do not')] |
-| 648 | 33:45 - 33:50 | even know, 'I look here, I look there, I look over there,' you know, 'I saw something I shouldn't have seen.' | tidak sedar, 'Saya memandang ke sini, memandang ke sana, memandang ke penjuru itu,' anda tahu, 'Saya ternampak sesuatu yang tidak sepatutnya saya lihat.' | even: [malah / pun] • know: [tahu / kenal] • I: [saya / aku] • look: [tengok / kelihatan] • here: [di sini] • there: [di sana / ada] • over: [atas / tamat / lebih] • you: [awak / anda] • saw (asal: see): [lihat / nampak / tengok] • something: [sesuatu] • shouldn't: [tidak patut / jangan (singkatan 'should not')] • have: [ada / mempunyai] • seen (asal: see): [lihat / nampak / tengok] |
-| 649 | 33:50 - 33:51 | What happened? | Apa yang berlaku? | What: [apa / apakah] • happened (asal: happen): [berlaku] |
-| 650 | 33:51 - 33:52 | You just kept walking. | Anda hanya terus berjalan begitu sahaja. | You: [awak / anda] • just: [hanya / sekadar / baru saja] • kept (asal: keep): [simpan / teruskan] • walking (asal: walk): [berjalan] |
-| 651 | 33:52 - 33:54 | Did you ever say, 'Astaghfirullah'? | Adakah anda pernah mengucapkan, 'Astaghfirullah'? | Did (asal: do): [telah buat / adakah] • you: [awak / anda] • ever: [pernah] • say: [cakap / berkata] • Astaghfirullah: [aku memohon ampun kepada Allah] |
-| 652 | 33:54 - 33:54 | No, I didn't. | Tidak, saya tidak mengucapkannya. | No: [tidak / tiada] • I: [saya / aku] • didn't: [tidak / tak (singkatan 'did not')] |
-| 653 | 33:55 - 33:55 | Why? | Mengapa? | Why: [mengapa / kenapa] |
-| 654 | 33:55 - 33:57 | Because everyone walks, everyone sees. | Kerana semua orang berjalan, semua orang melihat. | Because: [kerana / sebab] • everyone: [semua orang] • walks (asal: walk): [berjalan-jalan] • sees (asal: see): [lihat / nampak / tengok] |
-| 655 | 33:57 - 34:01 | And some people, you know, when they fear Allah, they look..." And they say astaghfirullah. | Dan sesetengah orang, anda tahu, apabila mereka takutkan Allah, mereka memandang..." Dan mereka beristighfar. | And: [dan] • some: [beberapa / sedikit] • people (asal: person): [orang ramai / manusia] • you: [awak / anda] • know: [tahu / kenal] • when: [bila / apabila] • they: [mereka] • fear: [ketakutan / takut] • Allah: [Allah Subhanahu wa Ta'ala] • look: [tengok / kelihatan] • say: [cakap / berkata] • astaghfirullah: [aku memohon ampun kepada Allah] |
-| 656 | 34:01 - 34:02 | They look down. | Mereka menundukkan pandangan ke bawah. | They: [mereka] • look: [tengok / kelihatan] • down: [bawah / turun] |
-| 657 | 34:02 - 34:06 | A little more intelligent, they look there, say la hawla wala quwwata illa billah, and look down. | Orang yang lebih bijak sedikit, mereka terpandang ke situ, lalu menyebut la hawla wa la quwwata illa billah, kemudian menundukkan pandangan. | A: [sebuah / seorang / satu] • little: [kecil / sedikit] • more (asal: much / many): [lebih banyak] • intelligent: [bijak / pintar] • they: [mereka] • look: [tengok / kelihatan] • there: [di sana / ada] • say: [cakap / berkata] • la: [tiada] • hawla: [daya] • wala: [dan tiada] • quwwata: [kekuatan] • illa: [melainkan] • billah: [dengan Allah] • and: [dan] • down: [bawah / turun] |
-| 658 | 34:07 - 34:12 | And the one who is even more intelligent, looks and says inshallah, and looks down. | Dan orang yang lebih bijak lagi, dia memandang dan menyebut insya-Allah, kemudian menundukkan pandangan. | And: [dan] • the: [kata penentu (itu / si)] • one: [satu / seorang] • who: [siapa / orang yang] • is: [adalah / ialah] • even: [malah / pun] • more (asal: much / many): [lebih banyak] • intelligent: [bijak / pintar] • looks (asal: look): [tengok / kelihatan] • says (asal: say): [cakap / berkata] • inshallah: [insya-Allah] • down: [bawah / turun] |
-| 659 | 34:12 - 34:13 | Allahu musta'an. | Allahu musta'an. | Allahu: [Allah] • musta'an: [tempat memohon pertolongan] |
-| 660 | 34:13 - 34:15 | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu: [cukuplah Allah bagi kami] • wa: [dan] • ni'mal: [sebaik-baik] • wakeel: [wakil / pelindung (Al-Wakil)] |
-| 661 | 34:15 - 34:16 | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu: [cukuplah Allah bagi kami] • wa: [dan] • ni'mal: [sebaik-baik] • wakeel: [wakil / pelindung (Al-Wakil)] |
-| 662 | 34:16 - 34:20 | I hope that inshallah is for something halal, not haram. | Saya berharap ucapan insya-Allah itu adalah untuk perkara yang halal, bukan perkara yang haram. | I: [saya / aku] • hope: [harapan / berharap] • that: [itu / yang] • inshallah: [insya-Allah] • is: [adalah / ialah] • for: [untuk / bagi] • something: [sesuatu] • halal: [halal (dibenarkan syarak)] • not: [bukan / tidak] • haram: [diharamkan / berdosa] |
-| 663 | 34:20 - 34:20 | Right? | Betul bukan? | Right: [betul / kanan / tepat] |
-| 664 | 34:21 - 34:22 | May Allah bless you. | Semoga Allah merahmati anda. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • bless: [merahmati / memberkati] • you: [awak / anda] |
-| 665 | 34:22 - 34:24 | May Allah Almighty bless you. | Semoga Allah Yang Maha Berkuasa merahmati anda. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • bless: [merahmati / memberkati] • you: [awak / anda] |
-| 666 | 34:24 - 34:28 | But nevertheless, in a more serious tone, sometimes the point I make is that sometimes we don't even realize | Namun demikian, dalam nada yang lebih serius, kadangkala perkara yang ingin saya tekankan ialah kadang-kadang kita langsung tidak menyedari | But: [tetapi / tapi] • nevertheless: [namun demikian] • in: [dalam / di dalam] • a: [sebuah / seorang / satu] • more (asal: much / many): [lebih banyak] • serious: [serius / bersungguh-sungguh] • tone: [nada suara] • sometimes: [kadang-kadang] • the: [kata penentu (itu / si)] • point: [tujuan / makna] • I: [saya / aku] • make: [buat / menghasilkan] • is: [adalah / ialah] • that: [itu / yang] • we: [kami / kita] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • realize: [menyedari / insaf] |
-| 667 | 34:28 - 34:33 | that we might have committed a minor sin, and sometimes we don't notice. | bahawa kita mungkin telah melakukan dosa kecil, dan adakalanya kita tidak menghiraukannya. | that: [itu / yang] • we: [kami / kita] • might: [mungkin / daya] • have: [ada / mempunyai] • committed (asal: commit): [komited] • a: [sebuah / seorang / satu] • minor: [kecil] • sin: [dosa] • and: [dan] • sometimes: [kadang-kadang] • don't: [jangan / tidak (singkatan 'do not')] • notice: [memerhatikan / menyedari] |
-| 668 | 34:33 - 34:38 | Say, ask Allah: " O Allah, forgive me for what I know and for what I don't know." When you seek Allah's | Sebutlah, pohonlah kepada Allah: "Ya Allah, ampunkanlah aku atas apa yang aku ketahui dan atas apa yang tidak aku ketahui." Apabila anda memohon | Say: [cakap / berkata] • ask: [tanya / meminta] • Allah: [Allah Subhanahu wa Ta'ala] • O: [wahai] • forgive: [mengampuni / memaafkan] • me: [saya / aku] • for: [untuk / bagi] • what: [apa / apakah] • I: [saya / aku] • know: [tahu / kenal] • and: [dan] • don't: [jangan / tidak (singkatan 'do not')] • When: [bila / apabila] • you: [awak / anda] • seek: [mencari / memohon] • Allah's: [milik Allah / kurniaan Allah] |
-| 669 | 34:38 - 34:40 | forgiveness, learn to be humble. | keampunan Allah, belajarlah untuk bersikap rendah diri. | forgiveness: [keampunan] • learn: [belajar] • to: [ke / untuk] • be: [menjadi / berada] • humble: [tawaduk / rendah diri] |
-| 670 | 34:40 - 34:42 | Learn to be humble. | Belajarlah untuk merendah diri (tawaduk). | Learn: [belajar] • to: [ke / untuk] • be: [menjadi / berada] • humble: [tawaduk / rendah diri] |
-| 671 | 34:42 - 34:50 | Your power, your authority, your money, your fame and popularity, your good looks, none of it That means nothing | Kekuasaan anda, autoriti anda, wang ringgit anda, kemasyhuran dan populariti anda, rupa paras anda yang tampan atau jelita, tiada satu pun daripadanya. Semua itu tidak bernilai | Your: [awak punya / anda punya] • power: [kuasa / elektrik] • authority: [autoriti / kekuasaan] • money: [wang / duit] • fame: [kemasyhuran / populariti] • and: [dan] • popularity: [populariti / kemasyhuran] • good: [baik / bagus] • looks (asal: look): [tengok / kelihatan] • none: [tiada satu pun] • of: [daripada / tentang] • it: [ia / itu] • That: [itu / yang] • means (asal: mean): [maksud / berniat] • nothing: [tiada apa-apa] |
-| 672 | 34:51 - 34:54 | in the sight of Allah. | di sisi Allah. | in: [dalam / di dalam] • the: [kata penentu (itu / si)] • sight: [pandangan mata] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 673 | 34:54 - 35:01 | In Allah ta'ala la janzur. | Inna Allaha ta'ala la yanzuru (Sesungguhnya Allah Taala tidak melihat). | In: [dalam / di dalam] • Allah: [Allah Subhanahu wa Ta'ala] • ta'ala: [Maha Tinggi] • la: [tiada] • janzur: [melihat / memandang] |
-| 674 | 35:01 - 35:04 | Allah does not look at those material elements or those external things. | Allah tidak memandang kepada unsur-unsur kebendaan atau perkara-perkara luaran tersebut. | Allah: [Allah Subhanahu wa Ta'ala] • does (asal: do): [buat / melakukan] • not: [bukan / tidak] • look: [tengok / kelihatan] • at: [di / pada] • those: [semua itu] • material: [kebendaan / fizikal] • elements (asal: element): [unsur] • or: [atau] • external: [luaran / zahir] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 675 | 35:04 - 35:09 | He does not look at your bodies, your forms, how you look, etc., etc. | Dia tidak memandang kepada susuk tubuh anda, rupa paras anda, kecantikan zahir anda, dan sebagainya. | He: [dia (lelaki)] • does (asal: do): [buat / melakukan] • not: [bukan / tidak] • look: [tengok / kelihatan] • at: [di / pada] • your: [awak punya / anda punya] • bodies (asal: body): [tubuh-tubuh badan] • forms (asal: form): [bentuk] • how: [bagaimana / macam mana] • you: [awak / anda] • etc: [dan sebagainya (dan lain-lain)] |
-| 676 | 35:09 - 35:12 | Allah looks at the heart, and Allah looks at your deeds. | Allah melihat kepada hati nurani, dan Allah melihat kepada amalan-amalan anda. | Allah: [Allah Subhanahu wa Ta'ala] • looks (asal: look): [tengok / kelihatan] • at: [di / pada] • the: [kata penentu (itu / si)] • heart: [hati] • and: [dan] • your: [awak punya / anda punya] • deeds (asal: deed): [amalan-amalan] |
-| 677 | 35:12 - 35:17 | And when we say that Allah looks at the heart, Satan comes along and keeps telling you that Allah looks at | Dan apabila kita menyatakan bahawa Allah melihat kepada hati, syaitan pun datang dan terus-menerus membisikkan kepada anda bahawa Allah hanya melihat | And: [dan] • when: [bila / apabila] • we: [kami / kita] • say: [cakap / berkata] • that: [itu / yang] • Allah: [Allah Subhanahu wa Ta'ala] • looks (asal: look): [tengok / kelihatan] • at: [di / pada] • the: [kata penentu (itu / si)] • heart: [hati] • Satan: [syaitan] • comes (asal: come): [datang / mari] • along: [sepanjang / bersama] • keeps (asal: keep): [mengekalkan / menyimpan] • telling (asal: tell): [memberitahu] • you: [awak / anda] |
-| 678 | 35:17 - 35:18 | the heart. | kepada hati. | the: [kata penentu (itu / si)] • heart: [hati] |
-| 679 | 35:18 - 35:20 | You might ask yourself, well, that's a true statement. | Anda mungkin tertanya-tanya pada diri sendiri, benarlah kenyataan itu. | You: [awak / anda] • might: [mungkin / daya] • ask: [tanya / meminta] • yourself: [diri anda] • well: [baiklah / elok / telaga] • that's: [itu adalah / itu (singkatan 'that is')] • a: [sebuah / seorang / satu] • true: [benar] • statement: [kenyataan / ulasan] |
-| 680 | 35:20 - 35:22 | It is a true statement, but Satan is too cunning. | Ia memang suatu kenyataan yang benar, tetapi syaitan sangat licik. | It: [ia / itu] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • true: [benar] • statement: [kenyataan / ulasan] • but: [tetapi / tapi] • Satan: [syaitan] • too: [juga / terlalu] • cunning: [licik / penuh tipu muslihat] |
-| 681 | 35:23 - 35:24 | Do you know what he does? | Tahukah anda apa yang dia lakukan? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • he: [dia (lelaki)] • does (asal: do): [buat / melakukan] |
-| 682 | 35:24 - 35:28 | He says, "Listen, Allah doesn't look at your body, your soul, or anything." "He looks at your heart." And | Dia berkata, "Dengarlah, Allah tidak memandang tubuhmu, rohmu, atau apa pun." "Dia hanya memandang hatimu." Dan | He: [dia (lelaki)] • says (asal: say): [cakap / berkata] • Listen: [dengar] • Allah: [Allah Subhanahu wa Ta'ala] • doesn't: [tidak / tak (singkatan 'does not')] • look: [tengok / kelihatan] • at: [di / pada] • your: [awak punya / anda punya] • body: [badan / tubuh] • soul: [jiwa] • or: [atau] • anything: [apa-apa pun / sebarang perkara] • looks (asal: look): [tengok / kelihatan] • heart: [hati] • And: [dan] |
-| 683 | 35:28 - 35:31 | he keeps repeating that He looks at your heart. | dia terus mengulang-ulang bahawa Allah hanya melihat hatimu. | he: [dia (lelaki)] • keeps (asal: keep): [mengekalkan / menyimpan] • repeating (asal: repeat): [ulang] • that: [itu / yang] • looks (asal: look): [tengok / kelihatan] • at: [di / pada] • your: [awak punya / anda punya] • heart: [hati] |
-| 684 | 35:31 - 35:38 | Then you start to sin, and when someone advises you, you say, "Shut up." "Allah knows my heart." Ah, where | Kemudian anda mula melakukan maksiat, dan apabila seseorang memberi nasihat, anda berkata, "Diamlah." "Allah tahu apa yang ada dalam hati saya." Ah, dari mana | Then: [kemudian / waktu itu] • you: [awak / anda] • start: [mula / memulakan] • to: [ke / untuk] • sin: [dosa] • and: [dan] • when: [bila / apabila] • someone: [seseorang] • advises: [memberi nasihat] • say: [cakap / berkata] • Shut: [tutup / diam] • up: [atas / naik] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • my: [saya punya / kepunyaan saya] • heart: [hati] • Ah: [ah / oh] • where: [di mana] |
-| 685 | 35:38 - 35:40 | did you get that from? | anda belajar alasan itu? | did (asal: do): [telah buat / adakah] • you: [awak / anda] • get: [dapat / mengambil] • that: [itu / yang] • from: [dari / daripada] |
-| 686 | 35:40 - 35:41 | From Satan, who else? | Daripada syaitan, siapa lagi? | From: [dari / daripada] • Satan: [syaitan] • who: [siapa / orang yang] • else: [lain] |
-| 687 | 35:41 - 35:45 | Because it 's a Kalimatul Haqqin. | Kerana itu adalah Kalimatul Haqqin (kalimah yang benar). | Because: [kerana / sebab] • it: [ia / itu] • s: [saf solat] • a: [sebuah / seorang / satu] • Kalimatul: [kalimah / perkataan] • Haqqin: [kebenaran yang hakiki] |
-| 688 | 35:45 - 35:49 | It's a true statement, but your intention is false. | Ia adalah kenyataan yang benar, tetapi niat anda menggunakannya adalah salah. | It's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • true: [benar] • statement: [kenyataan / ulasan] • but: [tetapi / tapi] • your: [awak punya / anda punya] • intention: [niat di dalam hati] • is: [adalah / ialah] • false: [palsu / salah] |
-| 689 | 35:49 - 35:54 | Isn't it my duty to advise you, my dear sister, my dear brother? | Bukankah kewajipan saya untuk saling menasihati, wahai saudariku dan saudaraku yang dikasihi? | Isn't: [bukan / tidak (singkatan 'is not')] • it: [ia / itu] • my: [saya punya / kepunyaan saya] • duty: [kewajipan / tanggungjawab] • to: [ke / untuk] • advise: [menasihati / menegur] • you: [awak / anda] • dear: [yang dikasihi / yang disayangi] • sister: [saudara perempuan] • brother: [saudara lelaki] |
-| 690 | 35:54 - 35:56 | We need to learn how to dress appropriately. | Kita perlu belajar cara berpakaian dengan sopan dan menutup aurat. | We: [kami / kita] • need: [perlu / memerlukan] • to: [ke / untuk] • learn: [belajar] • how: [bagaimana / macam mana] • dress: [berpakaian / gaun] • appropriately: [secara wajar / sesuai] |
-| 691 | 35:57 - 35:59 | Notice how I included the brothers. | Perhatikan bagaimana saya turut menyertakan kaum lelaki. | Notice: [memerhatikan / menyedari] • how: [bagaimana / macam mana] • I: [saya / aku] • included (asal: include): [termasuk] • the: [kata penentu (itu / si)] • brothers (asal: brother): [saudara-saudara] |
-| 692 | 35:59 - 36:02 | Because it's very unfair to point the finger only at the sisters. | Kerana adalah sangat tidak adil untuk menuding jari hanya kepada kaum wanita sahaja. | Because: [kerana / sebab] • it's: [ia adalah / itu (singkatan 'it is/has')] • very: [sangat / amat] • unfair: [tidak adil] • to: [ke / untuk] • point: [tujuan / makna] • the: [kata penentu (itu / si)] • finger: [jari] • only: [hanya / sahaja] • at: [di / pada] • sisters (asal: sister): [saudari-saudari] |
-| 693 | 36:02 - 36:04 | No, we are all guilty. | Tidak, kita semua ada kesilapan. | No: [tidak / tiada] • we: [kami / kita] • are (asal: be): [adalah / berada] • all: [semua / seluruh] • guilty: [berasa bersalah] |
-| 694 | 36:05 - 36:09 | Sometimes, some of the brothers wear clothes that are more shameful than all the sisters combined. | Kadangkala, sebahagian kaum lelaki memakai pakaian yang lebih mengaibkan berbanding semua wanita jika digabungkan. | Sometimes: [kadang-kadang] • some: [beberapa / sedikit] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • brothers (asal: brother): [saudara-saudara] • wear: [memakai pakaian] • clothes (asal: clothe): [pakaian / baju] • that: [itu / yang] • are (asal: be): [adalah / berada] • more (asal: much / many): [lebih banyak] • shameful: [memalukan / menjatuhkan maruah] • than: [daripada] • all: [semua / seluruh] • sisters (asal: sister): [saudari-saudari] • combined (asal: combine): [menggabungkan] |
-| 695 | 36:09 - 36:20 | Because you come to the mosque, and you do sujud, look, people are already saying hasbunallah wa ni'mal wakeel. | Kerana anda datang ke masjid, dan anda sujud, lihatlah, jemaah sudah mula menyebut hasbunallah wa ni'mal wakeel. | Because: [kerana / sebab] • you: [awak / anda] • come: [datang / mari] • to: [ke / untuk] • the: [kata penentu (itu / si)] • mosque: [masjid / rumah Allah] • and: [dan] • do: [buat / lakukan] • sujud: [bersujud / tunduk menyembah Allah] • look: [tengok / kelihatan] • people (asal: person): [orang ramai / manusia] • are (asal: be): [adalah / berada] • already: [sudah / telah pun] • saying (asal: say): [cakap / berkata] • hasbunallah: [cukuplah Allah bagi kami] • wa: [dan] • ni'mal: [sebaik-baik] • wakeel: [wakil / pelindung (Al-Wakil)] |
-| 696 | 36:20 - 36:21 | Why? | Mengapa? | Why: [mengapa / kenapa] |
-| 697 | 36:21 - 36:27 | Brother, I don't even want to use the word "shame" in the mosque. | Saudaraku, saya sendiri tidak tergamak mahu menggunakan perkataan "aib" di dalam masjid. | Brother: [saudara lelaki] • I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • want: [mahu / nak] • to: [ke / untuk] • use: [guna / menggunakan] • the: [kata penentu (itu / si)] • word: [perkataan] • shame: [keaiban / perasaan malu] • in: [dalam / di dalam] • mosque: [masjid / rumah Allah] |
-| 698 | 36:27 - 36:33 | But you and I know it's very shameful, and no one talks about the men. | Tetapi anda dan saya tahu ia sangat memalukan, dan tiada siapa yang menegur tentang kaum lelaki. | But: [tetapi / tapi] • you: [awak / anda] • and: [dan] • I: [saya / aku] • know: [tahu / kenal] • it's: [ia adalah / itu (singkatan 'it is/has')] • very: [sangat / amat] • shameful: [memalukan / menjatuhkan maruah] • no: [tidak / tiada] • one: [satu / seorang] • talks (asal: talk): [bercakap / berborak] • about: [tentang / sekitar] • the: [kata penentu (itu / si)] • men (asal: man): [lelaki (jamak)] |
-| 699 | 36:33 - 36:35 | My brother, you need to dress appropriately. | Wahai saudaraku, anda perlu berpakaian dengan sopan dan sempurna. | My: [saya punya / kepunyaan saya] • brother: [saudara lelaki] • you: [awak / anda] • need: [perlu / memerlukan] • to: [ke / untuk] • dress: [berpakaian / gaun] • appropriately: [secara wajar / sesuai] |
-| 700 | 36:35 - 36:37 | You must take care of your dress code. | Anda wajib menjaga etika berpakaian anda. | You: [awak / anda] • must: [mesti / wajib] • take: [ambil / memerlukan masa] • care: [peduli / prihatin] • of: [daripada / tentang] • your: [awak punya / anda punya] • dress: [berpakaian / gaun] • code: [kod etika / panduan] |
-| 701 | 36:37 - 36:39 | You are very busy worrying about all the sisters. | Anda terlalu sibuk merisaukan tentang semua saudari wanita. | You: [awak / anda] • are (asal: be): [adalah / berada] • very: [sangat / amat] • busy: [sibuk] • worrying (asal: worry): [risau] • about: [tentang / sekitar] • all: [semua / seluruh] • the: [kata penentu (itu / si)] • sisters (asal: sister): [saudari-saudari] |
-| 702 | 36:40 - 36:43 | Yes, we are, but We care about our brothers and sisters. | Ya, memang benar, tetapi kita mengambil berat tentang saudara dan saudari kita. | Yes: [ya] • we: [kami / kita] • are (asal: be): [adalah / berada] • but: [tetapi / tapi] • care: [peduli / prihatin] • about: [tentang / sekitar] • our: [kami punya / kita punya] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] |
-| 703 | 36:43 - 36:45 | We care about everyone, including myself. | Kita mengambil berat tentang semua orang, termasuk diri saya sendiri. | We: [kami / kita] • care: [peduli / prihatin] • about: [tentang / sekitar] • everyone: [semua orang] • including (asal: include): [termasuklah] • myself: [diri saya sendiri] |
-| 704 | 36:45 - 36:47 | If I'm wrong, correct me. | Sekiranya saya salah, tegurlah saya. | If: [jika / kalau] • I'm: [saya / saya sedang (singkatan 'I am')] • wrong: [salah] • correct: [betul / tepat] • me: [saya / aku] |
-| 705 | 36:47 - 36:49 | I deserve it. | Saya memang layak ditegur. | I: [saya / aku] • deserve: [layak / berhak menerima] • it: [ia / itu] |
-| 706 | 36:49 - 36:53 | If I feel bad because I'm corrected, I'm not going to get anywhere. | Jika saya berasa tersinggung kerana ditegur, saya tidak akan ke mana-mana. | If: [jika / kalau] • I: [saya / aku] • feel: [rasa / merasa] • bad: [teruk / buruk] • because: [kerana / sebab] • I'm: [saya / saya sedang (singkatan 'I am')] • corrected (asal: correct): [betul / tepat] • not: [bukan / tidak] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • get: [dapat / mengambil] • anywhere: [ke mana-mana pun] |
-| 707 | 36:53 - 36:58 | If you're a person who feels bad when someone corrects you, you're not going to get anywhere in life. | Jika anda seorang yang mudah berasa kecil hati apabila ditegur oleh orang lain, anda tidak akan berjaya dalam hidup. | If: [jika / kalau] • you're: [anda / awak adalah (singkatan 'you are')] • a: [sebuah / seorang / satu] • person: [orang / individu] • who: [siapa / orang yang] • feels (asal: feel): [terasa / rasanya] • bad: [teruk / buruk] • when: [bila / apabila] • someone: [seseorang] • corrects (asal: correct): [betul / tepat] • you: [awak / anda] • not: [bukan / tidak] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • get: [dapat / mengambil] • anywhere: [ke mana-mana pun] • in: [dalam / di dalam] • life: [kehidupan] |
-| 708 | 36:58 - 37:03 | If they were right and you were wrong, wallahi, there's a chance you'll fail. | Sekiranya teguran mereka itu benar dan anda yang silap, wallahi, ada kemungkinan besar anda akan kecundang. | If: [jika / kalau] • they: [mereka] • were (asal: be): [adalah / dulu berada] • right: [betul / kanan / tepat] • and: [dan] • you: [awak / anda] • wrong: [salah] • wallahi: [demi Allah] • there's: [ada / terdapat (singkatan 'there is')] • a: [sebuah / seorang / satu] • chance: [peluang / kebarangkalian] • you'll: [anda akan / awak akan (singkatan 'you will')] • fail: [gagal / kecundang] |
-| 709 | 37:03 - 37:07 | Imagine you say that 1 + 1 is 3 and you spend your life saying that. | Bayangkan anda mendakwa bahawa 1 + 1 adalah 3 dan anda menghabiskan hidup anda dengan mengatakan perkara itu. | Imagine: [bayangkan] • you: [awak / anda] • say: [cakap / berkata] • that: [itu / yang] • is: [adalah / ialah] • and: [dan] • spend: [luangkan / belanjakan] • your: [awak punya / anda punya] • life: [kehidupan] • saying (asal: say): [cakap / berkata] |
-| 710 | 37:07 - 37:12 | A guy comes up to you: "Habibi, let me tell you, it 's two." Allah knows my heart. | Seseorang datang kepada anda: "Wahai sahabatku, biar saya beritahu anda, jawapannya adalah dua." Lalu anda jawab: "Allah tahu isi hati saya." | A: [sebuah / seorang / satu] • guy: [lelaki / orang itu] • comes (asal: come): [datang / mari] • up: [atas / naik] • to: [ke / untuk] • you: [awak / anda] • Habibi: [wahai sahabatku / kekasihku] • let: [biarkan / membenarkan] • me: [saya / aku] • tell: [beritahu / khabarkan] • it: [ia / itu] • s: [saf solat] • two: [dua] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • my: [saya punya / kepunyaan saya] • heart: [hati] |
-| 711 | 37:12 - 37:14 | How can you say that? | Bagaimanakah anda boleh berkata begitu? | How: [bagaimana / macam mana] • can: [boleh / dapat] • you: [awak / anda] • say: [cakap / berkata] • that: [itu / yang] |
-| 712 | 37:14 - 37:15 | I 'm just telling you. | Saya sekadar memberitahu perkara yang betul. | I: [saya / aku] • m: [huruf M / singkatan] • just: [hanya / sekadar / baru saja] • telling (asal: tell): [memberitahu] • you: [awak / anda] |
-| 713 | 37:15 - 37:19 | So, when you take your test and you write that 1 + 1 is 3, you have to write underneath: Allah knows my | Jadi, apabila anda mengambil peperiksaan dan anda menulis bahawa 1 + 1 adalah 3, anda terpaksa menulis di bawahnya: Allah tahu isi | So: [jadi / sangat] • when: [bila / apabila] • you: [awak / anda] • take: [ambil / memerlukan masa] • your: [awak punya / anda punya] • test: [ujian] • and: [dan] • write: [mencatatkan / menulis] • that: [itu / yang] • is: [adalah / ialah] • have: [ada / mempunyai] • to: [ke / untuk] • underneath: [di bawahnya] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • my: [saya punya / kepunyaan saya] |
-| 714 | 37:19 - 37:19 | heart. | hati saya. | heart: [hati] |
-| 715 | 37:19 - 37:23 | No matter how many times you write that, you'll get a grade for being wrong. | Tidak kira berapa kali pun anda menulis begitu, anda tetap akan diberi markah gagal kerana ia adalah salah. | No: [tidak / tiada] • matter: [hal / perkara penting] • how: [bagaimana / macam mana] • many: [banyak] • times (asal: time): [masa / waktu] • you: [awak / anda] • write: [mencatatkan / menulis] • that: [itu / yang] • you'll: [anda akan / awak akan (singkatan 'you will')] • get: [dapat / mengambil] • a: [sebuah / seorang / satu] • grade: [gred / markah penilaian] • for: [untuk / bagi] • being (asal: be): [makhluk / insan] • wrong: [salah] |
-| 716 | 37:23 - 37:25 | That's what we're doing in our lives. | Itulah apa yang sedang kita lakukan dalam kehidupan kita seharian. | That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • we're: [kami / kita sedang (singkatan 'we are')] • doing (asal: do): [buat / lakukan] • in: [dalam / di dalam] • our: [kami punya / kita punya] • lives (asal: life): [kehidupan] |
-| 717 | 37:25 - 37:28 | Someone says to you: "You know what?" "This is haram." What do you mean by haram? | Seseorang berkata kepada anda: "Tahukah anda?" "Perkara ini haram." Apa maksud anda dengan haram? | Someone: [seseorang] • says (asal: say): [cakap / berkata] • to: [ke / untuk] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • This: [ini] • is: [adalah / ialah] • haram: [diharamkan / berdosa] • do: [buat / lakukan] • mean: [maksud / berniat] • by: [oleh / dengan / menjelang] |
-| 718 | 37:28 - 37:29 | Allah knows my heart. | "Allah tahu apa yang ada dalam hati saya." | Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • my: [saya punya / kepunyaan saya] • heart: [hati] |
-| 719 | 37:29 - 37:31 | So, we're eating pork, Allah knows your heart. | Jadi, kita makan daging babi, Allah tahu isi hati anda. | So: [jadi / sangat] • we're: [kami / kita sedang (singkatan 'we are')] • eating (asal: eat): [makan] • pork: [daging babi] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • your: [awak punya / anda punya] • heart: [hati] |
-| 720 | 37:31 - 37:32 | You're consuming interest, Allah knows your heart. | Anda memakan riba, Allah tahu isi hati anda. | You're: [anda / awak adalah (singkatan 'you are')] • consuming (asal: consume): [memakan] • interest: [minat / keazaman] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • your: [awak punya / anda punya] • heart: [hati] |
-| 721 | 37:32 - 37:35 | You're not dressing properly, Allah knows your heart. | Anda tidak berpakaian dengan sopan, Allah tahu isi hati anda. | You're: [anda / awak adalah (singkatan 'you are')] • not: [bukan / tidak] • dressing (asal: dress): [berpakaian] • properly: [dengan betul / sebaiknya] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • your: [awak punya / anda punya] • heart: [hati] |
-| 722 | 37:35 - 37:37 | You're selling alcohol, Allah knows your heart. | Anda menjual arak, Allah tahu isi hati anda. | You're: [anda / awak adalah (singkatan 'you are')] • selling (asal: sell): [jual] • alcohol: [arak / alkohol] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • your: [awak punya / anda punya] • heart: [hati] |
-| 723 | 37:38 - 37:40 | You're doing everything else, Allah knows your heart. | Anda melakukan segala perkara mungkar yang lain, lalu berdalih Allah tahu isi hati anda. | You're: [anda / awak adalah (singkatan 'you are')] • doing (asal: do): [buat / lakukan] • everything: [segalanya / semua perkara] • else: [lain] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • your: [awak punya / anda punya] • heart: [hati] |
-| 724 | 37:40 - 37:41 | What's the point of Islam? | Jika begitu, apakah gunanya ajaran Islam? | What's: [apa / apakah (singkatan 'what is/has')] • the: [kata penentu (itu / si)] • point: [tujuan / makna] • of: [daripada / tentang] • Islam: [agama Islam] |
-| 725 | 37:41 - 37:43 | Allah knows the heart, everyone's heart. | Allah Maha Mengetahui isi hati, isi hati setiap insan. | Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • the: [kata penentu (itu / si)] • heart: [hati] • everyone's: [semua orang punya] |
-| 726 | 37:43 - 37:48 | That's why I say, don't be deceived by Satan's statement. | Sebab itulah saya katakan, janganlah terpedaya dengan perangkap syaitan. | That's: [itu adalah / itu (singkatan 'that is')] • why: [mengapa / kenapa] • I: [saya / aku] • say: [cakap / berkata] • don't: [jangan / tidak (singkatan 'do not')] • be: [menjadi / berada] • deceived (asal: deceive): [terpedaya / tertipu] • by: [oleh / dengan / menjelang] • Satan's: [hasutan syaitan] • statement: [kenyataan / ulasan] |
-| 727 | 37:48 - 37:50 | What does he tell you? | Apakah yang syaitan bisikkan kepada anda? | What: [apa / apakah] • does (asal: do): [buat / melakukan] • he: [dia (lelaki)] • tell: [beritahu / khabarkan] • you: [awak / anda] |
-| 728 | 37:50 - 37:53 | He tells you that the Hadith is correct. | Dia memberitahu anda bahawa hadis itu adalah benar. | He: [dia (lelaki)] • tells (asal: tell): [beritahu / khabarkan] • you: [awak / anda] • that: [itu / yang] • the: [kata penentu (itu / si)] • Hadith: [hadis Rasulullah] • is: [adalah / ialah] • correct: [betul / tepat] |
-| 729 | 37:53 - 37:56 | Allah looks at your hearts and your actions. | Allah melihat kepada hati kamu dan amalan perbuatan kamu. | Allah: [Allah Subhanahu wa Ta'ala] • looks (asal: look): [tengok / kelihatan] • at: [di / pada] • your: [awak punya / anda punya] • hearts (asal: heart): [hati] • and: [dan] • actions (asal: action): [tindakan / aksi] |
-| 730 | 37:57 - 38:00 | He notices how they go hand in hand. | Perhatikan bagaimana kedua-dua perkara itu saling bergandingan. | He: [dia (lelaki)] • notices (asal: notice): [perasan] • how: [bagaimana / macam mana] • they: [mereka] • go: [pergi] • hand: [tangan] • in: [dalam / di dalam] |
-| 731 | 38:00 - 38:03 | Don't just say one without the other. | Jangan hanya menyebut satu perkara tanpa perkara yang satu lagi. | Don't: [jangan / tidak (singkatan 'do not')] • just: [hanya / sekadar / baru saja] • say: [cakap / berkata] • one: [satu / seorang] • without: [tanpa] • the: [kata penentu (itu / si)] • other: [lain] |
-| 732 | 38:03 - 38:05 | Don't just say heart without actions. | Jangan hanya menyebut tentang hati tanpa amalan zahir. | Don't: [jangan / tidak (singkatan 'do not')] • just: [hanya / sekadar / baru saja] • say: [cakap / berkata] • heart: [hati] • without: [tanpa] • actions (asal: action): [tindakan / aksi] |
-| 733 | 38:05 - 38:09 | Because that Hadith didn't just mention the heart, and it didn't just mention the actions. | Kerana hadis tersebut bukan hanya menyebut tentang hati semata-mata, dan ia juga bukan hanya menyebut tentang amalan semata-mata. | Because: [kerana / sebab] • that: [itu / yang] • Hadith: [hadis Rasulullah] • didn't: [tidak / tak (singkatan 'did not')] • just: [hanya / sekadar / baru saja] • mention: [menyebut / menyatakan] • the: [kata penentu (itu / si)] • heart: [hati] • and: [dan] • it: [ia / itu] • actions (asal: action): [tindakan / aksi] |
-| 734 | 38:09 - 38:10 | It mentioned both. | Hadis itu menyebut kedua-duanya sekali. | It: [ia / itu] • mentioned (asal: mention): [menyebut] • both: [kedua-dua] |
-| 735 | 38:10 - 38:17 | And from there, some of the Muhadditheen have explained that Allah looks at your heart and your action to | Dan daripada situ, sebahagian ahli hadis (Muhaddithin) telah menjelaskan bahawa Allah melihat kepada hati dan amalan anda untuk | And: [dan] • from: [dari / daripada] • there: [di sana / ada] • some: [beberapa / sedikit] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • Muhadditheen: [para ahli hadis] • have: [ada / mempunyai] • explained (asal: explain): [terangkan] • that: [itu / yang] • Allah: [Allah Subhanahu wa Ta'ala] • looks (asal: look): [tengok / kelihatan] • at: [di / pada] • your: [awak punya / anda punya] • heart: [hati] • action: [tindakan / perbuatan] • to: [ke / untuk] |
-| 736 | 38:17 - 38:19 | see the intention behind the action. | melihat niat di sebalik amalan tersebut. | see: [lihat / nampak / tengok] • the: [kata penentu (itu / si)] • intention: [niat di dalam hati] • behind: [di belakang] • action: [tindakan / perbuatan] |
-| 737 | 38:19 - 38:28 | And if the action is wrong and the heart is misplaced, in the wrong place, you have completely lost. | Dan sekiranya amalan itu salah dan hati pula tersasar di tempat yang salah, anda telah mengalami kerugian sepenuhnya. | And: [dan] • if: [jika / kalau] • the: [kata penentu (itu / si)] • action: [tindakan / perbuatan] • is: [adalah / ialah] • wrong: [salah] • heart: [hati] • misplaced: [salah letak / tersasar] • in: [dalam / di dalam] • place: [tempat / kedudukan] • you: [awak / anda] • have: [ada / mempunyai] • completely: [sepenuhnya / langsung] • lost (asal: lose): [kalah] |
-| 738 | 38:28 - 38:30 | But Allah sees both of them. | Namun Allah melihat kedua-duanya sekali. | But: [tetapi / tapi] • Allah: [Allah Subhanahu wa Ta'ala] • sees (asal: see): [lihat / nampak / tengok] • both: [kedua-dua] • of: [daripada / tentang] • them: [mereka] |
-| 739 | 38:30 - 38:34 | You need to perform your salah, and Allah will help and guide you. | Anda perlu mendirikan solat anda, dan Allah akan membantu serta membimbing anda. | You: [awak / anda] • need: [perlu / memerlukan] • to: [ke / untuk] • perform: [mendirikan / menunaikan] • your: [awak punya / anda punya] • salah: [solat] • and: [dan] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • help: [bantu / tolong] • guide: [membimbing / memandu] |
-| 740 | 38:34 - 38:40 | If I see someone performing salah in the mosque and I go in, I can't say, " Look at this guy, he's showing | Jika saya melihat seseorang sedang mendirikan solat di dalam masjid dan saya masuk, saya tidak boleh berkata, "Lihatlah orang ini, dia sedang menunjuk-nunjuk | If: [jika / kalau] • I: [saya / aku] • see: [lihat / nampak / tengok] • someone: [seseorang] • performing (asal: perform): [melaksanakan] • salah: [solat] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • mosque: [masjid / rumah Allah] • and: [dan] • go: [pergi] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • say: [cakap / berkata] • Look: [tengok / kelihatan] • at: [di / pada] • this: [ini] • guy: [lelaki / orang itu] • he's: [dia adalah / dia (singkatan 'he is/has')] • showing (asal: show): [tunjuk / menunjukkan] |
-| 741 | 38:40 - 38:42 | off." How do I know he's showing off? | (ria')." Bagaimana saya boleh tahu dia sedang menunjuk-nunjuk? | off: [padam / mati / lepas] • How: [bagaimana / macam mana] • do: [buat / lakukan] • I: [saya / aku] • know: [tahu / kenal] • he's: [dia adalah / dia (singkatan 'he is/has')] • showing (asal: show): [tunjuk / menunjukkan] |
-| 742 | 38:42 - 38:43 | It's an act. | Itu adalah suatu amalan ibadah. | It's: [ia adalah / itu (singkatan 'it is/has')] • an: [sebuah / seorang / satu] • act: [bertindak / kelakuan] |
-| 743 | 38:43 - 38:44 | Allah knows his heart. | Allah Maha Mengetahui isi hatinya. | Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • his: [miliknya / kepunyaan dia] • heart: [hati] |
-| 744 | 38:45 - 38:47 | In that case, it's correct to say that Allah knows the heart of man. | Dalam situasi seperti itu, barulah tepat untuk dikatakan bahawa Allah Maha Mengetahui isi hati manusia. | In: [dalam / di dalam] • that: [itu / yang] • case: [kes / keadaan] • it's: [ia adalah / itu (singkatan 'it is/has')] • correct: [betul / tepat] • to: [ke / untuk] • say: [cakap / berkata] • Allah: [Allah Subhanahu wa Ta'ala] • knows (asal: know): [tahu / kenal] • the: [kata penentu (itu / si)] • heart: [hati] • of: [daripada / tentang] • man: [lelaki / orang] |
-| 745 | 38:47 - 38:48 | Leave him alone. | Biarkanlah dia beribadah. | Leave: [tinggalkan / keluar] • him: [dia (lelaki)] • alone: [bersendirian / seorang diri] |
-| 746 | 38:48 - 38:51 | But never use it to justify anything. | Namun jangan sesekali menggunakannya untuk menghalalkan apa jua kesalahan. | But: [tetapi / tapi] • never: [tidak pernah / tak pernah] • use: [guna / menggunakan] • it: [ia / itu] • to: [ke / untuk] • justify: [menjustifikasikan / menghalalkan] • anything: [apa-apa pun / sebarang perkara] |
-| 747 | 38:51 - 38:54 | I want to teach you something, my dear children. | Saya ingin mengajarkan sesuatu kepada anda, wahai anak-anak yang saya kasihi. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • teach: [mengajar / mendidik] • you: [awak / anda] • something: [sesuatu] • my: [saya punya / kepunyaan saya] • dear: [yang dikasihi / yang disayangi] • children (asal: child): [anak] |
-| 748 | 38:54 - 38:58 | When someone corrects you, you should say, "Jazakum Allahu Khair." Thank you very much." In my case, someone | Apabila seseorang menegur anda, anda sepatutnya berkata, "Jazakumullahu Khairan." Terima kasih banyak-banyak." Dalam kes saya sendiri, masih ada yang menegur | When: [bila / apabila] • someone: [seseorang] • corrects (asal: correct): [betul / tepat] • you: [awak / anda] • should: [patut / patutlah] • say: [cakap / berkata] • Jazakum: [semoga Allah membalas kamu semua] • Allahu: [Allah] • Khair: [kebaikan yang banyak] • Thank: [terima kasih] • very: [sangat / amat] • much: [banyak] • In: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • case: [kes / keadaan] |
-| 749 | 38:58 - 38:59 | still corrects me to this day. | saya sehingga ke hari ini. | still: [masih / tenang] • corrects (asal: correct): [betul / tepat] • me: [saya / aku] • to: [ke / untuk] • this: [ini] • day: [hari / siang] |
-| 750 | 39:00 - 39:03 | They say, "This guy, you've probably heard this before." He doesn't talk about Gaza. | Mereka berkata, "Orang ini, anda mungkin pernah mendengar tuduhan ini sebelum ini." Dia tidak bercakap tentang Gaza. | They: [mereka] • say: [cakap / berkata] • This: [ini] • guy: [lelaki / orang itu] • you've: [anda telah / awak dah (singkatan 'you have')] • probably: [mungkin / barangkali] • heard (asal: hear): [dengar] • before: [sebelum] • He: [dia (lelaki)] • doesn't: [tidak / tak (singkatan 'does not')] • talk: [bercakap / berborak] • about: [tentang / sekitar] • Gaza: [Gaza (Palestin)] |
-| 751 | 39:03 - 39:04 | It doesn't do this. | Dia tidak melakukan perkara ini. | It: [ia / itu] • doesn't: [tidak / tak (singkatan 'does not')] • do: [buat / lakukan] • this: [ini] |
-| 752 | 39:04 - 39:06 | "He's a Zionist." You know what? | "Dia seorang Zionis." Tahukah anda apa jawapannya? | He's: [dia adalah / dia (singkatan 'he is/has')] • a: [sebuah / seorang / satu] • Zionist: [fahaman zionis] • You: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 753 | 39:06 - 39:06 | That's their opinion. | Itu pandangan mereka. | That's: [itu adalah / itu (singkatan 'that is')] • their: [mereka punya / kepunyaan mereka] • opinion: [pandangan / pendapat] |
-| 754 | 39:06 - 39:08 | They probably do n't know. | Mereka mungkin tidak mengetahui perkara sebenar. | They: [mereka] • probably: [mungkin / barangkali] • do: [buat / lakukan] • n't: [tidak / bukan] • know: [tahu / kenal] |
-| 755 | 39:08 - 39:12 | They're probably victims of algorithms and don't even know it. | Mereka mungkin menjadi mangsa algoritma media sosial tanpa mereka sedari. | They're: [mereka adalah / mereka (singkatan 'they are')] • probably: [mungkin / barangkali] • victims (asal: victim): [mangsa-mangsa musibah] • of: [daripada / tentang] • algorithms (asal: algorithm): [algoritma] • and: [dan] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • know: [tahu / kenal] • it: [ia / itu] |
-| 756 | 39:12 - 39:18 | But I don't want to start a war with my own brothers and sisters because they think badly of me. | Tetapi saya tidak mahu memulakan peperangan dengan saudara-saudari saya sendiri semata-mata kerana mereka bersangka buruk terhadap saya. | But: [tetapi / tapi] • I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • want: [mahu / nak] • to: [ke / untuk] • start: [mula / memulakan] • a: [sebuah / seorang / satu] • war: [peperangan] • with: [dengan / bersama] • my: [saya punya / kepunyaan saya] • own: [sendiri / memiliki] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] • because: [kerana / sebab] • they: [mereka] • think: [fikir / berfikir] • badly: [teruk / sangat memerlukan] • of: [daripada / tentang] • me: [saya / aku] |
-| 757 | 39:18 - 39:23 | I'd rather they think badly of me and the ummah remain united than fight with them and split the ummah in | Saya lebih rela mereka bersangka buruk terhadap saya asalkan ummah kekal bersatu padu, daripada saya berbalah dengan mereka lalu memecahbelahkan ummah kepada | I'd: [saya akan / saya mahu (singkatan 'I would/had')] • rather: [sebaliknya / agak] • they: [mereka] • think: [fikir / berfikir] • badly: [teruk / sangat memerlukan] • of: [daripada / tentang] • me: [saya / aku] • and: [dan] • the: [kata penentu (itu / si)] • ummah: [ummah / umat Islam] • remain: [kekal / terus berada] • united (asal: unite): [bersatu] • than: [daripada] • fight: [bergaduh / bertengkar] • with: [dengan / bersama] • them: [mereka] • split: [memecahbelahkan] • in: [dalam / di dalam] |
-| 758 | 39:23 - 39:24 | 20 other ways. | 20 puak yang lain. | other: [lain] • ways (asal: way): [jalan / cara] |
-| 759 | 39:24 - 39:27 | We are not Zionists. | Kita bukan Zionis. | We: [kami / kita] • are (asal: be): [adalah / berada] • not: [bukan / tidak] • Zionists: [golongan zionis] |
-| 760 | 39:27 - 39:33 | We are definitely pro- Palestine and pro-Gaza, and we have done more than we have announced. | Kita sudah pasti teguh menyokong Palestin dan menyokong Gaza, dan kita telah berbuat jauh lebih banyak daripada apa yang kami war-warkan secara terbuka. | We: [kami / kita] • are (asal: be): [adalah / berada] • definitely: [pasti / sememangnya] • pro: [menyokong teguh] • Palestine: [bumi Palestin] • and: [dan] • Gaza: [Gaza (Palestin)] • have: [ada / mempunyai] • done (asal: do): [buat / lakukan] • more (asal: much / many): [lebih banyak] • than: [daripada] • announced: [diisytiharkan / diumumkan] |
-| 761 | 39:33 - 39:39 | And we will certainly continue to speak out about the genocide that continues to this day. | Dan kita sudah tentu akan terus bersuara membantah pembunuhan beramai-ramai (genosid) yang berterusan sehingga ke hari ini. | And: [dan] • we: [kami / kita] • will: [akan] • certainly: [sudah tentu / pasti] • continue: [teruskan / menyambung] • to: [ke / untuk] • speak: [bercakap] • out: [keluar / di luar] • about: [tentang / sekitar] • the: [kata penentu (itu / si)] • genocide: [pembunuhan beramai-ramai / genosid] • that: [itu / yang] • continues (asal: continue): [teruskan / menyambung] • this: [ini] • day: [hari / siang] |
-| 762 | 39:39 - 39:42 | Even though they say there is a ceasefire, what ceasefire? | Walaupun mereka mengatakan kononnya ada gencatan senjata, gencatan senjata apa? | Even: [malah / pun] • though: [walaupun / biarpun] • they: [mereka] • say: [cakap / berkata] • there: [di sana / ada] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • ceasefire: [gencatan senjata] • what: [apa / apakah] |
-| 763 | 39:42 - 39:45 | Every day they are dying. | Setiap hari saudara kita terkorban. | Every: [setiap / tiap-tiap] • day: [hari / siang] • they: [mereka] • are (asal: be): [adalah / berada] • dying (asal: die): [mati] |
-| 764 | 39:45 - 39:46 | Not just dying, but being massacred and murdered. | Bukan sekadar meninggal dunia biasa, malah dibantai dan dibunuh dengan kejam. | Not: [bukan / tidak] • just: [hanya / sekadar / baru saja] • dying (asal: die): [mati] • but: [tetapi / tapi] • being (asal: be): [makhluk / insan] • massacred (asal: massacre): [dibantai beramai-ramai] • and: [dan] • murdered (asal: murder): [dibunuh dengan kejam] |
-| 765 | 39:47 - 39:48 | And every day land is being seized. | Dan setiap hari tanah mereka terus dirampas. | And: [dan] • every: [setiap / tiap-tiap] • day: [hari / siang] • land: [tanah air / daratan] • is: [adalah / ialah] • being (asal: be): [makhluk / insan] • seized: [dirampas dengan paksa] |
-| 766 | 39:48 - 39:50 | Do you know that? | Tahukah anda tentang hakikat itu? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • that: [itu / yang] |
-| 767 | 39:50 - 39:53 | I came here and wanted to tell you, you know what? | Saya datang ke sini dan ingin memberitahu anda, tahukah anda? | I: [saya / aku] • came (asal: come): [datang / mari] • here: [di sini] • and: [dan] • wanted (asal: want): [mahu / nak] • to: [ke / untuk] • tell: [beritahu / khabarkan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 768 | 39:53 - 39:58 | Our brothers and sisters are everywhere, but I am very, very aware of what is happening. | Saudara-saudari kita berada di merata tempat, namun saya amat-amat peka terhadap apa yang sedang berlaku. | Our: [kami punya / kita punya] • brothers (asal: brother): [saudara-saudara] • and: [dan] • sisters (asal: sister): [saudari-saudari] • are (asal: be): [adalah / berada] • everywhere: [di mana-mana sahaja] • but: [tetapi / tapi] • I: [saya / aku] • am: [adalah / berada] • very: [sangat / amat] • aware: [sedar / peka] • of: [daripada / tentang] • what: [apa / apakah] • is: [adalah / ialah] • happening (asal: happen): [berlaku] |
-| 769 | 39:58 - 39:58 | Believe me. | Percayalah kepada saya. | Believe: [percaya / meyakini] • me: [saya / aku] |
-| 770 | 39:59 - 40:04 | I will tell you what happened today in Nepal, what happened yesterday in Indonesia, and the last two weeks | Saya boleh memberitahu anda apa yang berlaku hari ini di Nepal, apa yang berlaku semalam di Indonesia, dan dua minggu lepas | I: [saya / aku] • will: [akan] • tell: [beritahu / khabarkan] • you: [awak / anda] • what: [apa / apakah] • happened (asal: happen): [berlaku] • today: [hari ini] • in: [dalam / di dalam] • Nepal: [negara Nepal] • yesterday: [semalam / kelmarin] • Indonesia: [negara Indonesia] • and: [dan] • the: [kata penentu (itu / si)] • last: [terakhir / lepas] • two: [dua] • weeks (asal: week): [minggu] |
-| 771 | 40:04 - 40:04 | in the Philippines. | di Filipina. | in: [dalam / di dalam] • the: [kata penentu (itu / si)] • Philippines (asal: philippine): [filipina] |
-| 772 | 40:04 - 40:05 | I will keep you informed. | Saya sentiasa mengikuti perkembangan maklumat terkini. | I: [saya / aku] • will: [akan] • keep: [simpan / teruskan] • you: [awak / anda] • informed (asal: inform): [maklumkan] |
-| 773 | 40:05 - 40:06 | That's what it's about. | Itulah peranan yang kita pikul. | That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • it's: [ia adalah / itu (singkatan 'it is/has')] • about: [tentang / sekitar] |
-| 774 | 40:06 - 40:12 | There were earthquakes, landslides, tsunamis, there was so much more there, and so much destruction and flooding. | Terdapat gempa bumi, tanah runtuh, tsunami, terdapat begitu banyak lagi musibah di sana, serta kemusnahan dan banjir yang teruk. | There: [di sana / ada] • were (asal: be): [adalah / dulu berada] • earthquakes (asal: earthquake): [gempa bumi-gempa bumi] • landslides (asal: landslide): [tanah-tanah runtuh] • tsunamis (asal: tsunami): [gelombang tsunami] • was: [adalah / dulu berada] • so: [jadi / sangat] • much: [banyak] • more (asal: much / many): [lebih banyak] • and: [dan] • destruction: [kemusnahan / kebinasaan] • flooding (asal: flood): [banjir besar] |
-| 775 | 40:13 - 40:15 | Do you know this? | Tahukah anda mengenai perkara ini? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • this: [ini] |
-| 776 | 40:15 - 40:16 | So, it's worldwide. | Jadi, ini berlaku di seluruh dunia. | So: [jadi / sangat] • it's: [ia adalah / itu (singkatan 'it is/has')] • worldwide: [di seluruh dunia] |
-| 777 | 40:16 - 40:18 | I belong to a charity. | Saya menganggotai sebuah badan kebajikan. | I: [saya / aku] • belong: [kepunyaan / menjadi hak milik] • to: [ke / untuk] • a: [sebuah / seorang / satu] • charity: [sedekah] |
-| 778 | 40:18 - 40:21 | I work with an international aid organization. | Saya bekerjasama rapat dengan organisasi bantuan kemanusiaan antarabangsa. | I: [saya / aku] • work: [kerja / berfungsi] • with: [dengan / bersama] • an: [sebuah / seorang / satu] • international: [antarabangsa] • aid: [bantuan / pertolongan] • organization: [penyusunan / organisasi] |
-| 779 | 40:21 - 40:23 | Do you really think I don't know that? | Adakah anda benar-benar fikir saya tidak mengetahui perkara-perkara tersebut? | Do: [buat / lakukan] • you: [awak / anda] • really: [betul-betul / sungguh] • think: [fikir / berfikir] • I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • know: [tahu / kenal] • that: [itu / yang] |
-| 780 | 40:23 - 40:26 | If you didn't see something, who does that platform belong to? | Sekiranya anda tidak melihat sesuatu hantaran, siapakah pemilik platform media sosial berkenaan? | If: [jika / kalau] • you: [awak / anda] • didn't: [tidak / tak (singkatan 'did not')] • see: [lihat / nampak / tengok] • something: [sesuatu] • who: [siapa / orang yang] • does (asal: do): [buat / melakukan] • that: [itu / yang] • platform: [platform media sosial] • belong: [kepunyaan / menjadi hak milik] • to: [ke / untuk] |
-| 781 | 40:26 - 40:28 | Why didn't you see it? | Mengapakah anda tidak melihatnya? | Why: [mengapa / kenapa] • didn't: [tidak / tak (singkatan 'did not')] • you: [awak / anda] • see: [lihat / nampak / tengok] • it: [ia / itu] |
-| 782 | 40:28 - 40:32 | You know, there's something called " shadow banning," there's something called removal, there's something called... | Anda tahu, ada sesuatu yang dipanggil "shadow banning" (sekatan bayangan), ada sesuatu yang dipanggil penyingkiran kandungan, ada sesuatu yang dipanggil... | You: [awak / anda] • know: [tahu / kenal] • there's: [ada / terdapat (singkatan 'there is')] • something: [sesuatu] • called (asal: call): [dipanggil / dinamakan] • shadow: [bayang-bayang / sekatan halimunan] • banning: [penyekatan / pengharaman] • removal: [penyingkiran kandungan] |
-| 783 | 40:33 - 40:34 | there are so many things. | terdapat begitu banyak perkara di sebalik tabir. | there: [di sana / ada] • are (asal: be): [adalah / berada] • so: [jadi / sangat] • many: [banyak] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 784 | 40:34 - 40:36 | It doesn't belong to you or me. | Platform itu bukan kepunyaan anda mahupun saya. | It: [ia / itu] • doesn't: [tidak / tak (singkatan 'does not')] • belong: [kepunyaan / menjadi hak milik] • to: [ke / untuk] • you: [awak / anda] • or: [atau] • me: [saya / aku] |
-| 785 | 40:36 - 40:38 | Anyway, I don't want to get into that. | Walau apa pun, saya tidak mahu memanjangkan isu tersebut. | Anyway: [apa-apa pun / walau bagaimanapun] • I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • want: [mahu / nak] • to: [ke / untuk] • get: [dapat / mengambil] • into: [ke dalam] • that: [itu / yang] |
-| 786 | 40:38 - 40:42 | All I'm saying is, even when people say something to me, I just say jazakallah khair. | Apa yang ingin saya katakan ialah, walaupun apabila orang melemparkan kata-kata kepada saya, saya hanya menjawab jazakallahu khair. | All: [semua / seluruh] • I'm: [saya / saya sedang (singkatan 'I am')] • saying (asal: say): [cakap / berkata] • is: [adalah / ialah] • even: [malah / pun] • when: [bila / apabila] • people (asal: person): [orang ramai / manusia] • say: [cakap / berkata] • something: [sesuatu] • to: [ke / untuk] • me: [saya / aku] • I: [saya / aku] • just: [hanya / sekadar / baru saja] • jazakallah: [semoga Allah membalas kebaikanmu] • khair: [kebaikan yang banyak] |
-| 787 | 40:42 - 40:43 | Dude, please do dua for me. | Saudaraku, tolonglah doakan kebaikan untuk saya. | Dude: [kawan / bro] • please: [sila / tolong] • do: [buat / lakukan] • dua: [doa] • for: [untuk / bagi] • me: [saya / aku] |
-| 788 | 40:43 - 40:44 | I'm weak. | Saya seorang insan yang serba lemah. | I'm: [saya / saya sedang (singkatan 'I am')] • weak: [lemah] |
-| 789 | 40:44 - 40:45 | That's it. | Itu sahaja. | That's: [itu adalah / itu (singkatan 'that is')] • it: [ia / itu] |
-| 790 | 40:45 - 40:47 | End it there and move on. | Noktahkan di situ dan teruskan melangkah ke hadapan. | End: [hujung / tamat] • it: [ia / itu] • there: [di sana / ada] • and: [dan] • move: [bergerak / berpindah] • on: [hidup / atas] |
-| 791 | 40:47 - 40:48 | I'm weak. | Saya seorang yang lemah. | I'm: [saya / saya sedang (singkatan 'I am')] • weak: [lemah] |
-| 792 | 40:48 - 40:50 | That's the best way to end the discussion. | Itulah cara yang terbaik untuk menamatkan sebarang perbalahan. | That's: [itu adalah / itu (singkatan 'that is')] • the: [kata penentu (itu / si)] • best (asal: good): [baik / bagus] • way: [jalan / cara] • to: [ke / untuk] • end: [hujung / tamat] • discussion: [perbincangan] |
-| 793 | 40:50 - 40:52 | Someone says, "You know what?" You didn't do this. | Seseorang berkata, "Tahukah anda?" Anda tidak melakukan perkara ini. | Someone: [seseorang] • says (asal: say): [cakap / berkata] • You: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • didn't: [tidak / tak (singkatan 'did not')] • do: [buat / lakukan] • this: [ini] |
-| 794 | 40:52 - 40:57 | "You didn't do that." The other day at one of the masses, I asked the people, I said, "Please give me some | "Anda tidak melakukan perkara itu." Pada suatu hari di salah satu perjumpaan jemaah, saya bertanya kepada orang ramai, saya berkata, "Sila berikan saya sedikit | You: [awak / anda] • didn't: [tidak / tak (singkatan 'did not')] • do: [buat / lakukan] • that: [itu / yang] • The: [kata penentu (itu / si)] • other: [lain] • day: [hari / siang] • at: [di / pada] • one: [satu / seorang] • of: [daripada / tentang] • masses: [orang ramai / khalayak] • I: [saya / aku] • asked (asal: ask): [bertanya] • people (asal: person): [orang ramai / manusia] • said (asal: say): [cakap / berkata] • Please: [sila / tolong] • give: [beri / memberikan] • me: [saya / aku] • some: [beberapa / sedikit] |
-| 795 | 40:57 - 40:59 | advice." Many people raised their hands. | nasihat." Ramai jemaah yang mengangkat tangan. | advice: [nasihat / teguran] • Many: [banyak] • people (asal: person): [orang ramai / manusia] • raised (asal: raise): [menaikkan] • their: [mereka punya / kepunyaan mereka] • hands (asal: hand): [tangan-tangan] |
-| 796 | 40:59 - 41:02 | And one of the brothers gave me some very good advice. | Dan salah seorang saudara kita telah memberikan nasihat yang sangat bernas kepada saya. | And: [dan] • one: [satu / seorang] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • brothers (asal: brother): [saudara-saudara] • gave (asal: give): [beri / memberikan] • me: [saya / aku] • some: [beberapa / sedikit] • very: [sangat / amat] • good: [baik / bagus] • advice: [nasihat / teguran] |
-| 797 | 41:02 - 41:06 | And I said, " Thank you very much." Wallahi, what he said touched my heart. | Dan saya berkata, "Terima kasih banyak-banyak." Wallahi, apa yang beliau katakan benar-benar menyentuh hati saya. | And: [dan] • I: [saya / aku] • said (asal: say): [cakap / berkata] • Thank: [terima kasih] • you: [awak / anda] • very: [sangat / amat] • much: [banyak] • Wallahi: [demi Allah] • what: [apa / apakah] • he: [dia (lelaki)] • touched (asal: touch): [sentuh] • my: [saya punya / kepunyaan saya] • heart: [hati] |
-| 798 | 41:06 - 41:09 | But I was willing to listen to anything. | Kerana saya sentiasa bersedia untuk mendengar apa jua pandangan. | But: [tetapi / tapi] • I: [saya / aku] • was: [adalah / dulu berada] • willing (asal: will): [akan] • to: [ke / untuk] • listen: [dengar] • anything: [apa-apa pun / sebarang perkara] |
-| 799 | 41:09 - 41:15 | Imagine if I asked you, "Give me some advice." Many of you are dying to tell me something to correct me. | Bayangkan sekiranya saya bertanya kepada anda, "Berikan saya sedikit teguran." Ramai antara anda pasti berkobar-kobar mahu menyampaikan sesuatu untuk memperbetulkan saya. | Imagine: [bayangkan] • if: [jika / kalau] • I: [saya / aku] • asked (asal: ask): [bertanya] • you: [awak / anda] • Give: [beri / memberikan] • me: [saya / aku] • some: [beberapa / sedikit] • advice: [nasihat / teguran] • Many: [banyak] • of: [daripada / tentang] • are (asal: be): [adalah / berada] • dying (asal: die): [mati] • to: [ke / untuk] • tell: [beritahu / khabarkan] • something: [sesuatu] • correct: [betul / tepat] |
-| 800 | 41:15 - 41:18 | Perhaps you have heard something, seen something. | Mungkin anda pernah mendengar sesuatu, melihat sesuatu khabar. | Perhaps: [mungkin / barangkali] • you: [awak / anda] • have: [ada / mempunyai] • heard (asal: hear): [dengar] • something: [sesuatu] • seen (asal: see): [lihat / nampak / tengok] |
-| 801 | 41:18 - 41:22 | Wallahi, I am willing to listen to you and I want to be corrected, because I believe that the only way we | Wallahi, saya bersedia mendengar teguran anda dan saya ingin dibetulkan, kerana saya yakin bahawa satu-satunya cara kita | Wallahi: [demi Allah] • I: [saya / aku] • am: [adalah / berada] • willing (asal: will): [akan] • to: [ke / untuk] • listen: [dengar] • you: [awak / anda] • and: [dan] • want: [mahu / nak] • be: [menjadi / berada] • corrected (asal: correct): [betul / tepat] • because: [kerana / sebab] • believe: [percaya / meyakini] • that: [itu / yang] • the: [kata penentu (itu / si)] • only: [hanya / sahaja] • way: [jalan / cara] • we: [kami / kita] |
-| 802 | 41:22 - 41:25 | can surpass the whole world is by accepting correction. | boleh mengatasi seluruh dunia adalah dengan berlapang dada menerima teguran. | can: [boleh / dapat] • surpass: [mengatasi / melangkaui] • the: [kata penentu (itu / si)] • whole: [seluruh / keseluruhan] • world: [dunia] • is: [adalah / ialah] • by: [oleh / dengan / menjelang] • accepting (asal: accept): [terima] • correction: [teguran pembetulan] |
-| 803 | 41:26 - 41:28 | Otherwise, you will get nowhere. | Jika tidak, anda tidak akan ke mana-mana. | Otherwise: [sebaliknya] • you: [awak / anda] • will: [akan] • get: [dapat / mengambil] • nowhere: [tiada di mana-mana] |
-| 804 | 41:28 - 41:30 | When I was reading the Quran, I thought I knew everything. | Semasa saya membaca al-Quran dahulu, saya menyangka saya sudah mengetahui segalanya. | When: [bila / apabila] • I: [saya / aku] • was: [adalah / dulu berada] • reading (asal: read): [membaca] • the: [kata penentu (itu / si)] • Quran: [Al-Quran] • thought (asal: think): [fikir / berfikir] • knew (asal: know): [tahu / kenal] • everything: [segalanya / semua perkara] |
-| 805 | 41:31 - 41:33 | I went to another teacher and he corrected what I already knew. | Saya pergi berguru dengan seorang guru lain dan beliau memperbetulkan apa yang saya sangka saya sudah tahu. | I: [saya / aku] • went (asal: go): [telah pergi] • to: [ke / untuk] • another: [satu lagi / lain] • teacher: [guru pendidik] • and: [dan] • he: [dia (lelaki)] • corrected (asal: correct): [betul / tepat] • what: [apa / apakah] • already: [sudah / telah pun] • knew (asal: know): [tahu / kenal] |
-| 806 | 41:33 - 41:37 | And then I went to a third teacher, and he corrected what I learned from the second. | Kemudian saya pergi berguru dengan guru yang ketiga, dan beliau memperbetulkan pula apa yang telah saya pelajari daripada guru kedua. | And: [dan] • then: [kemudian / waktu itu] • I: [saya / aku] • went (asal: go): [telah pergi] • to: [ke / untuk] • a: [sebuah / seorang / satu] • third: [ketiga] • teacher: [guru pendidik] • he: [dia (lelaki)] • corrected (asal: correct): [betul / tepat] • what: [apa / apakah] • learned (asal: learn): [sudah belajar / dipelajari] • from: [dari / daripada] • the: [kata penentu (itu / si)] • second: [kedua / saat] |
-| 807 | 41:37 - 41:42 | And then I obtained the ijaza, and I made sure that that ijaza was of a very high level. | Dan selepas itu barulah saya memperoleh ijazah sanad, dan saya memastikan bahawa ijazah sanad itu berada pada tahap yang sangat tinggi. | And: [dan] • then: [kemudian / waktu itu] • I: [saya / aku] • obtained (asal: obtain): [memperoleh / mendapat] • the: [kata penentu (itu / si)] • ijaza: [ijazah sanad keilmuan] • made (asal: make): [dibuat / menghasilkan] • sure: [pasti / tentu] • that: [itu / yang] • was: [adalah / dulu berada] • of: [daripada / tentang] • a: [sebuah / seorang / satu] • very: [sangat / amat] • high: [tinggi] • level: [tahap / paras] |
-| 808 | 41:42 - 41:42 | And What happened? | Dan apa yang berlaku? | And: [dan] • What: [apa / apakah] • happened (asal: happen): [berlaku] |
-| 809 | 41:42 - 41:45 | Now we've learned something we truly didn't imagine. | Kini kita telah mempelajari sesuatu yang benar-benar tidak pernah kita bayangkan sebelumnya. | Now: [sekarang] • we've: [kami telah / kita dah (singkatan 'we have')] • learned (asal: learn): [sudah belajar / dipelajari] • something: [sesuatu] • we: [kami / kita] • truly: [benar-benar / sesungguhnya] • didn't: [tidak / tak (singkatan 'did not')] • imagine: [bayangkan] |
-| 810 | 41:45 - 41:48 | And when we were young, we wouldn't have believed it. | Dan ketika kita masih muda, kita mungkin tidak akan mempercayainya. | And: [dan] • when: [bila / apabila] • we: [kami / kita] • were (asal: be): [adalah / dulu berada] • young: [muda] • wouldn't: [tidak akan / takkan (singkatan 'would not')] • have: [ada / mempunyai] • believed: [dipercayai / meyakini] • it: [ia / itu] |
-| 811 | 41:48 - 41:49 | Why not, you know? | Mengapa tidak, anda tahu? | Why: [mengapa / kenapa] • not: [bukan / tidak] • you: [awak / anda] • know: [tahu / kenal] |
-| 812 | 41:49 - 41:50 | I'm reading the Quran. | Saya sedang membaca al-Quran. | I'm: [saya / saya sedang (singkatan 'I am')] • reading (asal: read): [membaca] • the: [kata penentu (itu / si)] • Quran: [Al-Quran] |
-| 813 | 41:51 - 41:53 | Sometimes we hear people reading the Quran. | Kadangkala kita mendengar orang membaca al-Quran. | Sometimes: [kadang-kadang] • we: [kami / kita] • hear: [mendengar] • people (asal: person): [orang ramai / manusia] • reading (asal: read): [membaca] • the: [kata penentu (itu / si)] • Quran: [Al-Quran] |
-| 814 | 41:53 - 41:53 | And you know what? | Dan tahukah anda apa yang berlaku? | And: [dan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 815 | 41:53 - 41:55 | In my mind, I say that this person needs correction. | Di dalam hati saya, saya berkata bahawa orang ini memerlukan pembetulan (teguran tajwid). | In: [dalam / di dalam] • my: [saya punya / kepunyaan saya] • mind: [fikiran / minda] • I: [saya / aku] • say: [cakap / berkata] • that: [itu / yang] • this: [ini] • person: [orang / individu] • needs (asal: need): [perlu / memerlukan] • correction: [teguran pembetulan] |
-| 816 | 41:56 - 41:58 | Someone with love should approach them. | Seseorang yang penuh kasih sayang sepatutnya mendekati mereka. | Someone: [seseorang] • with: [dengan / bersama] • love: [suka sangat / sayang] • should: [patut / patutlah] • approach: [mendekati / menghampiri] • them: [mereka] |
-| 817 | 41:58 - 42:03 | Beautiful voice, beautiful tone, beautiful melody, but without tajweed, without pronunciation. | Suara yang merdu, taranum yang indah, alunan lagu yang sedap, namun tanpa tajwid, tanpa sebutan makhraj yang betul. | Beautiful: [indah / cantik] • voice: [suara / nada percakapan] • tone: [nada suara] • melody: [alunan lagu / taranum] • but: [tetapi / tapi] • without: [tanpa] • tajweed: [hukum tajwid bacaan Quran] • pronunciation: [sebutan perkataan] |
-| 818 | 42:03 - 42:04 | How could you tell? | Bagaimanakah anda boleh mengetahuinya? | How: [bagaimana / macam mana] • could: [boleh / dapat] • you: [awak / anda] • tell: [beritahu / khabarkan] |
-| 819 | 42:04 - 42:08 | Innamal ya'rifu fadlihi minan nas idawuhu. | Innama ya'rifu fadlahu minan-nasi zawuhu (Hanya orang yang berilmu memahami nilai orang yang berilmu). | Innamal: [sesungguhnya hanya] • ya'rifu: [mengenali / memahami] • fadlihi: [keutamaan-Nya / fadilatnya] • minan: [daripada golongan] • nas: [manusia sekalian] • idawuhu: [orang-orang yang memiliki kedudukan] |
-| 820 | 42:08 - 42:11 | What does that mean? | Apakah maksudnya itu? | What: [apa / apakah] • does (asal: do): [buat / melakukan] • that: [itu / yang] • mean: [maksud / berniat] |
-| 821 | 42:11 - 42:17 | In fact, people of a certain virtue are only recognized by people of similar virtue. | Hakikatnya, orang yang memiliki keutamaan tertentu hanya akan dikenali oleh mereka yang mempunyai keutamaan yang setaraf. | In: [dalam / di dalam] • fact: [fakta / hakikat] • people (asal: person): [orang ramai / manusia] • of: [daripada / tentang] • a: [sebuah / seorang / satu] • certain: [tertentu / yakin] • virtue: [fadilat keutamaan] • are (asal: be): [adalah / berada] • only: [hanya / sahaja] • recognized (asal: recognize): [mengenali] • by: [oleh / dengan / menjelang] • similar: [serupa / hampir sama] |
-| 822 | 42:17 - 42:21 | It takes a Qari of the Quran to recognize another Qari of the Quran. | Hanya seorang qari al-Quran yang dapat menilai kehebatan seorang qari al-Quran yang lain. | It: [ia / itu] • takes (asal: take): [ambil / memerlukan masa] • a: [sebuah / seorang / satu] • Qari: [qari pembaca al-Quran] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • Quran: [Al-Quran] • to: [ke / untuk] • recognize: [mengenali / mengakui] • another: [satu lagi / lain] |
-| 823 | 42:22 - 42:24 | The rest of the audience says, "Masha'Allah!" Takbir! | Jemaah yang lain hanya bersorak, "Masya-Allah! Takbir!" | The: [kata penentu (itu / si)] • rest: [rehat / selebihnya] • of: [daripada / tentang] • audience: [para hadirin / penonton] • says (asal: say): [cakap / berkata] • Masha'Allah: [masya-Allah (kehendak Allah)] • Takbir: [takbir (Allahu Akbar)] |
-| 824 | 42:25 - 42:28 | "And the sheikh sitting in front says, 'You know what?'" He could not pronounce his qa. | "Tetapi syeikh yang duduk di hadapan berkata, 'Tahukah anda?' Beliau tidak dapat menyebut huruf qaf dengan tepat. | And: [dan] • the: [kata penentu (itu / si)] • sheikh: [syeikh / alim ulama] • sitting (asal: sit): [duduk] • in: [dalam / di dalam] • front: [depan / hadapan] • says (asal: say): [cakap / berkata] • You: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • He: [dia (lelaki)] • could: [boleh / dapat] • not: [bukan / tidak] • pronounce: [menyebut / melafazkan] • his: [miliknya / kepunyaan dia] • qa: [huruf qaf] |
-| 825 | 42:29 - 42:38 | Instead of qalb, he says kalb." I corrected a brother who said that and he got angry with me. | Sebaliknya daripada qalb (hati), dia menyebut kalb (anjing)." Saya pernah menegur seorang saudara yang membaca begitu dan dia memarahi saya. | Instead: [sebaliknya] • of: [daripada / tentang] • qalb: [hati nurani] • he: [dia (lelaki)] • says (asal: say): [cakap / berkata] • kalb: [anjing] • I: [saya / aku] • corrected (asal: correct): [betul / tepat] • a: [sebuah / seorang / satu] • brother: [saudara lelaki] • who: [siapa / orang yang] • said (asal: say): [cakap / berkata] • that: [itu / yang] • and: [dan] • got (asal: get): [dapat / sudah dapat] • angry: [marah] • with: [dengan / bersama] • me: [saya / aku] |
-| 826 | 42:38 - 42:45 | I said to him, "Habibi, if you know Arabic, you'll know that what you said is haram." It is not allowed. | Saya berkata kepadanya, "Wahai sahabatku, jika anda tahu bahasa Arab, anda akan faham bahawa apa yang anda sebutkan itu tidak dibenarkan (haram)." Ia tidak dibenarkan. | I: [saya / aku] • said (asal: say): [cakap / berkata] • to: [ke / untuk] • him: [dia (lelaki)] • Habibi: [wahai sahabatku / kekasihku] • if: [jika / kalau] • you: [awak / anda] • know: [tahu / kenal] • Arabic: [bahasa Arab] • you'll: [anda akan / awak akan (singkatan 'you will')] • that: [itu / yang] • what: [apa / apakah] • is: [adalah / ialah] • haram: [diharamkan / berdosa] • It: [ia / itu] • not: [bukan / tidak] • allowed (asal: allow): [membenarkan / membolehkan] |
-| 827 | 42:45 - 42:47 | Qalb means heart and kalb means dog. | Qalb bermaksud hati dan kalb bermaksud anjing. | Qalb: [hati nurani] • means (asal: mean): [maksud / berniat] • heart: [hati] • and: [dan] • kalb: [anjing] • dog: [anjing] |
-| 828 | 42:47 - 42:49 | And you're saying kalb. | Dan anda menyebut kalb. | And: [dan] • you're: [anda / awak adalah (singkatan 'you are')] • saying (asal: say): [cakap / berkata] • kalb: [anjing] |
-| 829 | 42:49 - 42:50 | Come on, man. | Tenanglah, sahabatku. | Come: [datang / mari] • on: [hidup / atas] • man: [lelaki / orang] |
-| 830 | 42:50 - 42:50 | Relax. | Bertenanglah. | Relax: [berehat / santai] |
-| 831 | 42:50 - 42:51 | Don't feel bad. | Jangan berasa kecil hati. | Don't: [jangan / tidak (singkatan 'do not')] • feel: [rasa / merasa] • bad: [teruk / buruk] |
-| 832 | 42:51 - 42:52 | It is the word of Allah. | Ini adalah kalamullah (firman Allah). | It: [ia / itu] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • word: [perkataan] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 833 | 42:52 - 42:54 | You need to be corrected. | Anda perlu diperbetulkan. | You: [awak / anda] • need: [perlu / memerlukan] • to: [ke / untuk] • be: [menjadi / berada] • corrected (asal: correct): [betul / tepat] |
-| 834 | 42:54 - 42:59 | When the Imam stands up, no matter who the Imam is, the Imam of the Haram, if someone corrects him from behind | Apabila imam bangun mengimami solat, tidak kira siapa pun imam itu, walau Imam Masjidil Haram sekalipun, jika seseorang menegurnya dari belakang | When: [bila / apabila] • the: [kata penentu (itu / si)] • Imam: [imam solat] • stands (asal: stand): [berdiri] • up: [atas / naik] • no: [tidak / tiada] • matter: [hal / perkara penting] • who: [siapa / orang yang] • is: [adalah / ialah] • of: [daripada / tentang] • Haram: [diharamkan / berdosa] • if: [jika / kalau] • someone: [seseorang] • corrects (asal: correct): [betul / tepat] • him: [dia (lelaki)] • from: [dari / daripada] • behind: [di belakang] |
-| 835 | 42:59 - 43:00 | and he feels bad, what happens? | dan dia berasa tersinggung, apa yang akan berlaku? | and: [dan] • he: [dia (lelaki)] • feels (asal: feel): [terasa / rasanya] • bad: [teruk / buruk] • what: [apa / apakah] • happens (asal: happen): [berlaku] |
-| 836 | 43:00 - 43:01 | Do they feel bad? | Adakah mereka berasa kecil hati? | Do: [buat / lakukan] • they: [mereka] • feel: [rasa / merasa] • bad: [teruk / buruk] |
-| 837 | 43:01 - 43:02 | They don't feel bad. | Mereka langsung tidak berasa kecil hati. | They: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • feel: [rasa / merasa] • bad: [teruk / buruk] |
-| 838 | 43:02 - 43:03 | Do you know what I love? | Tahukah anda apa yang saya kagumi? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • I: [saya / aku] • love: [suka sangat / sayang] |
-| 839 | 43:03 - 43:05 | When he was young, he used to lead the Tarawih. | Ketika masih muda dahulu, seseorang biasa mengimamkan Tarawih. | When: [bila / apabila] • he: [dia (lelaki)] • was: [adalah / dulu berada] • young: [muda] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • lead: [membawa / memimpin] • the: [kata penentu (itu / si)] • Tarawih: [solat sunat Tarawih] |
-| 840 | 43:05 - 43:07 | From the age of 14, I was an Imam in the mosque. | Sejak usia 14 tahun, saya sudah menjadi imam di masjid. | From: [dari / daripada] • the: [kata penentu (itu / si)] • age: [usia / umur] • of: [daripada / tentang] • I: [saya / aku] • was: [adalah / dulu berada] • an: [sebuah / seorang / satu] • Imam: [imam solat] • in: [dalam / di dalam] • mosque: [masjid / rumah Allah] |
-| 841 | 43:08 - 43:09 | He used to run the Tarawih. | Beliau biasa memimpin solat Tarawih. | He: [dia (lelaki)] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • run: [berlari / mengalir] • the: [kata penentu (itu / si)] • Tarawih: [solat sunat Tarawih] |
-| 842 | 43:09 - 43:14 | In some cases he recited the entire Quran, and in others a part of it. | Dalam beberapa keadaan beliau membaca seluruh al-Quran, dan dalam keadaan lain sebahagian daripadanya. | In: [dalam / di dalam] • some: [beberapa / sedikit] • cases (asal: case): [kes] • he: [dia (lelaki)] • recited (asal: recite): [membaca / mengalunkan] • the: [kata penentu (itu / si)] • entire: [seluruh / segenap] • Quran: [Al-Quran] • and: [dan] • others: [orang lain] • a: [sebuah / seorang / satu] • part: [bahagian] • of: [daripada / tentang] • it: [ia / itu] |
-| 843 | 43:14 - 43:17 | And when someone corrects us, they don't even give you a moment before they shoot. | Dan apabila seseorang menegur kita, mereka langsung tidak memberi ruang sesaat pun sebelum terus membetulkan. | And: [dan] • when: [bila / apabila] • someone: [seseorang] • corrects (asal: correct): [betul / tepat] • us: [kami / kita] • they: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • even: [malah / pun] • give: [beri / memberikan] • you: [awak / anda] • a: [sebuah / seorang / satu] • moment: [saat / ketika] • before: [sebelum] • shoot: [memanah / menembak] |
-| 844 | 43:17 - 43:18 | And we used to feel bad. | Dan dahulu kami pernah berasa kecil hati. | And: [dan] • we: [kami / kita] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • feel: [rasa / merasa] • bad: [teruk / buruk] |
-| 845 | 43:19 - 43:23 | We used to think, "Hey, at least give me a few seconds." "When you know this guy is just tripping." And | Kami berfikir, "Tolonglah beri saya beberapa saat dahulu." "Bila anda tahu orang ini cuma tersasul sedikit." Dan | We: [kami / kita] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • think: [fikir / berfikir] • Hey: [hei] • at: [di / pada] • least (asal: little): [kecil / sedikit] • give: [beri / memberikan] • me: [saya / aku] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • seconds (asal: second): [kedua / saat] • When: [bila / apabila] • you: [awak / anda] • know: [tahu / kenal] • this: [ini] • guy: [lelaki / orang itu] • is: [adalah / ialah] • just: [hanya / sekadar / baru saja] • tripping (asal: trip): [perjalanan] • And: [dan] |
-| 846 | 43:23 - 43:25 | then I went to Mecca. | kemudian saya pergi ke Mekah. | then: [kemudian / waktu itu] • I: [saya / aku] • went (asal: go): [telah pergi] • to: [ke / untuk] • Mecca: [Kota Makkah] |
-| 847 | 43:25 - 43:28 | When I went to Mecca, it was during Ramadan in 1988. | Semasa saya pergi ke Mekah, ia adalah pada bulan Ramadan tahun 1988. | When: [bila / apabila] • I: [saya / aku] • went (asal: go): [telah pergi] • to: [ke / untuk] • Mecca: [Kota Makkah] • it: [ia / itu] • was: [adalah / dulu berada] • during: [sepanjang / semasa] • Ramadan: [bulan Ramadan] • in: [dalam / di dalam] |
-| 848 | 43:28 - 43:30 | There were three Imams in Mecca. | Terdapat tiga orang imam di Mekah ketika itu. | There: [di sana / ada] • were (asal: be): [adalah / dulu berada] • three: [tiga] • Imams (asal: imam): [para imam] • in: [dalam / di dalam] • Mecca: [Kota Makkah] |
-| 849 | 43:31 - 43:34 | They used to read the entire Tarawih, one day each, taking turns. | Mereka mengimamkan keseluruhan solat Tarawih, bergilir-gilir seorang satu hari. | They: [mereka] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • read: [membaca] • the: [kata penentu (itu / si)] • entire: [seluruh / segenap] • Tarawih: [solat sunat Tarawih] • one: [satu / seorang] • day: [hari / siang] • each: [setiap / masing-masing] • taking (asal: take): [sedang mengambil] • turns (asal: turn): [pusing / hidupkan (turn on)] |
-| 850 | 43:34 - 43:35 | Do you know who they were? | Tahukah anda siapakah mereka? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • who: [siapa / orang yang] • they: [mereka] • were (asal: be): [adalah / dulu berada] |
-| 851 | 43:35 - 43:38 | On the first day, Sheikh Abdur Rahman Al Sudais. | Pada hari pertama, Sheikh Abdur Rahman Al-Sudais. | On: [hidup / atas] • the: [kata penentu (itu / si)] • first: [pertama / dulu] • day: [hari / siang] • Sheikh: [syeikh / alim ulama] • Abdur: [Abdur (sebahagian daripada nama hamba Yang Maha Pemurah)] • Rahman: [Maha Pemurah (ar-Rahman)] • Al: [kata penentu (Al-)] • Sudais: [al-Sudais (Imam Mekah)] |
-| 852 | 43:38 - 43:40 | On the second day, Sheikh Ali Abdullah Jaber. | Pada hari kedua, Sheikh Ali Abdullah Jaber. | On: [hidup / atas] • the: [kata penentu (itu / si)] • second: [kedua / saat] • day: [hari / siang] • Sheikh: [syeikh / alim ulama] • Ali: [Saidina Ali (nama sahabat)] • Abdullah: [Abdullah (nama badan kebajikan)] • Jaber: [Jaber (nama syeikh / imam)] |
-| 853 | 43:40 - 43:44 | And on the third day, Sheikh Ali Abdur Rahman Al Huthaify. | Dan pada hari ketiga, Sheikh Ali Abdur Rahman Al-Huthaify. | And: [dan] • on: [hidup / atas] • the: [kata penentu (itu / si)] • third: [ketiga] • day: [hari / siang] • Sheikh: [syeikh / alim ulama] • Ali: [Saidina Ali (nama sahabat)] • Abdur: [Abdur (sebahagian daripada nama hamba Yang Maha Pemurah)] • Rahman: [Maha Pemurah (ar-Rahman)] • Al: [kata penentu (Al-)] • Huthaify: [al-Huthaify (nama imam tersohor)] |
-| 854 | 43:44 - 43:46 | This was in Mecca in 1988, right? | Ini berlaku di Mekah pada tahun 1988, betul? | This: [ini] • was: [adalah / dulu berada] • in: [dalam / di dalam] • Mecca: [Kota Makkah] • right: [betul / kanan / tepat] |
-| 855 | 43:47 - 43:49 | Those were the three Imams who used to rotate. | Mereka bertiga itulah para imam yang sentiasa bergilir. | Those: [semua itu] • were (asal: be): [adalah / dulu berada] • the: [kata penentu (itu / si)] • three: [tiga] • Imams (asal: imam): [para imam] • who: [siapa / orang yang] • used (asal: use): [digunakan / pernah] • to: [ke / untuk] • rotate: [bergilir-gilir] |
-| 856 | 43:49 - 43:50 | So, what happened? | Jadi, apa yang berlaku? | So: [jadi / sangat] • what: [apa / apakah] • happened (asal: happen): [berlaku] |
-| 857 | 43:50 - 43:55 | When someone makes a mistake, they correct it and carry on as if nothing happened. | Apabila seseorang melakukan kesilapan bacaan, mereka terus membetulkannya dan meneruskan solat seolah-olah tiada apa yang berlaku. | When: [bila / apabila] • someone: [seseorang] • makes (asal: make): [buat / menghasilkan] • a: [sebuah / seorang / satu] • mistake: [kesilapan / ralat] • they: [mereka] • correct: [betul / tepat] • it: [ia / itu] • and: [dan] • carry: [membawa diri / membawa] • on: [hidup / atas] • as: [seperti / sebagai] • if: [jika / kalau] • nothing: [tiada apa-apa] • happened (asal: happen): [berlaku] |
-| 858 | 43:56 - 43:59 | They continue, nobody feels bad, the tone doesn't change. | Mereka terus membaca, tiada siapa yang berasa kecil hati, nada suara langsung tidak berubah. | They: [mereka] • continue: [teruskan / menyambung] • nobody: [tiada sesiapa] • feels (asal: feel): [terasa / rasanya] • bad: [teruk / buruk] • the: [kata penentu (itu / si)] • tone: [nada suara] • doesn't: [tidak / tak (singkatan 'does not')] • change: [ubah / menukar] |
-| 859 | 43:59 - 44:03 | When I was corrected, the tone changed, I felt annoyed and wanted to give up. | Dahulu apabila saya ditegur, nada suara saya berubah, saya berasa jengkel dan rasa mahu berputus asa. | When: [bila / apabila] • I: [saya / aku] • was: [adalah / dulu berada] • corrected (asal: correct): [betul / tepat] • the: [kata penentu (itu / si)] • tone: [nada suara] • changed (asal: change): [ubah / menukar] • felt (asal: feel): [rasa / merasa] • annoyed (asal: annoy): [mengganggu] • and: [dan] • wanted (asal: want): [mahu / nak] • to: [ke / untuk] • give: [beri / memberikan] • up: [atas / naik] |
-| 860 | 44:03 - 44:04 | Okay, you made two or three mistakes. | Baiklah, anda telah melakukan dua atau tiga kesilapan bacaan. | Okay: [baiklah / okey] • you: [awak / anda] • made (asal: make): [dibuat / menghasilkan] • two: [dua] • or: [atau] • three: [tiga] • mistakes (asal: mistake): [kesilapan-kesilapan] |
-| 861 | 44:04 - 44:09 | Now I'm feeling down and, you know, deflated. | Kini saya mula rasa sedih dan patah semangat. | Now: [sekarang] • I'm: [saya / saya sedang (singkatan 'I am')] • feeling (asal: feel): [rasa / merasa] • down: [bawah / turun] • and: [dan] • you: [awak / anda] • know: [tahu / kenal] • deflated (asal: deflate): [mengempiskan] |
-| 862 | 44:09 - 44:09 | Why? | Mengapa begitu? | Why: [mengapa / kenapa] |
-| 863 | 44:09 - 44:11 | Who are you trying to impress by saying you didn't make any mistakes? | Siapakah yang anda cuba kagumkan dengan mengatakan anda tidak melakukan sebarang kesilapan? | Who: [siapa / orang yang] • are (asal: be): [adalah / berada] • you: [awak / anda] • trying (asal: try): [cuba / mencuba] • to: [ke / untuk] • impress: [mengagumkan orang lain] • by: [oleh / dengan / menjelang] • saying (asal: say): [cakap / berkata] • didn't: [tidak / tak (singkatan 'did not')] • make: [buat / menghasilkan] • any: [sebarang / apa-apa] • mistakes (asal: mistake): [kesilapan-kesilapan] |
-| 864 | 44:11 - 44:13 | No, I want to impress Allah. | Tidak, saya hanya mahu mencari keredaan Allah. | No: [tidak / tiada] • I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • impress: [mengagumkan orang lain] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 865 | 44:13 - 44:17 | Oh Allah, I was corrected and I accepted the correction because this is Your word. | Ya Allah, saya ditegur dan saya menerima teguran itu kerana ini adalah firman-Mu. | Oh: [wahai / oh] • Allah: [Allah Subhanahu wa Ta'ala] • I: [saya / aku] • was: [adalah / dulu berada] • corrected (asal: correct): [betul / tepat] • and: [dan] • accepted (asal: accept): [terima] • the: [kata penentu (itu / si)] • correction: [teguran pembetulan] • because: [kerana / sebab] • this: [ini] • is: [adalah / ialah] • Your: [awak punya / anda punya] • word: [perkataan] |
-| 866 | 44:17 - 44:19 | It's nobody else's book. | Ia bukan kitab kepunyaan sesiapa pun. | It's: [ia adalah / itu (singkatan 'it is/has')] • nobody: [tiada sesiapa] • else's: [kepunyaan orang lain] • book: [kitab suci / buku] |
-| 867 | 44:19 - 44:21 | I felt good. | Saya berasa lega dan tenang. | I: [saya / aku] • felt (asal: feel): [rasa / merasa] • good: [baik / bagus] |
-| 868 | 44:21 - 44:23 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 869 | 44:23 - 44:26 | So alhamdulillah, feel good when someone corrects you. | Jadi alhamdulillah, berlapang dadalah apabila seseorang memperbetulkan anda. | So: [jadi / sangat] • alhamdulillah: [segala puji bagi Allah] • feel: [rasa / merasa] • good: [baik / bagus] • when: [bila / apabila] • someone: [seseorang] • corrects (asal: correct): [betul / tepat] • you: [awak / anda] |
-| 870 | 44:26 - 44:31 | After that I learned: now correct me, I won't feel bad because I realized it, you know what? | Selepas peristiwa itu saya belajar: sekarang tegurlah saya, saya tidak akan berkecil hati kerana saya telah sedar, tahukah anda? | After: [selepas / sesudah] • that: [itu / yang] • I: [saya / aku] • learned (asal: learn): [sudah belajar / dipelajari] • now: [sekarang] • correct: [betul / tepat] • me: [saya / aku] • won't: [tidak akan / takkan (singkatan 'will not')] • feel: [rasa / merasa] • bad: [teruk / buruk] • because: [kerana / sebab] • realized (asal: realize): [sedar] • it: [ia / itu] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 871 | 44:31 - 44:33 | Do you want to be an Imam of the Haram? | Adakah anda mahu menjadi seorang Imam di Masjidil Haram? | Do: [buat / lakukan] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • be: [menjadi / berada] • an: [sebuah / seorang / satu] • Imam: [imam solat] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • Haram: [diharamkan / berdosa] |
-| 872 | 44:33 - 44:34 | You shouldn't feel bad when you are corrected. | Anda tidak sepatutnya berasa tersinggung apabila diperbetulkan. | You: [awak / anda] • shouldn't: [tidak patut / jangan (singkatan 'should not')] • feel: [rasa / merasa] • bad: [teruk / buruk] • when: [bila / apabila] • are (asal: be): [adalah / berada] • corrected (asal: correct): [betul / tepat] |
-| 873 | 44:34 - 44:36 | To this day they are still enthusiastic. | Sehingga ke hari ini mereka masih bersemangat. | To: [ke / untuk] • this: [ini] • day: [hari / siang] • they: [mereka] • are (asal: be): [adalah / berada] • still: [masih / tenang] • enthusiastic: [bersemangat tinggi] |
-| 874 | 44:36 - 44:40 | You correct any of them, subhanallah, they will accept the correction and carry on as if nothing happened, because | Jika anda menegur mana-mana antara mereka, subhanallah, mereka akan menerima teguran itu dan meneruskan bacaan seperti biasa, kerana | You: [awak / anda] • correct: [betul / tepat] • any: [sebarang / apa-apa] • of: [daripada / tentang] • them: [mereka] • subhanallah: [Maha Suci Allah] • they: [mereka] • will: [akan] • accept: [terima / menerima] • the: [kata penentu (itu / si)] • correction: [teguran pembetulan] • and: [dan] • carry: [membawa diri / membawa] • on: [hidup / atas] • as: [seperti / sebagai] • if: [jika / kalau] • nothing: [tiada apa-apa] • happened (asal: happen): [berlaku] • because: [kerana / sebab] |
-| 875 | 44:41 - 44:42 | they are human beings. | mereka hanyalah manusia biasa. | they: [mereka] • are (asal: be): [adalah / berada] • human: [manusia] • beings (asal: being): [makhluk / insan] |
-| 876 | 44:42 - 44:45 | And sometimes many mistakes occur in the Haram. | Dan kadangkala banyak kesilapan bacaan berlaku di Masjidil Haram. | And: [dan] • sometimes: [kadang-kadang] • many: [banyak] • mistakes (asal: mistake): [kesilapan-kesilapan] • occur: [berlaku / terjadi] • in: [dalam / di dalam] • the: [kata penentu (itu / si)] • Haram: [diharamkan / berdosa] |
-| 877 | 44:45 - 44:45 | Many. | Banyak kesilapan. | Many: [banyak] |
-| 878 | 44:45 - 44:47 | Because they are all human. | Kerana mereka semua adalah manusia. | Because: [kerana / sebab] • they: [mereka] • are (asal: be): [adalah / berada] • all: [semua / seluruh] • human: [manusia] |
-| 879 | 44:47 - 44:51 | The point I'm making here is that we shouldn't make excuses when we're corrected. | Perkara utama yang ingin saya tekankan di sini ialah kita tidak sepatutnya memberi alasan apabila ditegur. | The: [kata penentu (itu / si)] • point: [tujuan / makna] • I'm: [saya / saya sedang (singkatan 'I am')] • making (asal: make): [sedang membuat] • here: [di sini] • is: [adalah / ialah] • that: [itu / yang] • we: [kami / kita] • shouldn't: [tidak patut / jangan (singkatan 'should not')] • make: [buat / menghasilkan] • excuses (asal: excuse): [alasan-alasan] • when: [bila / apabila] • we're: [kami / kita sedang (singkatan 'we are')] • corrected (asal: correct): [betul / tepat] |
-| 880 | 44:51 - 44:53 | I want to correct myself. | Saya mahu memperbetulkan diri saya. | I: [saya / aku] • want: [mahu / nak] • to: [ke / untuk] • correct: [betul / tepat] • myself: [diri saya sendiri] |
-| 881 | 44:53 - 44:57 | I need that scale, on judgment day, to tip to the right side. | Saya mahu timbangan neraca itu, pada hari kiamat kelak, condong berat ke sebelah kanan. | I: [saya / aku] • need: [perlu / memerlukan] • that: [itu / yang] • scale: [penimbang / skala] • on: [hidup / atas] • judgment: [penghakiman / pertimbangan] • day: [hari / siang] • to: [ke / untuk] • tip: [mencondongkan timbangan] • the: [kata penentu (itu / si)] • right: [betul / kanan / tepat] • side: [tepi / sisi] |
-| 882 | 44:57 - 45:01 | So keep doing many, many, many good deeds with the help and will of Allah. | Maka teruskanlah melakukan banyak, banyak, banyak amalan kebaikan dengan pertolongan dan keizinan Allah. | So: [jadi / sangat] • keep: [simpan / teruskan] • doing (asal: do): [buat / lakukan] • many: [banyak] • good: [baik / bagus] • deeds (asal: deed): [amalan-amalan] • with: [dengan / bersama] • the: [kata penentu (itu / si)] • help: [bantu / tolong] • and: [dan] • will: [akan] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 883 | 45:01 - 45:04 | So, we began seeking Allah's forgiveness. | Jadi, kita bermula dengan memohon keampunan Allah (istighfar). | So: [jadi / sangat] • we: [kami / kita] • began (asal: begin): [bermula] • seeking (asal: seek): [mendambakan / mencari] • Allah's: [milik Allah / kurniaan Allah] • forgiveness: [keampunan] |
-| 884 | 45:04 - 45:06 | Secondly, be humble. | Keduanya, bersikaplah rendah diri (tawaduk). | Secondly: [keduanya / kedua] • be: [menjadi / berada] • humble: [tawaduk / rendah diri] |
-| 885 | 45:06 - 45:11 | Become someone who is not arrogant, because with arrogance you will not get far in life. | Jadilah seorang yang tidak sombong, kerana dengan sifat takbur anda tidak akan pergi jauh dalam hidup. | Become: [menjadi] • someone: [seseorang] • who: [siapa / orang yang] • is: [adalah / ialah] • not: [bukan / tidak] • arrogant: [sombong / takbur] • because: [kerana / sebab] • with: [dengan / bersama] • arrogance: [kesombongan / keangkuhan] • you: [awak / anda] • will: [akan] • get: [dapat / mengambil] • far: [jauh] • in: [dalam / di dalam] • life: [kehidupan] |
-| 886 | 45:11 - 45:18 | La ilaha illallah Muhammad Rasul Allah Muhammad Rasul Allah Muhammad Rasul Allah Muhammad Rasul Allah. | La ilaha illallah Muhammad Rasulullah Muhammad Rasulullah Muhammad Rasulullah Muhammad Rasulullah. | La: [tiada] • ilaha: [tuhan yang disembah] • illallah: [melainkan Allah] • Muhammad: [Nabi Muhammad SAW] • Rasul: [Rasul utusan Allah] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 887 | 45:18 - 45:22 | He who has even a drop of pride in his heart will not enter paradise. | Sesiapa yang mempunyai walau sebesar zarah sifat sombong di dalam hatinya tidak akan masuk ke dalam syurga. | He: [dia (lelaki)] • who: [siapa / orang yang] • has: [ada / mempunyai] • even: [malah / pun] • a: [sebuah / seorang / satu] • drop: [melepaskan / meninggalkan] • of: [daripada / tentang] • pride: [sifat takbur / keangkuhan] • in: [dalam / di dalam] • his: [miliknya / kepunyaan dia] • heart: [hati] • will: [akan] • not: [bukan / tidak] • enter: [masuk / melangkah masuk] • paradise: [syurga] |
-| 888 | 45:22 - 45:22 | Eliminate pride. | Hapuskanlah sifat sombong. | Eliminate: [menghapuskan / mengikis] • pride: [sifat takbur / keangkuhan] |
-| 889 | 45:22 - 45:23 | Who am I? | Siapakah saya? | Who: [siapa / orang yang] • am: [adalah / berada] • I: [saya / aku] |
-| 890 | 45:23 - 45:24 | I am your brother. | Saya hanyalah saudara anda. | I: [saya / aku] • am: [adalah / berada] • your: [awak punya / anda punya] • brother: [saudara lelaki] |
-| 891 | 45:24 - 45:25 | May Allah bless. | Semoga Allah merahmati. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • bless: [merahmati / memberkati] |
-| 892 | 45:25 - 45:30 | If I finish this talk, wallahi, if the mosque were perhaps half full or a quarter full, I would probably have | Jika saya selesai menyampaikan ceramah ini, wallahi, jika masjid ini mungkin separuh penuh atau suku penuh, saya mungkin akan | If: [jika / kalau] • I: [saya / aku] • finish: [selesai / menamatkan] • this: [ini] • talk: [bercakap / berborak] • wallahi: [demi Allah] • the: [kata penentu (itu / si)] • mosque: [masjid / rumah Allah] • were (asal: be): [adalah / dulu berada] • perhaps: [mungkin / barangkali] • half: [separuh / setengah] • full: [penuh] • or: [atau] • a: [sebuah / seorang / satu] • quarter: [suku / satu perempat] • would: [akan / sudi] • probably: [mungkin / barangkali] • have: [ada / mempunyai] |
-| 893 | 45:30 - 45:34 | sat down afterwards, greeted everyone and, you know, shaken people's hands and so on. | duduk selepas itu, menyapa semua orang dan bersalaman dengan para jemaah. | sat (asal: sit): [duduk] • down: [bawah / turun] • afterwards: [kemudiannya / setelah itu] • greeted (asal: greet): [memberi salam / menyapa] • everyone: [semua orang] • and: [dan] • you: [awak / anda] • know: [tahu / kenal] • shaken: [bersalaman] • people's: [milik orang ramai] • hands (asal: hand): [tangan-tangan] • so: [jadi / sangat] • on: [hidup / atas] |
-| 894 | 45:35 - 45:35 | But I have a duty. | Tetapi saya mempunyai satu kewajipan. | But: [tetapi / tapi] • I: [saya / aku] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • duty: [kewajipan / tanggungjawab] |
-| 895 | 45:36 - 45:37 | This is a mosque. | Ini adalah sebuah masjid. | This: [ini] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • mosque: [masjid / rumah Allah] |
-| 896 | 45:37 - 45:37 | It's full. | Ia amat padat. | It's: [ia adalah / itu (singkatan 'it is/has')] • full: [penuh] |
-| 897 | 45:37 - 45:39 | If I greet them, there will be a stampede. | Jika saya bersalaman dengan mereka, akan berlaku rempuhan (tolak-menolak). | If: [jika / kalau] • I: [saya / aku] • greet: [menyapa / memberi salam] • them: [mereka] • there: [di sana / ada] • will: [akan] • be: [menjadi / berada] • a: [sebuah / seorang / satu] • stampede: [rempuhan tolak-menolak] |
-| 898 | 45:39 - 45:41 | There will be injured people, children, and others. | Akan ada orang yang cedera, kanak-kanak, dan lain-lain. | There: [di sana / ada] • will: [akan] • be: [menjadi / berada] • injured (asal: injure): [mencederakan] • people (asal: person): [orang ramai / manusia] • children (asal: child): [anak] • and: [dan] • others: [orang lain] |
-| 899 | 45:41 - 45:42 | It is my duty to leave. | Adalah menjadi tanggungjawab saya untuk beredar segera. | It: [ia / itu] • is: [adalah / ialah] • my: [saya punya / kepunyaan saya] • duty: [kewajipan / tanggungjawab] • to: [ke / untuk] • leave: [tinggalkan / keluar] |
-| 900 | 45:43 - 45:44 | Do you know what I do? | Tahukah anda apa yang saya lakukan? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • I: [saya / aku] |
-| 901 | 45:44 - 45:46 | I get invited to a wedding, for example. | Sebagai contoh, saya dijemput ke majlis perkahwinan. | I: [saya / aku] • get: [dapat / mengambil] • invited: [menjemput] • to: [ke / untuk] • a: [sebuah / seorang / satu] • wedding (asal: wed): [berkahwin] • for: [untuk / bagi] • example: [contoh / teladan] |
-| 902 | 45:46 - 45:50 | I don't prioritize going to weddings, but sometimes we have to go. | Saya sebenarnya tidak mengutamakan menghadiri majlis perkahwinan, tetapi kadangkala kita perlu hadir. | I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • prioritize: [mengutamakan / mendahulukan] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • weddings (asal: wedding): [perkahwinan] • but: [tetapi / tapi] • sometimes: [kadang-kadang] • we: [kami / kita] • have: [ada / mempunyai] • go: [pergi] |
-| 903 | 45:50 - 45:54 | So, if I go to the wedding, I'll tell my brother, "Brother, I'll go, but I'll leave immediately." "I will | Jadi, jika saya hadir ke majlis perkahwinan itu, saya akan beritahu sahabat saya, "Saudaraku, saya akan hadir, tetapi saya akan terus beredar selepas itu." | So: [jadi / sangat] • if: [jika / kalau] • I: [saya / aku] • go: [pergi] • to: [ke / untuk] • the: [kata penentu (itu / si)] • wedding (asal: wed): [berkahwin] • I'll: [saya akan (singkatan 'I will')] • tell: [beritahu / khabarkan] • my: [saya punya / kepunyaan saya] • brother: [saudara lelaki] • but: [tetapi / tapi] • leave: [tinggalkan / keluar] • immediately: [serta-merta / serta merta] • will: [akan] |
-| 904 | 45:54 - 45:59 | go, give a talk, officiate, and then leave." "No, but why?" I said, "No, I have something to do." What | "Saya akan hadir, menyampaikan sedikit tazkirah, mendoakan keberkatan, kemudian terus pulang." "Tidak, tetapi mengapa begitu?" Saya kata, "Tidak, saya ada urusan penting." Mengapa | go: [pergi] • give: [beri / memberikan] • a: [sebuah / seorang / satu] • talk: [bercakap / berborak] • officiate: [merasmikan majlis] • and: [dan] • then: [kemudian / waktu itu] • leave: [tinggalkan / keluar] • No: [tidak / tiada] • but: [tetapi / tapi] • why: [mengapa / kenapa] • I: [saya / aku] • said (asal: say): [cakap / berkata] • have: [ada / mempunyai] • something: [sesuatu] • to: [ke / untuk] • do: [buat / lakukan] • What: [apa / apakah] |
-| 905 | 45:59 - 46:01 | did I do? | saya berbuat demikian? | did (asal: do): [telah buat / adakah] • I: [saya / aku] • do: [buat / lakukan] |
-| 906 | 46:01 - 46:03 | That day belongs to the bride and groom. | Hari tersebut adalah milik eksklusif pasangan pengantin lelaki dan perempuan. | That: [itu / yang] • day: [hari / siang] • belongs (asal: belong): [milik / tergolong dalam] • to: [ke / untuk] • the: [kata penentu (itu / si)] • bride: [pengantin perempuan] • and: [dan] • groom: [pengantin lelaki] |
-| 907 | 46:04 - 46:10 | I'm going to go there just for a few 'likes' and clicks that people get, the focus will shift towards me. | Jika saya berada di sana, semata-mata kerana mengejar beberapa tanda 'suka' dan perhatian orang ramai, fokus majlis akan beralih kepada diri saya. | I'm: [saya / saya sedang (singkatan 'I am')] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • go: [pergi] • there: [di sana / ada] • just: [hanya / sekadar / baru saja] • for: [untuk / bagi] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • likes (asal: like): [suka / seperti] • and: [dan] • clicks (asal: click): [klik / perhatian maya] • that: [itu / yang] • people (asal: person): [orang ramai / manusia] • get: [dapat / mengambil] • the: [kata penentu (itu / si)] • focus: [fokus / tumpuan] • will: [akan] • shift: [beralih arah] • towards: [ke arah / terhadap] • me: [saya / aku] |
-| 908 | 46:10 - 46:13 | And everyone wants to take pictures, and they want to do that. | Dan semua orang akan mahu bergambar, dan mereka sibuk mengejar perkara itu. | And: [dan] • everyone: [semua orang] • wants (asal: want): [mahu / nak] • to: [ke / untuk] • take: [ambil / memerlukan masa] • pictures (asal: picture): [gambar] • they: [mereka] • want: [mahu / nak] • do: [buat / lakukan] • that: [itu / yang] |
-| 909 | 46:13 - 46:14 | I don't need all that. | Saya langsung tidak memerlukan semua itu. | I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • need: [perlu / memerlukan] • all: [semua / seluruh] • that: [itu / yang] |
-| 910 | 46:14 - 46:15 | And they don't need all that. | Dan pasangan pengantin itu juga tidak memerlukan gangguan sedemikian. | And: [dan] • they: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • need: [perlu / memerlukan] • all: [semua / seluruh] • that: [itu / yang] |
-| 911 | 46:16 - 46:16 | They don't know. | Mereka mungkin tidak menyedarinya. | They: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • know: [tahu / kenal] |
-| 912 | 46:16 - 46:19 | They're excited: "We've invited this guy to the wedding." What did I do? | Mereka sangat teruja: "Kami telah menjemput penceramah ini ke majlis perkahwinan kami." Apakah tindakan saya? | They're: [mereka adalah / mereka (singkatan 'they are')] • excited (asal: excite): [mengujakan] • We've: [kami telah / kita dah (singkatan 'we have')] • invited: [menjemput] • this: [ini] • guy: [lelaki / orang itu] • to: [ke / untuk] • the: [kata penentu (itu / si)] • wedding (asal: wed): [berkahwin] • What: [apa / apakah] • did (asal: do): [telah buat / adakah] • I: [saya / aku] • do: [buat / lakukan] |
-| 913 | 46:19 - 46:22 | I left as a blessing for myself and everyone else. | Saya beredar segera demi membawa kebaikan dan keberkatan buat diri saya dan orang lain. | I: [saya / aku] • left (asal: leave): [tinggalkan / keluar] • as: [seperti / sebagai] • a: [sebuah / seorang / satu] • blessing: [rahmat / keberkatan] • for: [untuk / bagi] • myself: [diri saya sendiri] • and: [dan] • everyone: [semua orang] • else: [lain] |
-| 914 | 46:22 - 46:24 | I don't need the food. | Saya tidak memerlukan hidangan makanan itu. | I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • need: [perlu / memerlukan] • the: [kata penentu (itu / si)] • food: [makanan] |
-| 915 | 46:24 - 46:27 | Simply put, mashallah, I delivered what I had to deliver and left. | Secara ringkasnya, masya-Allah, saya telah menyampaikan apa yang perlu disampaikan lalu meminta diri. | Simply: [semata-mata / secara mudah] • put: [letak / meletakkan] • mashallah: [masya-Allah] • I: [saya / aku] • delivered (asal: deliver): [menyampaikan] • what: [apa / apakah] • had (asal: have): [mempunyai / telah ada] • to: [ke / untuk] • deliver: [menyampaikan amanah] • and: [dan] • left (asal: leave): [tinggalkan / keluar] |
-| 916 | 46:27 - 46:30 | Now, the focus remains on the people where it's supposed to be. | Kini, tumpuan majlis kekal sepenuhnya kepada pihak yang sepatutnya diraikan. | Now: [sekarang] • the: [kata penentu (itu / si)] • focus: [fokus / tumpuan] • remains (asal: remain): [kekal berada] • on: [hidup / atas] • people (asal: person): [orang ramai / manusia] • where: [di mana] • it's: [ia adalah / itu (singkatan 'it is/has')] • supposed (asal: suppose): [andaikan] • to: [ke / untuk] • be: [menjadi / berada] |
-| 917 | 46:30 - 46:32 | It's their big day, their big day. | Hari itu adalah hari bahagia mereka yang paling bermakna. | It's: [ia adalah / itu (singkatan 'it is/has')] • their: [mereka punya / kepunyaan mereka] • big: [besar] • day: [hari / siang] |
-| 918 | 46:32 - 46:34 | You wonder why I left. | Anda mungkin tertanya-tanya mengapa saya segera beredar. | You: [awak / anda] • wonder: [tertanya-tanya / keajaiban] • why: [mengapa / kenapa] • I: [saya / aku] • left (asal: leave): [tinggalkan / keluar] |
-| 919 | 46:34 - 46:36 | Between Allah and me, I know why I left. | Antara saya dengan Allah, saya tahu niat sebenar mengapa saya beredar. | Between: [antara / di antara] • Allah: [Allah Subhanahu wa Ta'ala] • and: [dan] • me: [saya / aku] • I: [saya / aku] • know: [tahu / kenal] • why: [mengapa / kenapa] • left (asal: leave): [tinggalkan / keluar] |
-| 920 | 46:36 - 46:38 | The same applies here. | Begitu jugalah keadaannya di sini hari ini. | The: [kata penentu (itu / si)] • same: [sama] • applies (asal: apply): [memohon] • here: [di sini] |
-| 921 | 46:38 - 46:41 | I'm going to leave right after my talk and I'll be gone. | Saya akan terus beredar sebaik sahaja selesai menyampaikan ceramah ini dan saya akan berlepas pulang. | I'm: [saya / saya sedang (singkatan 'I am')] • going (asal: go): [sedang pergi / akan] • to: [ke / untuk] • leave: [tinggalkan / keluar] • right: [betul / kanan / tepat] • after: [selepas / sesudah] • my: [saya punya / kepunyaan saya] • talk: [bercakap / berborak] • and: [dan] • I'll: [saya akan (singkatan 'I will')] • be: [menjadi / berada] • gone (asal: go): [pergi] |
-| 922 | 46:41 - 46:43 | Before you know it, the man is gone. | Sedar-sedar sahaja, penceramah sudah tiada. | Before: [sebelum] • you: [awak / anda] • know: [tahu / kenal] • it: [ia / itu] • the: [kata penentu (itu / si)] • man: [lelaki / orang] • is: [adalah / ialah] • gone (asal: go): [pergi] |
-| 923 | 46:43 - 46:43 | Why? | Mengapa? | Why: [mengapa / kenapa] |
-| 924 | 46:43 - 46:44 | Who am I? | Siapakah saya ini? | Who: [siapa / orang yang] • am: [adalah / berada] • I: [saya / aku] |
-| 925 | 46:44 - 46:47 | If there were any virtue in shaking my hand, I would do it for everyone. | Sekiranya terdapat apa-apa fadhilat istimewa dengan bersalaman dengan saya, pasti saya akan bersalaman dengan setiap jemaah. | If: [jika / kalau] • there: [di sana / ada] • were (asal: be): [adalah / dulu berada] • any: [sebarang / apa-apa] • virtue: [fadilat keutamaan] • in: [dalam / di dalam] • shaking (asal: shake): [goncang] • my: [saya punya / kepunyaan saya] • hand: [tangan] • I: [saya / aku] • would: [akan / sudi] • do: [buat / lakukan] • it: [ia / itu] • for: [untuk / bagi] • everyone: [semua orang] |
-| 926 | 46:47 - 46:48 | There is no virtue. | Namun tiada sebarang fadhilat luar biasa. | There: [di sana / ada] • is: [adalah / ialah] • no: [tidak / tiada] • virtue: [fadilat keutamaan] |
-| 927 | 46:48 - 46:50 | Giving me your hand doesn't mean anything. | Bersalaman dengan saya tidak membawa sebarang erti keramat. | Giving (asal: give): [beri / memberikan] • me: [saya / aku] • your: [awak punya / anda punya] • hand: [tangan] • doesn't: [tidak / tak (singkatan 'does not')] • mean: [maksud / berniat] • anything: [apa-apa pun / sebarang perkara] |
-| 928 | 46:51 - 46:53 | I repeat, janaza ba Allah. | Saya ulang sekali lagi, nilainya di sisi Allah tidak lebih daripada sayap nyamuk. | I: [saya / aku] • repeat: [mengulang] • janaza: [sayap nyamuk / jenazah] • ba: [huruf Ba] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 929 | 46:54 - 46:56 | So I'm a human being just like you. | Jadi saya hanyalah seorang manusia biasa sama seperti anda. | So: [jadi / sangat] • I'm: [saya / saya sedang (singkatan 'I am')] • a: [sebuah / seorang / satu] • human: [manusia] • being (asal: be): [makhluk / insan] • just: [hanya / sekadar / baru saja] • like: [suka / seperti] • you: [awak / anda] |
-| 930 | 46:56 - 46:57 | You're probably better than me. | Anda mungkin jauh lebih mulia di sisi Allah berbanding diri saya. | You're: [anda / awak adalah (singkatan 'you are')] • probably: [mungkin / barangkali] • better (asal: good): [lebih baik] • than: [daripada] • me: [saya / aku] |
-| 931 | 46:58 - 46:59 | But I'm only here to remind you. | Saya berada di sini hanyalah untuk saling mengingatkan. | But: [tetapi / tapi] • I'm: [saya / saya sedang (singkatan 'I am')] • only: [hanya / sahaja] • here: [di sini] • to: [ke / untuk] • remind: [mengingatkan] • you: [awak / anda] |
-| 932 | 46:59 - 47:01 | Perhaps you'd like to hear me out. | Mungkin anda sudi mendengar perkongsian saya. | Perhaps: [mungkin / barangkali] • you'd: [anda akan (singkatan 'you would/had')] • like: [suka / seperti] • to: [ke / untuk] • hear: [mendengar] • me: [saya / aku] • out: [keluar / di luar] |
-| 933 | 47:01 - 47:03 | And maybe you'd like to hear a few things. | Dan mungkin anda ingin mendengar beberapa mutiara nasihat. | And: [dan] • maybe: [barangkali / mungkin] • you'd: [anda akan (singkatan 'you would/had')] • like: [suka / seperti] • to: [ke / untuk] • hear: [mendengar] • a: [sebuah / seorang / satu] • few: [beberapa / sedikit] • things (asal: thing): [benda-benda / perkara-perkara] |
-| 934 | 47:03 - 47:03 | It's a reminder. | Ia hanyalah sebuah peringatan. | It's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • reminder: [peringatan / tazkirah] |
-| 935 | 47:03 - 47:06 | I need this reminder more than you do. | Saya sendiri lebih memerlukan peringatan ini berbanding anda semua. | I: [saya / aku] • need: [perlu / memerlukan] • this: [ini] • reminder: [peringatan / tazkirah] • more (asal: much / many): [lebih banyak] • than: [daripada] • you: [awak / anda] • do: [buat / lakukan] |
-| 936 | 47:06 - 47:08 | But mashallah, I don't care. | Namun masya-Allah, saya tidak kisah. | But: [tetapi / tapi] • mashallah: [masya-Allah] • I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • care: [peduli / prihatin] |
-| 937 | 47:08 - 47:11 | We can shake hands because it is a good Sunnah. | Kita boleh bersalaman kerana ia merupakan suatu sunnah yang mulia. | We: [kami / kita] • can: [boleh / dapat] • shake: [berjabat tangan / goncang] • hands (asal: hand): [tangan-tangan] • because: [kerana / sebab] • it: [ia / itu] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • good: [baik / bagus] • Sunnah: [Sunnah Rasulullah SAW] |
-| 938 | 47:11 - 47:17 | But you know there's a downside and there might be pushing and shoving and a lot of chaos. | Tetapi apabila anda tahu wujud kemudaratan seperti tolak-menolak dan kekecohan yang tidak diingini, | But: [tetapi / tapi] • you: [awak / anda] • know: [tahu / kenal] • there's: [ada / terdapat (singkatan 'there is')] • a: [sebuah / seorang / satu] • downside: [keburukan / sisi negatif] • and: [dan] • there: [di sana / ada] • might: [mungkin / daya] • be: [menjadi / berada] • pushing (asal: push): [sedang menolak / menekan] • shoving: [tolak-menolak] • lot: [banyak] • of: [daripada / tentang] • chaos: [kekecohan / huru-hara] |
-| 939 | 47:17 - 47:22 | The best thing you can do is say bismillah, salaam alaikum my brothers, my sisters, and go on your way. | perkara terbaik yang boleh anda lakukan ialah mengucapkan bismillah, salam alaikum wahai saudara dan saudariku, lalu meneruskan perjalanan. | The: [kata penentu (itu / si)] • best (asal: good): [baik / bagus] • thing: [benda / perkara] • you: [awak / anda] • can: [boleh / dapat] • do: [buat / lakukan] • is: [adalah / ialah] • say: [cakap / berkata] • bismillah: [dengan nama Allah] • salaam: [kesejahteraan / salam (Dar es Salaam)] • alaikum: [ke atas kamu] • my: [saya punya / kepunyaan saya] • brothers (asal: brother): [saudara-saudara] • sisters (asal: sister): [saudari-saudari] • and: [dan] • go: [pergi] • on: [hidup / atas] • your: [awak punya / anda punya] • way: [jalan / cara] |
-| 940 | 47:22 - 47:23 | Do you feel it? | Adakah anda dapat merasakannya? | Do: [buat / lakukan] • you: [awak / anda] • feel: [rasa / merasa] • it: [ia / itu] |
-| 941 | 47:23 - 47:24 | Do you understand what I'm saying? | Adakah anda faham apa yang saya maksudkan? | Do: [buat / lakukan] • you: [awak / anda] • understand: [faham / memahami] • what: [apa / apakah] • I'm: [saya / saya sedang (singkatan 'I am')] • saying (asal: say): [cakap / berkata] |
-| 942 | 47:25 - 47:27 | May Allah grant us the Jannah. | Semoga Allah mengurniakan kita Syurga. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] • the: [kata penentu (itu / si)] • Jannah: [syurga (Jannah)] |
-| 943 | 47:27 - 47:29 | May Allah Almighty grant us the Jannah. | Semoga Allah Yang Maha Berkuasa mengurniakan kita Jannah. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] • the: [kata penentu (itu / si)] • Jannah: [syurga (Jannah)] |
-| 944 | 47:29 - 47:31 | The second point I'm making is that you must be humble. | Perkara kedua yang saya tekankan ialah anda wajib bersikap rendah hati (tawaduk). | The: [kata penentu (itu / si)] • second: [kedua / saat] • point: [tujuan / makna] • I'm: [saya / saya sedang (singkatan 'I am')] • making (asal: make): [sedang membuat] • is: [adalah / ialah] • that: [itu / yang] • you: [awak / anda] • must: [mesti / wajib] • be: [menjadi / berada] • humble: [tawaduk / rendah diri] |
-| 945 | 47:31 - 47:37 | Third thing, the third thing when you want to change your life and want the scales to tip in the right way, | Perkara ketiga, perkara ketiga apabila anda mahu mengubah kehidupan anda dan mahukan neraca timbangan condong ke arah kebaikan, | Third: [ketiga] • thing: [benda / perkara] • the: [kata penentu (itu / si)] • when: [bila / apabila] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • change: [ubah / menukar] • your: [awak punya / anda punya] • life: [kehidupan] • and: [dan] • scales (asal: scale): [neraca timbangan (mizan)] • tip: [mencondongkan timbangan] • in: [dalam / di dalam] • right: [betul / kanan / tepat] • way: [jalan / cara] |
-| 946 | 47:37 - 47:39 | learn to pray five times a day. | belajarlah untuk mendirikan solat lima waktu sehari semalam. | learn: [belajar] • to: [ke / untuk] • pray: [berdoa / mendirikan solat] • five: [lima] • times (asal: time): [masa / waktu] • a: [sebuah / seorang / satu] • day: [hari / siang] |
-| 947 | 47:39 - 47:43 | Learn to pray five times a day. | Belajarlah untuk menunaikan solat lima waktu secara konsisten. | Learn: [belajar] • to: [ke / untuk] • pray: [berdoa / mendirikan solat] • five: [lima] • times (asal: time): [masa / waktu] • a: [sebuah / seorang / satu] • day: [hari / siang] |
-| 948 | 47:43 - 47:52 | Strive hard, very hard, because that is the only pillar of Islam after the shahada that no one has an excuse | Berusahalah bersungguh-sungguh, kerana solat adalah satu-satunya rukun Islam selepas syahadah yang mana tiada seorang pun ada alasan | Strive: [berusaha sedaya upaya] • hard: [sukar / kuat / gigih] • very: [sangat / amat] • because: [kerana / sebab] • that: [itu / yang] • is: [adalah / ialah] • the: [kata penentu (itu / si)] • only: [hanya / sahaja] • pillar: [rukun / tonggak utama] • of: [daripada / tentang] • Islam: [agama Islam] • after: [selepas / sesudah] • shahada: [kalimah syahadah] • no: [tidak / tiada] • one: [satu / seorang] • has: [ada / mempunyai] • an: [sebuah / seorang / satu] • excuse: [alasan / kemaafan] |
-| 949 | 47:52 - 47:53 | not to fulfill. | untuk meninggalkannya. | not: [bukan / tidak] • to: [ke / untuk] • fulfill: [menunaikan / menyempurnakan] |
-| 950 | 47:53 - 47:56 | Do you understand what I mean? | Adakah anda memahami apa yang saya maksudkan? | Do: [buat / lakukan] • you: [awak / anda] • understand: [faham / memahami] • what: [apa / apakah] • I: [saya / aku] • mean: [maksud / berniat] |
-| 951 | 47:56 - 47:57 | I said it before. | Saya pernah menyatakannya sebelum ini. | I: [saya / aku] • said (asal: say): [cakap / berkata] • it: [ia / itu] • before: [sebelum] |
-| 952 | 47:57 - 47:59 | I can tell you quickly. | Biar saya jelaskan secara ringkas. | I: [saya / aku] • can: [boleh / dapat] • tell: [beritahu / khabarkan] • you: [awak / anda] • quickly: [dengan pantas / cepat] |
-| 953 | 47:59 - 48:01 | How many pillars are there in Islam? | Berapakah rukun yang ada di dalam Islam? | How: [bagaimana / macam mana] • many: [banyak] • pillars (asal: pillar): [tiang] • are (asal: be): [adalah / berada] • there: [di sana / ada] • in: [dalam / di dalam] • Islam: [agama Islam] |
-| 954 | 48:01 - 48:02 | Five. | Lima rukun. | Five: [lima] |
-| 955 | 48:02 - 48:02 | Five. | Lima. | Five: [lima] |
-| 956 | 48:02 - 48:05 | When you want to enter Islam, what do you say? | Apabila anda mahu memeluk Islam, apakah yang anda lafazkan? | When: [bila / apabila] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • enter: [masuk / melangkah masuk] • Islam: [agama Islam] • what: [apa / apakah] • do: [buat / lakukan] • say: [cakap / berkata] |
-| 957 | 48:05 - 48:05 | The shahada, right? | Dua kalimah syahadah, betul bukan? | The: [kata penentu (itu / si)] • shahada: [kalimah syahadah] • right: [betul / kanan / tepat] |
-| 958 | 48:05 - 48:07 | So that first pillar is done. | Jadi rukun yang pertama telah terlaksana. | So: [jadi / sangat] • that: [itu / yang] • first: [pertama / dulu] • pillar: [rukun / tonggak utama] • is: [adalah / ialah] • done (asal: do): [buat / lakukan] |
-| 959 | 48:07 - 48:08 | There is no commitment. | Tiada komitmen kewangan atau fizikal yang berat. | There: [di sana / ada] • is: [adalah / ialah] • no: [tidak / tiada] • commitment: [iltizam / komitmen] |
-| 960 | 48:08 - 48:10 | That 's the gateway to faith, isn't it? | Itu adalah pintu gerbang menuju keimanan, bukan? | That: [itu / yang] • s: [saf solat] • the: [kata penentu (itu / si)] • gateway: [pintu gerbang] • to: [ke / untuk] • faith: [keimanan / akidah] • isn't: [bukan / tidak (singkatan 'is not')] • it: [ia / itu] |
-| 961 | 48:10 - 48:11 | Let's start from the bottom. | Mari kita mulakan dari bahagian paling bawah. | Let's: [jom / marilah kita (singkatan 'let us')] • start: [mula / memulakan] • from: [dari / daripada] • the: [kata penentu (itu / si)] • bottom: [bahagian bawah] |
-| 962 | 48:11 - 48:13 | The last pillar is the Hajj. | Rukun yang terakhir ialah ibadah Haji. | The: [kata penentu (itu / si)] • last: [terakhir / lepas] • pillar: [rukun / tonggak utama] • is: [adalah / ialah] • Hajj: [ibadah Haji] |
-| 963 | 48:13 - 48:15 | If you don't have money, does this apply to you? | Sekiranya anda tiada kemampuan kewangan, adakah ia wajib ke atas anda? | If: [jika / kalau] • you: [awak / anda] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • money: [wang / duit] • does (asal: do): [buat / melakukan] • this: [ini] • apply: [mengenakan / menggunakan] • to: [ke / untuk] |
-| 964 | 48:15 - 48:19 | I believe it's a pillar, but I didn't fulfill it because I don't have to. | Saya beriman bahawa ia adalah rukun, tetapi saya tidak melakukannya kerana saya tidak berkemampuan. | I: [saya / aku] • believe: [percaya / meyakini] • it's: [ia adalah / itu (singkatan 'it is/has')] • a: [sebuah / seorang / satu] • pillar: [rukun / tonggak utama] • but: [tetapi / tapi] • didn't: [tidak / tak (singkatan 'did not')] • fulfill: [menunaikan / menyempurnakan] • it: [ia / itu] • because: [kerana / sebab] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • to: [ke / untuk] |
-| 965 | 48:19 - 48:19 | Zakat. | Zakat pula. | Zakat: [ibadah zakat] |
-| 966 | 48:19 - 48:24 | Zakat, you believe it as a pillar, but if you don't have wealth, is it applicable for you to fulfill it? | Zakat, anda beriman bahawa ia adalah rukun, tetapi jika anda tiada lebihan harta, adakah anda diwajibkan mengeluarkannya? | Zakat: [ibadah zakat] • you: [awak / anda] • believe: [percaya / meyakini] • it: [ia / itu] • as: [seperti / sebagai] • a: [sebuah / seorang / satu] • pillar: [rukun / tonggak utama] • but: [tetapi / tapi] • if: [jika / kalau] • don't: [jangan / tidak (singkatan 'do not')] • have: [ada / mempunyai] • wealth: [kekayaan] • is: [adalah / ialah] • applicable: [terpakai / wajib dikenakan] • for: [untuk / bagi] • to: [ke / untuk] • fulfill: [menunaikan / menyempurnakan] |
-| 967 | 48:24 - 48:24 | No. | Tidak. | No: [tidak / tiada] |
-| 968 | 48:24 - 48:26 | Let's move on to the next one. | Mari kita beralih ke rukun seterusnya. | Let's: [jom / marilah kita (singkatan 'let us')] • move: [bergerak / berpindah] • on: [hidup / atas] • to: [ke / untuk] • the: [kata penentu (itu / si)] • next: [seterusnya / sebelah] • one: [satu / seorang] |
-| 969 | 48:26 - 48:27 | Fast. | Puasa. | Fast: [pantas / cepat] |
-| 970 | 48:27 - 48:29 | Fasting is a very important pillar. | Ibadah puasa adalah rukun yang sangat penting. | Fasting: [berpuasa] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • very: [sangat / amat] • important: [penting] • pillar: [rukun / tonggak utama] |
-| 971 | 48:29 - 48:35 | I believe that, but if you are not well or are sick and cannot fast, does Allah force you to fast? | Saya meyakininya, tetapi sekiranya anda tidak sihat atau uzur dan tidak mampu berpuasa, adakah Allah memaksa anda berpuasa? | I: [saya / aku] • believe: [percaya / meyakini] • that: [itu / yang] • but: [tetapi / tapi] • if: [jika / kalau] • you: [awak / anda] • are (asal: be): [adalah / berada] • not: [bukan / tidak] • well: [baiklah / elok / telaga] • or: [atau] • sick: [sakit] • and: [dan] • cannot: [tidak boleh / tidak dapat] • fast: [pantas / cepat] • does (asal: do): [buat / melakukan] • Allah: [Allah Subhanahu wa Ta'ala] • force: [memaksa] • to: [ke / untuk] |
-| 972 | 48:35 - 48:35 | No. | Tidak sama sekali. | No: [tidak / tiada] |
-| 973 | 48:35 - 48:36 | You can pay a fidya. | Anda boleh membayar fidyah. | You: [awak / anda] • can: [boleh / dapat] • pay: [membayar / bayaran] • a: [sebuah / seorang / satu] • fidya: [fidyah] |
-| 974 | 48:36 - 48:38 | There are other ways to handle it. | Terdapat cara rukhsah lain untuk menguruskannya. | There: [di sana / ada] • are (asal: be): [adalah / berada] • other: [lain] • ways (asal: way): [jalan / cara] • to: [ke / untuk] • handle: [pemegang / mengendalikan] • it: [ia / itu] |
-| 975 | 48:38 - 48:40 | But it comes to prayer. | Namun apabila menyentuh perihal solat. | But: [tetapi / tapi] • it: [ia / itu] • comes (asal: come): [datang / mari] • to: [ke / untuk] • prayer: [solat / doa] |
-| 976 | 48:40 - 48:43 | You can't pray it standing up, what do you do? | Jika anda tidak mampu solat berdiri, apa yang anda lakukan? | You: [awak / anda] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • pray: [berdoa / mendirikan solat] • it: [ia / itu] • standing (asal: stand): [sedang berdiri] • up: [atas / naik] • what: [apa / apakah] • do: [buat / lakukan] |
-| 977 | 48:43 - 48:43 | You sit down. | Anda solat secara duduk. | You: [awak / anda] • sit: [duduk] • down: [bawah / turun] |
-| 978 | 48:43 - 48:45 | You can't sit down, what do you do? | Jika tidak mampu solat duduk, apa yang anda lakukan? | You: [awak / anda] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • sit: [duduk] • down: [bawah / turun] • what: [apa / apakah] • do: [buat / lakukan] |
-| 979 | 48:45 - 48:45 | You lie down. | Anda solat secara baring. | You: [awak / anda] • lie: [baring / berbohong] • down: [bawah / turun] |
-| 980 | 48:45 - 48:48 | You can't use water for wudu, what do you do? | Jika anda tidak boleh menggunakan air untuk wuduk, apa yang anda lakukan? Bertayamum. | You: [awak / anda] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • use: [guna / menggunakan] • water: [air] • for: [untuk / bagi] • wudu: [wuduk bersuci] • what: [apa / apakah] • do: [buat / lakukan] |
-| 981 | 48:48 - 48:50 | But you will always have to pray. | Tetapi anda tetap wajib mendirikan solat. | But: [tetapi / tapi] • you: [awak / anda] • will: [akan] • always: [sentiasa / selalu] • have: [ada / mempunyai] • to: [ke / untuk] • pray: [berdoa / mendirikan solat] |
-| 982 | 48:51 - 48:51 | Prayer. | Solat. | Prayer: [solat / doa] |
-| 983 | 48:51 - 48:54 | So you want to build a connection with Allah. | Jadi anda ingin membina hubungan erat dengan Allah. | So: [jadi / sangat] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • build: [membina] • a: [sebuah / seorang / satu] • connection: [hubungan / ikatan] • with: [dengan / bersama] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 984 | 48:54 - 48:55 | Do you know what Allah says? | Tahukah anda apa yang Allah firmankan? | Do: [buat / lakukan] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] |
-| 985 | 48:56 - 49:02 | Allah says that there is nothing more beloved to Me than those things which I made obligatory. | Allah berfirman bahawa tiada amalan yang lebih Aku cintai daripada perkara-perkara yang telah Aku fardukan. | Allah: [Allah Subhanahu wa Ta'ala] • says (asal: say): [cakap / berkata] • that: [itu / yang] • there: [di sana / ada] • is: [adalah / ialah] • nothing: [tiada apa-apa] • more (asal: much / many): [lebih banyak] • beloved: [kekasih / yang dikasihi] • to: [ke / untuk] • Me: [saya / aku] • than: [daripada] • those: [semua itu] • things (asal: thing): [benda-benda / perkara-perkara] • which: [yang mana] • I: [saya / aku] • made (asal: make): [dibuat / menghasilkan] • obligatory: [wajib / difardukan] |
-| 986 | 49:02 - 49:03 | That is a Hadith Qudsi. | Itu adalah sebuah Hadis Qudsi. | That: [itu / yang] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • Hadith: [hadis Rasulullah] • Qudsi: [hadis Qudsi] |
-| 987 | 49:04 - 49:07 | There is nothing more beloved to Me than those things I made obligatory. | Tiada perkara yang lebih Aku sukai melainkan apa yang telah Aku wajibkan ke atas hamba-Ku. | There: [di sana / ada] • is: [adalah / ialah] • nothing: [tiada apa-apa] • more (asal: much / many): [lebih banyak] • beloved: [kekasih / yang dikasihi] • to: [ke / untuk] • Me: [saya / aku] • than: [daripada] • those: [semua itu] • things (asal: thing): [benda-benda / perkara-perkara] • I: [saya / aku] • made (asal: make): [dibuat / menghasilkan] • obligatory: [wajib / difardukan] |
-| 988 | 49:07 - 49:11 | If I did something I had to do, it means it's what I love most. | Jika saya melakukan sesuatu yang diwajibkan ke atas saya, bermakna itulah amalan yang paling Allah cintai. | If: [jika / kalau] • I: [saya / aku] • did (asal: do): [telah buat / adakah] • something: [sesuatu] • had (asal: have): [mempunyai / telah ada] • to: [ke / untuk] • do: [buat / lakukan] • it: [ia / itu] • means (asal: mean): [maksud / berniat] • it's: [ia adalah / itu (singkatan 'it is/has')] • what: [apa / apakah] • love: [suka sangat / sayang] • most (asal: much / many): [paling banyak / kebanyakan] |
-| 989 | 49:11 - 49:15 | And one of the first things he made mandatory was the five sentences. | Dan salah satu amalan terawal yang difardukan ke atas kita ialah solat lima waktu. | And: [dan] • one: [satu / seorang] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • first: [pertama / dulu] • things (asal: thing): [benda-benda / perkara-perkara] • he: [dia (lelaki)] • made (asal: make): [dibuat / menghasilkan] • mandatory: [wajib / difardukan] • was: [adalah / dulu berada] • five: [lima] • sentences (asal: sentence): [ayat-ayat] |
-| 990 | 49:15 - 49:17 | So you want to connect with Allah. | Jadi anda mahu terhubung dengan Allah. | So: [jadi / sangat] • you: [awak / anda] • want: [mahu / nak] • to: [ke / untuk] • connect: [menghubungkan / menyambung] • with: [dengan / bersama] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 991 | 49:17 - 49:18 | I know we are weak. | Saya sedar kita semua insan yang lemah. | I: [saya / aku] • know: [tahu / kenal] • we: [kami / kita] • are (asal: be): [adalah / berada] • weak: [lemah] |
-| 992 | 49:18 - 49:20 | I know we all have weaknesses. | Saya tahu kita semua mempunyai kelemahan diri. | I: [saya / aku] • know: [tahu / kenal] • we: [kami / kita] • all: [semua / seluruh] • have: [ada / mempunyai] • weaknesses: [kelemahan-kelemahan] |
-| 993 | 49:20 - 49:27 | My brothers, my sisters, my beloved children, I strongly encourage you to take your prayer seriously. | Wahai saudara-saudaraku, saudari-saudariku, dan anak-anak yang saya kasihi, saya sangat menggalakkan anda untuk menjaga solat anda dengan bersungguh-sungguh. | My: [saya punya / kepunyaan saya] • brothers (asal: brother): [saudara-saudara] • sisters (asal: sister): [saudari-saudari] • beloved: [kekasih / yang dikasihi] • children (asal: child): [anak] • I: [saya / aku] • strongly: [dengan tegas / bersungguh-sungguh] • encourage: [menggalakkan / mendorong] • you: [awak / anda] • to: [ke / untuk] • take: [ambil / memerlukan masa] • your: [awak punya / anda punya] • prayer: [solat / doa] • seriously: [secara bersungguh-sungguh] |
-| 994 | 49:27 - 49:28 | Your life will change. | Kehidupan anda pasti akan berubah. | Your: [awak punya / anda punya] • life: [kehidupan] • will: [akan] • change: [ubah / menukar] |
-| 995 | 49:29 - 49:30 | Be a proud Muslim. | Jadilah seorang Muslim yang bangga dengan agamanya. | Be: [menjadi / berada] • a: [sebuah / seorang / satu] • proud: [bangga] • Muslim: [orang Islam / Muslim] |
-| 996 | 49:30 - 49:32 | Be a person whose identity is known. | Jadilah seorang insan yang jelas identiti keislamannya. | Be: [menjadi / berada] • a: [sebuah / seorang / satu] • person: [orang / individu] • whose: [yang mana / milik siapa] • identity: [identiti / jati diri] • is: [adalah / ialah] • known (asal: know): [tahu / kenal] |
-| 997 | 49:32 - 49:35 | So what if they don't treat you well? | Jadi bagaimana jika orang lain melayan anda dengan buruk? | So: [jadi / sangat] • what: [apa / apakah] • if: [jika / kalau] • they: [mereka] • don't: [jangan / tidak (singkatan 'do not')] • treat: [melayan / memperlakukan] • you: [awak / anda] • well: [baiklah / elok / telaga] |
-| 998 | 49:35 - 49:38 | They did not treat the Prophet Muhammad well, peace and blessings of Allah be upon him. | Dahulu mereka juga tidak melayan Nabi Muhammad dengan baik, selawat dan salam ke atas baginda. | They: [mereka] • did (asal: do): [telah buat / adakah] • not: [bukan / tidak] • treat: [melayan / memperlakukan] • the: [kata penentu (itu / si)] • Prophet: [Nabi / Rasul] • Muhammad: [Nabi Muhammad SAW] • well: [baiklah / elok / telaga] • peace: [keamanan / kedamaian] • and: [dan] • blessings (asal: blessing): [keberkatan / nikmat] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] • be: [menjadi / berada] • upon: [ke atas / di atas] • him: [dia (lelaki)] |
-| 999 | 49:38 - 49:39 | He took it as an honor. | Baginda menganggap cabaran itu sebagai satu kemuliaan. | He: [dia (lelaki)] • took (asal: take): [mengambil / telah ambil] • it: [ia / itu] • as: [seperti / sebagai] • an: [sebuah / seorang / satu] • honor: [menghormati / memuliakan] |
-| 1000 | 49:39 - 49:42 | He did not compromise his faith. | Baginda tidak pernah menggadaikan pegangan agamanya. | He: [dia (lelaki)] • did (asal: do): [telah buat / adakah] • not: [bukan / tidak] • compromise: [berkompromi] • his: [miliknya / kepunyaan dia] • faith: [keimanan / akidah] |
-| 1001 | 49:42 - 49:44 | They were tortured in Mecca. | Para sahabat diseksa dengan kejam di Mekah. | They: [mereka] • were (asal: be): [adalah / dulu berada] • tortured (asal: torture): [diseksa dengan zalim] • in: [dalam / di dalam] • Mecca: [Kota Makkah] |
-| 1002 | 49:45 - 49:47 | They did not compromise their faith. | Namun mereka tidak pernah sesekali menggadaikan keimanan mereka. | They: [mereka] • did (asal: do): [telah buat / adakah] • not: [bukan / tidak] • compromise: [berkompromi] • their: [mereka punya / kepunyaan mereka] • faith: [keimanan / akidah] |
-| 1003 | 49:47 - 49:48 | So, they might not like you. | Jadi, orang lain mungkin tidak menyukai anda. | So: [jadi / sangat] • they: [mereka] • might: [mungkin / daya] • not: [bukan / tidak] • like: [suka / seperti] • you: [awak / anda] |
-| 1004 | 49:49 - 49:49 | And? | Lalu apa masalahnya? | And: [dan] |
-| 1005 | 49:49 - 49:50 | I will continue to pray. | Saya akan terus istiqamah mendirikan solat. | I: [saya / aku] • will: [akan] • continue: [teruskan / menyambung] • to: [ke / untuk] • pray: [berdoa / mendirikan solat] |
-| 1006 | 49:50 - 49:52 | I am still myself, I am a Muslim without apology. | Saya tetap diri saya yang sebenar, saya seorang Muslim tanpa perlu meminta maaf. | I: [saya / aku] • am: [adalah / berada] • still: [masih / tenang] • myself: [diri saya sendiri] • a: [sebuah / seorang / satu] • Muslim: [orang Islam / Muslim] • without: [tanpa] • apology: [permohonan maaf] |
-| 1007 | 49:52 - 49:56 | And I will prove to you that Islam is an amazing and beautiful religion. | Dan saya akan membuktikan kepada anda bahawa Islam adalah agama yang amat luar biasa dan penuh keindahan. | And: [dan] • I: [saya / aku] • will: [akan] • prove: [membuktikan] • to: [ke / untuk] • you: [awak / anda] • that: [itu / yang] • Islam: [agama Islam] • is: [adalah / ialah] • an: [sebuah / seorang / satu] • amazing (asal: amaze): [memukau] • beautiful: [indah / cantik] • religion: [agama] |
-| 1008 | 49:56 - 50:00 | We are taught to help Muslims, non-Muslims, whoever they may be. | Kita diajar untuk membantu orang Islam, orang bukan Islam, sesiapa sahaja tanpa mengira latar belakang. | We: [kami / kita] • are (asal: be): [adalah / berada] • taught (asal: teach): [diajar] • to: [ke / untuk] • help: [bantu / tolong] • Muslims: [orang-orang Islam] • non: [bukan / tidak] • whoever: [sesiapa sahaja] • they: [mereka] • may: [semoga / moga-moga] • be: [menjadi / berada] |
-| 1009 | 50:00 - 50:03 | I gave you an example at the beginning of this talk about a dog. | Saya telah memberikan satu contoh kepada anda pada awal ceramah ini mengenai seekor anjing. | I: [saya / aku] • gave (asal: give): [beri / memberikan] • you: [awak / anda] • an: [sebuah / seorang / satu] • example: [contoh / teladan] • at: [di / pada] • the: [kata penentu (itu / si)] • beginning (asal: begin): [permulaan] • of: [daripada / tentang] • this: [ini] • talk: [bercakap / berborak] • about: [tentang / sekitar] • a: [sebuah / seorang / satu] • dog: [anjing] |
-| 1010 | 50:03 - 50:06 | And I told them that we should | Dan saya telah berpesan kepada mereka bahawa kita wajib | And: [dan] • I: [saya / aku] • told (asal: tell): [memberitahu] • them: [mereka] • that: [itu / yang] • we: [kami / kita] • should: [patut / patutlah] |
-| 1011 | 50:06 - 50:07 | be kind to animals, take care of them, and so on. | berbuat baik kepada binatang, menjaga kebajikan haiwan, dan sebagainya. | be: [menjadi / berada] • kind: [jenis / baik hati] • to: [ke / untuk] • animals (asal: animal): [haiwan] • take: [ambil / memerlukan masa] • care: [peduli / prihatin] • of: [daripada / tentang] • them: [mereka] • and: [dan] • so: [jadi / sangat] • on: [hidup / atas] |
-| 1012 | 50:07 - 50:12 | I even said that with a pig, you should be kind to the pig. | Malah saya turut menyatakan bahawa terhadap seekor babi sekalipun, anda wajib berlaku ihsan kepadanya. | I: [saya / aku] • even: [malah / pun] • said (asal: say): [cakap / berkata] • that: [itu / yang] • with: [dengan / bersama] • a: [sebuah / seorang / satu] • pig: [babi] • you: [awak / anda] • should: [patut / patutlah] • be: [menjadi / berada] • kind: [jenis / baik hati] • to: [ke / untuk] • the: [kata penentu (itu / si)] |
-| 1013 | 50:12 - 50:13 | May Almighty Allah honor us all. | Semoga Allah Yang Maha Kuasa memuliakan kita semua. | May: [semoga / moga-moga] • Almighty: [Yang Maha Berkuasa (Allah)] • Allah: [Allah Subhanahu wa Ta'ala] • honor: [menghormati / memuliakan] • us: [kami / kita] • all: [semua / seluruh] |
-| 1014 | 50:14 - 50:15 | May Allah Almighty bless us all. | Semoga Allah Yang Maha Berkuasa merahmati kita semua. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • Almighty: [Yang Maha Berkuasa (Allah)] • bless: [merahmati / memberkati] • us: [kami / kita] • all: [semua / seluruh] |
-| 1015 | 50:15 - 50:16 | That's how you start. | Begitulah cara anda memulakan langkah perubahan. | That's: [itu adalah / itu (singkatan 'that is')] • how: [bagaimana / macam mana] • you: [awak / anda] • start: [mula / memulakan] |
-| 1016 | 50:16 - 50:18 | And that is how you draw closer to Allah. | Dan begitulah cara anda mendekatkan diri kepada Allah. | And: [dan] • that: [itu / yang] • is: [adalah / ialah] • how: [bagaimana / macam mana] • you: [awak / anda] • draw: [menarik / mendekatkan] • closer (asal: close): [lebih dekat] • to: [ke / untuk] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 1017 | 50:18 - 50:21 | And that is how the doors begin to open. | Dan dengan cara itulah pintu-pintu rahmat mula terbuka luas. | And: [dan] • that: [itu / yang] • is: [adalah / ialah] • how: [bagaimana / macam mana] • the: [kata penentu (itu / si)] • doors (asal: door): [pintu-pintu] • begin: [mula / bermula] • to: [ke / untuk] • open: [buka / terbuka] |
-| 1018 | 50:21 - 50:22 | Simple beginnings, an easy start. | Permulaan yang ringkas, langkah awal yang mudah. | Simple: [mudah / ringkas] • beginnings (asal: beginning): [permulaan-permulaan] • an: [sebuah / seorang / satu] • easy: [mudah / senang] • start: [mula / memulakan] |
-| 1019 | 50:22 - 50:24 | We start with Allah Subhana Wa Ta'ala. | Kita mulakan segalanya kerana Allah Subhanahu Wa Ta'ala. | We: [kami / kita] • start: [mula / memulakan] • with: [dengan / bersama] • Allah: [Allah Subhanahu wa Ta'ala] • Subhana: [Maha Suci] • Wa: [dan] • Ta'ala: [Maha Tinggi] |
-| 1020 | 50:24 - 50:27 | And Allah will open the gates one after another. | Dan Allah akan membuka pintu-pintu kemudahan satu demi satu. | And: [dan] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • open: [buka / terbuka] • the: [kata penentu (itu / si)] • gates (asal: gate): [pintu pagar] • one: [satu / seorang] • after: [selepas / sesudah] • another: [satu lagi / lain] |
-| 1021 | 50:27 - 50:30 | And Allah will grant us the goodness of this world and the next. | Dan Allah akan mengurniakan kepada kita kebaikan di dunia dan kebaikan di akhirat. | And: [dan] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] • the: [kata penentu (itu / si)] • goodness: [kebaikan / kebajikan] • of: [daripada / tentang] • this: [ini] • world: [dunia] • next: [seterusnya / sebelah] |
-| 1022 | 50:30 - 50:37 | So we seek Allah's forgiveness, we humble ourselves, we begin our prayer, and then Allah will open our doors. | Maka kita memohon keampunan Allah, kita merendahkan diri kita, kita memulakan solat kita, dan kemudian Allah akan membuka jalan keluar buat kita. | So: [jadi / sangat] • we: [kami / kita] • seek: [mencari / memohon] • Allah's: [milik Allah / kurniaan Allah] • forgiveness: [keampunan] • humble: [tawaduk / rendah diri] • ourselves: [diri kita sendiri] • begin: [mula / bermula] • our: [kami punya / kita punya] • prayer: [solat / doa] • and: [dan] • then: [kemudian / waktu itu] • Allah: [Allah Subhanahu wa Ta'ala] • will: [akan] • open: [buka / terbuka] • doors (asal: door): [pintu-pintu] |
-| 1023 | 50:37 - 50:40 | Don't make excuses when you've done something wrong. | Jangan sesekali mencari alasan apabila anda telah melakukan sesuatu kesilapan. | Don't: [jangan / tidak (singkatan 'do not')] • make: [buat / menghasilkan] • excuses (asal: excuse): [alasan-alasan] • when: [bila / apabila] • you've: [anda telah / awak dah (singkatan 'you have')] • done (asal: do): [buat / lakukan] • something: [sesuatu] • wrong: [salah] |
-| 1024 | 50:40 - 50:44 | Always ask Allah: "O Allah, strengthen me to do what is obligatory. | Sentiasalah berdoa kepada Allah: "Ya Allah, berikanlah aku kekuatan untuk melaksanakan apa yang diwajibkan. | Always: [sentiasa / selalu] • ask: [tanya / meminta] • Allah: [Allah Subhanahu wa Ta'ala] • O: [wahai] • strengthen: [mengukuhkan / memperkuat] • me: [saya / aku] • to: [ke / untuk] • do: [buat / lakukan] • what: [apa / apakah] • is: [adalah / ialah] • obligatory: [wajib / difardukan] |
-| 1025 | 50:44 - 50:49 | O Allah, strengthen me to do what is pleasing to You. | Ya Allah, berikanlah aku kekuatan untuk melakukan apa yang Engkau redai. | O: [wahai] • Allah: [Allah Subhanahu wa Ta'ala] • strengthen: [mengukuhkan / memperkuat] • me: [saya / aku] • to: [ke / untuk] • do: [buat / lakukan] • what: [apa / apakah] • is: [adalah / ialah] • pleasing (asal: please): [tolonglah] • You: [awak / anda] |
-| 1026 | 50:49 - 50:57 | And O Allah, strengthen me to forsake what is displeasing to You." May Allah Almighty bless you all. | Dan ya Allah, berikanlah aku kekuatan untuk meninggalkan apa yang mendatangkan kemurkaan-Mu." Semoga Allah Yang Maha Berkuasa merahmati anda semua. | And: [dan] • O: [wahai] • Allah: [Allah Subhanahu wa Ta'ala] • strengthen: [mengukuhkan / memperkuat] • me: [saya / aku] • to: [ke / untuk] • forsake: [meninggalkan / mengabaikan] • what: [apa / apakah] • is: [adalah / ialah] • displeasing: [memurkakan / tidak menyenangkan] • You: [awak / anda] • May: [semoga / moga-moga] • Almighty: [Yang Maha Berkuasa (Allah)] • bless: [merahmati / memberkati] • all: [semua / seluruh] |
-| 1027 | 50:58 - 50:59 | These brothers have risen up. | Saudara-saudara kita ini sudah mula berdiri. | These: [semua ini] • brothers (asal: brother): [saudara-saudara] • have: [ada / mempunyai] • risen (asal: rise): [telah bangkit berdiri] • up: [atas / naik] |
-| 1028 | 50:59 - 51:00 | They want me to leave Aberdeen. | Mereka mahu saya beredar meninggalkan Aberdeen segera. | They: [mereka] • want: [mahu / nak] • me: [saya / aku] • to: [ke / untuk] • leave: [tinggalkan / keluar] • Aberdeen: [Aberdeen (bandar di Scotland)] |
-| 1029 | 51:01 - 51:05 | I said something that seems to have offended some people. | Adakah saya tersilap kata sehingga menyinggung perasaan sesetengah orang? | I: [saya / aku] • said (asal: say): [cakap / berkata] • something: [sesuatu] • that: [itu / yang] • seems (asal: seem): [nampak] • to: [ke / untuk] • have: [ada / mempunyai] • offended (asal: offend): [menyinggung perasaan] • some: [beberapa / sedikit] • people (asal: person): [orang ramai / manusia] |
-| 1030 | 51:05 - 51:06 | I did it? | Adakah saya melakukannya? | I: [saya / aku] • did (asal: do): [telah buat / adakah] • it: [ia / itu] |
-| 1031 | 51:06 - 51:08 | No, I didn't do it. | Tidak, saya tidak berbuat demikian. | No: [tidak / tiada] • I: [saya / aku] • didn't: [tidak / tak (singkatan 'did not')] • do: [buat / lakukan] • it: [ia / itu] |
-| 1032 | 51:08 - 51:08 | Come on, guys. | Tenanglah semua sahabat. | Come: [datang / mari] • on: [hidup / atas] • guys (asal: guy): [kawan-kawan / kalian] |
-| 1033 | 51:08 - 51:09 | Masha'Allah. | Masya-Allah. | Masha'Allah: [masya-Allah (kehendak Allah)] |
-| 1034 | 51:09 - 51:10 | May Allah bless you all. | Semoga Allah merahmati anda semua. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • bless: [merahmati / memberkati] • you: [awak / anda] • all: [semua / seluruh] |
-| 1035 | 51:10 - 51:10 | Masha'Allah. | Masya-Allah. | Masha'Allah: [masya-Allah (kehendak Allah)] |
-| 1036 | 51:10 - 51:13 | Can I ask you a question? | Bolehkah saya bertanyakan satu soalan kepada anda? | Can: [boleh / dapat] • I: [saya / aku] • ask: [tanya / meminta] • you: [awak / anda] • a: [sebuah / seorang / satu] • question: [soalan] |
-| 1037 | 51:13 - 51:15 | What's your name? | Siapakah nama anda? | What's: [apa / apakah (singkatan 'what is/has')] • your: [awak punya / anda punya] • name: [nama] |
-| 1038 | 51:15 - 51:15 | Yunus. | Yunus. | Yunus: [Yunus (nama jemaah)] |
-| 1039 | 51:15 - 51:16 | Masha'Allah. | Masya-Allah. | Masha'Allah: [masya-Allah (kehendak Allah)] |
-| 1040 | 51:16 - 51:19 | What brought you here today? | Apakah yang membawa anda hadir ke sini pada hari ini? | What: [apa / apakah] • brought (asal: bring): [membawa] • you: [awak / anda] • here: [di sini] • today: [hari ini] |
-| 1041 | 51:20 - 51:22 | What was the reason? | Apakah puncanya? | What: [apa / apakah] • was: [adalah / dulu berada] • the: [kata penentu (itu / si)] • reason: [sebab / alasan] |
-| 1042 | 51:22 - 51:24 | It seems you arrived a little early, didn't you? | Nampaknya anda tiba agak awal, bukan? | It: [ia / itu] • seems (asal: seem): [nampak] • you: [awak / anda] • arrived (asal: arrive): [tiba] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • early: [awal] • didn't: [tidak / tak (singkatan 'did not')] |
-| 1043 | 51:24 - 51:31 | Yes, I wanted to become enlightened, and I wanted to become enlightened, he says, and something else, I'm about | Ya, saya ingin mendapatkan pencerahan ilmu, dan saya mahu membimbing jiwa saya, katanya, dan satu perkara lagi, saya bakal | Yes: [ya] • I: [saya / aku] • wanted (asal: want): [mahu / nak] • to: [ke / untuk] • become: [menjadi] • enlightened: [mendapat pencerahan ilmu] • and: [dan] • he: [dia (lelaki)] • says (asal: say): [cakap / berkata] • something: [sesuatu] • else: [lain] • I'm: [saya / saya sedang (singkatan 'I am')] • about: [tentang / sekitar] |
-| 1044 | 51:31 - 51:36 | to start university and I want to make sure I live in accordance with Alhamdulillah. | memulakan pengajian di universiti dan saya mahu memastikan saya menjalani kehidupan mengikut panduan alhamdulillah. | to: [ke / untuk] • start: [mula / memulakan] • university: [institusi universiti] • and: [dan] • I: [saya / aku] • want: [mahu / nak] • make: [buat / menghasilkan] • sure: [pasti / tentu] • live: [secara langsung / hidup] • in: [dalam / di dalam] • accordance: [selaras / bertepatan dengan] • with: [dengan / bersama] • Alhamdulillah: [segala puji bagi Allah] |
-| 1045 | 51:36 - 51:41 | Mashallah, the brother says that he wanted to become enlightened and everything else he said after that is | Masya-Allah, saudara kita menyatakan bahawa beliau mahu mendapatkan pencerahan dan segala yang beliau katakan selepas itu adalah | Mashallah: [masya-Allah] • the: [kata penentu (itu / si)] • brother: [saudara lelaki] • says (asal: say): [cakap / berkata] • that: [itu / yang] • he: [dia (lelaki)] • wanted (asal: want): [mahu / nak] • to: [ke / untuk] • become: [menjadi] • enlightened: [mendapat pencerahan ilmu] • and: [dan] • everything: [segalanya / semua perkara] • else: [lain] • said (asal: say): [cakap / berkata] • after: [selepas / sesudah] • is: [adalah / ialah] |
-| 1046 | 51:41 - 51:42 | related to that. | berkaitan dengannya. | related (asal: relate): [kaitkan] • to: [ke / untuk] • that: [itu / yang] |
-| 1047 | 51:42 - 51:44 | Do you feel, do you feel a little better? | Adakah anda berasa, adakah anda berasa lebih tenang dan bersemangat sekarang? | Do: [buat / lakukan] • you: [awak / anda] • feel: [rasa / merasa] • a: [sebuah / seorang / satu] • little: [kecil / sedikit] • better (asal: good): [lebih baik] |
-| 1048 | 51:44 - 51:44 | Yes, I am. | Ya, saya merasakannya. | Yes: [ya] • I: [saya / aku] • am: [adalah / berada] |
-| 1049 | 51:44 - 51:46 | May Allah bless us all. | Semoga Allah merahmati kita semua. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • bless: [merahmati / memberkati] • us: [kami / kita] • all: [semua / seluruh] |
-| 1050 | 51:46 - 51:51 | The reason I ask is because many young people come and I always ask them what made them come and why they | Sebab utama saya bertanya adalah kerana ramai anak muda yang hadir dan saya sentiasa bertanya apa yang mendorong mereka hadir dan mengapa mereka | The: [kata penentu (itu / si)] • reason: [sebab / alasan] • I: [saya / aku] • ask: [tanya / meminta] • is: [adalah / ialah] • because: [kerana / sebab] • many: [banyak] • young: [muda] • people (asal: person): [orang ramai / manusia] • come: [datang / mari] • and: [dan] • always: [sentiasa / selalu] • them: [mereka] • what: [apa / apakah] • made (asal: make): [dibuat / menghasilkan] • why: [mengapa / kenapa] • they: [mereka] |
-| 1051 | 51:51 - 51:51 | came. | datang ke sini. | came (asal: come): [datang / mari] |
-| 1052 | 51:51 - 51:54 | I hope it's never to take a picture with you. | Saya berharap niatnya bukanlah semata-mata untuk bergambar bersama. | I: [saya / aku] • hope: [harapan / berharap] • it's: [ia adalah / itu (singkatan 'it is/has')] • never: [tidak pernah / tak pernah] • to: [ke / untuk] • take: [ambil / memerlukan masa] • a: [sebuah / seorang / satu] • picture: [gambar / potret] • with: [dengan / bersama] • you: [awak / anda] |
-| 1053 | 51:54 - 51:57 | Because that won't get you anywhere. | Kerana gambar itu tidak akan membawa anda ke mana-mana. | Because: [kerana / sebab] • that: [itu / yang] • won't: [tidak akan / takkan (singkatan 'will not')] • get: [dapat / mengambil] • you: [awak / anda] • anywhere: [ke mana-mana pun] |
-| 1054 | 51:57 - 52:04 | Wallahi, whether you take a picture or not, I like to use the term that means that in the eyes of Allah | Wallahi, sama ada anda bergambar atau tidak, saya suka menggunakan perumpamaan bahawa di sisi Allah, | Wallahi: [demi Allah] • whether: [sama ada] • you: [awak / anda] • take: [ambil / memerlukan masa] • a: [sebuah / seorang / satu] • picture: [gambar / potret] • or: [atau] • not: [bukan / tidak] • I: [saya / aku] • like: [suka / seperti] • to: [ke / untuk] • use: [guna / menggunakan] • the: [kata penentu (itu / si)] • term: [istilah / perkataan] • that: [itu / yang] • means (asal: mean): [maksud / berniat] • in: [dalam / di dalam] • eyes (asal: eye): [mata] • of: [daripada / tentang] • Allah: [Allah Subhanahu wa Ta'ala] |
-| 1055 | 52:04 - 52:06 | you are not worth the weight of a fly. | dunia dan kemasyhuran ini tidak bernilai walau seberat sayap lalat. | you: [awak / anda] • are (asal: be): [adalah / berada] • not: [bukan / tidak] • worth: [bernilai] • the: [kata penentu (itu / si)] • weight: [berat] • of: [daripada / tentang] • a: [sebuah / seorang / satu] • fly: [lalat / terbang] |
-| 1056 | 52:06 - 52:08 | That's what it is. | Itulah hakikat yang sebenar. | That's: [itu adalah / itu (singkatan 'that is')] • what: [apa / apakah] • it: [ia / itu] • is: [adalah / ialah] |
-| 1057 | 52:08 - 52:12 | So, inshallah, if we can, I don't mind a photo or two, but if you can't get it, don't bother. | Jadi, insya-Allah, jika ada kesempatan, saya tidak keberatan untuk mengambil satu atau dua keping gambar, tetapi jika tidak berpeluang, jangan risaukan. | So: [jadi / sangat] • inshallah: [insya-Allah] • if: [jika / kalau] • we: [kami / kita] • can: [boleh / dapat] • I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • mind: [fikiran / minda] • a: [sebuah / seorang / satu] • photo: [gambar foto] • or: [atau] • two: [dua] • but: [tetapi / tapi] • you: [awak / anda] • can't: [tidak boleh / tak boleh (singkatan 'cannot')] • get: [dapat / mengambil] • it: [ia / itu] • bother: [mengambil pusing / menyusahkan] |
-| 1058 | 52:12 - 52:13 | We will walk out, inshallah. | Kita akan beredar keluar, insya-Allah. | We: [kami / kita] • will: [akan] • walk: [berjalan] • out: [keluar / di luar] • inshallah: [insya-Allah] |
-| 1059 | 52:14 - 52:18 | The young people who are here and that I see, wallahi, it moves me a lot to see so many young people. | Anak-anak muda yang berada di sini dan yang saya saksikan ini, wallahi, amat menyentuh hati saya melihat begitu ramai golongan muda. | The: [kata penentu (itu / si)] • young: [muda] • people (asal: person): [orang ramai / manusia] • who: [siapa / orang yang] • are (asal: be): [adalah / berada] • here: [di sini] • and: [dan] • that: [itu / yang] • I: [saya / aku] • see: [lihat / nampak / tengok] • wallahi: [demi Allah] • it: [ia / itu] • moves (asal: move): [bergerak / berpindah] • me: [saya / aku] • a: [sebuah / seorang / satu] • lot: [banyak] • to: [ke / untuk] • so: [jadi / sangat] • many: [banyak] |
-| 1060 | 52:18 - 52:20 | How many of you are under 30 years old? | Berapa ramai antara anda yang berumur di bawah 30 tahun? | How: [bagaimana / macam mana] • many: [banyak] • of: [daripada / tentang] • you: [awak / anda] • are (asal: be): [adalah / berada] • under: [di bawah] • years (asal: year): [tahun] • old: [tua] |
-| 1061 | 52:20 - 52:22 | Raise your hand. | Sila angkat tangan anda. | Raise: [mengangkat tangan] • your: [awak punya / anda punya] • hand: [tangan] |
-| 1062 | 52:22 - 52:23 | Allahu Akbar. | Allahu Akbar. | Allahu: [Allah] • Akbar: [Maha Besar] |
-| 1063 | 52:23 - 52:24 | That's most of the mosque. | Hampir seluruh jemaah masjid mengangkat tangan. | That's: [itu adalah / itu (singkatan 'that is')] • most (asal: much / many): [paling banyak / kebanyakan] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • mosque: [masjid / rumah Allah] |
-| 1064 | 52:24 - 52:25 | That's a very good sign. | Itu adalah petanda yang sangat baik. | That's: [itu adalah / itu (singkatan 'that is')] • a: [sebuah / seorang / satu] • very: [sangat / amat] • good: [baik / bagus] • sign: [tanda / isyarat] |
-| 1065 | 52:25 - 52:30 | May Allah bless this wonderful community, inshallah, and may Allah subhanahu wa ta'ala grant us ease and kindness. | Semoga Allah memberkati komuniti yang hebat ini, insya-Allah, dan semoga Allah Subhanahu Wa Ta'ala mengurniakan kemudahan dan rahmat-Nya kepada kita. | May: [semoga / moga-moga] • Allah: [Allah Subhanahu wa Ta'ala] • bless: [merahmati / memberkati] • this: [ini] • wonderful: [hebat / luar biasa] • community: [masyarakat / komuniti] • inshallah: [insya-Allah] • and: [dan] • subhanahu: [Maha Suci Dia] • wa: [dan] • ta'ala: [Maha Tinggi] • grant: [mengurniakan / memperkenankan] • us: [kami / kita] • ease: [kemudahan / kelapangan] • kindness: [kebaikan / ihsan] |
-| 1066 | 52:30 - 52:35 | I don't want to get up, but these guys are trying to tell me, "You know what? | Saya sebenarnya tidak mahu bangun lagi, tetapi mereka cuba memberitahu saya, "Tahukah anda? | I: [saya / aku] • don't: [jangan / tidak (singkatan 'do not')] • want: [mahu / nak] • to: [ke / untuk] • get: [dapat / mengambil] • up: [atas / naik] • but: [tetapi / tapi] • these: [semua ini] • guys (asal: guy): [kawan-kawan / kalian] • are (asal: be): [adalah / berada] • trying (asal: try): [cuba / mencuba] • tell: [beritahu / khabarkan] • me: [saya / aku] • You: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 1067 | 52:35 - 52:36 | Masha'Allah. | Masya-Allah. | Masha'Allah: [masya-Allah (kehendak Allah)] |
-| 1068 | 52:37 - 52:37 | Masha'Allah. | Masya-Allah. | Masha'Allah: [masya-Allah (kehendak Allah)] |
-| 1069 | 52:37 - 52:41 | Just a minute." Then, they just reminded me that, you know what? | Sebentar sahaja lagi." Kemudian, mereka baru mengingatkan saya bahawa, tahukah anda? | Just: [hanya / sekadar / baru saja] • a: [sebuah / seorang / satu] • minute: [minit] • Then: [kemudian / waktu itu] • they: [mereka] • reminded (asal: remind): [ingatkan] • me: [saya / aku] • that: [itu / yang] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] |
-| 1070 | 52:41 - 52:43 | I came here with Abdullah Aid. | Saya datang ke sini bersama organisasi Abdullah Aid. | I: [saya / aku] • came (asal: come): [datang / mari] • here: [di sini] • with: [dengan / bersama] • Abdullah: [Abdullah (nama badan kebajikan)] • Aid: [bantuan / pertolongan] |
-| 1071 | 52:43 - 52:47 | Abdullah Aid is a legitimate | Abdullah Aid merupakan sebuah badan kebajikan yang berdaftar dan sah | Abdullah: [Abdullah (nama badan kebajikan)] • Aid: [bantuan / pertolongan] • is: [adalah / ialah] • a: [sebuah / seorang / satu] • legitimate: [sah / berdaftar rasmi] |
-| 1072 | 52:47 - 52:51 | UK-based charity that I'm not only affiliated with, I'm an ambassador and I work with them. | berpangkalan di UK yang mana saya bukan sahaja bekerjasama, malah saya adalah duta dan berkhidmat bersama mereka. | UK: [United Kingdom (UK)] • based (asal: base): [asas] • charity: [sedekah] • that: [itu / yang] • I'm: [saya / saya sedang (singkatan 'I am')] • not: [bukan / tidak] • only: [hanya / sahaja] • affiliated: [bergabung / bernaung di bawah] • with: [dengan / bersama] • an: [sebuah / seorang / satu] • ambassador: [duta / wakil] • and: [dan] • I: [saya / aku] • work: [kerja / berfungsi] • them: [mereka] |
-| 1073 | 52:51 - 52:54 | You know, it's not easy to put your name next to a charity. | Anda tahu, bukanlah mudah untuk meletakkan nama anda bersama sebuah badan kebajikan. | You: [awak / anda] • know: [tahu / kenal] • it's: [ia adalah / itu (singkatan 'it is/has')] • not: [bukan / tidak] • easy: [mudah / senang] • to: [ke / untuk] • put: [letak / meletakkan] • your: [awak punya / anda punya] • name: [nama] • next: [seterusnya / sebelah] • a: [sebuah / seorang / satu] • charity: [sedekah] |
-| 1074 | 52:54 - 52:58 | I know a lot of organizations, masha'Allah, that do good work. | Saya mengenali banyak pertubuhan, masya-Allah, yang melakukan kerja-kerja kebajikan yang terpuji. | I: [saya / aku] • know: [tahu / kenal] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • organizations (asal: organization): [organisasi-organisasi kebajikan] • masha'Allah: [masya-Allah (kehendak Allah)] • that: [itu / yang] • do: [buat / lakukan] • good: [baik / bagus] • work: [kerja / berfungsi] |
-| 1075 | 52:58 - 53:05 | But those that I felt I wanted to work with, masha'Allah, because the brothers are at a certain level, I felt, | Namun mereka yang saya rasa benar-benar mahu bekerjasama, masya-Allah, kerana saudara-saudara kita ini berada pada tahap integriti tertentu, saya rasakan begitu, | But: [tetapi / tapi] • those: [semua itu] • that: [itu / yang] • I: [saya / aku] • felt (asal: feel): [rasa / merasa] • wanted (asal: want): [mahu / nak] • to: [ke / untuk] • work: [kerja / berfungsi] • with: [dengan / bersama] • masha'Allah: [masya-Allah (kehendak Allah)] • because: [kerana / sebab] • the: [kata penentu (itu / si)] • brothers (asal: brother): [saudara-saudara] • are (asal: be): [adalah / berada] • at: [di / pada] • a: [sebuah / seorang / satu] • certain: [tertentu / yakin] • level: [tahap / paras] |
-| 1076 | 53:06 - 53:10 | and I went through everything I had to go through. | dan saya telah meneliti semua perkara yang perlu saya perhalusi. | and: [dan] • I: [saya / aku] • went (asal: go): [telah pergi] • through: [melalui / merentasi] • everything: [segalanya / semua perkara] • had (asal: have): [mempunyai / telah ada] • to: [ke / untuk] • go: [pergi] |
-| 1077 | 53:10 - 53:15 | To these brothers, masha'Allah, I've said, "You know what?" Once or twice a year, we will travel the country, | Kepada saudara-saudara ini, masya-Allah, saya telah berjanji, "Tahukah anda?" Sekali atau dua kali setahun, kita akan menjelajah ke seluruh negara, | To: [ke / untuk] • these: [semua ini] • brothers (asal: brother): [saudara-saudara] • masha'Allah: [masya-Allah (kehendak Allah)] • I've: [saya telah / saya dah (singkatan 'I have')] • said (asal: say): [cakap / berkata] • You: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • Once: [sekali / suatu ketika] • or: [atau] • twice: [dua kali] • a: [sebuah / seorang / satu] • year: [tahun] • we: [kami / kita] • will: [akan] • travel: [bermusafir / mengembara] • the: [kata penentu (itu / si)] • country: [negara] |
-| 1078 | 53:15 - 53:19 | introduce Abdullah Aid, and at the same time get to know the communities. | memperkenalkan Abdullah Aid, dan pada masa yang sama mengenali masyarakat setempat. | introduce: [memperkenalkan] • Abdullah: [Abdullah (nama badan kebajikan)] • Aid: [bantuan / pertolongan] • and: [dan] • at: [di / pada] • the: [kata penentu (itu / si)] • same: [sama] • time: [masa / waktu] • get: [dapat / mengambil] • to: [ke / untuk] • know: [tahu / kenal] • communities: [masyarakat-masyarakat / komuniti] |
-| 1079 | 53:19 - 53:23 | So I want you to come forward to help us help others. | Jadi saya menyeru anda untuk tampil ke hadapan membantu kami bagi membantu insan-insan lain. | So: [jadi / sangat] • I: [saya / aku] • want: [mahu / nak] • you: [awak / anda] • to: [ke / untuk] • come: [datang / mari] • forward: [maju ke hadapan] • help: [bantu / tolong] • us: [kami / kita] • others: [orang lain] |
-| 1080 | 53:23 - 53:30 | We have a project, a WAQF project, because until now, something known as Gift Aid, perhaps you know what that | Kami mempunyai sebuah projek, sebuah projek WAKAF, kerana sehingga kini, terdapat sesuatu yang dinamakan Gift Aid di UK, mungkin anda tahu mengenainya, | We: [kami / kita] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • project: [projek kebajikan] • WAQF: [harta wakaf] • because: [kerana / sebab] • until: [sehingga / sampai] • now: [sekarang] • something: [sesuatu] • known (asal: know): [tahu / kenal] • as: [seperti / sebagai] • Gift: [hadiah kurniaan] • Aid: [bantuan / pertolongan] • perhaps: [mungkin / barangkali] • you: [awak / anda] • know: [tahu / kenal] • what: [apa / apakah] • that: [itu / yang] |
-| 1081 | 53:30 - 53:31 | is, right? | bukan? | is: [adalah / ialah] • right: [betul / kanan / tepat] |
-| 1082 | 53:31 - 53:38 | Gift Aid helps us cover overhead costs, but these costs are increasing and we don't want to touch a single | Gift Aid membantu kami menampung kos operasi, namun kos ini semakin meningkat dan kami tidak mahu menyentuh walau satu sen pun | Gift: [hadiah kurniaan] • Aid: [bantuan / pertolongan] • helps (asal: help): [membantu] • us: [kami / kita] • cover: [menutup aurat] • overhead: [kos pengurusan / operasi] • costs (asal: cost): [kos] • but: [tetapi / tapi] • these: [semua ini] • are (asal: be): [adalah / berada] • increasing (asal: increase): [semakin meningkat] • and: [dan] • we: [kami / kita] • don't: [jangan / tidak (singkatan 'do not')] • want: [mahu / nak] • to: [ke / untuk] • touch: [menyentuh / mengambil] • a: [sebuah / seorang / satu] • single: [satu / tunggal / bujang] |
-| 1083 | 53:38 - 53:39 | penny of the donation itself. | daripada wang sumbangan derma itu sendiri. | penny: [satu sen / kepingan wang] • of: [daripada / tentang] • the: [kata penentu (itu / si)] • donation: [sumbangan derma] • itself: [dirinya sendiri / ia sendiri] |
-| 1084 | 53:40 - 53:47 | So we 've decided that we want a waqf that generates enough revenue to cover all overhead costs. | Maka kami telah memutuskan bahawa kami memerlukan dana wakaf yang menjana pulangan yang mencukupi untuk menampung seluruh kos pengurusan operasi. | So: [jadi / sangat] • we: [kami / kita] • ve: [telah (singkatan have)] • decided (asal: decide): [memutuskan] • that: [itu / yang] • want: [mahu / nak] • a: [sebuah / seorang / satu] • waqf: [harta wakaf] • generates (asal: generate): [menjana / menghasilkan] • enough: [cukup] • revenue: [hasil pulangan pendapatan] • to: [ke / untuk] • cover: [menutup aurat] • all: [semua / seluruh] • overhead: [kos pengurusan / operasi] • costs (asal: cost): [kos] |
-| 1085 | 53:47 - 53:53 | And whoever contributes to that waqf, which is not an easy project, will have the reward of facilitating the | Dan sesiapa sahaja yang menyumbang kepada wakaf tersebut, yang mana ia bukan projek yang mudah, akan beroleh ganjaran pahala berterusan kerana melancarkan | And: [dan] • whoever: [sesiapa sahaja] • contributes (asal: contribute): [menyumbang / memberikan sumbangan] • to: [ke / untuk] • that: [itu / yang] • waqf: [harta wakaf] • which: [yang mana] • is: [adalah / ialah] • not: [bukan / tidak] • an: [sebuah / seorang / satu] • easy: [mudah / senang] • project: [projek kebajikan] • will: [akan] • have: [ada / mempunyai] • the: [kata penentu (itu / si)] • reward: [ganjaran / pahala] • of: [daripada / tentang] • facilitating (asal: facilitate): [mempermudah / melancarkan] |
-| 1086 | 53:53 - 53:56 | sadaqat and zakat of all, inshallah. | pengagihan sedekah dan zakat untuk semua, insya-Allah. | sadaqat: [sedekah-sedekah] • and: [dan] • zakat: [ibadah zakat] • of: [daripada / tentang] • all: [semua / seluruh] • inshallah: [insya-Allah] |
-| 1087 | 53:56 - 54:02 | That's why tonight we ask that, even if it's just 10 pounds a month, you can donate to the number one WAQF. | Sebab itulah malam ini kami memohon agar, walaupun hanya 10 pound sebulan, anda boleh menyumbang kepada projek nombor satu iaitu WAKAF. | That's: [itu adalah / itu (singkatan 'that is')] • why: [mengapa / kenapa] • tonight: [malam ini] • we: [kami / kita] • ask: [tanya / meminta] • that: [itu / yang] • even: [malah / pun] • if: [jika / kalau] • it's: [ia adalah / itu (singkatan 'it is/has')] • just: [hanya / sekadar / baru saja] • pounds (asal: pound): [pon] • a: [sebuah / seorang / satu] • month: [bulan] • you: [awak / anda] • can: [boleh / dapat] • donate: [menderma / menyumbang] • to: [ke / untuk] • the: [kata penentu (itu / si)] • number: [nombor / bilangan] • one: [satu / seorang] • WAQF: [harta wakaf] |
-| 1088 | 54:02 - 54:09 | Number two, you can still give zakat and sadaqat for other projects around the world, including Palestine and | Nombor dua, anda masih boleh menyalurkan zakat dan sedekah untuk pelbagai projek lain di seluruh pelosok dunia, termasuk untuk Palestin dan | Number: [nombor / bilangan] • two: [dua] • you: [awak / anda] • can: [boleh / dapat] • still: [masih / tenang] • give: [beri / memberikan] • zakat: [ibadah zakat] • and: [dan] • sadaqat: [sedekah-sedekah] • for: [untuk / bagi] • other: [lain] • projects (asal: project): [projek] • around: [sekitar / di sekeliling] • the: [kata penentu (itu / si)] • world: [dunia] • including (asal: include): [termasuklah] • Palestine: [bumi Palestin] |
-| 1089 | 54:09 - 54:11 | Gaza, to the best of your ability. | Gaza, mengikut kadar kemampuan terbaik anda. | Gaza: [Gaza (Palestin)] • to: [ke / untuk] • the: [kata penentu (itu / si)] • best (asal: good): [baik / bagus] • of: [daripada / tentang] • your: [awak punya / anda punya] • ability: [kemampuan / kebolehan] |
-| 1090 | 54:11 - 54:15 | We will deliver what needs to be delivered to where it needs to be delivered, inshallah, with the help of | Kami akan menyampaikan setiap amanah bantuan yang perlu dihantar ke lokasi yang memerlukannya, insya-Allah, dengan pertolongan | We: [kami / kita] • will: [akan] • deliver: [menyampaikan amanah] • what: [apa / apakah] • needs (asal: need): [perlu / memerlukan] • to: [ke / untuk] • be: [menjadi / berada] • delivered (asal: deliver): [menyampaikan] • where: [di mana] • it: [ia / itu] • inshallah: [insya-Allah] • with: [dengan / bersama] • the: [kata penentu (itu / si)] • help: [bantu / tolong] • of: [daripada / tentang] |
-| 1091 | 54:15 - 54:16 | Allah subhanahu wa ta'ala. | Allah Subhanahu Wa Ta'ala. | Allah: [Allah Subhanahu wa Ta'ala] • subhanahu: [Maha Suci Dia] • wa: [dan] • ta'ala: [Maha Tinggi] |
-| 1092 | 54:17 - 54:24 | I just wanted to add this to remind you why we've come and what we've brought you. | Saya cuma ingin menambah pesanan ini bagi mengingatkan anda mengapa kami hadir dan misi apa yang kami bawa kepada anda. | I: [saya / aku] • just: [hanya / sekadar / baru saja] • wanted (asal: want): [mahu / nak] • to: [ke / untuk] • add: [menambah / tambah] • this: [ini] • remind: [mengingatkan] • you: [awak / anda] • why: [mengapa / kenapa] • we've: [kami telah / kita dah (singkatan 'we have')] • come: [datang / mari] • and: [dan] • what: [apa / apakah] • brought (asal: bring): [membawa] |
-| 1093 | 54:24 - 54:25 | It's an opportunity. | Ia adalah sebuah peluang kebaikan. | It's: [ia adalah / itu (singkatan 'it is/has')] • an: [sebuah / seorang / satu] • opportunity: [peluang keemasan] |
-| 1094 | 54:25 - 54:29 | However, I know they are already doing a lot of good. | Walau bagaimanapun, saya tahu jemaah di sini sememangnya telah banyak menyumbang kebajikan. | However: [walau bagaimanapun] • I: [saya / aku] • know: [tahu / kenal] • they: [mereka] • are (asal: be): [adalah / berada] • already: [sudah / telah pun] • doing (asal: do): [buat / lakukan] • a: [sebuah / seorang / satu] • lot: [banyak] • of: [daripada / tentang] • good: [baik / bagus] |
-| 1095 | 54:29 - 54:35 | So, inshallah, if you have a surplus, you can also donate to this wonderful and beautiful charity with which | Maka, insya-Allah, jika anda mempunyai lebihan rezeki, anda juga boleh menyumbang kepada badan kebajikan yang indah ini yang mana kami | So: [jadi / sangat] • inshallah: [insya-Allah] • if: [jika / kalau] • you: [awak / anda] • have: [ada / mempunyai] • a: [sebuah / seorang / satu] • surplus: [lebihan rezeki] • can: [boleh / dapat] • also: [juga / selain itu] • donate: [menderma / menyumbang] • to: [ke / untuk] • this: [ini] • wonderful: [hebat / luar biasa] • and: [dan] • beautiful: [indah / cantik] • charity: [sedekah] • with: [dengan / bersama] • which: [yang mana] |
-| 1096 | 54:35 - 54:36 | we are connected. | turut berhubung rapat dengannya. | we: [kami / kita] • are (asal: be): [adalah / berada] • connected (asal: connect): [menyambung] |
-| 1097 | 54:37 - 54:40 | Shukran al Imam, to the committee and to all the brothers and sisters who are here. | Terima kasih kepada Tuan Imam, kepada pihak jawatankuasa masjid dan kepada seluruh muslimin dan muslimat yang hadir. | Shukran: [terima kasih] • al: [kata penentu (Al-)] • Imam: [imam solat] • to: [ke / untuk] • the: [kata penentu (itu / si)] • committee: [ahli jawatankuasa] • and: [dan] • all: [semua / seluruh] • brothers (asal: brother): [saudara-saudara] • sisters (asal: sister): [saudari-saudari] • who: [siapa / orang yang] • are (asal: be): [adalah / berada] • here: [di sini] |
-| 1098 | 54:41 - 54:44 | And inshallah, I pray that everything goes well. | Dan insya-Allah, saya berdoa agar segala urusan kita dipermudahkan dan berjalan lancar. | And: [dan] • inshallah: [insya-Allah] • I: [saya / aku] • pray: [berdoa / mendirikan solat] • that: [itu / yang] • everything: [segalanya / semua perkara] • goes (asal: go): [pergi] • well: [baiklah / elok / telaga] |
-| 1099 | 54:44 - 54:47 | Akulu qawli hadha wa sallallahu alayhi wa sallam Muhammad. | Aqulu qawli hadha wa sallallahu alayhi wa sallama 'ala Nabiyyina Muhammad. | Akulu: [aku berkata] • qawli: [perkataanku] • hadha: [ini] • wa: [dan] • sallallahu: [semoga Allah berselawat] • alayhi: [ke atasnya] • sallam: [kesejahteraan] • Muhammad: [Nabi Muhammad SAW] |
-| 1100 | 54:47 - 54:50 | Wa salaam alaykum. | Wassalamu 'alaikum warahmatullahi wabarakatuh. | Wa: [dan] • salaam: [kesejahteraan / salam (Dar es Salaam)] • alaykum: [ke atas kamu] |
+Jadual lengkap mengandungi pemasaan asal YouTube dan terjemahan Bahasa Melayu 1:1 secara tepat:
+
+| No | Masa Mula | Masa Tamat | Subtitle English (YouTube) | Terjemahan Bahasa Melayu (AI Native) |
+|:---:|:---:|:---:|:---|:---|
+| 1 | `00:10.92` | `00:13.84` | My beloved brothers, my sisters, | Wahai saudara-saudaraku yang dikasihi, para saudariku, |
+| 2 | `00:15.44` | `00:21.72` | did you see the news of the landslides in Nepal? | adakah anda melihat berita mengenai kejadian tanah runtuh di Nepal? |
+| 3 | `00:22.80` | `00:26.00` | Have you seen what it looked like? | Adakah anda melihat bagaimana keadaannya? |
+| 4 | `00:26.80` | `00:31.46` | Actually, this happened just about a day ago | Sebenarnya, peristiwa ini berlaku baru kira-kira sehari yang lalu, |
+| 5 | `00:31.56` | `00:39.98` | where entire communities were wiped out just because a mountain basically came crashing. | di mana seluruh komuniti musnah hanya kerana sebuah gunung runtuh menyembah bumi. |
+| 6 | `00:40.08` | `00:45.06` | And subhanallah, it's up to us to reach out to them. | Dan subhanallah, terpulang kepada kita untuk menghulurkan bantuan kepada mereka. |
+| 7 | `00:45.16` | `00:52.92` | When we witness something like this, it's definitely a duty of ours firstly to pray for them. | Apabila kita menyaksikan musibah sebegini, sudah tentu kewajipan kita yang pertama adalah mendoakan mereka. |
+| 8 | `00:55.68` | `01:01.64` | Because we all belong to Allah and unto Allah we shall return. | Kerana kita semua adalah milik Allah dan kepada-Nya jua kita akan kembali. |
+| 9 | `01:02.48` | `01:04.92` | And at the same time, | Dan pada masa yang sama, |
+| 10 | `01:05.32` | `01:10.34` | we need to consider how best we can help them. | kita perlu memikirkan cara terbaik bagaimana kita boleh membantu mereka. |
+| 11 | `01:10.44` | `01:14.60` | And inshallah, our teams are already on the ground. | Dan insya-Allah, pasukan bantuan kita sudah pun berada di lokasi kejadian. |
+| 12 | `01:14.76` | `01:23.90` | But as an ummah, we care for everyone across the globe, whoever is struggling and whoever is suffering. | Tetapi sebagai satu ummah, kita mengambil berat tentang setiap insan di seluruh dunia, sesiapa jua yang sedang bergelut dan menderita. |
+| 13 | `01:24.00` | `01:32.50` | The biggest issue that is probably the most long-lasting that we have not been able to resolve, but inshallah, there is hope | Isu terbesar yang mungkin paling berpanjangan yang belum mampu kita selesaikan, tetapi insya-Allah ada harapan |
+| 14 | `01:32.60` | `01:40.48` | that the resolution will be very, very soon by the help of Allah, is the issue of Palestine, Palestine. | bahawa jalan penyelesaiannya akan tiba tidak lama lagi dengan pertolongan Allah, adalah isu Palestin, Palestin. |
+| 15 | `01:40.72` | `01:42.26` | Gaza is in our hearts. | Gaza sentiasa terpahat di dalam hati kita. |
+| 16 | `01:42.36` | `01:43.94` | We've been working there for many years. | Kami telah berkhidmat di sana selama bertahun-tahun. |
+| 17 | `01:44.04` | `01:47.14` | We have orphanages there, and we had a lot. | Kami mempunyai rumah-rumah anak yatim di sana, dan dahulu kami memiliki banyak cawangan. |
+| 18 | `01:47.24` | `01:57.14` | Unfortunately, right now, we are just trying to get some form of assistance to them for survival more than anything else. | Malangnya, pada saat ini kita sekadar berusaha menyalurkan bantuan asas untuk kelangsungan hidup mereka, melebihi apa jua perkara lain. |
+| 19 | `01:57.24` | `02:01.34` | But nonetheless, are very hopeful because Allah Almighty is our Lord. | Namun begitu, kita tetap menaruh harapan yang amat tinggi kerana Allah Yang Maha Berkuasa adalah Tuhan kita. |
+| 20 | `02:01.44` | `02:04.94` | If we didn't have faith, we would not be hopeful at all. | Sekiranya kita tiada iman, kita pasti tidak akan mempunyai sekelumit harapan pun. |
+| 21 | `02:05.04` | `02:08.30` | But, because we have faith, we know Allah is there. | Tetapi, kerana kita memiliki iman, kita tahu bahawa Allah sentiasa ada. |
+| 22 | `02:08.40` | `02:15.90` | Allah gives, and Allah can change the condition in a moment, just like how from positive it becomes negative, from negative | Allah yang memberi, dan Allah mampu mengubah situasi dalam sekelip mata, sama seperti bagaimana daripada positif ia boleh menjadi negatif, dan daripada negatif |
+| 23 | `02:16.00` | `02:18.26` | it becomes positive as well. | ia boleh bertukar menjadi positif jua. |
+| 24 | `02:18.36` | `02:25.90` | I have people who come to me sometimes saying that, you know, I'm struggling, I don't have a job, I can't get married, I really | Ada orang yang kadangkala datang kepada saya dan berkata, "Tuan tahu, saya sedang bergelut, saya tiada pekerjaan, saya belum mampu berkahwin, saya benar-benar |
+| 25 | `02:26.00` | `02:30.14` | I'm struggling with my health, and this is happening, and that's happening. | bergelut dengan masalah kesihatan saya, ini sedang berlaku dan itu juga sedang berlaku." |
+| 26 | `02:30.24` | `02:36.30` | And after a year, I meet them, and mashallah, they're married, they have a job, and they're having children, and so much more. | Dan selepas setahun, saya bertemu mereka kembali, dan masya-Allah, mereka sudah berkahwin, mempunyai pekerjaan, memiliki zuriat, dan pelbagai lagi kurniaan. |
+| 27 | `02:36.40` | `02:38.62` | And this is only the favor of Allah. | Dan ini semua semata-mata limpah kurnia daripada Allah. |
+| 28 | `02:38.72` | `02:40.74` | So, we don't lose hope in the mercy of Allah. | Oleh itu, kita jangan sekali-kali berputus asa terhadap rahmat Allah. |
+| 29 | `02:40.84` | `02:46.34` | The theme of this tour is definitely hope for the ummah. | Tema siri jelajah ini sudah pasti adalah 'Harapan Buat Ummah'. |
+| 30 | `02:46.44` | `02:48.30` | We need to have hope. | Kita perlu sentiasa menaruh harapan. |
+| 31 | `02:48.40` | `02:56.44` | But, there is something I want to address today, being one of our last lectures in this beautiful city of Aberdeen. | Tetapi, ada sesuatu yang ingin saya sampaikan pada hari ini, memandangkan ini antara ceramah terakhir kami di kota Aberdeen yang indah ini. |
+| 32 | `02:57.08` | `02:59.42` | It's quite far up north, right? | Ia terletak agak jauh di utara, bukan? |
+| 33 | `02:59.52` | `03:03.58` | Mashallah, but it's good in a way, you know, only the serious people come here. | Masya-Allah, tetapi ada kebaikannya juga, hanya mereka yang benar-benar bersungguh-sungguh yang akan datang ke sini. |
+| 34 | `03:03.68` | `03:05.98` | Those who are not serious, you won't find them in Aberdeen. | Mereka yang tidak bersungguh-sungguh, anda tidak akan menemui mereka di Aberdeen. |
+| 35 | `03:06.08` | `03:11.10` | Look at all these wonderful, beautiful faces filling up this beautiful masjid, and the brothers and the sisters. | Lihatlah wajah-wajah yang indah dan berseri ini memenuhi masjid yang mulia ini, bersama para jemaah lelaki dan wanita. |
+| 36 | `03:11.20` | `03:18.66` | And when I hear the the little children making a lot of what we call noise, wallahi, it's a good sign. | Dan apabila saya mendengar kanak-kanak kecil membuat apa yang kita panggil bising, wallahi, itu petanda yang sangat baik. |
+| 37 | `03:18.76` | `03:19.62` | It's a very good sign. | Ia merupakan petanda yang amat baik. |
+| 38 | `03:19.72` | `03:21.70` | It doesn't irritate me at all. | Ia langsung tidak mengganggu atau merimaskan saya. |
+| 39 | `03:21.80` | `03:23.42` | The reason is those are our kids. | Sebabnya adalah kerana mereka itu anak-anak kita. |
+| 40 | `03:23.52` | `03:26.42` | Let them come to the masjid and enjoy their days. | Biarkan mereka datang ke masjid dan menikmati hari-hari mereka. |
+| 41 | `03:26.52` | `03:30.58` | Because a time will come when who knows what may happen. | Kerana akan tiba suatu masa di mana siapa tahu apa yang bakal terjadi. |
+| 42 | `03:30.68` | `03:37.98` | May Allah grant us the continuous ability to visit his houses, and inshallah, our children and offspring. | Semoga Allah mengurniakan kita keupayaan berterusan untuk mengimarahkan rumah-rumah-Nya, dan insya-Allah, begitu juga anak-anak dan keturunan kita. |
+| 43 | `03:38.08` | `03:39.30` | Amen. | Amin. |
+| 44 | `03:39.40` | `03:43.74` | But, my brothers and sisters, you and I know that the world out there is very challenging. | Namun, saudara-saudariku, anda dan saya sedar bahawa dunia di luar sana amat mencabar. |
+| 45 | `03:43.84` | `03:51.86` | There are challenges that we have on a global level, be it because of a man-made disaster such as warfare, or something that | Terdapat pelbagai cabaran di peringkat global, sama ada disebabkan oleh bencana buatan manusia seperti peperangan, atau sesuatu |
+| 46 | `03:51.96` | `03:55.62` | is probably less connected with man, maybe the weather. | yang mungkin kurang berkait dengan manusia, contohnya faktor cuaca. |
+| 47 | `03:55.72` | `04:00.22` | Nowadays, they're saying even the weather, you never know why it's happening. | Kebelakangan ini, orang ramai berkata tentang cuaca pun kita tidak pasti mengapa ia berlaku sedemikian. |
+| 48 | `04:00.32` | `04:00.74` | Who knows? | Siapa yang tahu? |
+| 49 | `04:00.84` | `04:05.46` | I read some theories that state that there are people trying to tamper with the weather. | Saya pernah membaca beberapa teori yang menyatakan bahawa ada pihak yang cuba memanipulasi cuaca. |
+| 50 | `04:05.56` | `04:08.58` | I've even read theories that state | Malah saya pernah membaca teori yang menyatakan |
+| 51 | `04:08.68` | `04:15.54` | that the forest fires and the fires are controlled by the the rays from the space stations. | bahawa kebakaran hutan dan api dikawal oleh pancaran sinar dari stesen angkasa lepas. |
+| 52 | `04:15.64` | `04:18.86` | I don't even know whether that's true or not, but it's very dicey. | Saya sendiri tidak tahu sama ada perkara itu benar atau tidak, tetapi ia sesuatu yang sangat meragukan. |
+| 53 | `04:18.96` | `04:27.06` | I wouldn't put things past some of those who really have no respect for humanity at all, and you and I know who they are. | Saya tidak menolak kemungkinan tersebut bagi sesetengah pihak yang langsung tidak mempunyai rasa hormat terhadap kemanusiaan, dan anda serta saya tahu siapa mereka. |
+| 54 | `04:27.16` | `04:28.54` | No respect for humanity. | Langsung tiada rasa hormat terhadap kemanusiaan. |
+| 55 | `04:28.64` | `04:30.94` | They would do anything | Mereka sanggup melakukan apa sahaja |
+| 56 | `04:31.04` | `04:33.62` | for as long as they remain in charge. | selagi mereka kekal berkuasa. |
+| 57 | `04:33.72` | `04:35.26` | May Allah protect us. | Semoga Allah melindungi kita semua. |
+| 58 | `04:35.36` | `04:36.42` | Wallahi, we are Muslims. | Wallahi, kita ini orang Islam. |
+| 59 | `04:36.52` | `04:38.94` | We are taught to be humanitarians. | Kita dididik untuk menjadi insan yang berjiwa kemanusiaan. |
+| 60 | `04:39.04` | `04:41.74` | We are taught to be people who care for every life. | Kita diajar untuk menjadi insan yang prihatin terhadap setiap nyawa kehidupan. |
+| 61 | `04:41.84` | `04:44.18` | Fī kulli kabidin ratbatin ajrun. | Fī kulli kabidin ratbatin ajrun. |
+| 62 | `04:44.28` | `04:51.42` | The Prophet Sallallahu alayhi wasallam teaches us that in everything that has a life, if I were to use just that language | Nabi Sallallahu alayhi wasallam mengajar kita bahawa pada setiap makhluk yang bernyawa — jika saya menggunakan bahasa mudah ini |
+| 63 | `04:51.52` | `04:55.90` | to translate it, there is a reward to save it and to serve it. | untuk menterjemahkannya — terdapat pahala bagi sesiapa yang menyelamatkannya dan berkhidmat kepadanya. |
+| 64 | `04:56.00` | `04:57.74` | I always speak about the dog. | Saya sering bercakap tentang kisah seekor anjing. |
+| 65 | `04:57.84` | `04:59.34` | You know which dog? | Anda tahu anjing yang mana satu? |
+| 66 | `04:59.44` | `05:00.26` | Take a guess. | Cuba teka. |
+| 67 | `05:00.36` | `05:03.06` | Which dog do I talk about? | Anjing mana yang sering saya bicarakan? |
+| 68 | `05:03.16` | `05:05.00` | The one? | Yang itu? |
+| 69 | `05:05.56` | `05:07.26` | The which one? | Yang mana satu? |
+| 70 | `05:07.36` | `05:09.24` | The greyhound? | Anjing greyhound? |
+| 71 | `05:09.96` | `05:10.74` | The dog with the water. | Kisah anjing dengan air. |
+| 72 | `05:10.84` | `05:11.50` | Correct, habibi. | Tepat sekali, habibi. |
+| 73 | `05:11.60` | `05:12.70` | Correct, you're right. | Tepat, tekaan anda betul. |
+| 74 | `05:12.80` | `05:14.46` | I always talk about the dog with the water. | Saya sentiasa membicarakan tentang anjing yang diberi minum air. |
+| 75 | `05:14.56` | `05:15.18` | Why do I say it? | Mengapa saya mengulanginya? |
+| 76 | `05:15.28` | `05:16.30` | Because I want to say it again. | Kerana saya mahu menyebutnya sekali lagi. |
+| 77 | `05:16.40` | `05:18.02` | Aberdeen, masha'Allah. | Warga Aberdeen, masya-Allah. |
+| 78 | `05:18.12` | `05:19.66` | You guys have some good water, man. | Air minuman anda di sini sangat berkualiti. |
+| 79 | `05:19.76` | `05:21.70` | The tap water here tastes a little bit different. | Air paip di sini terasa sedikit berbeza enaknya. |
+| 80 | `05:21.80` | `05:22.86` | Am I right? | Betul bukan apa yang saya kata? |
+| 81 | `05:22.96` | `05:24.82` | Yes, it tastes like Subhanallah. | Ya, rasanya subhanallah begitu sedap. |
+| 82 | `05:24.92` | `05:30.10` | Yesterday in Dundee, they told me we have the best water, but I think Aberdeen might compete, right? | Semalam di Dundee, mereka memberitahu saya bahawa mereka mempunyai air terbaik, tetapi saya rasa Aberdeen mampu menyainginya, betul? |
+| 83 | `05:30.20` | `05:33.80` | Which is better, the Aberdeen water or Dundee water? | Mana yang lebih baik, air Aberdeen atau air Dundee? |
+| 84 | `05:35.84` | `05:36.24` | Both. | Kedua-duanya. |
+| 85 | `05:36.28` | `05:36.86` | Okay, masha'Allah. | Baiklah, masya-Allah. |
+| 86 | `05:36.96` | `05:39.30` | See, the sheikh knows how to bring the people together. | Lihat, tuan syeikh tahu bagaimana hendak menyatukan hati para jemaah. |
+| 87 | `05:39.40` | `05:40.14` | Allahu Akbar. | Allahu Akbar. |
+| 88 | `05:40.24` | `05:41.74` | If we say Aberdeen, we have a problem. | Jika kita kata Aberdeen, akan timbul rasa tidak puas hati. |
+| 89 | `05:41.84` | `05:43.54` | If we say Dundee, we have a problem. | Jika kita kata Dundee, nanti ada pula masalah. |
+| 90 | `05:43.64` | `05:46.04` | I think we should say | Saya rasa lebih baik kita katakan |
+| 91 | `05:46.36` | `05:47.66` | Aberdeen, right? | Aberdeen, betul bukan? |
+| 92 | `05:47.76` | `05:48.86` | Masha'Allah. | Masya-Allah. |
+| 93 | `05:48.96` | `05:50.18` | Allah make it easy. | Semoga Allah mempermudahkan segala urusan. |
+| 94 | `05:50.28` | `05:53.66` | It's Scottish water, but masha Allah, it's good and it's pure and it's clean. | Ia air Scotland, namun masya-Allah, ia amat elok, suci dan bersih. |
+| 95 | `05:53.76` | `06:00.62` | But look, there was a man who gave water from a well that was not a clean in the sense that, you know, when you get water | Tetapi lihatlah, dahulu ada seorang lelaki yang memberi minum air dari sebuah perigi yang tidaklah bersih dalam erti kata, anda tahu apabila mengambil air |
+| 96 | `06:00.72` | `06:03.90` | from a well in your shoe, there is a little bit of dirt in it, right? | dari perigi menggunakan kasut anda, sudah tentu ada sedikit sisa kotoran di dalamnya, bukan? |
+| 97 | `06:04.00` | `06:06.70` | It's not how we have today. | Ia tidak sebersih bekalan air yang kita nikmati hari ini. |
+| 98 | `06:06.80` | `06:08.66` | And he was serving that water to a dog. | Dan lelaki itu memberi minum air tersebut kepada seekor anjing. |
+| 99 | `06:08.76` | `06:09.22` | What's a dog? | Apakah itu anjing? |
+| 100 | `06:09.32` | `06:10.46` | A dog is not a human. | Seekor anjing bukanlah seorang manusia. |
+| 101 | `06:10.56` | `06:15.90` | A dog is nothing to do with the the the the the status of a human being in the eyes of Allah. | Seekor anjing langsung tiada kaitan dengan darjat kemuliaan seorang manusia di sisi Allah. |
+| 102 | `06:16.00` | `06:17.74` | But a dog is just a creature of Allah. | Tetapi anjing itu adalah makhluk ciptaan Allah jua. |
+| 103 | `06:17.84` | `06:24.42` | Perhaps there is such connection between us and a dog that there are a few more rules regarding interaction with a dog in | Mungkin ada pertalian tertentu antara kita dengan anjing sehinggakan terdapat beberapa peraturan khusus mengenai interaksi dengan anjing di dalam |
+| 104 | `06:24.52` | `06:25.42` | Islam. | Islam. |
+| 105 | `06:25.52` | `06:31.26` | It's a very tricky topic because people say, are you or are you not allowed to interact with dogs as Muslims? | Ini topik yang agak sensitif kerana orang sering bertanya, adakah anda dibenarkan atau tidak berinteraksi dengan anjing sebagai orang Islam? |
+| 106 | `06:31.36` | `06:34.14` | Definitely you are, but there are a few rules you need to know. | Sudah tentu anda dibenarkan, tetapi terdapat beberapa garis panduan yang wajib anda ketahui. |
+| 107 | `06:34.24` | `06:35.34` | That's what it is. | Itulah hakikatnya. |
+| 108 | `06:35.44` | `06:36.86` | So, it's not like we hate dogs. | Jadi, ia bukanlah bermakna kita membenci anjing. |
+| 109 | `06:36.96` | `06:37.78` | No, we don't. | Tidak, sama sekali tidak. |
+| 110 | `06:37.88` | `06:43.14` | To the degree that even if you were to see pigs, it's haram to be bad and cruel to a pig. | Sehinggakan sekiranya anda melihat babi sekalipun, adalah haram untuk kita bersikap zalim dan kejam terhadap babi. |
+| 111 | `06:43.24` | `06:45.06` | You're not allowed to consume it, correct? | Anda tidak dibenarkan memakannya, betul bukan? |
+| 112 | `06:45.16` | `06:46.18` | But you have to be kind. | Namun anda tetap wajib berbuat ihsan. |
+| 113 | `06:46.28` | `06:46.82` | That's an animal. | Itu adalah seekor haiwan. |
+| 114 | `06:46.92` | `06:52.74` | If you gave water to a pig, I'm sure you would be rewarded by Allah in a way that is unimaginable. | Sekiranya anda memberi minum kepada seekor babi, saya yakin anda tetap akan diganjari pahala oleh Allah dengan cara yang tidak terbayangkan. |
+| 115 | `06:52.84` | `06:54.74` | May Allah Almighty grant us ease. | Semoga Allah Yang Maha Berkuasa mempermudah urusan kita. |
+| 116 | `06:54.84` | `06:56.46` | But | Tetapi, |
+| 117 | `06:56.56` | `07:02.34` | which has a higher status in the eyes of Allah, a human or a dog? | manakah yang mempunyai darjat lebih tinggi di sisi Allah, seorang manusia atau seekor anjing? |
+| 118 | `07:02.44` | `07:04.32` | A human. | Seorang manusia. |
+| 119 | `07:05.24` | `07:08.54` | The most noble of the creatures of Allah is humankind. | Makhluk ciptaan Allah yang paling mulia adalah umat manusia. |
+| 120 | `07:08.64` | `07:15.82` | And so, imagine if you are quenching the thirst of a human being, will you get more or less of a reward? | Maka, bayangkan sekiranya anda menghilangkan dahaga seorang manusia, adakah anda akan mendapat pahala yang lebih besar atau lebih sedikit? |
+| 121 | `07:15.92` | `07:17.38` | You're going to get more. | Anda pasti akan memperolehi pahala yang jauh lebih besar. |
+| 122 | `07:17.48` | `07:20.50` | It depends on your intention, obviously. | Ia sudah tentu bergantung kepada keikhlasan niat anda. |
+| 123 | `07:20.60` | `07:23.06` | But you quenching Zamzam. | Lebih-lebih lagi jika anda memberi minum air Zamzam. |
+| 124 | `07:23.16` | `07:26.86` | Zamzam is the purest water ever you can have on earth. | Zamzam adalah air yang paling suci dan murni yang pernah ada di muka bumi ini. |
+| 125 | `07:26.96` | `07:29.50` | We're not going to get purer than Zamzam, right? | Kita tidak akan menemui air yang lebih murni daripada Zamzam, bukan? |
+| 126 | `07:29.60` | `07:31.22` | Zamzam | Air Zamzam, |
+| 127 | `07:31.32` | `07:37.82` | hadith says Zamzam is so pure that it will have an effect for whatever reason and intention it is drunk for. | hadis menyebut bahawa air Zamzam itu begitu suci sehingga ia memberi kesan mujarab mengikut apa jua tujuan dan niat ia diminum. |
+| 128 | `07:37.92` | `07:39.74` | We drink it with a certain niya. | Kita meminumnya dengan niat yang tertentu. |
+| 129 | `07:39.84` | `07:41.62` | Inshallah, Allah will give you that. | Insya-Allah, Allah pasti akan mengurniakan apa yang anda hajatkan itu. |
+| 130 | `07:41.72` | `07:42.86` | Especially shifa. | Khususnya untuk syifa'. |
+| 131 | `07:42.96` | `07:44.10` | It has in it cure. | Di dalamnya terdapat penawar penyakit. |
+| 132 | `07:44.20` | `07:46.78` | We drink Zamzam, masha Allah. | Kita meminum air Zamzam, masya-Allah. |
+| 133 | `07:46.88` | `07:51.18` | And a lot of us have Zamzam at home, even if it's a few drops, masha Allah. | Dan ramai di kalangan kita mempunyai simpanan air Zamzam di rumah, walaupun sekadar beberapa titis, masya-Allah. |
+| 134 | `07:51.28` | `07:52.90` | Even if it is a little. | Walaupun hanya sedikit. |
+| 135 | `07:53.00` | `08:00.42` | But sometimes, my brothers and sisters, we tend to forget that our duty is to be good to each other and to be kind. | Tetapi kadangkala, saudara-saudariku, kita cenderung terlupa bahawa kewajipan kita adalah berbuat baik sesama kita dan saling berlemah lembut. |
+| 136 | `08:00.52` | `08:02.22` | And we need to reach out to each other. | Dan kita perlu saling menghulurkan tangan bantuan antara satu sama lain. |
+| 137 | `08:02.32` | `08:10.38` | And we need to make sure that we understand the Hadith of the dog in a far greater way to say, "If that guy was kind to a | Serta kita perlu memastikan bahawa kita memahami hadis tentang anjing tersebut dalam skop yang jauh lebih mendalam, iaitu: |
+| 138 | `08:10.48` | `08:18.06` | dog by giving it water that we would not really drink today, imagine what would be the reward for you and I reaching out with | "Sekiranya lelaki itu berbuat ihsan kepada anjing dengan memberinya air yang kita sendiri tidak sanggup meminumnya pada hari ini, bayangkan betapa besarnya ganjaran untuk anda dan saya |
+| 139 | `08:18.16` | `08:25.66` | proper drinking water in a bottle to another human, more than a human avid, a person who worships Allah, if that were the | menghulurkan air minuman botol yang bersih kepada sesama manusia, apatah lagi kepada seorang hamba yang beriman dan menyembah Allah!" |
+| 140 | `08:25.76` | `08:28.10` | case." So, go easy on each other. | Oleh itu, bersikap santun dan saling bertolak ansurlah sesama kamu. |
+| 141 | `08:28.20` | `08:36.94` | You never know which of your which of your deeds will be the deed that will tip the scale, inshallah, granting you and I Jannatul | Anda tidak pernah tahu amalan yang mana satu di antara amalan anda yang bakal memberatkan timbangan mizan, insya-Allah, melayakkan anda dan saya memasuki Jannatul |
+| 142 | `08:37.04` | `08:38.18` | Firdaus. | Firdaus. |
+| 143 | `08:38.28` | `08:39.30` | But now, we have an issue. | Tetapi kini, timbul satu persoalan. |
+| 144 | `08:39.40` | `08:40.30` | What's the problem? | Apakah masalahnya? |
+| 145 | `08:40.40` | `08:41.62` | I'm so busy at work. | Saya amat sibuk di tempat kerja. |
+| 146 | `08:41.72` | `08:43.82` | I interact with the opposite sex. | Saya perlu berinteraksi dengan jantina yang berlainan. |
+| 147 | `08:43.92` | `08:47.22` | Is it haram to interact with the opposite sex? | Adakah haram berinteraksi dengan jantina yang berlainan? |
+| 148 | `08:47.32` | `08:48.34` | Is it haram? | Adakah ia haram? |
+| 149 | `08:48.44` | `08:50.02` | No, not at all. | Tidak, langsung tidak haram. |
+| 150 | `08:50.12` | `08:56.30` | If I'm allowed to interact with a dog with certain rules, I definitely am definitely allowed to interact with the opposite | Sekiranya saya dibenarkan berinteraksi dengan seekor anjing dengan peraturan tertentu, sudah pasti saya dibenarkan berinteraksi dengan jantina |
+| 151 | `08:56.40` | `08:59.98` | sex with a few rules, a few things you need to bear in mind. | berlainan dengan beberapa batasan syariat yang perlu sentiasa anda semat dalam ingatan. |
+| 152 | `09:00.08` | `09:02.38` | You know, you you need not to cross certain lines. | Anda perlu menjaga batas agar tidak melangkaui sempadan tertentu. |
+| 153 | `09:02.48` | `09:03.26` | That's there. | Itu ketetapan yang jelas. |
+| 154 | `09:03.36` | `09:07.74` | So, people say, "Sheikh, why did you talk to this woman?" Why not? | Oleh itu, orang bertanya, "Syeikh, mengapa anda bercakap dengan wanita ini?" Mengapa tidak? |
+| 155 | `09:07.84` | `09:08.78` | What did I do? | Apa kesalahan yang saya lakukan? |
+| 156 | `09:08.88` | `09:09.90` | There was no halwa. | Tiada unsur khalwat. |
+| 157 | `09:10.00` | `09:10.98` | There was respect. | Penuh dengan rasa hormat. |
+| 158 | `09:11.08` | `09:13.62` | We treated her with goodness and dignity. | Kami melayannya dengan kebaikan, santun dan bermaruah. |
+| 159 | `09:13.72` | `09:15.74` | We tried to do whatever we had to. | Kami menunaikan apa yang perlu dilaksanakan. |
+| 160 | `09:15.84` | `09:16.74` | We lowered our gaze. | Kami menundukkan pandangan. |
+| 161 | `09:16.84` | `09:17.82` | We Whatever we had to do. | Kami mematuhi apa jua yang wajib dipatuhi. |
+| 162 | `09:17.92` | `09:19.38` | All those rules in place. | Semua peraturan tersebut sentiasa dipelihara. |
+| 163 | `09:19.48` | `09:21.14` | But we interacted. | Tetapi urusan interaksi tetap berlaku. |
+| 164 | `09:21.24` | `09:22.58` | You go into a pharmacy. | Anda melangkah masuk ke farmasi. |
+| 165 | `09:22.68` | `09:24.30` | You need to seek medication. | Anda perlu mendapatkan ubat-ubatan. |
+| 166 | `09:24.40` | `09:26.66` | And there is a young lady there. | Dan terdapat seorang wanita muda yang bertugas di situ. |
+| 167 | `09:26.76` | `09:28.14` | And she is looking at you. | Dan dia memandang ke arah anda sambil menyapa, |
+| 168 | `09:28.24` | `09:28.86` | "Morning, sir. | "Selamat pagi, tuan. |
+| 169 | `09:28.96` | `09:35.26` | How are you, sir?" Are you going to say la ilaha illallah astaghfirullahal azim wala hawla wala quwwata illa billahi aliyyil | Apa khabar, tuan?" Adakah anda terus membalas dengan la ilaha illallah astaghfirullahal azim wala hawla wala quwwata illa billahi aliyyil |
+| 170 | `09:35.36` | `09:35.82` | azim? | azim? |
+| 171 | `09:35.92` | `09:36.34` | Correct. | Benar. |
+| 172 | `09:36.44` | `09:42.94` | In your heart and mind, you are conscious of Allah, so you say my sister, I'm looking for paracetamol. | Dalam hati dan sanubari anda, anda sentiasa mengingati Allah, lalu anda membalas, "Saudariku, saya sedang mencari parasetamol." |
+| 173 | `09:43.04` | `09:44.82` | This is what I need and so on. | "Ini ubat yang saya perlukan" dan sebagainya. |
+| 174 | `09:44.92` | `09:45.86` | And what did you do? | Dan apakah yang telah anda lakukan? |
+| 175 | `09:45.96` | `09:49.38` | You called her my sister and you interacted with her in a beautiful way. | Anda memanggilnya dengan panggilan 'saudariku' dan berinteraksi dengannya dengan cara yang amat berhemah. |
+| 176 | `09:49.48` | `09:49.88` | And guess what? | Dan tahukah anda apa kesannya? |
+| 177 | `09:49.96` | `09:53.22` | She might become interested even in the dean of Allah. | Dia mungkin akan mula tertarik hati kepada keindahan agama Allah ini. |
+| 178 | `09:53.32` | `09:54.58` | Correct or not? | Betul atau tidak? |
+| 179 | `09:54.68` | `09:58.50` | She would say these people are very, very respectful, polite. | Dia pasti akan berkata bahawa orang Islam ini sangat menghormati orang lain dan amat bersopan santun. |
+| 180 | `09:58.60` | `09:59.86` | That's what Islam is. | Itulah intipati ajaran Islam yang sebenar. |
+| 181 | `09:59.96` | `10:04.06` | Respect, politeness, goodness while worshipping Allah alone. | Hormat-menghormati, kesopanan dan berbuat ihsan di samping mengesakan dan menyembah Allah semata-mata. |
+| 182 | `10:04.16` | `10:08.58` | What you need to worry about is to make sure Allah is pleased. | Perkara utama yang perlu anda risaukan adalah memastikan Allah reda kepada anda. |
+| 183 | `10:08.68` | `10:11.26` | If Allah is pleased, what more do you want? | Sekiranya Allah sudah reda, apa lagi yang anda inginkan? |
+| 184 | `10:11.36` | `10:12.70` | I did something good. | Saya telah melakukan sesuatu kebaikan. |
+| 185 | `10:12.80` | `10:16.26` | Now, in my interactions, I might have slipped up a little bit, right? | Namun, dalam pergaulan harian saya, mungkin saya ada sedikit terkhilaf, bukan? |
+| 186 | `10:16.36` | `10:18.30` | Went to work, slipped up a little bit. | Keluar bekerja, tergelincir sedikit kesilapan. |
+| 187 | `10:18.40` | `10:21.18` | I might have been distracted a little bit. | Mungkin fikiran saya ada sedikit terleka. |
+| 188 | `10:21.28` | `10:29.46` | The other day, we went into a restaurant and mashallah alhamdulillah la ilaha illallah, the owners were Muslims. | Baru-baru ini, kami berkunjung ke sebuah restoran, dan masya-Allah alhamdulillah la ilaha illallah, pemiliknya adalah orang Islam. |
+| 189 | `10:29.56` | `10:30.42` | Right? | Betul bukan? |
+| 190 | `10:30.52` | `10:33.06` | And they there was some music in the background. | Dan pada waktu itu, ada alunan muzik dipasang di ruang latar belakang. |
+| 191 | `10:33.16` | `10:33.94` | We didn't say anything. | Kami tidak menegur atau berkata apa-apa. |
+| 192 | `10:34.04` | `10:36.10` | We just went in and said As-salamu alaykum. | Kami hanya melangkah masuk dan mengucapkan, "As-salamu alaykum." |
+| 193 | `10:36.20` | `10:37.70` | We had a seat. | Kami pun mengambil tempat duduk. |
+| 194 | `10:37.80` | `10:41.10` | In a short time, there was no more music in the background. | Dalam masa yang singkat, muzik di latar belakang tadi terus dipadamkan. |
+| 195 | `10:41.20` | `10:42.66` | What happened? | Apa yang telah berlaku? |
+| 196 | `10:42.76` | `10:43.46` | What happened? | Apakah puncanya? |
+| 197 | `10:43.56` | `10:49.38` | Just out of respect, I think, they must have decided, you know, these bearded fellows walked in, let's just turn off this | Semata-mata kerana rasa hormat, saya fikir, mereka tentu berkata, "Orang-orang berkopiah dan berjanggut ini baru masuk, mari kita matikan muzik |
+| 198 | `10:49.48` | `10:51.06` | thing here, perhaps. | ini seketika." |
+| 199 | `10:51.16` | `10:54.70` | I would have thought perhaps maybe in a little while some Quran will start playing. | Saya pada mulanya menyangka mungkin selepas itu mereka akan memasang alunan bacaan ayat suci al-Quran. |
+| 200 | `10:54.80` | `10:56.02` | But that didn't happen. | Tetapi itu tidak berlaku. |
+| 201 | `10:56.12` | `10:56.58` | The food came. | Makanan pun tiba. |
+| 202 | `10:56.68` | `10:57.42` | It was good enough. | Rasanya cukup enak dan memuaskan. |
+| 203 | `10:57.52` | `10:58.86` | I didn't ask anything. | Saya langsung tidak meminta apa-apa perubahan. |
+| 204 | `10:58.96` | `11:01.18` | No one requested anything to be shut off. | Tiada sesiapa pun meminta agar apa-apa ditutup. |
+| 205 | `11:01.28` | `11:04.86` | A lot of the times with us, we don't even notice the music in the background. | Kebanyakan masa dalam kehidupan kita, kita sendiri tidak perasan bunyi muzik di latar belakang. |
+| 206 | `11:04.96` | `11:08.82` | Until someone says, "Can you hear what's happening?" I said, "Brother, why did you say that? | Sehinggalah seseorang menegur, "Adakah anda dengar apa yang sedang dipasang itu?" Saya berkata, "Wahai saudaraku, mengapa anda berkata begitu? |
+| 207 | `11:08.92` | `11:13.50` | I I didn't hear it until you told me." You know, our minds are occupied with something. | Saya langsung tidak mendengarnya sehinggalah anda memberitahu saya." Anda tahu, fikiran kita sering sarat dengan perkara lain. |
+| 208 | `11:13.60` | `11:15.22` | Many times we don't hear things. | Banyak kali kita sebenarnya tidak mendengar bunyi sekeliling. |
+| 209 | `11:15.32` | `11:21.06` | And then when you draw our attention to it, then we notice, "Oh, oh, why did you tell me?" Like this. | Dan apabila anda menarik perhatian kami kepadanya, barulah kami tersedar, "Aduh, mengapa pula anda beritahu saya?" Begitulah keadaannya. |
+| 210 | `11:21.16` | `11:26.38` | But in all of that, some people sometimes because of the pressure | Namun dalam semua situasi itu, ada sesetengah orang kadangkala disebabkan oleh tekanan |
+| 211 | `11:26.48` | `11:34.86` | of peers or society or community or a few people around, they end up doing bad things such as falling into drugs, falling | rakan sebaya, masyarakat, komuniti, atau segelintir orang di sekeliling mereka, akhirnya terjerumus melakukan perkara buruk seperti dadah, terjebak |
+| 212 | `11:34.96` | `11:40.56` | into addictions, getting into bad habits, and the list is quite long. | dengan ketagihan, terbiasa dengan tabiat buruk, dan senarainya amat panjang. |
+| 213 | `11:40.76` | `11:46.46` | But Allah Almighty, when he loves us, he taps us and brings us back to him. | Tetapi Allah Yang Maha Berkuasa, apabila Dia menyayangi hamba-Nya, Dia akan menyentuh hati kita dan memimpin kita kembali kepada-Nya. |
+| 214 | `11:46.56` | `11:49.22` | Today we are seated in this place here. | Hari ini kita sedang duduk di tempat yang mulia ini. |
+| 215 | `11:49.32` | `11:52.10` | Is it not known as the house of Allah? | Bukankah tempat ini dikenali sebagai rumah Allah? |
+| 216 | `11:52.20` | `11:54.74` | You are sitting here, you are more than welcome. | Anda sedang duduk di sini, kehadiran anda amat dialu-alukan. |
+| 217 | `11:54.84` | `11:56.42` | You are a guest of Allah. | Anda semua adalah para tetamu Allah. |
+| 218 | `11:56.52` | `12:01.82` | We are here, masha Allah, not to chase you away, but to tell you this is the right place. | Kehadiran kami di sini, masya-Allah, bukan untuk menghalau anda, sebaliknya untuk memberitahu anda bahawa inilah tempat yang paling tepat. |
+| 219 | `12:01.92` | `12:03.42` | You want to come, come here. | Jika anda ingin ke mana-mana, datanglah ke sini. |
+| 220 | `12:03.52` | `12:09.22` | If I could change anything right here and right now, I would only ask everyone to open all the windows, but don't worry, it's | Jika ada satu perkara yang ingin saya ubah di sini sekarang juga, saya hanya ingin meminta semua orang membuka semua tingkap, tetapi jangan risau, |
+| 221 | `12:09.32` | `12:10.34` | not my place. | ini bukan rumah saya. |
+| 222 | `12:10.44` | `12:11.02` | It's your place. | Ini rumah anda semua. |
+| 223 | `12:11.12` | `12:13.66` | It's up to you to decide what you want to do. | Terpulang kepada anda untuk menentukan apa yang ingin anda lakukan. |
+| 224 | `12:13.76` | `12:20.40` | But Allah Almighty grant us is How did you like my way of saying, "Guys, it's a bit hot in here?" Masha Allah. | Semoga Allah Yang Maha Berkuasa mengurniakan kemudahan. Bagaimana anda menilai cara halus saya menyampaikan bahawa, "Tuan-tuan, di dalam ini agak panas?" Masya-Allah. |
+| 225 | `12:21.40` | `12:23.42` | Brother, you walked in Zimbabwe. | "Wahai saudaraku, anda pernah berkunjung ke Zimbabwe?" |
+| 226 | `12:23.52` | `12:26.58` | Yes, Zimbabwe is much cooler than this, my beloved brother. | Ya, Zimbabwe jauh lebih sejuk daripada ini, wahai saudaraku yang dikasihi. |
+| 227 | `12:26.68` | `12:27.78` | No. | Bukan begitu. |
+| 228 | `12:27.88` | `12:31.98` | Uh the inside of the buildings, masha Allah, they are much, much cooler. | Bahagian dalam bangunan di sana, masya-Allah, suasananya jauh lebih sejuk dan nyaman. |
+| 229 | `12:32.08` | `12:33.58` | Allahumma barik. | Allahumma barik. |
+| 230 | `12:33.68` | `12:39.66` | But the outside is a bit Here it's cooler outside, but what's the point of it being so cool outside at this time of the night | Tetapi di luar agak hangat. Di sini suasananya sejuk di luar, tetapi apa gunanya di luar begitu sejuk pada waktu malam sebegini |
+| 231 | `12:39.76` | `12:40.98` | when inside we are sweating? | sedangkan di dalam ini kita semua bermandi peluh? |
+| 232 | `12:41.08` | `12:42.14` | Allahul musta'an. | Allahul musta'an. |
+| 233 | `12:42.24` | `12:44.46` | Because of such the numbers, and you know why we're sweating? | Disebabkan kehadiran jemaah yang begitu ramai, dan tahukah anda mengapa kita berpeluh? |
+| 234 | `12:44.56` | `12:46.90` | Let me tell you why. | Biar saya beritahu anda puncanya. |
+| 235 | `12:47.00` | `12:48.86` | The warmth of our hearts. | Kerana kehangatan kasih sayang yang terpancar dari hati sanubari kita. |
+| 236 | `12:48.96` | `12:50.38` | Allahu Akbar. | Allahu Akbar. |
+| 237 | `12:50.48` | `12:54.30` | Warmth of the hearts, lovely people, beaming faces. | Kehangatan hati, keperibadian insan-insan yang baik, wajah-wajah yang berseri-seri. |
+| 238 | `12:54.40` | `12:56.26` | Did that make a difference, guys? | Adakah tingkap yang dibuka tadi memberi perbezaan yang menyegarkan? |
+| 239 | `12:56.36` | `12:59.42` | Air conditioning min indillah bis sama. | Penyaman udara terus min 'indillah dari langit. |
+| 240 | `12:59.52` | `13:00.02` | Huh? | Kan? |
+| 241 | `13:00.12` | `13:01.82` | Beautiful, masha Allah tabarak Allah. | Sungguh indah, masya-Allah tabarakallah. |
+| 242 | `13:01.92` | `13:04.10` | Now, why did I say what I said? | Mengapa saya berkata seperti yang saya katakan tadi? |
+| 243 | `13:04.20` | `13:05.14` | Do you know? | Tahukah anda sebabnya? |
+| 244 | `13:05.24` | `13:06.50` | Because I'm your brother. | Kerana saya adalah saudara anda. |
+| 245 | `13:06.60` | `13:08.02` | In some cases, your younger brother. | Bagi sesetengah daripada anda, saya adalah adik anda. |
+| 246 | `13:08.12` | `13:09.74` | In some cases, your older brother. | Bagi sesetengah yang lain, saya adalah abang anda. |
+| 247 | `13:09.84` | `13:16.02` | If I didn't open my mouth, I would finish the whole talk regretting that why didn't you say open the windows? | Sekiranya saya tidak bersuara, saya pasti akan menamatkan seluruh ceramah ini dengan rasa kesal mengapa saya tidak meminta agar tingkap dibuka. |
+| 248 | `13:16.12` | `13:18.66` | So, I had to say it in a very diplomatic way. | Maka saya terpaksa menyampaikannya secara sangat berhemah dan diplomatik. |
+| 249 | `13:18.76` | `13:20.84` | Allahu Akbar. | Allahu Akbar. |
+| 250 | `13:21.44` | `13:22.62` | Very technical. | Sangat teknikal pendekatannya. |
+| 251 | `13:22.72` | `13:24.26` | But did it not open the windows? | Tetapi bukankah tingkap akhirnya berjaya dibuka? |
+| 252 | `13:24.36` | `13:24.76` | Yes. | Ya. |
+| 253 | `13:24.84` | `13:26.54` | Alhamdulillah, so it worked. | Alhamdulillah, ia ternyata membuahkan hasil. |
+| 254 | `13:26.64` | `13:32.82` | That's why I say sometimes when we are telling you something, you might not realize how we are saying it, but we get to the | Sebab itulah saya katakan, kadangkala apabila kami menasihati anda tentang sesuatu, anda mungkin tidak menyedari gaya bahasa kami menyampaikannya, tetapi kita tetap mencapai |
+| 255 | `13:32.92` | `13:34.46` | same end result. | hasil matlamat akhir yang sama. |
+| 256 | `13:34.56` | `13:35.54` | That's what's important. | Itulah perkara yang paling penting. |
+| 257 | `13:35.64` | `13:36.86` | End result is what is important. | Matlamat akhirlah yang menjadi keutamaan. |
+| 258 | `13:36.96` | `13:38.54` | How I said it, different. | Cara penyampaian saya mungkin berbeza. |
+| 259 | `13:38.64` | `13:43.98` | You will hear from all the scholars and those who want to remind you of Allah to pray five times a day. | Anda akan mendengar daripada semua alim ulama dan para pendakwah yang mengingatkan anda tentang Allah agar menunaikan solat lima waktu sehari semalam. |
+| 260 | `13:44.08` | `13:47.70` | But each one will use a different method to tell you exactly the same thing. | Namun setiap daripada mereka akan menggunakan pendekatan berbeza untuk menyampaikan mesej yang sama. |
+| 261 | `13:47.80` | `13:49.94` | The idea is to get to the end result. | Tujuannya adalah untuk mencapai hasil akhir yang diinginkan. |
+| 262 | `13:50.04` | `13:52.58` | Do you know what is the ultimate end result for a moment? | Tahukah anda apakah matlamat akhir yang paling agung bagi setiap saat kehidupan kita? |
+| 263 | `13:52.68` | `13:53.66` | Say it. | Sebutlah ia bersama-sama. |
+| 264 | `13:53.76` | `13:55.06` | Jannatul Firdaus. | Jannatul Firdaus. |
+| 265 | `13:55.16` | `13:58.54` | Jannatul Firdaus, one of the only places better than Aberdeen. | Jannatul Firdaus, antara satu-satunya tempat yang jauh lebih indah daripada Aberdeen. |
+| 266 | `13:58.64` | `13:59.78` | Masha Allah. | Masya-Allah. |
+| 267 | `13:59.88` | `14:01.42` | May Allah protect you. | Semoga Allah memelihara anda semua. |
+| 268 | `14:01.52` | `14:04.46` | I see the guys are smiling because they're disagreeing with me, right? | Saya melihat para jemaah tersenyum kerana tidak bersetuju dengan perbandingan saya tadi, betul bukan? |
+| 269 | `14:04.56` | `14:09.54` | There are a lot of other more beautiful places, but inshallah, for me, it's something big because it's not like I come to | Pasti ada banyak lagi tempat lain yang lebih indah, namun insya-Allah, bagi saya ia suatu perkara yang amat bermakna kerana bukanlah selalu saya berpeluang datang ke |
+| 270 | `14:09.64` | `14:10.90` | Aberdeen all the time. | Aberdeen. |
+| 271 | `14:11.00` | `14:11.70` | Masha Allah. | Masya-Allah. |
+| 272 | `14:11.80` | `14:19.70` | But nonetheless, I was saying sometimes we develop bad habits and we get into something that we are not happy with as time | Namun apa pun, seperti yang saya katakan tadi, kadangkala kita terbiasa dengan tabiat buruk dan terjerumus ke dalam perkara yang lama-kelamaan membuatkan kita berasa tidak |
+| 273 | `14:19.80` | `14:20.74` | passes. | tenang. |
+| 274 | `14:20.84` | `14:29.66` | At some point, because of our friends who may be involved in addictions and various other distractions, we feel happy. | Pada mulanya, disebabkan pengaruh rakan-rakan yang mungkin terlibat dengan ketagihan dan pelbagai perkara yang melalaikan, kita berasa seronok. |
+| 275 | `14:29.76` | `14:38.50` | And we don't realize that Allah Almighty, out of his father and his mercy, he will bring us to his house because we have a | Dan kita tidak sedar bahawa Allah Yang Maha Berkuasa, dengan limpah kurnia dan rahmat-Nya, akan memimpin kita kembali ke rumah-Nya kerana masih ada |
+| 276 | `14:38.60` | `14:42.48` | flicker of Iman in our hearts. | sekelumit sinar iman di dalam hati kita. |
+| 277 | `14:43.52` | `14:48.94` | Do you know there is a Hadith where the Prophet Sallallahu Alaihi Wasallam says there will come a time when Can you move aside | Tahukah anda terdapat hadis di mana Nabi Sallallahu Alaihi Wasallam bersabda bahawa akan tiba suatu masa di mana — bolehkah anda berganjak ke tepi sedikit |
+| 278 | `14:49.04` | `14:54.22` | because every day we deal with the movement of this and everyone complains that the the video is cracking. | kerana setiap hari kami berdepan masalah pergerakan tripod ini dan semua orang mengadu bahawa rakaman video bergegar dan terputus-putus. |
+| 279 | `14:54.32` | `14:56.82` | So you have to move a little bit aside. | Jadi anda perlu beralih ke tepi sedikit. |
+| 280 | `14:56.92` | `15:06.90` | But my beloved brothers, there is a Hadith that says that Allah Almighty will instruct the angels at the time to say, "Remove | Namun wahai saudara-saudaraku yang dikasihi, terdapat sebuah hadis yang menyatakan bahawa Allah Yang Maha Berkuasa akan memerintahkan para malaikat pada ketika itu dengan berfirman, "Keluarkanlah |
+| 281 | `15:07.00` | `15:17.58` | from Jahannam anyone who has even an atom's weight worth of Iman." So we have Iman, Allah will bring us to his house by his | dari neraka Jahannam sesiapa sahaja yang memiliki iman walaupun sekecil zarah." Maka selagi kita mempunyai iman, Allah akan membawa kita ke rumah-Nya dengan kehendak- |
+| 282 | `15:17.68` | `15:18.18` | will. | Nya. |
+| 283 | `15:18.28` | `15:25.66` | And I always say, my brother, when you do something bad, my beloved sister, when you sinned against Allah, if you have a feeling | Dan saya sentiasa berpesan, wahai saudaraku apabila anda melakukan keburukan, wahai saudariku yang dikasihi apabila anda terlanjur berdosa kepada Allah, sekiranya timbul rasa |
+| 284 | `15:25.76` | `15:29.46` | in your heart of regret, it's a sign that you are a believer. | penyesalan di dalam hati anda, itu adalah petanda bahawa anda seorang yang beriman. |
+| 285 | `15:29.56` | `15:32.66` | Because if you were not a believer, why would you regret? | Kerana sekiranya anda bukan seorang yang beriman, mengapa pula anda perlu berasa menyesal? |
+| 286 | `15:32.76` | `15:35.00` | What is the regret? | Apakah erti penyesalan itu? |
+| 287 | `15:40.00` | `15:45.66` | If If your good deed makes you a little bit happy, you know, when you get up early for salatul Fajr, tahajjud, you did something | Sekiranya amalan soleh anda membuatkan anda berasa sedikit gembira — anda tahu, apabila anda bangun awal pagi untuk solat Subuh, bertahajud, anda melakukan suatu |
+| 288 | `15:45.76` | `15:48.38` | good, you gave a charity, you went to Mecca for Umrah, etc. | kebaikan, anda bersedekah, anda menunaikan umrah di Makkah dan sebagainya — |
+| 289 | `15:48.48` | `15:56.10` | If it that makes you feel happy within and content and fulfilled and your your bad deed makes you regret and sad, that is | sekiranya perkara tersebut mendatangkan rasa bahagia, tenang dan lapang di dalam jiwa anda, dan sebaliknya amalan buruk membuatkan anda berasa kesal dan pilu, itu |
+| 290 | `15:56.20` | `15:58.46` | a sign that you are a believer. | adalah bukti nyata bahawa anda seorang yang beriman. |
+| 291 | `15:58.56` | `16:00.30` | There is accountability in you. | Masih ada rasa tanggungjawab dan kepekaan hisab di dalam diri anda. |
+| 292 | `16:00.40` | `16:01.74` | That's why you feel that way. | Itulah puncanya mengapa anda merasai perasaan sedemikian. |
+| 293 | `16:01.84` | `16:08.18` | If there was no accountability in you, subhanallah, you would not need to feel good or bad for anything. | Sekiranya tiada kepekaan hisab dalam diri anda, subhanallah, anda tidak akan berasa gembira mahupun bersalah terhadap apa jua yang anda lakukan. |
+| 294 | `16:08.28` | `16:14.70` | So, my beloved brothers and sisters, Allah brings you to his house and you are sitting here with all the people from the same | Maka, wahai saudara-saudariku yang dikasihi, Allah memimpin anda ke rumah-Nya dan anda duduk di sini bersama warga sekota atau |
+| 295 | `16:14.80` | `16:17.54` | city or village and mashallah, what are we listening to? | sekampung, dan masya-Allah, apa yang sedang kita dengarkan? |
+| 296 | `16:17.64` | `16:20.90` | We're listening to someone telling us, "Come, let's go to Allah together. | Kita sedang mendengar seruan seseorang yang mengajak kita, "Marilah kita bersama-sama kembali mendekatkan diri kepada Allah. |
+| 297 | `16:21.00` | `16:21.54` | Come. | Marilah. |
+| 298 | `16:21.64` | `16:29.44` | I have weaknesses, you have weaknesses, I have sinned, you have sinned, but surely shouldn't we stop that now? | Saya ada kelemahan, anda ada kelemahan, saya pernah berbuat dosa, anda pernah berbuat dosa, tetapi tidakkah wajar untuk kita menghentikannya sekarang? |
+| 299 | `16:42.84` | `16:44.34` | Is it not time? | Bukankah sudah tiba masanya? |
+| 300 | `16:44.44` | `16:51.30` | Is it not time that the believers, their hearts turn towards Allah and revelation and the truth? | Bukankah sudah sampai masanya bagi orang-orang yang beriman agar hati mereka tunduk dan khusyuk mengingati Allah, wahyu-Nya dan kebenaran? |
+| 301 | `16:51.40` | `16:52.34` | Is it not time? | Bukankah sudah tiba masanya? |
+| 302 | `16:52.44` | `16:53.62` | What are you waiting for? | Apakah lagi yang anda tunggu? |
+| 303 | `16:53.72` | `16:56.90` | How long do you want before you come back to Allah? | Berapa lama lagi masa yang anda perlukan sebelum kembali kepada Allah? |
+| 304 | `16:57.00` | `17:04.10` | Come slowly but surely if need be, but make sure the movement is in the right direction, not in the wrong direction. | Kembalilah secara perlahan-lahan tetapi pasti sekiranya perlu, namun pastikan langkah anda menuju ke arah yang benar, bukan ke arah yang salah. |
+| 305 | `17:04.20` | `17:06.62` | You are struggling with your prayer, guess what? | Anda sedang bergelut untuk menjaga solat anda, tahukah anda? |
+| 306 | `17:06.72` | `17:08.94` | We all have our struggles. | Kita semua mempunyai ujian dan perjuangan masing-masing. |
+| 307 | `17:09.04` | `17:15.100` | But the weakness would be from four you go to three and from three you go to two, that is a loss. | Namun kelemahan yang nyata adalah apabila daripada empat waktu solat anda merosot ke tiga, dan daripada tiga berkurang menjadi dua — itu suatu kerugian yang nyata. |
+| 308 | `17:16.16` | `17:23.26` | Successful is a person whom from two when he's struggling but he goes to three because of dedication and the love of Allah. | Orang yang berjaya adalah seseorang yang walaupun bergelut daripada dua waktu, dia berusaha meningkat ke tiga waktu kerana keazaman dan rasa cintanya kepada Allah. |
+| 309 | `17:23.36` | `17:30.98` | My beloved children, my beloved youth, my mothers, my sisters, my brothers, my elders, whoever you are, let's do better than | Wahai anak-anakku yang dikasihi, para pemuda, ibu-ibuku, para saudariku, para saudaraku, para wargatua sekalian, sesiapa jua anda — marilah kita beramal lebih baik daripada |
+| 310 | `17:31.08` | `17:32.18` | we did yesterday. | apa yang kita lakukan semalam. |
+| 311 | `17:32.28` | `17:33.90` | Let's always be stronger. | Marilah kita sentiasa menjadi insan yang lebih teguh. |
+| 312 | `17:34.00` | `17:40.90` | It is very sad to see people sometimes they are closer to Allah and then they become distant. | Amat mendukacitakan apabila melihat orang yang dahulunya begitu dekat dengan Allah, kemudiannya menjauhkan diri. |
+| 313 | `17:41.00` | `17:42.34` | That's not a good sign. | Itu bukan petanda yang baik. |
+| 314 | `17:42.44` | `17:49.94` | I say if you're going to sin, don't encourage others to sin because you might quit the sin at some point and those whom you've | Saya berpesan, sekiranya anda terlanjur melakukan dosa, jangan sesekali mengajak orang lain berbuat dosa kerana anda mungkin bertaubat suatu hari nanti, sedangkan orang yang |
+| 315 | `17:50.04` | `17:55.16` | encouraged might become sadaka in the wrong sense. | anda pengaruhi itu mungkin menjadi 'sedekah jariah' pada jalan keburukan. |
+| 316 | `17:55.52` | `17:57.10` | What is a sadaka in the wrong sense? | Apakah yang dimaksudkan dengan 'sedekah jariah' pada jalan keburukan? |
+| 317 | `17:57.20` | `18:04.22` | In the same way I would get a reward for doing a good deed, I will also be sinful for doing a bad deed, but if my good deed | Sebagaimana saya beroleh pahala apabila melakukan kebaikan, saya juga menanggung dosa apabila melakukan maksiat. Namun sekiranya amalan baik saya |
+| 318 | `18:04.32` | `18:09.62` | encouraged others to do good, I will continue to get a good deed for as long as they did the good. | mendorong orang lain turut berbuat baik, saya akan terus menerima pahala kebaikan itu selagi mana mereka mengamalkannya. |
+| 319 | `18:09.72` | `18:18.06` | And if my bad deed encouraged others to do bad, I will continue to receive a sin for as long as they did bad because of them | Dan sekiranya perbuatan buruk saya mendorong orang lain melakukan kemungkaran, saya akan berterusan menanggung dosa selagi mana mereka berbuat jahat kerana |
+| 320 | `18:18.16` | `18:19.18` | watching me. | melihat perbuatan saya. |
+| 321 | `18:19.28` | `18:26.46` | Woman sunna sunnatan sayyi'atan falahu izruha wa wizru man 'amila biha ila yawmil qiyamati. | Wa man sanna sunnatan sayyi'atan fa 'alayhi wizruha wa wizru man 'amila biha ila yawmil qiyamah. |
+| 322 | `18:26.56` | `18:30.22` | La yanqusu dhalika min awzarihim shay'. | La yanqusu dhalika min awzarihim shay'a. |
+| 323 | `18:30.32` | `18:36.10` | Very scary hadith where the Prophet Sallallahu Alaihi Wasallam says, firstly he speaks about those who set a good example, | Sebuah hadis yang amat menggetarkan hati di mana Nabi Sallallahu Alaihi Wasallam bersabda — pertamanya Baginda menyebut tentang mereka yang menunjukkan teladan yang baik, |
+| 324 | `18:36.20` | `18:41.34` | they get a reward for the for the deed they did and they get a reward for everyone who followed that good deed. | mereka beroleh ganjaran pahala atas amalan yang dilakukan dan pahala bagi setiap insan yang mencontohi amalan soleh tersebut. |
+| 325 | `18:41.44` | `18:48.50` | But those who set a bad example, they receive a sin for that particular example they set and they get a sin for everyone who | Sebaliknya mereka yang memulakan contoh teladan yang buruk, mereka menanggung dosa atas amalan buruk yang dimulakan dan menanggung dosa setiap insan yang |
+| 326 | `18:48.60` | `18:50.78` | followed it from them. | mengikutinya selepas mereka. |
+| 327 | `18:50.88` | `18:55.06` | So I say my brothers, when you are smoking your weed, | Oleh itu saya berpesan, wahai saudaraku, sekiranya anda sedang menghisap ganja sekalipun, |
+| 328 | `18:55.16` | `18:57.78` | feel it within your heart, I need to quit this habit. | sematkanlah rasa keinsafan di dalam lubuk hati anda bahawa, "Aku mesti meninggalkan tabiat buruk ini." |
+| 329 | `18:57.88` | `19:02.82` | But don't ever call the other youngsters who are innocent and doing nothing, "Guys, do you know what this is all about? | Tetapi jangan sesekali anda mengajak anak-anak muda lain yang suci dan tidak tahu apa-apa dengan berkata, "Kawan-kawan, tahu tak benda ini macam mana rasanya? |
+| 330 | `19:02.92` | `19:03.98` | Let's try it out, guys. | Jomlah cuba sama-sama. |
+| 331 | `19:04.08` | `19:05.06` | It's quite good. | Rasanya memang best. |
+| 332 | `19:05.16` | `19:08.90` | You know, no one who smoked weed died in Corona. | Tahu tak, sesiapa yang hisap ganja langsung tak mati masa musim wabak Corona dulu. |
+| 333 | `19:09.00` | `19:12.70` | That's what they say." La hawla wala quwwata illa billah. | Itulah dakwaan mereka." La hawla wala quwwata illa billah. |
+| 334 | `19:12.80` | `19:13.62` | Have you ever heard that? | Pernahkah anda mendengar alasan sebegini? |
+| 335 | `19:13.72` | `19:15.18` | No. | Tidak. |
+| 336 | `19:15.28` | `19:16.98` | I'm glad you haven't. | Saya bersyukur anda tidak pernah mendengarnya. |
+| 337 | `19:17.08` | `19:18.34` | Because it's not true. | Kerana ia sama sekali tidak benar. |
+| 338 | `19:18.44` | `19:21.26` | But that's what they were claiming in order to get others on weed. | Tetapi itulah helah yang mereka cipta semata-mata untuk menjerumuskan orang lain ke kancah ketagihan ganja. |
+| 339 | `19:21.36` | `19:23.86` | I say, but why are you on weed now suddenly? | Saya bertanya, "Tetapi mengapa tiba-tiba sekarang kamu menghisap ganja?" |
+| 340 | `19:23.96` | `19:24.94` | Before they used to hide it. | Dahulu mereka menyembunyikannya. |
+| 341 | `19:25.04` | `19:26.90` | Now they say, "Sheikh, you know, I have one weakness. | Kini dengan selamba mereka berkata, "Syeikh, saya ada satu kelemahan. |
+| 342 | `19:27.00` | `19:29.50` | I'm just on weed." La ilaha illallah. | Saya cuma hisap ganja saja." La ilaha illallah. |
+| 343 | `19:29.60` | `19:30.86` | Keep it away from who am I? | Jauhkanlah pengakuan itu daripada saya, siapalah saya ini? |
+| 344 | `19:30.96` | `19:31.66` | I'm not your Lord. | Saya bukan Tuhan kamu. |
+| 345 | `19:31.76` | `19:32.82` | Why do you have to tell me? | Mengapa kamu perlu mengaku dosa kepada saya? |
+| 346 | `19:32.92` | `19:34.14` | You don't have to confess to me. | Kamu tidak perlu meluahkan pengakuan dosa kepada saya. |
+| 347 | `19:34.24` | `19:35.10` | This is Islam. | Inilah agama Islam. |
+| 348 | `19:35.20` | `19:38.58` | In Islam, confession is only to your Lord, not to anyone else. | Dalam Islam, pengakuan dosa hanyalah semata-mata kepada Tuhanmu, bukan kepada mana-mana makhluk lain. |
+| 349 | `19:38.68` | `19:39.86` | You want help, go and seek it. | Jika anda memerlukan rawatan dan pertolongan, pergilah dapatkannya. |
+| 350 | `19:39.96` | `19:42.18` | But don't come and say proudly that you know what? | Tetapi jangan datang dan bercakap dengan rasa megah bahawa tahukah anda? |
+| 351 | `19:42.28` | `19:43.18` | I just have one addiction. | "Saya cuma ada satu ketagihan saja. |
+| 352 | `19:43.28` | `19:44.82` | I'm addicted to zina. | Saya cuma ketagih berzina." |
+| 353 | `19:44.92` | `19:46.74` | You don't have to tell I just have. | Anda tidak perlu berkata, "Saya cuma ada." |
+| 354 | `19:46.84` | `19:49.26` | That just have is an insult to Allah. | Perkataan 'cuma ada' itu adalah suatu penghinaan terhadap kemurkaan Allah. |
+| 355 | `19:49.36` | `19:50.14` | How can you say that? | Bagaimana anda sanggup memperkecilkan dosa sedemikian? |
+| 356 | `19:50.24` | `19:52.28` | It's a sin. | Ia adalah suatu perbuatan dosa. |
+| 357 | `19:54.32` | `19:55.34` | It's a massive sin. | Ia suatu dosa yang teramat besar. |
+| 358 | `19:55.44` | `19:57.50` | You think it's small, but no, it isn't. | Anda menyangkanya perkara kecil, hakikatnya tidak sama sekali. |
+| 359 | `19:57.60` | `20:00.70` | So, we ask Allah to strengthen us and to grant us goodness. | Maka, kita memohon kepada Allah agar mengurniakan kita kekuatan dan melimpahkan kebaikan kepada kita. |
+| 360 | `20:00.80` | `20:05.14` | When you have removed your hijab, for example, don't encourage others to do that. | Apabila anda membuka hijab anda, sebagai contoh, janganlah mengajak wanita lain melakukan perkara yang sama. |
+| 361 | `20:05.24` | `20:10.22` | Don't display it and tell people, "Guys, I took it off because, you know, I don't think this and don't think that." There | Jangan menunjukkannya di media sosial dan memberitahu orang ramai, "Kawan-kawan, saya buka tudung sebab saya fikir begini dan begitu." Pasti |
+| 362 | `20:10.32` | `20:12.78` | will be people who did not doubt at all. | ada insan yang asalnya langsung tiada rasa ragu-ragu terhadap kewajipan bertudung. |
+| 363 | `20:12.88` | `20:19.46` | When you instill the doubt, one day, 10 years down the line, and I have seen this, when you don the hijab again, but they | Namun apabila anda menyemai keraguan itu, suatu hari nanti 10 tahun akan datang — dan saya pernah menyaksikan sendiri perkara ini — apabila anda memakai semula hijab tetapi mereka |
+| 364 | `20:19.56` | `20:22.74` | all went astray because of you, what's going to happen? | semua telah tersesat jalan disebabkan kata-kata anda dahulu, apakah yang bakal terjadi? |
+| 365 | `20:22.84` | `20:24.70` | We hope and pray that Allah forgive you. | Kita sentiasa berharap dan berdoa semoga Allah mengampunkan anda. |
+| 366 | `20:24.80` | `20:26.38` | And Allah forgive all of us. | Dan semoga Allah mengampunkan dosa kita semua. |
+| 367 | `20:26.48` | `20:32.32` | So, I have a very, very interesting encouragement for you tonight. | Maka, saya mempunyai satu peringatan dan motivasi yang amat menarik untuk anda pada malam ini. |
+| 368 | `20:32.48` | `20:33.70` | I want to change my life. | Saya ingin mengubah hidup saya. |
+| 369 | `20:33.80` | `20:35.06` | I want to make it better. | Saya mahu menjadikannya lebih baik. |
+| 370 | `20:35.16` | `20:37.50` | I want to get closer to Allah. | Saya mahu mendekatkan diri kepada Allah. |
+| 371 | `20:37.60` | `20:40.10` | Any one of us could say this, and we should be saying this. | Setiap daripada kita mampu mengucapkan tekad ini, dan sememangnya kita patut melafazkannya. |
+| 372 | `20:40.20` | `20:41.42` | I want to become better. | Saya mahu menjadi insan yang lebih baik. |
+| 373 | `20:41.52` | `20:42.58` | I've committed sins. | Saya pernah melakukan dosa. |
+| 374 | `20:42.68` | `20:44.78` | I've done a lot of wrong things in my life. | Saya pernah melakukan pelbagai kesilapan sepanjang hidup saya. |
+| 375 | `20:44.88` | `20:49.90` | I am at a position in my life where I feel that perhaps I might die anytime. | Kini saya berada pada fasa kehidupan di mana saya merasakan mungkin maut boleh menjemput saya pada bila-bila masa. |
+| 376 | `20:50.00` | `20:50.54` | You never know. | Kita tidak pernah tahu. |
+| 377 | `20:50.64` | `20:57.90` | There are healthy people, fit people who go to the gym regularly, who are eating healthy, and suddenly, 35, 40 years old, | Ada orang yang sihat tubuh badan, cergas dan kerap bersenam di gimnasium, menjaga pemakanan yang sihat, tiba-tiba pada usia 35 atau 40 tahun, |
+| 378 | `20:58.00` | `21:00.14` | heart attack, boom, and they're gone back to Allah. | diserang sakit jantung, terus menghembuskan nafas terakhir dan kembali menemui Allah. |
+| 379 | `21:00.24` | `21:01.82` | And one wonders what their condition is. | Dan orang tertanya-tanya bagaimanakah keadaan kesudahan mereka. |
+| 380 | `21:01.92` | `21:04.94` | May Allah make it easy for us the day he takes us away. | Semoga Allah mempermudahkan urusan kita pada hari Dia mengambil kembali nyawa kita. |
+| 381 | `21:05.04` | `21:13.54` | But I need to ensure that I become better because with your intention and the strength and power of your intention, Allah | Tetapi saya mesti memastikan bahawa saya berusaha menjadi lebih baik, kerana dengan keikhlasan niat serta kekuatan tekad anda, Allah |
+| 382 | `21:13.64` | `21:22.34` | will grant you paradise even if you did not complete the circle and the circuit that you intended to compete at the to complete. | akan mengurniakan syurga kepada anda sekalipun anda belum sempat menyempurnakan seluruh perancangan ibadah yang anda azamkan. |
+| 383 | `21:22.44` | `21:28.94` | If I intend to become a half a and I started today and I learned a small portion every day and I was moving forward and one | Sekiranya saya berniat untuk menjadi seorang hafiz dan saya memulakannya hari ini dengan menghafal sedikit demi sedikit setiap hari, dan saya terus melangkah ke hadapan namun suatu |
+| 384 | `21:29.04` | `21:36.22` | day I died, Allah will write my name among the huffaz and those who memorized the Quran even though I only did five Jews. | hari saya meninggal dunia, Allah tetap akan mencatatkan nama saya dalam kalangan para huffaz dan mereka yang menghafal al-Quran walaupun saya baru sempat menghafal lima juzuk. |
+| 385 | `21:36.32` | `21:43.30` | For as long as there was intention, I started it, I continued it and the only thing that stopped me was death. | Selagi mana ada keikhlasan niat, saya telah memulakannya, saya berterusan melakukannya dan satu-satunya perkara yang menghentikan saya hanyalah ajal maut, |
+| 386 | `21:43.40` | `21:44.38` | Allah will write it for you. | Allah pasti akan mencatatkan pahala penuh itu untuk anda. |
+| 387 | `21:44.48` | `21:49.90` | There's no doubt because Allah says he will judge you by your intentions and this was the intention. | Tiada keraguan padanya kerana Allah berfirman bahawa Dia menilai kamu berdasarkan niatmu, dan itulah niat sebenar kamu. |
+| 388 | `21:50.00` | `21:57.82` | Similarly, when a person comes for salah every day and he fulfills his prayer say Fajr in a certain place, the day he is sick | Begitu juga halnya apabila seseorang istiqamah menunaikan solat berjemaah setiap hari, katakanlah solat Subuh di tempat tertentu, pada hari dia jatuh sakit |
+| 389 | `21:57.92` | `22:01.98` | and ill, he may do it somewhere at home or whatever it might be, but guess what? | dan uzur, dia mungkin menunaikannya di rumah atau di mana sahaja, tetapi tahukah anda apa yang berlaku? |
+| 390 | `22:02.08` | `22:09.10` | The angels will write him having attended that particular salah in the masjid simply because the only thing that stopped him | Para malaikat tetap akan mencatatkannya seolah-olah dia hadir menunaikan solat berjemaah di masjid tersebut, semata-mata kerana satu-satunya penghalang |
+| 391 | `22:09.20` | `22:12.74` | from coming there was a sickness that he had no control over. | yang menyebabkannya tidak dapat hadir adalah keuzuran yang di luar kawalannya. |
+| 392 | `22:12.84` | `22:14.42` | Allah says we write for you that deed. | Allah berfirman: Kami tetap mencatatkan ganjaran amalan itu untukmu. |
+| 393 | `22:14.52` | `22:15.46` | Who is Allah? | Siapakah Allah? |
+| 394 | `22:15.56` | `22:17.66` | Allah is the most honorable. | Allah adalah Yang Maha Mulia. |
+| 395 | `22:17.76` | `22:19.62` | Allah is the most generous. | Allah adalah Yang Maha Pemurah. |
+| 396 | `22:19.72` | `22:20.54` | The most generous. | Zat Yang Maha Mengurniakan. |
+| 397 | `22:20.64` | `22:21.54` | You think you are generous. | Anda menyangka diri anda pemurah. |
+| 398 | `22:21.64` | `22:22.66` | You know what Allah does? | Tahukah anda apa yang Allah lakukan? |
+| 399 | `22:22.76` | `22:25.30` | Allah says, "Okay, you sinned all your life. | Allah berfirman, "Baiklah, kamu pernah berbuat dosa sepanjang hidupmu. |
+| 400 | `22:25.40` | `22:31.22` | Then there came a time when either you went for Hajj or Umrah or something happened, whatever happened and you changed your | Kemudian tiba suatu saat di mana sama ada kamu menunaikan haji, umrah, atau berlaku sesuatu peristiwa yang menyedarkan kamu, apa jua yang berlaku lalu kamu mengubah |
+| 401 | `22:31.32` | `22:34.06` | life and you came back and you quit your sins. | cara hidup kamu dan kamu kembali serta meninggalkan dosa-dosa kamu. |
+| 402 | `22:34.16` | `22:38.02` | Nothing made you quit them besides me, besides Allah meaning. | Tiada apa yang membuatkan kamu meninggalkannya melainkan Aku — yakni kerana Allah semata-mata. |
+| 403 | `22:38.12` | `22:43.14` | Nothing made you quit besides Allah and you changed your life and you started doing good deeds for my pleasure. | Tiada apa yang mendorong kamu berhenti melainkan Allah, lalu kamu mengubah hidupmu dan mula beramal soleh demi mencari keredaan-Ku. |
+| 404 | `22:43.24` | `22:49.50` | I want to tell you what I'm going to do for you, a bonus." At the in the Quran, Allah tells us, "I will take those bad deeds | Aku ingin memberitahu kamu apa yang akan Aku kurniakan kepadamu, suatu ganjaran bonus." Di dalam al-Quran, Allah memberitahu kita, "Aku akan mengambil amalan buruk itu |
+| 405 | `22:49.60` | `22:55.70` | and I will put them on the right side of the scale and consider them as good deeds even though they were done as bad deeds." | dan meletakkannya di sebelah kanan timbangan mizan lalu mengira semuanya sebagai amalan kebajikan, sekalipun dahulu ia dilakukan sebagai kemungkaran." |
+| 406 | `22:55.80` | `22:58.74` | Can there be anyone more generous than Allah? | Adakah sesiapa yang lebih pemurah daripada Allah? |
+| 407 | `22:58.84` | `22:59.94` | No. | Tiada sesiapa. |
+| 408 | `23:00.04` | `23:01.84` | Illuminata | Illa man taba... |
+| 409 | `23:20.48` | `23:21.90` | What a beautiful verse. | Betapa indahnya ayat al-Quran ini. |
+| 410 | `23:22.00` | `23:23.62` | Surat al-Furqan, right at the end. | Surah al-Furqan, betul-betul di bahagian penghujungnya. |
+| 411 | `23:23.72` | `23:26.90` | Allah says, "Hey, we will punish those who do bad. | Allah berfirman, "Ketahuilah, Kami akan mengazab mereka yang berbuat kejahatan. |
+| 412 | `23:27.00` | `23:35.02` | We will multiply the punishment for some, but as for those who repented and did good deeds thereafter, we will convert their | Kami akan melipatgandakan azab bagi sebahagian orang, namun bagi sesiapa yang bertaubat dan beramal soleh selepas itu, Kami akan menukar |
+| 413 | `23:35.12` | `23:37.06` | bad deeds into good deeds. | keburukan mereka menjadi amalan-amalan kebajikan." |
+| 414 | `23:37.16` | `23:40.42` | When you go on the day of qiyamah, you see so many good deeds. | Apabila anda dibangkitkan pada hari kiamat, anda melihat begitu banyak pahala amalan kebaikan. |
+| 415 | `23:40.52` | `23:41.70` | What is this, oh Allah? | "Apakah semua ini, ya Allah?" |
+| 416 | `23:41.80` | `23:45.06` | Allah says, "You changed your life, and you came back to me. | Allah berfirman, "Kamu telah mengubah hidupmu dan kembali kepada-Ku. |
+| 417 | `23:45.16` | `23:52.98` | I had to change all your bad deeds into good because the only thing that stopped you from continuing that was my love and | Maka Aku menukar segala dosa keburukanmu menjadi pahala kebaikan kerana satu-satunya perkara yang menghentikan kamu daripada meneruskannya adalah rasa cinta dan |
+| 418 | `23:53.08` | `23:54.06` | my connection. | hubunganmu dengan-Ku. |
+| 419 | `23:54.16` | `23:54.70` | That's it. | Itu sahaja puncanya. |
+| 420 | `23:54.80` | `23:56.46` | For that, I give you the bonus. | Kerana sebab itulah, Aku mengurniakan kamu ganjaran bonus ini." |
+| 421 | `23:56.56` | `23:57.54` | Allahu Akbar. | Allahu Akbar. |
+| 422 | `23:57.64` | `23:58.04` | Allahu Akbar. | Allahu Akbar. |
+| 423 | `23:58.12` | `23:59.10` | That's Allah. | Itulah sifat Maha Pengasih Allah. |
+| 424 | `23:59.20` | `24:00.70` | Now, wouldn't we love that? | Tidakkah kita mendambakan kurniaan seindah itu? |
+| 425 | `24:00.80` | `24:02.06` | What is Allah asking of you? | Apakah yang Allah tuntut daripada diri anda? |
+| 426 | `24:02.16` | `24:03.54` | What does Islam say? | Apakah seruan ajaran Islam? |
+| 427 | `24:03.64` | `24:05.18` | Why is there an attack on Islam? | Mengapa sentiasa ada serangan dan tohmahan terhadap Islam? |
+| 428 | `24:05.28` | `24:09.22` | Because Islam is the only religion that promotes | Kerana Islam adalah satu-satunya agama yang mengangkat |
+| 429 | `24:09.32` | `24:12.38` | the highest of values and morals. | nilai-nilai akhlak dan moral yang paling murni lagi terpuji. |
+| 430 | `24:12.48` | `24:16.22` | And your connection with your maker alone and the one whom you're going to go back to. | Serta memelihara hubunganmu dengan Penciptamu semata-mata, Zat yang kepada-Nya jua kamu bakal dikembalikan. |
+| 431 | `24:16.32` | `24:18.50` | Look, I might be a famous person. | Lihatlah, saya mungkin seorang yang terkenal. |
+| 432 | `24:18.60` | `24:19.82` | I want to tell you something. | Saya ingin berkongsi sesuatu dengan anda. |
+| 433 | `24:19.92` | `24:22.30` | Fame means nothing. | Populariti itu langsung tiada nilai. |
+| 434 | `24:22.40` | `24:23.90` | It means zero. | Nilainya sifar di sisi Allah. |
+| 435 | `24:24.00` | `24:27.26` | The worst from among humankind are probably also famous. | Makhluk yang paling jahat dalam kalangan umat manusia juga mungkin sangat terkenal. |
+| 436 | `24:27.36` | `24:29.18` | Shaitan is absolutely famous. | Syaitan adalah makhluk yang tersangat popular. |
+| 437 | `24:29.28` | `24:30.66` | Do you know that? | Tahukah anda hakikat itu? |
+| 438 | `24:30.76` | `24:32.66` | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu wa ni'mal wakeel. |
+| 439 | `24:32.76` | `24:34.42` | How many of you have heard of Shaitan? | Berapa ramai antara anda yang pernah mendengar nama Syaitan? |
+| 440 | `24:34.52` | `24:36.26` | Put up your hands. | Sila angkat tangan anda. |
+| 441 | `24:36.36` | `24:37.46` | That's the whole masjid. | Satu masjid semuanya mengangkat tangan. |
+| 442 | `24:37.56` | `24:40.06` | Isn't Shaitan more famous than you and I? | Bukankah Syaitan jauh lebih terkenal daripada anda dan saya? |
+| 443 | `24:40.16` | `24:42.74` | Does it make him a big rock star or something? | Adakah populariti itu menjadikannya seorang bintang hebat atau tokoh mulia? |
+| 444 | `24:42.84` | `24:44.26` | No. | Sama sekali tidak. |
+| 445 | `24:44.36` | `24:46.78` | Some of the most famous people are some of the worst. | Sesetengah manusia yang paling terkenal di dunia adalah antara makhluk yang paling buruk perilakunya. |
+| 446 | `24:46.88` | `24:50.62` | So, for me to be famous, it means nothing in the eyes of Allah. | Maka, bagi diri saya menjadi terkenal, ia langsung tiada erti di sisi Allah. |
+| 447 | `24:50.72` | `24:53.66` | La yaswa indallahi janaha ba'udah. | La yaswa 'indallahi janaha ba'udah — tidak bernilai walau seberat sayap nyamuk. |
+| 448 | `24:53.76` | `24:55.46` | Wallahi, I'm telling you it means nothing. | Wallahi, saya berterus-terang kepada anda bahawa kemasyhuran itu tiada nilai. |
+| 449 | `24:55.56` | `24:59.62` | If I'm sitting here and I bring you closer to me, I've lost. | Sekiranya saya duduk di sini dan sekadar menarik anda mengagumi diri saya, sesungguhnya saya adalah insan yang rugi. |
+| 450 | `24:59.72` | `25:06.06` | But if I'm sitting here and I remind you of Allah, only on the day of judgement we will see what happened. | Tetapi sekiranya saya duduk di sini dan mengingatkan anda kembali kepada Allah, hanya pada hari perhitungan kelak kita akan melihat apa hasilnya. |
+| 451 | `25:06.16` | `25:07.42` | Only on the day of judgement. | Hanya pada hari pengadilan kelak. |
+| 452 | `25:07.52` | `25:10.34` | Don't be deceived by the likes and the follows. | Jangan sesekali anda terpedaya dengan jumlah 'likes' dan pengikut di media sosial. |
+| 453 | `25:10.44` | `25:15.78` | I'm telling you sitting from a position of a person who has a lot of likes and follows. | Saya bercakap kepada anda dari posisi seseorang yang memiliki jumlah 'likes' dan jutaan pengikut. |
+| 454 | `25:15.88` | `25:18.46` | And I want to tell you it means nothing. | Dan saya ingin menegaskan bahawa semua itu langsung tiada nilai hakiki. |
+| 455 | `25:18.56` | `25:26.66` | Those who are enslaved by the likes and follows, they will never taste contentment on earth, I guarantee you. | Mereka yang menjadi hamba kepada 'likes' dan jumlah pengikut, saya jamin mereka tidak akan pernah mengecap kemanisan ketenangan hidup di dunia ini. |
+| 456 | `25:26.76` | `25:31.86` | Because not a moment did Allah say that your contentment lies in likes and follows. | Kerana tidak sedetik pun Allah menjanjikan bahawa ketenangan jiwa anda terletak pada jumlah 'likes' dan pengikut. |
+| 457 | `25:31.96` | `25:34.58` | In order to get likes and follows, do you know what you need to do? | Demi meraih 'likes' dan pengikut hari ini, tahukah anda apa yang sanggup sesetengah orang lakukan? |
+| 458 | `25:34.68` | `25:36.82` | You need to do the silliest of things. | Anda perlu melakukan perkara-perkara yang paling mengarut dan bodoh. |
+| 459 | `25:36.92` | `25:38.22` | The silliest of things. | Perkara yang paling tidak masuk akal. |
+| 460 | `25:38.32` | `25:41.22` | You need to follow trends that don't make sense. | Anda terpaksa meniru ikutan trend yang langsung tiada faedah. |
+| 461 | `25:41.32` | `25:44.82` | And you need to 67 your entire life. | Dan anda perlu membazirkan masa hidup anda dengan trend karut seperti 67. |
+| 462 | `25:44.92` | `25:46.94` | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu wa ni'mal wakeel. |
+| 463 | `25:47.04` | `25:49.46` | See, the kids knew what I was What did I say? | Lihat, anak-anak kecil ini faham apa yang saya sebutkan tadi. Apa yang saya sebut tadi? |
+| 464 | `25:49.56` | `25:51.14` | 67. | 67. |
+| 465 | `25:51.24` | `25:52.78` | Allahu musta'an. | Allahul musta'an. |
+| 466 | `25:52.88` | `25:53.58` | Allahu musta'an. | Allahul musta'an. |
+| 467 | `25:53.68` | `25:54.70` | But, what is it? | Tetapi apakah maknanya? |
+| 468 | `25:54.80` | `25:57.26` | If I ask you what does 67 mean, they don't know. | Jika saya bertanya kepada anda apa maksud 67, mereka sendiri tidak tahu. |
+| 469 | `25:57.36` | `25:58.34` | No one knows. | Tiada sesiapa pun yang tahu. |
+| 470 | `25:58.44` | `26:01.42` | Even the people who first said 67. | Malah orang yang mula-mula mencipta trend 67 itu pun tidak tahu. |
+| 471 | `26:01.52` | `26:02.02` | And guess what? | Dan tahukah anda apa yang berlaku seterusnya? |
+| 472 | `26:02.12` | `26:04.42` | In 2027, they're planning to say 78. | Menjelang tahun 2027 kelak, mereka bercadang mencipta trend 78 pula. |
+| 473 | `26:04.52` | `26:05.86` | Allahu musta'an. | Allahul musta'an. |
+| 474 | `26:05.96` | `26:07.50` | Allahu musta'an. | Allahul musta'an. |
+| 475 | `26:07.60` | `26:09.74` | And that's life, and that's how we will continue. | Begitulah lumrah kehidupan duniawi dan begitulah ia akan berterusan. |
+| 476 | `26:09.84` | `26:15.10` | So, no matter how much of fun you might have, don't ever do it for likes and follows. | Maka, walau sebesar mana sekalipun keseronokan yang anda nikmati, jangan sesekali melakukannya semata-mata demi mengejar 'likes' dan pengikut. |
+| 477 | `26:15.20` | `26:19.40` | Another thing is, in order for us today | Satu perkara lagi, demi meraih |
+| 478 | `26:20.24` | `26:26.08` | to gain likes and follows, many people have to remain on | 'likes' dan pengikut pada hari ini, ramai orang terpaksa bersiaran langsung dalam talian |
+| 479 | `26:26.28` | `26:29.50` | alive for a long, long time. | secara 'live' untuk tempoh masa yang sangat lama. |
+| 480 | `26:29.60` | `26:30.22` | But guess what? | Tetapi tahukah anda apa yang menyedihkan? |
+| 481 | `26:30.32` | `26:33.06` | You were not live with Allah at the time of salah. | Anda langsung tidak 'live' bersama Allah pada waktu solat fardu. |
+| 482 | `26:33.16` | `26:36.42` | You were not live with Allah at the time that you needed to be there. | Anda langsung tidak 'live' bermunajat kepada Allah pada saat-saat genting anda sepatutnya bersujud kepada-Nya. |
+| 483 | `26:36.52` | `26:38.26` | But you were live with everyone else. | Sebaliknya anda bersiaran 'live' bersama seluruh manusia lain. |
+| 484 | `26:38.36` | `26:40.70` | Okay, you got a million followers, big deal. | Baiklah, katakan anda meraih sejuta pengikut, suatu pencapaian besar kononnya. |
+| 485 | `26:40.80` | `26:42.22` | Big deal for the dunya. | Pencapaian besar untuk urusan duniawi semata-mata. |
+| 486 | `26:42.32` | `26:44.30` | Will that take you to jannah? | Adakah itu yang bakal memimpin anda ke syurga? |
+| 487 | `26:44.40` | `26:46.10` | Not at all. | Sama sekali tidak. |
+| 488 | `26:46.20` | `26:48.78` | Unless you reminded them of goodness. | Melainkan sekiranya anda memanfaatkan platform itu untuk mengingatkan manusia kepada kebaikan. |
+| 489 | `26:48.88` | `26:51.34` | Unless you were saying something good. | Melainkan jika anda menyampaikan nasihat yang bermanfaat. |
+| 490 | `26:51.44` | `26:55.34` | Unless you were actually upright and call people towards Allah. | Melainkan sekiranya anda benar-benar istiqamah dan mengajak manusia mendekatkan diri kepada Allah. |
+| 491 | `26:55.44` | `26:58.82` | They like you, they don't like you is irrelevant. | Sama ada mereka menyukai anda atau membenci anda, itu langsung tidak penting. |
+| 492 | `26:58.92` | `27:02.66` | Allah will never say how many likes did you have before you go to paradise? | Allah tidak akan sesekali bertanya, "Berapa banyakkah 'likes' yang kamu kumpul sebelum kamu dibenarkan masuk ke syurga?" |
+| 493 | `27:02.76` | `27:03.58` | No chance. | Tiada kemungkinan sedemikian. |
+| 494 | `27:03.68` | `27:04.30` | Not at all. | Langsung tidak. |
+| 495 | `27:04.40` | `27:05.18` | Don't be deceived. | Jangan biarkan diri anda tertipu. |
+| 496 | `27:05.28` | `27:12.18` | My beloved youngsters, even if you are unknown, some of the people closest to Allah, they don't even have a single account | Wahai anak-anak mudaku yang dikasihi, sekalipun anda langsung tidak dikenali di dunia, ada dalam kalangan insan yang paling dekat kedudukannya dengan Allah, mereka langsung tiada walau satu akaun |
+| 497 | `27:12.28` | `27:14.56` | on social media. | di media sosial. |
+| 498 | `27:14.76` | `27:19.98` | And they are so close to Allah that if they were to make a dua, it would come true almost instantly. | Dan kedudukan mereka begitu akrab dengan Allah sehinggakan sekiranya mereka berdoa, doa mereka dimakbulkan dengan serta-merta. |
+| 499 | `27:20.08` | `27:22.98` | They are certain people mustajabud dawah. | Merekalah golongan insan yang digelar 'mustajabud da'wah'. |
+| 500 | `27:23.08` | `27:26.22` | Is there a single person that Allah says is mustajabud dawah? | Adakah seseorang itu dikira oleh Allah sebagai mustajabud da'wah |
+| 501 | `27:26.32` | `27:30.98` | That means when they make a dua and a supplication, it's accepted by Allah readily. | Itu bermakna apabila mereka menadah tangan berdoa dan memohon, doa mereka diperkenankan oleh Allah dengan serta-merta. |
+| 502 | `27:31.08` | `27:37.30` | Is there any one of those with a quality where someone told them the more likes and follows you have, the quicker your dua | Pernahkah sesiapa memberitahu mereka bahawa semakin banyak 'likes' dan pengikut yang kamu miliki, semakin cepat doa kamu |
+| 503 | `27:37.40` | `27:38.18` | will be accepted? | akan dimakbulkan? |
+| 504 | `27:38.28` | `27:39.22` | No chance. | Sama sekali tidak. |
+| 505 | `27:39.32` | `27:40.50` | No chance. | Tiada kaitan sama sekali. |
+| 506 | `27:40.60` | `27:42.62` | Don't be duped and deceived. | Jangan biarkan diri anda terpedaya dan tertipu. |
+| 507 | `27:42.72` | `27:44.42` | It is a huge responsibility. | Ia suatu amanah dan tanggungjawab yang amat berat. |
+| 508 | `27:44.52` | `27:45.38` | Do you know why? | Tahukah anda mengapa? |
+| 509 | `27:45.48` | `27:58.02` | My fear is when you forward or like or comment on or promote anything negative, perhaps it is such a huge responsibility that | Kebimbangan terbesar saya adalah apabila anda berkongsi, menekan tanda 'like', meninggalkan komen atau mempromosikan apa jua perkara mungkar, amanah itu terlalu berat sehingga |
+| 510 | `27:58.12` | `28:00.46` | that might be our downfall. | ia boleh menjadi punca kebinasaan kita di akhirat kelak. |
+| 511 | `28:00.56` | `28:02.06` | Look, I want to tell you something. | Dengarlah, saya ingin berkongsi sesuatu yang amat penting dengan anda. |
+| 512 | `28:02.16` | `28:04.54` | On the day of judgment, we will have a scale. | Pada hari kiamat kelak, akan ada timbangan mizan yang diletakkan. |
+| 513 | `28:04.64` | `28:06.10` | What type of scale is that? | Apakah bentuk timbangan tersebut? |
+| 514 | `28:06.20` | `28:07.82` | Anyone tell me? | Ada sesiapa boleh beritahu saya? |
+| 515 | `28:07.92` | `28:08.62` | What's the scale? | Apakah neraca timbangan itu? |
+| 516 | `28:08.72` | `28:10.14` | Yes, tell me. | Ya, silakan beritahu saya. |
+| 517 | `28:10.24` | `28:11.34` | Like of good deeds and bad deeds. | Timbangan amalan baik dan amalan buruk. |
+| 518 | `28:11.44` | `28:12.70` | Good deeds and bad deeds. | Amalan kebajikan dan amalan kejahatan. |
+| 519 | `28:12.80` | `28:15.74` | Which side is the good and which side is the bad? | Sebelah mana diletakkan amalan baik dan sebelah mana diletakkan amalan buruk? |
+| 520 | `28:15.84` | `28:17.64` | Yes. | Ya. |
+| 521 | `28:18.08` | `28:18.70` | Right and left. | Kanan dan kiri. |
+| 522 | `28:18.80` | `28:19.98` | Right is good and left is bad. | Sebelah kanan untuk amalan baik dan sebelah kiri untuk amalan buruk. |
+| 523 | `28:20.08` | `28:20.86` | Right, correct. | Tepat, jawapan anda betul. |
+| 524 | `28:20.96` | `28:23.82` | So, imagine you are standing in front of Allah. | Maka, bayangkan saat anda sedang berdiri di hadapan Allah. |
+| 525 | `28:23.92` | `28:26.50` | You are standing, there is a scale, right side, left side. | Anda sedang berdiri menghadap neraca timbangan, ada daun timbangan sebelah kanan dan daun timbangan sebelah kiri. |
+| 526 | `28:26.60` | `28:28.26` | On the right, they're going to put all your good deeds. | Di sebelah kanan, malaikat akan meletakkan segala amalan soleh anda. |
+| 527 | `28:28.36` | `28:30.18` | On the bad, they're going to put your bad deeds. | Di sebelah kiri, mereka akan meletakkan segala dosa keburukan anda. |
+| 528 | `28:30.28` | `28:34.54` | Now, there are so many bad deeds that are going one after the other. | Pada waktu itu, kelihatan begitu banyak dosa keburukan diletakkan satu demi satu. |
+| 529 | `28:34.64` | `28:35.42` | What will it be? | Apakah bentuk dosa tersebut? |
+| 530 | `28:35.52` | `28:37.62` | A certain like, you spread a rumor. | Satu tanda 'like' yang anda berikan ketika menyebarkan fitnah. |
+| 531 | `28:37.72` | `28:41.54` | You said something negative about someone you don't even know. | Kata-kata nista yang anda lontarkan terhadap seseorang yang langsung tidak anda kenali. |
+| 532 | `28:41.64` | `28:44.50` | It's happening every day online. | Perkara itu berlaku setiap hari di alam maya. |
+| 533 | `28:44.60` | `28:45.66` | You don't even know this person. | Anda langsung tidak mengenali insan tersebut. |
+| 534 | `28:45.76` | `28:47.10` | You spoiled their life. | Namun anda merosakkan masa depan hidupnya. |
+| 535 | `28:47.20` | `28:54.30` | You messed up their reputation and they are really good people and you don't know or you promoted someone who is who is not | Anda mencemarkan maruah dan reputasinya sedangkan mereka orang yang amat baik, atau anda mempromosikan pempengaruh yang langsung |
+| 536 | `28:54.40` | `29:01.18` | worth promoting at all because of their behavior that does not live up to the morals and values that we align with. | tidak layak dipromosikan disebabkan akhlaknya yang bercanggah dengan nilai dan syariat Islam yang kita pegang. |
+| 537 | `29:01.28` | `29:02.18` | Subhanallah. | Subhanallah. |
+| 538 | `29:02.28` | `29:03.38` | So, what happens? | Maka, apakah yang bakal berlaku? |
+| 539 | `29:03.48` | `29:06.62` | You see all these bad deeds pile up and pile up and pile up. | Anda menyaksikan segala dosa keburukan itu bertimbun, bertimbun dan semakin menggunung. |
+| 540 | `29:06.72` | `29:07.70` | Then what's going to happen? | Kemudian apakah yang akan terjadi seterusnya? |
+| 541 | `29:07.80` | `29:10.68` | All the good deeds are going to come. | Segala amalan kebajikan pula akan dibawa masuk. |
+| 542 | `29:24.28` | `29:28.54` | Allah says on that day of Qiyamah, we will set the scales of justice. | Allah berfirman bahawa pada hari kiamat kelak, Kami akan menegakkan neraca-neraca keadilan yang mutlak. |
+| 543 | `29:28.64` | `29:30.26` | Nobody will be oppressed. | Tiada sesiapa pun yang akan dizalimi. |
+| 544 | `29:30.36` | `29:31.94` | No soul shall be wronged. | Tiada satu jiwa pun yang akan dianiayai walau sedikit. |
+| 545 | `29:32.04` | `29:33.98` | Those are your deeds. | Semua itu adalah rekod amalan anda sendiri. |
+| 546 | `29:34.08` | `29:35.18` | So, what's my duty? | Maka, apakah kewajipan saya? |
+| 547 | `29:35.28` | `29:40.74` | I'm sitting here in the Masjid in Abdeen trying to picture and we won't be able to picture it fully because we don't know, | Saya duduk di sini di dalam masjid di Aberdeen cuba membayangkan — dan kita memang tidak mampu membayangkannya secara sempurna kerana kita belum melihatnya, |
+| 548 | `29:40.84` | `29:44.74` | but just picture for a human mind. | tetapi sekadar gambaran akal fikiran manusia biasa. |
+| 549 | `29:44.84` | `29:45.58` | Here is my deeds. | Inilah lembaran amalan saya. |
+| 550 | `29:45.68` | `29:46.78` | There's all bad, all bad. | Terdapat begitu banyak keburukan, dosa demi dosa. |
+| 551 | `29:46.88` | `29:50.48` | Things I know, things I don't know because Allah says | Perkara yang saya sedari dan perkara yang saya sendiri terlupa, kerana Allah berfirman: |
+| 552 | `29:54.28` | `30:02.26` | whoever did even an a little mustard seeds weight worth of good will see it and the bad will also see it. | sesiapa yang melakukan amalan kebaikan walau seberat biji sawi pasti akan melihat balasannya, dan sesiapa yang melakukan kejahatan pasti akan melihat balasannya juga. |
+| 553 | `30:02.36` | `30:03.86` | So, it's all getting there. | Maka semuanya dihimpunkan di situ. |
+| 554 | `30:03.96` | `30:07.02` | Now, my good deeds start piling up and guess what? | Kini, amalan kebajikan saya pula mula diletakkan di atas timbangan, dan tahukah anda apa yang berlaku? |
+| 555 | `30:07.12` | `30:09.78` | There is still more bad than good and what am I doing? | Timbangan dosa masih kelihatan lebih berat daripada timbangan pahala, dan apakah yang sedang saya lakukan pada waktu itu? |
+| 556 | `30:09.88` | `30:16.10` | I'm holding my breath maybe and I'm just seeing Wow, one, two, three and you're saying inshallah, inshallah, inshallah I make | Mungkin saya sedang menahan nafas dengan penuh cemas sambil menyaksikan satu, dua, tiga amalan ditimbang, dan anda merintih, "Insya-Allah, insya-Allah moga aku selamat, |
+| 557 | `30:16.20` | `30:18.42` | it, inshallah I make it, inshallah I make it, inshallah I make it. | moga aku berjaya, moga timbanganku melepasi, moga aku diselamatkan." |
+| 558 | `30:18.52` | `30:19.18` | And guess what? | Dan tahukah anda apa yang berlaku? |
+| 559 | `30:19.28` | `30:25.38` | It starts going and going down and down and meaning it's getting heavier and heavier and you're so happy and it's almost there | Daun timbangan kanan mula bergerak turun dan semakin condong ke bawah, bermakna timbangan pahala semakin berat dan anda berasa begitu gembira kerana hampir-hampir melepasi, |
+| 560 | `30:25.48` | `30:28.26` | and you need a few MORE DEEDS AND GUESS WHAT ALLAH SAYS? | dan anda memerlukan sedikit sahaja lagi amalan soleh, dan tahukah anda apa yang Allah firmankan? |
+| 561 | `30:28.36` | `30:36.06` | Allah says wallahi, if your right side tips the left, we will forget about the whole left and give you paradise. | Allah berfirman: Demi kemuliaan-Ku, sekiranya timbangan sebelah kananmu mengatasi timbangan sebelah kirimu, Kami akan hapuskan seluruh dosa di sebelah kiri dan mengurniakan syurga kepadamu. |
+| 562 | `30:36.16` | `30:36.82` | How's that? | Bagaimana pandangan anda tentang keluasan rahmat itu? |
+| 563 | `30:36.92` | `30:38.10` | Imagine the mercy of Allah. | Bayangkan betapa agungnya rahmat Allah. |
+| 564 | `30:38.20` | `30:41.34` | Allah didn't say you have to be sin-free to go to Jannah. | Allah tidak menetapkan bahawa anda wajib bebas sepenuhnya daripada dosa untuk melangkah masuk ke dalam syurga. |
+| 565 | `30:41.44` | `30:43.30` | Allah says, | Allah berfirman, |
+| 566 | `30:43.40` | `30:45.20` | "Whoever's | "Maka sesiapa yang |
+| 567 | `30:49.48` | `30:54.02` | good deeds are heavier, they are the ones who will be successful." So, you do have bad deeds. | berat timbangan kebaikannya, mereka itulah orang-orang yang beroleh kejayaan." Jadi, sememangnya anda pernah melakukan dosa. |
+| 568 | `30:54.12` | `30:55.14` | I have bad deeds. | Saya mempunyai dosa. |
+| 569 | `30:55.24` | `30:55.90` | You have bad deeds. | Anda juga mempunyai dosa. |
+| 570 | `30:56.00` | `30:56.74` | But, guess what? | Namun, tahukah anda apa kelebihannya? |
+| 571 | `30:56.84` | `30:59.74` | We have more good deeds than bad. | Kita berusaha agar timbangan kebaikan kita mengatasi timbangan keburukan kita. |
+| 572 | `30:59.84` | `31:01.74` | That's what it is. | Itulah rahsia kejayaannya. |
+| 573 | `31:01.84` | `31:06.34` | And we seek the forgiveness of Allah to the best of our capacity for the bad. | Dan kita memohon keampunan daripada Allah mengikut sedaya upaya kemampuan kita atas segala kekhilafan lalu. |
+| 574 | `31:06.44` | `31:07.74` | And Allah will wipe it out. | Maka Allah pasti akan memadamkan dosa-dosa tersebut. |
+| 575 | `31:07.84` | `31:11.58` | When you have more good deeds than bad, guess what happens? | Apabila timbangan amalan baik anda lebih berat daripada amalan buruk, tahukah anda apa yang bakal terjadi? |
+| 576 | `31:11.68` | `31:13.06` | You will be successful. | Anda pasti akan beroleh kejayaan hakiki. |
+| 577 | `31:13.16` | `31:15.28` | At the | Hadis Nabi |
+| 578 | `31:17.84` | `31:20.66` | Hadith says, "Follow up your bad deed with good deeds. | Sallallahu Alaihi Wasallam bersabda, "Iringilah perbuatan burukmu dengan melakukan amalan kebajikan. |
+| 579 | `31:20.76` | `31:22.66` | It will be wiped out." Allahu Akbar. | Nescaya amalan kebajikan itu akan menghapuskan dosa keburukan tersebut." Allahu Akbar. |
+| 580 | `31:22.76` | `31:23.50` | Allahu Akbar. | Allahu Akbar. |
+| 581 | `31:23.60` | `31:26.02` | That's the mercy of Allah, the favor of Allah. | Itulah tanda keluasan rahmat Allah dan kurniaan kasih sayang-Nya. |
+| 582 | `31:26.12` | `31:30.30` | So, I want to invite you today to do as many good deeds as you can. | Oleh itu, saya ingin mengajak anda semua pada malam ini untuk memperbanyakkan amalan soleh sebanyak mungkin mengikut daya kemampuan anda. |
+| 583 | `31:30.40` | `31:31.06` | You know why? | Tahukah anda mengapa? |
+| 584 | `31:31.16` | `31:35.26` | Hey, you and I have a lot of bad deeds we're not proud of. | Ketahuilah, anda dan saya mempunyai banyak dosa silam yang langsung tidak membanggakan kita. |
+| 585 | `31:35.36` | `31:37.98` | You and I have a lot of bad deeds. | Anda dan saya memiliki banyak kesilapan lampau. |
+| 586 | `31:38.08` | `31:41.70` | We would be embarrassed if the people had to see what we've done in our lives. | Kita pasti akan berasa teramat malu sekiranya orang ramai dapat melihat apa yang pernah kita lakukan sepanjang hidup kita. |
+| 587 | `31:41.80` | `31:42.38` | Do you agree? | Adakah anda bersetuju dengan saya? |
+| 588 | `31:42.48` | `31:43.38` | All of us. | Kita semua mengakuinya. |
+| 589 | `31:43.48` | `31:45.42` | We have so many secrets. | Kita semua menyimpan begitu banyak rahsia. |
+| 590 | `31:45.52` | `31:47.30` | We have so many secrets. | Kita mempunyai terlalu banyak rahsia aib yang tersembunyi. |
+| 591 | `31:47.40` | `31:51.22` | If Allah was not merciful, he would expose us. | Sekiranya Allah tidak bersifat Maha Pengasih dan Menutup Aib, nescaya Dia telah mendedahkan keaiban kita kepada khalayak ramai. |
+| 592 | `31:51.32` | `31:53.34` | Sorry, I'm not trying to say I'm a bad guy. | Maafkan saya, bukanlah niat saya hendak mengatakan bahawa saya seorang yang jahat. |
+| 593 | `31:53.44` | `31:56.34` | But, what I am trying to say is we all have sins. | Tetapi apa yang ingin saya tekankan adalah hakikat bahawa kita semua insan yang pernah berdosa. |
+| 594 | `31:56.44` | `31:56.90` | We are sinful. | Kita ini manusia yang lemah. |
+| 595 | `31:57.00` | `31:57.74` | We are Banu Adam. | Kita adalah anak-cucu Nabi Adam. |
+| 596 | `31:57.84` | `31:59.74` | We are Bashar. | Kita adalah manusia biasa yang tidak maksum. |
+| 597 | `31:59.84` | `32:04.82` | How many of us has have slept over prayer sometimes because of whatever the reason may be? | Berapa ramai antara kita yang pernah terlepas waktu solat kerana terlajak tidur disebabkan kepenatan atau apa jua punca? |
+| 598 | `32:04.92` | `32:06.66` | May Allah never let that happen to us. | Semoga Allah tidak membiarkan perkara sedemikian berlaku lagi kepada kita. |
+| 599 | `32:06.76` | `32:09.02` | But, it's such a heavy feeling. | Namun ia mendatangkan rasa bersalah yang amat berat di dalam jiwa. |
+| 600 | `32:09.12` | `32:14.94` | The bonus is the Hadith says, "Man nama an salatin aw nasiya fa yusalliha idha dhakaraha." | Berita gembiranya adalah hadis Baginda bersabda, "Man nama 'an salatin aw nasiyaha falyusalliha idha dhakaraha — sesiapa yang tertidur daripada solat atau terlupa, maka solatlah sebaik sahaja dia teringat." |
+| 601 | `32:15.04` | `32:16.22` | Hadith correct narration. | Riwayat hadis sahih. |
+| 602 | `32:16.32` | `32:22.02` | The Prophet Sallallahu Alaihi Wasallam says, "Whoever sleeps over a prayer or whoever has forgotten sometimes forgetfulness." | Nabi Sallallahu Alaihi Wasallam bersabda, "Sesiapa yang tertidur daripada menunaikan solat atau terlupa — kadangkala sifat lupa itu manusiawi." |
+| 603 | `32:22.12` | `32:29.54` | Here in Abdeen, one of the negatives is in some of the seasons of the year, your prayers are in awkward times, on awkward | Di sini di Aberdeen, antara cabarannya adalah pada sesetengah musim dalam setahun, waktu solat anda berada pada waktu yang agak janggal, waktu yang |
+| 604 | `32:29.64` | `32:30.94` | time, not easy. | mencabar dan bukan mudah. |
+| 605 | `32:31.04` | `32:35.34` | You got to do Fajr, then you got to do Dhuhr, and then you don't know when Asr just came in and went. | Anda perlu menunaikan solat Subuh, kemudian Zohor, dan selepas itu anda tidak perasan bila waktu Asar masuk dan berlalu pergi. |
+| 606 | `32:35.44` | `32:40.06` | And before you know it, it's Maghrib, and after that it's Maghrib and Isha, you're confused whether it's the same time or | Dan sebelum anda sedar, waktu Maghrib telah masuk, dan sejurus selepas itu waktu Maghrib dan Isyak bertindih sehingga anda keliru sama ada ia waktu yang sama atau |
+| 607 | `32:40.16` | `32:41.06` | not the same time. | bukan waktu yang sama. |
+| 608 | `32:41.16` | `32:45.54` | Some scholars would say you can read these two together and so so much of chaos and confusion. | Sesetengah ulama berfatwa bahawa anda boleh menjamakkan kedua-dua solat ini, menimbulkan pelbagai kekeliruan dan tanda tanya. |
+| 609 | `32:45.64` | `32:46.42` | How do we do that? | Bagaimanakah cara untuk kita menghadapinya? |
+| 610 | `32:46.52` | `32:51.34` | Wallahi, we do our best and we ask Allah to accept it and we ask Allah to forgive our shortcoming. | Wallahi, kita berusaha melakukan yang terbaik semampu kita, dan kita memohon agar Allah menerimanya serta mengampunkan segala kekurangan kita. |
+| 611 | `32:51.44` | `32:56.38` | So, because I have bad deeds and I want the tipping of the scale on the right side, how do I start? | Maka, oleh kerana saya memiliki dosa dan saya mendambakan timbangan neraca menjadi berat di sebelah kanan, bagaimanakah harus saya bermula? |
+| 612 | `32:56.48` | `32:57.38` | I teach you something. | Saya ingin mengajar anda suatu amalan. |
+| 613 | `32:57.48` | `33:00.98` | You start off by seeking the forgiveness of Allah. | Mulakanlah langkah anda dengan memohon keampunan daripada Allah (beristighfar). |
+| 614 | `33:01.08` | `33:06.98` | I once gave a talk at a school to some youngsters and I told them, teenagers, I said start off by seeking the forgiveness | Saya pernah menyampaikan ceramah di sebuah sekolah kepada sekumpulan anak muda, para remaja, dan saya menasihati mereka agar memulakan langkah dengan memohon keampunan |
+| 615 | `33:07.08` | `33:07.78` | of Allah. | daripada Allah. |
+| 616 | `33:07.88` | `33:09.06` | They said, we haven't sinned. | Mereka menjawab, "Kami belum pernah berbuat dosa. |
+| 617 | `33:09.16` | `33:10.22` | Why should we seek forgiveness? | Mengapa pula kami perlu memohon keampunan?" |
+| 618 | `33:10.32` | `33:12.86` | I'm like, Allahu Akbar. | Saya terkejut, "Allahu Akbar." |
+| 619 | `33:12.96` | `33:14.42` | Allahu Akbar, we haven't sinned. | Allahu Akbar, 'kami belum pernah berbuat dosa'. |
+| 620 | `33:14.52` | `33:16.30` | Why should I seek forgiveness? | Mengapa pula saya perlu memohon keampunan? |
+| 621 | `33:16.40` | `33:17.82` | Wallahi, we seek forgiveness. | Wallahi, kita semua wajib sentiasa beristighfar. |
+| 622 | `33:17.92` | `33:20.62` | Do you know how you seek forgiveness? | Tahukah anda bagaimana cara terbaik untuk memohon keampunan? |
+| 623 | `33:20.72` | `33:27.74` | Oh Allah, forgive me for the sins I know, the sins I don't know, the minor sins, the major sins, those I remember, those I | "Ya Allah, ampunkanlah dosa-dosa yang aku ketahui, dosa-dosa yang tidak aku ketahui, dosa kecil mahupun dosa besar, dosa yang aku ingat mahupun yang |
+| 624 | `33:27.84` | `33:33.98` | don't remember, those I know I was committing a sin and those I committed without even realizing I was committing a sin. | aku terlupa, dosa yang aku sedari semasa melakukannya serta dosa yang aku lakukan tanpa aku sedar bahawa aku sedang melakukan maksiat." |
+| 625 | `33:34.08` | `33:34.90` | Allahu Akbar. | Allahu Akbar. |
+| 626 | `33:35.00` | `33:36.96` | Allahu Akbar. | Allahu Akbar. |
+| 627 | `33:37.16` | `33:37.70` | Allahu Akbar. | Allahu Akbar. |
+| 628 | `33:37.80` | `33:40.78` | Oh Allah, I seek your forgiveness for that which I don't even know. | Ya Allah, aku memohon keampunan-Mu atas apa jua dosa yang langsung tidak aku ketahui. |
+| 629 | `33:40.88` | `33:42.90` | I don't even realize. | Yang langsung tidak aku sedari. |
+| 630 | `33:43.00` | `33:48.98` | Sometimes nowadays, you know how pressurizing the environment may be, you're walking on the street and you don't even know, | Kadangkala pada zaman ini, anda tahu betapa besarnya godaan persekitaran di luar sana, anda sedang berjalan di jalanan dan tanpa anda sedari, |
+| 631 | `33:49.08` | `33:53.58` | I look this way, I look that way, I look that way, you know, I saw something I wasn't supposed to see. | saya memandang ke kanan, memandang ke kiri, memandang ke hadapan, dan saya terlihat sesuatu yang tidak sepatutnya saya lihat. |
+| 632 | `33:53.68` | `33:54.10` | What happened? | Apakah yang berlaku selepas itu? |
+| 633 | `33:54.20` | `33:55.02` | You just carried on moving. | Anda teruskan sahaja berjalan. |
+| 634 | `33:55.12` | `33:56.62` | Did you ever say Astaghfirullah? | Pernahkah anda spontan beristighfar melafazkan Astaghfirullah? |
+| 635 | `33:56.72` | `33:57.22` | No, I didn't. | Tidak, saya tidak mengucapkannya. |
+| 636 | `33:57.32` | `33:57.43` | Why? | Mengapa? |
+| 637 | `33:57.48` | `33:59.70` | Because everyone walks, everyone sees. | Kerana semua orang berjalan dan semua orang melihat perkara yang sama. |
+| 638 | `33:59.80` | `34:04.06` | And some people, you know, when they they fear Allah, they look and they say Astaghfirullah. | Dan sesetengah insan, apabila mereka mempunyai rasa takut kepada Allah, mereka terpandang lalu segera beristighfar, "Astaghfirullah." |
+| 639 | `34:04.16` | `34:05.54` | Look down. | Mereka menundukkan pandangan. |
+| 640 | `34:05.64` | `34:08.90` | A little bit more intelligent, they look there, they say La hawla wala quwwata illa billah. | Bagi yang lebih peka, apabila terpandang mereka melafazkan, "La hawla wala quwwata illa billah." |
+| 641 | `34:09.00` | `34:10.70` | They look down. | Mereka menundukkan pandangan. |
+| 642 | `34:10.80` | `34:13.74` | And the one who's even more intelligent, he looks and he says In sha Allah. | Dan bagi yang jauh lebih cerdik, dia terpandang lalu berkata, "Insya-Allah." |
+| 643 | `34:13.84` | `34:14.86` | He looks down. | Dia menundukkan pandangan. |
+| 644 | `34:14.96` | `34:15.62` | Allahu Musta'an. | Allahul musta'an. |
+| 645 | `34:15.72` | `34:17.58` | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu wa ni'mal wakeel. |
+| 646 | `34:17.68` | `34:19.46` | Hasbunallahu wa ni'mal wakeel. | Hasbunallahu wa ni'mal wakeel. |
+| 647 | `34:19.56` | `34:22.82` | I hope that In sha Allah is for something halal, not haram. | Saya berharap ucapan 'Insya-Allah' itu adalah untuk perkara yang halal, bukannya perkara yang haram. |
+| 648 | `34:22.92` | `34:23.54` | Right? | Betul bukan? |
+| 649 | `34:23.64` | `34:25.22` | May Allah bless you. | Semoga Allah merahmati anda semua. |
+| 650 | `34:25.32` | `34:27.18` | May Allah Almighty bless you. | Semoga Allah Yang Maha Berkuasa melimpahkan barakah kepada anda. |
+| 651 | `34:27.28` | `34:32.82` | But nonetheless, on a more serious note, sometimes the point I'm raising is sometimes we don't even realize that we might | Namun apa pun, kembali kepada nada yang lebih serius, intipati yang ingin saya ketengahkan adalah kadangkala kita sendiri tidak menyedari bahawa kita mungkin |
+| 652 | `34:32.92` | `34:35.70` | have committed a minor sin and we don't realize it sometimes. | telah terlanjur melakukan dosa kecil tanpa kita sedari. |
+| 653 | `34:35.80` | `34:39.46` | Say ask Allah, oh Allah forgive me for that which I know, that which I don't know. | Ucapkanlah dan mohonlah kepada Allah, "Ya Allah, ampunkanlah daku atas apa yang aku ketahui dan apa yang tidak aku ketahui." |
+| 654 | `34:39.56` | `34:43.22` | When you seek forgiveness of Allah, learn to become humble. | Apabila anda memohon keampunan daripada Allah, belajarlah untuk menjadi insan yang tawaduk dan rendah diri. |
+| 655 | `34:43.32` | `34:44.54` | Learn to become humble. | Belajarlah merendahkan ego. |
+| 656 | `34:44.64` | `34:55.26` | Your power, your authority, your money, your fame and popularity, your good looks, none of that means anything in the eyes | Kuasa anda, darjat jawatan anda, wang ringgit anda, kemasyhuran dan populariti anda, ketampanan atau kecantikan paras rupa anda — tiada satu pun daripadanya bernilai di sisi |
+| 657 | `34:55.36` | `34:57.28` | of Allah. | Allah. |
+| 658 | `35:04.32` | `35:07.86` | Allah doesn't look at those material items and those external things. | Allah tidak sesekali memandang kepada kebendaan duniawi dan perkara luaran tersebut. |
+| 659 | `35:07.96` | `35:10.50` | He doesn't look at your bodies, your shapes, how you look, etc. | Dia tidak memandang kepada rupa jasad anda, bentuk tubuh anda, bagaimana penampilan luaran anda dan sebagainya. |
+| 660 | `35:10.60` | `35:11.26` | etc. | Dan sebagainya. |
+| 661 | `35:11.36` | `35:15.02` | Allah looks at the heart and Allah looks at your deeds. | Allah memandang kepada keikhlasan hati kamu dan Allah memandang kepada amalan perbuatan kamu. |
+| 662 | `35:15.12` | `35:20.78` | And when we say Allah looks at the heart, Shaitan comes and keeps on telling you Allah looks at the heart. | Dan apabila kita menyebut bahawa Allah memandang kepada hati, Syaitan mula datang berbisik dan sentiasa menanam fikiran bahawa 'Allah hanya memandang kepada hati'. |
+| 663 | `35:20.88` | `35:22.02` | You might wonder, so? | Anda mungkin tertanya-tanya, apa salahnya? |
+| 664 | `35:22.12` | `35:23.62` | That's a true statement. | Itu kenyataan yang benar. |
+| 665 | `35:23.72` | `35:25.94` | It's a true statement, but Shaitan is too clever. | Ia memang kenyataan yang benar, namun Syaitan itu teramat licik tipu dayanya. |
+| 666 | `35:26.04` | `35:26.82` | You know what he does? | Tahukah anda apa helah jarumnya? |
+| 667 | `35:26.92` | `35:30.18` | He says, hey, Allah doesn't look at your body or soul or anything. | Dia berbisik, "Hei, Allah kan tidak memandang kepada rupa tubuh kamu, pakaian kamu atau apa-apa pun. |
+| 668 | `35:30.28` | `35:31.82` | He looks at your heart. | Dia hanya memandang kepada hatimu semata-mata." |
+| 669 | `35:31.92` | `35:33.50` | And he keeps on saying he looks at your heart. | Dan dia terus-menerus mengulangi bahawa Allah hanya melihat hatimu. |
+| 670 | `35:33.60` | `35:38.98` | So you start sinning and when someone advises you, you say, | Lalu anda mula berani melakukan maksiat, dan apabila seseorang menegur dan menasihati anda, anda terus membalas, |
+| 671 | `35:39.08` | `35:39.50` | keep quiet. | "Diamlah kamu. |
+| 672 | `35:39.60` | `35:41.66` | Allah knows my heart. | Allah tahu apa yang ada dalam hati saya!" |
+| 673 | `35:41.76` | `35:42.98` | Where did you get that from? | Dari mana anda belajar jawapan sebegitu? |
+| 674 | `35:43.08` | `35:44.58` | Shaitan, who else? | Daripada Syaitan, siapa lagi? |
+| 675 | `35:44.68` | `35:48.26` | Because it's a kalimatu haqqin urida biha batil. | Kerana itu adalah 'kalimatu haqqin urida bihal batil' — kalimah yang benar tetapi digunakan dengan niat yang batil dan salah. |
+| 676 | `35:48.36` | `35:52.86` | It's a true statement, but your intention is false. | Ia kenyataan yang benar, tetapi niat anda menggunakannya adalah batil semata-mata untuk membela kemungkaran. |
+| 677 | `35:52.96` | `35:57.98` | Is it not my duty to advise you, my beloved sister, my beloved brother? | Bukankah suatu kewajipan bagi saya untuk menasihati anda, wahai saudariku yang dikasihi, wahai saudaraku yang dikasihi? |
+| 678 | `35:58.08` | `35:59.94` | We need to learn to dress appropriately. | Kita perlu belajar menutup aurat dan berpakaian dengan sopan mengikut syariat. |
+| 679 | `36:00.04` | `36:02.34` | Notice how I added the brothers in. | Perhatikan bagaimana saya turut menyertakan kaum lelaki sekali. |
+| 680 | `36:02.44` | `36:05.34` | Because it's very unfair to just single the sisters out. | Kerana amat tidak adil sekiranya kita hanya menuding jari dan menegur kaum wanita sahaja. |
+| 681 | `36:05.44` | `36:07.10` | No, we are all guilty. | Tidak, kita semua juga ada melakukan kesilapan. |
+| 682 | `36:07.20` | `36:13.10` | Sometimes some of the brothers wear clothing that is more embarrassing than all the sisters put together. | Kadangkala sebahagian kaum lelaki memakai pakaian yang jauh lebih memalukan daripada gabungan pakaian seluruh kaum wanita. |
+| 683 | `36:13.20` | `36:15.68` | Because you come to the masjid | Kerana anda datang melangkah ke masjid, |
+| 684 | `36:16.00` | `36:20.28` | wala hawla wala quwwata illa billah, you go in sujud. | wala hawla wala quwwata illa billah, lalu anda tunduk bersujud. |
+| 685 | `36:20.64` | `36:23.50` | See, already people are saying hasbunallahu wa ni'mal wakil. | Lihatlah, jemaah sudah mula mengeluh melafazkan hasbunallahu wa ni'mal wakil. |
+| 686 | `36:23.60` | `36:25.14` | Why? | Mengapa? |
+| 687 | `36:25.24` | `36:26.78` | Bro, | Wahai saudaraku, |
+| 688 | `36:26.88` | `36:30.68` | I don't even want to use the word crack in the masjid. | saya sendiri tidak sanggup hendak menyebut perkataan terdedah bahagian punggung di dalam masjid yang mulia ini. |
+| 689 | `36:31.12` | `36:36.22` | But you and I know that it is so embarrassing AND NO ONE TALKS ABOUT THE MEN. | Namun anda dan saya sedar betapa mengaibkan keadaan itu, TETAPI TIADA SESIAPA PUN YANG BERANI MENEGUR KAUM LELAKI. |
+| 690 | `36:36.32` | `36:38.62` | MY BROTHER, YOU NEED TO dress appropriately. | WAHAI SAUDARAKU, ANDA WAJIB berpakaian dengan sopan dan menutup aurat dengan sempurna. |
+| 691 | `36:38.72` | `36:40.74` | You need to watch out your dress code. | Anda wajib menjaga etika pemakaian anda. |
+| 692 | `36:40.84` | `36:42.50` | You busy worried about all the sisters. | Anda terlalu sibuk menegur aurat kaum wanita. |
+| 693 | `36:42.60` | `36:45.78` | Yes, we are, but we are worried about the brothers and the sisters. | Ya, kita perlu saling mengingatkan, tetapi kita wajib mengambil berat aurat kedua-duanya — kaum lelaki mahupun kaum wanita. |
+| 694 | `36:45.88` | `36:48.14` | We are worried about everyone, myself included. | Kita wajib prihatin terhadap semua orang, termasuklah diri saya sendiri. |
+| 695 | `36:48.24` | `36:50.26` | If I'm wrong, correct me. | Sekiranya saya silap, tegurlah saya. |
+| 696 | `36:50.36` | `36:51.22` | I deserve it. | Saya berhak menerima teguran itu. |
+| 697 | `36:51.32` | `36:56.02` | If I feel bad because I'm corrected, I'm going nowhere. | Sekiranya saya berasa tersinggung semata-mata kerana ditegur, saya tidak akan ke mana-mana. |
+| 698 | `36:56.12` | `37:01.54` | If you are a person who feels bad when someone corrects you, you are going nowhere in life. | Sekiranya anda jenis manusia yang cepat melatah dan terasa hati apabila seseorang menegur anda, anda tidak akan berjaya dalam hidup. |
+| 699 | `37:01.64` | `37:06.38` | If they were right and you were wrong, wallahi, that's there are chances that you may fail. | Sekiranya teguran mereka itu benar dan anda yang silap, wallahi, ada kemungkinan besar anda akan kecundang. |
+| 700 | `37:06.48` | `37:11.62` | Imagine you're saying 1 + 1 is 3 and you're spending your life saying that one guy comes to you, "Habibi, let me tell you | Bayangkan sekiranya anda berkeras mengatakan bahawa 1 + 1 adalah 3 dan anda menghabiskan usia menegakkan kepalsuan itu, lalu seseorang datang menegur, "Habibi, mari saya terangkan |
+| 701 | `37:11.72` | `37:15.38` | it's two." Allah knows my heart. | jawapannya adalah dua." Lalu anda menjawab, "Allah tahu apa yang ada dalam hati saya!" |
+| 702 | `37:15.48` | `37:16.54` | How can you say that? | Bagaimana anda boleh memberi alasan sebegitu? |
+| 703 | `37:16.64` | `37:17.54` | I'm just telling you. | Saya sekadar berterus-terang kepada anda. |
+| 704 | `37:17.64` | `37:23.62` | So, now when you write your examination, 1 + 1 is 3, you must write at the bottom, "Allah knows my heart." No matter how many | Maka sekarang, apabila anda menduduki peperiksaan dan menulis 1 + 1 = 3, anda menulis di bahagian bawah kertas jawapan, "Allah tahu isi hati saya." Walau berapa kali pun |
+| 705 | `37:23.72` | `37:26.46` | times you write that, you will be marked wrong. | anda menulis nota sebegitu, jawapan anda tetap akan dipangkah salah. |
+| 706 | `37:26.56` | `37:28.10` | That's what we are doing in our lives. | Itulah sebenarnya apa yang sedang kita lakukan dalam kehidupan kita seharian. |
+| 707 | `37:28.20` | `37:29.14` | Someone tells you, "You know what? | Apabila seseorang menasihati anda, "Tahukah kamu? |
+| 708 | `37:29.24` | `37:30.62` | This is haram." What do you mean it's haram? | Perkara ini adalah haram." Anda menjawab, "Apa maksud kamu ia haram? |
+| 709 | `37:30.72` | `37:31.50` | Allah knows my heart. | Allah tahu apa yang ada dalam hati saya!" |
+| 710 | `37:31.60` | `37:33.58` | So, we're eating pork, Allah knows your heart. | Jadi, kita makan daging babi, lalu berkata 'Allah tahu isi hati saya'. |
+| 711 | `37:33.68` | `37:35.38` | You're eating interest, Allah knows your heart. | Anda memakan riba, 'Allah tahu isi hati saya'. |
+| 712 | `37:35.48` | `37:37.86` | You You're not dressing appropriately, Allah knows your heart. | Anda berpakaian mendedahkan aurat, 'Allah tahu isi hati saya'. |
+| 713 | `37:37.96` | `37:40.46` | You're sending the alcohol, Allah knows your heart. | Anda mengedar minuman arak, 'Allah tahu isi hati saya'. |
+| 714 | `37:40.56` | `37:42.34` | You're doing everything else, Allah knows your heart. | Anda melakukan pelbagai lagi kemungkaran, lalu beralasan 'Allah tahu isi hati saya'. |
+| 715 | `37:42.44` | `37:43.86` | What's the point of Islam? | Maka apakah gunanya kita berpegang kepada ajaran Islam? |
+| 716 | `37:43.96` | `37:46.66` | Allah knows the heart, everybody's heart. | Allah Maha Mengetahui setiap isi hati, isi hati setiap hamba-Nya. |
+| 717 | `37:46.76` | `37:52.02` | That's why I say, "Don't be deceived by the statement of shaytan." What does he tell you? | Sebab itulah saya tegaskan, "Jangan sesekali terpedaya dengan bisikan helah Syaitan." Apakah yang cuba diputarbelitkannya? |
+| 718 | `37:52.12` | `37:57.42` | He tells you, "Walakin yanzuru ila qulubikum wa a'malikum." Hadith is correct. | Dia membacakan potongan hadis, "Walakin yanzuru ila qulubikum wa a'malikum." Hadis tersebut memang sahih. |
+| 719 | `37:57.52` | `37:59.82` | Allah looks at your hearts and your your deeds. | Sesungguhnya Allah memandang kepada hati-hati kamu dan amalan-amalan perbuatan kamu. |
+| 720 | `37:59.92` | `38:03.22` | Notice how both of those go hand in hand. | Perhatikan bagaimana kedua-dua unsur itu saling bergandingan dan tidak boleh dipisahkan sama sekali. |
+| 721 | `38:03.32` | `38:05.94` | Don't only say one without the other. | Jangan hanya mengambil satu aspek dan meninggalkan aspek yang satu lagi. |
+| 722 | `38:06.04` | `38:11.90` | Don't only say heart without deeds because that hadith did not only mention the heart and did not only mention the deeds. | Jangan hanya berhujah dengan 'hati' tanpa 'amalan perbuatan', kerana hadis tersebut tidak menyebut tentang hati sahaja, dan tidak pula menyebut tentang amalan semata-mata. |
+| 723 | `38:12.00` | `38:13.46` | It mentioned both of them. | Hadis itu menyebut kedua-duanya sekali gus. |
+| 724 | `38:13.56` | `38:21.14` | And from that, some of the muhaddithin have explained that Allah looks at your heart and your deed to see the intention of | Dan daripada hadis itulah para muhaddisin (ulama hadis) menghuraikan bahawa Allah memandang kepada hatimu dan amalanmu demi menilai keikhlasan niat di sebalik |
+| 725 | `38:21.24` | `38:21.98` | the deed. | amalan tersebut. |
+| 726 | `38:22.08` | `38:25.16` | and if the deed is wrong | Dan sekiranya amalan perbuatannya salah, |
+| 727 | `38:26.56` | `38:31.14` | and the heart is wrong in the wrong place, you've lost completely. | serta niat di dalam hatinya juga terpesong, sesungguhnya kamu telah rugi sepenuhnya. |
+| 728 | `38:31.24` | `38:33.06` | But Allah looks at both. | Namun Allah memandang kepada kedua-duanya. |
+| 729 | `38:33.16` | `38:36.90` | You need to do your salah and Allah will help you and guide you. | Anda wajib menunaikan solat fardu anda dan Allah pasti akan memimpin serta membantu anda. |
+| 730 | `38:37.00` | `38:42.22` | If I see someone fulfilling salah in the masjid and I walked in, I can't say, "Look at this guy. | Sekiranya saya melihat seseorang sedang khusyuk menunaikan solat di masjid ketika saya melangkah masuk, saya tidak berhak berkata, "Tengok orang itu, |
+| 731 | `38:42.32` | `38:45.30` | He's he's showing off." How do I know he's showing off? | dia sedang menunjuk-nunjuk (riya')." Bagaimana mungkin saya tahu bahawa dia menunjuk-nunjuk? |
+| 732 | `38:45.40` | `38:46.34` | It's a deed. | Itu amalan ibadahnya. |
+| 733 | `38:46.44` | `38:47.54` | Allah knows his heart. | Hanya Allah yang mengetahui apa yang tersembunyi di dalam hatinya. |
+| 734 | `38:47.64` | `38:50.46` | In that instance, it's correct to say Allah knows the man's heart. | Dalam konteks sebeginilah amat tepat untuk diucapkan bahawa hanya Allah yang mengetahui isi hati seseorang hamba. |
+| 735 | `38:50.56` | `38:52.30` | Leave him alone. | Biarkan urusan hatinya antara dirinya dengan Allah. |
+| 736 | `38:52.40` | `38:54.42` | But don't ever use it to justify. | Tetapi jangan sesekali menggunakannya sebagai alasan untuk menghalalkan kemungkaran diri. |
+| 737 | `38:54.52` | `38:56.42` | I want to teach you something, my beloved children. | Saya ingin mengajar sesuatu kepada anda, wahai anak-anakku yang dikasihi. |
+| 738 | `38:56.52` | `38:59.02` | When someone corrects you, you must say, "Jazakallahu khairan. | Apabila seseorang menegur kesilapan anda, wajarlah anda membalas, "Jazakallahu khairan. |
+| 739 | `38:59.12` | `39:02.54` | Thank you very much." With me, someone corrects me up to now. | Terima kasih banyak-banyak." Begitu juga halnya dengan diri saya apabila ada orang menegur saya sehingga ke hari ini. |
+| 740 | `39:02.64` | `39:06.42` | They say, "This guy I'm sure you might have heard they say he doesn't talk about Gaza. | Ada orang menuduh, "Orang ini — saya yakin anda mungkin pernah mendengarnya — dia tidak bercakap tentang isu Gaza. |
+| 741 | `39:06.52` | `39:07.22` | He doesn't do this. | Dia tidak memperjuangkan isu ini. |
+| 742 | `39:07.32` | `39:08.94` | He's a Zionist." What do you know what? | Dia ini seorang penyokong Zionis." Tahukah anda apa sikap saya? |
+| 743 | `39:09.04` | `39:09.74` | That's their opinion. | Itu pandangan peribadi mereka. |
+| 744 | `39:09.84` | `39:10.86` | They probably don't know. | Mereka berkemungkinan besar tidak mengetahui hakikat sebenar. |
+| 745 | `39:10.96` | `39:14.58` | They are probably victim of the algorithms and they don't even know. | Mereka mungkin menjadi mangsa sekatan algoritma media sosial tanpa mereka sendiri menyedarinya. |
+| 746 | `39:14.68` | `39:20.70` | But I don't want to cause a war with my own brothers and sisters because they are thinking bad of me. | Namun saya tidak mahu mencetuskan perbalahan sesama saudara seislam saya semata-mata kerana mereka bersangka buruk terhadap saya. |
+| 747 | `39:20.80` | `39:26.54` | I'd rather they think bad of me and the ummah remains together than for me to fight them and split the ummah in another 20 | Saya lebih rela mereka bersangka buruk terhadap peribadi saya asalkan kesatuan ummah kekal terpelihara, daripada saya membalas serangan mereka lalu memecahbelahkan ummah kepada 20 |
+| 748 | `39:26.64` | `39:27.66` | different ways. | puak yang berbeza. |
+| 749 | `39:27.76` | `39:29.14` | We are not Zionistic. | Kita sama sekali bukan penyokong Zionis. |
+| 750 | `39:29.24` | `39:36.78` | We are definitely pro-Palestine and pro-Gaza and we've done more than we have pro more than we have advertised. | Kita berdiri teguh menyokong perjuangan Palestin dan membela warga Gaza, malah kami telah menyalurkan bantuan jauh lebih banyak daripada apa yang kami war-warkan kepada umum. |
+| 751 | `39:36.88` | `39:42.86` | And we will definitely continue to speak about the genocide that continues up to now. | Dan kami akan terus-menerus bersuara menentang kekejaman pembunuhan beramai-ramai (genosid) yang masih berlarutan sehingga ke saat ini. |
+| 752 | `39:42.96` | `39:44.54` | Even though they say there is a ceasefire. | Walaupun ada pihak yang mendakwa kononnya telah berlaku gencatan senjata. |
+| 753 | `39:44.64` | `39:45.46` | What ceasefire? | Gencatan senjata apa yang dimaksudkan? |
+| 754 | `39:45.56` | `39:47.70` | Every day they are dying. | Setiap hari saudara kita di sana terus gugur syahid. |
+| 755 | `39:47.80` | `39:49.94` | Not just dying, being butchered and murdered. | Bukan sekadar meninggal dunia biasa, mereka disembelih, dibantai dan dibunuh dengan kejam. |
+| 756 | `39:50.04` | `39:51.50` | And every day land is being taken. | Dan setiap hari tanah air mereka terus dirampas. |
+| 757 | `39:51.60` | `39:53.10` | Do you know? | Tahukah anda? |
+| 758 | `39:53.20` | `39:55.94` | I came in here and I wanted to say to you, "Do you know what? | Saya melangkah masuk ke sini dan saya ingin menegaskan kepada anda, "Tahukah anda? |
+| 759 | `39:56.04` | `40:00.98` | Our brothers and sisters are all over I am very very on the button with what's going on. | Saudara-mara kita berada di seluruh pelosok dunia, dan saya sentiasa mengikuti rapat setiap perkembangan terkini yang berlaku. |
+| 760 | `40:01.08` | `40:01.78` | Trust me. | Percayalah kepada saya. |
+| 761 | `40:01.88` | `40:07.78` | I will tell you what happened today in Nepal, what happened yesterday in Indonesia and the last 2 weeks in the Philippines | Saya boleh memberitahu anda apa yang berlaku pada hari ini di Nepal, apa yang menimpa semalam di Indonesia, dan apa yang melanda Filipina dalam tempoh dua minggu lalu, |
+| 762 | `40:07.88` | `40:09.22` | and those kind I will let you know. | dan musibah seumpamanya, saya akan kongsikan dengan anda. |
+| 763 | `40:09.32` | `40:10.14` | There were earthquakes. | Berlaku bencana gempa bumi. |
+| 764 | `40:10.24` | `40:11.02` | There were mudslides. | Berlaku tragedi tanah runtuh. |
+| 765 | `40:11.12` | `40:11.86` | There were tsunamis. | Berlaku malapetaka tsunami. |
+| 766 | `40:11.96` | `40:15.94` | There were so much more there and so much of destruction and floods. | Terlalu banyak kemusnahan harta benda dan banjir besar yang melanda di sana. |
+| 767 | `40:16.04` | `40:19.70` | Do you even know this?" So, it's all over the world. | Pernahkah anda mengambil tahu tentang semua ini?" Musibah berlaku di seluruh pelusuk dunia. |
+| 768 | `40:19.80` | `40:21.02` | I belong to a charity. | Saya bernaung di bawah sebuah badan kebajikan. |
+| 769 | `40:21.12` | `40:24.46` | I work with an international aid organization. | Saya berkhidmat bersama sebuah organisasi bantuan kemanusiaan antarabangsa. |
+| 770 | `40:24.56` | `40:26.66` | You really reckon I don't know? | Adakah anda benar-benar menyangka bahawa saya tidak mengambil peduli? |
+| 771 | `40:26.76` | `40:29.42` | If you didn't see something, who does that platform belong to? | Sekiranya anda tidak melihat sesuatu hantaran di media sosial, milik siapakah platform tersebut? |
+| 772 | `40:29.52` | `40:30.54` | Why didn't you see it? | Mengapa anda tidak dapat melihatnya? |
+| 773 | `40:30.64` | `40:31.54` | Do you know? | Tahukah anda puncanya? |
+| 774 | `40:31.64` | `40:37.10` | There's something called shadow banning, there's something called a deletion, there's something called There are so many things. | Ada sistem yang dipanggil 'shadow banning' (sekatan halimunan), ada sistem pemadaman kandungan, ada pelbagai bentuk sekatan lain. |
+| 775 | `40:37.20` | `40:38.82` | It doesn't belong to you and I. | Platform media sosial tersebut bukan milik anda dan saya. |
+| 776 | `40:38.92` | `40:40.54` | Anyway, I don't want to get into that topic. | Apapun, saya tidak berniat untuk memanjangkan perbahasan mengenai isu itu. |
+| 777 | `40:40.64` | `40:44.94` | All I'm saying is still when people tell me something, I just say jazakallahu khairan. | Apa yang ingin saya tegaskan adalah, apabila orang menegur saya tentang sesuatu perkara, saya tetap memilih untuk membalas, "Jazakallahu khairan. |
+| 778 | `40:45.04` | `40:46.50` | Uncle, please make dua for me. | Pakcik, tolong doakan saya. |
+| 779 | `40:46.60` | `40:47.42` | I'm weak. | Saya insan yang serba lemah." |
+| 780 | `40:47.52` | `40:48.26` | That's all. | Cukup sekadar itu. |
+| 781 | `40:48.36` | `40:49.74` | And end it and go away. | Selesaikan perbualan dan beredarlah dengan tenang. |
+| 782 | `40:49.84` | `40:50.98` | I'm weak. | "Saya seorang yang lemah." |
+| 783 | `40:51.08` | `40:53.34` | That's the best way of closing the discussion. | Itulah cara yang paling damai untuk menutup sebarang pertikaian. |
+| 784 | `40:53.44` | `40:54.34` | Someone says, "You know what? | Apabila seseorang berkata, "Tahukah kamu? |
+| 785 | `40:54.44` | `40:54.94` | You didn't do this. | Kamu tidak buat perkara ini. |
+| 786 | `40:55.04` | `41:00.38` | You didn't do that." The other day in one of the masajid, I asked the people, I said, "Please give me one piece of advice." | Kamu terlepas pandang perkara itu." Baru-baru ini di salah sebuah masjid, saya meminta jemaah dengan berkata, "Tolong berikan saya satu nasihat." |
+| 787 | `41:00.48` | `41:02.38` | So, many people put up their hands. | Lalu ramai jemaah mengangkat tangan mereka. |
+| 788 | `41:02.48` | `41:04.98` | And one of the brothers gave me good a very good piece of advice. | Dan salah seorang jemaah lelaki telah memberikan nasihat yang sangat bermakna kepada saya. |
+| 789 | `41:05.08` | `41:06.14` | And I told him jazakallahu khairan. | Dan saya berkata kepadanya, "Jazakallahu khairan. |
+| 790 | `41:06.24` | `41:06.86` | Thank you so much. | Terima kasih banyak-banyak." |
+| 791 | `41:06.96` | `41:09.74` | Wallahi, it was It touched my heart what he said. | Wallahi, kata-kata nasihatnya itu benar-benar menyentuh hati sanubari saya. |
+| 792 | `41:09.84` | `41:12.10` | But, I was willing to listen to anything. | Dan saya sentiasa bersedia untuk mendengar apa jua teguran. |
+| 793 | `41:12.20` | `41:18.14` | Imagine if I were to ask you, "Give me a piece of advice." Many of you are itching to tell me something to correct me. | Bayangkan sekiranya saya bertanya kepada anda, "Berikan saya satu teguran." Ramai antara anda pasti berkobar-kobar ingin menegur sesuatu kesilapan saya. |
+| 794 | `41:18.24` | `41:20.22` | Maybe you might have heard something, seen something. | Mungkin anda pernah mendengar sesuatu khabar angin atau melihat sesuatu perkara. |
+| 795 | `41:20.32` | `41:22.02` | Wallahi, I'm willing to listen to you. | Wallahi, saya sentiasa berlapang dada untuk mendengar pandangan anda. |
+| 796 | `41:22.12` | `41:29.08` | And I want to be corrected because I believe the only way we can outshine the whole world is when we accept correction. | Dan saya bersedia untuk diperbetulkan kerana saya yakin satu-satunya jalan untuk kita melakar kecemerlangan di dunia adalah apabila kita bersedia menerima teguran. |
+| 797 | `41:29.48` | `41:31.06` | Otherwise, you're not going to move anywhere. | Jika tidak, anda tidak akan mampu melangkah maju ke mana-mana. |
+| 798 | `41:31.16` | `41:33.42` | When I read Quran, I thought I knew it all. | Dahulu ketika saya mula-mula membaca al-Quran, saya menyangka saya sudah mengetahui segalanya. |
+| 799 | `41:33.52` | `41:36.62` | I went to another teacher, and he corrected what I already knew. | Lalu saya berguru dengan seorang guru lain, dan beliau memperbetulkan apa yang saya sangka saya sudah mahir. |
+| 800 | `41:36.72` | `41:40.34` | And then I went to a third teacher, and he corrected what I learned from the second teacher. | Kemudian saya berguru pula dengan guru ketiga, dan beliau memperbetulkan lagi bacaan yang saya pelajari daripada guru kedua. |
+| 801 | `41:40.44` | `41:41.70` | And then I got ijaza. | Dan selepas itu saya memperoleh sanad ijazah al-Quran. |
+| 802 | `41:41.80` | `41:44.54` | And then I made sure that ijaza was on a very high level. | Dan saya memastikan bahawa sanad ijazah tersebut adalah pada sanad yang bersambung tinggi. |
+| 803 | `41:44.64` | `41:45.26` | And what happened? | Dan apakah yang berlaku selepas itu? |
+| 804 | `41:45.36` | `41:48.86` | We now learned something that we really didn't imagine. | Kami kini mempelajari sesuatu ilmu yang tidak pernah kami bayangkan sebelum ini. |
+| 805 | `41:48.96` | `41:51.06` | And when we were young, we wouldn't have believed. | Dan ketika kami masih muda dahulu, kami mungkin sukar mempercayainya. |
+| 806 | `41:51.16` | `41:53.62` | Why did I not, you know, I'm reading Quran. | Mengapa dahulu saya tidak — anda tahu, ketika saya mendengar bacaan al-Quran. |
+| 807 | `41:53.72` | `41:55.70` | Sometimes we hear people read Quran. | Kadangkala kita mendengar orang membaca al-Quran di sekeliling kita. |
+| 808 | `41:55.80` | `41:56.50` | And you know what? | Dan tahukah anda apa yang terlintas dalam fikiran saya? |
+| 809 | `41:56.60` | `41:58.70` | In my mind, I say this person needs correction. | Di dalam hati saya berbisik bahawa bacaan insan ini memerlukan pembetulan makhraj dan tajwid. |
+| 810 | `41:58.80` | `42:00.54` | Someone with love needs to go to them. | Seseorang perlu mendekatinya dengan penuh kasih sayang dan kelembutan. |
+| 811 | `42:00.64` | `42:06.10` | Beautiful voice, beautiful tone, beautiful tune, but no tajweed, no pronunciation. | Suaranya sungguh merdu, alunannya indah, lagunya memukau, namun tiada kaedah tajwid dan sebutan makhraj huruf yang betul. |
+| 812 | `42:06.20` | `42:08.48` | How would you know? | Bagaimanakah anda boleh mengetahuinya? |
+| 813 | `42:10.00` | `42:11.80` | Cool. | Hebat bukan? |
+| 814 | `42:12.12` | `42:14.32` | What does that mean? | Apakah maksud di sebalik hakikat itu? |
+| 815 | `42:14.80` | `42:20.06` | Indeed, the people of a certain virtue are only recognized by people of a similar virtue. | Sesungguhnya kelebihan sesuatu kemahiran itu hanya mampu dinilai oleh mereka yang mempunyai kemahiran yang sama. |
+| 816 | `42:20.16` | `42:24.42` | It takes a Qari al-Quran to recognize another Qari al-Quran. | Ia memerlukan seorang qari al-Quran untuk mengenali mutu bacaan qari al-Quran yang lain. |
+| 817 | `42:24.52` | `42:27.06` | The rest of the public THEY SAY, "MASHA ALLAH! | Orang awam yang lain sekadar bersorak, "MASYA-ALLAH! |
+| 818 | `42:27.16` | `42:29.86` | TAKBIR!" AND THE Sheikh sitting in the front says, "You know what? | TAKBIR!" Namun tuan guru syeikh yang duduk di saf hadapan berkata, "Tahukah kamu? |
+| 819 | `42:29.96` | `42:31.42` | He couldn't pronounce his Qaf. | Dia tadi gagal menyebut huruf Qaf dengan tepat. |
+| 820 | `42:31.52` | `42:36.02` | Instead of Qalb, he says Kalb." Inna fi dhalika la dhikra liman kana lahu Kalb. | Daripada menyebut Qalb (hati), dia menyebut Kalb (anjing)." Inna fi dhalika la dhikra liman kana lahu Kalb. |
+| 821 | `42:36.12` | `42:38.10` | La hawla wala quwwata illa billah. | La hawla wala quwwata illa billah. |
+| 822 | `42:38.20` | `42:41.06` | I corrected one brother who said that and he got upset with me. | Saya pernah menegur seorang jemaah lelaki yang membaca begitu lalu dia berasa kecil hati dan marah kepada saya. |
+| 823 | `42:41.16` | `42:46.34` | I said, "Habibi, if you know Arabic, you will know what you said is haram. | Saya berkata kepadanya, "Habibi, sekiranya anda memahami bahasa Arab, anda akan tahu bahawa apa yang anda baca tadi membawa erti yang rosak. |
+| 824 | `42:46.44` | `42:47.82` | It's not allowed. | Ia tidak dibenarkan. |
+| 825 | `42:47.92` | `42:50.58` | Qalb is a heart and Kalb is a dog. | Qalb (dengan huruf Qaf) bermaksud hati nurani, manakala Kalb (dengan huruf Kaf) bermaksud anjing. |
+| 826 | `42:50.68` | `42:51.78` | And you are saying Kalb. | Dan anda tadi telah menyebut perkataan Kalb (anjing). |
+| 827 | `42:51.88` | `42:52.46` | Come on, man. | Bertenanglah, wahai saudaraku. |
+| 828 | `42:52.56` | `42:53.30` | Relax. | Bertenang. |
+| 829 | `42:53.40` | `42:54.30` | Don't feel bad. | Jangan berasa tersinggung. |
+| 830 | `42:54.40` | `42:55.62` | It's the word of Allah. | Ini adalah kalam Allah. |
+| 831 | `42:55.72` | `42:56.58` | You need to be corrected. | Wajib bagi anda untuk menerima pembetulan. |
+| 832 | `42:56.68` | `43:03.02` | When the Imam comes up, no matter who the Imam is, Imam of the Haram, if someone corrects him at the back and he feels bad, | Apabila imam melangkah ke hadapan mengimami solat, tidak kira siapa imam tersebut — sekalipun Imam Masjidil Haram — sekiranya jemaah di belakang menegur kesilapan ayatnya lalu dia berasa malu, |
+| 833 | `43:03.12` | `43:03.70` | what will happen? | apakah yang bakal berlaku? |
+| 834 | `43:03.80` | `43:04.46` | Do they feel bad? | Adakah para imam di Masjidil Haram berasa tersinggung? |
+| 835 | `43:04.56` | `43:05.18` | They don't feel bad. | Mereka langsung tidak berasa kecil hati. |
+| 836 | `43:05.28` | `43:06.14` | You know what I love? | Tahukah anda apa yang amat saya kagumi? |
+| 837 | `43:06.24` | `43:08.02` | When I was young, I used to do Tarawih. | Ketika zaman muda saya dahulu, saya sering mengimami solat tarawih. |
+| 838 | `43:08.12` | `43:10.66` | From the age of 14, I was the Imam in the masjid. | Sejak berumur 14 tahun lagi, saya telah diberi amanah menjadi imam di masjid. |
+| 839 | `43:10.76` | `43:11.54` | I used to lead Tarawih. | Saya sering mengimami solat tarawih. |
+| 840 | `43:11.64` | `43:16.46` | Full Quran I used to lead in some instances and some uh a portion of it. | Kadangkala saya mengimami khatam 30 juzuk al-Quran sepenuhnya, dan kadangkala sebahagian daripadanya. |
+| 841 | `43:16.56` | `43:20.22` | And when someone corrects us, they don't even give you a moment and they fire. | Dan apabila seseorang makmum menegur kesilapan ayat, mereka tidak menunggu walau sesaat dan terus menyergah menegur. |
+| 842 | `43:20.32` | `43:21.86` | And we used to feel bad. | Dan dahulu kami sering berasa tersinggung di dalam hati. |
+| 843 | `43:21.96` | `43:25.86` | We used to feel, "Hey, at least give me a few moments." When you know, this guy here, he's just whacking it. | Dahulu kami berbisik, "Aduh, berilah peluang beberapa saat dahulu untuk saya ingat kembali." Tetapi jemaah di belakang terus menegur dengan pantas. |
+| 844 | `43:25.96` | `43:28.06` | And then I went to Mecca. | Kemudian saya berpeluang menjejakkan kaki ke Makkah. |
+| 845 | `43:28.16` | `43:32.22` | When I went to Mecca, it was 1988 in Ramadan. | Ketika saya pergi ke Makkah pada bulan Ramadan tahun 1988. |
+| 846 | `43:32.32` | `43:34.06` | There were three Imams in Mecca. | Pada waktu itu terdapat tiga orang imam utama di Makkah. |
+| 847 | `43:34.16` | `43:37.34` | They used to read the whole Tarawih one day, one day, one day. | Mereka mengimami solat tarawih bergilir-gilir secara penuh — sehari seorang imam, kemudian imam seterusnya. |
+| 848 | `43:37.44` | `43:38.62` | Do you know who they were? | Tahukah anda siapakah mereka? |
+| 849 | `43:38.72` | `43:40.94` | The first day, Sheikh Abdur Rahman as-Sudais. | Malam pertama diimami oleh Sheikh Abdur Rahman as-Sudais. |
+| 850 | `43:41.04` | `43:43.46` | The second day, Sheikh Ali Abdullah Jabir. | Malam kedua diimami oleh Sheikh Ali Abdullah Jabir. |
+| 851 | `43:43.56` | `43:46.94` | And the third day, Sheikh Ali Abdur Rahman al-Hudaifi. | Dan malam ketiga diimami oleh Sheikh Ali Abdur Rahman al-Hudaifi. |
+| 852 | `43:47.04` | `43:49.94` | This was in Mecca in 1988, right? | Peristiwa ini berlaku di Makkah pada tahun 1988, betul bukan? |
+| 853 | `43:50.04` | `43:51.06` | These were the three Imams. | Merekalah tiga orang imam besar pada ketika itu. |
+| 854 | `43:51.16` | `43:52.38` | They used to rotate. | Mereka mengimami solat secara bergilir-gilir. |
+| 855 | `43:52.48` | `43:53.58` | Now, what happened? | Apakah yang berlaku? |
+| 856 | `43:53.68` | `43:58.78` | When one makes a mistake, they are corrected and they carry on like nothing happened. | Apabila salah seorang imam tersilap ayat, makmum di belakang menegur dan imam tersebut meneruskan bacaan seperti tiada apa-apa yang berlaku. |
+| 857 | `43:58.88` | `43:59.54` | They continue. | Mereka terus membaca dengan tenang. |
+| 858 | `43:59.64` | `44:00.42` | No one felt bad. | Tiada seorang pun berasa tersinggung atau malu. |
+| 859 | `44:00.52` | `44:01.58` | The tune doesn't change. | Alunan taranum mereka langsung tidak berubah sumbang. |
+| 860 | `44:01.68` | `44:04.06` | When I used to be corrected, the tune used to change. | Dahulu ketika saya ditegur kesilapan, alunan suara saya terus berubah serak. |
+| 861 | `44:04.16` | `44:05.74` | I used to feel upset and like I want to give up. | Dahulu saya berasa kecewa dan rasa hendak berundur mengalah. |
+| 862 | `44:05.84` | `44:06.26` | Okay, خلاص. | "Sudahlah, cukuplah. |
+| 863 | `44:06.36` | `44:07.46` | You made two, three mistakes. | Kamu dah buat dua tiga kesilapan tadi." |
+| 864 | `44:07.56` | `44:10.94` | Now I'm I'm slumped and I feel like you know I'm punctured. | Lalu saya berasa jatuh semangat dan rasa bagaikan 'tayar yang bocor'. |
+| 865 | `44:11.04` | `44:11.86` | Why? | Mengapa? |
+| 866 | `44:11.96` | `44:14.42` | Who do you want to impress that you did not make mistakes? | Siapakah yang ingin anda kagumkan kononnya anda tidak pernah melakukan kesilapan? |
+| 867 | `44:14.52` | `44:16.58` | No, I want to impress Allah. | Tidak, niat saya hanyalah semata-mata mencari keredaan Allah. |
+| 868 | `44:16.68` | `44:20.34` | Oh Allah, I was corrected and I took the correction because this is your word. | "Ya Allah, aku ditegur dan aku menerima teguran ini kerana ini adalah kalam suci-Mu. |
+| 869 | `44:20.44` | `44:22.82` | It's not It's not anyone's book. | Ini bukan buku karangan mana-mana manusia biasa." |
+| 870 | `44:22.92` | `44:24.34` | I felt good. | Maka saya berasa amat tenang dan lapang dada. |
+| 871 | `44:24.44` | `44:25.66` | Allahu Akbar. | Allahu Akbar. |
+| 872 | `44:25.76` | `44:27.26` | So | Oleh itu, |
+| 873 | `44:27.36` | `44:29.18` | feel good when someone corrects you. | berlapang dadalah dan berasa gembiralah apabila seseorang menegur kesilapan anda. |
+| 874 | `44:29.28` | `44:30.38` | After that I learned. | Sejak daripada peristiwa itulah saya belajar menjadi matang. |
+| 875 | `44:30.48` | `44:32.78` | Now correct me, I will not feel bad. | Kini sekiranya anda menegur saya, saya tidak akan berasa kecil hati lagi. |
+| 876 | `44:32.88` | `44:33.90` | Because I realized you know what? | Kerana saya sedar bahawa tahukah anda? |
+| 877 | `44:34.00` | `44:37.46` | You want to be Imam You must not feel bad when you are corrected. | Sekiranya anda ingin menjadi seorang imam, anda tidak boleh berasa tersinggung apabila ditegur. |
+| 878 | `44:37.56` | `44:39.10` | Up to today they they are excited. | Sehingga ke hari ini para imam di sana sentiasa berlapang dada. |
+| 879 | `44:39.20` | `44:43.90` | You correct any one of them subhanallah they will take the correction and keep it moving as though nothing happened because | Sekiranya anda menegur mana-mana seorang daripada mereka, subhanallah mereka menerima teguran tersebut dan meneruskan bacaan seolah-olah tiada apa yang berlaku kerana menyedari |
+| 880 | `44:44.00` | `44:44.74` | human beings. | hakikat sifat manusia biasa. |
+| 881 | `44:44.84` | `44:48.54` | And sometimes there a lot of mistakes that happen in the Haram, a lot. | Dan kadangkala terdapat juga kesilapan yang berlaku dalam bacaan di Masjidil Haram, banyak kali juga. |
+| 882 | `44:48.64` | `44:50.06` | Because everyone is a human. | Kerana setiap insan adalah manusia biasa. |
+| 883 | `44:50.16` | `44:54.50` | The point I'm raising here is let's not justify when we are corrected. | Intipati yang ingin saya tekankan di sini adalah marilah kita jangan mencari alasan membela diri apabila kita ditegur. |
+| 884 | `44:54.60` | `44:55.54` | I want to correct myself. | Saya sentiasa ingin memperbaiki diri saya. |
+| 885 | `44:55.64` | `44:59.42` | I need that scale on that day of judgement to be tipped on the right side. | Saya amat mendambakan timbangan mizan pada hari kiamat kelak menjadi berat di sebelah kanan. |
+| 886 | `44:59.52` | `45:03.54` | So keep on doing lots and lots and lots of good deeds by the help and the will of Allah. | Maka teruskanlah melipatgandakan sebanyak mungkin amalan kebajikan dengan pertolongan dan kehendak Allah. |
+| 887 | `45:03.64` | `45:06.18` | So we start off by seeking the forgiveness of Allah. | Maka langkah pertama kita bermula dengan memohon keampunan (istighfar) daripada Allah. |
+| 888 | `45:06.28` | `45:07.78` | Secondly, | Keduanya, |
+| 889 | `45:07.88` | `45:08.78` | humble yourself. | rendahkanlah hati anda dengan sifat tawaduk. |
+| 890 | `45:08.88` | `45:15.16` | Become a person who is not arrogant because with arrogance you're not going to go far in life. | Jadilah insan yang tidak takbur dan sombong kerana sifat sombong tidak akan membawa anda ke mana-mana dalam hidup ini. |
+| 891 | `45:19.36` | `45:20.30` | Hadith. | Sabda hadis Nabi Sallallahu Alaihi Wasallam. |
+| 892 | `45:20.40` | `45:25.10` | He will not enter paradise in whose heart is even a droplet of pride. | Tidak akan masuk syurga sesiapa yang di dalam hatinya terdapat sebesar zarah perasaan sombong takbur. |
+| 893 | `45:25.20` | `45:25.70` | Remove the pride. | Buangkanlah rasa takbur itu. |
+| 894 | `45:25.80` | `45:26.34` | Who am I? | Siapakah saya ini? |
+| 895 | `45:26.44` | `45:27.30` | I'm your brother. | Saya hanyalah saudara anda. |
+| 896 | `45:27.40` | `45:28.26` | Alas. | Cukup sekadar itu. |
+| 897 | `45:28.36` | `45:34.54` | If I complete this talk well I if the masjid was maybe half full quarter full, I would have probably sat later on greeted | Sekiranya saya selesai menyampaikan ceramah ini — sekiranya jemaah di masjid ini separuh atau suku sahaja yang hadir, saya pasti akan duduk lebih lama bersalaman dengan |
+| 898 | `45:34.64` | `45:37.30` | everyone and you know shaken hands with the people and so on. | semua orang, beramah mesra dan berjabat tangan dengan para jemaah sekalian. |
+| 899 | `45:37.40` | `45:38.70` | But I have a duty. | Namun saya mempunyai amanah dan tanggungjawab menjaga ketenteraman. |
+| 900 | `45:38.80` | `45:40.42` | This is a masjid it's packed. | Ini rumah Allah dan suasananya terlalu padat dengan jemaah. |
+| 901 | `45:40.52` | `45:42.22` | If I'm to greet you they will be stampeding. | Sekiranya saya berdiri bersalaman dengan anda, pasti akan berlaku tolak-menolak dan kesesakan. |
+| 902 | `45:42.32` | `45:44.46` | They will be hurting of people, the kids and so on. | Orang ramai mungkin akan tercedera, anak-anak kecil terhimpit dan sebagainya. |
+| 903 | `45:44.56` | `45:45.94` | It's my duty to walk out. | Maka menjadi kewajipan saya untuk segera beredar keluar. |
+| 904 | `45:46.04` | `45:47.30` | Do you know what I do? | Tahukah anda apa yang biasa saya lakukan? |
+| 905 | `45:47.40` | `45:49.62` | You invite me to a wedding for example. | Katakanlah anda menjemput saya menghadiri majlis perkahwinan. |
+| 906 | `45:49.72` | `45:53.22` | I don't give preference to go to weddings but sometimes we have to go. | Saya biasanya tidak mengutamakan menghadiri kenduri perkahwinan, namun kadangkala kita perlu hadir. |
+| 907 | `45:53.32` | `45:56.86` | So if I go to the wedding I'll tell the brother, brother I'll come but I leave immediately. | Maka sekiranya saya hadir ke majlis perkahwinan itu, saya akan berpesan kepada tuan rumah, "Wahai saudaraku, saya akan hadir tetapi saya akan terus beredar sejurus selepas itu." |
+| 908 | `45:56.96` | `45:59.14` | I'll come do a talk, officiate and move. | Saya hadir menyampaikan tazkirah ringkas, mendoakan keberkatan dan segera beredar. |
+| 909 | `45:59.24` | `45:59.66` | No, but why? | Tuan rumah bertanya, "Kenapa begitu tergesa-gesa?" |
+| 910 | `45:59.76` | `46:02.68` | I said no, I have something to do. | Saya menjawab, "Saya ada urusan lain yang perlu diselesaikan." |
+| 911 | `46:03.12` | `46:04.14` | What did I do? | Tahukah anda mengapa saya bertindak sedemikian? |
+| 912 | `46:04.24` | `46:07.18` | That day belongs to the bride and the groom. | Hari tersebut adalah hari bahagia milik pasangan pengantin lelaki dan perempuan. |
+| 913 | `46:07.28` | `46:14.26` | I'm going to go there just because of a few likes and clicks that people have, the focus is going to change onto me. | Sekiranya saya duduk berlama-lama di situ semata-mata kerana segelintir 'likes' dan perhatian manusia, tumpuan majlis pasti akan beralih kepada diri saya. |
+| 914 | `46:14.36` | `46:16.42` | And everyone wants to take photos and they want to do that. | Dan semua orang akan mengerumuni hendak mengambil gambar dan sebagainya. |
+| 915 | `46:16.52` | `46:17.50` | I don't need all of that. | Saya langsung tidak memerlukan semua publisiti itu. |
+| 916 | `46:17.60` | `46:18.42` | And they don't need all of it. | Dan mereka sendiri sebenarnya tidak memerlukannya. |
+| 917 | `46:18.52` | `46:18.92` | They don't know. | Mereka tidak sedar. |
+| 918 | `46:19.00` | `46:21.42` | They're excited we've invited this guy to the wedding. | Mereka cuma berasa teruja kononnya berjaya menjemput penceramah ini ke majlis perkahwinan mereka. |
+| 919 | `46:21.52` | `46:22.30` | What did I do? | Apakah yang saya lakukan? |
+| 920 | `46:22.40` | `46:26.18` | I went away as a blessing for me and for everyone else. | Saya segera beredar sebagai suatu rahmat dan kebaikan bagi diri saya dan bagi semua orang yang hadir. |
+| 921 | `46:26.28` | `46:27.50` | I don't need the food. | Saya tidak berniat untuk menikmati jamuan makanan. |
+| 922 | `46:27.60` | `46:30.38` | I just mashallah I delivered what I had to and I went away. | Saya telah menyampaikan apa yang diamanahkan dan kemudian saya beredar dengan tenang. |
+| 923 | `46:30.48` | `46:33.10` | Now the focus remains on the people it's supposed to be on. | Kini tumpuan majlis kekal terarah kepada mereka yang sepatutnya diraikan. |
+| 924 | `46:33.20` | `46:34.94` | It's your big day, your big day. | Hari itu adalah hari bersejarah anda, hari bahagia anda. |
+| 925 | `46:35.04` | `46:36.54` | You wonder why I went. | Anda mungkin tertanya-tanya mengapa saya segera pergi. |
+| 926 | `46:36.64` | `46:39.46` | Between me and Allah I know why I went. | Antara diri saya dengan Allah, saya tahu apa niat sebenar saya berbuat demikian. |
+| 927 | `46:39.56` | `46:41.82` | The same applies here. | Begitu juga halnya di sini pada malam ini. |
+| 928 | `46:41.92` | `46:44.22` | I'm going to walk out straight after my talk and I'm going to be gone. | Saya akan melangkah keluar sebaik sahaja selesai menyampaikan ceramah dan saya akan terus beredar. |
+| 929 | `46:44.32` | `46:45.58` | Before you know it, the man is gone. | Sebelum anda sempat menyedarinya, penceramah sudah pun beredar. |
+| 930 | `46:45.68` | `46:46.08` | Why? | Mengapa? |
+| 931 | `46:46.12` | `46:46.66` | Who am I? | Siapakah diri saya ini? |
+| 932 | `46:46.76` | `46:49.94` | If there was any virtue in shaking my hand, I'd shake everybody's hand. | Sekiranya ada fadhilat istimewa dengan bersalaman dengan tangan saya, nescaya saya akan bersalaman dengan setiap orang yang ada. |
+| 933 | `46:50.04` | `46:51.22` | There's no virtue. | Namun tiada keistimewaan luar biasa padanya. |
+| 934 | `46:51.32` | `46:53.22` | You shake my hand doesn't mean a thing. | Bersalaman dengan saya langsung tidak menjamin apa-apa. |
+| 935 | `46:53.32` | `46:56.56` | Again, in Allahhi | Sekali lagi, di sisi Allah... |
+| 936 | `46:57.64` | `46:59.10` | You know, so I'm a human like you. | Saya hanyalah manusia biasa seperti anda semua. |
+| 937 | `46:59.20` | `47:00.62` | You're probably better than me. | Anda mungkin jauh lebih mulia di sisi Allah daripada diri saya. |
+| 938 | `47:00.72` | `47:02.14` | But I'm just here to remind you. | Saya hadir di sini sekadar untuk saling mengingatkan. |
+| 939 | `47:02.24` | `47:04.06` | Maybe you want to listen to me. | Mungkin anda sudi mendengarkan nasihat saya. |
+| 940 | `47:04.16` | `47:05.74` | And maybe you want to hear a few things. | Dan mungkin anda ingin mendengar beberapa patah pesanan. |
+| 941 | `47:05.84` | `47:06.58` | It's a reminder. | Ia adalah suatu peringatan bersama. |
+| 942 | `47:06.68` | `47:09.30` | I need this reminder more than you do. | Malah saya sendiri amat memerlukan peringatan ini melebihi diri anda. |
+| 943 | `47:09.40` | `47:11.26` | But mashallah I will I don't mind. | Namun masya-Allah saya tidak keberatan. |
+| 944 | `47:11.36` | `47:14.18` | We can shake hands because it's it's a good sunnah. | Kita boleh bersalaman kerana ia adalah amalan sunnah yang sangat dituntut. |
+| 945 | `47:14.28` | `47:20.78` | But when you know there is a negative side to it and they may be stampeding and there's going to be so much of chaos, the | Namun apabila anda menyedari ada risiko kemudaratan di mana jemaah mungkin berasak-asak dan timbul kekecohan yang tidak terkawal, perkara |
+| 946 | `47:20.88` | `47:26.06` | best thing for you to do is to bismillah salaam alaikum my brothers, my sisters and you walk away. | terbaik yang wajar anda lakukan adalah dengan melafazkan, "Bismillah, assalamu alaykum wahai saudara-saudariku," lalu beredar dengan tenang. |
+| 947 | `47:26.16` | `47:27.78` | You feel You hear what I'm saying? | Adakah anda memahami maksud yang saya sampaikan ini? |
+| 948 | `47:27.88` | `47:29.74` | May Allah grant us Jannah. | Semoga Allah mengurniakan syurga kepada kita semua. |
+| 949 | `47:29.84` | `47:31.22` | May Allah almighty grant us Jannah. | Semoga Allah Yang Maha Berkuasa mengurniakan Jannatul Firdaus kepada kita semua. |
+| 950 | `47:31.32` | `47:33.94` | The point I'm raising, second thing is you need to humble yourself. | Intipati penting yang saya kemukakan, perkara kedua adalah anda wajib merendahkan ego dan bersikap tawaduk. |
+| 951 | `47:34.04` | `47:40.30` | Third thing, the third thing when you want to change your life and you want that scale to tip in the proper way, learn to | Perkara ketiga — rukun ketiga apabila anda ingin mengubah haluan hidup anda dan mendambakan neraca mizan condong ke sebelah kanan, belajarlah |
+| 952 | `47:40.40` | `47:43.22` | pray five times a day. | untuk mendirikan solat lima waktu sehari semalam secara istiqamah. |
+| 953 | `47:43.32` | `47:45.66` | Learn to pray five times a day. | Belajarlah menjaga solat fardu lima waktu. |
+| 954 | `47:45.76` | `47:56.62` | PUSH YOURSELF HARD HARD HARD because that is the only pillar of Islam after the shahada that nobody has an excuse not to engage | PAKSA DAN DISIPLINKAN DIRI ANDA BERSUNGGUH-SUNGGUH kerana solat adalah satu-satunya rukun Islam selepas syahadah yang tiada sesiapa pun mempunyai alasan untuk mengabaikannya, |
+| 955 | `47:56.72` | `47:58.46` | in. | walau dalam apa jua keadaan sekalipun. |
+| 956 | `47:58.56` | `47:59.54` | You know what I mean? | Fahamkah anda apa yang saya maksudkan? |
+| 957 | `47:59.64` | `48:00.70` | I said it before. | Saya pernah menyebutnya sebelum ini. |
+| 958 | `48:00.80` | `48:02.62` | Can tell you quickly. | Boleh saya terangkan kepada anda secara ringkas. |
+| 959 | `48:02.72` | `48:04.22` | How many pillars in Islam? | Berapakah rukun di dalam Islam? |
+| 960 | `48:04.32` | `48:04.78` | Five. | Lima. |
+| 961 | `48:04.88` | `48:05.28` | Five. | Ya, lima rukun. |
+| 962 | `48:05.36` | `48:07.82` | When you want to enter Islam, what do you say? | Apabila anda ingin memeluk Islam, apakah yang anda lafazkan? |
+| 963 | `48:07.92` | `48:08.66` | Shahada, right? | Dua kalimah syahadah, betul bukan? |
+| 964 | `48:08.76` | `48:09.90` | So, that's first pillar done. | Maka rukun pertama telah terlaksana. |
+| 965 | `48:10.00` | `48:11.06` | There's no no compromise. | Tiada tolak ansur padanya. |
+| 966 | `48:11.16` | `48:12.34` | That's the entry into faith. | Itulah pintu gerbang masuk ke dalam keimanan. |
+| 967 | `48:12.44` | `48:13.22` | Right. | Baiklah. |
+| 968 | `48:13.32` | `48:14.46` | Let's go from the bottom. | Mari kita teliti dari rukun yang paling bawah. |
+| 969 | `48:14.56` | `48:15.78` | The last pillar is Hajj. | Rukun Islam yang terakhir adalah ibadah Haji. |
+| 970 | `48:15.88` | `48:18.94` | If you don't have money, is it applicable to you? | Sekiranya anda tidak mempunyai kemampuan kewangan, adakah haji wajib ke atas anda? |
+| 971 | `48:19.04` | `48:22.18` | I believe it a pillar, but I didn't fulfill it cuz I don't have to. | Saya meyakininya sebagai rukun, tetapi saya tidak menunaikannya kerana saya belum berkemampuan. |
+| 972 | `48:22.28` | `48:23.06` | Zakat. | Seterusnya, Zakat. |
+| 973 | `48:23.16` | `48:27.22` | Zakat, you believe it as a pillar, but if you don't have wealth, is it applicable to you to fulfill? | Zakat, anda meyakininya sebagai rukun Islam, namun jika anda tidak memiliki harta yang mencukupi nisab, adakah anda diwajibkan mengeluarkannya? |
+| 974 | `48:27.32` | `48:28.38` | No. | Tidak wajib. |
+| 975 | `48:28.48` | `48:29.30` | Let's go to the next one. | Mari kita beralih ke rukun seterusnya. |
+| 976 | `48:29.40` | `48:30.10` | Fasting. | Ibadah Puasa. |
+| 977 | `48:30.20` | `48:32.22` | Fasting is a very important pillar. | Puasa adalah rukun Islam yang amat penting. |
+| 978 | `48:32.32` | `48:38.26` | I believe it, but if you are unwell or sick and you cannot fast, does Allah compel you to fast? | Saya meyakininya, namun sekiranya anda uzur atau terlantar sakit dan tidak mampu berpuasa, adakah Allah memaksa anda berpuasa? |
+| 979 | `48:38.36` | `48:38.76` | No. | Tidak sama sekali. |
+| 980 | `48:38.80` | `48:39.66` | You can do a fidiya. | Anda boleh menggantikannya dengan membayar fidyah. |
+| 981 | `48:39.76` | `48:41.38` | There are other ways of dealing with it. | Terdapat jalan keluar syariat untuk menanganinya. |
+| 982 | `48:41.48` | `48:43.50` | But come to salah. | Tetapi apabila tiba kepada kewajipan Solat. |
+| 983 | `48:43.60` | `48:45.86` | You can't read it standing, what do you do? | Sekiranya anda tidak mampu solat berdiri, apakah yang anda lakukan? |
+| 984 | `48:45.96` | `48:46.36` | You sit. | Anda solat secara duduk. |
+| 985 | `48:46.36` | `48:47.78` | You can't sit, what do you do? | Sekiranya anda tidak mampu duduk, apa yang anda lakukan? |
+| 986 | `48:47.88` | `48:48.42` | You lie down. | Anda solat secara berbaring. |
+| 987 | `48:48.52` | `48:51.42` | You can't use the water and do wudu, what do you do? | Sekiranya anda tidak boleh menggunakan air untuk berwuduk, apa yang anda lakukan? Anda bertayammum. |
+| 988 | `48:51.52` | `48:54.06` | But you will always have to pray. | Namun anda tetap diwajibkan untuk mendirikan solat dalam apa jua keadaan. |
+| 989 | `48:54.16` | `48:54.94` | Prayer. | Ibadah solat. |
+| 990 | `48:55.04` | `48:56.90` | So, you want to build a connection with Allah. | Maka sekiranya anda ingin membina hubungan yang akrab dengan Allah. |
+| 991 | `48:57.00` | `48:58.90` | Do you know what Allah says? | Tahukah anda apa yang Allah firmankan? |
+| 992 | `48:59.00` | `49:04.70` | Allah says there is nothing more beloved unto me than those things which I made compulsory. | Allah berfirman bahawa tiada amalan yang lebih Aku cintai melainkan amalan-amalan yang telah Aku fardukan ke atas hamba-Ku. |
+| 993 | `49:04.80` | `49:06.86` | That's a Hadith Qudsi. | Itulah sabda Hadis Qudsi yang agung. |
+| 994 | `49:06.96` | `49:11.14` | There is nothing more beloved to me than those things which I made compulsory. | Tiada perkara yang lebih Aku cintai melainkan amalan yang telah Aku fardukan ke atas hamba-Ku. |
+| 995 | `49:11.24` | `49:15.10` | If I made something compulsory, it means I love it the most. | Sekiranya Aku memfardukan sesuatu amalan, itu bermakna amalan itulah yang paling Aku cintai. |
+| 996 | `49:15.20` | `49:17.98` | And one of the first things he made compulsory is the five prayers. | Dan antara perkara terawal yang difardukan oleh Allah adalah solat lima waktu. |
+| 997 | `49:18.08` | `49:19.94` | So, you want to connect with Allah. | Maka, sekiranya anda ingin mendekatkan diri kepada Allah. |
+| 998 | `49:20.04` | `49:21.02` | I know we're weak. | Saya sedar kita semua insan yang lemah. |
+| 999 | `49:21.12` | `49:22.86` | I know all of us have weakness. | Saya tahu kita semua mempunyai kekurangan diri. |
+| 1000 | `49:22.96` | `49:29.06` | My brothers, my sisters, my beloved children, I encourage you strongly. | Wahai saudara-saudaraku, para saudariku, anak-anakku yang dikasihi, saya menyeru anda semua dengan penuh kesungguhan. |
+| 1001 | `49:29.16` | `49:30.26` | Become serious with your prayer. | Ambillah berat dan bersungguh-sungguhlah menjaga solat anda. |
+| 1002 | `49:30.36` | `49:31.42` | Your life will change. | Nescaya kehidupan anda pasti akan berubah menjadi lebih baik. |
+| 1003 | `49:31.52` | `49:32.90` | Be a proud Muslim. | Jadilah seorang Muslim yang bangga dengan agamanya. |
+| 1004 | `49:33.00` | `49:35.26` | Be a person whose identity is known. | Jadilah insan yang jelas dan teguh identiti Islamnya. |
+| 1005 | `49:35.36` | `49:38.38` | So what if they if they do not treat you well? | Pedulikan apa sekiranya mereka tidak melayan anda dengan baik? |
+| 1006 | `49:38.48` | `49:41.34` | They did not treat Nabi Muhammad Sallallahu Alaihi Wasallam well. | Dahulu mereka juga tidak melayan Nabi Muhammad Sallallahu Alaihi Wasallam dengan baik. |
+| 1007 | `49:41.44` | `49:42.46` | He took it as an honor. | Namun Baginda menganggapnya sebagai suatu kemuliaan di sisi Allah. |
+| 1008 | `49:42.56` | `49:45.36` | He didn't compromise his faith. | Baginda langsung tidak menggadaikan pegangan agamanya. |
+| 1009 | `49:46.24` | `49:47.62` | They tortured them in Mecca. | Kaum musyrikin menyeksa para sahabat di kota Makkah. |
+| 1010 | `49:47.72` | `49:49.94` | They did not compromise their faith. | Namun mereka tidak sesekali menggadaikan keimanan mereka. |
+| 1011 | `49:50.04` | `49:51.38` | So, they might not like you. | Maka, mungkin ada orang yang tidak menyukai anda. |
+| 1012 | `49:51.48` | `49:52.22` | So what? | Apakah masalahnya? |
+| 1013 | `49:52.32` | `49:53.34` | I'm still going to pray. | Saya tetap akan istiqamah mendirikan solat. |
+| 1014 | `49:53.44` | `49:59.58` | I'm still my own I'm unapologetically Muslim and I will prove to them that Islam is an amazing, beautiful religion. | Saya tetap berpegang teguh pada prinsip saya — saya seorang Muslim tanpa sekelumit rasa malu dan saya akan buktikan kepada mereka bahawa Islam adalah agama yang amat indah dan mengagumkan. |
+| 1015 | `49:59.68` | `50:02.78` | We are taught to help Muslims, non-Muslims, whoever it may be. | Kita dididik untuk membantu sesiapa sahaja — sama ada orang Islam mahupun bukan Islam, sesiapa jua yang memerlukan. |
+| 1016 | `50:02.88` | `50:06.54` | I gave you an example at the beginning of this talk of a dog. | Saya telah memberikan contoh kepada anda pada awal ceramah tadi mengenai kisah seekor anjing. |
+| 1017 | `50:06.64` | `50:10.62` | And I told you even the animals we have to be kind to them, look out for them, and so on. | Dan saya telah menegaskan bahawa terhadap haiwan sekalipun kita wajib berbuat ihsan, mengambil berat kebajikannya dan sebagainya. |
+| 1018 | `50:10.72` | `50:14.66` | I even said a pig you got to be kind to the pig. | Malah saya turut menyebut terhadap babi sekalipun kita wajib berlaku ihsan dan tidak menyeksanya. |
+| 1019 | `50:14.76` | `50:16.90` | May Allah Almighty honor us all. | Semoga Allah Yang Maha Berkuasa memuliakan kita semua. |
+| 1020 | `50:17.00` | `50:18.26` | May Allah Almighty bless us all. | Semoga Allah Yang Maha Berkuasa melimpahkan barakah kepada kita semua. |
+| 1021 | `50:18.36` | `50:23.46` | So, this is how you start and this is how you get closer to Allah and this is how the doors begin to open. | Maka begitulah cara anda bermula, dan begitulah cara untuk anda semakin mendekatkan diri kepada Allah, dan begitulah pintu-pintu rahmat mula terbuka luas. |
+| 1022 | `50:23.56` | `50:25.54` | Simple beginnings, simple start. | Permulaan yang sederhana, langkah awal yang tulus. |
+| 1023 | `50:25.64` | `50:31.58` | We start with Allah subhanahu wa ta'ala and Allah will open the doors one after the other and Allah will grant us the goodness | Kita memulakannya kerana Allah subhanahu wa ta'ala, nescaya Allah akan membuka pintu-pintu kebaikan satu demi satu dan mengurniakan kita kebaikan |
+| 1024 | `50:31.68` | `50:32.82` | of this world and the next. | di dunia dan kebaikan di akhirat kelak. |
+| 1025 | `50:32.92` | `50:39.62` | So, we sought the forgiveness of Allah, we humbled ourselves, we started our prayer, and then Allah will open our doors. | Maka kita telah memulakannya dengan istighfar memohon keampunan Allah, kita merendahkan diri dengan tawaduk, kita mendirikan solat lima waktu, dan sesudah itu Allah pasti membuka jalan kemudahan. |
+| 1026 | `50:39.72` | `50:42.42` | Don't justify when you've done something wrong. | Jangan sesekali mencari alasan membela diri apabila anda melakukan sesuatu kesilapan. |
+| 1027 | `50:42.52` | `50:48.34` | Always ask Allah, "Oh Allah, strengthen me to do that which is obligatory. | Sentiasalah memohon kepada Allah, "Ya Allah, kurniakanlah aku kekuatan untuk menunaikan segala apa yang difardukan. |
+| 1028 | `50:48.44` | `50:51.86` | Oh Allah, strengthen me to do that which is pleasing to you. | Ya Allah, berikanlah daku kekuatan untuk melakukan segala amalan yang mendatangkan keredaan-Mu. |
+| 1029 | `50:51.96` | `50:58.08` | And oh Allah, strengthen me to quit those things that are displeasing to you." | Dan ya Allah, kurniakanlah daku keazaman untuk meninggalkan segala perkara yang mengundang kemurkaan-Mu." |
+| 1030 | `50:58.72` | `51:00.90` | May Allah Almighty bless you all. | Semoga Allah Yang Maha Berkuasa memberkati anda semua. |
+| 1031 | `51:01.00` | `51:01.98` | These brothers have stood up. | Saudara-saudara penganjur ini sudah mula berdiri. |
+| 1032 | `51:02.08` | `51:04.54` | They want me to leave Aberdeen. | Nampaknya mereka memberi isyarat meminta saya meninggalkan Aberdeen. |
+| 1033 | `51:04.64` | `51:08.58` | I said something that seems to have offended some people. | Mungkin ada kata-kata saya tadi yang menyinggung perasaan sesetengah orang? |
+| 1034 | `51:08.68` | `51:09.78` | Did I? | Adakah saya menyinggung perasaan anda? |
+| 1035 | `51:09.88` | `51:10.70` | No, I didn't. | Tidak, sama sekali tidak. |
+| 1036 | `51:10.80` | `51:11.26` | Come on, guys. | Bertenanglah, sahabat-sahabat sekalian. |
+| 1037 | `51:11.36` | `51:11.76` | Masha Allah. | Masya-Allah. |
+| 1038 | `51:11.80` | `51:13.14` | May Allah bless you all. | Semoga Allah merahmati anda semua. |
+| 1039 | `51:13.24` | `51:14.02` | Masha Allah. | Masya-Allah. |
+| 1040 | `51:14.12` | `51:15.66` | Can I ask you a question? | Bolehkah saya bertanyakan satu soalan kepada anda? |
+| 1041 | `51:15.76` | `51:17.50` | What's your name? | Siapakah nama anda? |
+| 1042 | `51:17.60` | `51:18.06` | Yunus. | Yunus. |
+| 1043 | `51:18.16` | `51:19.14` | Masha Allah. | Masya-Allah. |
+| 1044 | `51:19.24` | `51:22.00` | What made you come here today? | Apakah yang mendorong anda hadir ke sini pada hari ini? |
+| 1045 | `51:22.96` | `51:24.82` | What was the reason? | Apakah tujuannya? |
+| 1046 | `51:24.92` | `51:26.74` | Seems like you came a little bit early, right? | Kelihatan seolah-olah anda hadir awal ke masjid ini, bukan? |
+| 1047 | `51:26.84` | `51:31.66` | Yeah, I wanted to be enlightened and I wanted to be enlightened, he says. | "Ya, saya ingin mendapatkan pencerahan ilmu," katanya. |
+| 1048 | `51:31.76` | `51:32.03` | And? | Dan apa lagi? |
+| 1049 | `51:32.08` | `51:39.82` | something and I'm about to start university and I wanted to Masha make sure that I live in accordance Alhamdulillah. | "Sesuatu nasihat kerana saya bakal memulakan pengajian di universiti dan saya ingin memastikan kehidupan saya sentiasa bertepatan dengan syariat," alhamdulillah. |
+| 1050 | `51:39.92` | `51:40.23` | Masha Allah. | Masya-Allah. |
+| 1051 | `51:40.28` | `51:44.78` | The brother says he wanted to be enlightened and whatever else he said after that is connected to that. | Saudara muda ini menyatakan bahawa dia hadir untuk menimba pencerahan ilmu dan apa jua yang disebutkannya selepas itu berkait rapat dengan niat murni tersebut. |
+| 1052 | `51:44.88` | `51:47.06` | Do feel you you feel a little bit better? | Adakah anda kini berasa sedikit lebih tenang dan bersemangat? |
+| 1053 | `51:47.16` | `51:48.90` | Yes, I May Allah bless all of us. | Ya. Semoga Allah melimpahkan barakah kepada kita semua. |
+| 1054 | `51:49.00` | `51:54.46` | The reason I ask you is many young people come and I always ask them what made you come and why did you come. | Sebab utama saya bertanya adalah kerana ramai anak muda yang hadir dan saya sentiasa ingin tahu apa dorongan dan tujuan mereka hadir. |
+| 1055 | `51:54.56` | `51:57.66` | I hope it's never to take a photo with you. | Saya berharap ia bukanlah semata-mata kerana ingin bergambar dengan saya. |
+| 1056 | `51:57.76` | `51:59.58` | Because that's not going to get you anywhere. | Kerana gambar semata-mata tidak akan membawa anda ke mana-mana. |
+| 1057 | `51:59.68` | `52:01.90` | You get a photo, you don't get a photo. | Sama ada anda dapat bergambar atau tidak dapat bergambar. |
+| 1058 | `52:02.00` | `52:04.84` | I I like to use the term | Saya suka menggunakan istilah |
+| 1059 | `52:05.08` | `52:09.58` | which means in the eyes of Allah it's not even the weight of a fly. | yang bermaksud di sisi Allah ia tidak bernilai walau seberat sayap lalat sekalipun. |
+| 1060 | `52:09.68` | `52:10.34` | That's what it is. | Itulah hakikatnya. |
+| 1061 | `52:10.44` | `52:15.30` | So, inshallah if we can I don't mind a photo or two, but if you didn't get it don't be upset. | Maka insya-Allah sekiranya berkesempatan, saya tidak keberatan untuk mengambil sekeping dua gambar, namun sekiranya anda tidak berpeluang mendapatkannya, janganlah berasa kecil hati. |
+| 1062 | `52:15.40` | `52:16.78` | We will walk out inshallah. | Kami akan beredar keluar insya-Allah. |
+| 1063 | `52:16.88` | `52:21.26` | The young boys that are here that I see I'm so touched to see so many young people. | Anak-anak muda yang berada di sini yang saya perhatikan, hati saya amat tersentuh melihat begitu ramai golongan belia yang hadir. |
+| 1064 | `52:21.36` | `52:23.26` | How many of you are below the age of 30? | Berapa ramai antara anda yang berumur di bawah 30 tahun? |
+| 1065 | `52:23.36` | `52:24.86` | Put up your hands. | Sila angkat tangan anda. |
+| 1066 | `52:24.96` | `52:25.62` | Allahu Akbar. | Allahu Akbar. |
+| 1067 | `52:25.72` | `52:26.90` | That's the bulk of the masjid. | Hampir seluruh ruang masjid dipenuhi anak muda. |
+| 1068 | `52:27.00` | `52:28.18` | That's a very good sign. | Itu adalah petanda yang amat memberangsangkan. |
+| 1069 | `52:28.28` | `52:33.66` | May Allah bless this wonderful community inshallah and may Allah subhanahu wa ta'ala grant us ease and goodness. | Semoga Allah melimpahkan barakah kepada komuniti yang hebat ini insya-Allah, dan semoga Allah subhanahu wa ta'ala mengurniakan kemudahan dan kebaikan. |
+| 1070 | `52:33.76` | `52:39.54` | I don't want to get up, but these guys are trying to tell me you know what Masha Allah. | Sebenarnya saya masih belum ingin beredar, namun sahabat-sahabat penganjur ini memberi isyarat mengingatkan saya, masya-Allah. |
+| 1071 | `52:39.64` | `52:40.46` | Masha Allah. | Masya-Allah. |
+| 1072 | `52:40.56` | `52:41.42` | Just a minute. | Beri saya masa seminit lagi. |
+| 1073 | `52:41.52` | `52:45.98` | So, I've just been reminded that you know what I've come here with Abdullah Aid. | Saya baru sahaja diingatkan bahawa kehadiran saya ke sini adalah bersama-sama dengan pertubuhan kebajikan Abdullah Aid. |
+| 1074 | `52:46.08` | `52:53.38` | Abdullah Aid is a legitimate UK-based charity that I am not just affiliated to, I'm an ambassador of. | Abdullah Aid adalah sebuah badan kebajikan berdaftar yang sah di United Kingdom di mana saya bukan sekadar bernaung di bawahnya, malah saya merupakan dutanya. |
+| 1075 | `52:53.48` | `52:54.62` | I work with. | Saya bekerjasama rapat dengan mereka. |
+| 1076 | `52:54.72` | `52:57.86` | You know, it's not easy to put your name next to a charity. | Anda tahu, bukanlah mudah untuk meletakkan nama peribadi kita di samping sesebuah badan kebajikan. |
+| 1077 | `52:57.96` | `53:05.90` | I know so many charities, masha Allah they're doing good work, but the ones that I felt that I would like to work with fisabilillah | Saya mengenali banyak pertubuhan kebajikan, masya-Allah mereka melakukan kerja-kerja yang baik, namun badan yang saya rasa terpanggil untuk bekerjasama fi sabilillah |
+| 1078 | `53:06.00` | `53:12.58` | because of the brothers being on a certain level I felt and I went through everything that I had to. | disebabkan ketelusan dan integriti para penggeraknya, setelah saya meneliti secara terperinci segala operasinya. |
+| 1079 | `53:12.68` | `53:19.26` | These brothers, masha Allah I've told them, you know what, once twice a year we will go around the country and we will introduce | Sahabat-sahabat ini, masya-Allah saya telah berjanji dengan mereka bahawa sekali atau dua kali setahun kami akan menjelajah ke seluruh negara bagi memperkenalkan |
+| 1080 | `53:19.36` | `53:22.22` | Abdullah Aid and at the same time we will meet the communities. | Abdullah Aid di samping mengeratkan ukhuwah bersama komuniti setempat. |
+| 1081 | `53:22.32` | `53:27.22` | So, I want you to reach out to be able to help us to help others. | Oleh itu, saya menyeru anda semua untuk bersama-sama membantu kami agar kami dapat membantu mereka yang memerlukan. |
+| 1082 | `53:27.32` | `53:34.06` | We have a project, a work project, because so far something known as the gift aid, you might know what it is, right? | Kami mempunyai sebuah projek wakaf, kerana setakat ini bantuan geran kerajaan seperti 'Gift Aid' — anda mungkin tahu mengenainya, bukan? |
+| 1083 | `53:34.16` | `53:41.86` | Gift aid helps us to cover overheads, but the overheads are becoming more and we don't want to touch even a penny of the donation | 'Gift Aid' membantu kami menampung kos operasi, namun kos operasi semakin meningkat dan kami sama sekali tidak mahu menyentuh walau satu sen pun daripada wang sumbangan |
+| 1084 | `53:41.96` | `53:42.78` | itself. | derma orang ramai. |
+| 1085 | `53:42.88` | `53:49.14` | So, what we've decided is we want a waqf to be able to bring in enough income to cover all the overheads. | Maka, kami telah mengambil ketetapan untuk mewujudkan dana wakaf agar ia menjana pendapatan mampan bagi menampung keseluruhan kos operasi pentadbiran. |
+| 1086 | `53:49.24` | `53:56.50` | And whoever contributes to that waqf, which is not an easy project, they will have a reward of facilitation of everybody's | Dan sesiapa yang menyumbang kepada dana wakaf tersebut — yang bukanlah suatu projek yang mudah — mereka akan beroleh ganjaran pahala mempermudahkan pengurusan |
+| 1087 | `53:56.60` | `53:58.90` | sadaqat and zakawat, inshallah. | sedekah dan zakat setiap insan lain, insya-Allah. |
+| 1088 | `53:59.00` | `54:04.50` | So, tonight we're asking you, even if it means 10 pounds a month, you may donate towards the waqf, number one. | Oleh itu, pada malam ini kami menyeru anda, sekalipun sekadar sumbangan 10 paun sebulan, anda boleh menyumbang ke arah dana wakaf ini, itu yang pertama. |
+| 1089 | `54:04.60` | `54:12.18` | Number two is you can still give zakat and sadaqat towards other projects across the globe, including Palestine and Gaza. | Keduanya adalah anda masih boleh menyalurkan zakat dan sedekah anda untuk projek bantuan lain di seluruh dunia, termasuklah Palestin dan Gaza. |
+| 1090 | `54:12.28` | `54:18.78` | To the best of our ability, we will get whatever has to get to wherever it has to get to, inshallah, by the help of Allah | Mengikut kemampuan terbaik kami, kami akan memastikan bantuan tersebut sampai ke destinasi yang disasarkan, insya-Allah, dengan pertolongan Allah |
+| 1091 | `54:18.88` | `54:19.70` | subhanahu wa ta'ala. | subhanahu wa ta'ala. |
+| 1092 | `54:19.80` | `54:26.98` | So, that's just a word I decided to throw in so that I can remind you why we have come and what we have brought to you. | Maka itulah sedikit pesanan yang ingin saya selitkan agar dapat mengingatkan anda tujuan utama kami hadir dan amanah yang kami bawa. |
+| 1093 | `54:27.08` | `54:28.14` | It's an opportunity. | Ia adalah suatu peluang amal jariah. |
+| 1094 | `54:28.24` | `54:32.02` | Nonetheless, I know you are already doing a lot of good. | Walau bagaimanapun, saya tahu anda semua sudah banyak menyumbang kebaikan. |
+| 1095 | `54:32.12` | `54:39.62` | So, inshallah, if there is a surplus, you can also donate to this wonderful, beautiful charity that we are connected to. | Maka insya-Allah sekiranya ada lebihan rezeki, anda juga boleh menyumbang kepada badan kebajikan yang indah ini yang kami wakili. |
+| 1096 | `54:39.72` | `54:43.94` | Shukran to the Imam and the committee and all the brothers and sisters who are here. | Jutaan terima kasih (syukran) kepada tuan Imam, jawatankuasa masjid dan seluruh saudara serta saudari yang hadir pada malam ini. |
+| 1097 | `54:44.04` | `54:47.10` | And inshallah, I pray that everything goes well. | Dan insya-Allah, saya berdoa agar segala urusan dipermudahkan. |
+| 1098 | `54:47.20` | `54:50.10` | Aqulu qawli hadha wa sallallahu ala nabiyina Muhammad. | Aqulu qawli hadha wa sallallahu 'ala nabiyyina Muhammad. |
+| 1099 | `54:50.20` | `54:52.44` | Wa salaam alaykum. | Wa salaamu 'alaykum wa rahmatullah. |
