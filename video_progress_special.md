@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **14 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M) = ✅ SIAP**
+> Video Siap Sedia di Web: **15 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4) = ✅ SIAP**
 
 ---
 
@@ -253,7 +253,7 @@
 | 7 | ✅ SIAP | l1Zwj51KF9g | The First People to Believe \| Life of the Final Messenger ﷺ \| Ep.7 \| Mufti Menk \| Ramadan Series |
 | 8 | ✅ SIAP | ntv3dJv8wqQ | The Message Goes Public \| Life of the Final Messenger ﷺ \| Ep.8 \| Mufti Menk \| Ramadan Series |
 | 9 | ✅ SIAP | qMmn1Lqh95M | The Migration to Abyssinia \| Life of the Final Messenger ﷺ \| Ep.9 \| Mufti Menk \| Ramadan Series |
-| 10 | ⬜ BELUM | butrsoKNPz4 | The Conversion of Umar (RA)  \| Life of the Final Messenger ﷺ \| Ep.10 \| Mufti Menk \| Ramadan Series |
+| 10 | ✅ SIAP | butrsoKNPz4 | The Conversion of Umar (RA)  \| Life of the Final Messenger ﷺ \| Ep.10 \| Mufti Menk \| Ramadan Series |
 | 11 | ⬜ BELUM | EiuTxK2MbAo | The Night of Ascension \| Life of the Final Messenger ﷺ \| Ep.11 \| Mufti Menk \| Ramadan Series |
 | 12 | ⬜ BELUM | KrzPe8NrRd4 | The Pledge of ʿAqabah \| Life of the Final Messenger ﷺ \| Ep.12 \| Mufti Menk \| Ramadan Series |
 | 13 | ⬜ BELUM | qWubL2TGPlc | The Hijrah \| Life of the Final Messenger ﷺ \| Ep.13 \| Mufti Menk \| Ramadan Series |
@@ -458,4 +458,4 @@
 
 ---
 
-**Progress: 14/185 selesai** — Siri 1 (Ep.1 PH61HNWHCyU, Ep.2 VgHWqe0ltxs, Ep.3 kzIu3hrdqRM, Ep.4 Vdug1pNex54, Ep.5 xUqhH8gHdJw, Ep.6 6M-NQKRdNuM, Ep.7 l1Zwj51KF9g, Ep.8 ntv3dJv8wqQ, Ep.9 qMmn1Lqh95M) & 5 Video Perintis Khas sudah dimasukkan sari kata Bahasa Melayu & Inggeris secara rasmi ✅
+**Progress: 15/185 selesai** — Siri 1 (Ep.1 PH61HNWHCyU, Ep.2 VgHWqe0ltxs, Ep.3 kzIu3hrdqRM, Ep.4 Vdug1pNex54, Ep.5 xUqhH8gHdJw, Ep.6 6M-NQKRdNuM, Ep.7 l1Zwj51KF9g, Ep.8 ntv3dJv8wqQ, Ep.9 qMmn1Lqh95M, Ep.10 butrsoKNPz4) & 5 Video Perintis Khas sudah dimasukkan sari kata Bahasa Melayu & Inggeris secara rasmi ✅

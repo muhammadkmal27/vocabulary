@@ -89,6 +89,7 @@ class VideoController extends Controller
             '6rXG_fPTbl8' => 'kd9Dy56OjHg',
             '6M-NQKRdNuM' => 'HFCSuHqHP4k',
             'ntv3dJv8wqQ' => 'M8jT8spkNgY',
+            'butrsoKNPz4' => 'JhWVwNnCJQM',
         ];
         $fetchId = $mirrorMap[$youtubeVideoId] ?? $youtubeVideoId;
 
@@ -179,11 +180,14 @@ class VideoController extends Controller
 
                     foreach ($event['segs'] as $seg) {
                         $utf8 = $seg['utf8'] ?? '';
-                        if ($utf8 === "\n" || trim($utf8) === '' || preg_match('/^\[music\]$/i', trim($utf8)) || trim($utf8) === '>>') continue;
+                        $trimmed = trim($utf8);
+                        if ($utf8 === "\n" || $trimmed === '' || preg_match('/^(>>\s*)?\[.*\]$/i', $trimmed) || $trimmed === '>>') continue;
+                        $cleanedUtf8 = preg_replace('/^(>>\s*)+/', '', $utf8);
+                        if (trim($cleanedUtf8) === '') continue;
                         // Ensure words from different events are separated by a space
                         // (some segs already start with space, some don't)
                         $allWords[] = [
-                            'text'    => $utf8,
+                            'text'    => $cleanedUtf8,
                             'time_ms' => $eventStartMs + (int)($seg['tOffsetMs'] ?? 0),
                         ];
                     }
@@ -237,7 +241,7 @@ class VideoController extends Controller
                     if ($endsPunct || $isLast || $isTooLong || $silenceBreak) {
                         $text = trim(preg_replace('/\s+/', ' ', $currentText));
 
-                        if (!empty($text)) {
+                        if (!empty($text) && $text !== 'Mhm.') {
                             // End = last word + 1.8 s, strictly capped at (next word − 100 ms)
                             $endMs = $word['time_ms'] + 1800;
                             if (!$isLast) {
