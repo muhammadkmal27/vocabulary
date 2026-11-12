@@ -62,6 +62,7 @@ export const phraseDictionary: Record<string, string> = {
   "adventure time": "masa pengembaraan",
   "after he": "selepas dia",
   "age of ignorance": "zaman jahiliah",
+  "ahead of its time": "mendahului zamannya",
   "air conditioner": "penyaman udara / pendingin hawa (aircond)",
   "air conditioning": "penghawa dingin",
   "al amin": "Al-Amin (yang amanah dan dipercayai)",
@@ -565,6 +566,7 @@ export const phraseDictionary: Record<string, string> = {
   "extension cord": "wayar penyambung panjang (extension)",
   "extra detail": "butiran tambahan",
   "eyes closed, heart awake": "mata terpejam, sanubari sentiasa berjaga",
+  "eyes filled with tears": "mata berkaca berlinangan air mata",
   "face to face": "secara bersemuka",
   "face wash": "pencuci muka",
   "faith unshakable": "keimanan yang teguh tidak tergoyahkan",
@@ -999,7 +1001,9 @@ export const phraseDictionary: Record<string, string> = {
   "in the end": "pada akhirnya / kesudahannya",
   "in the interim": "dalam fasa sementara",
   "in the middle of": "di tengah-tengah",
+  "in the open field": "di medan yang terbuka",
   "in the stillness of the night": "dalam keheningan sunyi malam",
+  "in the way of allah": "pada jalan Allah (fi sabilillah)",
   "in time": "sempat tiba sebelum terlambat",
   "in whispers": "secara bisikan perlahan",
   "indeed allah is with us": "sesungguhnya Allah bersama kita (la tahzan innallaha ma'ana)",
@@ -1081,6 +1085,7 @@ export const phraseDictionary: Record<string, string> = {
   "leave that for": "biarkan itu untuk",
   "leaves on": "daun pada",
   "led by": "diketuai oleh",
+  "left helpless": "dibiarkan tanpa pertolongan",
   "left side": "sebelah kiri",
   "leg press": "tekan kaki",
   "legacy of courage": "warisan keberanian sejati",
@@ -1149,6 +1154,7 @@ export const phraseDictionary: Record<string, string> = {
   "little by little": "sedikit demi sedikit",
   "live in": "tinggal menetap di",
   "lived in": "tinggal di",
+  "lived openly": "diamalkan secara terbuka",
   "lives in": "tinggal di",
   "living in": "tinggal di",
   "living room": "ruang tamu",
@@ -1382,6 +1388,7 @@ export const phraseDictionary: Record<string, string> = {
   "not lying": "tidak berbohong",
   "not really": "tidak sangat",
   "not sure": "tidak pasti",
+  "not through blood": "bukan melalui pertalian darah",
   "not too": "tidak juga",
   "not very": "bukan sangat",
   "not with hammers, but with truth": "bukan dengan tukul besi, tetapi dengan kebenaran",
@@ -1511,6 +1518,7 @@ export const phraseDictionary: Record<string, string> = {
   "power outlet": "soket palam dinding",
   "practice your": "amalkan anda",
   "praying for guidance, not vengeance": "mendoakan hidayah petunjuk, bukan membalas dendam",
+  "prefer them over themselves": "mengutamakan orang lain melebihi diri sendiri (itsar)",
   "preferential treatment": "layanan istimewa",
   "premium outlet": "outlet premium",
   "prepared to surrender": "bersedia untuk tunduk menyerah",
@@ -1591,6 +1599,7 @@ export const phraseDictionary: Record<string, string> = {
   "remain in charge": "kekal berkuasa",
   "remember to": "ingat ke",
   "reminds me": "mengingatkan saya",
+  "responsibilities and rights": "hak dan tanggungjawab",
   "rest for": "berehat untuk",
   "rest of": "selebihnya",
   "rest on": "berehat",
@@ -1690,6 +1699,7 @@ export const phraseDictionary: Record<string, string> = {
   "sent down the criterion": "menurunkan Al-Furqan (Al-Quran)",
   "sent to the worlds": "diutuskan untuk sekalian alam",
   "sentences are": "ayat ialah",
+  "separate truth from falsehood": "memisahkan kebenaran daripada kebatilan (al-furqan)",
   "serenity of faith": "ketenteraman nur keimanan",
   "set a good trend": "mewujudkan ikutan yang baik",
   "set it up": "sediakan",
@@ -2073,6 +2083,7 @@ export const phraseDictionary: Record<string, string> = {
   "trench coat": "kot parit",
   "trench coats": "kot parit",
   "tribal honor was sacred": "maruah kabilah kesukuan dianggap suci",
+  "tribal wars": "peperangan antara kabilah",
   "tried on": "telah mencuba baju",
   "tried out": "telah menguji cuba",
   "tried to": "cuba untuk",
@@ -2430,8 +2441,8 @@ export const phraseDictionary: Record<string, string> = {
  */
 export function cleanToken(token: string): string {
   return token
-    .replace(/^[^\w']+|[^\w']+$/gu, "")
-    .replace(/^'+|'+$/g, "")
+    .replace(/^[^\w\']+|[^\w\']+$/gu, "")
+    .replace(/^\'+|\'+$/g, "")
     .trim()
     .toLowerCase();
 }
