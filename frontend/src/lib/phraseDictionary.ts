@@ -2603,8 +2603,8 @@ export const phraseDictionary: Record<string, string> = {
  */
 export function cleanToken(token: string): string {
   return token
-    .replace(/^[^\w\']+|[^\w\']+$/gu, "")
-    .replace(/^\'+|\'+$/g, "")
+    .replace(/^[^\w']+|[^\w']+$/gu, "")
+    .replace(/^'+|'+$/g, "")
     .trim()
     .toLowerCase();
 }
