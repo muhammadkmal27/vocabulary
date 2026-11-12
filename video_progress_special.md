@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **23 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q) = ✅ SIAP**
+> Video Siap Sedia di Web: **24 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM) = ✅ SIAP**
 
 ---
 
@@ -262,7 +262,7 @@
 | 16 | ✅ SIAP | 6MEIPR3f4u0 | The Betrayal of Bana Qaynuqa \| Life of the Final Messenger ﷺ \| Ep.16 \| Mufti Menk \| Ramadan Series |
 | 17 | ✅ SIAP | OTwmuzD-n2w | The Battle of Uhud \| Life of the Final Messenger ﷺ \| Ep.17 \| Mufti Menk \| Ramadan Series |
 | 18 | ✅ SIAP | dsQkLDtVy4Q | The Aftermath of Uhud \| Life of the Final Messenger ﷺ \| Ep.18 \| Mufti Menk \| Ramadan Series |
-| 19 | ⬜ BELUM | Je-6cTCJtwM | The Siege of Banu al-Nadir \| Life of the Final Messenger ﷺ \| Ep.19 \| Mufti Menk \| Ramadan Series |
+| 19 | ✅ SIAP | Je-6cTCJtwM | The Siege of Banu al-Nadir \| Life of the Final Messenger ﷺ \| Ep.19 \| Mufti Menk \| Ramadan Series |
 | 20 | ⬜ BELUM | SNmETUE2GFA | The Battle of al-Ahzab \| Life of the Final Messenger ﷺ \| Ep.20 \| Mufti Menk \| Ramadan Series |
 | 21 | ⬜ BELUM | nFfMy76PfIc | The Siege of Banu Qurayzah \| Life of the Final Messenger ﷺ \| Ep.21 \| Mufti Menk \| Ramadan Series |
 | 22 | ⬜ BELUM | EuyDY1bKkpk | The Slander of A’ishah (RA) \| Life of the Final Messenger ﷺ \| Ep.22 \| Mufti Menk \| Ramadan Series |

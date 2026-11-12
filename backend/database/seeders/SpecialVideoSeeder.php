@@ -911,5 +911,6 @@ class SpecialVideoSeeder extends Seeder
         $this->call(SpecialVideo21Seeder::class); // Ep.16
         $this->call(SpecialVideo22Seeder::class); // Ep.17
         $this->call(SpecialVideo23Seeder::class); // Ep.18
+        $this->call(SpecialVideo24Seeder::class); // Ep.19
     }
 }
