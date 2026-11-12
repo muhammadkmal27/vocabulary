@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **16 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo) = ✅ SIAP**
+> Video Siap Sedia di Web: **17 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4) = ✅ SIAP**
 
 ---
 
@@ -255,7 +255,7 @@
 | 9 | ✅ SIAP | qMmn1Lqh95M | The Migration to Abyssinia \| Life of the Final Messenger ﷺ \| Ep.9 \| Mufti Menk \| Ramadan Series |
 | 10 | ✅ SIAP | butrsoKNPz4 | The Conversion of Umar (RA)  \| Life of the Final Messenger ﷺ \| Ep.10 \| Mufti Menk \| Ramadan Series |
 | 11 | ✅ SIAP | EiuTxK2MbAo | The Night of Ascension \| Life of the Final Messenger ﷺ \| Ep.11 \| Mufti Menk \| Ramadan Series |
-| 12 | ⬜ BELUM | KrzPe8NrRd4 | The Pledge of ʿAqabah \| Life of the Final Messenger ﷺ \| Ep.12 \| Mufti Menk \| Ramadan Series |
+| 12 | ✅ SIAP | KrzPe8NrRd4 | The Pledge of ʿAqabah \| Life of the Final Messenger ﷺ \| Ep.12 \| Mufti Menk \| Ramadan Series |
 | 13 | ⬜ BELUM | qWubL2TGPlc | The Hijrah \| Life of the Final Messenger ﷺ \| Ep.13 \| Mufti Menk \| Ramadan Series |
 | 14 | ⬜ BELUM | cRmeK1tKuiY | The Brotherhood of Madinah \| Life of the Final Messenger ﷺ \| Ep.14 \| Mufti Menk \| Ramadan Series |
 | 15 | ⬜ BELUM | fH49JET37eY | The Battle of Badr \| Life of the Final Messenger ﷺ \| Ep.15 \| Mufti Menk \| Ramadan Series |
