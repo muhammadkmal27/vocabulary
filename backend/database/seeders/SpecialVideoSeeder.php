@@ -891,5 +891,18 @@ class SpecialVideoSeeder extends Seeder
 
         // Call Special Video #5 (Allah Knows What's in Your Heart, But… Aberdeen - Mufti Menk) Seeder
         $this->call(SpecialVideo5Seeder::class);
+
+        // Call Ramadan Series 2026: Life of the Final Messenger ﷺ
+        $this->call(SpecialVideo6Seeder::class);  // Ep.1
+        $this->call(SpecialVideo7Seeder::class);  // Ep.2
+        $this->call(SpecialVideo8Seeder::class);  // Ep.3
+        $this->call(SpecialVideo9Seeder::class);  // Ep.4
+        $this->call(SpecialVideo10Seeder::class); // Ep.5
+        $this->call(SpecialVideo11Seeder::class); // Ep.6
+        $this->call(SpecialVideo12Seeder::class); // Ep.7
+        $this->call(SpecialVideo13Seeder::class); // Ep.8
+        $this->call(SpecialVideo14Seeder::class); // Ep.9
+        $this->call(SpecialVideo15Seeder::class); // Ep.10
+        $this->call(SpecialVideo16Seeder::class); // Ep.11
     }
 }
