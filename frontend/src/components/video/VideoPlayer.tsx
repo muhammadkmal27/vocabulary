@@ -266,7 +266,7 @@ export default function VideoPlayer({ basePath = "/video" }: VideoPlayerProps) {
 
   // 1. Fetch Video Data & Subtitles
   useEffect(() => {
-    if (authLoading) return;
+    if (authLoading || !videoId) return;
 
     const fetchVideo = async () => {
       try {
