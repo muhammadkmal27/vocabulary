@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **26 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc) = ✅ SIAP**
+> Video Siap Sedia di Web: **27 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk) = ✅ SIAP**
 
 ---
 
@@ -265,7 +265,7 @@
 | 19 | ✅ SIAP | Je-6cTCJtwM | The Siege of Banu al-Nadir \| Life of the Final Messenger ﷺ \| Ep.19 \| Mufti Menk \| Ramadan Series |
 | 20 | ✅ SIAP | SNmETUE2GFA | The Battle of al-Ahzab \| Life of the Final Messenger ﷺ \| Ep.20 \| Mufti Menk \| Ramadan Series |
 | 21 | ✅ SIAP | nFfMy76PfIc | The Siege of Banu Qurayzah \| Life of the Final Messenger ﷺ \| Ep.21 \| Mufti Menk \| Ramadan Series |
-| 22 | ⬜ BELUM | EuyDY1bKkpk | The Slander of A’ishah (RA) \| Life of the Final Messenger ﷺ \| Ep.22 \| Mufti Menk \| Ramadan Series |
+| 22 | ✅ SIAP | EuyDY1bKkpk | The Slander of A’ishah (RA) \| Life of the Final Messenger ﷺ \| Ep.22 \| Mufti Menk \| Ramadan Series |
 | 23 | ⬜ BELUM | FwbSkCofNA4 | The Treaty of Hudaybiyyah \| Life of the Final Messenger ﷺ \| Ep.23 \| Mufti Menk \| Ramadan Series |
 | 24 | ⬜ BELUM | Ay8sLvO2jGQ | The Battle of Khaybar \| Life of the Final Messenger ﷺ \| Ep.24 \| Mufti Menk \| Ramadan Series |
 | 25 | ⬜ BELUM | mu0BjJXXExY | The Battle of Muʾtah \| Life of the Final Messenger ﷺ \| Ep.25 \| Mufti Menk \| Ramadan Series |
