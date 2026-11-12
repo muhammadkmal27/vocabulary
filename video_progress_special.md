@@ -258,7 +258,7 @@
 | 12 | ✅ SIAP | KrzPe8NrRd4 | The Pledge of ʿAqabah \| Life of the Final Messenger ﷺ \| Ep.12 \| Mufti Menk \| Ramadan Series |
 | 13 | ✅ SIAP | qWubL2TGPlc | The Hijrah \| Life of the Final Messenger ﷺ \| Ep.13 \| Mufti Menk \| Ramadan Series |
 | 14 | ✅ SIAP | cRmeK1tKuiY | The Brotherhood of Madinah \| Life of the Final Messenger ﷺ \| Ep.14 \| Mufti Menk \| Ramadan Series |
-| 15 | ⬜ BELUM | fH49JET37eY | The Battle of Badr \| Life of the Final Messenger ﷺ \| Ep.15 \| Mufti Menk \| Ramadan Series |
+| 15 | ✅ SIAP | fH49JET37eY | The Battle of Badr \| Life of the Final Messenger ﷺ \| Ep.15 \| Mufti Menk \| Ramadan Series |
 | 16 | ⬜ BELUM | 6MEIPR3f4u0 | The Betrayal of Bana Qaynuqa \| Life of the Final Messenger ﷺ \| Ep.16 \| Mufti Menk \| Ramadan Series |
 | 17 | ⬜ BELUM | OTwmuzD-n2w | The Battle of Uhud \| Life of the Final Messenger ﷺ \| Ep.17 \| Mufti Menk \| Ramadan Series |
 | 18 | ⬜ BELUM | dsQkLDtVy4Q | The Aftermath of Uhud \| Life of the Final Messenger ﷺ \| Ep.18 \| Mufti Menk \| Ramadan Series |
