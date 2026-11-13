@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **32 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ) = ✅ SIAP**
+> Video Siap Sedia di Web: **33 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ) = ✅ SIAP**
 
 ---
 
@@ -271,7 +271,7 @@
 | 25 | ✅ SIAP | mu0BjJXXExY | The Battle of Muʾtah \| Life of the Final Messenger ﷺ \| Ep.25 \| Mufti Menk \| Ramadan Series |
 | 26 | ✅ SIAP | TsjC5a7AwYU | The Conquest of Makkah \| Life of the Final Messenger ﷺ \| Ep.26 \| Mufti Menk \| Ramadan Series |
 | 27 | ✅ SIAP | 1JCCeBE81WQ | The Battle of Hunayn \| Life of the Final Messenger ﷺ \| Ep.27 \| Mufti Menk \| Ramadan Series |
-| 28 | ⬜ BELUM | LZPqtScwpJQ | The Expedition to Tabuk \| Life of the Final Messenger ﷺ \| Ep.28 \| Mufti Menk \| Ramadan Series |
+| 28 | ✅ SIAP | LZPqtScwpJQ | The Expedition to Tabuk \| Life of the Final Messenger ﷺ \| Ep.28 \| Mufti Menk \| Ramadan Series |
 | 29 | ⬜ BELUM | ziRT5GhtgvY | The Year of Delegations \| Life of the Final Messenger ﷺ \| Ep.29 \| Mufti Menk \| Ramadan Series |
 | 30 | ⬜ BELUM | Ie8ebDeH7ck | The Farewell Pilgrimage \| Life of the Final Messenger ﷺ \| Ep.30 \| Mufti Menk \| Ramadan Series |
 
