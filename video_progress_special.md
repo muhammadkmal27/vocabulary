@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **29 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ) = ✅ SIAP**
+> Video Siap Sedia di Web: **30 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY) = ✅ SIAP**
 
 ---
 
@@ -268,7 +268,7 @@
 | 22 | ✅ SIAP | EuyDY1bKkpk | The Slander of A’ishah (RA) \| Life of the Final Messenger ﷺ \| Ep.22 \| Mufti Menk \| Ramadan Series |
 | 23 | ✅ SIAP | FwbSkCofNA4 | The Treaty of Hudaybiyyah \| Life of the Final Messenger ﷺ \| Ep.23 \| Mufti Menk \| Ramadan Series |
 | 24 | ✅ SIAP | Ay8sLvO2jGQ | The Battle of Khaybar \| Life of the Final Messenger ﷺ \| Ep.24 \| Mufti Menk \| Ramadan Series |
-| 25 | ⬜ BELUM | mu0BjJXXExY | The Battle of Muʾtah \| Life of the Final Messenger ﷺ \| Ep.25 \| Mufti Menk \| Ramadan Series |
+| 25 | ✅ SIAP | mu0BjJXXExY | The Battle of Muʾtah \| Life of the Final Messenger ﷺ \| Ep.25 \| Mufti Menk \| Ramadan Series |
 | 26 | ⬜ BELUM | TsjC5a7AwYU | The Conquest of Makkah \| Life of the Final Messenger ﷺ \| Ep.26 \| Mufti Menk \| Ramadan Series |
 | 27 | ⬜ BELUM | 1JCCeBE81WQ | The Battle of Hunayn \| Life of the Final Messenger ﷺ \| Ep.27 \| Mufti Menk \| Ramadan Series |
 | 28 | ⬜ BELUM | LZPqtScwpJQ | The Expedition to Tabuk \| Life of the Final Messenger ﷺ \| Ep.28 \| Mufti Menk \| Ramadan Series |
