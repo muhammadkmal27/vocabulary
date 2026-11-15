@@ -2833,6 +2833,16 @@ export const phraseDictionary: Record<string, string> = {
   "kicked him out": "mengusirnya keluar",
   "put up their hands": "mengangkat tangan mereka",
   "talk him out of": "memujuknya agar membatalkan",
+  "back in the day": "pada zaman dahulu",
+  "calm down with": "bertenanglah dengan, kurangkanlah",
+  "economy class": "kelas ekonomi",
+  "fall short": "mengalami kekurangan, gagal memenuhi",
+  "first class": "kelas pertama",
+  "first hand": "secara langsung di depan mata",
+  "in the first place": "sejak awal lagi, pada asalnya",
+  "life and death": "hidup dan mati",
+  "out of hand": "sukar dikawal, huru-hara",
+  "the finish line": "garisan penamat",
 };
 
 /**
