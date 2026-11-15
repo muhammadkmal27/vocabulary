@@ -3945,6 +3945,16 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "retains": { base: "retain", category: "Third Person Singular (-s)", meaning: "menakung, mengekalkan" },
   "statements": { base: "statement", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "sabda, kenyataan" },
   "trimming": { base: "trim", category: "Continuous / Gerund (-ing)", meaning: "menggunting rambut" },
+  "apportioned": { base: "apportion", category: "Past Participle (-ed)", meaning: "membahagikan, memperuntukkan" },
+  "dialects": { base: "dialect", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "dialek, lahjah" },
+  "intrigued": { base: "intrigue", category: "Past Tense (-ed)", meaning: "menarik perhatian" },
+  "irritated": { base: "irritate", category: "Past Participle (-ed)", meaning: "menjengkelkan, merimaskan" },
+  "removes": { base: "remove", category: "Third Person Singular (-s)", meaning: "menyingkirkan" },
+  "repenting": { base: "repent", category: "Continuous / Gerund (-ing)", meaning: "bertaubat" },
+  "reported": { base: "report", category: "Past Tense (-ed)", meaning: "melaporkan, meriwayatkan" },
+  "requests": { base: "request", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "permintaan" },
+  "salutations": { base: "salutation", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "ucapan salam, selawat" },
+  "senses": { base: "sense", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "deria, pancaindera" },
 };
 
 /**

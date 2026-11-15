@@ -2843,6 +2843,16 @@ export const phraseDictionary: Record<string, string> = {
   "life and death": "hidup dan mati",
   "out of hand": "sukar dikawal, huru-hara",
   "the finish line": "garisan penamat",
+  "a day of": "hari bagi, suatu hari",
+  "a pillar of": "rukun bagi, tiang kepada",
+  "a way of life": "cara hidup, pegangan hidup",
+  "bad manners": "biadab, kurang sopan",
+  "behave yourself": "jaga kelakuan anda, jaga tatatertib",
+  "come to my mind": "terlintas di fikiran saya",
+  "end of time": "akhir zaman, penamat waktu",
+  "in the middle": "di bahagian tengah",
+  "strike the balance": "mengimbangi, mencari keseimbangan",
+  "underestimate the power of": "meremehkan kuasa",
 };
 
 /**
