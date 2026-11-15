@@ -2853,6 +2853,16 @@ export const phraseDictionary: Record<string, string> = {
   "in the middle": "di bahagian tengah",
   "strike the balance": "mengimbangi, mencari keseimbangan",
   "underestimate the power of": "meremehkan kuasa",
+  "brick by brick": "sebiji demi sebiji bata, beransur-ansur musnah",
+  "clean slate": "lembaran amalan yang dibersihkan",
+  "days of tashriq": "hari-hari Tasyrik (11, 12, dan 13 Zulhijjah)",
+  "farewell sermon": "khutbah perpisahan (Khutbah Wada')",
+  "good death": "pengakhiran yang baik (husnul khatimah)",
+  "rami al-jamarat": "melontar jamrah di Mina",
+  "school of dhikr": "madrasah zikir, latihan mengingati Allah",
+  "tawaf al-ifadah": "tawaf rukun haji (Tawaf Ziyarah)",
+  "yawm al-qarr": "Hari Qarr (Hari Menetap di Mina 11 Zulhijjah)",
+  "yawm an-nahr": "Hari Nahar (Hari Penyembelihan 10 Zulhijjah)",
 };
 
 /**

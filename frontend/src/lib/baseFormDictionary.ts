@@ -3955,6 +3955,14 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "requests": { base: "request", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "permintaan" },
   "salutations": { base: "salutation", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "ucapan salam, selawat" },
   "senses": { base: "sense", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "deria, pancaindera" },
+  "accomplished": { base: "accomplish", category: "Past Participle (-ed)", meaning: "menyempurnakan" },
+  "furnished": { base: "furnish", category: "Past Participle (-ed)", meaning: "dilengkapi perabot" },
+  "humbled": { base: "humble", category: "Past Participle (-ed)", meaning: "menundukkan jiwa" },
+  "instructing": { base: "instruct", category: "Continuous / Gerund (-ing)", meaning: "memerintahkan" },
+  "obligations": { base: "obligation", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "kewajipan-kewajipan" },
+  "pelted": { base: "pelt", category: "Past Tense (-ed)", meaning: "telah melontar" },
+  "pelting": { base: "pelt", category: "Continuous / Gerund (-ing)", meaning: "melontar batu" },
+  "qualities": { base: "quality", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "sifat-sifat" },
 };
 
 /**
