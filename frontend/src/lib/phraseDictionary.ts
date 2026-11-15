@@ -2825,6 +2825,14 @@ export const phraseDictionary: Record<string, string> = {
   "the bulk of": "sebahagian besar daripada",
   "time and time again": "berkali-kali, berulang kali",
   "work towards": "berusaha ke arah, gigih mengejar",
+  "a sign of": "tanda kepada",
+  "at that very moment": "pada saat itu juga",
+  "break into": "beralih kepada, memulakan",
+  "every loss is a gain": "setiap kehilangan adalah keuntungan",
+  "in actual fact": "pada hakikatnya",
+  "kicked him out": "mengusirnya keluar",
+  "put up their hands": "mengangkat tangan mereka",
+  "talk him out of": "memujuknya agar membatalkan",
 };
 
 /**
