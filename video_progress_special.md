@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **35 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck) = ✅ SIAP**
+> Video Siap Sedia di Web: **36 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw) = ✅ SIAP**
 
 ---
 
@@ -281,7 +281,7 @@
 
 | # | Status | Video ID | Tajuk |
 |---|---|---|---|
-| 31 | ⬜ BELUM | 7pwXrrBg3Hw | The Invitation \| 01 \| The Pilgrimage \| Mufti Menk |
+| 31 | ✅ SIAP | 7pwXrrBg3Hw | The Invitation \| 01 \| The Pilgrimage \| Mufti Menk |
 | 32 | ⬜ BELUM | TG9SrLECiBE | Origin Story \| 02 \| The Pilgrimage \| Mufti Menk |
 | 33 | ⬜ BELUM | MjBmrgGibp8 | The Journey \| 03 \| The Pilgrimage \| Mufti Menk |
 | 34 | ⬜ BELUM | xs_8xmFqRJ4 | Arafah \| 04 \| The Pilgrimage \| Mufti Menk |

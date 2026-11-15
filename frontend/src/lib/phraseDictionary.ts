@@ -2816,7 +2816,15 @@ export const phraseDictionary: Record<string, string> = {
   "zaid al-khayr": "Zaid al-Khair (Zaid Kebajikan)",
   "zayd ibn al-dathinah": "Zaid bin ad-Dathinah",
   "zayd ibn arqam": "Zayd ibn Arqam RA",
-  "zip ties": "ikatan zip"
+  "zip ties": "ikatan zip",
+  "for the rest of": "sepanjang saki-baki",
+  "glad tidings": "berita gembira",
+  "make an effort": "berusaha bersungguh-sungguh",
+  "once a lifetime": "sekali seumur hidup",
+  "so many people": "terlalu ramai orang",
+  "the bulk of": "sebahagian besar daripada",
+  "time and time again": "berkali-kali, berulang kali",
+  "work towards": "berusaha ke arah, gigih mengejar",
 };
 
 /**
