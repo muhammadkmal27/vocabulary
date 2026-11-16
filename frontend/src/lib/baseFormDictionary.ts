@@ -3963,6 +3963,14 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "pelted": { base: "pelt", category: "Past Tense (-ed)", meaning: "telah melontar" },
   "pelting": { base: "pelt", category: "Continuous / Gerund (-ing)", meaning: "melontar batu" },
   "qualities": { base: "quality", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "sifat-sifat" },
+  "cheering": { base: "cheer", category: "Continuous / Gerund (-ing)", meaning: "bersorak" },
+  "energized": { base: "energize", category: "Past Participle (-ed)", meaning: "memberi tenaga" },
+  "gained": { base: "gain", category: "Past Participle (-ed)", meaning: "memperoleh" },
+  "maximized": { base: "maximize", category: "Past Participle (-ed)", meaning: "memaksimumkan" },
+  "obeying": { base: "obey", category: "Continuous / Gerund (-ing)", meaning: "mentaati" },
+  "prohibitions": { base: "prohibition", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "larangan-larangan" },
+  "scored": { base: "score", category: "Past Tense (-ed)", meaning: "menjaringkan" },
+  "wasted": { base: "waste", category: "Past Participle (-ed)", meaning: "mensia-siakan" },
 };
 
 /**

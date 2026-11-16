@@ -2863,6 +2863,13 @@ export const phraseDictionary: Record<string, string> = {
   "tawaf al-ifadah": "tawaf rukun haji (Tawaf Ziyarah)",
   "yawm al-qarr": "Hari Qarr (Hari Menetap di Mina 11 Zulhijjah)",
   "yawm an-nahr": "Hari Nahar (Hari Penyembelihan 10 Zulhijjah)",
+  "final stretch": "pecutan terakhir, fasa penamat",
+  "finish line": "garisan penamat",
+  "last 10 nights": "10 malam terakhir (Ramadan)",
+  "multiplied reward": "ganjaran pahala yang digandakan",
+  "night of decree": "malam kemuliaan (Lailatulqadar)",
+  "penalty shootout": "penentuan sepakan penalti",
+  "renew our intentions": "memperbaharui niat kita",
 };
 
 /**
