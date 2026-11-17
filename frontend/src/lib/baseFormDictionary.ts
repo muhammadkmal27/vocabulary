@@ -3987,6 +3987,18 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "noted": { base: "note", category: "Past Tense / Participle (-ed)", meaning: "memperhatikan / mencatat" },
   "salads": { base: "salad", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "sayur salad" },
   "transgressed": { base: "transgress", category: "Past Tense (-ed)", meaning: "melanggar batas / melampaui syariat" },
+  "belittling": { base: "belittle", category: "Continuous / Gerund (-ing)", meaning: "meremehkan / memperlekehkan" },
+  "brains": { base: "brain", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "minda / otak" },
+  "contradicting": { base: "contradict", category: "Continuous / Gerund (-ing)", meaning: "bercanggah dengan / menentang" },
+  "forgives": { base: "forgive", category: "Kata Kerja Masa Kini / Jamak (-s)", meaning: "mengampunkan" },
+  "forgiving": { base: "forgive", category: "Adjektif / Gerund (-ing)", meaning: "maha pengampun" },
+  "objectives": { base: "objective", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "matlamat / objektif" },
+  "outweighs": { base: "outweigh", category: "Kata Kerja Masa Kini / Jamak (-s)", meaning: "mengatasi / melebihi timbangan" },
+  "punishing": { base: "punish", category: "Continuous / Gerund (-ing)", meaning: "menghukum / mengazab" },
+  "supplications": { base: "supplication", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "doa permohonan" },
+  "transgressing": { base: "transgress", category: "Continuous / Gerund (-ing)", meaning: "melampaui batas syariat" },
+  "whisperings": { base: "whispering", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "bisikan waswas" },
+  "worshippers": { base: "worshipper", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "hamba yang beribadah" },
 };
 
 /**

@@ -2901,6 +2901,20 @@ export const phraseDictionary: Record<string, string> = {
   "make amends": "memperbaiki hubungan / berdamai",
   "on the right page": "sehaluan / menyelaraskan diri",
   "skittle effect": "kesan susulan / domino effect",
+  "wiping the slate clean": "membersihkan lembaran dosa / memadam rekod lalu",
+  "seek the forgiveness": "memohon keampunan",
+  "hand in hand": "seiring / berganding rapat",
+  "on sale": "potongan harga / promosi jualan",
+  "the price of one": "harga satu",
+  "destruction be upon": "celakalah / kebinasaan buat",
+  "woe be upon": "alangkah malang dan binasanya",
+  "stay away from": "menjauhi / mengelakkan diri daripada",
+  "back of your mind": "di sudut hati / terlintas di fikiran",
+  "lose hope in the mercy": "berputus asa daripada rahmat",
+  "how dare you": "sampai hati kalian / berani sungguh",
+  "born out of": "lahir daripada / berpunca daripada",
+  "never go wrong": "tidak akan sesekali rugi / sentiasa benar",
+  "open your doors": "membuka luas pintu-pintu (kebaikan/rezeki)",
 };
 
 /**
