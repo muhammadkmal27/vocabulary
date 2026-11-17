@@ -4011,6 +4011,17 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "flaws": { base: "flaw", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "kelemahan / cela / kecacatan" },
   "loving": { base: "love", category: "Continuous / Gerund (-ing)", meaning: "mencintai / mengasihi / suka" },
   "previously": { base: "previous", category: "Kata Terbitan Adverb (-ly)", meaning: "yang terdahulu / sebelum ini" },
+  "appreciative": { base: "appreciate", category: "Kata Terbitan Adjektif (-ive)", meaning: "menghargai / berterima kasih" },
+  "carbs": { base: "carb", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "karbohidrat" },
+  "eradicating": { base: "eradicate", category: "Continuous / Gerund (-ing)", meaning: "menghapuskan / membasmi" },
+  "healthiest": { base: "healthy", category: "Superlative Adjective (-est)", meaning: "paling sihat" },
+  "holistically": { base: "holistic", category: "Kata Terbitan Adverb (-ly)", meaning: "secara menyeluruh / holistik" },
+  "iftars": { base: "iftar", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "jamuan berbuka puasa" },
+  "nastiest": { base: "nasty", category: "Superlative Adjective (-est)", meaning: "paling jelik / menyakitkan" },
+  "prohibits": { base: "prohibit", category: "Present Tense (Singular -s)", meaning: "mengharamkan / melarang" },
+  "restraining": { base: "restrain", category: "Continuous / Gerund (-ing)", meaning: "menahan / mengekang" },
+  "swearing": { base: "swear", category: "Continuous / Gerund (-ing)", meaning: "mencarut / memaki-hamun" },
+  "utterances": { base: "utterance", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "ungkapan tutur kata" },
 };
 
 /**
