@@ -3971,6 +3971,12 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "prohibitions": { base: "prohibition", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "larangan-larangan" },
   "scored": { base: "score", category: "Past Tense (-ed)", meaning: "menjaringkan" },
   "wasted": { base: "waste", category: "Past Participle (-ed)", meaning: "mensia-siakan" },
+  "benefited": { base: "benefit", category: "Past Participle (-ed)", meaning: "beroleh manfaat" },
+  "fasts": { base: "fast", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "puasa-puasa" },
+  "misunderstandings": { base: "misunderstanding", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "perselisihan faham" },
+  "multiplies": { base: "multiply", category: "Third Person Singular (-s)", meaning: "melipatgandakan" },
+  "revised": { base: "revise", category: "Past Tense (-ed)", meaning: "menyemak semula" },
+  "rewards": { base: "reward", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "ganjaran pahala" },
 };
 
 /**

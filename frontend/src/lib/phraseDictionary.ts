@@ -2870,6 +2870,13 @@ export const phraseDictionary: Record<string, string> = {
   "night of decree": "malam kemuliaan (Lailatulqadar)",
   "penalty shootout": "penentuan sepakan penalti",
   "renew our intentions": "memperbaharui niat kita",
+  "build a habit": "membina rutin kebiasaan, amalan istiqamah",
+  "even nights": "malam-malam genap (22, 24, 26, 28, 30 Ramadan)",
+  "good cause": "jalan kebaikan, kebajikan fisabilillah",
+  "moon is sighted": "anak bulan kelihatan (tanda masuk bulan baharu)",
+  "odd nights": "malam-malam ganjil (21, 23, 25, 27, 29 Ramadan)",
+  "seeking laylatul qadr": "mencari dan memburu malam Lailatulqadar",
+  "voluntary fasts": "puasa-puasa sunat (di luar Ramadan)",
 };
 
 /**
