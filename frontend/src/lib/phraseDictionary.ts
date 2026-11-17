@@ -2877,6 +2877,14 @@ export const phraseDictionary: Record<string, string> = {
   "odd nights": "malam-malam ganjil (21, 23, 25, 27, 29 Ramadan)",
   "seeking laylatul qadr": "mencari dan memburu malam Lailatulqadar",
   "voluntary fasts": "puasa-puasa sunat (di luar Ramadan)",
+  "deeds are judged": "amalan dinilai mengikut pengakhirannya",
+  "double reward": "dua ganjaran pahala serentak",
+  "good news": "berita gembira, khabar gembira",
+  "lip sync": "menyelaraskan gerak bibir mengikut sebutan suara",
+  "listen to the quran": "mendengarkan bacaan al-Quran",
+  "remain consistent": "kekal istiqamah dan berterusan",
+  "set a goal": "menetapkan sasaran, matlamat amalan",
+  "spiritual burnout": "kelesuan rohani, keletihan emosi beribadah",
 };
 
 /**

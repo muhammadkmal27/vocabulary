@@ -3977,6 +3977,9 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "multiplies": { base: "multiply", category: "Third Person Singular (-s)", meaning: "melipatgandakan" },
   "revised": { base: "revise", category: "Past Tense (-ed)", meaning: "menyemak semula" },
   "rewards": { base: "reward", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "ganjaran pahala" },
+  "hospitalized": { base: "hospitalize", category: "Past Participle (-ed)", meaning: "memasukkan ke hospital" },
+  "mimicking": { base: "mimic", category: "Continuous / Gerund (-ing)", meaning: "meniru gaya atau sebutan" },
+  "reverts": { base: "revert", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "saudara baharu (mualaf)" },
 };
 
 /**
