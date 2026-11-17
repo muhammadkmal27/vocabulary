@@ -2885,6 +2885,22 @@ export const phraseDictionary: Record<string, string> = {
   "remain consistent": "kekal istiqamah dan berterusan",
   "set a goal": "menetapkan sasaran, matlamat amalan",
   "spiritual burnout": "kelesuan rohani, keletihan emosi beribadah",
+  "direct line": "talian terus / hubungan langsung",
+  "call out": "berdoa / merayu / memanggil",
+  "call out to": "berdoa merayu kepada",
+  "blessed life": "kehidupan yang diberkati",
+  "earn forgiveness": "meraih keampunan",
+  "act of worship": "amalan ibadah",
+  "cupped together": "menadah tangan rapat melengkung",
+  "most accepted": "paling mustajab / paling diterima",
+  "terminally ill": "mengidap penyakit kritikal / nazak",
+  "last third of the night": "sepertiga malam terakhir",
+  "last third": "sepertiga terakhir",
+  "break relations": "memutuskan hubungan kekeluargaan",
+  "ties of kinship": "tali silaturrahim / ikatan kekeluargaan",
+  "make amends": "memperbaiki hubungan / berdamai",
+  "on the right page": "sehaluan / menyelaraskan diri",
+  "skittle effect": "kesan susulan / domino effect",
 };
 
 /**

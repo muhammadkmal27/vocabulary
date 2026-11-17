@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **43 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA) = ✅ SIAP**
+> Video Siap Sedia di Web: **44 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M) = ✅ SIAP**
 
 ---
 
@@ -296,7 +296,7 @@
 | 36 | ✅ SIAP | GdxpXf9LUQY | The Power of the Last 10 Nights - Episode 1 - The Final Stretch - Mufti Menk |
 | 37 | ✅ SIAP | 2hS9znm69Us | Seeking Laylatul Qadr - Episode 2 - The Final Stretch - Mufti Menk |
 | 38 | ✅ SIAP | MuGN25xKrYA | Avoid Spiritual Burnout - Episode 3 - The Final Stretch - Mufti Menk |
-| 39 | ⬜ BELUM | 3XVWvBus08M | Dua: Your Direct Line to Allah - Episode 4 - The Final Stretch - Mufti Menk |
+| 39 | ✅ SIAP | 3XVWvBus08M | Dua: Your Direct Line to Allah - Episode 4 - The Final Stretch - Mufti Menk |
 | 40 | ⬜ BELUM | vtu7mc_hv4o | Wiping the Slate Clean - Tawbah & Istighfar - Episode 5 - The Final Stretch - Mufti Menk |
 | 41 | ⬜ BELUM | 7Nz-pDRDjVU | Giving Until it Hurts - Episode 6 - The Final Stretch - Mufti Menk |
 | 42 | ⬜ BELUM | Mto6kv1Vv9k | Balancing Worship, Work and Family - Episode 7 - The Final Stretch - Mufti Menk |

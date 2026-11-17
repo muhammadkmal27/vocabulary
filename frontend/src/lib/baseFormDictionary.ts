@@ -3980,6 +3980,13 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "hospitalized": { base: "hospitalize", category: "Past Participle (-ed)", meaning: "memasukkan ke hospital" },
   "mimicking": { base: "mimic", category: "Continuous / Gerund (-ing)", meaning: "meniru gaya atau sebutan" },
   "reverts": { base: "revert", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "saudara baharu (mualaf)" },
+  "binges": { base: "binge", category: "Kata Kerja Masa Kini / Jamak (-s)", meaning: "berfoya-foya secara berlebihan" },
+  "clocked": { base: "clock", category: "Past Tense (-ed)", meaning: "mengenai sasaran / mencatat" },
+  "cupped": { base: "cup", category: "Past Participle (-ed)", meaning: "merapatkan melengkung seperti mangkuk" },
+  "declaring": { base: "declare", category: "Continuous / Gerund (-ing)", meaning: "mengisytiharkan / mengikrarkan" },
+  "noted": { base: "note", category: "Past Tense / Participle (-ed)", meaning: "memperhatikan / mencatat" },
+  "salads": { base: "salad", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "sayur salad" },
+  "transgressed": { base: "transgress", category: "Past Tense (-ed)", meaning: "melanggar batas / melampaui syariat" },
 };
 
 /**
