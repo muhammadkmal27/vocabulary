@@ -295,7 +295,7 @@
 |---|---|---|---|
 | 36 | ✅ SIAP | GdxpXf9LUQY | The Power of the Last 10 Nights - Episode 1 - The Final Stretch - Mufti Menk |
 | 37 | ✅ SIAP | 2hS9znm69Us | Seeking Laylatul Qadr - Episode 2 - The Final Stretch - Mufti Menk |
-| 38 | ⬜ BELUM | MuGN25xKrYA | Avoid Spiritual Burnout - Episode 3 - The Final Stretch - Mufti Menk |
+| 38 | ✅ SIAP | MuGN25xKrYA | Avoid Spiritual Burnout - Episode 3 - The Final Stretch - Mufti Menk |
 | 39 | ⬜ BELUM | 3XVWvBus08M | Dua: Your Direct Line to Allah - Episode 4 - The Final Stretch - Mufti Menk |
 | 40 | ⬜ BELUM | vtu7mc_hv4o | Wiping the Slate Clean - Tawbah & Istighfar - Episode 5 - The Final Stretch - Mufti Menk |
 | 41 | ⬜ BELUM | 7Nz-pDRDjVU | Giving Until it Hurts - Episode 6 - The Final Stretch - Mufti Menk |
