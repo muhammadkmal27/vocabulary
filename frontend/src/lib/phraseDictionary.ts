@@ -2915,6 +2915,21 @@ export const phraseDictionary: Record<string, string> = {
   "born out of": "lahir daripada / berpunca daripada",
   "never go wrong": "tidak akan sesekali rugi / sentiasa benar",
   "open your doors": "membuka luas pintu-pintu (kebaikan/rezeki)",
+  "giving until it hurts": "memberi sehingga terasa pengorbanannya",
+  "close to your heart": "amat disayangi dan dekat di hati",
+  "put back": "melabur semula / menyuntik modal kembali",
+  "bring about": "menjana / mendatangkan hasil",
+  "voluntary will": "kehendak rela / amalan sukarela",
+  "acts of worship": "amalan ibadah",
+  "compulsory component": "komponen wajib (fardu)",
+  "prove your metal": "membuktikan kejituan jiwa dan ketabahan",
+  "closer to allah": "lebih dekat dan akrab kepada Allah",
+  "become liquid": "mencairkan aset demi mendapatkan tunai",
+  "son of adam": "anak Adam (umat manusia)",
+  "sound sleep": "tidur yang lena dan nyenyak",
+  "favors of allah": "nikmat-nikmat kurniaan Allah",
+  "humble yourself": "merendahkan hati / bersikap tawaduk",
+  "statement of gratitude": "ungkapan penghargaan / ucapan terima kasih",
 };
 
 /**

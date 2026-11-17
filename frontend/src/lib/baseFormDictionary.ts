@@ -3999,6 +3999,13 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "transgressing": { base: "transgress", category: "Continuous / Gerund (-ing)", meaning: "melampaui batas syariat" },
   "whisperings": { base: "whispering", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "bisikan waswas" },
   "worshippers": { base: "worshipper", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "hamba yang beribadah" },
+  "amassed": { base: "amass", category: "Past Tense (-ed)", meaning: "mengumpulkan / menghimpunkan" },
+  "billions": { base: "billion", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "bilion (angka)" },
+  "doubting": { base: "doubt", category: "Continuous / Gerund (-ing)", meaning: "meragui / menyangsikan" },
+  "figures": { base: "figure", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "angka perangkaan" },
+  "planting": { base: "plant", category: "Continuous / Gerund (-ing)", meaning: "menanam / menyemai" },
+  "profits": { base: "profit", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "keuntungan" },
+  "promising": { base: "promise", category: "Continuous / Gerund (-ing)", meaning: "menjanjikan" },
 };
 
 /**

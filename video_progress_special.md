@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **45 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M, vtu7mc_hv4o) = ✅ SIAP**
+> Video Siap Sedia di Web: **46 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M, vtu7mc_hv4o, 7Nz-pDRDjVU) = ✅ SIAP**
 
 ---
 
@@ -298,7 +298,7 @@
 | 38 | ✅ SIAP | MuGN25xKrYA | Avoid Spiritual Burnout - Episode 3 - The Final Stretch - Mufti Menk |
 | 39 | ✅ SIAP | 3XVWvBus08M | Dua: Your Direct Line to Allah - Episode 4 - The Final Stretch - Mufti Menk |
 | 40 | ✅ SIAP | vtu7mc_hv4o | Wiping the Slate Clean - Tawbah & Istighfar - Episode 5 - The Final Stretch - Mufti Menk |
-| 41 | ⬜ BELUM | 7Nz-pDRDjVU | Giving Until it Hurts - Episode 6 - The Final Stretch - Mufti Menk |
+| 41 | ✅ SIAP | 7Nz-pDRDjVU | Giving Until it Hurts - Episode 6 - The Final Stretch - Mufti Menk |
 | 42 | ⬜ BELUM | Mto6kv1Vv9k | Balancing Worship, Work and Family - Episode 7 - The Final Stretch - Mufti Menk |
 | 43 | ⬜ BELUM | EKYp-MiXXUs | The Most Powerful Dua for Laylatul Qadr - Episode 8 - The Final Stretch - Mufti Menk |
 | 44 | ⬜ BELUM | 5AQjsPpNDsw | Seeking Cure and Healing in Ramadan - Episode 9 - The Final Stretch - Mufti Menk |
