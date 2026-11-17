@@ -2944,6 +2944,19 @@ export const phraseDictionary: Record<string, string> = {
   "water and dates": "air dan kurma",
   "low gi": "indeks glisemik rendah (makanan lambat lapar)",
   "put into practice": "mempraktikkan / mengamalkannya",
+  "night of power": "malam al-Qadar / malam kemuliaan",
+  "on his deathbed": "di ranjang kematian / ketika saat nazak",
+  "do yourself a favor": "lakukan kebaikan untuk diri sendiri / bantulah dirimu",
+  "pay lip service": "sekadar manis di bibir / omong kosong tanpa amalan",
+  "thumbs up": "isyarat ibu jari / tanda pujian",
+  "pure as the day you were born": "suci bersih seperti hari dilahirkan ibu",
+  "human being": "manusia biasa / insan",
+  "eid shopping": "membeli-belah persiapan Hari Raya Aidilfitri",
+  "lose focus": "hilang tumpuan / terpesong fokus",
+  "love to forgive": "mencintai kemaafan / suka mengampunkan",
+  "most forgiving": "Maha Pengampun / Maha Pemaaf",
+  "the most powerful dua": "doa yang paling ampuh / agung",
+  "last statement": "ucapan terakhir",
 };
 
 /**

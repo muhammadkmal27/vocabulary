@@ -4008,6 +4008,9 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "promising": { base: "promise", category: "Continuous / Gerund (-ing)", meaning: "menjanjikan" },
   "navigating": { base: "navigate", category: "Continuous / Gerund (-ing)", meaning: "mengemudi / mengharungi" },
   "savories": { base: "savory", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "kuih atau snek berlauk" },
+  "flaws": { base: "flaw", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "kelemahan / cela / kecacatan" },
+  "loving": { base: "love", category: "Continuous / Gerund (-ing)", meaning: "mencintai / mengasihi / suka" },
+  "previously": { base: "previous", category: "Kata Terbitan Adverb (-ly)", meaning: "yang terdahulu / sebelum ini" },
 };
 
 /**
