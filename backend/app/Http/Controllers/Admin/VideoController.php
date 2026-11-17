@@ -175,6 +175,7 @@ class VideoController extends Controller
                         }
                     }
                     $text = trim(preg_replace('/\s+/', ' ', implode('', $textParts)));
+                    $text = trim(preg_replace('/\[.*?\]/', '', $text));
                     if (!empty($text)) {
                         $subtitleLines[] = [
                             'start_time' => round($startMs / 1000, 3),

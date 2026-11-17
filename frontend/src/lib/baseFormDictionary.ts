@@ -4022,6 +4022,16 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "restraining": { base: "restrain", category: "Continuous / Gerund (-ing)", meaning: "menahan / mengekang" },
   "swearing": { base: "swear", category: "Continuous / Gerund (-ing)", meaning: "mencarut / memaki-hamun" },
   "utterances": { base: "utterance", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "ungkapan tutur kata" },
+  "bothered": { base: "bother", category: "Past Tense (-ed)", meaning: "mengambil berat / mempedulikan" },
+  "broader": { base: "broad", category: "Comparative Adjective (-er)", meaning: "lebih luas / meluas" },
+  "detests": { base: "detest", category: "Present Tense (Singular -s)", meaning: "amat membenci / jijik" },
+  "enjoys": { base: "enjoy", category: "Present Tense (Singular -s)", meaning: "menikmati / menyukai" },
+  "expanded": { base: "expand", category: "Past Tense (-ed)", meaning: "memperluas / mengembangkan" },
+  "faulted": { base: "fault", category: "Past Tense (-ed)", meaning: "berbuat kesilapan / bersalah" },
+  "overlooked": { base: "overlook", category: "Past Tense (-ed)", meaning: "terlepas pandang / mengabaikan" },
+  "overslept": { base: "oversleep", category: "Past Tense (Irregular)", meaning: "terlajak tidur / terlena" },
+  "thursdays": { base: "thursday", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "hari Khamis" },
+  "worshiping": { base: "worship", category: "Continuous / Gerund (-ing)", meaning: "menyembah / beribadah" },
 };
 
 /**
