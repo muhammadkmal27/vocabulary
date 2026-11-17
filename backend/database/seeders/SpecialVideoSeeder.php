@@ -934,5 +934,6 @@ class SpecialVideoSeeder extends Seeder
         $this->call(SpecialVideo44Seeder::class); // Siri 3 Ep.04
         $this->call(SpecialVideo45Seeder::class); // Siri 3 Ep.05
         $this->call(SpecialVideo46Seeder::class); // Siri 3 Ep.06
+        $this->call(SpecialVideo47Seeder::class); // Siri 3 Ep.07
     }
 }

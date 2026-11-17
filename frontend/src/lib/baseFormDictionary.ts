@@ -4006,6 +4006,8 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "planting": { base: "plant", category: "Continuous / Gerund (-ing)", meaning: "menanam / menyemai" },
   "profits": { base: "profit", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "keuntungan" },
   "promising": { base: "promise", category: "Continuous / Gerund (-ing)", meaning: "menjanjikan" },
+  "navigating": { base: "navigate", category: "Continuous / Gerund (-ing)", meaning: "mengemudi / mengharungi" },
+  "savories": { base: "savory", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "kuih atau snek berlauk" },
 };
 
 /**

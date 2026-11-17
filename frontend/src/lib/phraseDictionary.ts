@@ -2930,6 +2930,20 @@ export const phraseDictionary: Record<string, string> = {
   "favors of allah": "nikmat-nikmat kurniaan Allah",
   "humble yourself": "merendahkan hati / bersikap tawaduk",
   "statement of gratitude": "ungkapan penghargaan / ucapan terima kasih",
+  "balancing worship, work and family": "mengimbangi ibadah, kerjaya, dan keluarga",
+  "strike the right balance": "mencapai keseimbangan yang tepat",
+  "strike the correct balance": "mencapai keseimbangan yang tepat",
+  "school run": "menghantar dan mengambil anak di sekolah",
+  "staying away from": "menahan diri daripada / menjauhi",
+  "fulfill their rights": "memenuhi hak-hak mereka",
+  "morsel of food": "sesuap makanan",
+  "looking after": "menjaga / menguruskan kebajikan",
+  "set aside": "memperuntukkan / mengkhususkan",
+  "immune system": "sistem imun tubuh",
+  "break your fast": "berbuka puasa",
+  "water and dates": "air dan kurma",
+  "low gi": "indeks glisemik rendah (makanan lambat lapar)",
+  "put into practice": "mempraktikkan / mengamalkannya",
 };
 
 /**
