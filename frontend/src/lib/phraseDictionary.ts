@@ -3004,6 +3004,22 @@ export const phraseDictionary: Record<string, string> = {
   "in every way": "dalam segenap aspek / dalam setiap sudut",
   "ma naqasa malun min sadaqah": "tidak berkurang harta kerana bersedekah",
   "anfiq yabna adama": "infakkanlah wahai anak Adam",
+  "all wealth belongs to allah": "segala harta kepunyaan Allah",
+  "alaihis salam": "'Alaihissalam (salam sejahtera ke atasnya)",
+  "the last one of us": "insan terakhir dalam kalangan kita",
+  "in our own lives": "dalam kehidupan kita sendiri",
+  "came in with nothing": "datang atau lahir tanpa membawa apa-apa",
+  "taking nothing behind": "tidak membawa apa-apa bersama",
+  "evidence enough": "bukti yang mencukupi / nyata",
+  "belongs to allah": "milik mutlak Allah",
+  "part of your test": "sebahagian daripada ujian anda",
+  "allah almighty's decision": "ketetapan Allah Yang Maha Berkuasa",
+  "earn your paradise": "meraih syurga anda",
+  "instructed you to do": "diperintahkan kepada anda untuk dilakukan",
+  "abstain from": "menjauhi / menahan diri daripada",
+  "use your wealth correctly": "memanfaatkan harta dengan betul",
+  "human beings": "manusia / umat manusia",
+  "right answers": "jawapan yang tepat",
 };
 
 /**

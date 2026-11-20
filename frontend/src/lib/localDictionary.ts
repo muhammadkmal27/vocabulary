@@ -8387,4 +8387,6 @@ export const localDictionary: Record<string, string> = {
   "alayk": "ke atasmu",
   "one's": "milik seseorang",
   "won't": "tidak akan",
+  "alaihis": "'Alaihis (ke atasnya / salam ke atasnya)",
+  "almighty's": "milik Yang Maha Berkuasa (Allah)",
 };
