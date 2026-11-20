@@ -4032,6 +4032,9 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "overslept": { base: "oversleep", category: "Past Tense (Irregular)", meaning: "terlajak tidur / terlena" },
   "thursdays": { base: "thursday", category: "Kata Nama Jamak (Plural -s/-es)", meaning: "hari Khamis" },
   "worshiping": { base: "worship", category: "Continuous / Gerund (-ing)", meaning: "menyembah / beribadah" },
+  "increases": { base: "increase", category: "Third Person Singular (-s)", meaning: "meningkat / bertambah" },
+  "sowing": { base: "sow", category: "Gerund / Present Participle (-ing)", meaning: "menyemai / menanam" },
+  "investing": { base: "invest", category: "Present Participle (-ing)", meaning: "melabur" },
 };
 
 /**

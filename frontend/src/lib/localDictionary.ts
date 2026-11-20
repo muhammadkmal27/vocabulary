@@ -8389,4 +8389,10 @@ export const localDictionary: Record<string, string> = {
   "won't": "tidak akan",
   "alaihis": "'Alaihis (ke atasnya / salam ke atasnya)",
   "almighty's": "milik Yang Maha Berkuasa (Allah)",
+  "germination": "percambahan (biji benih)",
+  "humongous": "sangat besar / luar biasa besarnya",
+  "increases": "meningkat / bertambah",
+  "investing": "melabur / membuat pelaburan",
+  "multiplication": "penggandaan / pendaraban ganjaran",
+  "you're": "anda sedang / anda adalah",
 };
