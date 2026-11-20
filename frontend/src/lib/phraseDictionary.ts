@@ -2996,6 +2996,14 @@ export const phraseDictionary: Record<string, string> = {
   "sweetness of zakat": "kelazatan berzakat dan bersedekah",
   "sweetness of your shahada": "kemanisan kalimah syahadah",
   "one after the other": "secara berturut-turut / bersambung-sambung",
+  "the more you give the more you get": "semakin banyak anda memberi, semakin banyak anda beroleh",
+  "the other way around": "sebaliknya / berlawanan daripada sangkaan",
+  "think to yourself": "berfikir dalam hati / menanam keyakinan diri",
+  "circle and the cycle": "kitaran dan lingkaran keberkatan rezeki",
+  "come to our attention": "sampai ke pengetahuan kita / menarik perhatian kita",
+  "in every way": "dalam segenap aspek / dalam setiap sudut",
+  "ma naqasa malun min sadaqah": "tidak berkurang harta kerana bersedekah",
+  "anfiq yabna adama": "infakkanlah wahai anak Adam",
 };
 
 /**
