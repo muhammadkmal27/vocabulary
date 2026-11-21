@@ -3044,6 +3044,23 @@ export const phraseDictionary: Record<string, string> = {
   "gives the same example": "memberikan perumpamaan yang serupa",
   "in the quran": "di dalam al-Quran",
   "investing with allah": "melabur bersama Allah",
+  "resolving disputes": "mendamaikan dan menyelesaikan persengketaan",
+  "go out of our way": "berusaha sedaya upaya bersungguh-sungguh",
+  "sibling rivalry": "persaingan antara adik-beradik",
+  "husband and wife": "suami dan isteri",
+  "snowball effect": "kesan bergolek yang semakin membesar",
+  "the sooner the better": "lagi cepat lagi bagus",
+  "two-way thing": "hubungan dua hala yang saling memerlukan",
+  "last resort": "jalan ikhtiar yang terakhir",
+  "wash your linen in public": "menjaja aib atau pekung rumah tangga di khalayak ramai",
+  "free play": "kelonggaran / ruang tolak ansur",
+  "once bitten twice shy": "sekali terkena, dua kali beringat",
+  "by hook or by crook": "dengan apa jua cara sekalipun",
+  "quality of life": "mutu dan kualiti kehidupan",
+  "take someone to task": "mengambil tindakan tegas terhadap seseorang",
+  "common points": "titik persamaan",
+  "control your tongue": "mengawal tutur kata / menjaga lidah",
+  "held accountable": "dipertanggungjawabkan / dihisab",
 };
 
 /**

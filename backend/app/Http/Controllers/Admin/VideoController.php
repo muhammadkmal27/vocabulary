@@ -101,6 +101,7 @@ class VideoController extends Controller
             'Mto6kv1Vv9k' => 'h8ip28IAQvY',
             'EKYp-MiXXUs' => '2hCqnbo8vEs',
             '5AQjsPpNDsw' => 'LVCKwgPduVw',
+            'PYbU9cRrtFc' => '5SCimpKsK5E',
         ];
         $fetchId = $mirrorMap[$youtubeVideoId] ?? $youtubeVideoId;
 

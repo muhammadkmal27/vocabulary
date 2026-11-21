@@ -4035,6 +4035,16 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "increases": { base: "increase", category: "Third Person Singular (-s)", meaning: "meningkat / bertambah" },
   "sowing": { base: "sow", category: "Gerund / Present Participle (-ing)", meaning: "menyemai / menanam" },
   "investing": { base: "invest", category: "Present Participle (-ing)", meaning: "melabur" },
+  "acted": { base: "act", category: "Past Tense (V2 / -ed)", meaning: "telah bertindak / berkelakuan" },
+  "bullies": { base: "bully", category: "Third Person Singular (-s/-ies)", meaning: "membuli / mengusik" },
+  "divorced": { base: "divorce", category: "Past Participle (-ed)", meaning: "bercerai / menceraikan" },
+  "repairs": { base: "repair", category: "Kata Nama Jamak (Plural -s)", meaning: "kerja-kerja pembaikan" },
+  "squabbles": { base: "squabble", category: "Kata Nama Jamak (Plural -s)", meaning: "pertengkaran / perbalahan kecil" },
+  "stabbed": { base: "stab", category: "Past Tense / Participle (-ed)", meaning: "menikam / mengkhianati" },
+  "swayed": { base: "sway", category: "Past Tense (-ed)", meaning: "memusingkan / menghayun" },
+  "stole": { base: "steal", category: "Past Tense (Irregular V2)", meaning: "telah mencuri" },
+  "aunts": { base: "aunt", category: "Kata Nama Jamak (Plural -s)", meaning: "ibu saudara / makcik" },
+  "kidneys": { base: "kidney", category: "Kata Nama Jamak (Plural -s)", meaning: "buah pinggang" },
 };
 
 /**
