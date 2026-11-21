@@ -3080,6 +3080,23 @@ export const phraseDictionary: Record<string, string> = {
   "turn away from": "berpaling daripada / meninggalkan",
   "walk in the park": "mudah sekali / bersiar-siar di taman",
   "young at heart": "berjiwa muda",
+  "despondent": "putus asa dan murung",
+  "left, right and center": "di mana-mana sahaja / dari segenap penjuru",
+  "take for granted": "ambil mudah / memandang enteng",
+  "took for granted": "telah mengambil mudah",
+  "best of both": "terbaik daripada kedua-duanya",
+  "role model": "suri teladan",
+  "leadership qualities": "sifat kepimpinan",
+  "born and orphaned": "lahir sebagai anak yatim",
+  "outshine everybody else": "bersinar mengatasi semua orang",
+  "comfort zone": "zon selesa",
+  "facial recognition": "pengecaman wajah",
+  "beauty lies in the eyes of the beholder": "kecantikan terletak pada mata yang memandang",
+  "one man's meat is another man's poison": "selera orang berbeza-beza / apa yang disukai seorang mungkin dibenci orang lain",
+  "coping mechanism": "mekanisme daya tindak menghadapi tekanan",
+  "keep it moving": "teruskan melangkah ke hadapan",
+  "turn to allah": "kembali dan bertaubat kepada Allah",
+  "source of distress": "punca keresahan / penderitaan",
 };
 
 /**

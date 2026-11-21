@@ -4059,6 +4059,17 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "receivers": { base: "receiver", category: "Kata Nama Jamak (Plural -s)", meaning: "para penerima" },
   "revelations": { base: "revelation", category: "Kata Nama Jamak (Plural -s)", meaning: "wahyu-wahyu" },
   "temperatures": { base: "temperature", category: "Kata Nama Jamak (Plural -s)", meaning: "suhu-suhu" },
+  "despondent": { base: "despond", category: "Adjective (-ent)", meaning: "putus asa / murung" },
+  "impregnated": { base: "impregnate", category: "Past Participle (V3)", meaning: "mengandungkan" },
+  "pre-deceased": { base: "pre-decease", category: "Past Tense (V2)", meaning: "meninggal dunia terlebih dahulu" },
+  "frightened": { base: "frighten", category: "Past Participle (V3)", meaning: "ketakutan / cemas" },
+  "perceives": { base: "perceive", category: "Kata Kerja Present (-s/-es)", meaning: "menganggap / memandang" },
+  "boycotted": { base: "boycott", category: "Past Tense (V2)", meaning: "memboikot / memulaukan" },
+  "derogatory": { base: "derogate", category: "Adjective (-ory)", meaning: "menghina / merendahkan martabat" },
+  "disparity": { base: "disparity", category: "Kata Nama (Noun)", meaning: "jurang perbezaan" },
+  "steadfast": { base: "steadfast", category: "Adjective", meaning: "teguh / istiqamah" },
+  "accusing": { base: "accuse", category: "Continuous / Gerund (-ing)", meaning: "menuduh" },
+  "financing": { base: "finance", category: "Continuous / Gerund (-ing)", meaning: "membiayai" },
 };
 
 /**
