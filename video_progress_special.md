@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **51 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M, vtu7mc_hv4o, 7Nz-pDRDjVU, Mto6kv1Vv9k, EKYp-MiXXUs, 5AQjsPpNDsw, PG_4AyIrLzQ, PYbU9cRrtFc) = ✅ SIAP**
+> Video Siap Sedia di Web: **52 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M, vtu7mc_hv4o, 7Nz-pDRDjVU, Mto6kv1Vv9k, EKYp-MiXXUs, 5AQjsPpNDsw, PG_4AyIrLzQ, PYbU9cRrtFc, bxQEtrhjuXo) = ✅ SIAP**
 
 ---
 
@@ -326,7 +326,7 @@
 | 49 | ✅ SIAP | xxzQDuyjWj4 | Special Talk on the Favours of Allah - Zimbabwe - Mufti Menk |
 | 50 | ✅ SIAP | uZT3McCJHzQ | The Ummah Can’t Heal Without This One Thing \| Mufti Menk |
 | 51 | ✅ SIAP | 6rXG_fPTbl8 | Allah Knows What's in Your Heart, But… \| Mufti Menk - Aberdeen \| 2014 |
-| 52 | ⬜ BELUM | bxQEtrhjuXo | Don't Lose Faith \| Mufti Menk - Dundee \| 2014 |
+| 52 | ✅ SIAP | bxQEtrhjuXo | Don't Lose Faith \| Mufti Menk - Dundee \| 2026 |
 | 53 | ⬜ BELUM | gMc0jRygktg | Ease Comes After Hardship \| Mufti Menk - Perth \| 2014 |
 | 54 | ⬜ BELUM | fEif1GIWhFg | Just One Piece of Advice \| Mufti Menk - Lanarkshire \| 2014 |
 | 55 | ⬜ BELUM | wXZxTkGD_YQ | Are the Men of Glasgow the Most Handsome? \| Mufti Menk - Cumbernauld \| 2014 |

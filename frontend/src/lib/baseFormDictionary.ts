@@ -4045,6 +4045,20 @@ export const baseFormDictionary: Record<string, BaseFormInfo> = {
   "stole": { base: "steal", category: "Past Tense (Irregular V2)", meaning: "telah mencuri" },
   "aunts": { base: "aunt", category: "Kata Nama Jamak (Plural -s)", meaning: "ibu saudara / makcik" },
   "kidneys": { base: "kidney", category: "Kata Nama Jamak (Plural -s)", meaning: "buah pinggang" },
+  "colder": { base: "cold", category: "Comparative (-er)", meaning: "lebih sejuk" },
+  "coldest": { base: "cold", category: "Superlative (-est)", meaning: "paling sejuk" },
+  "crimes": { base: "crime", category: "Kata Nama Jamak (Plural -s)", meaning: "jenayah-jenayah" },
+  "ethnicities": { base: "ethnicity", category: "Kata Nama Jamak (Plural -ies)", meaning: "kepelbagaian kaum / etnik" },
+  "extremes": { base: "extreme", category: "Kata Nama Jamak (Plural -s)", meaning: "keadaan-keadaan ekstrem" },
+  "fabricated": { base: "fabricate", category: "Past Tense / Participle (-ed)", meaning: "mereka-reka / memalsukan" },
+  "givers": { base: "giver", category: "Kata Nama Jamak (Plural -s)", meaning: "para pemberi" },
+  "jailed": { base: "jail", category: "Past Tense (-ed)", meaning: "telah dipenjarakan" },
+  "lineages": { base: "lineage", category: "Kata Nama Jamak (Plural -s)", meaning: "jurai keturunan" },
+  "misconstrued": { base: "misconstrue", category: "Past Tense / Participle (-ed)", meaning: "salah ditafsirkan" },
+  "proclaimed": { base: "proclaim", category: "Past Tense (-ed)", meaning: "telah mengisytiharkan" },
+  "receivers": { base: "receiver", category: "Kata Nama Jamak (Plural -s)", meaning: "para penerima" },
+  "revelations": { base: "revelation", category: "Kata Nama Jamak (Plural -s)", meaning: "wahyu-wahyu" },
+  "temperatures": { base: "temperature", category: "Kata Nama Jamak (Plural -s)", meaning: "suhu-suhu" },
 };
 
 /**

@@ -939,5 +939,6 @@ class SpecialVideoSeeder extends Seeder
         $this->call(SpecialVideo49Seeder::class); // Siri 3 Ep.09
         $this->call(SpecialVideo50Seeder::class); // Siri 3 Ep.10
         $this->call(SpecialVideo51Seeder::class); // Ceramah Pilihan: Why Make Peace?
+        $this->call(SpecialVideo52Seeder::class); // Ceramah Pilihan: Don't Lose Faith - Dundee
     }
 }
