@@ -2,7 +2,7 @@
 
 > Saluran YouTube Rasmi: **[@muftimenkofficial](https://www.youtube.com/@muftimenkofficial)** (Mufti Menk)
 > Liputan Tempoh: **Tahun 2026 & 2025**
-> Video Siap Sedia di Web: **53 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M, vtu7mc_hv4o, 7Nz-pDRDjVU, Mto6kv1Vv9k, EKYp-MiXXUs, 5AQjsPpNDsw, PG_4AyIrLzQ, 3OlR7bb7uOw, yp-oI-4zPzE, ve7wVZ34rL4) = ✅ SIAP**
+> Video Siap Sedia di Web: **50 Video (L6QE6Vp7Oa4, Ivb_Nnop4xs, xxzQDuyjWj4, uZT3McCJHzQ, 6rXG_fPTbl8, PH61HNWHCyU, VgHWqe0ltxs, kzIu3hrdqRM, Vdug1pNex54, xUqhH8gHdJw, 6M-NQKRdNuM, l1Zwj51KF9g, ntv3dJv8wqQ, qMmn1Lqh95M, butrsoKNPz4, EiuTxK2MbAo, KrzPe8NrRd4, qWubL2TGPlc, cRmeK1tKuiY, fH49JET37eY, 6MEIPR3f4u0, OTwmuzD-n2w, dsQkLDtVy4Q, Je-6cTCJtwM, SNmETUE2GFA, nFfMy76PfIc, EuyDY1bKkpk, FwbSkCofNA4, Ay8sLvO2jGQ, mu0BjJXXExY, TsjC5a7AwYU, 1JCCeBE81WQ, LZPqtScwpJQ, ziRT5GhtgvY, Ie8ebDeH7ck, 7pwXrrBg3Hw, TG9SrLECiBE, MjBmrgGibp8, xs_8xmFqRJ4, -geIvYlfJFE, GdxpXf9LUQY, 2hS9znm69Us, MuGN25xKrYA, 3XVWvBus08M, vtu7mc_hv4o, 7Nz-pDRDjVU, Mto6kv1Vv9k, EKYp-MiXXUs, 5AQjsPpNDsw, PG_4AyIrLzQ) = ✅ SIAP**
 
 ---
 
@@ -233,6 +233,18 @@
 | 219 | 232OdHQo8gk | The Angels Run Away #muftimenk #muslim #islam #allah #motivation #peace #love #angel #unity #heart | 📱 Video Short (62s) |
 | 220 | hPNd6uM1jkc | Don't Insult a Sinner #muftimenk #muslim #islam #quran #motivation #black #life #bad #words #respect | 📱 Video Short (86s) |
 | 221 | UAPK43YVAx8 | This May Be Your Last Day #muftimenk #muslim #islam #quran #motivation #day #speech #final #death | 📱 Video Short (74s) |
+| 222 | 3OlR7bb7uOw | Mufti Menk - Ramadan Reflections - Ep1 The More You Give the More You Get | 📱 Video Pendek (Reflections ~1 min) |
+| 223 | yp-oI-4zPzE | Mufti Menk - Ramadan Reflections - Ep2 \| The Truth About Your Money | 📱 Video Pendek (Reflections ~1 min) |
+| 224 | ve7wVZ34rL4 | The Truth About Your Money \| Mufti Menk - Ramadan Reflections - Ep3 | 📱 Video Pendek (Reflections ~1 min) |
+| 225 | mSf_Sd9JrJY | Are You Fortunate Enough? Mufti Menk - Ramadan Reflections - Ep4 | 📱 Video Pendek (Reflections ~1 min) |
+| 226 | bofTEZj7qvc | Charity That Costs Nothing \| Mufti Menk - Ramadan Reflections - Ep5 | 📱 Video Pendek (Reflections ~1 min) |
+| 227 | z0DjOG6hNd8 | Help Others, Allah Helps You \| Mufti Menk - Ramadan Reflections - Ep6 | 📱 Video Pendek (Reflections ~1 min) |
+| 228 | TkQZvNv3B6E | The Cure for Loving Wealth \| Mufti Menk - Ramadan Reflections - Ep7 | 📱 Video Pendek (Reflections ~1 min) |
+| 229 | vUGmz7DiLLQ | Predestined Wealth VS Hard Work? \| Mufti Menk - Ramadan Reflections - Ep8 | 📱 Video Pendek (Reflections ~1 min) |
+| 230 | mQTQTOW78cc | Your Duty is More Than Paying Zakat \| Mufti Menk - Ramadan Reflections - Ep9 | 📱 Video Pendek (Reflections ~1 min) |
+| 231 | eD_vW53xwbU | This One Act Can Multiply Your Rewards \| Mufti Menk - Ramadan Reflections - Ep10 | 📱 Video Pendek (Reflections ~1 min) |
+| 232 | OPxVUoqOPoQ | What's Wealth Test? \| Mufti Menk - Ramadan Reflections - Ep11 | 📱 Video Pendek (Reflections ~1 min) |
+| 233 | J9H65enJzNk | Who Enters Jannah First? \| Mufti Menk - Ramadan Reflections - Ep12 | 📱 Video Pendek (Reflections ~1 min) |
 
 ---
 
@@ -304,157 +316,138 @@
 | 44 | ✅ SIAP | 5AQjsPpNDsw | Seeking Cure and Healing in Ramadan - Episode 9 - The Final Stretch - Mufti Menk |
 | 45 | ✅ SIAP | PG_4AyIrLzQ | Ending Ramadan with Gratitude - Episode 10 - The Final Stretch - Mufti Menk |
 
-### 💡 Siri 4: Ramadan Reflections 2025
-
-> *Disusun teratur bermula daripada Episod 1 hingga Episod 12*
-
-| # | Status | Video ID | Tajuk |
-|---|---|---|---|
-| 46 | ✅ SIAP | 3OlR7bb7uOw | Mufti Menk - Ramadan Reflections - Ep1 The More You Give the More You Get |
-| 47 | ✅ SIAP | yp-oI-4zPzE | Mufti Menk - Ramadan Reflections - Ep2 \| The Truth About Your Money |
-| 48 | ✅ SIAP | ve7wVZ34rL4 | The Truth About Your Money \| Mufti Menk - Ramadan Reflections - Ep3 |
-| 49 | ⬜ BELUM | mSf_Sd9JrJY | Are You Fortunate Enough? Mufti Menk - Ramadan Reflections - Ep4 |
-| 50 | ⬜ BELUM | bofTEZj7qvc | Charity That Costs Nothing \| Mufti Menk - Ramadan Reflections - Ep5 |
-| 51 | ⬜ BELUM | z0DjOG6hNd8 | Help Others, Allah Helps You \| Mufti Menk - Ramadan Reflections - Ep6 |
-| 52 | ⬜ BELUM | TkQZvNv3B6E | The Cure for Loving Wealth \| Mufti Menk - Ramadan Reflections - Ep7 |
-| 53 | ⬜ BELUM | vUGmz7DiLLQ | Predestined Wealth VS Hard Work? \| Mufti Menk - Ramadan Reflections - Ep8 |
-| 54 | ⬜ BELUM | mQTQTOW78cc | Your Duty is More Than Paying Zakat \| Mufti Menk - Ramadan Reflections - Ep9 |
-| 55 | ⬜ BELUM | eD_vW53xwbU | This One Act Can Multiply Your Rewards \| Mufti Menk - Ramadan Reflections - Ep10 |
-| 56 | ⬜ BELUM | OPxVUoqOPoQ | What's Wealth Test? \| Mufti Menk - Ramadan Reflections - Ep11 |
-| 57 | ⬜ BELUM | J9H65enJzNk | Who Enters Jannah First? \| Mufti Menk - Ramadan Reflections - Ep12 |
-
 ### 🎙️ Ceramah & Khutbah Pilihan (Tahun 2026 & 2025)
 
 | # | Status | Video ID | Tajuk |
 |---|---|---|---|
-| 58 | ⬜ BELUM | PYbU9cRrtFc | NEW \| Why Make Peace? Resolving your Disputes - Mufti Menk |
-| 59 | ✅ SIAP | L6QE6Vp7Oa4 | NEW \| Lessons from African Roads & Safari \| Mufti Menk - Cape Town |
-| 60 | ✅ SIAP | Ivb_Nnop4xs | Lessons from the Prophetic Household \| Mufti Menk \| Light Upon Light - Tanzania 2026 |
-| 61 | ✅ SIAP | xxzQDuyjWj4 | Special Talk on the Favours of Allah - Zimbabwe - Mufti Menk |
-| 62 | ✅ SIAP | uZT3McCJHzQ | The Ummah Can’t Heal Without This One Thing \| Mufti Menk |
-| 63 | ✅ SIAP | 6rXG_fPTbl8 | Allah Knows What's in Your Heart, But… \| Mufti Menk - Aberdeen \| 2026 |
-| 64 | ⬜ BELUM | bxQEtrhjuXo | Don't Lose Faith \| Mufti Menk - Dundee \| 2026 |
-| 65 | ⬜ BELUM | gMc0jRygktg | Ease Comes After Hardship \| Mufti Menk - Perth \| 2026 |
-| 66 | ⬜ BELUM | fEif1GIWhFg | Just One Piece of Advice \| Mufti Menk - Lanarkshire \| 2026 |
-| 67 | ⬜ BELUM | wXZxTkGD_YQ | Are the Men of Glasgow the Most Handsome? \| Mufti Menk - Cumbernauld \| 2026 |
-| 68 | ⬜ BELUM | UGCfxQCA93w | Is Roberto Carlos Muslim? \| Mufti Menk - Deswbury \| 2026 |
-| 69 | ⬜ BELUM | 0h77QfCMaBM | You Pay For What You Say - Mufti Menk \| 2026 |
-| 70 | ⬜ BELUM | aDL839zsgew | You Are Being Deceived \| Mufti Menk |
-| 71 | ⬜ BELUM | Zqg_ft2CSk4 | Solve Your Problems by Going Back to Basics - Mufti Menk |
-| 72 | ⬜ BELUM | xbZ_OYloyrc | Why Did Allah Do This? Mufti Menk - Will Spain Really Win? |
-| 73 | ⬜ BELUM | PcYeA9Oq72s | What Will Save You on the Day of Judgment? Mufti Menk |
-| 74 | ⬜ BELUM | q-eevdVUVWQ | ASHURA: The Lesson Most Muslims Miss - Mufti Menk |
-| 75 | ⬜ BELUM | _Dlqh6vUmko | NEW \| How 5 Days of Hajj Transforms You! \| Mufti Menk \| Zimbabwe - 2026 |
-| 76 | ⬜ BELUM | _8kbpEkI8mI | The Sacred Significance of Friday \| Mufti Menk |
-| 77 | ⬜ BELUM | iPVsf30l1_E | What I saw on Hajj - Dhul Hijjah \| Mufti Menk |
-| 78 | ⬜ BELUM | kBqcuemalG8 | What Can You Sacrifice? - Dhull-Hijjah \| Mufti Menk |
-| 79 | ⬜ BELUM | xTMOY9TNXOc | NEW \| Dhul Hijjah - Prepare For The Best 10 Days \| Mufti Menk |
-| 80 | ⬜ BELUM | pCHHIjavimk | The Story of Prophet Ibrahim (AS) \| Mufti Menk \| AI Visualised |
-| 81 | ⬜ BELUM | chfdisOVDP8 | How Hajj Began \| Mufti Menk \| AI Visualised |
-| 82 | ⬜ BELUM | Cnc5FPFtUgc | The Call to Goodness \| Jumuah Khutbah in Kuala Lumpur at IIUM 🇲🇾 \| Mufti Menk |
-| 83 | ⬜ BELUM | FHuxDWhaG1c | Emotional Taraweeh Recitation by Mufti Menk 😢 \| Birmingham 2026 |
-| 84 | ⬜ BELUM | wQChpA7E_5I | NEW \| Laylatul Qadr in London \| Mufti Menk |
-| 85 | ⬜ BELUM | Kvk-9ZjG8Ug | Agree to Disagree \| Mufti Menk \| Birmingham 2026 |
-| 86 | ⬜ BELUM | xpdTXkUa6sA | The FRAGMENTED Ummah \| Mufti Menk \| London 2026 |
-| 87 | ⬜ BELUM | Fsy2AQYlvS8 | How Hardship Comes With Ease! \| Mufti Menk \| London - Excel 02 |
-| 88 | ⬜ BELUM | r_4UK9cj4eA | NEW \| How to ask Allah \| Mufti Menk \| London Excel - Light Upon Light |
-| 89 | ⬜ BELUM | Gm4VfyGL5ic | NEW \| They Deceived You \| The Age of AI \| Mufti Menk \| Leeds |
-| 90 | ⬜ BELUM | G5R5a3e6SsM | NEW\| Preparing for The Scales of Justice \| Mufti Menk \| Belfast |
-| 91 | ⬜ BELUM | NBPBSLr5j5E | NEW \| Reflection & Self Improvement \| Mufti Menk \| Manchester 2025 |
-| 92 | ⬜ BELUM | wFzUSfYoF2k | Guaranteed Ease During Hardship - Faith, Prayer and Action - Mufti Menk |
-| 93 | ⬜ BELUM | w8G2piyhNlY | B+ \| Jumu'ah Talk \| Mufti Menk |
-| 94 | ⬜ BELUM | jUbDqie4p3E | When Gratitude Becomes Your Superpower \| Mufti Menk \| Hong Kong - 2025 |
-| 95 | ⬜ BELUM | i8Vpn_L9X0Q | Stop Complaining, Start Living \| Mufti Menk \| Hong Kong 2025 |
-| 96 | ⬜ BELUM | Cg656R3kY4Y | Podcast \| Mufti Menk's Hajj Experience after 24 years! Nusuk System and more... |
-| 97 | ⬜ BELUM | -qWRfVqhR6s | POV: MUFTI MENK DOESN'T SPEAK ON THE GENOCIDE? |
-| 98 | ⬜ BELUM | Y9PPG6DBnpM | How The Impossible Actually Happened! - A lesson in Hope, Conviction & Effort - Mufti Menk |
-| 99 | ⬜ BELUM | bpVXXvnDtNA | Don't Go to Hell! Go to Heaven! - Mufti Menk in Birmingham |
-| 100 | ⬜ BELUM | k65lzGUI1M0 | NEW \| The disease of I'M BETTER THAN HIM - Mufti Menk in Cardiff |
-| 101 | ⬜ BELUM | 2WY3UpzsBNk | NEW \| The Ummah is Bleeding - Mufti Menk in Liverpool |
-| 102 | ⬜ BELUM | PRkkBaGXXKY | No. I didn't remove him, i didn't call the cops on him. I didn't mock at him, I didn't joke. |
-| 103 | ⬜ BELUM | vPJvf9-RklY | NEW \| Don't yell at people! - Mufti Menk in Sheffield - Full Lecture |
-| 104 | ⬜ BELUM | O1kR9d634kw | NEW \| Are you ready for Marriage? Mufti Menk |
-| 105 | ⬜ BELUM | FI9I6KX8KQw | How, Why and When should I trust Allah? Mufti Menk |
-| 106 | ⬜ BELUM | _w0DHOfEXZI | NEW \| Will you forgive or just want to be forgiven? Mufti Menk - Light Upon Light Manchester |
-| 107 | ⬜ BELUM | nfDc44I_X7M | How to get Platinum Status FQTV \| Mufti Menk |
-| 108 | ⬜ BELUM | F2PcRShLa0E | Frequency of Pillars of Islam  Mufti Menk at Kuching Sarawak |
-| 109 | ⬜ BELUM | edt-9YzERk4 | The Quranic Circle of Life - Mufti Menk |
-| 110 | ⬜ BELUM | Gv1nvilUchk | NEW \| Halal Food & Prayer Room in a Casino - Mufti Menk |
-| 111 | ⬜ BELUM | UhYivzlRp0M | Unity Among Muslims During Hajj \| Mufti Menk |
-| 112 | ⬜ BELUM | AeWnfxzHbEk | What Can You Sacrifice For Allah \| Mufti Menk |
-| 113 | ⬜ BELUM | 5j4xm3DMAZE | What I Saw on Hajj 2025 \| Mufti Menk |
-| 114 | ⬜ BELUM | tLORA64DZA0 | Why ALL Muslims Should Have an Islamic Will |
-| 115 | ⬜ BELUM | LdVyP-YU1fk | Mufti Menk - Lessons from Hajj 2025 |
-| 116 | ⬜ BELUM | L8sOk9rDckA | Tour of Mina with Mufti Menk \| Hajj |
-| 117 | ⬜ BELUM | ZG_QKhUJziU | An overview of the Days of Hajj  -  narrated by Mufti Menk |
-| 118 | ⬜ BELUM | u0ea-KdSEGc | Connecting Hearts With Allah \| Mufti Menk \| Dhul Hijjah Reflections |
-| 119 | ⬜ BELUM | 3miZzsoW6Q4 | Pay Your Workers in Full \| Mufti Menk |
-| 120 | ⬜ BELUM | k1D3yHrJ8fo | We are Generation Riba. $315T in debt. Wahed is building a fair Riba-free future. Join www.wahed.com |
-| 121 | ⬜ BELUM | JR12UVlVPjw | Phases of Children \| Mufti Menk |
-| 122 | ⬜ BELUM | 8OXKM93okH4 | Miraculous Footprints and Footsteps of Ibrahim AS - Mufti Menk |
-| 123 | ⬜ BELUM | EpWECX_ZGAY | Healing Starts with Effort \| Mufti Menk |
-| 124 | ⬜ BELUM | Jb3TurcsmsA | Employer-Employee Relationship \| Mufti Menk |
-| 125 | ⬜ BELUM | UPgeOf7Ztjw | Praising Your Children \| Mufti Menk |
-| 126 | ⬜ BELUM | h0gEdRfGom4 | Health is a Gift \| Mufti Menk |
-| 127 | ⬜ BELUM | MaGNUNzhJmw | A Child Is a Gift \| Mufti Menk |
-| 128 | ⬜ BELUM | 3_TAFkmlenM | The Struggles of Reverts \| Mufti Menk |
-| 129 | ⬜ BELUM | pIKhbKpacBM | From the most commonly asked questions… |
-| 130 | ⬜ BELUM | oK3dyYiK53U | NEW \| This is your VIP invitation - Mufti Menk in Mauritius 🇲🇺 |
-| 131 | ⬜ BELUM | QRl7Qw5ecFQ | NEW \| MAGIC! Protection & Cure - Mufti Menk |
-| 132 | ⬜ BELUM | 5OwWxywYKwA | NEW \| We're in Pain - Mufti Menk |
-| 133 | ⬜ BELUM | j_NsXgPUIEQ | Mufti Menk's Eid Message - The Final Stretch |
-| 134 | ⬜ BELUM | Qm7jX2LbYds | Prayers Not Answered \| Mufti Menk \| Ramadan 2025 |
-| 135 | ⬜ BELUM | v29_Gt8mGcY | Final Resolutions. Last Odd Night. Farewell to Ramadan. Mufti Menk |
-| 136 | ⬜ BELUM | xTkPD5z5p0s | Laylatul Qadr Qunoot by Mufti Menk |
-| 137 | ⬜ BELUM | fCWbfGNFAUE | Rumours, Slander & Hearsay \| Mufti Menk \| Ramadan 2025 |
-| 138 | ⬜ BELUM | X05C-kgPHo8 | Tonight's the Night! 27th Night at Light Upon Light - Mufti Menk |
-| 139 | ⬜ BELUM | PqYlXERUT_o | Cancel Culture \| Mufti Menk \| Ramadan 2025 |
-| 140 | ⬜ BELUM | Yk5u4FGWJpY | Loss Of Wealth & Life \| Mufti Menk \| Ramadan 2025 |
-| 141 | ⬜ BELUM | c7fiabuDXsU | Frustrating Situations \| Mufti Menk \| Ramadan 2025 |
-| 142 | ⬜ BELUM | p98hJp5hMik | Time Management \| Mufti Menk \| Ramadan 2025 |
-| 143 | ⬜ BELUM | J9Ob7-nYrMg | Sin of Comparison \| Mufti Menk \| Ramadan 2025 |
-| 144 | ⬜ BELUM | yDp-PTTZOzc | Emaan Through Difficulty \| Mufti Menk \| Ramadan 2025 |
-| 145 | ⬜ BELUM | GEujzPuIPuQ | Social Media Issues \| Mufti Menk \| Ramadan 2025 |
-| 146 | ⬜ BELUM | Pj6EZUSRngA | Haraam Relationships \| Mufti Menk \| Ramadan 2025 |
-| 147 | ⬜ BELUM | 0RaVy5k9DFk | Revert Issues \| Mufti Menk \| Ramadan 2025 |
-| 148 | ⬜ BELUM | rNidIGmVryg | Negative Mindset \| Mufti Menk \| Ramadan 2025 |
-| 149 | ⬜ BELUM | b0ZQvIYnRT0 | Our Youths' Future \| Mufti Menk \| Ramadan 2025 |
-| 150 | ⬜ BELUM | 0iHTqxttRQM | Establish Your Connection \| Mufti Menk \| Ramadan 2025 |
-| 151 | ⬜ BELUM | Zi5gxoLPzoI | Haters and Jealousy \| Mufti Menk \| Ramadan 2025 |
-| 152 | ⬜ BELUM | kNim2DS227s | Fix THIS Before It Ends \| Mufti Menk \| Ramadan 2025 |
-| 153 | ⬜ BELUM | 0l2hHqxS-0M | Dealing With Fear & Anxiety \| Mufti Menk \| Ramadan 2025 |
-| 154 | ⬜ BELUM | eiV8olVocsA | Allah Wants This From Us \| Mufti Menk \| Ramadan 2025 |
-| 155 | ⬜ BELUM | tDDQzf9e0eM | Adolescents \| Mufti Menk \| Ramadan 2025 |
-| 156 | ⬜ BELUM | fLeFdWfmxWg | Curing the Heart \| Mufti Menk \| Ramadan 2025 |
-| 157 | ⬜ BELUM | 3FMy7WU-Pks | Health Matters \| Mufti Menk \| Ramadan 2025 |
-| 158 | ⬜ BELUM | MtYBSsnTY9s | Should I Give to Charity \| Mufti Menk \| Ramadan 2025 |
-| 159 | ⬜ BELUM | MZDTuwMq4C8 | Workplace \| Mufti Menk \| Ramadan 2025 |
-| 160 | ⬜ BELUM | zEptl74X_D4 | Best Adhkar in Ramadan \| Mufti Menk \| Ramadan 2025 |
-| 161 | ⬜ BELUM | 146EXx2aouY | Reciting the Qur'an \| Mufti Menk \| Ramadan 2025 |
-| 162 | ⬜ BELUM | RhR8HtUbotw | No Second Chances \| Mufti Menk \| Ramadan 2025 |
-| 163 | ⬜ BELUM | D3mvqPNASqg | Dealing with Difficult Parents \| Mufti Menk \| Ramadan 2025 |
-| 164 | ⬜ BELUM | OyupTtxVpXM | Your Emotions, Control It! \| Mufti Menk \| Ramadan 2025 |
-| 165 | ⬜ BELUM | uTR6NGVHVUw | Spending \| Mufti Menk \| Ramadan 2025 |
-| 166 | ⬜ BELUM | eo30ZkeeznE | You're Not Shaytaan... Right? \| Mufti Menk \| Ramadan 2025 |
-| 167 | ⬜ BELUM | qfmy7jINjAs | Dubai - Ramadan 2025 - Find Allah! -  Mufti Menk |
-| 168 | ⬜ BELUM | 6b6o4QAvvwQ | Difficulty with Fasting? \| Mufti Menk \| Ramadan 2025 |
-| 169 | ⬜ BELUM | 5dEsX3DmXlQ | Power of the Qu'ran \| Mufti Menk \| Ramadan 2025 |
-| 170 | ⬜ BELUM | DnmwAj5t3gU | Prayer \| Mufti Menk \| Ramadan 2025 |
-| 171 | ⬜ BELUM | wMEbaeg69sE | You’re Not Racist...Right? \| Mufti Menk \| Ramadan 2025 |
-| 172 | ⬜ BELUM | klt2ArTuM0Q | Connecting with Allah \| Mufti Menk \| Ramadan 2025 |
-| 173 | ⬜ BELUM | 5MYdetEx0s8 | The Month of the Qur'an \| Mufti Menk \| Ramadan 2025 |
-| 174 | ⬜ BELUM | RMVELGJHqP4 | Feeling Unwell? It's Best to Avoid Fasting \| Mufti Menk \| Ramadan 2025 |
-| 175 | ⬜ BELUM | kx_en9Kxjgk | Seeking Help \| Mufti Menk \| Ramadan 2025 |
-| 176 | ⬜ BELUM | BQxogrYUxkU | Why Not Fast at Night? \| Mufti Menk \| Ramadan 2025 |
-| 177 | ⬜ BELUM | 5r44MKbHyAU | Watch Your Temper in Ramadan \| Mufti Menk \| Ramadan 2025 |
-| 178 | ⬜ BELUM | dzbF1D84YSk | Accidentally Ate in Ramadan? \| Mufti Menk \| Ramadan 2025 |
-| 179 | ⬜ BELUM | OJPCMpjEZ_E | Embracing Taqwa in Ramadan \| Mufti Menk \| Ramadan 2025 |
-| 180 | ⬜ BELUM | ufffdfz-Wqc | Make The Most of This Month! \| Ramadan Reminder 01 \| Mufti Menk |
-| 181 | ⬜ BELUM | FIg-P_8kL7A | Mufti Menk - Connect with the Prophet pbuh - Seerah Program |
-| 182 | ⬜ BELUM | zaPQFLFyCPU | If your Heart is broken listen to this message! Mufti Menk |
-| 183 | ⬜ BELUM | 8830_lTLEjY | NEW! Blessings from the beginning - Mufti Menk in Wembley - Light Upon Light |
-| 184 | ⬜ BELUM | mZ3Jc82kQXo | NEW-When the Poor pay for the Rich to Worship Allah \| Back to Basics \| Mufti Menk \| Light Upon Light |
-| 185 | ⬜ BELUM | SiIgVEHbJyo | He wants you to ponder - Light Upon Light - Mufti Menk \| Birmingham |
+| 46 | ⬜ BELUM | PYbU9cRrtFc | NEW \| Why Make Peace? Resolving your Disputes - Mufti Menk |
+| 47 | ✅ SIAP | L6QE6Vp7Oa4 | NEW \| Lessons from African Roads & Safari \| Mufti Menk - Cape Town |
+| 48 | ✅ SIAP | Ivb_Nnop4xs | Lessons from the Prophetic Household \| Mufti Menk \| Light Upon Light - Tanzania 2026 |
+| 49 | ✅ SIAP | xxzQDuyjWj4 | Special Talk on the Favours of Allah - Zimbabwe - Mufti Menk |
+| 50 | ✅ SIAP | uZT3McCJHzQ | The Ummah Can’t Heal Without This One Thing \| Mufti Menk |
+| 51 | ✅ SIAP | 6rXG_fPTbl8 | Allah Knows What's in Your Heart, But… \| Mufti Menk - Aberdeen \| 2014 |
+| 52 | ⬜ BELUM | bxQEtrhjuXo | Don't Lose Faith \| Mufti Menk - Dundee \| 2014 |
+| 53 | ⬜ BELUM | gMc0jRygktg | Ease Comes After Hardship \| Mufti Menk - Perth \| 2014 |
+| 54 | ⬜ BELUM | fEif1GIWhFg | Just One Piece of Advice \| Mufti Menk - Lanarkshire \| 2014 |
+| 55 | ⬜ BELUM | wXZxTkGD_YQ | Are the Men of Glasgow the Most Handsome? \| Mufti Menk - Cumbernauld \| 2014 |
+| 56 | ⬜ BELUM | UGCfxQCA93w | Is Roberto Carlos Muslim? \| Mufti Menk - Deswbury \| 2014 |
+| 57 | ⬜ BELUM | 0h77QfCMaBM | You Pay For What You Say - Mufti Menk \| 2014 |
+| 58 | ⬜ BELUM | aDL839zsgew | You Are Being Deceived \| Mufti Menk |
+| 59 | ⬜ BELUM | Zqg_ft2CSk4 | Solve Your Problems by Going Back to Basics - Mufti Menk |
+| 60 | ⬜ BELUM | xbZ_OYloyrc | Why Did Allah Do This? Mufti Menk - Will Spain Really Win? |
+| 61 | ⬜ BELUM | PcYeA9Oq72s | What Will Save You on the Day of Judgment? Mufti Menk |
+| 62 | ⬜ BELUM | q-eevdVUVWQ | ASHURA: The Lesson Most Muslims Miss - Mufti Menk |
+| 63 | ⬜ BELUM | _Dlqh6vUmko | NEW \| How 5 Days of Hajj Transforms You! \| Mufti Menk \| Zimbabwe - 2026 |
+| 64 | ⬜ BELUM | _8kbpEkI8mI | The Sacred Significance of Friday \| Mufti Menk |
+| 65 | ⬜ BELUM | iPVsf30l1_E | What I saw on Hajj - Dhul Hijjah \| Mufti Menk |
+| 66 | ⬜ BELUM | kBqcuemalG8 | What Can You Sacrifice? - Dhull-Hijjah \| Mufti Menk |
+| 67 | ⬜ BELUM | xTMOY9TNXOc | NEW \| Dhul Hijjah - Prepare For The Best 10 Days \| Mufti Menk |
+| 68 | ⬜ BELUM | pCHHIjavimk | The Story of Prophet Ibrahim (AS) \| Mufti Menk \| AI Visualised |
+| 69 | ⬜ BELUM | chfdisOVDP8 | How Hajj Began \| Mufti Menk \| AI Visualised |
+| 70 | ⬜ BELUM | Cnc5FPFtUgc | The Call to Goodness \| Jumuah Khutbah in Kuala Lumpur at IIUM 🇲🇾 \| Mufti Menk |
+| 71 | ⬜ BELUM | FHuxDWhaG1c | Emotional Taraweeh Recitation by Mufti Menk 😢 \| Birmingham 2026 |
+| 72 | ⬜ BELUM | wQChpA7E_5I | NEW \| Laylatul Qadr in London \| Mufti Menk |
+| 73 | ⬜ BELUM | Kvk-9ZjG8Ug | Agree to Disagree \| Mufti Menk \| Birmingham 2026 |
+| 74 | ⬜ BELUM | xpdTXkUa6sA | The FRAGMENTED Ummah \| Mufti Menk \| London 2026 |
+| 75 | ⬜ BELUM | Fsy2AQYlvS8 | How Hardship Comes With Ease! \| Mufti Menk \| London - Excel 02 |
+| 76 | ⬜ BELUM | r_4UK9cj4eA | NEW \| How to ask Allah \| Mufti Menk \| London Excel - Light Upon Light |
+| 77 | ⬜ BELUM | Gm4VfyGL5ic | NEW \| They Deceived You \| The Age of AI \| Mufti Menk \| Leeds |
+| 78 | ⬜ BELUM | G5R5a3e6SsM | NEW\| Preparing for The Scales of Justice \| Mufti Menk \| Belfast |
+| 79 | ⬜ BELUM | NBPBSLr5j5E | NEW \| Reflection & Self Improvement \| Mufti Menk \| Manchester 2025 |
+| 80 | ⬜ BELUM | wFzUSfYoF2k | Guaranteed Ease During Hardship - Faith, Prayer and Action - Mufti Menk |
+| 81 | ⬜ BELUM | w8G2piyhNlY | B+ \| Jumu'ah Talk \| Mufti Menk |
+| 82 | ⬜ BELUM | jUbDqie4p3E | When Gratitude Becomes Your Superpower \| Mufti Menk \| Hong Kong - 2025 |
+| 83 | ⬜ BELUM | i8Vpn_L9X0Q | Stop Complaining, Start Living \| Mufti Menk \| Hong Kong 2025 |
+| 84 | ⬜ BELUM | Cg656R3kY4Y | Podcast \| Mufti Menk's Hajj Experience after 24 years! Nusuk System and more... |
+| 85 | ⬜ BELUM | -qWRfVqhR6s | POV: MUFTI MENK DOESN'T SPEAK ON THE GENOCIDE? |
+| 86 | ⬜ BELUM | Y9PPG6DBnpM | How The Impossible Actually Happened! - A lesson in Hope, Conviction & Effort - Mufti Menk |
+| 87 | ⬜ BELUM | bpVXXvnDtNA | Don't Go to Hell! Go to Heaven! - Mufti Menk in Birmingham |
+| 88 | ⬜ BELUM | k65lzGUI1M0 | NEW \| The disease of I'M BETTER THAN HIM - Mufti Menk in Cardiff |
+| 89 | ⬜ BELUM | 2WY3UpzsBNk | NEW \| The Ummah is Bleeding - Mufti Menk in Liverpool |
+| 90 | ⬜ BELUM | PRkkBaGXXKY | No. I didn't remove him, i didn't call the cops on him. I didn't mock at him, I didn't joke. |
+| 91 | ⬜ BELUM | vPJvf9-RklY | NEW \| Don't yell at people! - Mufti Menk in Sheffield - Full Lecture |
+| 92 | ⬜ BELUM | O1kR9d634kw | NEW \| Are you ready for Marriage? Mufti Menk |
+| 93 | ⬜ BELUM | FI9I6KX8KQw | How, Why and When should I trust Allah? Mufti Menk |
+| 94 | ⬜ BELUM | _w0DHOfEXZI | NEW \| Will you forgive or just want to be forgiven? Mufti Menk - Light Upon Light Manchester |
+| 95 | ⬜ BELUM | nfDc44I_X7M | How to get Platinum Status FQTV \| Mufti Menk |
+| 96 | ⬜ BELUM | F2PcRShLa0E | Frequency of Pillars of Islam  Mufti Menk at Kuching Sarawak |
+| 97 | ⬜ BELUM | edt-9YzERk4 | The Quranic Circle of Life - Mufti Menk |
+| 98 | ⬜ BELUM | Gv1nvilUchk | NEW \| Halal Food & Prayer Room in a Casino - Mufti Menk |
+| 99 | ⬜ BELUM | UhYivzlRp0M | Unity Among Muslims During Hajj \| Mufti Menk |
+| 100 | ⬜ BELUM | AeWnfxzHbEk | What Can You Sacrifice For Allah \| Mufti Menk |
+| 101 | ⬜ BELUM | 5j4xm3DMAZE | What I Saw on Hajj 2025 \| Mufti Menk |
+| 102 | ⬜ BELUM | tLORA64DZA0 | Why ALL Muslims Should Have an Islamic Will |
+| 103 | ⬜ BELUM | LdVyP-YU1fk | Mufti Menk - Lessons from Hajj 2025 |
+| 104 | ⬜ BELUM | L8sOk9rDckA | Tour of Mina with Mufti Menk \| Hajj |
+| 105 | ⬜ BELUM | ZG_QKhUJziU | An overview of the Days of Hajj  -  narrated by Mufti Menk |
+| 106 | ⬜ BELUM | u0ea-KdSEGc | Connecting Hearts With Allah \| Mufti Menk \| Dhul Hijjah Reflections |
+| 107 | ⬜ BELUM | 3miZzsoW6Q4 | Pay Your Workers in Full \| Mufti Menk |
+| 108 | ⬜ BELUM | k1D3yHrJ8fo | We are Generation Riba. $315T in debt. Wahed is building a fair Riba-free future. Join www.wahed.com |
+| 109 | ⬜ BELUM | JR12UVlVPjw | Phases of Children \| Mufti Menk |
+| 110 | ⬜ BELUM | 8OXKM93okH4 | Miraculous Footprints and Footsteps of Ibrahim AS - Mufti Menk |
+| 111 | ⬜ BELUM | EpWECX_ZGAY | Healing Starts with Effort \| Mufti Menk |
+| 112 | ⬜ BELUM | Jb3TurcsmsA | Employer-Employee Relationship \| Mufti Menk |
+| 113 | ⬜ BELUM | UPgeOf7Ztjw | Praising Your Children \| Mufti Menk |
+| 114 | ⬜ BELUM | h0gEdRfGom4 | Health is a Gift \| Mufti Menk |
+| 115 | ⬜ BELUM | MaGNUNzhJmw | A Child Is a Gift \| Mufti Menk |
+| 116 | ⬜ BELUM | 3_TAFkmlenM | The Struggles of Reverts \| Mufti Menk |
+| 117 | ⬜ BELUM | pIKhbKpacBM | From the most commonly asked questions… |
+| 118 | ⬜ BELUM | oK3dyYiK53U | NEW \| This is your VIP invitation - Mufti Menk in Mauritius 🇲🇺 |
+| 119 | ⬜ BELUM | QRl7Qw5ecFQ | NEW \| MAGIC! Protection & Cure - Mufti Menk |
+| 120 | ⬜ BELUM | 5OwWxywYKwA | NEW \| We're in Pain - Mufti Menk |
+| 121 | ⬜ BELUM | j_NsXgPUIEQ | Mufti Menk's Eid Message - The Final Stretch |
+| 122 | ⬜ BELUM | Qm7jX2LbYds | Prayers Not Answered \| Mufti Menk \| Ramadan 2025 |
+| 123 | ⬜ BELUM | v29_Gt8mGcY | Final Resolutions. Last Odd Night. Farewell to Ramadan. Mufti Menk |
+| 124 | ⬜ BELUM | xTkPD5z5p0s | Laylatul Qadr Qunoot by Mufti Menk |
+| 125 | ⬜ BELUM | fCWbfGNFAUE | Rumours, Slander & Hearsay \| Mufti Menk \| Ramadan 2025 |
+| 126 | ⬜ BELUM | X05C-kgPHo8 | Tonight's the Night! 27th Night at Light Upon Light - Mufti Menk |
+| 127 | ⬜ BELUM | PqYlXERUT_o | Cancel Culture \| Mufti Menk \| Ramadan 2025 |
+| 128 | ⬜ BELUM | Yk5u4FGWJpY | Loss Of Wealth & Life \| Mufti Menk \| Ramadan 2025 |
+| 129 | ⬜ BELUM | c7fiabuDXsU | Frustrating Situations \| Mufti Menk \| Ramadan 2025 |
+| 130 | ⬜ BELUM | p98hJp5hMik | Time Management \| Mufti Menk \| Ramadan 2025 |
+| 131 | ⬜ BELUM | J9Ob7-nYrMg | Sin of Comparison \| Mufti Menk \| Ramadan 2025 |
+| 132 | ⬜ BELUM | yDp-PTTZOzc | Emaan Through Difficulty \| Mufti Menk \| Ramadan 2025 |
+| 133 | ⬜ BELUM | GEujzPuIPuQ | Social Media Issues \| Mufti Menk \| Ramadan 2025 |
+| 134 | ⬜ BELUM | Pj6EZUSRngA | Haraam Relationships \| Mufti Menk \| Ramadan 2025 |
+| 135 | ⬜ BELUM | 0RaVy5k9DFk | Revert Issues \| Mufti Menk \| Ramadan 2025 |
+| 136 | ⬜ BELUM | rNidIGmVryg | Negative Mindset \| Mufti Menk \| Ramadan 2025 |
+| 137 | ⬜ BELUM | b0ZQvIYnRT0 | Our Youths' Future \| Mufti Menk \| Ramadan 2025 |
+| 138 | ⬜ BELUM | 0iHTqxttRQM | Establish Your Connection \| Mufti Menk \| Ramadan 2025 |
+| 139 | ⬜ BELUM | Zi5gxoLPzoI | Haters and Jealousy \| Mufti Menk \| Ramadan 2025 |
+| 140 | ⬜ BELUM | kNim2DS227s | Fix THIS Before It Ends \| Mufti Menk \| Ramadan 2025 |
+| 141 | ⬜ BELUM | 0l2hHqxS-0M | Dealing With Fear & Anxiety \| Mufti Menk \| Ramadan 2025 |
+| 142 | ⬜ BELUM | eiV8olVocsA | Allah Wants This From Us \| Mufti Menk \| Ramadan 2025 |
+| 143 | ⬜ BELUM | tDDQzf9e0eM | Adolescents \| Mufti Menk \| Ramadan 2025 |
+| 144 | ⬜ BELUM | fLeFdWfmxWg | Curing the Heart \| Mufti Menk \| Ramadan 2025 |
+| 145 | ⬜ BELUM | 3FMy7WU-Pks | Health Matters \| Mufti Menk \| Ramadan 2025 |
+| 146 | ⬜ BELUM | MtYBSsnTY9s | Should I Give to Charity \| Mufti Menk \| Ramadan 2025 |
+| 147 | ⬜ BELUM | MZDTuwMq4C8 | Workplace \| Mufti Menk \| Ramadan 2025 |
+| 148 | ⬜ BELUM | zEptl74X_D4 | Best Adhkar in Ramadan \| Mufti Menk \| Ramadan 2025 |
+| 149 | ⬜ BELUM | 146EXx2aouY | Reciting the Qur'an \| Mufti Menk \| Ramadan 2025 |
+| 150 | ⬜ BELUM | RhR8HtUbotw | No Second Chances \| Mufti Menk \| Ramadan 2025 |
+| 151 | ⬜ BELUM | D3mvqPNASqg | Dealing with Difficult Parents \| Mufti Menk \| Ramadan 2025 |
+| 152 | ⬜ BELUM | OyupTtxVpXM | Your Emotions, Control It! \| Mufti Menk \| Ramadan 2025 |
+| 153 | ⬜ BELUM | uTR6NGVHVUw | Spending \| Mufti Menk \| Ramadan 2025 |
+| 154 | ⬜ BELUM | eo30ZkeeznE | You're Not Shaytaan... Right? \| Mufti Menk \| Ramadan 2025 |
+| 155 | ⬜ BELUM | qfmy7jINjAs | Dubai - Ramadan 2025 - Find Allah! -  Mufti Menk |
+| 156 | ⬜ BELUM | 6b6o4QAvvwQ | Difficulty with Fasting? \| Mufti Menk \| Ramadan 2025 |
+| 157 | ⬜ BELUM | 5dEsX3DmXlQ | Power of the Qu'ran \| Mufti Menk \| Ramadan 2025 |
+| 158 | ⬜ BELUM | DnmwAj5t3gU | Prayer \| Mufti Menk \| Ramadan 2025 |
+| 159 | ⬜ BELUM | wMEbaeg69sE | You’re Not Racist...Right? \| Mufti Menk \| Ramadan 2025 |
+| 160 | ⬜ BELUM | klt2ArTuM0Q | Connecting with Allah \| Mufti Menk \| Ramadan 2025 |
+| 161 | ⬜ BELUM | 5MYdetEx0s8 | The Month of the Qur'an \| Mufti Menk \| Ramadan 2025 |
+| 162 | ⬜ BELUM | RMVELGJHqP4 | Feeling Unwell? It's Best to Avoid Fasting \| Mufti Menk \| Ramadan 2025 |
+| 163 | ⬜ BELUM | kx_en9Kxjgk | Seeking Help \| Mufti Menk \| Ramadan 2025 |
+| 164 | ⬜ BELUM | BQxogrYUxkU | Why Not Fast at Night? \| Mufti Menk \| Ramadan 2025 |
+| 165 | ⬜ BELUM | 5r44MKbHyAU | Watch Your Temper in Ramadan \| Mufti Menk \| Ramadan 2025 |
+| 166 | ⬜ BELUM | dzbF1D84YSk | Accidentally Ate in Ramadan? \| Mufti Menk \| Ramadan 2025 |
+| 167 | ⬜ BELUM | OJPCMpjEZ_E | Embracing Taqwa in Ramadan \| Mufti Menk \| Ramadan 2025 |
+| 168 | ⬜ BELUM | ufffdfz-Wqc | Make The Most of This Month! \| Ramadan Reminder 01 \| Mufti Menk |
+| 169 | ⬜ BELUM | FIg-P_8kL7A | Mufti Menk - Connect with the Prophet pbuh - Seerah Program |
+| 170 | ⬜ BELUM | zaPQFLFyCPU | If your Heart is broken listen to this message! Mufti Menk |
+| 171 | ⬜ BELUM | 8830_lTLEjY | NEW! Blessings from the beginning - Mufti Menk in Wembley - Light Upon Light |
+| 172 | ⬜ BELUM | mZ3Jc82kQXo | NEW-When the Poor pay for the Rich to Worship Allah \| Back to Basics \| Mufti Menk \| Light Upon Light |
+| 173 | ⬜ BELUM | SiIgVEHbJyo | He wants you to ponder - Light Upon Light - Mufti Menk \| Birmingham |
 
 ---
 

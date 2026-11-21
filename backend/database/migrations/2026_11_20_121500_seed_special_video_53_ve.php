@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Database\Migrations\Migration;
-use Illuminate\Support\Facades\Artisan;
+use App\Models\YoutubeVideo;
+use App\Models\VideoSubtitle;
 
 return new class extends Migration
 {
@@ -10,11 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        // Jalankan seeder khusus untuk Video #53 (Siri 4: Ramadan Reflections 2025 - Episod 03 ve7wVZ34rL4: The Truth About Your Money | Mufti Menk - Ramadan Reflections - Ep3)
-        Artisan::call('db:seed', [
-            '--class' => 'Database\\Seeders\\SpecialVideo53Seeder',
-            '--force' => true,
-        ]);
+        // Dibatalkan: Video Siri 4 (ve7wVZ34rL4: Ep3 The Truth About Your Money) dipindahkan ke SKIP (klip pendek ~1 minit)
+        $video = YoutubeVideo::where('youtube_video_id', 've7wVZ34rL4')->first();
+        if ($video) {
+            VideoSubtitle::where('video_id', $video->id)->delete();
+            $video->delete();
+        }
     }
 
     /**
