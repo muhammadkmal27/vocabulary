@@ -6,6 +6,8 @@ use App\Models\Language;
 use App\Models\YoutubeVideo;
 use App\Models\VideoSubtitle;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Str;
 
 class SpecialVideo53Seeder extends Seeder
 {
@@ -359,15 +361,24 @@ class SpecialVideo53Seeder extends Seeder
             ['start_time' => 1989.16, 'end_time' => 1994.92, 'target_text' => 'wa barakah ala nabinam hamad wa sallamu alaykum wa rahmatullahi wa barakatuh', 'source_text' => 'wa baraka \'ala nabiyyina Muhammad, wa assalamu \'alaikum warahmatullahi wabarakatuh.', 'order' => 318],
         ];
 
-        foreach ($subtitles as $sub) {
-            VideoSubtitle::create([
-                'video_id'    => $video->id,
-                'start_time'  => $sub['start_time'],
-                'end_time'    => $sub['end_time'],
-                'target_text' => $sub['target_text'],
-                'source_text' => $sub['source_text'],
-                'order'       => $sub['order'],
-            ]);
+        $now = now();
+        $chunks = array_chunk($subtitles, 100);
+        foreach ($chunks as $chunk) {
+            $insertData = [];
+            foreach ($chunk as $item) {
+                $insertData[] = [
+                    'id'          => (string) Str::uuid(),
+                    'video_id'    => $video->id,
+                    'start_time'  => $item['start_time'],
+                    'end_time'    => $item['end_time'],
+                    'target_text' => $item['target_text'],
+                    'source_text' => $item['source_text'],
+                    'order'       => $item['order'],
+                    'created_at'  => $now,
+                    'updated_at'  => $now,
+                ];
+            }
+            DB::table('video_subtitles')->insert($insertData);
         }
     }
 }
